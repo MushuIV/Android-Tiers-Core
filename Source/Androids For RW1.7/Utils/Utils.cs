@@ -234,7 +234,11 @@ namespace MOARANDROIDS
         public static string[] ExceptionAndroidAnimals = new string[] { "AndroidMuff", "AndroidDog", "RoboticSheep", "RoboticCow", "AndroidChicken", "AndroidFox" }.GetSortedArray();
         public static HashSet<string> ExceptionAndroidListAll = new HashSet<string>();
 
-        public static HashSet<string> BlacklistAndroidHediff = new HashSet<string> { "VacuumDamageHediff", "ZeroGSickness", "SpaceHypoxia", "ClinicalDeathAsphyxiation", "ClinicalDeathNoHeartbeat", "FatalRad", "RimatomicsRadiation", "RadiationIncurable" };
+        public static HashSet<string> BlacklistAndroidHediff = new HashSet<string> { 
+            "VacuumExposure", "VacuumBurn", "GravNausea", "VolcanicAsh", "VacuumDamageHediff", "ZeroGSickness", "SpaceHypoxia", "ClinicalDeathAsphyxiation", "ClinicalDeathNoHeartbeat", "FatalRad", "RimatomicsRadiation", "RadiationIncurable",
+            "LungRotExposure", "LungRot", "ToxGasExposure", "FoodPoisoning", "SmokeInhalation", "ParalyticAbasia", "BloodRot",
+            "MetalhorrorImplantation", "BloodRage"
+        };
         public static string[] BlacklistMindTraits = new string[] { "NightOwl", "Insomniac", "Codependent", "HeavySleeper", "Polygamous", "Beauty", "Immunity" }.GetSortedArray();
         public static HashSet<string> BlacklistAndroidFood = new HashSet<string> { "SmokeleafJoint", "Yayo", "PsychiteTea", "Flake", "Penoxycyline", "Luciferium", "GoJuice", "Ambrosia", "Beer", "RC2_Coffee", "" };
 

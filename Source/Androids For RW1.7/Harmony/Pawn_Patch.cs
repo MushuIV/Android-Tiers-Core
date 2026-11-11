@@ -239,5 +239,50 @@ namespace MOARANDROIDS
                 }
             }
         }
+
+        [HarmonyPatch(typeof(Pawn), "get_HarmedByVacuum")]
+        public class get_HarmedByVacuum_Patch
+        {
+            [HarmonyPrefix]
+            public static bool Listener(Pawn __instance, ref bool __result)
+            {
+                if (__instance.IsAndroidTier())
+                {
+                    __result = false;
+                    return false;
+                }
+                return true;
+            }
+        }
+
+        [HarmonyPatch(typeof(Pawn), "get_ConcernedByVacuum")]
+        public class get_ConcernedByVacuum_Patch
+        {
+            [HarmonyPrefix]
+            public static bool Listener(Pawn __instance, ref bool __result)
+            {
+                if (__instance.IsAndroidTier())
+                {
+                    __result = false;
+                    return false;
+                }
+                return true;
+            }
+        }
+
+        [HarmonyPatch(typeof(VacuumUtility), "CanBeVacuumBurnt")]
+        public class CanBeVacuumBurnt_Patch
+        {
+            [HarmonyPrefix]
+            public static bool Listener(Pawn pawn, ref bool __result)
+            {
+                if (pawn.IsAndroidTier())
+                {
+                    __result = false;
+                    return false;
+                }
+                return true;
+            }
+        }
     }
 }

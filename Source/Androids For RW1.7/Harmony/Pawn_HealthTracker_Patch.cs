@@ -360,5 +360,17 @@ namespace MOARANDROIDS
                 }
             }
         }*/
+        [HarmonyPatch(typeof(Pawn_HealthTracker), "ShouldBeDeadFromRequiredCapacity")]
+        public class ShouldBeDeadFromRequiredCapacity_Patch
+        {
+            [HarmonyPostfix]
+            public static void Listener(Pawn_HealthTracker __instance, ref PawnCapacityDef __result, Pawn ___pawn)
+            {
+                if (__result == PawnCapacityDefOf.Breathing && ___pawn.IsAndroidTier())
+                {
+                    __result = null;
+                }
+            }
+        }
     }
 }

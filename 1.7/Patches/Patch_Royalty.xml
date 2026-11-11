@@ -1,12 +1,17 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<Patch>	
-	<Operation Class="PatchOperationAdd">
-	    <xpath>/Defs/FactionDef[defName="Empire"]/permanentEnemyToEveryoneExcept</xpath>
-		<success>Always</success>
-	    <value>
-	    	<li>PlayerColonyAndroid</li>
-			<li>AndroidFriendliesAtlas</li>
-			<li>AndroidTiers_PlayerColonyApocalypse</li>
-		</value>
-	</Operation>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Royalty</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/FactionDef[defName="Empire"]/permanentEnemyToEveryoneExcept</xpath>
+      <success>Always</success>
+      <value>
+        <li>PlayerColonyAndroid</li>
+        <li>AndroidFriendliesAtlas</li>
+        <li>AndroidTiers_PlayerColonyApocalypse</li>
+      </value>
+    </match>
+  </Operation>
 </Patch>
