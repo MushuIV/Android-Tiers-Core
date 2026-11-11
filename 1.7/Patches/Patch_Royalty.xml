@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>	
+	<Operation Class="PatchOperationAdd">
+	    <xpath>/Defs/FactionDef[defName="Empire"]/permanentEnemyToEveryoneExcept</xpath>
+		<success>Always</success>
+	    <value>
+	    	<li>PlayerColonyAndroid</li>
+			<li>AndroidFriendliesAtlas</li>
+			<li>AndroidTiers_PlayerColonyApocalypse</li>
+		</value>
+	</Operation>
+</Patch>
