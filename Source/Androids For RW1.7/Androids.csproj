@@ -21,7 +21,7 @@
 
   <ItemGroup>
     <Reference Include="AlienRace">
-      <HintPath>..\..\References\1.7\AlienRace.dll</HintPath>
+      <HintPath>..\..\..\References\1.7\AlienRace.dll</HintPath>
       <Private>false</Private>
     </Reference>
   </ItemGroup>
