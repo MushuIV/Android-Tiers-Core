@@ -52,7 +52,7 @@
 		<operations>
 		   <!-- VXX neural chip installations for modded humanoid alien races -->
 		   <li Class="PatchOperationAdd">
-			<xpath>Defs/AlienRace.ThingDef_AlienRace[defName != "Android1Tier" and defName != "Android2Tier" and defName != "Android3Tier" and defName != "Android4Tier" and defName != "Android5Tier" and defName != "AT_HellUnit"]/race[intelligence = "Humanlike"]/../recipes</xpath>
+			<xpath>Defs/AlienRace.ThingDef_AlienRace[defName != "Android1Tier" and defName != "Android2Tier" and defName != "Android3Tier" and defName != "Android4Tier" and defName != "Android5Tier" and defName != "AT_HellUnit" and not(starts-with(defName, 'ATPP_Android'))]/race[intelligence = "Humanlike"]/../recipes</xpath>
 			<value>
 			  <li>ATPP_InstallRXChip</li>
 			  <li>ATPP_InstallVX0Chip</li>

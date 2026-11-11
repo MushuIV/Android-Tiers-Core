@@ -34,6 +34,7 @@
 * 2 New Android Factions
 * 70 Android backstories
 * 5 Tiers of android
+* TX Series Infiltration Androids (TX2, TX2K, TX3, TX4 and infantry "I" variants)
 * 2 Mech and 5 Mech Weapons
 * 5 Robotic animals
 * AI Skycloud
@@ -77,6 +78,12 @@
 ![T5](https://i.imgur.com/vKCP9wl.png)<br/>
 (T5 Can only be obtained via the [A Strange Crash] Event)
 
+### TX Series Infiltration Androids
+Designed specifically for infiltration and high-hazard operations, TX Series androids (TX2, TX2K, TX3, TX4) feature modified exoskeletons covered with synthetic rubber skin or living tissues. This protects them from rust, improves social impact, and provides complete immunity to EMP and solar flares (though they are more flammable).
+
+* **Infantry "I" Variants (TX2I, TX2KI, TX3I, TX4I)**: Battlefield-refurbished models stripped of their outer skin. Deployed as terror infantry, inspiring dread in enemies due to their raw, skeletal robotic appearance.
+* **Questionable Ethics Enhanced (QEE) Integration**: When QEE is active, living-skin TX models can be grown inside organ/clone VATs onto crafted mechanical frames for a realistic bio-synthetic manufacturing process.
+
 **K-9**<br/>
 ![K-9](https://i.imgur.com/KTQWWFi.png)<br/>
 Summary: a very quick, strong cybernetic dog even without upgrades. Useful for quickly taking down attackers without sending colonists out.
@@ -110,8 +117,9 @@ Summary: every 2 days will dispense up to 5 capsules at once, these capsules con
 [Full list of changes](https://steamcommunity.com/sharedfiles/filedetails/changelog/1386412863)
 
 Special thanks to:
-Uplinked for helping write backstories. More info on him can be seen [HERE](uplinked.portfoliobox.net)
-[Trunken](https://steamcommunity.com/profiles/76561198095669661/myworkshopfiles?browsefilter=myfavorites&appid=294100) for making the workshop page look beautiful with his preview images.
+* CrackaJack: TX Android models art
+* Uplinked for helping write backstories. More info on him can be seen [HERE](uplinked.portfoliobox.net)
+* [Trunken](https://steamcommunity.com/profiles/76561198095669661/myworkshopfiles?browsefilter=myfavorites&appid=294100) for making the workshop page look beautiful with his preview images.
 
 
 ## Donations

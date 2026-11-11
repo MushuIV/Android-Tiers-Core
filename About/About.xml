@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Android tiers</name>
-  <author>Atlas, aRandomKiwi</author>
+  <author>Atlas, aRandomKiwi, CrackaJack</author>
   <supportedVersions>
 	<li>1.0</li>
 	<li>1.1</li>
@@ -35,7 +35,8 @@
    </loadAfter>
    
   <description><![CDATA[  
-- Adds 4 tiers of android along with an android doggo
+- Adds 5 tiers of standard android colonists along with android animals
+- Full integrated TX Series infiltration androids (TX2, TX2K, TX3, TX4 and infantry variants) with living skin and EMP/solar flare immunity
 - 2 new android factions
 - Allow to remotely control surrogate androids
 - Allow to digitize and store your colonists minds in supercomputers
