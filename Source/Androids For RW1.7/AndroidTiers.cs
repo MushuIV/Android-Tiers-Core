@@ -105,7 +105,9 @@ namespace MOARANDROIDS
                 Log.Message("[ATPP] Android Tiers Gynoids found");
             }
 
-            Assembly qee = AppDomain.CurrentDomain.GetAssemblies().FirstOrDefault((Assembly assembly) => assembly.FullName.ToLower().StartsWith("questionableethicsenhanced"));
+            Assembly qee = AppDomain.CurrentDomain.GetAssemblies().FirstOrDefault((Assembly assembly) => 
+                assembly.GetName().Name.Equals("QEthics", StringComparison.OrdinalIgnoreCase) 
+                || assembly.GetName().Name.StartsWith("questionableethicsenhanced", StringComparison.OrdinalIgnoreCase));
             if (qee != null)
             {
                 Utils.QEE_LOADED = true;

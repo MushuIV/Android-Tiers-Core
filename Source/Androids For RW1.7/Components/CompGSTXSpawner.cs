@@ -47,7 +47,7 @@ namespace MOARANDROIDS
                     {
                         pawnKind = "ATPP_Android2KTXKind";
                         gender = Gender.Female;
-                        source = "TX2K Surrogate";
+                        source = "TX2K";
                     }
                     else if (Spawnprops.GSThing == "ATPP_GS_TX3Male")
                     {
@@ -83,7 +83,7 @@ namespace MOARANDROIDS
 
                     baseThing.Field("isAlien").SetValue(true);
                     baseThing.Field("crownTypeAlien").SetValue("Average_Normal");
-                    baseThing.Field("bodyType").SetValue(BodyTypeDefOf.Male);
+                    baseThing.Field("bodyType").SetValue((gender == Gender.Female) ? BodyTypeDefOf.Female : BodyTypeDefOf.Male);
                     baseThing.Field("pawnKindDef").SetValue(DefDatabase<PawnKindDef>.GetNamed(pawnKind,false));
                     baseThing.Field("gender").SetValue(gender);
                     baseThing.Field("sourceName").SetValue(source);
