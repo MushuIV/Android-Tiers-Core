@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <PawnKindDef ParentName="BasePlayerPawnKind">
+		<defName>M7MechPawn</defName>
+		<label>M7 mech</label>
+		<race>M7Mech</race>
+		<combatPower>1000</combatPower>
+		<canArriveManhunter>false</canArriveManhunter>
+		<ecoSystemWeight>9999</ecoSystemWeight>
+		<backstoryFiltersOverride>
+			<li>
+				<categories>
+					<li>Mechdrop</li>
+				</categories>
+			</li>
+		</backstoryFiltersOverride>
+		<defaultFactionType>PlayerColony</defaultFactionType>
+		<aiAvoidCover>true</aiAvoidCover>
+		<weaponMoney>
+			<min>800</min>
+			<max>1200</max>
+		</weaponMoney>
+		<weaponTags>
+			<li>MechM7Gun</li>
+		</weaponTags>
+		<initialResistanceRange>13~21</initialResistanceRange>
+	</PawnKindDef>
+  <PawnKindDef ParentName="BasePlayerPawnKind">
+		<defName>M8MechPawn</defName>
+		<label>M8 mech</label>
+		<race>M8Mech</race>
+		<combatPower>1000</combatPower>
+		<canArriveManhunter>false</canArriveManhunter>
+		<ecoSystemWeight>9999</ecoSystemWeight>
+		<backstoryFiltersOverride>
+			<li>
+				<categories>
+					<li>Mech8drop</li>
+				</categories>
+			</li>
+		</backstoryFiltersOverride>
+		<defaultFactionType>PlayerColony</defaultFactionType>
+		<aiAvoidCover>true</aiAvoidCover>
+		<weaponTags>
+			<li>MechM7Gun</li>
+		</weaponTags>
+		<initialResistanceRange>13~21</initialResistanceRange>
+	</PawnKindDef>
+  <PawnKindDef ParentName="BasePlayerPawnKind">
+    <defName>MicroScyther</defName>
+    <label>Micro-Scyther</label>
+    <race>MicroScyther</race>
+		<canArriveManhunter>false</canArriveManhunter>
+		<ecoSystemWeight>9999</ecoSystemWeight>
+		<combatPower>1000</combatPower>
+		<backstoryCategories><li>Mechdrop</li></backstoryCategories>
+		<defaultFactionType>PlayerColony</defaultFactionType>
+    <lifeStages>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/NanoDrone/NanoDrone</texPath>
+          <drawSize>1.5</drawSize>
+          <shadowData>
+            <volume>(0.25, 0.3, 0.25)</volume>
+            <offset>(0,0,-0.15)</offset>
+          </shadowData>
+        </bodyGraphicData>
+      </li>
+
+    </lifeStages>
+  </PawnKindDef>
+</Defs>

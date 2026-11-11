@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <AlienRace.BackstoryDef>
+		<defName>ATPP_FactoryMade</defName>
+		<title>Factory made</title>
+		<titleShort>Mech</titleShort>
+		<baseDescription>{PAWN_nameDef} is a mechanized infantry, powerful war units that are unfortunately limited and can hardly do anything besides fighting due to his limited Neural Processing Unit (NPU).</baseDescription>
+		<slot>Childhood</slot>
+				<spawnCategories>
+			<li>ATPP_T2KBackstory</li>
+		</spawnCategories>
+		<skillGains>
+          <li>
+            <defName>Melee</defName>
+            <amount>10</amount>
+          </li>
+          <li>
+            <defName>Shooting</defName>
+            <amount>10</amount>
+          </li>
+        </skillGains>
+    <workDisables>
+        <li>Artistic</li>
+		<li>Caring</li>
+		<li>PlantWork</li>
+		<li>Animals</li>
+		<li>Intellectual</li>
+		<li>ManualSkilled</li>
+		<li>Crafting</li>
+		<li>Cleaning</li>
+    </workDisables>
+	</AlienRace.BackstoryDef>
+  <AlienRace.BackstoryDef>
+		<defName>ATPP_MechanizedInfantry</defName>
+		<title>Mechanized infantry</title>
+		<titleShort>Mech</titleShort>
+		<baseDescription>this android was designed only for war.</baseDescription>
+		<bodyTypeMale>Male</bodyTypeMale>
+		<bodyTypeFemale>Female</bodyTypeFemale>
+		<slot>Adulthood</slot>
+				<spawnCategories>
+			<li>ATPP_T2KBackstory</li>
+		</spawnCategories>
+	</AlienRace.BackstoryDef>
+</Defs>

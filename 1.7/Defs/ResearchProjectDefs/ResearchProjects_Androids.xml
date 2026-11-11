@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>ATPP_ResearchM8</defName>
+    <label>M8 prototype serie</label>
+    <tab>AtlasAndroids</tab>
+    <description>Research how to build M8 an advanced battle surrogate series with a limited Sky Cloud core module .</description>
+    <baseCost>15500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>ATPP_ResearchSM7</li>
+	  <li>ATPP_ResearchSkyCloudCore</li>
+    </prerequisites>
+	<researchViewX>6</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ATPP_ResearchSM7</defName>
+    <label>SM7 battle surrogate series</label>
+    <tab>AtlasAndroids</tab>
+    <description>Research how to build SM7 battle surrogate series.</description>
+    <baseCost>9500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>ATPP_ResearchSurrogateHost</li>
+    </prerequisites>
+	<researchViewX>5</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>ATPP_ResearchServerI100Serie</defName>
+    <label>I100 series servers</label>
+    <tab>AtlasAndroids</tab>
+    <description>Research how to build I100 security and hacking series servers, cheap but noisy, big and not very efficient.</description>
+    <baseCost>1500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>MicroelectronicsBasics</li>
+    </prerequisites>
+	<researchViewX>4</researchViewX>
+    <researchViewY>4</researchViewY>
+  </ResearchProjectDef>
+  
+  
+  <ResearchProjectDef>
+    <defName>ATPP_ResearchServerI300Serie</defName>
+    <label>I300 series servers</label>
+    <tab>AtlasAndroids</tab>
+    <description>Research how to build I300 security and hacking series servers, noisy but intermediate in term of efficiency.</description>
+    <baseCost>3500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>ATPP_ResearchServerI100Serie</li>
+    </prerequisites>
+	<researchViewX>5</researchViewX>
+    <researchViewY>4</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ATPP_ResearchServerI500Serie</defName>
+    <label>I500 series servers</label>
+    <tab>AtlasAndroids</tab>
+    <description>Research how to build I500 security and hacking series servers, expensives but very efficient</description>
+    <baseCost>6500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>ATPP_ResearchServerI300Serie</li>
+    </prerequisites>
+	<researchViewX>6</researchViewX>
+    <researchViewY>4</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ATPP_ResearchSkyCloudCore</defName>
+    <label>SkyCloud Core</label>
+    <tab>AtlasAndroids</tab>
+    <description>Research how to build SkyCloud Core servers, which are a powerfull supercomputer which can host several digitized consciousness and allow them to interact with the real world throught every devices connected to the SkyMind network.</description>
+    <baseCost>10500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>ATPP_ResearchVX2Chip</li>
+	  <li>ATPP_ResearchServerI500Serie</li>
+    </prerequisites>
+	<researchViewX>7</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ATPP_ResearchVX3Chip</defName>
+    <label>VX3 Neural Chip</label>
+    <tab>AtlasAndroids</tab>
+    <description>Research how to build the VX3 chip, a Neural chip allowing his host to control remotely multiple SX androids series and permute/duplicate his consciousness throught a SkyMind network</description>
+    <baseCost>12500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>ATPP_ResearchVX2Chip</li>
+    </prerequisites>
+	<researchViewX>7</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ATPP_ResearchVX2Chip</defName>
+    <label>VX2 Neural Chip</label>
+    <tab>AtlasAndroids</tab>
+    <description>Research how to build the VX2 chip, a Neural chip allowing his host to control remotely SX androids series and permute/duplicate his consciousness throught a SkyMind network</description>
+    <baseCost>7500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>ATPP_ResearchVX1Chip</li>
+    </prerequisites>
+	<researchViewX>6</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>ATPP_ResearchVX1Chip</defName>
+    <label>VX1 Neural Chip</label>
+    <tab>AtlasAndroids</tab>
+    <description>Research how to build the VX1 chip, a Neural chip allowing his host to control remotely SX androids series throught a SkyMind network.</description>
+    <baseCost>5500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>ATPP_ResearchSurrogateHost</li>
+    </prerequisites>
+	<researchViewX>5</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ATPP_ResearchVX0Chip</defName>
+    <label>VX0 Neural Chip</label>
+    <tab>AtlasAndroids</tab>
+    <description>Research how to build the VX0 chip, a Neural chip  which will transform the host into a biological surrogate.</description>
+    <baseCost>2000</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>MicroelectronicsBasics</li>
+    </prerequisites>
+	<researchViewX>5</researchViewX>
+    <researchViewY>5</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ATPP_ResearchBatteryOverload</defName>
+    <label>Battery overload</label>
+    <tab>AtlasAndroids</tab>
+    <description>Research how to transform androids into walking bombs, by making their internal battery to explode.</description>
+    <baseCost>2500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>T2ReplacementsOrgans</li>
+    </prerequisites>
+	<researchViewX>4</researchViewX>
+    <researchViewY>5</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ATPP_ResearchSkyMindWAN</defName>
+    <label>SkyMind Antenna V2</label>
+    <tab>AtlasAndroids</tab>
+    <description>Research how to build SkyMind V2 antenna, which serves as a basis for the transfer of consciousness from one colonist to another and allow to have until 15 colonists simultaneously connected by V2 antenna.</description>
+    <baseCost>4500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>T4Androids</li>
+    </prerequisites>
+	<researchViewX>5</researchViewX>
+    <researchViewY>3</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ATPP_ResearchSurrogateHost</defName>
+    <label>SX androids series</label>
+    <tab>AtlasAndroids</tab>
+    <description>Research how to build surrogate androids series, which is similar to the TX series but with their artificial brains replaced by an advanced remote control system.</description>
+    <baseCost>4500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>T4Androids</li>
+    </prerequisites>
+	<researchViewX>4</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ATPP_ResearchSkyMindLAN</defName>
+    <label>SkyMind Antenna V1</label>
+    <tab>AtlasAndroids</tab>
+    <description>Research how to build SkyMind V1 antenna, which serves as a basis for the transfer of consciousness from one colonist to another and allow to have until 3 colonists simultaneously connected by antenna.</description>
+    <baseCost>1500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>BasicRobotics</li>
+    </prerequisites>
+	<researchViewX>0</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ATPP_ResearchCharchingStation</defName>
+    <label>Charging station</label>
+    <tab>AtlasAndroids</tab>
+    <description>Allows you to charge up to 8 androids simultaneously directly into internal battery instead through their biomass generator.</description>
+    <baseCost>750</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>BasicRobotics</li>
+    </prerequisites>
+	<researchViewX>0</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>ATPP_ResearchCraftBasicNanoKit</defName>
+    <label>Basic NanoKit</label>
+    <tab>AtlasAndroids</tab>
+    <description>Allow you to craft basic nanokit which is required to repair your injured androids</description>
+    <baseCost>400</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>BasicRobotics</li>
+    </prerequisites>
+	<researchViewX>1</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ATPP_ResearchCraftIntermediateNanoKit</defName>
+    <label>Intermediate NanoKit</label>
+    <tab>AtlasAndroids</tab>
+    <description>Allow you to craft intermediate nanokit which is required to repair your injured androids</description>
+    <baseCost>800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>ATPP_ResearchCraftBasicNanoKit</li>
+    </prerequisites>
+	<researchViewX>2</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+  
+   <ResearchProjectDef>
+    <defName>ATPP_ResearchCraftAdvancedNanoKit</defName>
+    <label>Advanced NanoKit</label>
+    <tab>AtlasAndroids</tab>
+    <description>Allow you to craft intermediate nanokit which is required to repair your injured androids</description>
+    <baseCost>1400</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>ATPP_ResearchCraftIntermediateNanoKit</li>
+    </prerequisites>
+	<researchViewX>3</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ATPP_ResearchCraftRepairNaniteBanks</defName>
+    <label>Cure old age malfunction</label>
+    <tab>AtlasAndroids</tab>
+    <description>Allows you to craft mechanites to cure old age android malfunctions</description>
+    <baseCost>2500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>ATPP_ResearchCraftAdvancedNanoKit</li>
+    </prerequisites>
+	<researchViewX>4</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+
+<!-- ==================== ADVANCED ANDROID RESEARCH ==================== --><ResearchProjectDef>
+		<defName>BasicRobotics</defName>
+		<label>Basic robotics</label>
+		<tab>AtlasAndroids</tab>
+		<description>As simple as advanced robotics can get, research into the anatomy of the body and how to mimic it into mechanical form.</description>
+		<baseCost>300</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites><li>MicroelectronicsBasics</li></prerequisites>
+		<researchViewY>2</researchViewY>
+		<researchViewX>0</researchViewX>
+	</ResearchProjectDef><ResearchProjectDef>
+		<defName>BasicRoboticAnimals</defName>
+		<label>Basic Artificial  creatures</label>
+		<tab>AtlasAndroids</tab>
+		<description>Research into the development of simple recreations of biological animals. Allowing the development of M.U.F.F Units; strong caravaning creatures that can carry lots of weight on their back.</description>
+		<baseCost>500</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites><li>BasicRobotics</li></prerequisites>
+		<researchViewY>1</researchViewY>
+		<researchViewX>1</researchViewX>
+	</ResearchProjectDef><ResearchProjectDef>
+		<defName>AdvRoboticAnimals</defName>
+		<label>Advanced Artificial  creatures</label>
+		<tab>AtlasAndroids</tab>
+		<description>Developing further on the previous research, this project will look into utility based creatures. Imiations of common farmland animals from Earth, such as the Phytomining Unit.</description>
+		<baseCost>500</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites><li>BasicRoboticAnimals</li></prerequisites>
+		<researchViewY>1</researchViewY>
+		<researchViewX>2</researchViewX>
+	</ResearchProjectDef><ResearchProjectDef>
+		<defName>UltimateRoboticAnimals</defName>
+		<label>Experimental Artificial  creatures</label>
+		<tab>AtlasAndroids</tab>
+		<description>Extremely complex robotic creatures that have never been more than a concept for most planets. These include Swarm Mortar shells, small capsules filled with hunter-seeker drones and the K-9 Cybernetic unit, a strong and quick creature once designed for extreme crowd control.</description>
+		<baseCost>1000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites><li>AdvRoboticAnimals</li></prerequisites>
+		<researchViewY>1</researchViewY>
+		<researchViewX>3</researchViewX>
+	</ResearchProjectDef><ResearchProjectDef>
+		<defName>BasicEnhancement</defName>
+		<label>Basic enhancements</label>
+		<tab>AtlasAndroids</tab>
+		<description>Research into basic consumable enhancements that aid mechanical pawns for a short amount of time.</description>
+		<baseCost>400</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites><li>BasicRobotics</li></prerequisites>
+		<researchViewY>3</researchViewY>
+		<researchViewX>0</researchViewX>
+	</ResearchProjectDef><ResearchProjectDef>
+		<defName>AdvEnhancement</defName>
+		<label>Advanced enhancements</label>
+		<tab>AtlasAndroids</tab>
+		<description>Research into highly advanced consumable enhancements that give the pawn an immense level of ability for a short amount of time.</description>
+		<baseCost>1200</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites><li>BasicEnhancement</li></prerequisites>
+		<researchViewY>4</researchViewY>
+		<researchViewX>0</researchViewX>
+	</ResearchProjectDef><ResearchProjectDef>
+		<defName>AndroidOperationFurniture</defName>
+		<label>Android upgrade station</label>
+		<tab>AtlasAndroids</tab>
+		<description>Construct android upgrade stations and upgrade cabinets which improve android operation outcomes.</description>
+		<baseCost>600</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+		<li>BasicEnhancement</li>
+		<li>Machining</li>
+		</prerequisites>
+		<researchViewY>5</researchViewY>
+		<researchViewX>0</researchViewX>
+	</ResearchProjectDef><ResearchProjectDef>
+		<defName>T1Androids</defName>
+		<label>T1 androids</label>
+		<tab>AtlasAndroids</tab>
+		<description>Research into how to produce machines that are capable of being sapient, albeit at a very basic level compared to the abilities of actual humans.</description>
+		<baseCost>500</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites><li>BasicRobotics</li></prerequisites>
+		<researchViewY>2</researchViewY>
+		<researchViewX>1</researchViewX>
+	</ResearchProjectDef><ResearchProjectDef>
+		<defName>T1Replacements</defName>
+		<label>Basic replacement parts</label>
+		<tab>AtlasAndroids</tab>
+		<description>find ways to develop basic replacement parts that are interchangable between all models of android, allowing for longer lasting lifespans.</description>
+		<baseCost>400</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites><li>T1Androids</li></prerequisites>
+		<researchViewY>3</researchViewY>
+		<researchViewX>1</researchViewX>
+	</ResearchProjectDef><ResearchProjectDef>
+		<defName>T2Androids</defName>
+		<label>T2 androids</label>
+		<tab>AtlasAndroids</tab>
+		<description>Develop more onto the design of the T1 Android and find more efficient ways of locomotion and how to capacitate for a larger mental span.</description>
+		<baseCost>1000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites><li>T1Androids</li></prerequisites>
+		<researchViewY>2</researchViewY>
+		<researchViewX>2</researchViewX>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+	</ResearchProjectDef><ResearchProjectDef>
+		<defName>AndroidPsychology</defName>
+		<label>Advanced programming</label>
+		<tab>AtlasAndroids</tab>
+		<description>Researching this tech will allow you to reprogram androids in a magnitude of ways from: converting prisoners to randomizing android personality.</description>
+		<baseCost>600</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites><li>T2Androids</li></prerequisites>
+		<researchViewY>3</researchViewY>
+		<researchViewX>2</researchViewX>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+	</ResearchProjectDef><ResearchProjectDef>
+		<defName>T2Plating</defName>
+		<label>Basic android plating</label>
+		<tab>AtlasAndroids</tab>
+		<description>develop ways to attach plates of armour to androids without hindering motor capacities.</description>
+		<baseCost>200</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites><li>T2Androids</li></prerequisites>
+		<researchViewY>4</researchViewY>
+		<researchViewX>1.5</researchViewX>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+	</ResearchProjectDef><ResearchProjectDef>
+		<defName>AdvT2Plating</defName>
+		<label>Composite android plating</label>
+		<tab>AtlasAndroids</tab>
+		<description>develop ways to produce composite plating that can be fitted to androids.</description>
+		<baseCost>400</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites><li>T2Plating</li></prerequisites>
+		<researchViewY>5</researchViewY>
+		<researchViewX>1.5</researchViewX>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+	</ResearchProjectDef><ResearchProjectDef>
+		<defName>T2Replacements</defName>
+		<label>Advanced replacement limbs</label>
+		<tab>AtlasAndroids</tab>
+		<description>enchancing the previous models of replacement limbs to allow for more efficient movements for tier 3/4 androids.</description>
+		<baseCost>800</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites><li>T2Androids</li></prerequisites>
+		<researchViewY>4</researchViewY>
+		<researchViewX>2.5</researchViewX>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+	</ResearchProjectDef><ResearchProjectDef>
+		<defName>T2ReplacementsOrgans</defName>
+		<label>Advanced replacement internals</label>
+		<tab>AtlasAndroids</tab>
+		<description>enchancing the previous models of replacement parts to allow for more efficient internals for tier 3/4 androids.</description>
+		<baseCost>1000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites><li>T2Replacements</li></prerequisites>
+		<researchViewY>5</researchViewY>
+		<researchViewX>2.5</researchViewX>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+	</ResearchProjectDef><ResearchProjectDef>
+		<defName>T3Implants</defName>
+		<label>Android mind implants</label>
+		<tab>AtlasAndroids</tab>
+		<description>Implants that give a variety of bonuses ranging from mining upgrades to combat upgrades.</description>
+		<baseCost>1400</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites><li>T3Androids</li></prerequisites>
+		<researchViewY>3</researchViewY>
+		<researchViewX>3</researchViewX>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+	</ResearchProjectDef><ResearchProjectDef>
+		<defName>T3Androids</defName>
+		<label>T3 androids</label>
+		<tab>AtlasAndroids</tab>
+		<description>Research into machine bodies that can perfectly mimic human movement and personality, to the point where their appearance may be the only distinguishable trait.</description>
+		<baseCost>2000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites><li>T2Androids</li></prerequisites>
+		<researchViewY>2</researchViewY>
+		<researchViewX>3</researchViewX>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+	</ResearchProjectDef><ResearchProjectDef>
+		<defName>T4Androids</defName>
+		<label>T4 androids</label>
+		<tab>AtlasAndroids</tab>
+		<description>Research how to develop cutting edge robotics that includes: pseudo muscle fibers that operate much like a human counterpart but at much higher efficiencies, positronic brainmaps, and intricate modular frameworks. Allowing the construction of the T4 Android.</description>
+		<baseCost>3500</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites><li>T3Androids</li></prerequisites>
+		<researchViewY>2</researchViewY>
+		<researchViewX>4</researchViewX>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+	</ResearchProjectDef><ResearchProjectDef>
+		<defName>T5Research</defName>
+		<label>Archotech upgrades</label>
+		<tab>AtlasAndroids</tab>
+		<description>Research into archotech level upgrades, this level of technology is incomprehensable by most life, requiring a T5 Android to develop; as only they possess enough mental complexity to understand it.\n\n [ ONLY A T5 ANDROID CAN RESEARCH THIS TECH. ]</description>
+		<baseCost>10000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites><li>T4Androids</li></prerequisites>
+		<researchViewY>3</researchViewY>
+		<researchViewX>4</researchViewX>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+	</ResearchProjectDef></Defs>

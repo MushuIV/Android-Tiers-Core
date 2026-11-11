@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <AlienRace.BackstoryDef>
+		<defName>MechanizedInfantry</defName>
+		<title>Mechanized infantry</title>
+		<titleShort>Mech</titleShort>
+		<baseDescription>{PAWN_nameDef} is a form of mechanized infantry, very powerful war units that are unfortunately very weakly programmed.</baseDescription>
+		<bodyTypeMale>Male</bodyTypeMale>
+		<bodyTypeFemale>Female</bodyTypeFemale>
+		<slot>Adulthood</slot>
+		<spawnCategories>
+			<li>Mechdrop</li>
+			<li>ColonyMechStory</li>
+		</spawnCategories>
+		<skillGains>
+			<li>
+				<defName>Melee</defName>
+				<amount>12</amount>
+			</li>
+			<li>
+				<defName>Shooting</defName>
+				<amount>12</amount>
+			</li>
+		</skillGains>
+		<workDisables>
+			<li>Artistic</li>
+			<li>Caring</li>
+			<li>PlantWork</li>
+			<li>Animals</li>
+			<li>Intellectual</li>
+			<li>ManualSkilled</li>
+			<li>Crafting</li>
+			<li>Cleaning</li>
+		</workDisables>
+	</AlienRace.BackstoryDef>
+  <AlienRace.BackstoryDef>
+		<defName>FactoryMade</defName>
+		<title>Factory made</title>
+		<titleShort>Mech</titleShort>
+		<baseDescription>this mech was formed inside an ancient factory.</baseDescription>
+		<bodyTypeMale>Male</bodyTypeMale>
+		<slot>Childhood</slot>
+		<spawnCategories>
+			<li>Mechdrop</li>
+		</spawnCategories>
+		<forcedHediffs>
+			<li>BatteryChargeMech</li>
+			<li>AndroidTiers_EmotionlessCard</li>
+		</forcedHediffs>
+	</AlienRace.BackstoryDef>
+  <AlienRace.BackstoryDef>
+		<defName>AndroidTier_MechanizedInfantry</defName>
+		<title>Mechanized infantry</title>
+		<titleShort>Mech</titleShort>
+		<baseDescription>{PAWN_nameDef} are a form of prototype mechanized infantry, very powerful war units which allow for their stored digitized minds a secure host and allows them to participate on the battlefields.</baseDescription>
+		<bodyTypeMale>Male</bodyTypeMale>
+		<bodyTypeFemale>Female</bodyTypeFemale>
+		<slot>Adulthood</slot>
+		<spawnCategories>
+			<li>Mech8drop</li>
+		</spawnCategories>
+	</AlienRace.BackstoryDef>
+  <AlienRace.BackstoryDef>
+		<defName>AndroidTier_PrototypeM8</defName>
+		<title>Prototype M8</title>
+		<titleShort>Mech</titleShort>
+		<baseDescription>this mech is prototype created from an M7 to which we graft limited SkyCore and Skyminds modules.</baseDescription>
+		<bodyTypeMale>Male</bodyTypeMale>
+		<slot>Childhood</slot>
+		<spawnCategories>
+			<li>Mech8drop</li>
+		</spawnCategories>
+		<skillGains>
+			<li>
+				<defName>Melee</defName>
+				<amount>12</amount>
+			</li>
+			<li>
+				<defName>Shooting</defName>
+				<amount>12</amount>
+			</li>
+		</skillGains>
+		<workDisables>
+			<li>Artistic</li>
+			<li>Caring</li>
+			<li>PlantWork</li>
+			<li>Animals</li>
+			<li>Intellectual</li>
+			<li>ManualSkilled</li>
+			<li>Crafting</li>
+			<li>Cleaning</li>
+		</workDisables>
+		<forcedHediffs>
+			<li>AndroidTiers_EmotionlessCard</li>
+		</forcedHediffs>
+	</AlienRace.BackstoryDef>
+</Defs>

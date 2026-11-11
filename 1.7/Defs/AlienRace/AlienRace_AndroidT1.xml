@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 	<AlienRace.ThingDef_AlienRace ParentName="BasePawn">
 		<defName>Android1Tier</defName>
@@ -368,42 +368,6 @@
 			</li>
 		</modExtensions>
 	</AlienRace.ThingDef_AlienRace>
-	<TraitDef>
-		<defName>SimpleMindedAndroid</defName>
-		<commonality>1</commonality>
-		<degreeDatas>
-			<li>
-				<label>Simple minded</label>
-				<description>Due to the limitations of this androids mind: they are only barely able to understand and feel emotion. This makes them less than desired in social situations.</description>
-				<statOffsets>
-					<SocialImpact>-0.90</SocialImpact>
-				</statOffsets>				
-				<disallowedInspirations>
-				  <li>Frenzy_Shoot</li>
-				  <li>Frenzy_Work</li>
-				  <li>Frenzy_Go</li>
-				  <li>Inspired_Trade</li>
-				  <li>Inspired_Recruitment</li>
-				  <li>Inspired_Taming</li>
-				  <li>Inspired_Surgery</li>
-				  <li>Inspired_Creativity</li>
-				</disallowedInspirations>
-			</li>
-		</degreeDatas>
-	</TraitDef>
-	<ThoughtDef>
-		<defName>MoodOffsetSimpleMindedAndroid</defName>
-		<workerClass>ThoughtWorker_AlwaysActive</workerClass>
-		<validWhileDespawned>true</validWhileDespawned>
-		<requiredTraits>
-			<li>SimpleMindedAndroid</li>
-		</requiredTraits>
-		<stages>
-			<li>
-				<label>Simple mind</label>
-				<description>I am unable to fully feel emotion.</description>
-				<baseMoodEffect>20</baseMoodEffect>
-			</li>
-		</stages>
-	</ThoughtDef>
+	
+	
 </Defs>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- T1 Simple Mind Mood -->
+  <ThoughtDef>
+		<defName>MoodOffsetSimpleMindedAndroid</defName>
+		<workerClass>ThoughtWorker_AlwaysActive</workerClass>
+		<validWhileDespawned>true</validWhileDespawned>
+		<requiredTraits>
+			<li>SimpleMindedAndroid</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>Simple mind</label>
+				<description>I am unable to fully feel emotion.</description>
+				<baseMoodEffect>20</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+  <!-- M7 Unfeeling Mood -->
+  <ThoughtDef>
+		<defName>MoodOffsetMech</defName>
+		<workerClass>ThoughtWorker_AlwaysActive</workerClass>
+		<validWhileDespawned>true</validWhileDespawned>
+		<requiredTraits>
+			<li>MechAtlas</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>Unfeeling</label>
+				<description>this mechanised infantry is unfeeling and without emotion.</description>
+				<baseMoodEffect>100</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+  <ThoughtDef>
+    <defName>ATPP_AssistingMindBoost</defName>
+	<thoughtClass>MOARANDROIDS.Thought_AssistedByMinds</thoughtClass>
+    <workerClass>MOARANDROIDS.ThoughtWorker_AssistedByMinds</workerClass>
+    <stages>
+      <li>
+        <label>Assisting minds from SkyCloud</label>
+        <description>I am assisted by SkyCloud minds in my work i feel guided</description>
+        <baseMoodEffect>1</baseMoodEffect>
+      </li>
+    </stages>
+	<validWhileDespawned>true</validWhileDespawned>
+  </ThoughtDef>
+  <ThoughtDef>
+		<defName>RegenHumanoid_Thought</defName>
+		<workerClass>ThoughtWorker_Hediff</workerClass>
+		<hediff>RegenHumanoid</hediff>
+		<validWhileDespawned>true</validWhileDespawned>
+		<stages>
+			<li>
+				<label>mono-salve hidden</label>
+				<description>Should not appear.</description>
+				<baseMoodEffect>0</baseMoodEffect>
+				<visible>false</visible>
+			</li>
+			<li>
+				<label>Mono-Salve (Weak)</label>
+				<description>I have pins and needles all over. It's quite overwhelming.</description>
+				<baseMoodEffect>-4</baseMoodEffect>
+			</li>
+			<li>
+				<label>Mono-Salve (Medium)</label>
+				<description>My body feels slow and there's a small pain running up my limbs.</description>
+				<baseMoodEffect>-6</baseMoodEffect>
+			</li>     
+			<li>
+				<label>Mono-Salve (Strong)</label>
+				<description>My arms feel heavy and lethargic as if something in sapping all my energy.</description>
+				<baseMoodEffect>-8</baseMoodEffect>
+			</li>
+			<li>
+				<label>Mono-Salve (Peak)</label>
+				<description>My veins ache and my vision is spinning. It hurts a lot.</description>
+				<baseMoodEffect>-12</baseMoodEffect>
+			</li>   
+		</stages>
+	</ThoughtDef>
+</Defs>

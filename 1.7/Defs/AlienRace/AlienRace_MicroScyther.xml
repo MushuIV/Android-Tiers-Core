@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 
   <ThingDef ParentName="BasePawnMech">
@@ -108,29 +108,7 @@
 </modExtensions>
   </ThingDef>
   
-  <PawnKindDef ParentName="BasePlayerPawnKind">
-    <defName>MicroScyther</defName>
-    <label>Micro-Scyther</label>
-    <race>MicroScyther</race>
-		<canArriveManhunter>false</canArriveManhunter>
-		<ecoSystemWeight>9999</ecoSystemWeight>
-		<combatPower>1000</combatPower>
-		<backstoryCategories><li>Mechdrop</li></backstoryCategories>
-		<defaultFactionType>PlayerColony</defaultFactionType>
-    <lifeStages>
-      <li>
-        <bodyGraphicData>
-          <texPath>Things/Pawn/NanoDrone/NanoDrone</texPath>
-          <drawSize>1.5</drawSize>
-          <shadowData>
-            <volume>(0.25, 0.3, 0.25)</volume>
-            <offset>(0,0,-0.15)</offset>
-          </shadowData>
-        </bodyGraphicData>
-      </li>
-
-    </lifeStages>
-  </PawnKindDef>
+  
 
 
 

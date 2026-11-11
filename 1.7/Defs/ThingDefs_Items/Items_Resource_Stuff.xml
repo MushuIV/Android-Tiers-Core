@@ -1,103 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 
-  <RecipeDef>
-    <defName>ExtractMetalFromOther</defName>
-    <label>smelt metal into steel</label>
-    <description>Use heat and strong electromagnets to smelt metal from materials.</description>
-    <jobString>Smelting metal.</jobString>
-    <workAmount>1600</workAmount>
-    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-    <effectWorking>Smelt</effectWorking>
-    <soundWorking>Recipe_Smelt</soundWorking>
-    <ingredients>
-      <li>
-        <filter>
-          <thingDefs>
-            <li>SteelWool</li>
-          </thingDefs>
-        </filter>
-        <count>25</count>
-      </li>
-    </ingredients>
-    <products>
-      <Steel>50</Steel>
-    </products>
-    <fixedIngredientFilter>
-      <thingDefs>
-        <li>SteelWool</li>
-      </thingDefs>
-    </fixedIngredientFilter>
-	 <recipeUsers>
-		<li>ElectricSmelter</li>
-      </recipeUsers>
-  </RecipeDef>
   
-	<RecipeDef>
-		<defName>Make_ChemfuelFromChemicalEgg</defName>
-		<label>make chemfuel from chemical capsules</label>
-		<description>Make a batch of chemfuel by refining the raw resources within chemical capsules.</description>
-		<jobString>Refining chemfuel from capsules.</jobString>
-		<effectWorking>Cremate</effectWorking>
-		<soundWorking>Recipe_Cremate</soundWorking>
-		<workAmount>2000</workAmount>
-    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-		<ingredients>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>ChemicalEgg</li>
-					</thingDefs>
-				</filter>
-				<count>2</count>
-			</li>
-		</ingredients>
-		<fixedIngredientFilter>
-			<thingDefs>
-				<li>ChemicalEgg</li>
-			</thingDefs>
-		</fixedIngredientFilter>
-		<products>
-			<Chemfuel>15</Chemfuel>
-		</products>
-	 <recipeUsers>
-		<li>BiofuelRefinery</li>
-		<li>DrugLab</li>
-      </recipeUsers>
-	</RecipeDef>
+  
 	
-	<RecipeDef>
-		<defName>Make_NeutroamineFromChemicalEgg</defName>
-		<label>make neutroamine from chemical capsules</label>
-		<description>Make a batch of neutroamine by refining the raw resources within chemical capsules.</description>
-		<jobString>Refining neutroamine from capsules.</jobString>
-		<effectWorking>Cremate</effectWorking>
-		<soundWorking>Recipe_Cremate</soundWorking>
-		<workAmount>2000</workAmount>
-    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-		<ingredients>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>ChemicalEgg</li>
-					</thingDefs>
-				</filter>
-				<count>2</count>
-			</li>
-		</ingredients>
-		<fixedIngredientFilter>
-			<thingDefs>
-				<li>ChemicalEgg</li>
-			</thingDefs>
-		</fixedIngredientFilter>
-		<products>
-			<Neutroamine>5</Neutroamine>
-		</products>
-	 <recipeUsers>
-		<li>BiofuelRefinery</li>
-		<li>DrugLab</li>
-      </recipeUsers>
-	</RecipeDef>
+	
+	
 
   <ThingDef ParentName="ResourceBase">
     <defName>ChemicalEgg</defName>

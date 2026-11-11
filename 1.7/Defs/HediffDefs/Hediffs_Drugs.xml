@@ -1,55 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 
-	<ThingDef ParentName="MakeableDrugBase">
-		<defName>StructureGel</defName>
-		<label>structure gel</label>
-		<description>A viscous black gel made from a mesh of linked mechanites and amino acids, it's used extensively in the production and temporary enhancement of androids. However: not made for biological consumption, the gel does hold Nutritional value, with expected seizures and vomitting if anything other than androids attempt to digest it.</description>
-		<graphicData>
-			<texPath>Things/Drugs/SGel</texPath>
-			<graphicClass>Graphic_StackCount</graphicClass>
-		</graphicData>
-		<socialPropernessMatters>false</socialPropernessMatters>
-		<rotatable>false</rotatable>
-		<stackLimit>6</stackLimit>
-		<statBases>
-			<MarketValue>35</MarketValue>
-			<WorkToMake>1550</WorkToMake>
-			<Nutrition>0.5</Nutrition>
-			<Mass>0.4</Mass>
-		</statBases>
-		<techLevel>Spacer</techLevel>
-		<ingestible>
-			<foodType>Processed</foodType>
-			<drugCategory>Medical</drugCategory>
-			<ingestHoldUsesTable>false</ingestHoldUsesTable>
-			<ingestCommandString>Consume {0}</ingestCommandString>
-			<ingestReportString>Consuming {0}.</ingestReportString>
-			<useEatingSpeedStat>false</useEatingSpeedStat>
-			<outcomeDoers>
-				<li Class="MOARANDROIDS.IngestionOutcomeDoer_GiveTwoHediffs">
-					<hediffDef_Human>SGelhuman</hediffDef_Human>
-					<hediffDef_Android>SGelandroid</hediffDef_Android>
-					<severity>1</severity>
-				</li>
-			</outcomeDoers>
-		</ingestible>
-		<recipeMaker>
-			<researchPrerequisite>BasicEnhancement</researchPrerequisite>
-			<recipeUsers>
-				<li>AndroidOtherStuffTable</li>
-			</recipeUsers>
-		</recipeMaker>
-		<costList>
-			<Neutroamine>2</Neutroamine>
-			<ChemicalEgg>1</ChemicalEgg>
-		</costList>
-		<comps>
-			<li Class="CompProperties_Drug">
-				<listOrder>801</listOrder>
-			</li>
-		</comps>
-	</ThingDef>
+	
 
 
 	<HediffDef>
@@ -260,53 +212,7 @@
 	</HediffDef>
 
 
-	<ThingDef ParentName="MakeableDrugBase">
-		<defName>Antifreeze</defName>
-		<label>polymer antifreeze</label>
-		<description>A polymer based additive mixture that lowers freezing point and increases boiling point of most water-based liquids. Very useful for temperature regulation by androids but toxic to biological life.</description>
-		<graphicData>
-			<texPath>Things/Drugs/Antifreeze</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-		<socialPropernessMatters>false</socialPropernessMatters>
-		<rotatable>false</rotatable>
-		<stackLimit>10</stackLimit>
-		<statBases>
-			<MarketValue>10</MarketValue>
-			<WorkToMake>550</WorkToMake>
-			<Mass>0.4</Mass>
-		</statBases>
-		<techLevel>Spacer</techLevel>
-		<ingestible>
-			<foodType>Processed</foodType>
-			<drugCategory>Medical</drugCategory>
-			<ingestHoldUsesTable>false</ingestHoldUsesTable>
-			<ingestCommandString>Consume {0}</ingestCommandString>
-			<ingestReportString>Consuming {0}.</ingestReportString>
-			<useEatingSpeedStat>false</useEatingSpeedStat>
-			<outcomeDoers>
-				<li Class="MOARANDROIDS.IngestionOutcomeDoer_GiveTwoHediffs">
-					<hediffDef_Human>Toxicated</hediffDef_Human>
-					<hediffDef_Android>AFreezeandroid</hediffDef_Android>
-					<severity>1</severity>
-				</li>   
-			</outcomeDoers>
-		</ingestible>
-		<recipeMaker>
-			<researchPrerequisite>BasicEnhancement</researchPrerequisite>
-			<recipeUsers>
-				<li>AndroidOtherStuffTable</li>
-			</recipeUsers>
-		</recipeMaker>
-		<costList>
-			<Chemfuel>5</Chemfuel>
-		</costList>
-		<comps>
-			<li Class="CompProperties_Drug">
-				<listOrder>802</listOrder>
-			</li>
-		</comps>
-	</ThingDef>
+	
 
 	<HediffDef>
 		<defName>Toxicated</defName>
@@ -478,54 +384,7 @@
 	</HediffDef>
 
 
-	<ThingDef ParentName="MakeableDrugBase">
-		<defName>MechSwarm</defName>
-		<label>Mechanite swarm</label>
-		<description>This small pill contains millions upon millions of tiny nano-mechanites. Designed to swarm a mechanical host and increase kinetic ouput through controlled overloading of the mechanisms of the pawn. However; biological consumption will lead to nausea and profuse vomitting.</description>
-		<graphicData>
-			<texPath>Things/Drugs/MechSwarm</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-		<socialPropernessMatters>false</socialPropernessMatters>
-		<rotatable>false</rotatable>
-		<stackLimit>10</stackLimit>
-		<statBases>
-			<MarketValue>20</MarketValue>
-			<WorkToMake>1550</WorkToMake>
-			<Mass>0.4</Mass>
-		</statBases>
-		<techLevel>Spacer</techLevel>
-		<ingestible>
-			<foodType>Processed</foodType>
-			<drugCategory>Medical</drugCategory>
-			<ingestHoldUsesTable>false</ingestHoldUsesTable>
-			<ingestCommandString>Consume {0}</ingestCommandString>
-			<ingestReportString>Consuming {0}.</ingestReportString>
-			<useEatingSpeedStat>false</useEatingSpeedStat>
-			<outcomeDoers>
-				<li Class="MOARANDROIDS.IngestionOutcomeDoer_GiveTwoHediffs">
-					<hediffDef_Human>Toxicated</hediffDef_Human>
-					<hediffDef_Android>MechSwarmandroid</hediffDef_Android>
-					<severity>1</severity>
-				</li>  
-			</outcomeDoers>
-		</ingestible>
-		<recipeMaker>
-			<researchPrerequisite>AdvEnhancement</researchPrerequisite>
-			<recipeUsers>
-				<li>AndroidOtherStuffTable</li>
-			</recipeUsers>
-		</recipeMaker>
-		<costList>
-			<ComponentIndustrial>1</ComponentIndustrial>
-			<Neutroamine>1</Neutroamine>
-		</costList>
-		<comps>
-			<li Class="CompProperties_Drug">
-				<listOrder>803</listOrder>
-			</li>
-		</comps>
-	</ThingDef>
+	
 
 	<HediffDef>
 		<defName>MechSwarmandroid</defName>
@@ -629,43 +488,7 @@
 
 	<!--======-->
 
-	<ThingDef ParentName="DrugBase">
-		<defName>FractalPill</defName>
-		<label>fractal enhancement</label>
-		<description>This pill is rarely found anywhere except only the best archotech societies. When consumed by any mechanical life, it will cause irreversible enhancement, with ever-increasing effect with every use. Due to it's rarity; it's full power has never been documented in any system. What has been documented however is the terrible effects when ingested by humans, which due to the limitations of language cannot be explained in it's full severity.</description>
-		<graphicData>
-			<texPath>Things/Drugs/FractalP</texPath>
-			<graphicClass>Graphic_StackCount</graphicClass>
-		</graphicData>
-		<socialPropernessMatters>false</socialPropernessMatters>
-		<rotatable>false</rotatable>
-		<stackLimit>10</stackLimit>
-		<statBases>
-			<MarketValue>800</MarketValue>
-			<Mass>0.4</Mass>
-		</statBases>
-		<techLevel>Ultra</techLevel>
-		<ingestible>
-			<foodType>Processed</foodType>
-			<drugCategory>Medical</drugCategory>
-			<ingestHoldUsesTable>false</ingestHoldUsesTable>
-			<ingestCommandString>Consume {0}</ingestCommandString>
-			<ingestReportString>Consuming {0}.</ingestReportString>
-			<useEatingSpeedStat>false</useEatingSpeedStat>
-			<outcomeDoers>
-				<li Class="MOARANDROIDS.IngestionOutcomeDoer_GiveTwoHediffs">
-					<hediffDef_Human>Conversion</hediffDef_Human>
-					<hediffDef_Android>FractalPillAndroid</hediffDef_Android>
-					<severity>0.05</severity>
-				</li> 	
-			</outcomeDoers>
-		</ingestible>
-		<comps>
-			<li Class="CompProperties_Drug">
-				<listOrder>804</listOrder>
-			</li>
-		</comps>
-	</ThingDef>
+	
 
 
 	<HediffDef>
@@ -1400,54 +1223,7 @@
 
 	<!--Regen Pill-->
 
-	<ThingDef ParentName="MakeableDrugBase">
-		<defName>RegenPillAt</defName>
-		<label>Mono-salve pill</label>
-		<description>This pill contains a small vial of 'regenerative' fluid that vastly increases the health regeneration of both organics and androids, although originally designed just for the latter. When ingested by an android, it will circulate the system and place small amounts of a self-repairing solvent onto everything it passes, encouraging small gaps in metal to heal and repair more efficiently. \n\n Organics still have the potential to benefit from this but on a vastly reduced scale, with the pill promoting cell growth in areas of injury instead. Albeit somewhat toxic in high doses. \n\n While this pill is active on a pawn:\n +60% Healing Rate For Androids \n +15% Healing Rate For Humans / Others</description>
-		<graphicData>
-			<texPath>Things/Drugs/RegenPillAT</texPath>
-			<graphicClass>Graphic_StackCount</graphicClass>
-		</graphicData>
-		<socialPropernessMatters>false</socialPropernessMatters>
-		<rotatable>false</rotatable>
-		<stackLimit>10</stackLimit>
-		<statBases>
-			<MarketValue>80</MarketValue>
-			<WorkToMake>2500</WorkToMake>
-			<Mass>0.4</Mass>
-		</statBases>
-		<techLevel>Spacer</techLevel>
-		<ingestible>
-			<foodType>Processed</foodType>
-			<drugCategory>Medical</drugCategory>
-			<ingestHoldUsesTable>false</ingestHoldUsesTable>
-			<ingestCommandString>Consume {0}</ingestCommandString>
-			<ingestReportString>Consuming {0}.</ingestReportString>
-			<useEatingSpeedStat>false</useEatingSpeedStat>
-			<outcomeDoers>
-				<li Class="MOARANDROIDS.IngestionOutcomeDoer_GiveTwoHediffs">
-					<hediffDef_Human>RegenHumanoid</hediffDef_Human>
-					<hediffDef_Android>RegenAndroid</hediffDef_Android>
-					<severity>1</severity>
-				</li>      
-			</outcomeDoers>
-		</ingestible>
-		<recipeMaker>
-			<researchPrerequisite>AdvEnhancement</researchPrerequisite>
-			<recipeUsers>
-				<li>AndroidOtherStuffTable</li>
-			</recipeUsers>
-		</recipeMaker>
-		<costList>
-			<Chemfuel>10</Chemfuel>
-			<Neutroamine>15</Neutroamine>
-		</costList>
-		<comps>
-			<li Class="CompProperties_Drug">
-				<listOrder>805</listOrder>
-			</li>
-		</comps>
-	</ThingDef>
+	
 
 	<HediffDef>
 		<defName>RegenHumanoid</defName>
@@ -1582,38 +1358,5 @@
 		</comps>
 	</HediffDef>
 
-	<ThoughtDef>
-		<defName>RegenHumanoid_Thought</defName>
-		<workerClass>ThoughtWorker_Hediff</workerClass>
-		<hediff>RegenHumanoid</hediff>
-		<validWhileDespawned>true</validWhileDespawned>
-		<stages>
-			<li>
-				<label>mono-salve hidden</label>
-				<description>Should not appear.</description>
-				<baseMoodEffect>0</baseMoodEffect>
-				<visible>false</visible>
-			</li>
-			<li>
-				<label>Mono-Salve (Weak)</label>
-				<description>I have pins and needles all over. It's quite overwhelming.</description>
-				<baseMoodEffect>-4</baseMoodEffect>
-			</li>
-			<li>
-				<label>Mono-Salve (Medium)</label>
-				<description>My body feels slow and there's a small pain running up my limbs.</description>
-				<baseMoodEffect>-6</baseMoodEffect>
-			</li>     
-			<li>
-				<label>Mono-Salve (Strong)</label>
-				<description>My arms feel heavy and lethargic as if something in sapping all my energy.</description>
-				<baseMoodEffect>-8</baseMoodEffect>
-			</li>
-			<li>
-				<label>Mono-Salve (Peak)</label>
-				<description>My veins ache and my vision is spinning. It hurts a lot.</description>
-				<baseMoodEffect>-12</baseMoodEffect>
-			</li>   
-		</stages>
-	</ThoughtDef>
+	
 </Defs>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 
   <ThingDef ParentName="ResourceBase">
@@ -31,92 +31,9 @@
     </thingSetMakerTags>
   </ThingDef>
   
-   <RecipeDef>
-      <defName>RepairKitAT</defName>
-      <label>Make a upgrade kit</label>
-      <description>Create a simple set of tools and materials for an android upgrade kit.</description>
-      <jobString>Making upgrade kit</jobString>  
-      <allowMixingIngredients>false</allowMixingIngredients>
-      <ingredients>
-         <li>
-            <filter>
-               <thingDefs>
-                  <li>Steel</li>
-               </thingDefs>
-            </filter>
-            <count>20</count>
-         </li>
-      </ingredients>
-      <products>
-         <RepairKitAT>1</RepairKitAT>
-      </products>
-      <workAmount>1650</workAmount>
-      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-      <workSkill>Crafting</workSkill>
-    <effectWorking>Smelt</effectWorking>
-    <soundWorking>Recipe_Smelt</soundWorking>
-	 <recipeUsers>
-		<li>TableMachining</li>
-		<li>AndroidPartsTable</li>
-      </recipeUsers>
-      
-	</RecipeDef>
+   
 
-   <RecipeDef>
-      <defName>AIPersonaCore</defName>
-      <label>Make an AI persona core</label>
-      <description>Create a complexe AI core capable of sentience.</description>
-      <jobString>Making AI Core</jobString>  
-      <allowMixingIngredients>false</allowMixingIngredients>
-      <ingredients>
-         <li>
-            <filter>
-               <thingDefs>
-                  <li>Plasteel</li>
-               </thingDefs>
-            </filter>
-            <count>120</count>
-         </li>
-         <li>
-            <filter>
-               <thingDefs>
-                  <li>Uranium</li>
-               </thingDefs>
-            </filter>
-            <count>8</count>
-         </li>
-         <li>
-            <filter>
-               <thingDefs>
-                  <li>Gold</li>
-               </thingDefs>
-            </filter>
-            <count>10</count>
-         </li>
-         <li>
-            <filter>
-               <thingDefs>
-                  <li>ComponentSpacer</li>
-               </thingDefs>
-            </filter>
-            <count>10</count>
-         </li>
-      </ingredients>
-      <products>
-         <AIPersonaCore>1</AIPersonaCore>
-      </products>
-      <workAmount>8650</workAmount>
-	  <researchPrerequisite>T5Research</researchPrerequisite>
-      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-      <workSkill>Crafting</workSkill>
-    <effectWorking>Smelt</effectWorking>
-    <soundWorking>Recipe_Smelt</soundWorking>
-	 <recipeUsers>
-		<li>TableMachining</li>
-		<li>AndroidPartsTable</li>
-      </recipeUsers>
-      
-	</RecipeDef>
+   
 
 	<ThingDef ParentName="ResourceBase">
 		<defName>AndroidT1Kit</defName>
@@ -209,113 +126,9 @@
 	</ThingDef>
 	
 	
-   <RecipeDef>
-      <defName>CreateT1AndroidKit</defName>
-      <label>Create T1 Android Kit</label>
-      <description>Create a T1 Android Kit from Plasteel and components.</description>
-      <jobString>Making Android</jobString>  
-      <allowMixingIngredients>false</allowMixingIngredients>
-	  <skillRequirements>
-		<Crafting>10</Crafting>
-      </skillRequirements>
-      <ingredients>
-         <li>
-            <filter>
-               <thingDefs>
-                  <li>Plasteel</li>
-               </thingDefs>
-            </filter>
-            <count>20</count>
-         </li>
-         <li>
-            <filter>
-               <thingDefs>
-                  <li>Steel</li>
-               </thingDefs>
-            </filter>
-            <count>80</count>
-         </li>
-         <li>
-            <filter>
-               <thingDefs>
-                  <li>ComponentIndustrial</li>
-               </thingDefs>
-            </filter>
-            <count>10</count>
-         </li>
-      </ingredients>
-      <products>
-         <AndroidT1Kit>1</AndroidT1Kit>
-      </products>
-	  <researchPrerequisite>T1Androids</researchPrerequisite>
-      <workAmount>12500</workAmount>
-	  <unfinishedThingDef>UnfinishedAndroid</unfinishedThingDef>
-      <workSkill>Crafting</workSkill>
-    <effectWorking>Repair</effectWorking>
-    <soundWorking>Recipe_Machining</soundWorking>
-    <workSpeedStat>ButcheryMechanoidSpeed</workSpeedStat>
-	 <recipeUsers>
-		<li>AndroidProductionVat</li>
-      </recipeUsers>
-	</RecipeDef>
+   
 	
-   <RecipeDef>
-      <defName>CreateT2AndroidKit</defName>
-      <label>Create T2 Android Kit</label>
-      <description>Create a T2 Android Kit from Plasteel and components.</description>
-      <jobString>Making Android</jobString>  
-      <allowMixingIngredients>false</allowMixingIngredients>
-	  <skillRequirements>
-		<Crafting>14</Crafting>
-      </skillRequirements>
-      <ingredients>
-         <li>
-            <filter>
-               <thingDefs>
-                  <li>Plasteel</li>
-               </thingDefs>
-            </filter>
-            <count>60</count>
-         </li>
-         <li>
-            <filter>
-               <thingDefs>
-                  <li>Steel</li>
-               </thingDefs>
-            </filter>
-            <count>85</count>
-         </li>
-         <li>
-            <filter>
-               <thingDefs>
-                  <li>ComponentIndustrial</li>
-               </thingDefs>
-            </filter>
-            <count>15</count>
-         </li>
-         <li>
-            <filter>
-               <thingDefs>
-                  <li>Gold</li>
-               </thingDefs>
-            </filter>
-            <count>2.5</count>
-         </li>
-      </ingredients>
-      <products>
-         <AndroidT2Kit>1</AndroidT2Kit>
-      </products>
-	  <researchPrerequisite>T2Androids</researchPrerequisite>
-      <workAmount>18500</workAmount>
-	  <unfinishedThingDef>UnfinishedAndroid</unfinishedThingDef>
-      <workSkill>Crafting</workSkill>
-    <effectWorking>Repair</effectWorking>
-    <soundWorking>Recipe_Machining</soundWorking>
-    <workSpeedStat>ButcheryMechanoidSpeed</workSpeedStat>
-	 <recipeUsers>
-		<li>AndroidProductionVat</li>
-      </recipeUsers>
-	</RecipeDef>
+   
 	
 	<!--
 	<ThingDef ParentName="ResourceBase">

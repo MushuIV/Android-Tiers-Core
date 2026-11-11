@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 
   <ThingDef Name="BodyPartBaseBackstory" Abstract="True">
@@ -17,7 +17,7 @@
     <isTechHediff>false</isTechHediff>
 	<tradeability>None</tradeability>
     <comps>
-      <li Class="CompProperties_Forbiddable"/>
+      <li Class="CompProperties_Forbiddable" />
     </comps>
     <pathCost>10</pathCost>
   </ThingDef>
@@ -46,45 +46,7 @@
     </statBases>
   </ThingDef>
   
-    <RecipeDef ParentName="SurgeryAndroid">
-		<defName>InstallBackstory_PitFighterUpgradeItem</defName>
-		<label>install pit gauntlet</label>
-		<description>Installs a pit gauntlet.</description>
-		<workerClass>MOARANDROIDS.Recipe_InstallArtificialBodyPartAndroid</workerClass>
-		<jobString>Installing pit gauntlet.</jobString>
-		
-		<workAmount>1300</workAmount>
-		<surgerySuccessChanceFactor>1</surgerySuccessChanceFactor>
-		<ingredients>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>Backstory_PitFighterUpgradeItem</li>
-					</thingDefs>
-				</filter>
-				<count>1</count>
-			</li>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>RepairKitAT</li>
-					</thingDefs>
-				</filter>
-				<count>1</count>
-			</li>
-		</ingredients>
-		<fixedIngredientFilter>
-			<thingDefs>
-				<li>RepairKitAT</li>
-				<li>Backstory_PitFighterUpgradeItem</li>
-			</thingDefs>
-		</fixedIngredientFilter>
-		<appliedOnFixedBodyParts>
-			<li>RightMechanicalHand</li>
-			<li>LeftMechanicalHand</li>
-		</appliedOnFixedBodyParts>
-		<addsHediff>Backstory_PitFighterUpgrade</addsHediff>
-	</RecipeDef>
+    
 
   <!--Archotech high council-->
   
@@ -101,44 +63,7 @@
     </statBases>
   </ThingDef>
   
-    <RecipeDef ParentName="SurgeryAndroid">
-		<defName>InstallBackstory_HighCouncilUpgradeItem</defName>
-		<label>install quantum mind</label>
-		<description>Installs a quantum mind.</description>
-		<workerClass>MOARANDROIDS.Recipe_InstallArtificialBodyPartAndroid</workerClass>
-		<jobString>Installing quantum mind.</jobString>
-		
-		<workAmount>1300</workAmount>
-		<surgerySuccessChanceFactor>0.5</surgerySuccessChanceFactor>
-		<ingredients>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>Backstory_HighCouncilUpgradeItem</li>
-					</thingDefs>
-				</filter>
-				<count>1</count>
-			</li>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>RepairKitAT</li>
-					</thingDefs>
-				</filter>
-				<count>5</count>
-			</li>
-		</ingredients>
-		<fixedIngredientFilter>
-			<thingDefs>
-				<li>RepairKitAT</li>
-				<li>Backstory_HighCouncilUpgradeItem</li>
-			</thingDefs>
-		</fixedIngredientFilter>
-		<appliedOnFixedBodyParts>
-			<li>ArtificialBrain</li>
-		</appliedOnFixedBodyParts>
-		<addsHediff>Backstory_HighCouncilUpgrade</addsHediff>
-	</RecipeDef>
+    
 	
   <ThingDef ParentName="BodyPartATBackstoryBase">
     <defName>Backstory_TranscendantAssimilatorUpgradeItem</defName>
@@ -153,43 +78,5 @@
     </statBases>
   </ThingDef>
   
-    <RecipeDef ParentName="SurgeryAndroid">
-		<defName>InstallBackstory_TranscendantAssimilatorUpgradeItem</defName>
-		<label>install plasma gauntlet</label>
-		<description>Installs a plasma gauntlet.</description>
-		<workerClass>MOARANDROIDS.Recipe_InstallArtificialBodyPartAndroid</workerClass>
-		<jobString>Installing plasma gauntlet.</jobString>
-		
-		<workAmount>1300</workAmount>
-		<surgerySuccessChanceFactor>0.5</surgerySuccessChanceFactor>
-		<ingredients>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>Backstory_TranscendantAssimilatorUpgradeItem</li>
-					</thingDefs>
-				</filter>
-				<count>1</count>
-			</li>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>RepairKitAT</li>
-					</thingDefs>
-				</filter>
-				<count>5</count>
-			</li>
-		</ingredients>
-		<fixedIngredientFilter>
-			<thingDefs>
-				<li>RepairKitAT</li>
-				<li>Backstory_TranscendantAssimilatorUpgradeItem</li>
-			</thingDefs>
-		</fixedIngredientFilter>
-		<appliedOnFixedBodyParts>
-			<li>RightMechanicalHand</li>
-			<li>LeftMechanicalHand</li>
-		</appliedOnFixedBodyParts>
-		<addsHediff>Backstory_TranscendantAssimilatorUpgrade</addsHediff>
-	</RecipeDef>
+    
 </Defs>

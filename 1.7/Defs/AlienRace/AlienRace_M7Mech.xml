@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 	<ThingDef Name="BasePawnMech" Abstract="True">
 		<thingClass>Pawn</thingClass>
@@ -333,105 +333,9 @@
 			</li>
 		</modExtensions>
 	</AlienRace.ThingDef_AlienRace>
-	<PawnKindDef ParentName="BasePlayerPawnKind">
-		<defName>M7MechPawn</defName>
-		<label>M7 mech</label>
-		<race>M7Mech</race>
-		<combatPower>1000</combatPower>
-		<canArriveManhunter>false</canArriveManhunter>
-		<ecoSystemWeight>9999</ecoSystemWeight>
-		<backstoryFiltersOverride>
-			<li>
-				<categories>
-					<li>Mechdrop</li>
-				</categories>
-			</li>
-		</backstoryFiltersOverride>
-		<defaultFactionType>PlayerColony</defaultFactionType>
-		<aiAvoidCover>true</aiAvoidCover>
-		<weaponMoney>
-			<min>800</min>
-			<max>1200</max>
-		</weaponMoney>
-		<weaponTags>
-			<li>MechM7Gun</li>
-		</weaponTags>
-		<initialResistanceRange>13~21</initialResistanceRange>
-	</PawnKindDef>
-	<AlienRace.BackstoryDef>
-		<defName>MechanizedInfantry</defName>
-		<title>Mechanized infantry</title>
-		<titleShort>Mech</titleShort>
-		<baseDescription>{PAWN_nameDef} is a form of mechanized infantry, very powerful war units that are unfortunately very weakly programmed.</baseDescription>
-		<bodyTypeMale>Male</bodyTypeMale>
-		<bodyTypeFemale>Female</bodyTypeFemale>
-		<slot>Adulthood</slot>
-		<spawnCategories>
-			<li>Mechdrop</li>
-			<li>ColonyMechStory</li>
-		</spawnCategories>
-		<skillGains>
-			<li>
-				<defName>Melee</defName>
-				<amount>12</amount>
-			</li>
-			<li>
-				<defName>Shooting</defName>
-				<amount>12</amount>
-			</li>
-		</skillGains>
-		<workDisables>
-			<li>Artistic</li>
-			<li>Caring</li>
-			<li>PlantWork</li>
-			<li>Animals</li>
-			<li>Intellectual</li>
-			<li>ManualSkilled</li>
-			<li>Crafting</li>
-			<li>Cleaning</li>
-		</workDisables>
-	</AlienRace.BackstoryDef>
-	<AlienRace.BackstoryDef>
-		<defName>FactoryMade</defName>
-		<title>Factory made</title>
-		<titleShort>Mech</titleShort>
-		<baseDescription>this mech was formed inside an ancient factory.</baseDescription>
-		<bodyTypeMale>Male</bodyTypeMale>
-		<slot>Childhood</slot>
-		<spawnCategories>
-			<li>Mechdrop</li>
-		</spawnCategories>
-		<forcedHediffs>
-			<li>BatteryChargeMech</li>
-			<li>AndroidTiers_EmotionlessCard</li>
-		</forcedHediffs>
-	</AlienRace.BackstoryDef>
-	<TraitDef>
-		<defName>MechAtlas</defName>
-		<commonality>1</commonality>
-		<degreeDatas>
-			<li>
-				<label>Mech</label>
-				<description>A mechanized infantry unit, they do not think or feel.</description>
-				<statOffsets>
-					<SocialImpact>-0.90</SocialImpact>
-				</statOffsets>
-			</li>
-		</degreeDatas>
-	</TraitDef>
-	<ThoughtDef>
-		<defName>MoodOffsetMech</defName>
-		<workerClass>ThoughtWorker_AlwaysActive</workerClass>
-		<validWhileDespawned>true</validWhileDespawned>
-		<requiredTraits>
-			<li>MechAtlas</li>
-		</requiredTraits>
-		<stages>
-			<li>
-				<label>Unfeeling</label>
-				<description>this mechanised infantry is unfeeling and without emotion.</description>
-				<baseMoodEffect>100</baseMoodEffect>
-			</li>
-		</stages>
-	</ThoughtDef>
+	
+	
+	
+	
+	
 </Defs>
