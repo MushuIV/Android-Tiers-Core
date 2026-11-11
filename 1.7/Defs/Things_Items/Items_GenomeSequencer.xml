@@ -23,7 +23,7 @@
 		<label>Male TX2K frame</label>
 		<description>An inactive TX2K functional exoskeleton waiting to be activated in a VAT when its skin has grown</description>
 		<graphicData>
-			<texPath>Things/Misc/Androids/GenomeSequencers/TX2K/Male</texPath>
+			<texPath>Things/Item/GenomeSequencers/TX2K/Male</texPath>
 		</graphicData>
 		<comps>
 			<li Class="QEthics.CompProperties_CustomName"/>
@@ -40,7 +40,7 @@
 		<label>Female TX2K frame</label>
 		<description>An inactive TX2K functional exoskeleton waiting to be activated in a VAT when its skin has grown</description>
 		<graphicData>
-			<texPath>Things/Misc/Androids/GenomeSequencers/TX2K/Female</texPath>
+			<texPath>Things/Item/GenomeSequencers/TX2K/Female</texPath>
 		</graphicData>
 		<comps>
 			<li Class="QEthics.CompProperties_CustomName"/>
@@ -57,7 +57,7 @@
 		<label>Male TX3 frame</label>
 		<description>An inactive TX3 functional exoskeleton waiting to be activated in a VAT when its skin has grown</description>
 		<graphicData>
-			<texPath>Things/Misc/Androids/GenomeSequencers/TX34/Male</texPath>
+			<texPath>Things/Item/GenomeSequencers/TX34/Male</texPath>
 		</graphicData>
 		<comps>
 			<li Class="QEthics.CompProperties_CustomName"/>
@@ -74,7 +74,7 @@
 		<label>Female TX3 frame</label>
 		<description>An inactive TX3 functional exoskeleton waiting to be activated in a VAT when its skin has grown</description>
 		<graphicData>
-			<texPath>Things/Misc/Androids/GenomeSequencers/TX34/Female</texPath>
+			<texPath>Things/Item/GenomeSequencers/TX34/Female</texPath>
 		</graphicData>
 		<comps>
 			<li Class="QEthics.CompProperties_CustomName"/>
@@ -91,7 +91,7 @@
 		<label>Male TX4 frame</label>
 		<description>An inactive TX4 functional exoskeleton waiting to be activated in a VAT when its skin has grown</description>
 		<graphicData>
-			<texPath>Things/Misc/Androids/GenomeSequencers/TX34/Male</texPath>
+			<texPath>Things/Item/GenomeSequencers/TX34/Male</texPath>
 		</graphicData>
 		<comps>
 			<li Class="QEthics.CompProperties_CustomName"/>
@@ -108,7 +108,7 @@
 		<label>Female TX4 frame</label>
 		<description>An inactive TX4 functional exoskeleton waiting to be activated in a VAT when its skin has grown</description>
 		<graphicData>
-			<texPath>Things/Misc/Androids/GenomeSequencers/TX34/Female</texPath>
+			<texPath>Things/Item/GenomeSequencers/TX34/Female</texPath>
 		</graphicData>
 		<comps>
 			<li Class="QEthics.CompProperties_CustomName"/>

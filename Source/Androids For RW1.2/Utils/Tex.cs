@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -134,18 +134,18 @@ namespace MOARANDROIDS
                 if (front==1)
                 {
                     if(gender == "M")
-                        path = "Things/Misc/Androids/Effects/Front";
+                        path = "Things/Droids/Effects/Front";
                     else
-                        path = "Things/Misc/Androids/Effects/FFront";
+                        path = "Things/Droids/Effects/FFront";
 
                     eyeGlowEffectCache[key] = GraphicDatabase.Get<Graphic_Single>(path+type, ShaderDatabase.MoteGlow, Vector2.one, color);
                 }
                 else
                 {
                     if (gender == "M")
-                        path = "Things/Misc/Androids/Effects/Side";
+                        path = "Things/Droids/Effects/Side";
                     else
-                        path = "Things/Misc/Androids/Effects/FSide";
+                        path = "Things/Droids/Effects/FSide";
 
                     eyeGlowEffectCache[key] = GraphicDatabase.Get<Graphic_Single>(path+type, ShaderDatabase.MoteGlow, Vector2.one, color);
                 }

@@ -95,8 +95,8 @@
 			</generalSettings>
 			<graphicPaths>
 				<li>
-					<body>Things/Misc/Androids/Models/TX4/body/</body>
-					<head>Things/Misc/Androids/Models/TX4/head/</head>
+					<body>Things/Droids/TX4/body/</body>
+					<head>Things/Droids/TX4/head/</head>
 				</li>
 			</graphicPaths>
 			<styleSettings>

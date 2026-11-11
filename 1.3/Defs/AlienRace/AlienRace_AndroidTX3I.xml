@@ -73,8 +73,8 @@
 			</generalSettings>
 			<graphicPaths>
 				<li>
-					<body>Things/Misc/Androids/Models/TX3I/body/</body>
-					<head>Things/Misc/Androids/Models/TX3I/head/</head>
+					<body>Things/Droids/TX3I/body/</body>
+					<head>Things/Droids/TX3I/head/</head>
 				</li>
 			</graphicPaths>
 			<styleSettings>
