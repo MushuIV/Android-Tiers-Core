@@ -1,51 +1,68 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Android tiers</name>
-  <author>Atlas, aRandomKiwi, CrackaJack</author>
+  <author>Atlas, aRandomKiwi, CrackaJack, MushuIV</author>
+  <authors>
+    <li>Atlas</li>
+    <li>aRandomKiwi</li>
+    <li>CrackaJack</li>
+    <li>MushuIV</li>
+  </authors>
+  <url>https://github.com/MushuIV/Android-Tiers-Core</url>
+  <modVersion>3.0.0 (RW 1.7)</modVersion>
+  <packageId>Atlas.AndroidTiers</packageId>
+
   <supportedVersions>
-	<li>1.0</li>
-	<li>1.1</li>
-	<li>1.2</li>
-	<li>1.3</li>
-	<li>1.7</li>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+    <li>1.7</li>
   </supportedVersions>
+
   <modDependencies>
     <li>
-        <packageId>brrainz.harmony</packageId>
-        <displayName>Harmony</displayName>
-        <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
-        <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
     </li>
-	<li>
-		<packageId>erdelf.HumanoidAlienRaces</packageId>
-		<displayName>Humanoid Alien Races 2.0</displayName>
-		<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=839005762</steamWorkshopUrl>
-		<downloadUrl>https://github.com/RimWorld-CCL-Reborn/AlienRaces</downloadUrl>
-	</li>
-	<li>
-      <packageId>CarnySenpai.EnableOversizedWeapons</packageId>
-      <displayName>Enable Oversized Weapons</displayName>
-      <steamWorkshopUrl>steam://url/CommunityFilePage/2543371889</steamWorkshopUrl>
+    <li>
+      <packageId>erdelf.HumanoidAlienRaces</packageId>
+      <displayName>Humanoid Alien Races</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=839005762</steamWorkshopUrl>
+      <downloadUrl>https://github.com/RimWorld-CCL-Reborn/AlienRaces</downloadUrl>
     </li>
   </modDependencies>
-  <packageId>Atlas.AndroidTiers</packageId>
-   <loadAfter>
-    <li>brrainz.harmony</li>
-	<li>erdelf.HumanoidAlienRaces</li>
-   </loadAfter>
-   
-  <description><![CDATA[  
-- Adds 5 tiers of standard android colonists along with android animals
-- Full integrated TX Series infiltration androids (TX2, TX2K, TX3, TX4 and infantry variants) with living skin and EMP/solar flare immunity
-- 2 new android factions
-- Allow to remotely control surrogate androids
-- Allow to digitize and store your colonists minds in supercomputers
-- Android specific diseases
-- Tons of replaceable upgrades / downgrades for androids
-- Fully customizable
-- More, etc etc 
 
-Version <color=#FFD800>3.0.0RC rev6</color>
-	]]>
-  </description>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>Ludeon.RimWorld</li>
+    <li>Ludeon.RimWorld.Royalty</li>
+    <li>Ludeon.RimWorld.Ideology</li>
+    <li>Ludeon.RimWorld.Biotech</li>
+    <li>Ludeon.RimWorld.Anomaly</li>
+    <li>Ludeon.RimWorld.Odyssey</li>
+    <li>erdelf.HumanoidAlienRaces</li>
+    <li>CarnySenpai.EnableOversizedWeapons</li>
+    <li>Mlie.QuestionableEthicsEnhanced</li>
+    <li>questionableethics.enhanced</li>
+  </loadAfter>
+   
+  <description><![CDATA[
+- Adds 5 tiers of autonomous mechanical colonists along with cybernetic animals
+- Full integrated TX Series infiltration androids (TX2, TX2K, TX3, TX4 and infantry variants) with living synthetic flesh, human disguise, and EMP/solar flare immunity
+- 2 autonomous android factions (Civil Android Collective and Android Insurrection)
+- Remote control surrogate android avatars via SkyMind network
+- Digitize, upload, duplicate, and store colonist minds in centralized supercomputers
+- Mechanical-specific ailments, maintenance faults, and coolant failures
+- Deep cybernetic upgrade tree (replacement organs, specialized processors, nanite frameworks)
+- Full expansion compatibility: vacuum/orbital-sealed for Odyssey, toxic/pollution immune for Biotech, mind-isolated from Anomaly flesh parasites
+
+Optional Integrations:
+- Questionable Ethics Enhanced (QEE): Enables vat-growing TX Series infiltration chassis using donor human genomes.
+- Enable Oversized Weapons: Enhanced rendering for M7/M8 mechanized heavy armaments.
+
+Version <color=#FFD800>3.0.0 (RW 1.7)</color>
+  ]]></description>
 </ModMetaData>
