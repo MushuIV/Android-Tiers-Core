@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
 	<ATPP_Android2TXKind.label>Colons androide TX2</ATPP_Android2TXKind.label>
@@ -20,6 +20,6 @@
 	<ATPP_Android3ITXKind.labelPlural>Colons androide TX3I</ATPP_Android3ITXKind.labelPlural>
 	
 	<ATPP_Android4ITXKind.label>Colon androide TX4I</ATPP_Android4ITXKind.label>
-	<ATPP_Android4ITXKind.labelPlural>Colons androide TX4I</ATPP_Android4TXKind.labelPlural>
+	<ATPP_Android4ITXKind.labelPlural>Colons androide TX4I</ATPP_Android4ITXKind.labelPlural>
 	
 </LanguageData>

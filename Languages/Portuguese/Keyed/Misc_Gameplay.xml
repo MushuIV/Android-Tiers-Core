@@ -477,4 +477,40 @@
 	<ATPP_SettingsPassionCost>Pontos de habilidade necessários para aumentar a paixão ({0})</ATPP_SettingsPassionCost>
 	<ATPP_SettingsVX0KeepBodyBackstory>Mantém a história do fantoche (VX0)</ATPP_SettingsVX0KeepBodyBackstory>
 	
+	<!-- SkyCloud & Surrogates -->
+	<ATPP_LetterInterruptedSkyCloudMigration>Migração Falhou</ATPP_LetterInterruptedSkyCloudMigration>
+	<ATPP_LetterInterruptedSkyCloudMigrationDesc>A migração da consciência de {0} falhou porque o núcleo SkyCloud de destino está desconectado.</ATPP_LetterInterruptedSkyCloudMigrationDesc>
+	<ATPP_LetterExternalSurrogateEscape>Fuga do controlador do substituto</ATPP_LetterExternalSurrogateEscape>
+	<ATPP_LetterExternalSurrogateEscapeDesc>{0}, o controlador do substituto que você está tentando recrutar, decidiu se juntar à sua colônia. Ele se desconectará de seu substituto e fugirá discretamente da base inimiga em que está para se juntar à sua colônia dentro de vários dias.</ATPP_LetterExternalSurrogateEscapeDesc>
+	<ATPP_LetterExternalSurrogateControllerJoin>Ex-prisioneiro se juntou</ATPP_LetterExternalSurrogateControllerJoin>
+	<ATPP_LetterExternalSurrogateControllerJoinDesc>{0}, um controlador de substituto que você prendeu e converteu com sucesso, acaba de chegar à sua colônia e se juntou a você.</ATPP_LetterExternalSurrogateControllerJoinDesc>
+	<ATPP_LetterExternalSurrogateControllerCannotJoin>Ex-prisioneiro não conseguiu chegar</ATPP_LetterExternalSurrogateControllerCannotJoin>
+	<ATPP_LetterExternalSurrogateControllerCannotJoinDesc>{0}, um controlador de substituto que você prendeu e converteu com sucesso, tentou alcançar sua colônia, mas por algum motivo desconhecido não conseguiu e partiu.</ATPP_LetterExternalSurrogateControllerCannotJoinDesc>
+	<ATPP_LetterExternalSurrogateDisconnect>Desconexão do controlador</ATPP_LetterExternalSurrogateDisconnect>
+	<ATPP_LetterExternalSurrogateDisconnectDesc>{0}, o controlador do substituto que você tentou escravizar, se desconectou porque ele e sua facção acham que não poderão mais obter informações da sua colônia e continuar como escravo seria uma perda de tempo.</ATPP_LetterExternalSurrogateDisconnectDesc>
+	<ATPP_LetterKidnappedM8Disconnected>Desconexão do M8</ATPP_LetterKidnappedM8Disconnected>
+	<ATPP_LetterKidnappedM8DisconnectedDesc>Os sequestradores do seu M8 ({0} hospedando {1}) conseguiram acesso aos circuitos de comunicação. Percebendo que a máquina continuava se comunicando através de sua antena SkyMind integrada, eles a desconectaram. Você não poderá mais se conectar a {1}.</ATPP_LetterKidnappedM8DisconnectedDesc>
+	<ATPP_FreeControllerInCaravan>Caravana</ATPP_FreeControllerInCaravan>
+	<ATPP_FreeControllerInCaravanDesc>Conectar este substituto a um controlador livre em uma caravana</ATPP_FreeControllerInCaravanDesc>
+	<ATPP_StartSkyCloudUploadFailedFull>O upload da consciência de {0} em {1} não pode ser feito porque não há espaço de armazenamento de consciência suficiente em {1}</ATPP_StartSkyCloudUploadFailedFull>
+	<ATPP_StartSkyCloudMigrationFailed>A migração da consciência de {0} em {1} não pode ser feita porque não há espaço de armazenamento de consciência suficiente em {1}</ATPP_StartSkyCloudMigrationFailed>
+	<ATPP_ProcessDuplicateFailed>Não é possível duplicar a rede neural de {0}, não há espaço de armazenamento de consciência suficiente no núcleo</ATPP_ProcessDuplicateFailed>
+	<ATPP_CannotAddVXNeuralChipInSurrogates>Não é possível adicionar este tipo de chip em um substituto! O chip foi danificado e não pode mais ser usado!</ATPP_CannotAddVXNeuralChipInSurrogates>
+
+	<!-- Additional Settings -->
+	<ATPP_SettingsSectionBatteryOverload>Sobrecarga da bateria</ATPP_SettingsSectionBatteryOverload>
+	<ATPP_SettingsAllowSurrogateConnectionInitMalus>Permitir penalidade de inicialização de conexão de substituto</ATPP_SettingsAllowSurrogateConnectionInitMalus>
+	<ATPP_SettingsAllowAndroidsToUseHospitalBeds>Permitir que androides usem camas hospitalares</ATPP_SettingsAllowAndroidsToUseHospitalBeds>
+	<ATPP_SettingsPercentageOfOtherFactionSurrogateHavingAnRXChip>Chance de substitutos de outras facções possuírem chip RX ({0}%)</ATPP_SettingsPercentageOfOtherFactionSurrogateHavingAnRXChip>
+	<ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>Chance de controlador de substituto recrutado escapar e se juntar à sua facção sem ser preso ({0}%)</ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>
+	<ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>Número mínimo de horas antes que M8 sequestrado seja desconectado do SkyMind ({0}h)</ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>
+	<ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>Número máximo de horas antes que M8 sequestrado seja desconectado do SkyMind ({0}h)</ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>
+	<ATPP_SettingsAndroidOverloadBatteryProrata>A potência da explosão é proporcional ao nível da bateria</ATPP_SettingsAndroidOverloadBatteryProrata>
+	<ATPP_SettingsAndroidOverloadRadius>Raio de explosão do androide ({0})</ATPP_SettingsAndroidOverloadRadius>
+	<ATPP_SettingsM7OverloadRadius>Raio de explosão do M7 ({0})</ATPP_SettingsM7OverloadRadius>
+	<ATPP_SettingsAndroidOverloadExplosionType>Tipo de explosão</ATPP_SettingsAndroidOverloadExplosionType>
+	<ATPP_SettingsAndroidOverloadExplosionTypeDefault>Fragmentação</ATPP_SettingsAndroidOverloadExplosionTypeDefault>
+	<ATPP_SettingsAndroidOverloadExplosionTypeFire>Incendiária</ATPP_SettingsAndroidOverloadExplosionTypeFire>
+	<ATPP_SettingsSetT1ResearchToIndustrialTechLevel>Alterar pesquisa T1 para nível industrial em vez de espacial</ATPP_SettingsSetT1ResearchToIndustrialTechLevel>
+	<ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>Na duplicação de mente, habilidades de papéis únicos são transferidas para a mente de destino</ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>
 </LanguageData>

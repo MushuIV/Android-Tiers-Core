@@ -513,4 +513,42 @@
 	<ATPP_SettingsAndroidOverloadExplosionTypeFire>Incendiaire</ATPP_SettingsAndroidOverloadExplosionTypeFire>
 	<ATPP_SettingsSetT1ResearchToIndustrialTechLevel>Changer la recherche des T1 pour nécessiter le niveau technologique industriel et non spacial</ATPP_SettingsSetT1ResearchToIndustrialTechLevel>
 	<ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>Lors d'une duplication, les rôles uniques sont transférés à l'esprit de destination</ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>
+
+	<!-- Alerts & Messages -->
+	<NeedMechanic>Besoin d'un mécanicien</NeedMechanic>
+	<NeedMechanicDesc>Ces androïdes ont besoin de réparations, mais vous n'avez aucun colon valide affecté comme mécanicien.\n\n{0}\nAssignez un colon en bonne santé au travail de Mécanicien. Si les dommages ne sont pas réparés rapidement, ils peuvent devenir permanents.</NeedMechanicDesc>
+	<AT_Leaking>Fuite</AT_Leaking>
+	<AT_LeakingRate>Taux de fuite</AT_LeakingRate>
+
+	<!-- Faction Greetings -->
+	<AndroidFactionGreetingHostileI>Un message automatisé retentit, exigeant un geste de bonne volonté, tel qu'apporter des cadeaux à l'une de leurs colonies ou libérer indemnes les prisonniers de leur faction. D'ici là, {0} refuse de discuter.</AndroidFactionGreetingHostileI>
+	<AndroidFactionGreetingHostileII>{0} compare votre colonie à des sauvages, déclarant que si vous souhaitez vous racheter, vous pouvez apporter des cadeaux ou libérer les prisonniers de sa faction indemnes.</AndroidFactionGreetingHostileII>
+	<AndroidFactionGreetingHostileIII>{0} vous qualifie d'êtres froids et monstrueux avant de couper court à toute communication.</AndroidFactionGreetingHostileIII>
+	<AndroidFactionGreetingWaryI>La voix mécanique et grave de {0} salue {NEGOTIATOR_labelShort}, demandant quel sujet vous souhaitez aborder.</AndroidFactionGreetingWaryI>
+	<AndroidFactionGreetingWaryII>Un message automatisé se déclenche, demandant à {NEGOTIATOR_labelShort} ce qu'il désire.</AndroidFactionGreetingWaryII>
+	<AndroidFactionGreetingWaryIII>{0} ouvre la communication avec méfiance à {NEGOTIATOR_labelShort}, demandant de quoi vous souhaitez parler.</AndroidFactionGreetingWaryIII>
+	<AndroidFactionGreetingWarmI>{0} vous souhaite chaleureusement la bienvenue et demande comment la faction peut vous aider aujourd'hui.</AndroidFactionGreetingWarmI>
+	<AndroidFactionGreetingWarmII>{0} salue chaleureusement {NEGOTIATOR_labelShort} et se met à l'écoute de votre proposition.</AndroidFactionGreetingWarmII>
+	<AndroidFactionGreetingWarmIII>{0} répond poliment et se dit ravi de pouvoir échanger avec des alliés de confiance.</AndroidFactionGreetingWarmIII>
+
+	<!-- Atlas Letters & Events -->
+	<Atlas_FactionChange>{0} a été reprogrammé avec succès. Il fait désormais partie de la colonie.</Atlas_FactionChange>
+	<LetterLabelAtlas_FactionChange>Nouveau colon</LetterLabelAtlas_FactionChange>
+	<Atlas_LossOfSelfWill>Le libre arbitre de {0} a été étouffé. Il est désormais incapable de penser librement ou d'éprouver des émotions, et n'interagira plus aussi fréquemment avec les autres colons. De plus, il a perdu tous ses traits au cours du processus, devenant une simple machine obéissante.</Atlas_LossOfSelfWill>
+	<LetterLabelAtlas_LossOfSelfWill>Libre arbitre de l'androïde</LetterLabelAtlas_LossOfSelfWill>
+	<Atlas_Mutation>{0} a muté en fractale ! Une abomination de chair torturée causée par la pilule fractale !</Atlas_Mutation>
+	<LetterLabelAtlas_Mutation>Mutation de colon</LetterLabelAtlas_Mutation>
+	<Atlas_TraitReroll>La personnalité de {0} a été modifiée et ses traits ont été relancés.</Atlas_TraitReroll>
+	<LetterLabelAtlas_TraitReroll>Changement de personnalité d'androïde</LetterLabelAtlas_TraitReroll>
+
+	<!-- Medical Failures -->
+	<MessageMedicalOperationFailureMinorAndroid>{0} a commis une erreur mineure en opérant sur {1}.</MessageMedicalOperationFailureMinorAndroid>
+	<MessageMedicalOperationFailureCatastrophicAndroid>{0} a commis une erreur catastrophique en opérant sur {1}.</MessageMedicalOperationFailureCatastrophicAndroid>
+	<MessageMedicalOperationFailureRidiculousAndroid>{0} a échoué de façon ridicule en opérant sur {1}.</MessageMedicalOperationFailureRidiculousAndroid>
+	<MessageMedicalOperationFailureFatalAndroid>{0} a commis une erreur fatale en opérant sur {1} en raison des défis particuliers de : {2}</MessageMedicalOperationFailureFatalAndroid>
+
+	<!-- SkyCloud & Settings -->
+	<ATPP_StartSkyCloudUploadFailedFull>Le transfert de la conscience de {0} dans {1} ne peut pas être effectué car il n'y a pas assez d'espace de stockage de conscience dans {1}</ATPP_StartSkyCloudUploadFailedFull>
+	<ATPP_StartSkyCloudMigrationFailed>La migration de la conscience de {0} dans {1} ne peut pas être effectuée car il n'y a pas assez d'espace de stockage de conscience dans {1}</ATPP_StartSkyCloudMigrationFailed>
+	<ATPP_SettingsAllowAndroidsToUseHospitalBeds>Autoriser les androïdes à utiliser les lits d'hôpital</ATPP_SettingsAllowAndroidsToUseHospitalBeds>
 </LanguageData>

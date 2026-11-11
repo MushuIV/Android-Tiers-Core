@@ -393,4 +393,6 @@
   <ATPP_SettingsAndroidOverloadExplosionTypeDefault>碎裂</ATPP_SettingsAndroidOverloadExplosionTypeDefault>
   <ATPP_SettingsAndroidOverloadExplosionTypeFire>燃烧</ATPP_SettingsAndroidOverloadExplosionTypeFire>
   <ATPP_SettingsSetT1ResearchToIndustrialTechLevel>将T1研究改为工业技术水平，而不是空间技术水平</ATPP_SettingsSetT1ResearchToIndustrialTechLevel>
+  <ATPP_CannotAddVXNeuralChipInSurrogates>不能在替身安卓越中安装此类芯片！芯片已损坏且无法再使用！</ATPP_CannotAddVXNeuralChipInSurrogates>
+  <ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>复制意识时，单一职位的能力将被转移至目标意识中</ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>
 </LanguageData>
