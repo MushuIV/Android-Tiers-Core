@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <NeedMechanic>Potreba mechanika</NeedMechanic>
+  <NeedMechanicDesc>Títo androidi potrebujú opraviť, ale žiadny zo zdravých kolonistov nemá priradenú prácu mechanika.\n\n{0}\nPriraď zdravého kolonistu k typu práce Mechanik. Ak zostanú poškodenia neopravené, nemusia sa nikdy správne zahojiť a môžu sa stať trvalými.</NeedMechanicDesc>
+  
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Atlas_FactionChange>{0} programmeeriti edukalt ümber. Nad kuuluvad nüüd kolooniasse.</Atlas_FactionChange>
+	<LetterLabelAtlas_FactionChange>Uus kolonist</LetterLabelAtlas_FactionChange>
+	
+	<Atlas_LossOfSelfWill>Isiku {0} vaba tahet on pärsitud. Seetõttu ei suuda nad enam vabalt mõelda ega tundeid tunda ning suhtlevad teiste kolonistidega harvemini. Lisaks sellele kaotasid nad protsessi käigus kõik oma iseloomujooned, muutes nad pelgalt kuulekaks masinaks.</Atlas_LossOfSelfWill>
+	<LetterLabelAtlas_LossOfSelfWill>Androidi vaba tahe</LetterLabelAtlas_LossOfSelfWill>
+	
+	<Atlas_Mutation>{0} on muteerunud fraktaaliks. Moonutatud lihast elukas, mille põhjustas fraktaaltablett!</Atlas_Mutation>
+	<LetterLabelAtlas_Mutation>Kolonisti mutatsioon</LetterLabelAtlas_Mutation>
+
+	<Atlas_TraitReroll>Isiku {0} isiksust muudeti ja tema iseloomujooned loositi uuesti.</Atlas_TraitReroll>
+	<LetterLabelAtlas_TraitReroll>Androidi isiksuse muutus</LetterLabelAtlas_TraitReroll>
+	
+</LanguageData>

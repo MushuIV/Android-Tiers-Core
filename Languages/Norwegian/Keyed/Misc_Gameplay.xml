@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- Alerts -->
+	<ATPP_AlertHot3Devices>Datamaskin overopphetet</ATPP_AlertHot3Devices>
+	<ATPP_AlertHot3DevicesDesc>Én eller flere av datamaskinene dine har nådd maksimal temperaturterskel! Vennligst gjenopprett en passende temperatur raskt!</ATPP_AlertHot3DevicesDesc>
+	<ATPP_AlertHot2Devices>Datamaskin varm</ATPP_AlertHot2Devices>
+	<ATPP_AlertHot2DevicesDesc>Én eller flere av datamaskinene dine er varme, vennligst senk romtemperaturen raskt!</ATPP_AlertHot2DevicesDesc>
+	
+	<ATPP_AlertUnsecurisedClients>{0} usikrede SkyMind-klienter</ATPP_AlertUnsecurisedClients>
+	<ATPP_AlertUnsecurisedClientsDesc>Advarsel: du har potensielt {0} SkyMind-klienter som kan hackes via nettverket. Bygg sikkerhetsservere for å forhindre dette.</ATPP_AlertUnsecurisedClientsDesc>
+	
+	<!-- Incidents -->
+	<ATPP_IncidentSurrogateHackingVirus>SX-virus</ATPP_IncidentSurrogateHackingVirus>
+	<ATPP_IncidentSurrogateHackingCryptolocker>SX-cryptolocker</ATPP_IncidentSurrogateHackingCryptolocker>
+	<ATPP_IncidentSurrogateHackingExplosiveVirus>Eksplosivt SX-virus</ATPP_IncidentSurrogateHackingExplosiveVirus>
+	<ATPP_IncidentSurrogateHackingLiteDesc>Sikkerhetssystemet ditt har nøytralisert deler av angrepet, men noen delsystemer hos {0} surrogater har blitt kompromittert.</ATPP_IncidentSurrogateHackingLiteDesc>
+	
+	<ATPP_IncidentSurrogateHackingHardDesc>Sikkerhetssystemet ditt beskytter ikke hele flåten av surrogatandroider; operativsystemene til {0} androider har blitt fullstendig kompromittert.</ATPP_IncidentSurrogateHackingHardDesc>	
+	<ATPP_IncidentVirusedDesc>Disse surrogatene er nå fullstendig under virusets kontroll og vil nå angripe deg!</ATPP_IncidentVirusedDesc>
+	<ATPP_IncidentVirusedExplosiveDesc>Disse surrogatene er nå fullstendig under virusets kontroll, vil nå angripe deg og få det interne surrogatbatteriet til å eksplodere når nedtellingen er over!</ATPP_IncidentVirusedExplosiveDesc>
+	<ATPP_IncidentCryptolockerDesc>Alle infiserte surrogater er helt ubrukelige. Dette kan (forhåpentligvis) avbrytes ved å betale løsepenger til fraksjonen bak dette angrepet.</ATPP_IncidentCryptolockerDesc>
+	
+	<ATPP_IncidentDeviceHackingVirus>Virus</ATPP_IncidentDeviceHackingVirus>
+	<ATPP_IncidentDeviceHackingCryptolocker>Cryptolocker</ATPP_IncidentDeviceHackingCryptolocker>
+	<ATPP_IncidentDeviceHackingExplosiveVirus>Eksplosivt virus</ATPP_IncidentDeviceHackingExplosiveVirus>
+	<ATPP_IncidentDeviceHackingLiteDesc>Sikkerhetssystemet ditt har nøytralisert deler av angrepet, men {0} tilkoblede enheter har blitt midlertidig kompromittert.</ATPP_IncidentDeviceHackingLiteDesc>
+	
+	<ATPP_IncidentDeviceHackingHardDesc>Sikkerhetssystemet ditt beskytter ikke alle tilkoblede enheter; operativsystemene til {0} tilkoblede enheter har blitt fullstendig kompromittert.</ATPP_IncidentDeviceHackingHardDesc>	
+	<ATPP_IncidentDeviceVirusedDesc>Disse enhetene er nå fullstendig under virusets kontroll!</ATPP_IncidentDeviceVirusedDesc>
+	<ATPP_IncidentDeviceVirusedExplosiveDesc>Disse enhetene er nå fullstendig under virusets kontroll og vil eksplodere når nedtellingen er over!</ATPP_IncidentDeviceVirusedExplosiveDesc>
+	<ATPP_IncidentDeviceCryptolockerDesc>Alle infiserte enheter er helt ubrukelige. Dette kan (forhåpentligvis) avbrytes ved å betale løsepenger til fraksjonen bak dette angrepet.</ATPP_IncidentDeviceCryptolockerDesc>
+	
+	<ATPP_LetterFactionRansomware>Løsepengevirus</ATPP_LetterFactionRansomware>
+	<ATPP_LetterFactionRansomwareSkillStolenDesc>{0} har korrumpert minneområder som tilsvarer ferdigheten '{1}' i hjernen til {2}, via SkyMind-nettverket.</ATPP_LetterFactionRansomwareSkillStolenDesc>
+	<ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>{0} har infisert hjernen til {1} og installert den negative egenskapen '{2}', via SkyMind-nettverket.</ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>
+	
+	<!-- Needs -->
+	<ATPP_EnergyNeed>Energi</ATPP_EnergyNeed>
+	<ATPP_EnergyNeedDesc>Energi er mengden strøm en android har i sitt interne batteri. Hvis den når null, vil androiden oppleve økende funksjonssvikt og til slutt bli deaktivert (dø).</ATPP_EnergyNeedDesc>
+	
+	
+	<!-- NanoKits -->
+	<ATPP_NanoKitsNoCare>Ingen reparasjon</ATPP_NanoKitsNoCare>
+	<ATPP_NanoKitsNoKitJustVisit>Teknikerbesøk uten nanokit</ATPP_NanoKitsNoKitJustVisit>
+	<ATPP_NanoKitsBasic>Enkelt nanokit</ATPP_NanoKitsBasic>
+	<ATPP_NanoKitsIntermediate>Mellomklasse nanokit</ATPP_NanoKitsIntermediate>
+	<ATPP_NanoKitsAdvanced>Avansert nanokit</ATPP_NanoKitsAdvanced>
+	
+	<!-- CompInspectPane -->
+	<ATPP_UploadPercentage>Bevissthetsopplasting: {0}%</ATPP_UploadPercentage>
+	<ATPP_DownloadPercentage>Bevissthetsnedlasting: {0}%</ATPP_DownloadPercentage>
+	
+	<ATPP_PermutationPercentage>Bevissthetspermutasjon: {0}%</ATPP_PermutationPercentage>
+	<ATPP_DuplicationPercentage>Bevissthetsduplisering: {0}%</ATPP_DuplicationPercentage>
+	<ATPP_UploadSkyCloudPercentage>Bevissthet lastet opp til SkyCloud: {0}%</ATPP_UploadSkyCloudPercentage>
+	<ATPP_DownloadFromSkyCloudPercentage>Bevissthet lastet ned fra SkyCloud: {0}%</ATPP_DownloadFromSkyCloudPercentage>
+	
+	<ATPP_SkyMindDetected>Tilkoblet SkyMind</ATPP_SkyMindDetected>
+	<ATPP_RemotelyControlledBy>Fjernstyrt av {0}.</ATPP_RemotelyControlledBy>
+	<ATPP_RemotelyControl>Fjernstyr {0}</ATPP_RemotelyControl>
+	
+	<ATPP_CompHotSensitiveHot3Text>Temperatur for høy!</ATPP_CompHotSensitiveHot3Text>
+	<ATPP_CompHotSensitiveHot2Text>Advarsel høy temperatur</ATPP_CompHotSensitiveHot2Text>
+	<ATPP_CompHotSensitiveHot1Text>Temperaturen er litt varm</ATPP_CompHotSensitiveHot1Text>
+	<ATPP_CompHotSensitiveHot0Text>Ideell driftstemperatur</ATPP_CompHotSensitiveHot0Text>
+	
+	<ATPP_CryptoLockedSurrogate>Cryptolåst, ubrukelig!</ATPP_CryptoLockedSurrogate>
+	<ATPP_ExplosiveVirus>Eksplosivt virus: {0} sekunder før batteriet eksploderer!</ATPP_ExplosiveVirus>
+	<ATPP_TempHackingLosingControlIn>Mister kontroll om {0} sekunder</ATPP_TempHackingLosingControlIn>
+	
+	<ATPP_BatteryLevel>Batterinivå: {0}%</ATPP_BatteryLevel>
+	<ATPP_TempInfection>Slutt på infeksjon om {0}</ATPP_TempInfection>
+	
+	<ATPP_SkyCloudCoreBooting>Server starter opp ({0} sekunder gjenstår)</ATPP_SkyCloudCoreBooting>
+	
+	<ATPP_NaniteFrameworkRepairingInProgress>Reparasjon av rammeverk pågår {0}%</ATPP_NaniteFrameworkRepairingInProgress>
+	<ATPP_VX3SurrogateTypePrimary>Primærsurrogat</ATPP_VX3SurrogateTypePrimary>
+	<ATPP_VX3SurrogateTypeSecondary>Sekundærsurrogat</ATPP_VX3SurrogateTypeSecondary>
+	
+	<ATPP_MindAbsorptionProgress>Bevissthetsabsorbering pågår {0}%</ATPP_MindAbsorptionProgress>
+	
+	<ATPP_Rusted>Rustet</ATPP_Rusted>
+	
+	<ATPP_BatteryExplodeInProgress>Batterieksplosjon {0}%</ATPP_BatteryExplodeInProgress>
+	
+	<!-- AutoDoor -->
+	<ATPP_AutoDoorOpen>Åpne</ATPP_AutoDoorOpen>
+	<ATPP_AutoDoorOpenDescription>Åpne eksternt via en SkyCloud-kjerne.</ATPP_AutoDoorOpenDescription>
+	<ATPP_AutoDoorClose>Lukk</ATPP_AutoDoorClose>
+	<ATPP_AutoDoorCloseDescription>Lukk eksternt via en SkyCloud-server.</ATPP_AutoDoorCloseDescription>
+	<ATPP_AutoDoorOpenMoteText>Åpner via SkyCloud</ATPP_AutoDoorOpenMoteText>
+	<ATPP_AutoDoorCloseMoteText>Lukker via SkyCloud</ATPP_AutoDoorCloseMoteText>
+	
+
+	<!-- AutoFlickering -->
+	<ATPP_FlickEnable>Slå på via SkyCloud</ATPP_FlickEnable>
+	<ATPP_FlickDisable>Slå av via SkyCloud</ATPP_FlickDisable>
+	
+	<!-- Letters -->
+	<ATPP_LetterSurrogateDisabled>Surrogat {0} deaktivert</ATPP_LetterSurrogateDisabled>
+	<ATPP_LetterSurrogateDisabledDesc>Surrogat {0} er ikke lenger operativt etter et voldsomt angrep på dets fysiske integritet.</ATPP_LetterSurrogateDisabledDesc>
+	
+	<ATPP_LetterUploadOK>Opplasting fullført</ATPP_LetterUploadOK>
+	<ATPP_LetterUploadOKDesc>Opplastingen av bevisstheten til {0} er fullført og har nå blitt overført til {1}s kunstige hjerne. {1} er nå død (bevissthet knust).</ATPP_LetterUploadOKDesc>
+	
+	<ATPP_LetterPermuteOK>Permutasjon fullført</ATPP_LetterPermuteOK>
+	<ATPP_LetterPermuteOKDesc>Bevissthetspermutasjonen er fullført; {0} og {1} har nå byttet kropper.</ATPP_LetterPermuteOKDesc>
+	
+	<ATPP_LetterDuplicateOK>Duplisering fullført</ATPP_LetterDuplicateOK>
+	<ATPP_LetterDuplicateOKDesc>Bevissthetsdupliseringen er fullført. Hjernen til {1} inneholder nå en duplikat av hjernen til {0}. {1} kan nå betraktes som død.</ATPP_LetterDuplicateOKDesc>
+	
+	<ATPP_LetterSkyCloudUploadOK>SkyCloud-opplasting fullført</ATPP_LetterSkyCloudUploadOK>
+	<ATPP_LetterSkyCloudUploadOKDesc>Bevissthetsopplastingen til SkyCloud er fullført; bevisstheten til {0} er nå lagret i sentralminnet til {1}.</ATPP_LetterSkyCloudUploadOKDesc>
+	
+	<ATPP_LetterSkyCloudReplicateOK>Replikering fullført</ATPP_LetterSkyCloudReplicateOK>
+	<ATPP_LetterSkyCloudReplicateOKDesc>Replikeringen av {0}s nevrale nettverk i minnet til {1} er fullført.</ATPP_LetterSkyCloudReplicateOKDesc>
+	
+	<ATPP_LetterSkyCloudDownloadOK>SkyCloud-nedlasting fullført</ATPP_LetterSkyCloudDownloadOK>
+	<ATPP_LetterSkyCloudDownloadOKDesc>Bevissthetsnedlastingen fra SkyCloud er fullført; bevisstheten til {0} er nå lagret i sentralminnet til {1}.</ATPP_LetterSkyCloudDownloadOKDesc>
+	
+	<ATPP_LetterSkyCloudMigrateOK>SkyCloud-bevissthetsmigrering fullført</ATPP_LetterSkyCloudMigrateOK>
+	<ATPP_LetterSkyCloudMigrateOKDesc>Bevissthetsmigreringen av {0} fra {1} til {2} er nå fullført.</ATPP_LetterSkyCloudMigrateOKDesc>
+	
+	<ATPP_LetterInterruptedUpload>Opplasting mislyktes</ATPP_LetterInterruptedUpload>
+	<ATPP_LetterInterruptedUploadDesc>Fatal feil: Overføringen av bevissthet har blitt avbrutt, noe som fører til en definitiv korrupsjon av begge hjernene (død).{0}</ATPP_LetterInterruptedUploadDesc>
+	<ATPP_LetterInterruptedUploadDescCompHostDead>Mottakervertens død</ATPP_LetterInterruptedUploadDescCompHostDead>
+	<ATPP_LetterInterruptedUploadDescCompSourceDead>Bevissthetssenderens død</ATPP_LetterInterruptedUploadDescCompSourceDead>
+	<ATPP_LetterInterruptedUploadDescCompRandomError>En ukjent feil har oppstått</ATPP_LetterInterruptedUploadDescCompRandomError>
+	<ATPP_LetterInterruptedUploadDescCompDiconnectionError>Én eller begge kolonistene er ikke lenger tilkoblet SkyMind.</ATPP_LetterInterruptedUploadDescCompDiconnectionError>
+	
+	<ATPP_LetterFactionScam>Svindlet</ATPP_LetterFactionScam>
+	<ATPP_LetterFactionScamCryptolockerDesc>{0} bestemte seg for ikke å slette cryptolocker-viruset som infiserte kolonien din; de har svindlet deg...</ATPP_LetterFactionScamCryptolockerDesc>
+	<ATPP_LetterFactionScamRansomwareDesc>{0} bestemte seg for ikke å oppheve virkningen av sitt løsepengevirus; de har svindlet deg...</ATPP_LetterFactionScamRansomwareDesc>
+	
+	
+	<ATPP_CryptolockerNeedPayRansomTitle>Cryptolocker-løsepenger</ATPP_CryptolockerNeedPayRansomTitle>
+	<ATPP_CryptolockerNeedPayRansom>{0} kontakter deg via radio. De står bak cryptolocker-virusangrepet, og vil fjerne viruset i bytte mot {1} sølv.</ATPP_CryptolockerNeedPayRansom>
+	
+	<ATPP_RansomNeedPayRansomTitle>Løsepenger for løsepengevirus</ATPP_RansomNeedPayRansomTitle>
+	<ATPP_RansomNeedPayRansomCorruptedSKill>{0} kontakter deg via radio. De står bak angrepet med løsepengevirus, og vil gjenopprette den korrumperte ferdigheten '{1}' til {2} i bytte mot {3} sølv.</ATPP_RansomNeedPayRansomCorruptedSKill>
+	<ATPP_RansomNeedPayRansomDownloadedTrait>{0} kontakter deg via radio. De står bak angrepet med løsepengevirus, og vil fjerne den installerte dårlige egenskapen '{1}' hos {2} i bytte mot {3} sølv.</ATPP_RansomNeedPayRansomDownloadedTrait>
+	
+	<ATPP_ComptHeatSensitiveComputerMeltTitle>Serveroveroppheting</ATPP_ComptHeatSensitiveComputerMeltTitle>
+    <ATPP_ComptHeatSensitiveComputerMeltDesc>En server eksploderte på grunn av høy driftstemperatur!</ATPP_ComptHeatSensitiveComputerMeltDesc>
+	
+	<ATPP_destroyedMindsDueToDestroyedSkyCloudCore>Mistet {0} bevisstheter</ATPP_destroyedMindsDueToDestroyedSkyCloudCore>
+	<ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>Etter ødeleggelsen av SkyCloud-kjerne {0} gikk alle {1} bevisstheter lagret i dens sentralminne tapt.</ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>
+	
+	<ATPP_LetterHackingPointsRemoved>Hackingpoeng tapt</ATPP_LetterHackingPointsRemoved>
+	<ATPP_LetterHackingPointsRemovedDesc>Alle hackingservere i bosetningen(e) dine er offline, noe som betyr at {0} poeng har gått tapt da de ikke lenger kan lagres på noe medium!</ATPP_LetterHackingPointsRemovedDesc>
+	
+	<ATPP_LetterSkillPointsRemoved>Ferdighetspoeng tapt</ATPP_LetterSkillPointsRemoved>
+	<ATPP_LetterSkillPointsRemovedDesc>Alle ferdighetsservere i bosetningen(e) dine er offline, noe som betyr at {0} poeng har gått tapt da de ikke lenger kan lagres på noe medium!</ATPP_LetterSkillPointsRemovedDesc>
+	
+	<ATPP_SkyCloudCoreBooted>{0} startet opp</ATPP_SkyCloudCoreBooted>
+    <ATPP_SkyCloudCoreBootedDesc>SkyCloud-serveren {0} har startet vellykket, og kan nå brukes.</ATPP_SkyCloudCoreBootedDesc>
+	
+	<ATPP_LetterInterruptedSkyCloudReplication>Replikering mislyktes</ATPP_LetterInterruptedSkyCloudReplication>
+	<ATPP_LetterInterruptedSkyCloudReplicationDesc>Replikering av bevisstheten til {0} mislyktes fordi vert-SkyCloud-kjernen er offline.</ATPP_LetterInterruptedSkyCloudReplicationDesc>
+	
+	<ATPP_LetterInterruptedSkyCloudMigration>Migrering mislyktes</ATPP_LetterInterruptedSkyCloudMigration>
+	<ATPP_LetterInterruptedSkyCloudMigrationDesc>Migrering av bevisstheten til {0} mislyktes fordi destinasjons-SkyCloud-kjernen er offline.</ATPP_LetterInterruptedSkyCloudMigrationDesc>
+	
+	<ATPP_LetterTraitorOffline>Forræder offline</ATPP_LetterTraitorOffline>
+	<ATPP_LetterTraitorOfflineDesc>{0} forrådte sin fraksjon ved å la seg rekruttere av deg. Fraksjonen oppdaget det og vedkommende ble arrestert (er derfor frakoblet fra surrogatet han kontrollerte).</ATPP_LetterTraitorOfflineDesc>
+	
+	<ATPP_LetterInterruptedMindAbsorption>Bevissthetsabsorbering mislyktes</ATPP_LetterInterruptedMindAbsorption>
+	<ATPP_LetterInterruptedMindAbsorptionDesc>Bevissthetsabsorberingen av {0} mislyktes enten på grunn av en frakobling fra SkyMind eller fordi ingen poengserver er operativ.</ATPP_LetterInterruptedMindAbsorptionDesc>
+	
+	<ATPP_MindAbsorptionDone>Bevissthetsabsorbering fullført</ATPP_MindAbsorptionDone>
+	<ATPP_MindAbsorptionDoneDesc>Bevissthetsabsorbering av {0} fullført, {1} ferdighetspoeng opptjent</ATPP_MindAbsorptionDoneDesc>
+	
+	<ATPP_LetterExternalSurrogateEscape>Surrogatkontroller rømmer</ATPP_LetterExternalSurrogateEscape>
+	<ATPP_LetterExternalSurrogateEscapeDesc>{0}, kontrolleren av surrogatet du prøver å rekruttere, har bestemt seg for å slutte seg til kolonien din. Han vil koble fra sitt surrogat og rømme diskret fra fiendebasen han befinner seg i for å nå kolonien din innen noen dager, uten å vite nøyaktig når.</ATPP_LetterExternalSurrogateEscapeDesc>
+	
+	<ATPP_LetterExternalSurrogateControllerJoin>Tidligere fange sluttet seg til</ATPP_LetterExternalSurrogateControllerJoin>
+	<ATPP_LetterExternalSurrogateControllerJoinDesc>{0}, en surrogatkontroller som du fengslet og med suksess konverterte, har nettopp ankommet kolonien din og sluttet seg til deg.</ATPP_LetterExternalSurrogateControllerJoinDesc>
+	
+	<ATPP_LetterExternalSurrogateControllerCannotJoin>Tidligere fange klarte ikke å slutte seg til</ATPP_LetterExternalSurrogateControllerCannotJoin>
+	<ATPP_LetterExternalSurrogateControllerCannotJoinDesc>{0}, en surrogatkontroller som du fengslet og med suksess konverterte, har forsøkt å nå kolonien din, men mislyktes av ukjent årsak og har derfor dratt videre.</ATPP_LetterExternalSurrogateControllerCannotJoinDesc>
+	
+	<ATPP_LetterExternalSurrogateDisconnect>Kontroller frakoblet</ATPP_LetterExternalSurrogateDisconnect>
+	<ATPP_LetterExternalSurrogateDisconnectDesc>{0}, kontrolleren av surrogatet du prøvde å slavebinde, koblet fra fordi han og hans fraksjon føler at de ikke lenger vil kunne hente informasjon fra kolonien din, og at det å fortsette som slave ville være bortkastet tid.</ATPP_LetterExternalSurrogateDisconnectDesc>
+	
+	<ATPP_LetterKidnappedM8Disconnected>M8 frakobling</ATPP_LetterKidnappedM8Disconnected>
+	<ATPP_LetterKidnappedM8DisconnectedDesc>Kidnapperne av din M8 ({0} som huser {1}) fikk til slutt tilgang til kommunikasjonskretsene, og da de innså at maskinen fortsatte å kommunisere via sin integrerte SkyMind-antenne, koblet de den fra. Du vil derfor ikke lenger kunne logge inn på {1}.</ATPP_LetterKidnappedM8DisconnectedDesc>
+	
+	<!-- Designators -->
+	<ATPP_DesignatorNeedSelectSX>Feil: Du må velge en gyldig enhet koblet til SkyMind-nettverket!</ATPP_DesignatorNeedSelectSX>
+	<ATPP_DesignatorNeedSelectSXToHack>Feil: Du må velge en surrogatandroid kontrollert av en annen fraksjon enn din egen!</ATPP_DesignatorNeedSelectSXToHack>
+	
+	<!-- Comps -->
+	<ATPP_SkyMindConn>Koble til SkyMind</ATPP_SkyMindConn>
+	<ATPP_SkyMindConnDesc>Koble denne kolonisten til SkyMind-nettverket for å tillate opplasting/permutasjon/duplisering av bevissthet eller fjernstyring av SX-serie androider eller biologiske surrogater.</ATPP_SkyMindConnDesc>
+	<ATPP_SkyMindAutoConn>Automatisk tilkobling</ATPP_SkyMindAutoConn>
+	<ATPP_SkyMindAutoConnDesc>Ved frakobling fra SkyMind-nettverket vil denne enheten automatisk forsøke å koble til igjen når det er ledige plasser.</ATPP_SkyMindAutoConnDesc>
+	<ATPP_Duplicate>Dupliser</ATPP_Duplicate>
+	<ATPP_DuplicateDesc>Dupliser bevisstheten til den nåværende valgte kolonisten til en annen.</ATPP_DuplicateDesc>
+	<ATPP_Permute>Permuter</ATPP_Permute>
+	<ATPP_PermuteDesc>Permuter bevisstheten til den nåværende valgte kolonisten med en annen.</ATPP_PermuteDesc>
+	<ATPP_EnableSurrogateControlMode>Kontroll</ATPP_EnableSurrogateControlMode>
+	<ATPP_EnableSurrogateControlModeDesc>Aktiver fjernstyringsmodus, som lar denne kolonisten styre en SX-serie android eller et biologisk surrogat.</ATPP_EnableSurrogateControlModeDesc>
+	<ATPP_AndroidToControlTargetDisconnect>Koble fra</ATPP_AndroidToControlTargetDisconnect>
+	<ATPP_AndroidToControlTargetDisconnectDesc>Avslutt den nåværende fjernstyringsøkten.</ATPP_AndroidToControlTargetDisconnectDesc>
+	<ATPP_AndroidToControlTarget>Koble til</ATPP_AndroidToControlTarget>
+	<ATPP_AndroidToControlTargetDesc>Ta kontroll over den valgte noden.</ATPP_AndroidToControlTargetDesc>
+	<ATPP_ThisCurrentMap>Dette kartet</ATPP_ThisCurrentMap>
+	<ATPP_AndroidToControlTargetRecoverCaravan>Gjenopprett</ATPP_AndroidToControlTargetRecoverCaravan>
+	<ATPP_AndroidToControlTargetRecoverCaravanDesc>Gjenopprett et frakoblet surrogat i en karavane.</ATPP_AndroidToControlTargetRecoverCaravanDesc>
+	<ATPP_FreeControllerInCaravan>Karavane</ATPP_FreeControllerInCaravan>
+	<ATPP_FreeControllerInCaravanDesc>Koble dette surrogatet til en ledig kontroller i en karavane</ATPP_FreeControllerInCaravanDesc>
+	<ATPP_AndroidSurrogateReconnectToLastController>Koble til igjen</ATPP_AndroidSurrogateReconnectToLastController>
+	<ATPP_AndroidSurrogateReconnectToLastControllerDesc>Koble surrogatet til igjen (hvis mulig) til den forrige brukeren som benyttet det</ATPP_AndroidSurrogateReconnectToLastControllerDesc>
+	
+	
+	<ATPP_NoVX2Recipient>Ingen tilgjengelige kolonister (de må ha hjerneimplantatet VX2-brikke).</ATPP_NoVX2Recipient>
+	<ATPP_NoSkyCloudCoreAvailable>Ingen tilgjengelig SkyCloud-kjerne</ATPP_NoSkyCloudCoreAvailable>
+	<ATPP_ConsciousnessUploadNoRecipient>Ingen mottaker tilgjengelig som nedlastingsdestinasjon.</ATPP_ConsciousnessUploadNoRecipient>
+	<ATPP_ConsciousnessSelectDestination>Velg en destinasjonsvert</ATPP_ConsciousnessSelectDestination>
+	<ATPP_UploadConsciousness>Last opp</ATPP_UploadConsciousness>
+	<ATPP_UploadConsciousnessDesc>Last opp bevissthet fra denne androiden til en annen.</ATPP_UploadConsciousnessDesc>
+	
+	<ATPP_WarningSkyMindDisconnectionRisk>Advarsel: ingen frakoblinger fra SkyMind-nettverket må forekomme under operasjonen, da det vil korrumpere hjernene deres og dermed drepe dem</ATPP_WarningSkyMindDisconnectionRisk>
+	
+	<ATPP_UploadConsciousnessConfirm>Last opp bevissthet</ATPP_UploadConsciousnessConfirm>
+	<ATPP_UploadConsciousnessConfirmDesc>Ved å bekrefte vil {0} laste opp bevisstheten sin inn i kroppen til {1}, noe som vil knuse bevisstheten til {1} (drepe dem) og kroppen til {0} vil bli deaktivert. Er du sikker på at du vil fortsette?</ATPP_UploadConsciousnessConfirmDesc>
+	
+	<ATPP_PermuteConsciousnessConfirm>Bevissthetspermutasjon</ATPP_PermuteConsciousnessConfirm>
+	<ATPP_PermuteConsciousnessConfirmDesc>Ved å bekrefte vil {0} bytte bevissthet med {1}; de vil bytte kropper. Er du sikker på at du vil fortsette?</ATPP_PermuteConsciousnessConfirmDesc>
+	
+	<ATPP_DuplicateConsciousnessConfirm>Bevissthetsduplisering</ATPP_DuplicateConsciousnessConfirm>
+	<ATPP_DuplicateConsciousnessConfirmDesc>Ved å bekrefte vil {0} duplisere bevisstheten sin inn i hjernen til {1}, noe som vil knuse bevisstheten til {1} (drepe dem). Er du sikker på at du vil fortsette?</ATPP_DuplicateConsciousnessConfirmDesc>
+	
+	<ATPP_UseBattery>Bruk batteri</ATPP_UseBattery>
+	<ATPP_UseBatteryDesc>Hvis dette aktiveres, settes androiden til å bruke sitt interne batteri direkte i stedet for biomassegeneratoren.</ATPP_UseBatteryDesc>
+	
+	<ATPP_RepairAndroids>Reparer androider</ATPP_RepairAndroids>
+	<ATPP_RepairAndroidsDesc>Tillat denne kolonisten å reparere androider.</ATPP_RepairAndroidsDesc>
+	
+	<ATPP_UploadVirus>Virus</ATPP_UploadVirus>
+	<ATPP_UploadVirusDesc>Last opp et virus til det valgte surrogatet.</ATPP_UploadVirusDesc>
+	<ATPP_UploadExplosiveVirus>Eksplosivt virus</ATPP_UploadExplosiveVirus>
+	<ATPP_UploadExplosiveVirusDesc>Last opp et virus til det valgte surrogatet som vil overbelaste det interne batteriet slik at det eksploderer.</ATPP_UploadExplosiveVirusDesc>
+	<ATPP_Hack>Hack</ATPP_Hack>
+	<ATPP_HackDesc>Hack og ta kontroll over det valgte surrogatet.</ATPP_HackDesc>
+	<ATPP_HackTemp>Midlertidig hack</ATPP_HackTemp>
+	<ATPP_HackTempDesc>Utfør et raskt hack for å ta midlertidig kontroll over det valgte surrogatet.</ATPP_HackTempDesc>
+	
+	<ATPP_MoveToSkyCloud>SkyCloud-opplasting</ATPP_MoveToSkyCloud>
+	<ATPP_MoveToSkyCloudDesc>Denne operasjonen vil flytte vertens bevissthet inn i en SkyCloud-kjerne, noe som vil gjøre dem nesten udødelige, men etterlate kroppen deres død.</ATPP_MoveToSkyCloudDesc>
+	<ATPP_MoveFromSkyCloud>SkyCloud-nedlasting</ATPP_MoveFromSkyCloud>
+	<ATPP_MoveFromSkyCloudDesc>Denne operasjonen vil flytte den valgte bevisstheten lagret i en SkyCloud-kjerne inn i vertens hjerne.</ATPP_MoveFromSkyCloudDesc>
+	<ATPP_CentralCoreNbStoredMind>{0} bevisstheter lagret</ATPP_CentralCoreNbStoredMind>
+	<ATPP_CentralCoreNbAssistingMinds>{0} bevisstheter tildelt bistand</ATPP_CentralCoreNbAssistingMinds>
+	
+	<ATPP_CentralCoreMigrationInProgress>Migrering av {0} inn i {1} pågår ({2}%)</ATPP_CentralCoreMigrationInProgress>
+	<ATPP_CentralCoreProcessInMentalBreak>{0} ubrukelig: i mentalt sammenbrudd</ATPP_CentralCoreProcessInMentalBreak>
+	
+	<ATPP_CentralCoreReplicationInProgress>Bevissthetsreplikering av {0} pågår ({1}%)</ATPP_CentralCoreReplicationInProgress>
+	
+	<ATPP_SkyCloudFloatMenuMindsStoredSelect>Velg en bevissthet</ATPP_SkyCloudFloatMenuMindsStoredSelect>
+	<ATPP_ProcessInfo>Info</ATPP_ProcessInfo>
+	<ATPP_ProcessInfoDesc>Få informasjon om lagrede bevisstheter.</ATPP_ProcessInfoDesc>
+	<ATPP_ProcessRemove>Fjern</ATPP_ProcessRemove>
+	<ATPP_ProcessRemoveDesc>Fjern en bevissthet</ATPP_ProcessRemoveDesc>
+	<ATPP_ProcessRemoveDescConfirm>Ved å bekrefte vil bevisstheten til {0} bli fullstendig fjernet fra minnet til {1}. De vil bli betraktet som døde!</ATPP_ProcessRemoveDescConfirm>
+	<ATPP_ProcessDuplicate>Repliker</ATPP_ProcessDuplicate>
+	<ATPP_ProcessDuplicateDesc>Repliker en bevissthet.</ATPP_ProcessDuplicateDesc>
+	<ATPP_ProcessAssist>Bistand</ATPP_ProcessAssist>
+	<ATPP_ProcessAssistDesc>Tildel listen over lagrede bevisstheter som kun brukes til å bistå kolonister tilkoblet SkyMind-nettverket; de vil få et globalt humørløft for hver bevissthet som tildeles her.</ATPP_ProcessAssistDesc>
+	<ATPP_ProcessMigrate>Migrer</ATPP_ProcessMigrate>
+	<ATPP_ProcessMigrateDesc>Migrer en bevissthet fra denne SkyCloud-kjernen til en annen</ATPP_ProcessMigrateDesc>
+	
+	<ATPP_ProcessAssistAssignedMinds>Fjern tildeling av bevissthet (fjern)</ATPP_ProcessAssistAssignedMinds>
+	<ATPP_ProcessAssistUnassignedMinds>Tildel bevissthet (legg til)</ATPP_ProcessAssistUnassignedMinds>
+	<ATPP_ProcessAssistAssignAll>Tildel alle utilordnede bevisstheter</ATPP_ProcessAssistAssignAll>
+	<ATPP_ProcessAssistUnassignAll>Fjern tildeling av alle tildelte bevisstheter</ATPP_ProcessAssistUnassignAll>
+	
+	<ATPP_ProcessDisconnectAllSurrogates>Koble fra alle</ATPP_ProcessDisconnectAllSurrogates>
+	
+	<ATPP_StopVirused>Stopp</ATPP_StopVirused>
+	<ATPP_StopVirusedDesc>Slå av dette infiserte surrogatet</ATPP_StopVirusedDesc>
+	
+	<ATPP_PreviousSurrogateControllerIs>Forrige kontroller var {0}</ATPP_PreviousSurrogateControllerIs>
+	
+	<ATPP_Skills>Ferdigheter</ATPP_Skills>
+	<ATPP_SkillsDesc>Åpne ferdighetsverkstedet, som lar deg konvertere ferdighetspoeng generert av serverne dine til ekstra ferdigheter for androidene dine</ATPP_SkillsDesc>
+	
+	<ATPP_MindAbsorption>Bevissthetsabsorbering</ATPP_MindAbsorption>
+	<ATPP_MindAbsorptionDesc>Absorber bevisstheten til en fange for å konvertere den til ferdighetspoeng (dødelig operasjon)</ATPP_MindAbsorptionDesc>
+	
+	<ATPP_MindAbsorptionConfirm>Bevissthetsabsorbering</ATPP_MindAbsorptionConfirm>
+	<ATPP_MindAbsorptionConfirmDesc>Ved å bekrefte vil bevisstheten til {0} bli absorbert og konvertert til ferdighetspoeng (dødelig operasjon). Er du sikker på at du vil fortsette?</ATPP_MindAbsorptionConfirmDesc>
+	
+	<ATPP_UploadMakeAndroidBatteryOverloadConfirm>Overbelast batteri</ATPP_UploadMakeAndroidBatteryOverloadConfirm>
+	<ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>Vær forsiktig, ved bekreftelse vil batteriet til den valgte androiden overbelastes og eksplodere etter en kort stund. Vil du virkelig fortsette?</ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>
+	
+	<ATPP_OverloadAndroid>Overbelast</ATPP_OverloadAndroid>
+	<ATPP_OverloadAndroidDesc>Få android-batteriet til å eksplodere</ATPP_OverloadAndroidDesc>
+	
+	<!-- Power++ compat -->
+	<ATPP_LWPNConnected>Tilkoblet {0}</ATPP_LWPNConnected>
+	<ATPP_LWPNDisconnected>Frakoblet fra {0}</ATPP_LWPNDisconnected>
+	<ATPP_NoAvailableLWPN>Ingen tilgjengelig LWPN</ATPP_NoAvailableLWPN>
+	<ATPP_LWPNNbConnectedAndroid>Tilkoblede androider: {0}</ATPP_LWPNNbConnectedAndroid>
+	<ATPP_MessageLWPNNoSlotAvailable>Ingen ledig LWPN-plass tilgjengelig!</ATPP_MessageLWPNNoSlotAvailable>
+	
+	<!-- Buildings -->
+	<ATPP_SkyMindAntennaSynthesis>Tilkoblede brukere: {0} / {1}</ATPP_SkyMindAntennaSynthesis>
+	<ATPP_ForceReload>Tving batterilading</ATPP_ForceReload>
+	<ATPP_CannotUseEveryPlaceUsed>Kan ikke brukes, ladestasjonen er full.</ATPP_CannotUseEveryPlaceUsed>
+	<ATPP_CannotUseBecauseNotInBatteryMode>Kan ikke brukes fordi det interne batteriet til den valgte androiden ikke er satt som standardgenerator.</ATPP_CannotUseBecauseNotInBatteryMode>
+	<ATPP_SecurityServersSynthesis>Beskyttede surrogater: {0} / {1}</ATPP_SecurityServersSynthesis>
+	<ATPP_HackingServersSynthesis>Hackingpoeng tilgjengelig: {0} / {1}</ATPP_HackingServersSynthesis>
+	<ATTP_HackingSlotsAdded>Hackingplasser lagt til: {0}</ATTP_HackingSlotsAdded>
+	<ATTP_HackingProducedPoints>Hackingpoeng som produseres: {0}</ATTP_HackingProducedPoints>
+	<ATTP_SecuritySlotsAdded>Sikkerhetsplasser lagt til: {0}</ATTP_SecuritySlotsAdded>
+	<ATPP_SkillServersSynthesis>Ferdighetspoeng tilgjengelig: {0} / {1}</ATPP_SkillServersSynthesis>
+	<ATTP_SkillSlotsAdded>Ferdighetsplasser lagt til: {0}</ATTP_SkillSlotsAdded>
+	<ATTP_SkillProducedPoints>Ferdighetspoeng som produseres: {0}</ATTP_SkillProducedPoints>
+	
+	<!-- Colors -->
+	<ATPP_HairColor>Hårfarge</ATPP_HairColor>
+	<ATPP_HairColorBlond>Blond</ATPP_HairColorBlond>
+	<ATPP_HairColorBlack>Svart</ATPP_HairColorBlack>
+	<ATPP_HairColorAuburn>Rødbrun</ATPP_HairColorAuburn>
+	<ATPP_HairColorGrey>Grå</ATPP_HairColorGrey>
+	<ATPP_HairColorGinger>Rødhåret</ATPP_HairColorGinger>
+	<ATPP_HairColorWhite>Hvit</ATPP_HairColorWhite>
+	
+	<ATPP_SkinColor>Hudfarge</ATPP_SkinColor>
+	<ATPP_SkinColorVerylight>Veldig lys</ATPP_SkinColorVerylight>
+	<ATPP_SkinColorLight>Lys</ATPP_SkinColorLight>
+	<ATPP_SkinColorFair>Blek</ATPP_SkinColorFair>
+	<ATPP_SkinColorMidbrown>Mellombrun</ATPP_SkinColorMidbrown>
+	<ATPP_SkinColorDarkbrown>Mørkebrun</ATPP_SkinColorDarkbrown>
+	<ATPP_SkinColorVerydark>Veldig mørkebrun</ATPP_SkinColorVerydark>
+	
+	<!-- Messages -->
+	<ATPP_CannotConnectToSkyMindNoNet>Kan ikke koble til SkyMind, ingen nettverk tilgjengelig!</ATPP_CannotConnectToSkyMindNoNet>
+	<ATPP_CannotConnectToSkyMind>Kan ikke koble til SkyMind, ikke nok ledige plasser!</ATPP_CannotConnectToSkyMind>
+	<ATPP_SurrogateUnexpectedDisconnection>Uventet frakobling: {0} er ikke lenger tilkoblet SkyMind-nettverket!</ATPP_SurrogateUnexpectedDisconnection>
+	<ATPP_SurrogateConnectionCannotBeDisconnected>Kan ikke koble fra, {0} er for øyeblikket i en ustabil mental tilstand</ATPP_SurrogateConnectionCannotBeDisconnected>
+	<ATPP_SurrogateConnectionOK>{0} er nå tilkoblet {1}</ATPP_SurrogateConnectionOK>
+	
+	<ATPP_StartPermute>Permutasjonen av bevisstheter mellom {0} og {1} har begynt!</ATPP_StartPermute>
+	<ATPP_StartDuplicate>Dupliseringen av {0}s bevissthet til {1} har begynt!</ATPP_StartDuplicate>
+	<ATPP_StartSkyCloudUpload>Opplastingen av bevisstheten til {0} inn i {1} har begynt!</ATPP_StartSkyCloudUpload>
+	<ATPP_StartSkyCloudUploadFailedFull>Opplastingen av bevisstheten til {0} inn i {1} kan ikke utføres fordi det ikke er nok lagringsplass for bevissthet i {1}</ATPP_StartSkyCloudUploadFailedFull>
+	<ATPP_StartSkyCloudDownload>Nedlastingen av bevisstheten til {0} inn i hjernen til {1} har begynt!</ATPP_StartSkyCloudDownload>
+	<ATPP_StartSkyCloudMigration>Migreringen av bevisstheten til {0} fra {1} til {2} har begynt!</ATPP_StartSkyCloudMigration>
+	<ATPP_StartSkyCloudMigrationFailed>Migreringen av bevisstheten til {0} inn i {1} kan ikke utføres fordi det ikke er nok lagringsplass for bevissthet i {1}</ATPP_StartSkyCloudMigrationFailed>
+	
+	<ATPP_StartUpload>Opplastingen av bevisstheten til {0} til {1} har begynt!</ATPP_StartUpload>
+	
+	<ATPP_CanOnlyBeUsedByAndroid>Denne enheten kan kun brukes av androider!</ATPP_CanOnlyBeUsedByAndroid>
+	<ATPP_CannotBeUsedBecauseNoOldAgeIssues>Kan ikke brukes fordi ingen alderdomsproblemer hos androiden ble funnet</ATPP_CannotBeUsedBecauseNoOldAgeIssues>
+	
+	<ATPP_NoBrokenStuffFound>Ingen problemer ble funnet for android {0}!</ATPP_NoBrokenStuffFound>
+	<ATPP_BrokenStuffRepairFailed>Feil: Nanitter klarte ikke å reparere!</ATPP_BrokenStuffRepairFailed>
+	
+	<ATPP_BrokenCPURepaired>Kunstig hjerne har blitt reparert!</ATPP_BrokenCPURepaired> 
+	<ATPP_BrokenHydraulicSystemRepaired>Hydraulikksystemet har blitt reparert!</ATPP_BrokenHydraulicSystemRepaired> 
+	<ATPP_BrokenCoolingSystemRepaired>Kjølesystemet har blitt reparert!</ATPP_BrokenCoolingSystemRepaired> 
+	<ATPP_BrokenFrameworkRepaired>Rammeverket har blitt reparert!</ATPP_BrokenFrameworkRepaired>
+	
+	<ATPP_CryptolockerClearedByFaction>{0} fjernet cryptolocker-viruset fra ditt infiserte surrogat!</ATPP_CryptolockerClearedByFaction>
+	<ATPP_CryptolockerDeviceClearedByFaction>{0} fjernet cryptolocker-viruset fra dine tilkoblede enheter!</ATPP_CryptolockerDeviceClearedByFaction>
+	<ATPP_RansomwareClearedByFaction>{0} utførte de nødvendige reparasjonene for skaden påført {1}</ATPP_RansomwareClearedByFaction>
+	
+	<ATPP_SurrogateHackOK>Hacking av {0} var vellykket!</ATPP_SurrogateHackOK>
+	<ATPP_CannotHackNotEnoughtHackingPoints>Ikke nok hackingpoeng, {0} kreves for å hacke!</ATPP_CannotHackNotEnoughtHackingPoints>
+	
+	<ATPP_ProcessDuplicateOK>Det nevrale nettverket til {0} blir duplisert.</ATPP_ProcessDuplicateOK>
+	<ATPP_ProcessDuplicateFailed>Kan ikke duplisere det nevrale nettverket til {0}, ikke nok lagringsplass for bevissthet i kjernen</ATPP_ProcessDuplicateFailed>
+	<ATPP_ProcessRemoveOK>Det nevrale nettverket til {0} har blitt fjernet.</ATPP_ProcessRemoveOK>
+	<ATPP_ProcessAssistOK>Bevisstheten til {0} er nå tildelt til å bistå tilkoblede kolonister.</ATPP_ProcessAssistOK>
+	<ATPP_ProcessUnassistOK>Bevisstheten til {0} er ikke lenger tildelt til å bistå tilkoblede kolonister.</ATPP_ProcessUnassistOK>
+	
+	
+	<ATPP_ProcessNoLongerInMentalBreak>Bevisstheten til {0} lagret i {1} har ikke lenger et mentalt sammenbrudd</ATPP_ProcessNoLongerInMentalBreak>
+	<ATPP_CannotReconnectToLastSurrogateController>Kan ikke koble til igjen, den forrige surrogatkontrolleren er utilgjengelig (opptatt, død, ikke tilkoblet SkyMind...)</ATPP_CannotReconnectToLastSurrogateController>
+	
+	<ATPP_ProcessMassAssist>{0} bevisstheter har blitt tildelt!</ATPP_ProcessMassAssist>
+	<ATPP_ProcessMassUnassist>Tildelingen for {0} bevisstheter har blitt fjernet!</ATPP_ProcessMassUnassist>
+	
+	<ATPP_SkillsWorkshopPointsConverted>{0} ferdighetspoeng har blitt lagt til {1}</ATPP_SkillsWorkshopPointsConverted>
+	<ATPP_SkillsWorkshopAvailablePoints>Tilgjengelige poeng: {0}</ATPP_SkillsWorkshopAvailablePoints>
+	<ATPP_SkillsWorkshopAvailablePointsNote>Merk: For denne android-modellen trenger du {0} ferdighetspoeng generert av serverne dine for å generere 1 tilgjengelig poeng</ATPP_SkillsWorkshopAvailablePointsNote>
+	
+	<ATPP_MindAbsorptionStarted>Bevissthetsabsorbering av {0} har startet</ATPP_MindAbsorptionStarted>
+	<ATPP_NotEnoughtSkillPoints>Ikke nok tilgjengelige ferdighetspoeng! ({0} poeng kreves)</ATPP_NotEnoughtSkillPoints>
+	<ATPP_CannotAddVXNeuralChipInSurrogates>Kan ikke installere denne typen brikke i et surrogat! Brikken har blitt skadet og kan ikke lenger brukes!</ATPP_CannotAddVXNeuralChipInSurrogates>
+
+	
+	<!-- Settings -->
+	<ATPP_SettingsSectionGeneral>Generelt</ATPP_SettingsSectionGeneral>
+	<ATPP_SettingsSectionSkyCloud>SkyCloud</ATPP_SettingsSectionSkyCloud>
+	<ATPP_SettingsSectionSecurity>Sikkerhet</ATPP_SettingsSectionSecurity>
+	<ATPP_SettingsSectionVX2>VX2-nevralbrikke</ATPP_SettingsSectionVX2>
+	<ATPP_SettingsSectionVX3>VX3-nevralbrikke</ATPP_SettingsSectionVX3>
+	<ATPP_SettingsSectionSkills>T1/T2-ferdigheter</ATPP_SettingsSectionSkills>
+	<ATPP_SettingsSectionBatteryOverload>Batterioverbelastning</ATPP_SettingsSectionBatteryOverload>
+	
+	<ATPP_SettingsDefaultAndroidGeneratorMode>Standard energimodus for android:</ATPP_SettingsDefaultAndroidGeneratorMode>
+	<ATPP_SettingsDefaultAndroidGeneratorModeBiomass>Bruk biomassegenerator (de spiser)</ATPP_SettingsDefaultAndroidGeneratorModeBiomass>
+	<ATPP_SettingsDefaultAndroidGeneratorModeBattery>Bruk internt batteri direkte (de lader via strømnettet)</ATPP_SettingsDefaultAndroidGeneratorModeBattery>
+	
+	<ATPP_SettingsMindUploadDuration>Varighet for bevissthetsopplasting ({0}t)</ATPP_SettingsMindUploadDuration>
+	<ATPP_SettingsMindReplicationDuration>Varighet for bevissthetsreplikering ({0}t)</ATPP_SettingsMindReplicationDuration>
+	
+	<ATPP_SettingsMindPermutationDuration>Varighet for bevissthetspermutasjon ({0}t)</ATPP_SettingsMindPermutationDuration>
+	<ATPP_SettingsMindDuplicationDuration>Varighet for bevissthetsduplisering ({0}t)</ATPP_SettingsMindDuplicationDuration>
+	<ATPP_SettingsMindUploadPercentageFail>Risiko for at overføring av bevissthet mislykkes ({0}%)</ATPP_SettingsMindUploadPercentageFail>
+	<ATPP_SettingsNanitePercentageFail>Risiko for at nanitter ikke kan reparere androider ({0}%)</ATPP_SettingsNanitePercentageFail>
+	
+	<ATPP_SettingsCharchingStationWattIncrease>Økning i strømforbruk når en {0} lader</ATPP_SettingsCharchingStationWattIncrease>
+	<ATPP_SettingsFoodGenerateLessEnergy>Biomasse (mat) gir mindre energi til androider (2 ganger mindre enn for mennesker)</ATPP_SettingsFoodGenerateLessEnergy>
+	<ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>Prosentandel batteri ladet hvert 6. sekund ({0}%)</ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>
+	<ATPP_SettingsNbHoursMinServerRunningHotBeforeExplode>Minimum antall timer servere kan kjøre varme før de eksploderer ({0}t)</ATPP_SettingsNbHoursMinServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMaxServerRunningHotBeforeExplode>Maksimum antall timer servere kan kjøre varme før de eksploderer ({0}t)</ATPP_SettingsNbHoursMaxServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMinSkyCloudServerRunningHotBeforeExplode>Minimum antall timer SkyCloud-kjerner kan kjøre varme før de eksploderer ({0}t)</ATPP_SettingsNbHoursMinSkyCloudServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMaxSkyCloudServerRunningHotBeforeExplode>Maksimum antall timer SkyCloud-kjerner kan kjøre varme før de eksploderer ({0}t)</ATPP_SettingsNbHoursMaxSkyCloudServerRunningHotBeforeExplode>
+	<ATPP_SettingsDelayExplosiveVirus>Antall sekunder før en android infisert med et eksplosivt virus eksploderer ({0}sek)</ATPP_SettingsDelayExplosiveVirus>
+	<ATPP_SettingsRiskFactionNotRemoveCryptolocker>Risikoen for at en fraksjon ikke fjerner cryptolocker etter at du har betalt løsepenger ({0}%)</ATPP_SettingsRiskFactionNotRemoveCryptolocker>
+	<ATPP_SettingsRansomCost>Løsepengekostnad for cryptolocker-virus ({0}):</ATPP_SettingsRansomCost>
+	<ATPP_SettingsAndroidCanUseOrganicMedicine>Androider kan bruke organisk medisin</ATPP_SettingsAndroidCanUseOrganicMedicine>
+	<ATPP_SettingsRiskGetLittleVirusEvenWithSecurityServers>Risiko for at dine tilkoblede klienter får et virus (redusert virkning) selv med et sikkerhetssystem som dekker dem alle ({0}%)</ATPP_SettingsRiskGetLittleVirusEvenWithSecurityServers>
+	<ATPP_SettingsRiskFactionNotRemoveRansomwareEffect>Risikoen for at en fraksjon ikke opphever virkningen av løsepengevirus etter at du har betalt løsepenger ({0}%)</ATPP_SettingsRiskFactionNotRemoveRansomwareEffect>
+	<ATPP_SettingsMinSilverToRemoveBadTrait>Minimum mengde sølv for å fjerne dårlig egenskap fra løsepengevirus</ATPP_SettingsMinSilverToRemoveBadTrait>
+	<ATPP_SettingsMaxSilverToRemoveBadTrait>Maksimum mengde sølv for å fjerne dårlig egenskap fra løsepengevirus</ATPP_SettingsMaxSilverToRemoveBadTrait>
+	<ATPP_SettingsRansomwareSilverPerSkillLevel>Mengde sølv å betale for løsepengevirus med korrumpert ferdighet per nivå</ATPP_SettingsRansomwareSilverPerSkillLevel>
+	<ATPP_SettingsDisableSolarFlareImpactOnAndroids>Deaktiver negative effekter av solstormer på androider</ATPP_SettingsDisableSolarFlareImpactOnAndroids>
+	<ATPP_SettingsDisableSecurityStuff>Deaktiver virus og hacking via SkyMind</ATPP_SettingsDisableSecurityStuff>
+	<ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroupMin>Minimum prosentandel av surrogater som kan være til stede i grupper fra andre fraksjoner ({0}%)</ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroupMin>
+	<ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroup>Maksimum prosentandel av surrogater som kan være til stede i grupper fra andre fraksjoner ({0}%)</ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroup>
+	<ATPP_SettingsOtherFactionsCanUseSurrogate>Andre fraksjoner kan bruke surrogatandroider</ATPP_SettingsOtherFactionsCanUseSurrogate>
+	<ATPP_SettingsTempHackDuration>Varighet for midlertidig surrogathack ({0} sekunder)</ATPP_SettingsTempHackDuration>
+	<ATPP_SettingsCostHackingPoints>Hackingpoengkostnad for ({0}):</ATPP_SettingsCostHackingPoints>
+	<ATPP_SettingsCostVirus>Virus</ATPP_SettingsCostVirus>
+	<ATPP_SettingsCostVirusExplosive>Eksplosivt virus</ATPP_SettingsCostVirusExplosive>
+	<ATPP_SettingsCostHack>Hacking</ATPP_SettingsCostHack>
+	<ATPP_SettingsCostHackTemp>Midlertidig hacking</ATPP_SettingsCostHackTemp>
+	
+	<ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>Under solstormer blir androider slått ut</ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>
+	<ATPP_SettingsDisableServersAlarm>Deaktiver varmealarm for servere</ATPP_SettingsDisableServersAlarm>
+	<ATPP_SettingsDisableServersAmbianceNoises>Deaktiver omgivelseslyd for servere</ATPP_SettingsDisableServersAmbianceNoises>
+	<ATPP_SettingsAppliedToNextSaveLoading> (Brukes etter innlasting av spill)</ATPP_SettingsAppliedToNextSaveLoading>
+	<ATPP_SettingsDisableLowNetworkMalus>Deaktiver straff for svakt SkyMind-nettverk</ATPP_SettingsDisableLowNetworkMalus>
+	<ATPP_SettingsDisableLowNetworkMalusInCaravans>Deaktiver straff for svakt SkyMind-nettverk i karavaner</ATPP_SettingsDisableLowNetworkMalusInCaravans>
+	<ATPP_SettingsPowerConsumedByStoredMind>Strømforbruk for hver lagrede bevissthet i SkyCloud-kjerner</ATPP_SettingsPowerConsumedByStoredMind>
+	<ATPP_SettingsMindUploadToSkyCloudDuration>Varighet for bevissthetsopplasting til SkyCloud ({0}t)</ATPP_SettingsMindUploadToSkyCloudDuration>
+	<ATPP_SettingsMindMigrationCloudDuration>Varighet for bevissthetsmigrering ({0}t)</ATPP_SettingsMindMigrationCloudDuration>
+	<ATPP_SettingsHideRemotelyControlledIcon>Skjul ikon over fjernstyrte enheter</ATPP_SettingsHideRemotelyControlledIcon>
+	<ATPP_SettingsSkyCloudBuffPerAssistingMind>Antall buff-poeng per SkyCloud-bistandsbevissthet ({0})</ATPP_SettingsSkyCloudBuffPerAssistingMind>
+	
+	<ATPP_SettingsNbSlotAddedForSkillServers>Antall plasser lagt til for {0} ferdighetsservere ({1})</ATPP_SettingsNbSlotAddedForSkillServers>
+	<ATPP_SettingsNbSlotAddedForHackingServers>Antall plasser lagt til for {0} hackingservere ({1})</ATPP_SettingsNbSlotAddedForHackingServers>
+	<ATPP_SettingsNbSlotAddedForSecurityServers>Antall plasser lagt til for {0} sikkerhetsservere ({1})</ATPP_SettingsNbSlotAddedForSecurityServers>
+	<ATPP_SettingsNbPointsProducedForHackingServers>Antall poeng produsert (hvert 30. sekund) for {0} hackingservere ({1})</ATPP_SettingsNbPointsProducedForHackingServers>
+	<ATPP_SettingsMinNbHoursLiteHackingDeviceAttackLast>Minimum antall timer et enkelt enhetshacking-angrep kan vare ({0}t)</ATPP_SettingsMinNbHoursLiteHackingDeviceAttackLast>
+	<ATPP_SettingsMaxNbHoursLiteHackingDeviceAttackLast>Maksimum antall timer et enkelt enhetshacking-angrep kan vare ({0}t)</ATPP_SettingsMaxNbHoursLiteHackingDeviceAttackLast>
+	<ATPP_SettingsHideInactiveSurrogates>Skjul inaktive surrogater fra kolonistlinjen</ATPP_SettingsHideInactiveSurrogates>
+	<ATPP_SettingsAndroidsOnlyHealedByCrafter>Androider kan kun repareres av smeder</ATPP_SettingsAndroidsOnlyHealedByCrafter>
+	<ATPP_SettingsMinDurationOfMindMentalBreak>Minimum varighet for et mentalt sammenbrudd hos en digitalisert bevissthet ({0}t)</ATPP_SettingsMinDurationOfMindMentalBreak>
+	<ATPP_SettingsMaxDurationOfMindMentalBreak>Maksimum varighet for et mentalt sammenbrudd hos en digitalisert bevissthet ({0}t)</ATPP_SettingsMaxDurationOfMindMentalBreak>
+	<ATPP_SettingsSecToBootASkyCloudCore>Oppstartstid for en SkyCloud-kjerne ({0}sek)</ATPP_SettingsSecToBootASkyCloudCore>
+	<ATPP_SettingsDisableAbilityOfSkyCloudServersToTalk>Deaktiver muligheten for SkyCloud-kjerner til å snakke</ATPP_SettingsDisableAbilityOfSkyCloudServersToTalk>
+	<ATPP_SettingsNotRemoveAllTraitsOfBasicAndroids>Ikke fjern alle egenskaper fra T1/T2-androider</ATPP_SettingsNotRemoveAllTraitsOfBasicAndroids>
+	<ATPP_SettingsAndroidsCanEatLivingPlants>Androider kan spise levende planter</ATPP_SettingsAndroidsCanEatLivingPlants>
+	<ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>Ikke fjern alle ferdighetslidenskaper for T1/T2-androider</ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>
+	<ATPP_SettingsVX3MaxSurrogateControllableAtOnce>Maksimalt antall kontrollerbare surrogater samtidig ({0})</ATPP_SettingsVX3MaxSurrogateControllableAtOnce>
+	<ATPP_SettingsNbPointsProducedForSkillServers>Antall poeng produsert (hvert 30. sekund) for {0} ferdighetsservere ({1})</ATPP_SettingsNbPointsProducedForSkillServers>
+	
+	<ATPP_SettingsRandomSkillsMode>Ferdigheter er tilfeldige</ATPP_SettingsRandomSkillsMode>
+	<ATPP_SettingsPreventM7T5AppearingInCharacterEditor>Forhindre at T5/M7 vises i karakterskapingsskjermen</ATPP_SettingsPreventM7T5AppearingInCharacterEditor>
+	<ATPP_SettingsMinHoursNaniteBankFramework>Minimum antall timer nødvendig for å anvende effekten av strukturelle nanittbanker ({0}t)</ATPP_SettingsMinHoursNaniteBankFramework>
+	<ATPP_SettingsMaxHoursNaniteBankFramework>Maksimum antall timer nødvendig for å anvende effekten av strukturelle nanittbanker ({0}t)</ATPP_SettingsMaxHoursNaniteBankFramework>
+	
+	<ATPP_SettingsNbSkillPointsPerSkill>Antall ferdighetspoeng som kreves for å produsere én ferdighet ({0})</ATPP_SettingsNbSkillPointsPerSkill>
+	<ATPP_RemoveComfortNeedForT3T4>Fjern komfortbehov for androider >= T3</ATPP_RemoveComfortNeedForT3T4>
+	<ATPP_SettingsAllowHumanDrugsForT3P>Tillat menneskelige rusmidler for T3+ androider</ATPP_SettingsAllowHumanDrugsForT3P>
+	<ATPP_SettingsAllowHumanDrugsFor>Tillat menneskelige rusmidler for androider</ATPP_SettingsAllowHumanDrugsFor>
+	
+	<ATPP_SettingsUploadMindToSkyCloudCoreMode>Modus for opplasting av bevissthet til SkyCloud-kjerne :</ATPP_SettingsUploadMindToSkyCloudCoreMode>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>Kildebevissthetens kropp blir drept</ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>Kildebevissthetens nevralbrikke rekonfigurerer kretsene sine automatisk til VX0-modus</ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>Ingenting skjer med kroppen til kildebevisstheten (duplikat)</ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>
+	<ATPP_SettingsRemoveSimpleMindedTraitOnUpload>Fjern egenskapen godtroende når en T1 overføres til en mer avansert vert (menneske, T2+)</ATPP_SettingsRemoveSimpleMindedTraitOnUpload>
+	
+	<ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>Sjanse for at genererte androider kan males eller ruste ({0}%)</ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>
+	<ATPP_SettingsAndroidsCanRust>Androider kan ruste</ATPP_SettingsAndroidsCanRust>
+	<ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>Minimum antall dager før malingen på androider kan ruste ({0} dager)</ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>
+	<ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>Maksimum antall dager før malingen på androider kan ruste ({0} dager)</ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>
+	
+	<ATPP_SettingsAndroidsAreRare>Gjør androider sjeldne for andre fraksjoner (ADVARSEL: vil fjerne alle android-fraksjoner)</ATPP_SettingsAndroidsAreRare>
+	<ATPP_SettingsAllowAutoRepaint>Tillat androider automatisk å planlegge en maleroperasjon når nåværende maling snart utløper</ATPP_SettingsAllowAutoRepaint>
+	<ATPP_SettingsAllowAutoRepaintPrisoned>Tillat fengslede androider også å planlegge en maleroperasjon</ATPP_SettingsAllowAutoRepaintPrisoned>
+	<ATPP_SettingsMaxAndroidByPortableLWPN>Maksimum antall androider per bærbar LWPN-sender (Power++) ({0})</ATPP_SettingsMaxAndroidByPortableLWPN>
+	<ATPP_SettingsAllowT5ToWearClothes>Tillat T5 å bruke klær</ATPP_SettingsAllowT5ToWearClothes>
+	<ATPP_SettingsChanceCreatedAndroidsAreMale>Sjanse for at skapte androider er mannlige modeller ({0}%)</ATPP_SettingsChanceCreatedAndroidsAreMale>
+	<ATPP_SettingsHideAbilityToForceEatingLivingPlants>Skjul den flytende menyen som tillater å tvinge spising av levende planter</ATPP_SettingsHideAbilityToForceEatingLivingPlants>
+	<ATPP_SettingsPassionCost>Ferdighetspoeng som kreves for å øke lidenskap ({0})</ATPP_SettingsPassionCost>
+	<ATPP_SettingsVX0KeepBodyBackstory>Behold dukkens bakgrunnshistorie (VX0)</ATPP_SettingsVX0KeepBodyBackstory>
+	<ATPP_SettingsAllowSurrogateConnectionInitMalus>Tillat straff ved initialisering av surrogattilkobling</ATPP_SettingsAllowSurrogateConnectionInitMalus>
+	<ATPP_SettingsAllowAndroidsToUseHospitalBeds>Tillat androider å bruke sykehussenger</ATPP_SettingsAllowAndroidsToUseHospitalBeds>
+	<ATPP_SettingsPercentageOfOtherFactionSurrogateHavingAnRXChip>Sjanse for at andre fraksjoners surrogater har en RX-brikke ({0}%)</ATPP_SettingsPercentageOfOtherFactionSurrogateHavingAnRXChip>
+	<ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>Sjanse for at rekruttert surrogatkontroller slutter seg til fraksjonen din uten å bli arrestert ({0}%)</ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>
+	<ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>Minimum antall timer før kidnappet M8 kobles fra SkyMind ({0}t)</ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>
+	<ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>Maksimum antall timer før kidnappet M8 kobles fra SkyMind ({0}t)</ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>
+	
+	<ATPP_SettingsAndroidOverloadBatteryProrata>Kraften i eksplosjonen er proporsjonal med batterinivået</ATPP_SettingsAndroidOverloadBatteryProrata>
+	<ATPP_SettingsAndroidOverloadRadius>Android-eksplosjonsradius ({0})</ATPP_SettingsAndroidOverloadRadius>
+	<ATPP_SettingsM7OverloadRadius>M7-eksplosjonsradius ({0})</ATPP_SettingsM7OverloadRadius>
+	<ATPP_SettingsAndroidOverloadExplosionType>Eksplosjonstype</ATPP_SettingsAndroidOverloadExplosionType>
+	<ATPP_SettingsAndroidOverloadExplosionTypeDefault>Splint</ATPP_SettingsAndroidOverloadExplosionTypeDefault>
+	<ATPP_SettingsAndroidOverloadExplosionTypeFire>Brannstiftende</ATPP_SettingsAndroidOverloadExplosionTypeFire>
+	<ATPP_SettingsSetT1ResearchToIndustrialTechLevel>Endre T1-forskning til industrielt teknologinivå i stedet for spacer</ATPP_SettingsSetT1ResearchToIndustrialTechLevel>
+	<ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>Ved bevissthetsduplisering overføres unike rolleegenskaper til destinasjonsbevisstheten</ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>
+</LanguageData>

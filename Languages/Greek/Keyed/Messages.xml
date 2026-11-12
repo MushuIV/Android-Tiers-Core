@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MessageMedicalOperationFailureMinorAndroid>Ο/Η {0} απέτυχε ελαφρώς κατά την εργασία στο/στην {1}.</MessageMedicalOperationFailureMinorAndroid>
+	<MessageMedicalOperationFailureCatastrophicAndroid>Ο/Η {0} απέτυχε καταστροφικά κατά την εργασία στο/στην {1}.</MessageMedicalOperationFailureCatastrophicAndroid>
+	<MessageMedicalOperationFailureRidiculousAndroid>Ο/Η {0} απέτυχε με γελοίο τρόπο κατά την εργασία στο/στην {1}.</MessageMedicalOperationFailureRidiculousAndroid>
+	<MessageMedicalOperationFailureFatalAndroid>Ο/Η {0} διέπραξε μοιραίο λάθος κατά την εργασία στο/στην {1} λόγω των ιδιαίτερων δυσκολιών: {2}</MessageMedicalOperationFailureFatalAndroid>
+	
+</LanguageData>

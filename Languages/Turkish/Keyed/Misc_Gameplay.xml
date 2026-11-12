@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- Alerts -->
+	<ATPP_AlertHot3Devices>Bilgisayarlar aÅŸÄ±rÄ± Ä±sÄ±nÄ±yor</ATPP_AlertHot3Devices>
+	<ATPP_AlertHot3DevicesDesc>BilgisayarlarÄ±nÄ±zdan biri veya birkaÃ§Ä± maksimum sÄ±caklÄ±k eÅŸiÄŸine ulaÅŸtÄ±! LÃ¼tfen derhal uygun bir sÄ±caklÄ±ÄŸa getirin!</ATPP_AlertHot3DevicesDesc>
+	<ATPP_AlertHot2Devices>Bilgisayarlar sÄ±cak</ATPP_AlertHot2Devices>
+	<ATPP_AlertHot2DevicesDesc>BilgisayarlarÄ±nÄ±zdan biri veya birkaÃ§Ä± Ä±sÄ±nÄ±yor, lÃ¼tfen ortam sÄ±caklÄ±ÄŸÄ±nÄ± hÄ±zla dÃ¼ÅŸÃ¼rÃ¼n!</ATPP_AlertHot2DevicesDesc>
+	
+	<ATPP_AlertUnsecurisedClients>{0} korumasÄ±z SkyMind istemcisi</ATPP_AlertUnsecurisedClients>
+	<ATPP_AlertUnsecurisedClientsDesc>UyarÄ±: AÄŸ Ã¼zerinden hacklenebilecek potansiyel {0} SkyMind istemciniz var, bunu Ã¶nlemek iÃ§in gÃ¼venlik sunucularÄ± inÅŸa edin.</ATPP_AlertUnsecurisedClientsDesc>
+	
+	<!-- Incidents -->
+	<ATPP_IncidentSurrogateHackingVirus>SX VirÃ¼sÃ¼</ATPP_IncidentSurrogateHackingVirus>
+	<ATPP_IncidentSurrogateHackingCryptolocker>SX Fidye VirÃ¼sÃ¼ (Cryptolocker)</ATPP_IncidentSurrogateHackingCryptolocker>
+	<ATPP_IncidentSurrogateHackingExplosiveVirus>SX PatlayÄ±cÄ± VirÃ¼sÃ¼</ATPP_IncidentSurrogateHackingExplosiveVirus>
+	<ATPP_IncidentSurrogateHackingLiteDesc>GÃ¼venlik sisteminiz saldÄ±rÄ±nÄ±n bir kÄ±smÄ±nÄ± etkisiz hale getirdi, ancak {0} vekilin bazÄ± alt sistemleri ele geÃ§irildi.</ATPP_IncidentSurrogateHackingLiteDesc>
+	
+	<ATPP_IncidentSurrogateHackingHardDesc>GÃ¼venlik sisteminiz tÃ¼m vekil android filonuzu korumuyor, {0} androidin iÅŸletim sistemleri tamamen ele geÃ§irildi.</ATPP_IncidentSurrogateHackingHardDesc>	
+	<ATPP_IncidentVirusedDesc>Bu vekiller artÄ±k tamamen virÃ¼sÃ¼n kontrolÃ¼ altÄ±nda ve size saldÄ±racak!</ATPP_IncidentVirusedDesc>
+	<ATPP_IncidentVirusedExplosiveDesc>Bu vekiller artÄ±k tamamen virÃ¼sÃ¼n kontrolÃ¼ altÄ±nda, size saldÄ±racak ve bir geri sayÄ±mÄ±n sonunda dahili vekil pillerini patlatacak!</ATPP_IncidentVirusedExplosiveDesc>
+	<ATPP_IncidentCryptolockerDesc>TÃ¼m enfekte vekiller tamamen kullanÄ±lamaz durumda; bu durum (umarÄ±z) saldÄ±rÄ±nÄ±n arkasÄ±ndaki fraksiyona fidye Ã¶denerek dÃ¼zeltilebilir.</ATPP_IncidentCryptolockerDesc>
+	
+	<ATPP_IncidentDeviceHackingVirus>VirÃ¼s</ATPP_IncidentDeviceHackingVirus>
+	<ATPP_IncidentDeviceHackingCryptolocker>Fidye VirÃ¼sÃ¼ (Cryptolocker)</ATPP_IncidentDeviceHackingCryptolocker>
+	<ATPP_IncidentDeviceHackingExplosiveVirus>PatlayÄ±cÄ± VirÃ¼s</ATPP_IncidentDeviceHackingExplosiveVirus>
+	<ATPP_IncidentDeviceHackingLiteDesc>GÃ¼venlik sisteminiz saldÄ±rÄ±nÄ±n bir kÄ±smÄ±nÄ± etkisiz hale getirdi, ancak baÄŸlÄ± {0} cihaz geÃ§ici olarak ele geÃ§irildi.</ATPP_IncidentDeviceHackingLiteDesc>
+	
+	<ATPP_IncidentDeviceHackingHardDesc>GÃ¼venlik sisteminiz baÄŸlÄ± tÃ¼m cihazlarÄ± korumuyor, {0} baÄŸlÄ± cihazÄ±n iÅŸletim sistemleri tamamen ele geÃ§irildi.</ATPP_IncidentDeviceHackingHardDesc>	
+	<ATPP_IncidentDeviceVirusedDesc>Bu cihazlar artÄ±k tamamen virÃ¼sÃ¼n kontrolÃ¼ altÄ±nda!</ATPP_IncidentDeviceVirusedDesc>
+	<ATPP_IncidentDeviceVirusedExplosiveDesc>Bu cihazlar artÄ±k tamamen virÃ¼sÃ¼n kontrolÃ¼ altÄ±nda ve geri sayÄ±mÄ±n sonunda patlayacak!</ATPP_IncidentDeviceVirusedExplosiveDesc>
+	<ATPP_IncidentDeviceCryptolockerDesc>TÃ¼m enfekte cihazlar tamamen kullanÄ±lamaz durumda; bu durum (umarÄ±z) saldÄ±rÄ±nÄ±n arkasÄ±ndaki fraksiyona fidye Ã¶denerek dÃ¼zeltilebilir.</ATPP_IncidentDeviceCryptolockerDesc>
+	
+	<ATPP_LetterFactionRansomware>Fidye YazÄ±lÄ±mÄ±</ATPP_LetterFactionRansomware>
+	<ATPP_LetterFactionRansomwareSkillStolenDesc>{0}, SkyMind aÄŸÄ± Ã¼zerinden {2}'nin beynindeki '{1}' yeteneÄŸine karÅŸÄ±lÄ±k gelen bellek alanlarÄ±nÄ± bozdu.</ATPP_LetterFactionRansomwareSkillStolenDesc>
+	<ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>{0}, SkyMind aÄŸÄ± Ã¼zerinden {1}'in beynine sÄ±zdÄ± ve '{2}' kÃ¶tÃ¼ Ã¶zelliÄŸini yÃ¼kledi.</ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>
+	
+	<!-- Needs -->
+	<ATPP_EnergyNeed>Enerji</ATPP_EnergyNeed>
+	<ATPP_EnergyNeedDesc>Enerji, bir androidin dahili pilinde bulunan gÃ¼Ã§ miktarÄ±dÄ±r. SÄ±fÄ±ra dÃ¼ÅŸerse android giderek daha fazla arÄ±zalanÄ±r ve sonunda devre dÄ±ÅŸÄ± kalÄ±r (Ã¶lÃ¼r).</ATPP_EnergyNeedDesc>
+	
+	
+	<!-- NanoKits -->
+	<ATPP_NanoKitsNoCare>OnarÄ±m yok</ATPP_NanoKitsNoCare>
+	<ATPP_NanoKitsNoKitJustVisit>Nanokit olmadan teknisyen ziyareti</ATPP_NanoKitsNoKitJustVisit>
+	<ATPP_NanoKitsBasic>Temel nanokit</ATPP_NanoKitsBasic>
+	<ATPP_NanoKitsIntermediate>Orta seviye nanokit</ATPP_NanoKitsIntermediate>
+	<ATPP_NanoKitsAdvanced>GeliÅŸmiÅŸ nanokit</ATPP_NanoKitsAdvanced>
+	
+	<!-- CompInspectPane -->
+	<ATPP_UploadPercentage>Zihin yÃ¼kleme: %{0}</ATPP_UploadPercentage>
+	<ATPP_DownloadPercentage>Zihin indirme: %{0}</ATPP_DownloadPercentage>
+	
+	<ATPP_PermutationPercentage>Zihin deÄŸiÅŸ tokuÅŸu: %{0}</ATPP_PermutationPercentage>
+	<ATPP_DuplicationPercentage>Zihin kopyalama: %{0}</ATPP_DuplicationPercentage>
+	<ATPP_UploadSkyCloudPercentage>SkyCloud'a zihin yÃ¼kleme: %{0}</ATPP_UploadSkyCloudPercentage>
+	<ATPP_DownloadFromSkyCloudPercentage>SkyCloud'dan zihin indirme: %{0}</ATPP_DownloadFromSkyCloudPercentage>
+	
+	<ATPP_SkyMindDetected>SkyMind'a baÄŸlÄ±</ATPP_SkyMindDetected>
+	<ATPP_RemotelyControlledBy>{0} tarafÄ±ndan uzaktan kontrol ediliyor.</ATPP_RemotelyControlledBy>
+	<ATPP_RemotelyControl>{0} birimini uzaktan kontrol et</ATPP_RemotelyControl>
+	
+	<ATPP_CompHotSensitiveHot3Text>SÄ±caklÄ±k Ã§ok yÃ¼ksek!</ATPP_CompHotSensitiveHot3Text>
+	<ATPP_CompHotSensitiveHot2Text>UyarÄ±: YÃ¼ksek sÄ±caklÄ±k</ATPP_CompHotSensitiveHot2Text>
+	<ATPP_CompHotSensitiveHot1Text>SÄ±caklÄ±k biraz yÃ¼ksek</ATPP_CompHotSensitiveHot1Text>
+	<ATPP_CompHotSensitiveHot0Text>Ä°deal Ã§alÄ±ÅŸma sÄ±caklÄ±ÄŸÄ±</ATPP_CompHotSensitiveHot0Text>
+	
+	<ATPP_CryptoLockedSurrogate>Kilitlendi, kullanÄ±lamaz!</ATPP_CryptoLockedSurrogate>
+	<ATPP_ExplosiveVirus>PatlayÄ±cÄ± VirÃ¼s: Pilin patlamasÄ±na {0} saniye kaldÄ±!</ATPP_ExplosiveVirus>
+	<ATPP_TempHackingLosingControlIn>Kontrol {0} saniye iÃ§inde kaybedilecek</ATPP_TempHackingLosingControlIn>
+	
+	<ATPP_BatteryLevel>Pil Seviyesi: %{0}</ATPP_BatteryLevel>
+	<ATPP_TempInfection>Enfeksiyonun sona ermesine: {0}</ATPP_TempInfection>
+	
+	<ATPP_SkyCloudCoreBooting>Sunucu baÅŸlatÄ±lÄ±yor ({0} saniye kaldÄ±)</ATPP_SkyCloudCoreBooting>
+	
+	<ATPP_NaniteFrameworkRepairingInProgress>Ä°skelet onarÄ±mÄ± devam ediyor %{0}</ATPP_NaniteFrameworkRepairingInProgress>
+	<ATPP_VX3SurrogateTypePrimary>Birincil vekil</ATPP_VX3SurrogateTypePrimary>
+	<ATPP_VX3SurrogateTypeSecondary>Ä°kincil vekil</ATPP_VX3SurrogateTypeSecondary>
+	
+	<ATPP_MindAbsorptionProgress>BilinÃ§ emilimi devam ediyor %{0}</ATPP_MindAbsorptionProgress>
+	
+	<ATPP_Rusted>PaslanmÄ±ÅŸ</ATPP_Rusted>
+	
+	<ATPP_BatteryExplodeInProgress>Pil patlamasÄ± %{0}</ATPP_BatteryExplodeInProgress>
+	
+	<!-- AutoDoor -->
+	<ATPP_AutoDoorOpen>AÃ§</ATPP_AutoDoorOpen>
+	<ATPP_AutoDoorOpenDescription>Bir SkyCloud Ã§ekirdeÄŸi aracÄ±lÄ±ÄŸÄ±yla uzaktan aÃ§.</ATPP_AutoDoorOpenDescription>
+	<ATPP_AutoDoorClose>Kapat</ATPP_AutoDoorClose>
+	<ATPP_AutoDoorCloseDescription>Bir SkyCloud sunucusu aracÄ±lÄ±ÄŸÄ±yla uzaktan kapat.</ATPP_AutoDoorCloseDescription>
+	<ATPP_AutoDoorOpenMoteText>SkyCloud ile AÃ§Ä±lÄ±yor</ATPP_AutoDoorOpenMoteText>
+	<ATPP_AutoDoorCloseMoteText>SkyCloud ile KapatÄ±lÄ±yor</ATPP_AutoDoorCloseMoteText>
+	
+
+	<!-- AutoFlickering -->
+	<ATPP_FlickEnable>SkyCloud ile GÃ¼cÃ¼ AÃ§</ATPP_FlickEnable>
+	<ATPP_FlickDisable>SkyCloud ile GÃ¼cÃ¼ Kapat</ATPP_FlickDisable>
+	
+	<!-- Letters -->
+	<ATPP_LetterSurrogateDisabled>Vekil {0} Devre DÄ±ÅŸÄ± KaldÄ±</ATPP_LetterSurrogateDisabled>
+	<ATPP_LetterSurrogateDisabledDesc>Vekil {0}, fiziksel bÃ¼tÃ¼nlÃ¼ÄŸÃ¼ne yÃ¶nelik ÅŸiddetli bir saldÄ±rÄ±nÄ±n ardÄ±ndan artÄ±k Ã§alÄ±ÅŸmÄ±yor.</ATPP_LetterSurrogateDisabledDesc>
+	
+	<ATPP_LetterUploadOK>YÃ¼kleme TamamlandÄ±</ATPP_LetterUploadOK>
+	<ATPP_LetterUploadOKDesc>{0}'Ä±n zihninin yÃ¼klenmesi tamamlandÄ± ve artÄ±k {1}'in yapay beynine aktarÄ±ldÄ±, {1} artÄ±k Ã¶ldÃ¼ (zihni ezildi).</ATPP_LetterUploadOKDesc>
+	
+	<ATPP_LetterPermuteOK>DeÄŸiÅŸ TokuÅŸ TamamlandÄ±</ATPP_LetterPermuteOK>
+	<ATPP_LetterPermuteOKDesc>Zihin deÄŸiÅŸ tokuÅŸu tamamlandÄ±, {0} ve {1} artÄ±k bedenlerini deÄŸiÅŸ tokuÅŸ etti.</ATPP_LetterPermuteOKDesc>
+	
+	<ATPP_LetterDuplicateOK>Kopyalama TamamlandÄ±</ATPP_LetterDuplicateOK>
+	<ATPP_LetterDuplicateOKDesc>Zihin kopyalamasÄ± tamamlandÄ±, {1}'in beyni artÄ±k {0}'Ä±n beyninin bir kopyasÄ±nÄ± iÃ§eriyor, {1} artÄ±k Ã¶lÃ¼ kabul edilebilir.</ATPP_LetterDuplicateOKDesc>
+	
+	<ATPP_LetterSkyCloudUploadOK>SkyCloud YÃ¼klemesi TamamlandÄ±</ATPP_LetterSkyCloudUploadOK>
+	<ATPP_LetterSkyCloudUploadOKDesc>SkyCloud'a zihin yÃ¼klemesi tamamlandÄ±, {0}'Ä±n bilinci artÄ±k {1}'in merkezi belleÄŸinde saklanÄ±yor.</ATPP_LetterSkyCloudUploadOKDesc>
+	
+	<ATPP_LetterSkyCloudReplicateOK>Ã‡oÄŸaltma TamamlandÄ±</ATPP_LetterSkyCloudReplicateOK>
+	<ATPP_LetterSkyCloudReplicateOKDesc>{0}'Ä±n sinir aÄŸÄ±nÄ±n {1}'in belleÄŸindeki Ã§oÄŸaltmasÄ± tamamlandÄ±.</ATPP_LetterSkyCloudReplicateOKDesc>
+	
+	<ATPP_LetterSkyCloudDownloadOK>SkyCloud Ä°ndirmesi TamamlandÄ±</ATPP_LetterSkyCloudDownloadOK>
+	<ATPP_LetterSkyCloudDownloadOKDesc>SkyCloud'dan zihin indirmesi tamamlandÄ±, {0}'Ä±n bilinci artÄ±k {1}'in merkezi belleÄŸinde saklanÄ±yor.</ATPP_LetterSkyCloudDownloadOKDesc>
+	
+	<ATPP_LetterSkyCloudMigrateOK>SkyCloud Zihin GeÃ§iÅŸi TamamlandÄ±</ATPP_LetterSkyCloudMigrateOK>
+	<ATPP_LetterSkyCloudMigrateOKDesc>{0}'Ä±n {1} sunucusundan {2} sunucusuna zihin geÃ§iÅŸi tamamlandÄ±.</ATPP_LetterSkyCloudMigrateOKDesc>
+	
+	<ATPP_LetterInterruptedUpload>YÃ¼kleme BaÅŸarÄ±sÄ±z Oldu</ATPP_LetterInterruptedUpload>
+	<ATPP_LetterInterruptedUploadDesc>Ã–lÃ¼mcÃ¼l Hata: BilinÃ§ aktarÄ±mÄ± kesintiye uÄŸradÄ± ve her iki beynin de kalÄ±cÄ± olarak bozulmasÄ±na (Ã¶lÃ¼me) yol aÃ§tÄ±.{0}</ATPP_LetterInterruptedUploadDesc>
+	<ATPP_LetterInterruptedUploadDescCompHostDead>AlÄ±cÄ± konaÄŸÄ±n Ã¶lÃ¼mÃ¼</ATPP_LetterInterruptedUploadDescCompHostDead>
+	<ATPP_LetterInterruptedUploadDescCompSourceDead>Zihin yayÄ±cÄ±sÄ±nÄ±n Ã¶lÃ¼mÃ¼</ATPP_LetterInterruptedUploadDescCompSourceDead>
+	<ATPP_LetterInterruptedUploadDescCompRandomError>Bilinmeyen bir hata oluÅŸtu</ATPP_LetterInterruptedUploadDescCompRandomError>
+	<ATPP_LetterInterruptedUploadDescCompDiconnectionError>Kolonistlerden biri veya her ikisi artÄ±k SkyMind'a baÄŸlÄ± deÄŸil.</ATPP_LetterInterruptedUploadDescCompDiconnectionError>
+	
+	<ATPP_LetterFactionScam>DolandÄ±rÄ±ldÄ±nÄ±z</ATPP_LetterFactionScam>
+	<ATPP_LetterFactionScamCryptolockerDesc>{0}, koloninize bulaÅŸan kriptolocker virÃ¼sÃ¼nÃ¼ silmemeye karar verdi, sizi dolandÄ±rdÄ±lar...</ATPP_LetterFactionScamCryptolockerDesc>
+	<ATPP_LetterFactionScamRansomwareDesc>{0}, fidye yazÄ±lÄ±mlarÄ±nÄ±n etkisini iptal etmemeye karar verdi, sizi dolandÄ±rdÄ±lar...</ATPP_LetterFactionScamRansomwareDesc>
+	
+	
+	<ATPP_CryptolockerNeedPayRansomTitle>Kriptolocker Fidyesi</ATPP_CryptolockerNeedPayRansomTitle>
+	<ATPP_CryptolockerNeedPayRansom>{0} sizinle telsiz aracÄ±lÄ±ÄŸÄ±yla iletiÅŸime geÃ§iyor. Kriptolocker virÃ¼s saldÄ±rÄ±sÄ±nÄ±n arkasÄ±nda onlar var, {1} gÃ¼mÃ¼ÅŸ karÅŸÄ±lÄ±ÄŸÄ±nda virÃ¼slerini kaldÄ±racaklar.</ATPP_CryptolockerNeedPayRansom>
+	
+	<ATPP_RansomNeedPayRansomTitle>Fidye YazÄ±lÄ±mÄ± Fidyesi</ATPP_RansomNeedPayRansomTitle>
+	<ATPP_RansomNeedPayRansomCorruptedSKill>{0} sizinle telsiz aracÄ±lÄ±ÄŸÄ±yla iletiÅŸime geÃ§iyor. Fidye yazÄ±lÄ±mÄ± saldÄ±rÄ±sÄ±nÄ±n arkasÄ±nda onlar var, {3} gÃ¼mÃ¼ÅŸ karÅŸÄ±lÄ±ÄŸÄ±nda {2}'nin bozulan '{1}' yeteneÄŸini geri yÃ¼kleyecekler.</ATPP_RansomNeedPayRansomCorruptedSKill>
+	<ATPP_RansomNeedPayRansomDownloadedTrait>{0} sizinle telsiz aracÄ±lÄ±ÄŸÄ±yla iletiÅŸime geÃ§iyor. Fidye yazÄ±lÄ±mÄ± saldÄ±rÄ±sÄ±nÄ±n arkasÄ±nda onlar var, {3} gÃ¼mÃ¼ÅŸ karÅŸÄ±lÄ±ÄŸÄ±nda {2}'ye yÃ¼klenen kÃ¶tÃ¼ '{1}' Ã¶zelliÄŸini kaldÄ±racaklar.</ATPP_RansomNeedPayRansomDownloadedTrait>
+	
+	<ATPP_ComptHeatSensitiveComputerMeltTitle>Sunucu AÅŸÄ±rÄ± IsÄ±nmasÄ±</ATPP_ComptHeatSensitiveComputerMeltTitle>
+    <ATPP_ComptHeatSensitiveComputerMeltDesc>YÃ¼ksek Ã§alÄ±ÅŸma sÄ±caklÄ±ÄŸÄ± nedeniyle bir sunucu patladÄ±!</ATPP_ComptHeatSensitiveComputerMeltDesc>
+	
+	<ATPP_destroyedMindsDueToDestroyedSkyCloudCore>{0} BilinÃ§ Kaybedildi</ATPP_destroyedMindsDueToDestroyedSkyCloudCore>
+	<ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>SkyCloud Ã‡ekirdeÄŸi {0}'Ä±n yok edilmesinin ardÄ±ndan, merkezi belleÄŸinde saklanan {1} bilincin tamamÄ± kaybedildi.</ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>
+	
+	<ATPP_LetterHackingPointsRemoved>Hack PuanlarÄ± Kaybedildi</ATPP_LetterHackingPointsRemoved>
+	<ATPP_LetterHackingPointsRemovedDesc>YerleÅŸim yer(ler)inizdeki tÃ¼m hack sunucularÄ± Ã§evrimdÄ±ÅŸÄ±, bu da {0} puanÄ±n artÄ±k hiÃ§bir ortamda saklanamayacaÄŸÄ± iÃ§in kaybedildiÄŸi anlamÄ±na geliyor!</ATPP_LetterHackingPointsRemovedDesc>
+	
+	<ATPP_LetterSkillPointsRemoved>Yetenek PuanlarÄ± Kaybedildi</ATPP_LetterSkillPointsRemoved>
+	<ATPP_LetterSkillPointsRemovedDesc>YerleÅŸim yer(ler)inizdeki tÃ¼m yetenek sunucularÄ± Ã§evrimdÄ±ÅŸÄ±, bu da {0} puanÄ±n artÄ±k hiÃ§bir ortamda saklanamayacaÄŸÄ± iÃ§in kaybedildiÄŸi anlamÄ±na geliyor!</ATPP_LetterSkillPointsRemovedDesc>
+	
+	<ATPP_SkyCloudCoreBooted>{0} BaÅŸlatÄ±ldÄ±</ATPP_SkyCloudCoreBooted>
+    <ATPP_SkyCloudCoreBootedDesc>SkyCloud sunucusu {0} baÅŸarÄ±yla baÅŸlatÄ±ldÄ± ve artÄ±k kullanÄ±labilir.</ATPP_SkyCloudCoreBootedDesc>
+	
+	<ATPP_LetterInterruptedSkyCloudReplication>Kopyalama BaÅŸarÄ±sÄ±z Oldu</ATPP_LetterInterruptedSkyCloudReplication>
+	<ATPP_LetterInterruptedSkyCloudReplicationDesc>{0}'Ä±n bilincinin kopyalanmasÄ± baÅŸarÄ±sÄ±z oldu Ã§Ã¼nkÃ¼ ana SkyCloud Ã§ekirdeÄŸi Ã§evrimdÄ±ÅŸÄ±.</ATPP_LetterInterruptedSkyCloudReplicationDesc>
+	
+	<ATPP_LetterInterruptedSkyCloudMigration>GeÃ§iÅŸ BaÅŸarÄ±sÄ±z Oldu</ATPP_LetterInterruptedSkyCloudMigration>
+	<ATPP_LetterInterruptedSkyCloudMigrationDesc>{0}'Ä±n bilincinin geÃ§iÅŸi baÅŸarÄ±sÄ±z oldu Ã§Ã¼nkÃ¼ hedef SkyCloud Ã§ekirdeÄŸi Ã§evrimdÄ±ÅŸÄ±.</ATPP_LetterInterruptedSkyCloudMigrationDesc>
+	
+	<ATPP_LetterTraitorOffline>Hain Ã§evrimdÄ±ÅŸÄ±</ATPP_LetterTraitorOffline>
+	<ATPP_LetterTraitorOfflineDesc>{0}, sizin tarafÄ±nÄ±zdan devÅŸirilmeye izin vererek fraksiyonuna ihanet etti; fraksiyonu bunu fark etti ve tutuklandÄ± (bu nedenle kontrol ettiÄŸi vekille baÄŸlantÄ±sÄ± kesildi).</ATPP_LetterTraitorOfflineDesc>
+	
+	<ATPP_LetterInterruptedMindAbsorption>Zihin emilimi baÅŸarÄ±sÄ±z oldu</ATPP_LetterInterruptedMindAbsorption>
+	<ATPP_LetterInterruptedMindAbsorptionDesc>{0}'Ä±n zihin emilimi, ya SkyMind baÄŸlantÄ±sÄ±nÄ±n kopmasÄ± ya da hiÃ§bir puan sunucusunun Ã§alÄ±ÅŸmamasÄ± nedeniyle baÅŸarÄ±sÄ±z oldu.</ATPP_LetterInterruptedMindAbsorptionDesc>
+	
+	<ATPP_MindAbsorptionDone>Zihin emilimi tamamlandÄ±</ATPP_MindAbsorptionDone>
+	<ATPP_MindAbsorptionDoneDesc>{0}'Ä±n zihin emilimi tamamlandÄ±, {1} yetenek puanÄ± kazanÄ±ldÄ±</ATPP_MindAbsorptionDoneDesc>
+	
+	<ATPP_LetterExternalSurrogateEscape>Vekil kontrolcÃ¼sÃ¼ kaÃ§Ä±ÅŸÄ±</ATPP_LetterExternalSurrogateEscape>
+	<ATPP_LetterExternalSurrogateEscapeDesc>Ä°ÅŸe almaya Ã§alÄ±ÅŸtÄ±ÄŸÄ±nÄ±z vekilin kontrolcÃ¼sÃ¼ {0}, koloninize katÄ±lmaya karar verdi; vekiliyle baÄŸlantÄ±sÄ±nÄ± kesecek ve tam olarak ne zaman olacaÄŸÄ±nÄ± bilmeden birkaÃ§ gÃ¼n iÃ§inde koloninize katÄ±lmak Ã¼zere bulunduÄŸu dÃ¼ÅŸman Ã¼ssÃ¼nden gizlice kaÃ§acak.</ATPP_LetterExternalSurrogateEscapeDesc>
+	
+	<ATPP_LetterExternalSurrogateControllerJoin>Eski mahkÃ»m katÄ±ldÄ±</ATPP_LetterExternalSurrogateControllerJoin>
+	<ATPP_LetterExternalSurrogateControllerJoinDesc>HapsettiÄŸiniz ve baÅŸarÄ±yla dÃ¶nÃ¼ÅŸtÃ¼rdÃ¼ÄŸÃ¼nÃ¼z vekil kontrolcÃ¼sÃ¼ {0}, az Ã¶nce koloninize ulaÅŸtÄ± ve aranÄ±za katÄ±ldÄ±.</ATPP_LetterExternalSurrogateControllerJoinDesc>
+	
+	<ATPP_LetterExternalSurrogateControllerCannotJoin>Eski mahkÃ»m katÄ±lamadÄ±</ATPP_LetterExternalSurrogateControllerCannotJoin>
+	<ATPP_LetterExternalSurrogateControllerCannotJoinDesc>HapsettiÄŸiniz ve baÅŸarÄ±yla dÃ¶nÃ¼ÅŸtÃ¼rdÃ¼ÄŸÃ¼nÃ¼z vekil kontrolcÃ¼sÃ¼ {0}, koloninize ulaÅŸmaya Ã§alÄ±ÅŸtÄ± ancak bilinmeyen bir nedenle baÅŸaramadÄ± ve bu yÃ¼zden ayrÄ±ldÄ±.</ATPP_LetterExternalSurrogateControllerCannotJoinDesc>
+	
+	<ATPP_LetterExternalSurrogateDisconnect>KontrolcÃ¼ baÄŸlantÄ±sÄ± kesildi</ATPP_LetterExternalSurrogateDisconnect>
+	<ATPP_LetterExternalSurrogateDisconnectDesc>KÃ¶leleÅŸtirmeye Ã§alÄ±ÅŸtÄ±ÄŸÄ±nÄ±z vekilin kontrolcÃ¼sÃ¼ {0}, kendisi ve fraksiyonu artÄ±k koloninizden bilgi alamayacaklarÄ±nÄ± ve kÃ¶le olarak devam etmenin zaman kaybÄ± olacaÄŸÄ±nÄ± dÃ¼ÅŸÃ¼ndÃ¼kleri iÃ§in baÄŸlantÄ±yÄ± kesti.</ATPP_LetterExternalSurrogateDisconnectDesc>
+	
+	<ATPP_LetterKidnappedM8Disconnected>M8 baÄŸlantÄ±sÄ± kesildi</ATPP_LetterKidnappedM8Disconnected>
+	<ATPP_LetterKidnappedM8DisconnectedDesc>KaÃ§Ä±rÄ±lan M8'inizin ({1} barÄ±ndÄ±ran {0}) kaÃ§Ä±ranlarÄ± iletiÅŸim devrelerine eriÅŸti; makinenin entegre SkyMind anteni aracÄ±lÄ±ÄŸÄ±yla iletiÅŸim kurmaya devam ettiÄŸini fark ederek baÄŸlantÄ±sÄ±nÄ± kestiler. ArtÄ±k {1} birimine baÄŸlanamayacaksÄ±nÄ±z.</ATPP_LetterKidnappedM8DisconnectedDesc>
+	
+	<!-- Designators -->
+	<ATPP_DesignatorNeedSelectSX>Hata: SkyMind aÄŸÄ±na baÄŸlÄ± geÃ§erli bir cihaz seÃ§melisiniz!</ATPP_DesignatorNeedSelectSX>
+	<ATPP_DesignatorNeedSelectSXToHack>Hata: Kendi fraksiyonunuz dÄ±ÅŸÄ±ndaki bir fraksiyon tarafÄ±ndan kontrol edilen bir vekil android seÃ§melisiniz!</ATPP_DesignatorNeedSelectSXToHack>
+	
+	<!-- Comps -->
+	<ATPP_SkyMindConn>SkyMind'a BaÄŸlan</ATPP_SkyMindConn>
+	<ATPP_SkyMindConnDesc>Zihin yÃ¼kleme/deÄŸiÅŸ tokuÅŸ/kopyalama iÅŸlemlerine izin vermek veya SX serisi androidleri ya da biyolojik vekilleri uzaktan kontrol etmek iÃ§in bu kolonisti SkyMind aÄŸÄ±na baÄŸlayÄ±n.</ATPP_SkyMindConnDesc>
+	<ATPP_SkyMindAutoConn>Otomatik BaÄŸlantÄ±</ATPP_SkyMindAutoConn>
+	<ATPP_SkyMindAutoConnDesc>SkyMind aÄŸÄ±yla baÄŸlantÄ± kesildiÄŸinde, bu cihaz boÅŸ yuva olduÄŸunda otomatik olarak yeniden baÄŸlanmaya Ã§alÄ±ÅŸacaktÄ±r.</ATPP_SkyMindAutoConnDesc>
+	<ATPP_Duplicate>Kopyala</ATPP_Duplicate>
+	<ATPP_DuplicateDesc>SeÃ§ili kolonistin bilincini baÅŸka birine kopyalayÄ±n.</ATPP_DuplicateDesc>
+	<ATPP_Permute>DeÄŸiÅŸ TokuÅŸ Et</ATPP_Permute>
+	<ATPP_PermuteDesc>SeÃ§ili kolonistin bilincini baÅŸka biriyle deÄŸiÅŸ tokuÅŸ edin.</ATPP_PermuteDesc>
+	<ATPP_EnableSurrogateControlMode>Kontrol Et</ATPP_EnableSurrogateControlMode>
+	<ATPP_EnableSurrogateControlModeDesc>Bu kolonistin bir SX serisi androidi veya biyolojik vekili kontrol etmesini saÄŸlayan uzaktan kontrol modunu etkinleÅŸtirin.</ATPP_EnableSurrogateControlModeDesc>
+	<ATPP_AndroidToControlTargetDisconnect>BaÄŸlantÄ±yÄ± Kes</ATPP_AndroidToControlTargetDisconnect>
+	<ATPP_AndroidToControlTargetDisconnectDesc>Mevcut uzaktan kontrol oturumunu sonlandÄ±rÄ±n.</ATPP_AndroidToControlTargetDisconnectDesc>
+	<ATPP_AndroidToControlTarget>BaÄŸlan</ATPP_AndroidToControlTarget>
+	<ATPP_AndroidToControlTargetDesc>SeÃ§ilen dÃ¼ÄŸÃ¼mÃ¼n kontrolÃ¼nÃ¼ elinize alÄ±n.</ATPP_AndroidToControlTargetDesc>
+	<ATPP_ThisCurrentMap>Bu Harita</ATPP_ThisCurrentMap>
+	<ATPP_AndroidToControlTargetRecoverCaravan>Kurtar</ATPP_AndroidToControlTargetRecoverCaravan>
+	<ATPP_AndroidToControlTargetRecoverCaravanDesc>Bir kervandaki baÄŸlantÄ±sÄ± kesilmiÅŸ vekili kurtarÄ±n.</ATPP_AndroidToControlTargetRecoverCaravanDesc>
+	<ATPP_FreeControllerInCaravan>Kervan</ATPP_FreeControllerInCaravan>
+	<ATPP_FreeControllerInCaravanDesc>Bu vekili kervandaki boÅŸ bir kontrolcÃ¼ye baÄŸlayÄ±n</ATPP_FreeControllerInCaravanDesc>
+	<ATPP_AndroidSurrogateReconnectToLastController>Yeniden BaÄŸlan</ATPP_AndroidSurrogateReconnectToLastController>
+	<ATPP_AndroidSurrogateReconnectToLastControllerDesc>Vekili (mÃ¼mkÃ¼nse) onu en son kullanan kullanÄ±cÄ±ya yeniden baÄŸlayÄ±n</ATPP_AndroidSurrogateReconnectToLastControllerDesc>
+	
+	
+	<ATPP_NoVX2Recipient>Uygun kolonist yok (VX2 nÃ¶ral Ã§ip beyin implantÄ±na sahip olmalarÄ± gerekir).</ATPP_NoVX2Recipient>
+	<ATPP_NoSkyCloudCoreAvailable>KullanÄ±labilir SkyCloud Ã‡ekirdeÄŸi yok</ATPP_NoSkyCloudCoreAvailable>
+	<ATPP_ConsciousnessUploadNoRecipient>Ä°ndirme hedefi olarak uygun bir alÄ±cÄ± yok.</ATPP_ConsciousnessUploadNoRecipient>
+	<ATPP_ConsciousnessSelectDestination>Bir hedef konak seÃ§in</ATPP_ConsciousnessSelectDestination>
+	<ATPP_UploadConsciousness>YÃ¼kle</ATPP_UploadConsciousness>
+	<ATPP_UploadConsciousnessDesc>Bu androiddeki zihni baÅŸka birine yÃ¼kleyin.</ATPP_UploadConsciousnessDesc>
+	
+	<ATPP_WarningSkyMindDisconnectionRisk>UyarÄ±: Ä°ÅŸlem sÄ±rasÄ±nda SkyMind aÄŸÄ±ndan herhangi bir baÄŸlantÄ± kesilmemelidir, aksi takdirde beyinleri bozulur ve bu durum Ã¶lÃ¼mlerine yol aÃ§ar</ATPP_WarningSkyMindDisconnectionRisk>
+	
+	<ATPP_UploadConsciousnessConfirm>Zihni YÃ¼kle</ATPP_UploadConsciousnessConfirm>
+	<ATPP_UploadConsciousnessConfirmDesc>Onaylayarak, {0} zihnini {1}'in bedenine yÃ¼kleyecek; bu da {1}'in zihnini ezecek (onu Ã¶ldÃ¼recek) ve {0}'Ä±n bedeni devre dÄ±ÅŸÄ± kalacaktÄ±r. Devam etmek istediÄŸinizden emin misiniz?</ATPP_UploadConsciousnessConfirmDesc>
+	
+	<ATPP_PermuteConsciousnessConfirm>Zihin DeÄŸiÅŸ TokuÅŸu</ATPP_PermuteConsciousnessConfirm>
+	<ATPP_PermuteConsciousnessConfirmDesc>Onaylayarak, {0} ve {1} zihinlerini deÄŸiÅŸ tokuÅŸ edecek ve bedenlerini takas edeceklerdir. Devam etmek istediÄŸinizden emin misiniz?</ATPP_PermuteConsciousnessConfirmDesc>
+	
+	<ATPP_DuplicateConsciousnessConfirm>Zihin Kopyalama</ATPP_DuplicateConsciousnessConfirm>
+	<ATPP_DuplicateConsciousnessConfirmDesc>Onaylayarak, {0} zihnini {1}'in beynine kopyalayacak; bu da {1}'in zihnini ezecektir (onu Ã¶ldÃ¼recektir). Devam etmek istediÄŸinizden emin misiniz?</ATPP_DuplicateConsciousnessConfirmDesc>
+	
+	<ATPP_UseBattery>Pil Kullan</ATPP_UseBattery>
+	<ATPP_UseBatteryDesc>EtkinleÅŸtirilirse android, biyokÃ¼tle jeneratÃ¶rÃ¼ yerine doÄŸrudan dahili pilini kullanacak ÅŸekilde ayarlanÄ±r.</ATPP_UseBatteryDesc>
+	
+	<ATPP_RepairAndroids>Androidleri Onar</ATPP_RepairAndroids>
+	<ATPP_RepairAndroidsDesc>Bu kolonistin androidleri onarmasÄ±na izin verin.</ATPP_RepairAndroidsDesc>
+	
+	<ATPP_UploadVirus>VirÃ¼s</ATPP_UploadVirus>
+	<ATPP_UploadVirusDesc>Hedeflenen vekile bir virÃ¼s yÃ¼kleyin.</ATPP_UploadVirusDesc>
+	<ATPP_UploadExplosiveVirus>PatlayÄ±cÄ± VirÃ¼s</ATPP_UploadExplosiveVirus>
+	<ATPP_UploadExplosiveVirusDesc>Hedeflenen vekile, dahili pilini aÅŸÄ±rÄ± yÃ¼kleyerek patlamasÄ±na neden olacak bir virÃ¼s yÃ¼kleyin.</ATPP_UploadExplosiveVirusDesc>
+	<ATPP_Hack>Hackle</ATPP_Hack>
+	<ATPP_HackDesc>Hedeflenen vekili hackleyin ve kontrolÃ¼nÃ¼ ele geÃ§irin.</ATPP_HackDesc>
+	<ATPP_HackTemp>GeÃ§ici Hackleme</ATPP_HackTemp>
+	<ATPP_HackTempDesc>Hedeflenen vekilin geÃ§ici kontrolÃ¼nÃ¼ almak iÃ§in hÄ±zlÄ± bir hackleme yapÄ±n.</ATPP_HackTempDesc>
+	
+	<ATPP_MoveToSkyCloud>SkyCloud'a YÃ¼kle</ATPP_MoveToSkyCloud>
+	<ATPP_MoveToSkyCloudDesc>Bu operasyon konaÄŸÄ±n zihnini bir SkyCloud Ã§ekirdeÄŸine taÅŸÄ±yacaktÄ±r; bu onlarÄ± neredeyse Ã¶lÃ¼msÃ¼z yapacak ancak bedenlerini cansÄ±z bÄ±rakacaktÄ±r.</ATPP_MoveToSkyCloudDesc>
+	<ATPP_MoveFromSkyCloud>SkyCloud'dan Ä°ndir</ATPP_MoveFromSkyCloud>
+	<ATPP_MoveFromSkyCloudDesc>Bu operasyon SkyCloud Ã§ekirdeÄŸinde saklanan seÃ§ili zihni konaÄŸÄ±n beynine taÅŸÄ±yacaktÄ±r.</ATPP_MoveFromSkyCloudDesc>
+	<ATPP_CentralCoreNbStoredMind>{0} bilinÃ§ saklanÄ±yor</ATPP_CentralCoreNbStoredMind>
+	<ATPP_CentralCoreNbAssistingMinds>YardÄ±ma atanmÄ±ÅŸ {0} bilinÃ§</ATPP_CentralCoreNbAssistingMinds>
+	
+	<ATPP_CentralCoreMigrationInProgress>{0} bilincinin {1} iÃ§ine geÃ§iÅŸi devam ediyor (%{2})</ATPP_CentralCoreMigrationInProgress>
+	<ATPP_CentralCoreProcessInMentalBreak>{0} kullanÄ±lamaz: zihinsel Ã§Ã¶kÃ¼ntÃ¼de</ATPP_CentralCoreProcessInMentalBreak>
+	
+	<ATPP_CentralCoreReplicationInProgress>{0} bilincinin Ã§oÄŸaltÄ±lmasÄ± devam ediyor (%{1})</ATPP_CentralCoreReplicationInProgress>
+	
+	<ATPP_SkyCloudFloatMenuMindsStoredSelect>Bir bilinÃ§ seÃ§in</ATPP_SkyCloudFloatMenuMindsStoredSelect>
+	<ATPP_ProcessInfo>Bilgi</ATPP_ProcessInfo>
+	<ATPP_ProcessInfoDesc>Saklanan zihinler hakkÄ±nda bilgi alÄ±n.</ATPP_ProcessInfoDesc>
+	<ATPP_ProcessRemove>KaldÄ±r</ATPP_ProcessRemove>
+	<ATPP_ProcessRemoveDesc>Bir zihni kaldÄ±rÄ±n</ATPP_ProcessRemoveDesc>
+	<ATPP_ProcessRemoveDescConfirm>Onaylayarak, {0}'Ä±n bilinci {1}'in belleÄŸinden tamamen silinecek ve Ã¶lÃ¼ kabul edilecektir!</ATPP_ProcessRemoveDescConfirm>
+	<ATPP_ProcessDuplicate>Ã‡oÄŸalt</ATPP_ProcessDuplicate>
+	<ATPP_ProcessDuplicateDesc>Bir bilinci Ã§oÄŸaltÄ±n.</ATPP_ProcessDuplicateDesc>
+	<ATPP_ProcessAssist>Destek Ol</ATPP_ProcessAssist>
+	<ATPP_ProcessAssistDesc>YalnÄ±zca SkyMind aÄŸÄ±na baÄŸlÄ± kolonistlerinize destek olmak iÃ§in kullanÄ±lan saklÄ± zihinler listesini atayÄ±n; buraya atanan her zihin iÃ§in genel ruh hali takviyesi kazanÄ±rlar.</ATPP_ProcessAssistDesc>
+	<ATPP_ProcessMigrate>TaÅŸÄ±</ATPP_ProcessMigrate>
+	<ATPP_ProcessMigrateDesc>Bir bilinci bu SkyCloud Ã§ekirdeÄŸinden diÄŸerine taÅŸÄ±yÄ±n</ATPP_ProcessMigrateDesc>
+	
+	<ATPP_ProcessAssistAssignedMinds>Zihin atamasÄ±nÄ± kaldÄ±r (Ã§Ä±kar)</ATPP_ProcessAssistAssignedMinds>
+	<ATPP_ProcessAssistUnassignedMinds>Zihin ata (ekle)</ATPP_ProcessAssistUnassignedMinds>
+	<ATPP_ProcessAssistAssignAll>AtanmamÄ±ÅŸ tÃ¼m zihinleri ata</ATPP_ProcessAssistAssignAll>
+	<ATPP_ProcessAssistUnassignAll>AtanmÄ±ÅŸ tÃ¼m zihinlerin atamasÄ±nÄ± kaldÄ±r</ATPP_ProcessAssistUnassignAll>
+	
+	<ATPP_ProcessDisconnectAllSurrogates>TÃ¼mÃ¼nÃ¼n BaÄŸlantÄ±sÄ±nÄ± Kes</ATPP_ProcessDisconnectAllSurrogates>
+	
+	<ATPP_StopVirused>Durdur</ATPP_StopVirused>
+	<ATPP_StopVirusedDesc>Bu enfekte vekili kapatÄ±n</ATPP_StopVirusedDesc>
+	
+	<ATPP_PreviousSurrogateControllerIs>Ã–nceki kontrolcÃ¼: {0}</ATPP_PreviousSurrogateControllerIs>
+	
+	<ATPP_Skills>Yetenekler</ATPP_Skills>
+	<ATPP_SkillsDesc>SunucularÄ±nÄ±z tarafÄ±ndan Ã¼retilen yetenek puanlarÄ±nÄ± androidleriniz iÃ§in ek yeteneklere dÃ¶nÃ¼ÅŸtÃ¼rmenizi saÄŸlayacak yetenek atÃ¶lyesini aÃ§Ä±n</ATPP_SkillsDesc>
+	
+	<ATPP_MindAbsorption>Zihin emilimi</ATPP_MindAbsorption>
+	<ATPP_MindAbsorptionDesc>Bir tutsaÄŸÄ±n zihnini yetenek puanlarÄ±na dÃ¶nÃ¼ÅŸtÃ¼rmek iÃ§in emin (Ã¶lÃ¼mcÃ¼l operasyon)</ATPP_MindAbsorptionDesc>
+	
+	<ATPP_MindAbsorptionConfirm>Zihin emilimi</ATPP_MindAbsorptionConfirm>
+	<ATPP_MindAbsorptionConfirmDesc>Onaylayarak, {0}'Ä±n bilinci emilecek ve yetenek puanlarÄ±na dÃ¶nÃ¼ÅŸtÃ¼rÃ¼lecektir (Ã¶lÃ¼mcÃ¼l operasyon). Devam etmek istediÄŸinizden emin misiniz?</ATPP_MindAbsorptionConfirmDesc>
+	
+	<ATPP_UploadMakeAndroidBatteryOverloadConfirm>Pili aÅŸÄ±rÄ± yÃ¼kle</ATPP_UploadMakeAndroidBatteryOverloadConfirm>
+	<ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>Dikkat: OnaylandÄ±ÄŸÄ±nda seÃ§ilen androidin pili aÅŸÄ±rÄ± yÃ¼klenecek ve kÄ±sa bir sÃ¼re sonra patlayacaktÄ±r. GerÃ§ekten devam etmek istiyor musunuz?</ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>
+	
+	<ATPP_OverloadAndroid>AÅŸÄ±rÄ± YÃ¼kle</ATPP_OverloadAndroid>
+	<ATPP_OverloadAndroidDesc>Android pilini patlatÄ±n</ATPP_OverloadAndroidDesc>
+	
+	<!-- Power++ compat -->
+	<ATPP_LWPNConnected>{0} ile baÄŸlantÄ± kuruldu</ATPP_LWPNConnected>
+	<ATPP_LWPNDisconnected>{0} ile baÄŸlantÄ± kesildi</ATPP_LWPNDisconnected>
+	<ATPP_NoAvailableLWPN>KullanÄ±labilir LWPN yok</ATPP_NoAvailableLWPN>
+	<ATPP_LWPNNbConnectedAndroid>BaÄŸlÄ± androidler: {0}</ATPP_LWPNNbConnectedAndroid>
+	<ATPP_MessageLWPNNoSlotAvailable>BoÅŸ LWPN yuvasÄ± yok!</ATPP_MessageLWPNNoSlotAvailable>
+	
+	<!-- Buildings -->
+	<ATPP_SkyMindAntennaSynthesis>BaÄŸlÄ± kullanÄ±cÄ±lar: {0} / {1}</ATPP_SkyMindAntennaSynthesis>
+	<ATPP_ForceReload>Pil ÅŸarjÄ±nÄ± zorla</ATPP_ForceReload>
+	<ATPP_CannotUseEveryPlaceUsed>KullanÄ±lamÄ±yor, ÅŸarj istasyonu dolu.</ATPP_CannotUseEveryPlaceUsed>
+	<ATPP_CannotUseBecauseNotInBatteryMode>KullanÄ±lamÄ±yor Ã§Ã¼nkÃ¼ seÃ§ilen androidin dahili pili varsayÄ±lan jeneratÃ¶r olarak ayarlanmamÄ±ÅŸ.</ATPP_CannotUseBecauseNotInBatteryMode>
+	<ATPP_SecurityServersSynthesis>Korunan vekiller: {0} / {1}</ATPP_SecurityServersSynthesis>
+	<ATPP_HackingServersSynthesis>Mevcut hackleme puanlarÄ±: {0} / {1}</ATPP_HackingServersSynthesis>
+	<ATTP_HackingSlotsAdded>Eklenen hackleme yuvalarÄ±: {0}</ATTP_HackingSlotsAdded>
+	<ATTP_HackingProducedPoints>Ãœretilen hackleme puanlarÄ±: {0}</ATTP_HackingProducedPoints>
+	<ATTP_SecuritySlotsAdded>Eklenen gÃ¼venlik yuvalarÄ±: {0}</ATTP_SecuritySlotsAdded>
+	<ATPP_SkillServersSynthesis>Mevcut yetenek puanlarÄ±: {0} / {1}</ATPP_SkillServersSynthesis>
+	<ATTP_SkillSlotsAdded>Eklenen yetenek yuvalarÄ±: {0}</ATTP_SkillSlotsAdded>
+	<ATTP_SkillProducedPoints>Ãœretilen yetenek puanlarÄ±: {0}</ATTP_SkillProducedPoints>
+	
+	<!-- Colors -->
+	<ATPP_HairColor>SaÃ§ rengi</ATPP_HairColor>
+	<ATPP_HairColorBlond>SarÄ±</ATPP_HairColorBlond>
+	<ATPP_HairColorBlack>Siyah</ATPP_HairColorBlack>
+	<ATPP_HairColorAuburn>Kumral</ATPP_HairColorAuburn>
+	<ATPP_HairColorGrey>Gri</ATPP_HairColorGrey>
+	<ATPP_HairColorGinger>KÄ±zÄ±l</ATPP_HairColorGinger>
+	<ATPP_HairColorWhite>Beyaz</ATPP_HairColorWhite>
+	
+	<ATPP_SkinColor>Ten rengi</ATPP_SkinColor>
+	<ATPP_SkinColorVerylight>Ã‡ok AÃ§Ä±k</ATPP_SkinColorVerylight>
+	<ATPP_SkinColorLight>AÃ§Ä±k</ATPP_SkinColorLight>
+	<ATPP_SkinColorFair>AÃ§Ä±k BuÄŸday</ATPP_SkinColorFair>
+	<ATPP_SkinColorMidbrown>Orta Kahverengi</ATPP_SkinColorMidbrown>
+	<ATPP_SkinColorDarkbrown>Koyu Kahverengi</ATPP_SkinColorDarkbrown>
+	<ATPP_SkinColorVerydark>Ã‡ok Koyu Kahverengi</ATPP_SkinColorVerydark>
+	
+	<!-- Messages -->
+	<ATPP_CannotConnectToSkyMindNoNet>SkyMind'a baÄŸlanÄ±lamÄ±yor, aÄŸ mevcut deÄŸil!</ATPP_CannotConnectToSkyMindNoNet>
+	<ATPP_CannotConnectToSkyMind>SkyMind'a baÄŸlanÄ±lamÄ±yor, yeterli boÅŸ yuva yok!</ATPP_CannotConnectToSkyMind>
+	<ATPP_SurrogateUnexpectedDisconnection>Beklenmedik baÄŸlantÄ± kesintisi: {0} artÄ±k SkyMind aÄŸÄ±na baÄŸlÄ± deÄŸil!</ATPP_SurrogateUnexpectedDisconnection>
+	<ATPP_SurrogateConnectionCannotBeDisconnected>BaÄŸlantÄ± kesilemiyor, {0} ÅŸu anda dengesiz bir zihinsel durumda</ATPP_SurrogateConnectionCannotBeDisconnected>
+	<ATPP_SurrogateConnectionOK>{0} artÄ±k {1} ile baÄŸlantÄ±lÄ±</ATPP_SurrogateConnectionOK>
+	
+	<ATPP_StartPermute>{0} ile {1} arasÄ±ndaki bilinÃ§ deÄŸiÅŸ tokuÅŸu baÅŸladÄ±!</ATPP_StartPermute>
+	<ATPP_StartDuplicate>{0}'Ä±n bilincinin {1}'e kopyalanmasÄ± baÅŸladÄ±!</ATPP_StartDuplicate>
+	<ATPP_StartSkyCloudUpload>{0}'Ä±n bilincinin {1} iÃ§ine yÃ¼klenmesi baÅŸladÄ±!</ATPP_StartSkyCloudUpload>
+	<ATPP_StartSkyCloudUploadFailedFull>{0}'Ä±n bilincinin {1} iÃ§ine yÃ¼klenmesi gerÃ§ekleÅŸtirilemiyor Ã§Ã¼nkÃ¼ {1} iÃ§inde yeterli bilinÃ§ depolama alanÄ± yok</ATPP_StartSkyCloudUploadFailedFull>
+	<ATPP_StartSkyCloudDownload>{0}'Ä±n bilincinin {1}'in beynine indirilmesi baÅŸladÄ±!</ATPP_StartSkyCloudDownload>
+	<ATPP_StartSkyCloudMigration>{0}'Ä±n bilincinin {1}'den {2}'ye geÃ§iÅŸi baÅŸladÄ±!</ATPP_StartSkyCloudMigration>
+	<ATPP_StartSkyCloudMigrationFailed>{0}'Ä±n bilincinin {1} iÃ§ine geÃ§iÅŸi gerÃ§ekleÅŸtirilemiyor Ã§Ã¼nkÃ¼ {1} iÃ§inde yeterli bilinÃ§ depolama alanÄ± yok</ATPP_StartSkyCloudMigrationFailed>
+	
+	<ATPP_StartUpload>{0}'Ä±n bilincinin {1}'e yÃ¼klenmesi baÅŸladÄ±!</ATPP_StartUpload>
+	
+	<ATPP_CanOnlyBeUsedByAndroid>Bu cihaz yalnÄ±zca androidler tarafÄ±ndan kullanÄ±labilir!</ATPP_CanOnlyBeUsedByAndroid>
+	<ATPP_CannotBeUsedBecauseNoOldAgeIssues>KullanÄ±lamaz Ã§Ã¼nkÃ¼ hiÃ§bir android yaÅŸlÄ±lÄ±k sorunu bulunamadÄ±</ATPP_CannotBeUsedBecauseNoOldAgeIssues>
+	
+	<ATPP_NoBrokenStuffFound>Android {0} iÃ§in hiÃ§bir sorun bulunamadÄ±!</ATPP_NoBrokenStuffFound>
+	<ATPP_BrokenStuffRepairFailed>Hata: Nanitler onarÄ±mda baÅŸarÄ±sÄ±z oldu!</ATPP_BrokenStuffRepairFailed>
+	
+	<ATPP_BrokenCPURepaired>Yapay beyin baÅŸarÄ±yla onarÄ±ldÄ±!</ATPP_BrokenCPURepaired> 
+	<ATPP_BrokenHydraulicSystemRepaired>Hidrolik sistem baÅŸarÄ±yla onarÄ±ldÄ±!</ATPP_BrokenHydraulicSystemRepaired> 
+	<ATPP_BrokenCoolingSystemRepaired>SoÄŸutma sistemi baÅŸarÄ±yla onarÄ±ldÄ±!</ATPP_BrokenCoolingSystemRepaired> 
+	<ATPP_BrokenFrameworkRepaired>Ä°skelet baÅŸarÄ±yla onarÄ±ldÄ±!</ATPP_BrokenFrameworkRepaired>
+	
+	<ATPP_CryptolockerClearedByFaction>{0}, enfekte vekilinizdeki kriptolocker virÃ¼sÃ¼nÃ¼ temizledi!</ATPP_CryptolockerClearedByFaction>
+	<ATPP_CryptolockerDeviceClearedByFaction>{0}, baÄŸlÄ± cihazlarÄ±nÄ±zdaki kriptolocker virÃ¼sÃ¼nÃ¼ temizledi!</ATPP_CryptolockerDeviceClearedByFaction>
+	<ATPP_RansomwareClearedByFaction>{0}, {1} Ã¼zerinde neden olduÄŸu hasar iÃ§in gerekli onarÄ±mlarÄ± yaptÄ±</ATPP_RansomwareClearedByFaction>
+	
+	<ATPP_SurrogateHackOK>{0} hackleme baÅŸarÄ±lÄ± oldu!</ATPP_SurrogateHackOK>
+	<ATPP_CannotHackNotEnoughtHackingPoints>Yeterli hackleme puanÄ± yok, hacklemek iÃ§in {0} puan gerekiyor!</ATPP_CannotHackNotEnoughtHackingPoints>
+	
+	<ATPP_ProcessDuplicateOK>{0}'Ä±n sinir aÄŸÄ± kopyalanÄ±yor.</ATPP_ProcessDuplicateOK>
+	<ATPP_ProcessDuplicateFailed>{0}'Ä±n sinir aÄŸÄ± kopyalanamÄ±yor, Ã§ekirdekte yeterli bilinÃ§ depolama alanÄ± yok</ATPP_ProcessDuplicateFailed>
+	<ATPP_ProcessRemoveOK>{0}'Ä±n sinir aÄŸÄ± silindi.</ATPP_ProcessRemoveOK>
+	<ATPP_ProcessAssistOK>{0}'Ä±n bilinci artÄ±k baÄŸlÄ± kolonistlere destek olmak iÃ§in atandÄ±.</ATPP_ProcessAssistOK>
+	<ATPP_ProcessUnassistOK>{0}'Ä±n bilinci artÄ±k baÄŸlÄ± kolonistlere destek iÃ§in atanmÄ±yor.</ATPP_ProcessUnassistOK>
+	
+	
+	<ATPP_ProcessNoLongerInMentalBreak>{1} iÃ§inde saklanan {0}'Ä±n bilinci artÄ±k zihinsel Ã§Ã¶kÃ¼ntÃ¼ yaÅŸamÄ±yor</ATPP_ProcessNoLongerInMentalBreak>
+	<ATPP_CannotReconnectToLastSurrogateController>Yeniden baÄŸlanÄ±lamÄ±yor, son vekil kontrolcÃ¼sÃ¼ mÃ¼sait deÄŸil (meÅŸgul, Ã¶lÃ¼, SkyMind'a baÄŸlÄ± deÄŸil...)</ATPP_CannotReconnectToLastSurrogateController>
+	
+	<ATPP_ProcessMassAssist>{0} zihin atandÄ±!</ATPP_ProcessMassAssist>
+	<ATPP_ProcessMassUnassist>{0} zihnin atamasÄ± kaldÄ±rÄ±ldÄ±!</ATPP_ProcessMassUnassist>
+	
+	<ATPP_SkillsWorkshopPointsConverted>{1} birimine {0} yetenek puanÄ± eklendi</ATPP_SkillsWorkshopPointsConverted>
+	<ATPP_SkillsWorkshopAvailablePoints>KullanÄ±labilir puanlar: {0}</ATPP_SkillsWorkshopAvailablePoints>
+	<ATPP_SkillsWorkshopAvailablePointsNote>Not: Bu android modeli iÃ§in sunucularÄ±nÄ±z tarafÄ±ndan Ã¼retilen {0} yetenek puanÄ± 1 kullanÄ±labilir puan Ã¼retir</ATPP_SkillsWorkshopAvailablePointsNote>
+	
+	<ATPP_MindAbsorptionStarted>{0}'Ä±n zihin emilimi baÅŸladÄ±</ATPP_MindAbsorptionStarted>
+	<ATPP_NotEnoughtSkillPoints>Yeterli kullanÄ±labilir yetenek puanÄ± yok! ({0} puan gerekiyor)</ATPP_NotEnoughtSkillPoints>
+	<ATPP_CannotAddVXNeuralChipInSurrogates>Bir vekile bu tÃ¼r bir Ã§ip eklenemez! Ã‡ip hasar gÃ¶rdÃ¼ ve artÄ±k kullanÄ±lamaz!</ATPP_CannotAddVXNeuralChipInSurrogates>
+
+	
+	<!-- Settings -->
+	<ATPP_SettingsSectionGeneral>Genel</ATPP_SettingsSectionGeneral>
+	<ATPP_SettingsSectionSkyCloud>SkyCloud</ATPP_SettingsSectionSkyCloud>
+	<ATPP_SettingsSectionSecurity>GÃ¼venlik</ATPP_SettingsSectionSecurity>
+	<ATPP_SettingsSectionVX2>VX2 NÃ¶ral Ã‡ip</ATPP_SettingsSectionVX2>
+	<ATPP_SettingsSectionVX3>VX3 NÃ¶ral Ã‡ip</ATPP_SettingsSectionVX3>
+	<ATPP_SettingsSectionSkills>T1/T2 yetenekleri</ATPP_SettingsSectionSkills>
+	<ATPP_SettingsSectionBatteryOverload>Pil aÅŸÄ±rÄ± yÃ¼klemesi</ATPP_SettingsSectionBatteryOverload>
+	
+	<ATPP_SettingsDefaultAndroidGeneratorMode>Android varsayÄ±lan enerji modu:</ATPP_SettingsDefaultAndroidGeneratorMode>
+	<ATPP_SettingsDefaultAndroidGeneratorModeBiomass>BiyokÃ¼tle jeneratÃ¶rÃ¼ kullan (yemek yerler)</ATPP_SettingsDefaultAndroidGeneratorModeBiomass>
+	<ATPP_SettingsDefaultAndroidGeneratorModeBattery>DoÄŸrudan dahili pil kullan (ÅŸebekeden ÅŸarj olurlar)</ATPP_SettingsDefaultAndroidGeneratorModeBattery>
+	
+	<ATPP_SettingsMindUploadDuration>Zihin yÃ¼kleme sÃ¼resi ({0} sa)</ATPP_SettingsMindUploadDuration>
+	<ATPP_SettingsMindReplicationDuration>Zihin Ã§oÄŸaltma sÃ¼resi ({0} sa)</ATPP_SettingsMindReplicationDuration>
+	
+	<ATPP_SettingsMindPermutationDuration>Zihin deÄŸiÅŸ tokuÅŸ sÃ¼resi ({0} sa)</ATPP_SettingsMindPermutationDuration>
+	<ATPP_SettingsMindDuplicationDuration>Zihin kopyalama sÃ¼resi ({0} sa)</ATPP_SettingsMindDuplicationDuration>
+	<ATPP_SettingsMindUploadPercentageFail>BilinÃ§ aktarÄ±mÄ±nÄ±n baÅŸarÄ±sÄ±z olma riski (%{0})</ATPP_SettingsMindUploadPercentageFail>
+	<ATPP_SettingsNanitePercentageFail>Nanitlerin androidleri onaramama riski (%{0})</ATPP_SettingsNanitePercentageFail>
+	
+	<ATPP_SettingsCharchingStationWattIncrease>Bir {0} ÅŸarj olurken tÃ¼ketilen gÃ¼Ã§ artÄ±ÅŸÄ±</ATPP_SettingsCharchingStationWattIncrease>
+	<ATPP_SettingsFoodGenerateLessEnergy>BiyokÃ¼tle (yemek) androidlere daha az enerji verir (insanlara gÃ¶re 2 kat daha az)</ATPP_SettingsFoodGenerateLessEnergy>
+	<ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>Her 6 saniyede ÅŸarj edilen pil yÃ¼zdesi (%{0})</ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>
+	<ATPP_SettingsNbHoursMinServerRunningHotBeforeExplode>SunucularÄ±n patlamadan Ã¶nce sÄ±cak Ã§alÄ±ÅŸabileceÄŸi minimum saat ({0} sa)</ATPP_SettingsNbHoursMinServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMaxServerRunningHotBeforeExplode>SunucularÄ±n patlamadan Ã¶nce sÄ±cak Ã§alÄ±ÅŸabileceÄŸi maksimum saat ({0} sa)</ATPP_SettingsNbHoursMaxServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMinSkyCloudServerRunningHotBeforeExplode>SkyCloud Ã§ekirdeklerinin patlamadan Ã¶nce sÄ±cak Ã§alÄ±ÅŸabileceÄŸi minimum saat ({0} sa)</ATPP_SettingsNbHoursMinSkyCloudServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMaxSkyCloudServerRunningHotBeforeExplode>SkyCloud Ã§ekirdeklerinin patlamadan Ã¶nce sÄ±cak Ã§alÄ±ÅŸabileceÄŸi maksimum saat ({0} sa)</ATPP_SettingsNbHoursMaxSkyCloudServerRunningHotBeforeExplode>
+	<ATPP_SettingsDelayExplosiveVirus>PatlayÄ±cÄ± virÃ¼s bulaÅŸmÄ±ÅŸ bir androidin patlamasÄ±na kadar geÃ§en saniye ({0} sn)</ATPP_SettingsDelayExplosiveVirus>
+	<ATPP_SettingsRiskFactionNotRemoveCryptolocker>Fidyeyi Ã¶dedikten sonra fraksiyonun kriptolocker'Ä± kaldÄ±rmama riski (%{0})</ATPP_SettingsRiskFactionNotRemoveCryptolocker>
+	<ATPP_SettingsRansomCost>Kriptolocker virÃ¼sÃ¼ fidye bedeli ({0}):</ATPP_SettingsRansomCost>
+	<ATPP_SettingsAndroidCanUseOrganicMedicine>Androidler organik ilaÃ§ kullanabilir</ATPP_SettingsAndroidCanUseOrganicMedicine>
+	<ATPP_SettingsRiskGetLittleVirusEvenWithSecurityServers>Hepsini kapsayan bir gÃ¼venlik sistemi varken bile baÄŸlÄ± istemcilerinizin virÃ¼s kapma riski (hafifletilmiÅŸ etki) (%{0})</ATPP_SettingsRiskGetLittleVirusEvenWithSecurityServers>
+	<ATPP_SettingsRiskFactionNotRemoveRansomwareEffect>Fidyeyi Ã¶dedikten sonra fraksiyonun fidye yazÄ±lÄ±mÄ± etkilerini kaldÄ±rmama riski (%{0})</ATPP_SettingsRiskFactionNotRemoveRansomwareEffect>
+	<ATPP_SettingsMinSilverToRemoveBadTrait>KÃ¶tÃ¼ Ã¶zellik fidye yazÄ±lÄ±mÄ±nÄ± kaldÄ±rmak iÃ§in Ã¶denecek minimum gÃ¼mÃ¼ÅŸ miktarÄ±</ATPP_SettingsMinSilverToRemoveBadTrait>
+	<ATPP_SettingsMaxSilverToRemoveBadTrait>KÃ¶tÃ¼ Ã¶zellik fidye yazÄ±lÄ±mÄ±nÄ± kaldÄ±rmak iÃ§in Ã¶denecek maksimum gÃ¼mÃ¼ÅŸ miktarÄ±</ATPP_SettingsMaxSilverToRemoveBadTrait>
+	<ATPP_SettingsRansomwareSilverPerSkillLevel>BozulmuÅŸ yetenek fidye yazÄ±lÄ±mÄ± iÃ§in seviye baÅŸÄ±na Ã¶denecek gÃ¼mÃ¼ÅŸ miktarÄ±</ATPP_SettingsRansomwareSilverPerSkillLevel>
+	<ATPP_SettingsDisableSolarFlareImpactOnAndroids>GÃ¼neÅŸ patlamasÄ±nÄ±n androidler Ã¼zerindeki olumsuz etkilerini devre dÄ±ÅŸÄ± bÄ±rak</ATPP_SettingsDisableSolarFlareImpactOnAndroids>
+	<ATPP_SettingsDisableSecurityStuff>SkyMind Ã¼zerinden virÃ¼s ve hacklemeyi devre dÄ±ÅŸÄ± bÄ±rak</ATPP_SettingsDisableSecurityStuff>
+	<ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroupMin>DiÄŸer fraksiyonlarÄ±n gruplarÄ±nda bulunabilecek minimum vekil yÃ¼zdesi (%{0})</ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroupMin>
+	<ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroup>DiÄŸer fraksiyonlarÄ±n gruplarÄ±nda bulunabilecek maksimum vekil yÃ¼zdesi (%{0})</ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroup>
+	<ATPP_SettingsOtherFactionsCanUseSurrogate>DiÄŸer fraksiyonlar vekil android kullanabilir</ATPP_SettingsOtherFactionsCanUseSurrogate>
+	<ATPP_SettingsTempHackDuration>GeÃ§ici vekil hackleme sÃ¼resi ({0} saniye)</ATPP_SettingsTempHackDuration>
+	<ATPP_SettingsCostHackingPoints>Åžunun iÃ§in gereken hackleme puanÄ± maliyeti ({0}):</ATPP_SettingsCostHackingPoints>
+	<ATPP_SettingsCostVirus>VirÃ¼s</ATPP_SettingsCostVirus>
+	<ATPP_SettingsCostVirusExplosive>PatlayÄ±cÄ± VirÃ¼s</ATPP_SettingsCostVirusExplosive>
+	<ATPP_SettingsCostHack>Hackleme</ATPP_SettingsCostHack>
+	<ATPP_SettingsCostHackTemp>GeÃ§ici Hackleme</ATPP_SettingsCostHackTemp>
+	
+	<ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>GÃ¼neÅŸ patlamalarÄ± sÄ±rasÄ±nda androidler yere yÄ±ÄŸÄ±lÄ±r</ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>
+	<ATPP_SettingsDisableServersAlarm>Sunucu sÄ±caklÄ±k alarmÄ±nÄ± devre dÄ±ÅŸÄ± bÄ±rak</ATPP_SettingsDisableServersAlarm>
+	<ATPP_SettingsDisableServersAmbianceNoises>Sunucu ortam seslerini devre dÄ±ÅŸÄ± bÄ±rak</ATPP_SettingsDisableServersAmbianceNoises>
+	<ATPP_SettingsAppliedToNextSaveLoading> (Harita yeniden yÃ¼klendikten sonra uygulanÄ±r)</ATPP_SettingsAppliedToNextSaveLoading>
+	<ATPP_SettingsDisableLowNetworkMalus>DÃ¼ÅŸÃ¼k SkyMind aÄŸÄ± cezasÄ±nÄ± devre dÄ±ÅŸÄ± bÄ±rak</ATPP_SettingsDisableLowNetworkMalus>
+	<ATPP_SettingsDisableLowNetworkMalusInCaravans>Kervanlarda dÃ¼ÅŸÃ¼k SkyMind aÄŸÄ± cezasÄ±nÄ± devre dÄ±ÅŸÄ± bÄ±rak</ATPP_SettingsDisableLowNetworkMalusInCaravans>
+	<ATPP_SettingsPowerConsumedByStoredMind>SkyCloud Ã‡ekirdeklerinde saklanan her zihin tarafÄ±ndan tÃ¼ketilen gÃ¼Ã§</ATPP_SettingsPowerConsumedByStoredMind>
+	<ATPP_SettingsMindUploadToSkyCloudDuration>SkyCloud'a zihin yÃ¼kleme sÃ¼resi ({0} sa)</ATPP_SettingsMindUploadToSkyCloudDuration>
+	<ATPP_SettingsMindMigrationCloudDuration>Zihin geÃ§iÅŸ sÃ¼resi ({0} sa)</ATPP_SettingsMindMigrationCloudDuration>
+	<ATPP_SettingsHideRemotelyControlledIcon>Uzaktan kontrol edilen cihazlarÄ±n Ã¼zerindeki simgeyi gizle</ATPP_SettingsHideRemotelyControlledIcon>
+	<ATPP_SettingsSkyCloudBuffPerAssistingMind>Destek veren her SkyCloud zihni baÅŸÄ±na takviye puanÄ± ({0})</ATPP_SettingsSkyCloudBuffPerAssistingMind>
+	
+	<ATPP_SettingsNbSlotAddedForSkillServers>{0} yetenek sunucusu iÃ§in eklenen yuva sayÄ±sÄ± ({1})</ATPP_SettingsNbSlotAddedForSkillServers>
+	<ATPP_SettingsNbSlotAddedForHackingServers>{0} hackleme sunucusu iÃ§in eklenen yuva sayÄ±sÄ± ({1})</ATPP_SettingsNbSlotAddedForHackingServers>
+	<ATPP_SettingsNbSlotAddedForSecurityServers>{0} gÃ¼venlik sunucusu iÃ§in eklenen yuva sayÄ±sÄ± ({1})</ATPP_SettingsNbSlotAddedForSecurityServers>
+	<ATPP_SettingsNbPointsProducedForHackingServers>{0} hackleme sunucusu iÃ§in Ã¼retilen puan sayÄ±sÄ± (her 30 saniyede bir) ({1})</ATPP_SettingsNbPointsProducedForHackingServers>
+	<ATPP_SettingsMinNbHoursLiteHackingDeviceAttackLast>Hafif cihaz hackleme saldÄ±rÄ±sÄ±nÄ±n sÃ¼rebileceÄŸi minimum saat ({0} sa)</ATPP_SettingsMinNbHoursLiteHackingDeviceAttackLast>
+	<ATPP_SettingsMaxNbHoursLiteHackingDeviceAttackLast>Hafif cihaz hackleme saldÄ±rÄ±sÄ±nÄ±n sÃ¼rebileceÄŸi maksimum saat ({0} sa)</ATPP_SettingsMaxNbHoursLiteHackingDeviceAttackLast>
+	<ATPP_SettingsHideInactiveSurrogates>Kolonist Ã§ubuÄŸundan etkin olmayan vekilleri gizle</ATPP_SettingsHideInactiveSurrogates>
+	<ATPP_SettingsAndroidsOnlyHealedByCrafter>Androidler yalnÄ±zca demirciler tarafÄ±ndan iyileÅŸtirilebilir</ATPP_SettingsAndroidsOnlyHealedByCrafter>
+	<ATPP_SettingsMinDurationOfMindMentalBreak>SayÄ±sallaÅŸtÄ±rÄ±lmÄ±ÅŸ bir bilincin zihinsel Ã§Ã¶kÃ¼ntÃ¼sÃ¼nÃ¼n minimum sÃ¼resi ({0} sa)</ATPP_SettingsMinDurationOfMindMentalBreak>
+	<ATPP_SettingsMaxDurationOfMindMentalBreak>SayÄ±sallaÅŸtÄ±rÄ±lmÄ±ÅŸ bir bilincin zihinsel Ã§Ã¶kÃ¼ntÃ¼sÃ¼nÃ¼n maksimum sÃ¼resi ({0} sa)</ATPP_SettingsMaxDurationOfMindMentalBreak>
+	<ATPP_SettingsSecToBootASkyCloudCore>Bir SkyCloud Ã‡ekirdeÄŸinin baÅŸlama sÃ¼resi ({0} sn)</ATPP_SettingsSecToBootASkyCloudCore>
+	<ATPP_SettingsDisableAbilityOfSkyCloudServersToTalk>SkyCloud Ã‡ekirdeklerinin konuÅŸma yeteneÄŸini devre dÄ±ÅŸÄ± bÄ±rak</ATPP_SettingsDisableAbilityOfSkyCloudServersToTalk>
+	<ATPP_SettingsNotRemoveAllTraitsOfBasicAndroids>T1/T2 androidlerin tÃ¼m Ã¶zelliklerini kaldÄ±rma</ATPP_SettingsNotRemoveAllTraitsOfBasicAndroids>
+	<ATPP_SettingsAndroidsCanEatLivingPlants>Androidler canlÄ± bitkileri yiyebilir</ATPP_SettingsAndroidsCanEatLivingPlants>
+	<ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>T1/T2 androidlerin tÃ¼m yetenek heveslerini kaldÄ±rma</ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>
+	<ATPP_SettingsVX3MaxSurrogateControllableAtOnce>AynÄ± anda kontrol edilebilecek maksimum vekil sayÄ±sÄ± ({0})</ATPP_SettingsVX3MaxSurrogateControllableAtOnce>
+	<ATPP_SettingsNbPointsProducedForSkillServers>{0} yetenek sunucusu iÃ§in Ã¼retilen puan sayÄ±sÄ± (her 30 saniyede bir) ({1})</ATPP_SettingsNbPointsProducedForSkillServers>
+	
+	<ATPP_SettingsRandomSkillsMode>Yetenekler rastgeledir</ATPP_SettingsRandomSkillsMode>
+	<ATPP_SettingsPreventM7T5AppearingInCharacterEditor>T5/M7'nin karakter oluÅŸturma ekranÄ±nda gÃ¶rÃ¼nmesini engelle</ATPP_SettingsPreventM7T5AppearingInCharacterEditor>
+	<ATPP_SettingsMinHoursNaniteBankFramework>YapÄ±sal nanit bankalarÄ±nÄ±n etkisini uygulamak iÃ§in gereken minimum saat ({0} sa)</ATPP_SettingsMinHoursNaniteBankFramework>
+	<ATPP_SettingsMaxHoursNaniteBankFramework>YapÄ±sal nanit bankalarÄ±nÄ±n etkisini uygulamak iÃ§in gereken maksimum saat ({0} sa)</ATPP_SettingsMaxHoursNaniteBankFramework>
+	
+	<ATPP_SettingsNbSkillPointsPerSkill>Bir yetenek Ã¼retmek iÃ§in gereken yetenek puanÄ± sayÄ±sÄ± ({0})</ATPP_SettingsNbSkillPointsPerSkill>
+	<ATPP_RemoveComfortNeedForT3T4>&gt;= T3 androidler iÃ§in konfor ihtiyacÄ±nÄ± kaldÄ±r</ATPP_RemoveComfortNeedForT3T4>
+	<ATPP_SettingsAllowHumanDrugsForT3P>T3+ androidler iÃ§in insan uyuÅŸturucularÄ±na izin ver</ATPP_SettingsAllowHumanDrugsForT3P>
+	<ATPP_SettingsAllowHumanDrugsFor>Androidler iÃ§in insan uyuÅŸturucularÄ±na izin ver</ATPP_SettingsAllowHumanDrugsFor>
+	
+	<ATPP_SettingsUploadMindToSkyCloudCoreMode>SkyCloud Ã‡ekirdeÄŸine zihin yÃ¼kleme modu:</ATPP_SettingsUploadMindToSkyCloudCoreMode>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>Kaynak zihnin bedeni Ã¶ldÃ¼rÃ¼lÃ¼r</ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>Kaynak zihnin nÃ¶ral Ã§ipi devrelerini otomatik olarak VX0 moduna yeniden yapÄ±landÄ±rÄ±r</ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>Kaynak zihnin bedenine hiÃ§bir ÅŸey olmaz (kopyalama)</ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>
+	<ATPP_SettingsRemoveSimpleMindedTraitOnUpload>Bir T1 daha geliÅŸmiÅŸ bir konaÄŸa (insan, T2+) aktarÄ±ldÄ±ÄŸÄ±nda basit zihinli Ã¶zelliÄŸini kaldÄ±r</ATPP_SettingsRemoveSimpleMindedTraitOnUpload>
+	
+	<ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>OluÅŸturulan androidlerin boyanabilme veya paslanabilme ÅŸansÄ± (%{0})</ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>
+	<ATPP_SettingsAndroidsCanRust>Androidler paslanabilir</ATPP_SettingsAndroidsCanRust>
+	<ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>Android boyasÄ±nÄ±n paslanmasÄ±ndan Ã¶nceki minimum gÃ¼n sayÄ±sÄ± ({0} gÃ¼n)</ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>
+	<ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>Android boyasÄ±nÄ±n paslanmasÄ±ndan Ã¶nceki maksimum gÃ¼n sayÄ±sÄ± ({0} gÃ¼n)</ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>
+	
+	<ATPP_SettingsAndroidsAreRare>DiÄŸer fraksiyonlar iÃ§in androidleri nadir yap (UYARI: tÃ¼m android fraksiyonlarÄ±nÄ± kaldÄ±racaktÄ±r)</ATPP_SettingsAndroidsAreRare>
+	<ATPP_SettingsAllowAutoRepaint>Mevcut boyanÄ±n sÃ¼resi yakÄ±nda dolacaÄŸÄ±nda androidlerin otomatik olarak bir boyama iÅŸlemi planlamasÄ±na izin ver</ATPP_SettingsAllowAutoRepaint>
+	<ATPP_SettingsAllowAutoRepaintPrisoned>HapsedilmiÅŸ androidlerin de bir boyama iÅŸlemi planlamasÄ±na izin ver</ATPP_SettingsAllowAutoRepaintPrisoned>
+	<ATPP_SettingsMaxAndroidByPortableLWPN>TaÅŸÄ±nabilir LWPN yayÄ±cÄ±sÄ± baÅŸÄ±na maksimum android sayÄ±sÄ± (Power++) ({0})</ATPP_SettingsMaxAndroidByPortableLWPN>
+	<ATPP_SettingsAllowT5ToWearClothes>T5'in kÄ±yafet giymesine izin ver</ATPP_SettingsAllowT5ToWearClothes>
+	<ATPP_SettingsChanceCreatedAndroidsAreMale>OluÅŸturulan androidlerin erkek model olma ÅŸansÄ± (%{0})</ATPP_SettingsChanceCreatedAndroidsAreMale>
+	<ATPP_SettingsHideAbilityToForceEatingLivingPlants>CanlÄ± bitkileri yemeye zorlamayÄ± saÄŸlayan aÃ§Ä±lÄ±r menÃ¼yÃ¼ gizle</ATPP_SettingsHideAbilityToForceEatingLivingPlants>
+	<ATPP_SettingsPassionCost>Hevesi artÄ±rmak iÃ§in gereken yetenek puanÄ± ({0})</ATPP_SettingsPassionCost>
+	<ATPP_SettingsVX0KeepBodyBackstory>KuklanÄ±n geÃ§miÅŸ hikayesini koru (VX0)</ATPP_SettingsVX0KeepBodyBackstory>
+	<ATPP_SettingsAllowSurrogateConnectionInitMalus>Vekil baÄŸlantÄ±sÄ± baÅŸlatma cezasÄ±na izin ver</ATPP_SettingsAllowSurrogateConnectionInitMalus>
+	<ATPP_SettingsAllowAndroidsToUseHospitalBeds>Androidlerin hastane yataklarÄ±nÄ± kullanmasÄ±na izin ver</ATPP_SettingsAllowAndroidsToUseHospitalBeds>
+	<ATPP_SettingsPercentageOfOtherFactionSurrogateHavingAnRXChip>DiÄŸer fraksiyon vekillerinin bir RX Ã§ipine sahip olma ÅŸansÄ± yÃ¼zdesi (%{0})</ATPP_SettingsPercentageOfOtherFactionSurrogateHavingAnRXChip>
+	<ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>Ä°ÅŸe alÄ±nan vekil kontrolcÃ¼sÃ¼nÃ¼n tutuklanmadan fraksiyonunuza katÄ±lma ÅŸansÄ± (%{0})</ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>
+	<ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>KaÃ§Ä±rÄ±lan M8'in SkyMind ile baÄŸlantÄ±sÄ±nÄ±n kesilmesinden Ã¶nceki minimum saat sayÄ±sÄ± ({0} sa)</ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>
+	<ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>KaÃ§Ä±rÄ±lan M8'in SkyMind ile baÄŸlantÄ±sÄ±nÄ±n kesilmesinden Ã¶nceki maksimum saat sayÄ±sÄ± ({0} sa)</ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>
+	
+	<ATPP_SettingsAndroidOverloadBatteryProrata>PatlamanÄ±n gÃ¼cÃ¼ pil seviyesiyle orantÄ±lÄ±dÄ±r</ATPP_SettingsAndroidOverloadBatteryProrata>
+	<ATPP_SettingsAndroidOverloadRadius>Android patlama yarÄ±Ã§apÄ± ({0})</ATPP_SettingsAndroidOverloadRadius>
+	<ATPP_SettingsM7OverloadRadius>M7 patlama yarÄ±Ã§apÄ± ({0})</ATPP_SettingsM7OverloadRadius>
+	<ATPP_SettingsAndroidOverloadExplosionType>Patlama tÃ¼rÃ¼</ATPP_SettingsAndroidOverloadExplosionType>
+	<ATPP_SettingsAndroidOverloadExplosionTypeDefault>ParÃ§alanma</ATPP_SettingsAndroidOverloadExplosionTypeDefault>
+	<ATPP_SettingsAndroidOverloadExplosionTypeFire>YangÄ±n Ã§Ä±karÄ±cÄ±</ATPP_SettingsAndroidOverloadExplosionTypeFire>
+	<ATPP_SettingsSetT1ResearchToIndustrialTechLevel>T1 araÅŸtÄ±rmasÄ±nÄ± uzay Ã§aÄŸÄ± yerine endÃ¼striyel teknoloji seviyesi yap</ATPP_SettingsSetT1ResearchToIndustrialTechLevel>
+	<ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>Zihin kopyalamada tekil rol yetenekleri hedef zihne aktarÄ±lÄ±r</ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>
+</LanguageData>

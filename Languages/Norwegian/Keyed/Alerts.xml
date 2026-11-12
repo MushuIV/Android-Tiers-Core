@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <NeedMechanic>Trenger mekaniker</NeedMechanic>
+  <NeedMechanicDesc>Disse androidene trenger reparasjoner, men du har ingen friske kolonister tildelt som mekanikere.\n\n{0}\nTildel en frisk kolonist til arbeidstypen Mekaniker. Hvis skadene ikke behandles, kan det hende de aldri repareres ordentlig og blir permanente.</NeedMechanicDesc>
+  
+</LanguageData>

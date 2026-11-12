@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MessageMedicalOperationFailureMinorAndroid>{0} a comis o eroare minoră în timp ce lucra asupra lui {1}.</MessageMedicalOperationFailureMinorAndroid>
+	<MessageMedicalOperationFailureCatastrophicAndroid>{0} a eșuat catastrofal în timp ce lucra asupra lui {1}.</MessageMedicalOperationFailureCatastrophicAndroid>
+	<MessageMedicalOperationFailureRidiculousAndroid>{0} a eșuat într-un mod ridicol în timp ce lucra asupra lui {1}.</MessageMedicalOperationFailureRidiculousAndroid>
+	<MessageMedicalOperationFailureFatalAndroid>{0} a comis o eroare fatală în timp ce lucra asupra lui {1} din cauza provocărilor speciale ale: {2}</MessageMedicalOperationFailureFatalAndroid>
+	
+</LanguageData>

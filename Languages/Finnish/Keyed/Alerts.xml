@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <NeedMechanic>Mekaanikko tarvitaan</NeedMechanic>
+  <NeedMechanicDesc>Nämä androidit tarvitsevat korjauksia, mutta terveitä siirtolaisia ei ole määrätty mekaanikoiksi.\n\n{0}\nMäärää terve siirtolainen mekaanikon työtehtävään. Hoitamattomina vauriot eivät välttämättä koskaan korjaannu kunnolla ja voivat muuttua pysyviksi.</NeedMechanicDesc>
+  
+</LanguageData>

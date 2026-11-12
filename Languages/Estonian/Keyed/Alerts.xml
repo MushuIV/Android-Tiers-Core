@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <NeedMechanic>Vajab mehaanikut</NeedMechanic>
+  <NeedMechanicDesc>Need androidid vajavad remonti, kuid ükski terve kolonist pole mehaanikuks määratud.\n\n{0}\nMäära terve kolonist mehaaniku tööle. Ravita jätmisel ei pruugi vigastused kunagi korralikult paraneda ning võivad muutuda püsivaks.</NeedMechanicDesc>
+  
+</LanguageData>

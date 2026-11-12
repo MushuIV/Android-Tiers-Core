@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- Alerts -->
+	<ATPP_AlertHot3Devices>Tietokone ylikuumenee</ATPP_AlertHot3Devices>
+	<ATPP_AlertHot3DevicesDesc>Yksi tai useampi tietokoneistasi on saavuttanut enimmäislämpötilarajan! Palauta sopiva lämpötila nopeasti!</ATPP_AlertHot3DevicesDesc>
+	<ATPP_AlertHot2Devices>Tietokone on lämmin</ATPP_AlertHot2Devices>
+	<ATPP_AlertHot2DevicesDesc>Yksi tai useampi tietokoneistasi on lämmin, laske ympäristön lämpötilaa nopeasti!</ATPP_AlertHot2DevicesDesc>
+	
+	<ATPP_AlertUnsecurisedClients>{0} suojaamatonta SkyMind-asiakaslaitetta</ATPP_AlertUnsecurisedClients>
+	<ATPP_AlertUnsecurisedClientsDesc>Varoitus: sinulla on mahdollisesti {0} SkyMind-asiakaslaitetta, joihin voidaan murtautua verkon kautta. Rakenna turvapalvelimia estääksesi tämän.</ATPP_AlertUnsecurisedClientsDesc>
+	
+	<!-- Incidents -->
+	<ATPP_IncidentSurrogateHackingVirus>SX-virus</ATPP_IncidentSurrogateHackingVirus>
+	<ATPP_IncidentSurrogateHackingCryptolocker>SX-kryptolukitus</ATPP_IncidentSurrogateHackingCryptolocker>
+	<ATPP_IncidentSurrogateHackingExplosiveVirus>Räjähtävä SX-virus</ATPP_IncidentSurrogateHackingExplosiveVirus>
+	<ATPP_IncidentSurrogateHackingLiteDesc>Turvajärjestelmäsi on neutraloinut osan hyökkäyksestä, mutta joidenkin {0} surrogaatin alijärjestelmiin on murtauduttu.</ATPP_IncidentSurrogateHackingLiteDesc>
+	
+	<ATPP_IncidentSurrogateHackingHardDesc>Turvajärjestelmäsi ei suojaa koko surrogaattiandroidikantaasi; {0} androidin käyttöjärjestelmät on kaapattu täysin.</ATPP_IncidentSurrogateHackingHardDesc>
+	<ATPP_IncidentVirusedDesc>Nämä surrogaatit ovat nyt täysin viruksen hallinnassa ja hyökkäävät kimppuusi!</ATPP_IncidentVirusedDesc>
+	<ATPP_IncidentVirusedExplosiveDesc>Nämä surrogaatit ovat nyt täysin viruksen hallinnassa, hyökkäävät kimppuusi ja räjäyttävät sisäisen akkunsa laskurin päättyessä!</ATPP_IncidentVirusedExplosiveDesc>
+	<ATPP_IncidentCryptolockerDesc>Kaikki tartunnan saaneet surrogaatit ovat täysin käyttökelvottomia. Tämä voidaan (toivottavasti) peruuttaa maksamalla lunnaat hyökkäyksen takana olevalle ryhmittymälle.</ATPP_IncidentCryptolockerDesc>
+	
+	<ATPP_IncidentDeviceHackingVirus>Virus</ATPP_IncidentDeviceHackingVirus>
+	<ATPP_IncidentDeviceHackingCryptolocker>Kryptolukitus</ATPP_IncidentDeviceHackingCryptolocker>
+	<ATPP_IncidentDeviceHackingExplosiveVirus>Räjähtävä virus</ATPP_IncidentDeviceHackingExplosiveVirus>
+	<ATPP_IncidentDeviceHackingLiteDesc>Turvajärjestelmäsi on neutraloinut osan hyökkäyksestä, mutta {0} yhdistettyä laitetta on väliaikaisesti kaapattu.</ATPP_IncidentDeviceHackingLiteDesc>
+	
+	<ATPP_IncidentDeviceHackingHardDesc>Turvajärjestelmäsi ei suojaa kaikkia yhdistettyjä laitteita; {0} yhdistetyn laitteen käyttöjärjestelmät on kaapattu täysin.</ATPP_IncidentDeviceHackingHardDesc>
+	<ATPP_IncidentDeviceVirusedDesc>Nämä laitteet ovat nyt täysin viruksen hallinnassa!</ATPP_IncidentDeviceVirusedDesc>
+	<ATPP_IncidentDeviceVirusedExplosiveDesc>Nämä laitteet ovat nyt täysin viruksen hallinnassa ja räjähtävät laskurin päättyessä!</ATPP_IncidentDeviceVirusedExplosiveDesc>
+	<ATPP_IncidentDeviceCryptolockerDesc>Kaikki tartunnan saaneet laitteet ovat täysin käyttökelvottomia. Tämä voidaan (toivottavasti) peruuttaa maksamalla lunnaat hyökkäyksen takana olevalle ryhmittymälle.</ATPP_IncidentDeviceCryptolockerDesc>
+	
+	<ATPP_LetterFactionRansomware>Lunnasohjelma</ATPP_LetterFactionRansomware>
+	<ATPP_LetterFactionRansomwareSkillStolenDesc>{0} on korruptoinut muistialueet, jotka vastaavat kohteen {2} aivojen taitoa &apos;{1}&apos;, SkyMind-verkon kautta.</ATPP_LetterFactionRansomwareSkillStolenDesc>
+	<ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>{0} on saastuttanut kohteen {1} aivot ja asentanut haitallisen luonteenpiirteen &apos;{2}&apos; SkyMind-verkon kautta.</ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>
+	
+	<!-- Needs -->
+	<ATPP_EnergyNeed>Energia</ATPP_EnergyNeed>
+	<ATPP_EnergyNeedDesc>Energia on virran määrä, joka androidilla on sisäisessä akussaan. Jos se on nollassa, android alkaa kärsiä yhä useammista toimintahäiriöistä ja lopulta sammuu (kuolee).</ATPP_EnergyNeedDesc>
+	
+	
+	<!-- NanoKits -->
+	<ATPP_NanoKitsNoCare>Ei korjausta</ATPP_NanoKitsNoCare>
+	<ATPP_NanoKitsNoKitJustVisit>Teknikon tarkastus ilman nanolaukkuja</ATPP_NanoKitsNoKitJustVisit>
+	<ATPP_NanoKitsBasic>Perusnanopakkaus</ATPP_NanoKitsBasic>
+	<ATPP_NanoKitsIntermediate>Keskinkertainen nanopakkaus</ATPP_NanoKitsIntermediate>
+	<ATPP_NanoKitsAdvanced>Edistynyt nanopakkaus</ATPP_NanoKitsAdvanced>
+	
+	<!-- CompInspectPane -->
+	<ATPP_UploadPercentage>Mielen siirto: {0}%</ATPP_UploadPercentage>
+	<ATPP_DownloadPercentage>Mielen lataus: {0}%</ATPP_DownloadPercentage>
+	
+	<ATPP_PermutationPercentage>Mielen vaihto: {0}%</ATPP_PermutationPercentage>
+	<ATPP_DuplicationPercentage>Mielen monistus: {0}%</ATPP_DuplicationPercentage>
+	<ATPP_UploadSkyCloudPercentage>Mieli siirretty SkyCloudiin: {0}%</ATPP_UploadSkyCloudPercentage>
+	<ATPP_DownloadFromSkyCloudPercentage>Mieli ladattu SkyCloudista: {0}%</ATPP_DownloadFromSkyCloudPercentage>
+	
+	<ATPP_SkyMindDetected>Yhdistetty SkyMindiin</ATPP_SkyMindDetected>
+	<ATPP_RemotelyControlledBy>Etäohjaaja: {0}.</ATPP_RemotelyControlledBy>
+	<ATPP_RemotelyControl>Etäohjaa kohdetta {0}</ATPP_RemotelyControl>
+	
+	<ATPP_CompHotSensitiveHot3Text>Lämpötila liian korkea!</ATPP_CompHotSensitiveHot3Text>
+	<ATPP_CompHotSensitiveHot2Text>Varoitus: korkea lämpötila</ATPP_CompHotSensitiveHot2Text>
+	<ATPP_CompHotSensitiveHot1Text>Lämpötila on hieman koholla</ATPP_CompHotSensitiveHot1Text>
+	<ATPP_CompHotSensitiveHot0Text>Ihanteellinen käyttölämpötila</ATPP_CompHotSensitiveHot0Text>
+	
+	<ATPP_CryptoLockedSurrogate>Kryptolukittu, käyttökelvoton!</ATPP_CryptoLockedSurrogate>
+	<ATPP_ExplosiveVirus>Räjähtävä virus: {0} sekuntia akun räjähtämiseen!</ATPP_ExplosiveVirus>
+	<ATPP_TempHackingLosingControlIn>Hallinnan menetys {0} sekunnin kuluttua</ATPP_TempHackingLosingControlIn>
+	
+	<ATPP_BatteryLevel>Akun varaustaso: {0}%</ATPP_BatteryLevel>
+	<ATPP_TempInfection>Tartunta päättyy {0} kuluttua</ATPP_TempInfection>
+	
+	<ATPP_SkyCloudCoreBooting>Palvelin käynnistyy ({0} sekuntia jäljellä)</ATPP_SkyCloudCoreBooting>
+	
+	<ATPP_NaniteFrameworkRepairingInProgress>Rungon korjaus käynnissä {0}%</ATPP_NaniteFrameworkRepairingInProgress>
+	<ATPP_VX3SurrogateTypePrimary>Ensisijainen surrogaatti</ATPP_VX3SurrogateTypePrimary>
+	<ATPP_VX3SurrogateTypeSecondary>Toissijainen surrogaatti</ATPP_VX3SurrogateTypeSecondary>
+	
+	<ATPP_MindAbsorptionProgress>Tietoisuuden absorptio käynnissä {0}%</ATPP_MindAbsorptionProgress>
+	
+	<ATPP_Rusted>Ruostunut</ATPP_Rusted>
+	
+	<ATPP_BatteryExplodeInProgress>Akun räjähdys {0}%</ATPP_BatteryExplodeInProgress>
+	
+	<!-- AutoDoor -->
+	<ATPP_AutoDoorOpen>Avaa</ATPP_AutoDoorOpen>
+	<ATPP_AutoDoorOpenDescription>Avaa etänä SkyCloud-ytimen kautta.</ATPP_AutoDoorOpenDescription>
+	<ATPP_AutoDoorClose>Sulje</ATPP_AutoDoorClose>
+	<ATPP_AutoDoorCloseDescription>Sulje etänä SkyCloud-palvelimen kautta.</ATPP_AutoDoorCloseDescription>
+	<ATPP_AutoDoorOpenMoteText>Avataan SkyCloudin kautta</ATPP_AutoDoorOpenMoteText>
+	<ATPP_AutoDoorCloseMoteText>Suljetaan SkyCloudin kautta</ATPP_AutoDoorCloseMoteText>
+	
+
+	<!-- AutoFlickering -->
+	<ATPP_FlickEnable>Kytke virta SkyCloudin kautta</ATPP_FlickEnable>
+	<ATPP_FlickDisable>Katkaise virta SkyCloudin kautta</ATPP_FlickDisable>
+	
+	<!-- Letters -->
+	<ATPP_LetterSurrogateDisabled>Surrogaatti {0} poissa käytöstä</ATPP_LetterSurrogateDisabled>
+	<ATPP_LetterSurrogateDisabledDesc>Surrogaatti {0} ei ole enää toimintakunnossa fyysiseen koskemattomuuteen kohdistuneen väkivaltaisen hyökkäyksen seurauksena.</ATPP_LetterSurrogateDisabledDesc>
+	
+	<ATPP_LetterUploadOK>Siirto valmis</ATPP_LetterUploadOK>
+	<ATPP_LetterUploadOKDesc>Kohteen {0} mielen siirto on valmis ja on siirretty kohteen {1} keinotekoisiin aivoihin; {1} on nyt kuollut (mieli tuhoutunut).</ATPP_LetterUploadOKDesc>
+	
+	<ATPP_LetterPermuteOK>Mielen vaihto valmis</ATPP_LetterPermuteOK>
+	<ATPP_LetterPermuteOKDesc>Mielen vaihto on suoritettu; {0} ja {1} ovat vaihtaneet kehoja keskenään.</ATPP_LetterPermuteOKDesc>
+	
+	<ATPP_LetterDuplicateOK>Monistus valmis</ATPP_LetterDuplicateOK>
+	<ATPP_LetterDuplicateOKDesc>Mielen monistus on valmis; kohteen {1} aivot sisältävät nyt kopion kohteen {0} aivoista; kohdetta {1} voidaan pitää kuolleena.</ATPP_LetterDuplicateOKDesc>
+	
+	<ATPP_LetterSkyCloudUploadOK>SkyCloud-siirto valmis</ATPP_LetterSkyCloudUploadOK>
+	<ATPP_LetterSkyCloudUploadOKDesc>Mielen siirto SkyCloudiin on valmis; kohteen {0} tietoisuus on nyt tallennettu kohteen {1} keskusmuistiin.</ATPP_LetterSkyCloudUploadOKDesc>
+	
+	<ATPP_LetterSkyCloudReplicateOK>Replikaatio valmis</ATPP_LetterSkyCloudReplicateOK>
+	<ATPP_LetterSkyCloudReplicateOKDesc>Kohteen {0} neuroverkon replikaatio kohteen {1} muistiin on valmis.</ATPP_LetterSkyCloudReplicateOKDesc>
+	
+	<ATPP_LetterSkyCloudDownloadOK>SkyCloud-lataus valmis</ATPP_LetterSkyCloudDownloadOK>
+	<ATPP_LetterSkyCloudDownloadOKDesc>Mielen lataus SkyCloudista on valmis; kohteen {0} tietoisuus on nyt tallennettu kohteen {1} keskusmuistiin.</ATPP_LetterSkyCloudDownloadOKDesc>
+	
+	<ATPP_LetterSkyCloudMigrateOK>SkyCloud-mielen siirto valmis</ATPP_LetterSkyCloudMigrateOK>
+	<ATPP_LetterSkyCloudMigrateOKDesc>Kohteen {0} mielen siirto kohteesta {1} kohteeseen {2} on nyt valmis.</ATPP_LetterSkyCloudMigrateOKDesc>
+	
+	<ATPP_LetterInterruptedUpload>Siirto epäonnistui</ATPP_LetterInterruptedUpload>
+	<ATPP_LetterInterruptedUploadDesc>Kohtalokas virhe: Tietoisuuden siirto keskeytyi, mikä johti molempien aivojen lopulliseen korruptoitumiseen (kuolemaan).{0}</ATPP_LetterInterruptedUploadDesc>
+	<ATPP_LetterInterruptedUploadDescCompHostDead>Vastaanottavan isännän kuolema</ATPP_LetterInterruptedUploadDescCompHostDead>
+	<ATPP_LetterInterruptedUploadDescCompSourceDead>Mielen lähettäjän kuolema</ATPP_LetterInterruptedUploadDescCompSourceDead>
+	<ATPP_LetterInterruptedUploadDescCompRandomError>Tuntematon virhe on tapahtunut</ATPP_LetterInterruptedUploadDescCompRandomError>
+	<ATPP_LetterInterruptedUploadDescCompDiconnectionError>Toinen tai molemmat siirtolaiset eivät ole enää yhteydessä SkyMindiin.</ATPP_LetterInterruptedUploadDescCompDiconnectionError>
+	
+	<ATPP_LetterFactionScam>Huijattu</ATPP_LetterFactionScam>
+	<ATPP_LetterFactionScamCryptolockerDesc>{0} päätti olla poistamatta kryptolukitusvirusta, joka saastutti siirtokuntasi; he huijasivat sinua...</ATPP_LetterFactionScamCryptolockerDesc>
+	<ATPP_LetterFactionScamRansomwareDesc>{0} päätti olla perumatta lunnasohjelmansa vaikutusta; he huijasivat sinua...</ATPP_LetterFactionScamRansomwareDesc>
+	
+	
+	<ATPP_CryptolockerNeedPayRansomTitle>Kryptolukituksen lunnaat</ATPP_CryptolockerNeedPayRansomTitle>
+	<ATPP_CryptolockerNeedPayRansom>{0} ottaa yhteyttä radion kautta. He ovat kryptolukitusvirushyökkäyksen takana ja poistavat viruksensa {1} hopean korvausta vastaan.</ATPP_CryptolockerNeedPayRansom>
+	
+	<ATPP_RansomNeedPayRansomTitle>Lunnasohjelman lunnaat</ATPP_RansomNeedPayRansomTitle>
+	<ATPP_RansomNeedPayRansomCorruptedSKill>{0} ottaa yhteyttä radion kautta. He ovat lunnasohjelmahyökkäyksen takana ja palauttavat kohteen {2} korruptoituneen taidon &apos;{1}&apos; {3} hopean korvausta vastaan.</ATPP_RansomNeedPayRansomCorruptedSKill>
+	<ATPP_RansomNeedPayRansomDownloadedTrait>{0} ottaa yhteyttä radion kautta. He ovat lunnasohjelmahyökkäyksen takana ja poistavat kohteelle {2} asennetun haitallisen luonteenpiirteen &apos;{1}&apos; {3} hopean korvausta vastaan.</ATPP_RansomNeedPayRansomDownloadedTrait>
+	
+	<ATPP_ComptHeatSensitiveComputerMeltTitle>Palvelimen ylikuumeneminen</ATPP_ComptHeatSensitiveComputerMeltTitle>
+	<ATPP_ComptHeatSensitiveComputerMeltDesc>Palvelin räjähti korkean käyttölämpötilansa vuoksi!</ATPP_ComptHeatSensitiveComputerMeltDesc>
+	
+	<ATPP_destroyedMindsDueToDestroyedSkyCloudCore>Menetetty {0} tietoisuutta</ATPP_destroyedMindsDueToDestroyedSkyCloudCore>
+	<ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>SkyCloud-ytimen {0} tuhoutumisen myötä kaikki sen keskusmuistiin tallennetut {1} tietoisuutta menetettiin.</ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>
+	
+	<ATPP_LetterHackingPointsRemoved>Hakkerointipisteitä menetetty</ATPP_LetterHackingPointsRemoved>
+	<ATPP_LetterHackingPointsRemovedDesc>Kaikki asutustesi hakkerointipalvelimet ovat offline-tilassa, mikä tarkoittaa että {0} pistettä on menetetty, koska niitä ei voi enää tallentaa millekään tallennusvälineelle!</ATPP_LetterHackingPointsRemovedDesc>
+	
+	<ATPP_LetterSkillPointsRemoved>Taitopisteitä menetetty</ATPP_LetterSkillPointsRemoved>
+	<ATPP_LetterSkillPointsRemovedDesc>Kaikki asutustesi taitopalvelimet ovat offline-tilassa, mikä tarkoittaa että {0} pistettä on menetetty, koska niitä ei voi enää tallentaa millekään tallennusvälineelle!</ATPP_LetterSkillPointsRemovedDesc>
+	
+	<ATPP_SkyCloudCoreBooted>{0} käynnistetty</ATPP_SkyCloudCoreBooted>
+	<ATPP_SkyCloudCoreBootedDesc>SkyCloud-palvelin {0} on käynnistynyt onnistuneesti ja on nyt käyttövalmis.</ATPP_SkyCloudCoreBootedDesc>
+	
+	<ATPP_LetterInterruptedSkyCloudReplication>Replikaatio epäonnistui</ATPP_LetterInterruptedSkyCloudReplication>
+	<ATPP_LetterInterruptedSkyCloudReplicationDesc>Kohteen {0} tietoisuuden replikaatio epäonnistui, koska isäntänä toimiva SkyCloud-ydin on offline-tilassa.</ATPP_LetterInterruptedSkyCloudReplicationDesc>
+	
+	<ATPP_LetterInterruptedSkyCloudMigration>Siirto epäonnistui</ATPP_LetterInterruptedSkyCloudMigration>
+	<ATPP_LetterInterruptedSkyCloudMigrationDesc>Kohteen {0} tietoisuuden siirto epäonnistui, koska kohde-SkyCloud-ydin on offline-tilassa.</ATPP_LetterInterruptedSkyCloudMigrationDesc>
+	
+	<ATPP_LetterTraitorOffline>Petturi offline-tilassa</ATPP_LetterTraitorOffline>
+	<ATPP_LetterTraitorOfflineDesc>{0} petti ryhmittymänsä antamalla sinun värvätä hänet. Ryhmittymä huomasi tämän ja hänet pidätettiin (hänet on siksi irrotettu ohjaamastaan surrogaatista).</ATPP_LetterTraitorOfflineDesc>
+	
+	<ATPP_LetterInterruptedMindAbsorption>Mielen absorptio epäonnistui</ATPP_LetterInterruptedMindAbsorption>
+	<ATPP_LetterInterruptedMindAbsorptionDesc>Kohteen {0} mielen absorptio epäonnistui joko SkyMind-yhteyden katkeamisen vuoksi tai siksi, ettei yksikään pistepalvelin ole toiminnassa.</ATPP_LetterInterruptedMindAbsorptionDesc>
+	
+	<ATPP_MindAbsorptionDone>Mielen absorptio suoritettu</ATPP_MindAbsorptionDone>
+	<ATPP_MindAbsorptionDoneDesc>Kohteen {0} mielen absorptio suoritettu, {1} taitopistettä ansaittu</ATPP_MindAbsorptionDoneDesc>
+	
+	<ATPP_LetterExternalSurrogateEscape>Surrogaatin ohjaajan pako</ATPP_LetterExternalSurrogateEscape>
+	<ATPP_LetterExternalSurrogateEscapeDesc>{0}, sen surrogaatin ohjaaja, jota yrität värvätä, on päättänyt liittyä siirtokuntaasi. Hän katkaisee yhteyden surrogaattiinsa ja pakenee huomaamattomasti vihollistukikohdasta liittyäkseen siirtokuntaasi muutaman päivän kuluessa ilman tarkkaa ajankohtaa.</ATPP_LetterExternalSurrogateEscapeDesc>
+	
+	<ATPP_LetterExternalSurrogateControllerJoin>Entinen vanki liittyi</ATPP_LetterExternalSurrogateControllerJoin>
+	<ATPP_LetterExternalSurrogateControllerJoinDesc>{0}, vangitsemasi ja onnistuneesti käännyttämäsi surrogaatin ohjaaja, on juuri saapunut siirtokuntaasi ja liittynyt joukkoosi.</ATPP_LetterExternalSurrogateControllerJoinDesc>
+	
+	<ATPP_LetterExternalSurrogateControllerCannotJoin>Entinen vanki ei päässyt liittymään</ATPP_LetterExternalSurrogateControllerCannotJoin>
+	<ATPP_LetterExternalSurrogateControllerCannotJoinDesc>{0}, vangitsemasi ja onnistuneesti käännyttämäsi surrogaatin ohjaaja, yritti saapua siirtokuntaasi, mutta epäonnistui tuntemattomasta syystä ja lähti sen vuoksi pois.</ATPP_LetterExternalSurrogateControllerCannotJoinDesc>
+	
+	<ATPP_LetterExternalSurrogateDisconnect>Ohjaajan yhteys katkesi</ATPP_LetterExternalSurrogateDisconnect>
+	<ATPP_LetterExternalSurrogateDisconnectDesc>{0}, sen surrogaatin ohjaaja, jota yritit orjuuttaa, katkaisi yhteyden, koska hän ja hänen ryhmittymänsä kokevat, etteivät voi enää saada tietoa siirtokunnastasi, ja orjana jatkaminen olisi ajanhukkaa.</ATPP_LetterExternalSurrogateDisconnectDesc>
+	
+	<ATPP_LetterKidnappedM8Disconnected>M8-yhteys katkaistu</ATPP_LetterKidnappedM8Disconnected>
+	<ATPP_LetterKidnappedM8DisconnectedDesc>M8-yksikkösi ({0}, isäntänä {1}) sieppaajat pääsivät lopulta käsiksi sen viestintäpiireihin. Huomattuaan koneen jatkavan viestintää integroidun SkyMind-antenninsa kautta he kytkivät sen irti. Et voi enää kirjautua kohteeseen {1}.</ATPP_LetterKidnappedM8DisconnectedDesc>
+	
+	<!-- Designators -->
+	<ATPP_DesignatorNeedSelectSX>Virhe: Sinun on valittava kelvollinen SkyMind-verkkoon yhdistetty laite!</ATPP_DesignatorNeedSelectSX>
+	<ATPP_DesignatorNeedSelectSXToHack>Virhe: Sinun on valittava muun kuin oman ryhmittymäsi hallitsema surrogaattiandroidi!</ATPP_DesignatorNeedSelectSXToHack>
+	
+	<!-- Comps -->
+	<ATPP_SkyMindConn>Yhdistä SkyMindiin</ATPP_SkyMindConn>
+	<ATPP_SkyMindConnDesc>Yhdistä tämä siirtolainen SkyMind-verkkoon mielen siirron/vaihdon/monistuksen mahdollistamiseksi tai SX-sarjan androidien tai biologisten surrogaattien etäohjaamiseksi.</ATPP_SkyMindConnDesc>
+	<ATPP_SkyMindAutoConn>Automaattinen yhteys</ATPP_SkyMindAutoConn>
+	<ATPP_SkyMindAutoConnDesc>Kun yhteys SkyMind-verkkoon katkeaa, tämä laite yrittää muodostaa yhteyden automaattisesti uudelleen vapaiden paikkojen vapautuessa.</ATPP_SkyMindAutoConnDesc>
+	<ATPP_Duplicate>Monista</ATPP_Duplicate>
+	<ATPP_DuplicateDesc>Monista valitun siirtolaisen tietoisuus toiseen.</ATPP_DuplicateDesc>
+	<ATPP_Permute>Vaihda</ATPP_Permute>
+	<ATPP_PermuteDesc>Vaihda valitun siirtolaisen tietoisuus toisen kanssa.</ATPP_PermuteDesc>
+	<ATPP_EnableSurrogateControlMode>Ohjaa</ATPP_EnableSurrogateControlMode>
+	<ATPP_EnableSurrogateControlModeDesc>Ota etäohjaustila käyttöön, jolloin tämä siirtolainen voi ohjata SX-sarjan androidia tai biologista surrogaattia.</ATPP_EnableSurrogateControlModeDesc>
+	<ATPP_AndroidToControlTargetDisconnect>Katkaise yhteys</ATPP_AndroidToControlTargetDisconnect>
+	<ATPP_AndroidToControlTargetDisconnectDesc>Lopeta nykyinen etäohjausistunto.</ATPP_AndroidToControlTargetDisconnectDesc>
+	<ATPP_AndroidToControlTarget>Yhdistä</ATPP_AndroidToControlTarget>
+	<ATPP_AndroidToControlTargetDesc>Ota valittu solmu hallintaan.</ATPP_AndroidToControlTargetDesc>
+	<ATPP_ThisCurrentMap>Tämä kartta</ATPP_ThisCurrentMap>
+	<ATPP_AndroidToControlTargetRecoverCaravan>Palauta</ATPP_AndroidToControlTargetRecoverCaravan>
+	<ATPP_AndroidToControlTargetRecoverCaravanDesc>Palauta yhteys katkenneeseen surrogaattiin karavaanissa.</ATPP_AndroidToControlTargetRecoverCaravanDesc>
+	<ATPP_FreeControllerInCaravan>Karavaani</ATPP_FreeControllerInCaravan>
+	<ATPP_FreeControllerInCaravanDesc>Yhdistä tämä surrogaatti vapaaseen ohjaajaan karavaanissa</ATPP_FreeControllerInCaravanDesc>
+	<ATPP_AndroidSurrogateReconnectToLastController>Yhdistä uudelleen</ATPP_AndroidSurrogateReconnectToLastController>
+	<ATPP_AndroidSurrogateReconnectToLastControllerDesc>Yhdistä surrogaatti (jos mahdollista) viimeisimpään käyttäjään, joka sitä ohjasi</ATPP_AndroidSurrogateReconnectToLastControllerDesc>
+	
+	
+	<ATPP_NoVX2Recipient>Ei sopivia siirtolaisia (heillä täytyy olla VX2-siruaivoimplantti).</ATPP_NoVX2Recipient>
+	<ATPP_NoSkyCloudCoreAvailable>Ei vapaata SkyCloud-ydintä saatavilla</ATPP_NoSkyCloudCoreAvailable>
+	<ATPP_ConsciousnessUploadNoRecipient>Ei vastaanottajaa vapaana latauskohteeksi.</ATPP_ConsciousnessUploadNoRecipient>
+	<ATPP_ConsciousnessSelectDestination>Valitse kohdeisäntä</ATPP_ConsciousnessSelectDestination>
+	<ATPP_UploadConsciousness>Siirrä</ATPP_UploadConsciousness>
+	<ATPP_UploadConsciousnessDesc>Siirrä mieli tästä androidista toiseen.</ATPP_UploadConsciousnessDesc>
+	
+	<ATPP_WarningSkyMindDisconnectionRisk>Varoitus: SkyMind-verkkoyhteys ei saa katketa toimenpiteen aikana, sillä se korruptoi heidän aivonsa ja siten tappaa heidät</ATPP_WarningSkyMindDisconnectionRisk>
+	
+	<ATPP_UploadConsciousnessConfirm>Siirrä mieli</ATPP_UploadConsciousnessConfirm>
+	<ATPP_UploadConsciousnessConfirmDesc>Vahvistamalla {0} siirtää mielensä kohteen {1} kehoon, mikä tuhoaa kohteen {1} mielen (tappaa hänet) ja kohteen {0} keho poistuu käytöstä. Haluatko varmasti jatkaa?</ATPP_UploadConsciousnessConfirmDesc>
+	
+	<ATPP_PermuteConsciousnessConfirm>Mielen vaihto</ATPP_PermuteConsciousnessConfirm>
+	<ATPP_PermuteConsciousnessConfirmDesc>Vahvistamalla {0} vaihtaa mielensä kohteen {1} kanssa; he vaihtavat kehoja keskenään. Haluatko varmasti jatkaa?</ATPP_PermuteConsciousnessConfirmDesc>
+	
+	<ATPP_DuplicateConsciousnessConfirm>Mielen monistus</ATPP_DuplicateConsciousnessConfirm>
+	<ATPP_DuplicateConsciousnessConfirmDesc>Vahvistamalla {0} monistaa mielensä kohteen {1} aivoihin, mikä tuhoaa kohteen {1} mielen (tappaa hänet). Haluatko varmasti jatkaa?</ATPP_DuplicateConsciousnessConfirmDesc>
+	
+	<ATPP_UseBattery>Käytä akkua</ATPP_UseBattery>
+	<ATPP_UseBatteryDesc>Jos käytössä, android asetetaan käyttämään suoraan sisäistä akkuaan biomassageneraattorin sijaan.</ATPP_UseBatteryDesc>
+	
+	<ATPP_RepairAndroids>Korjaa androideja</ATPP_RepairAndroids>
+	<ATPP_RepairAndroidsDesc>Anna tämän siirtolaisen korjata androideja.</ATPP_RepairAndroidsDesc>
+	
+	<ATPP_UploadVirus>Virus</ATPP_UploadVirus>
+	<ATPP_UploadVirusDesc>Lataa virus kohteena olevaan surrogaattiin.</ATPP_UploadVirusDesc>
+	<ATPP_UploadExplosiveVirus>Räjähtävä virus</ATPP_UploadExplosiveVirus>
+	<ATPP_UploadExplosiveVirusDesc>Lataa virus kohteena olevaan surrogaattiin, mikä ylikuormittaa sisäisen akun ja saa sen räjähtämään.</ATPP_UploadExplosiveVirusDesc>
+	<ATPP_Hack>Murtaudu</ATPP_Hack>
+	<ATPP_HackDesc>Murtaudu ja ota kohteena oleva surrogaatti hallintaan.</ATPP_HackDesc>
+	<ATPP_HackTemp>Väliaikainen murtautuminen</ATPP_HackTemp>
+	<ATPP_HackTempDesc>Suorita nopea murtautuminen ottaaksesi kohteena olevan surrogaatin väliaikaisesti hallintaan.</ATPP_HackTempDesc>
+	
+	<ATPP_MoveToSkyCloud>SkyCloud-siirto</ATPP_MoveToSkyCloud>
+	<ATPP_MoveToSkyCloudDesc>Tämä toimenpide siirtää isännän mielen SkyCloud-ytimeen, mikä tekee heistä lähes kuolemattomia, mutta jättää heidän kehonsa elottomaksi.</ATPP_MoveToSkyCloudDesc>
+	<ATPP_MoveFromSkyCloud>SkyCloud-lataus</ATPP_MoveFromSkyCloud>
+	<ATPP_MoveFromSkyCloudDesc>Tämä toimenpide siirtää valitun SkyCloud-ytimeen tallennetun mielen isännän aivoihin.</ATPP_MoveFromSkyCloudDesc>
+	<ATPP_CentralCoreNbStoredMind>{0} tietoisuutta tallennettuna</ATPP_CentralCoreNbStoredMind>
+	<ATPP_CentralCoreNbAssistingMinds>{0} tietoisuutta määrätty avustajiksi</ATPP_CentralCoreNbAssistingMinds>
+	
+	<ATPP_CentralCoreMigrationInProgress>Kohteen {0} siirto kohteeseen {1} käynnissä ({2}%)</ATPP_CentralCoreMigrationInProgress>
+	<ATPP_CentralCoreProcessInMentalBreak>{0} käyttökelvoton: henkinen romahdus</ATPP_CentralCoreProcessInMentalBreak>
+	
+	<ATPP_CentralCoreReplicationInProgress>Kohteen {0} tietoisuuden replikaatio käynnissä ({1}%)</ATPP_CentralCoreReplicationInProgress>
+	
+	<ATPP_SkyCloudFloatMenuMindsStoredSelect>Valitse tietoisuus</ATPP_SkyCloudFloatMenuMindsStoredSelect>
+	<ATPP_ProcessInfo>Tiedot</ATPP_ProcessInfo>
+	<ATPP_ProcessInfoDesc>Hanki tietoja tallennetuista mielistä.</ATPP_ProcessInfoDesc>
+	<ATPP_ProcessRemove>Poista</ATPP_ProcessRemove>
+	<ATPP_ProcessRemoveDesc>Poista mieli</ATPP_ProcessRemoveDesc>
+	<ATPP_ProcessRemoveDescConfirm>Vahvistamalla kohteen {0} tietoisuus poistetaan kokonaan kohteen {1} muistista; heidät katsotaan kuolleeksi!</ATPP_ProcessRemoveDescConfirm>
+	<ATPP_ProcessDuplicate>Replikoi</ATPP_ProcessDuplicate>
+	<ATPP_ProcessDuplicateDesc>Replikoi tietoisuus.</ATPP_ProcessDuplicateDesc>
+	<ATPP_ProcessAssist>Avusta</ATPP_ProcessAssist>
+	<ATPP_ProcessAssistDesc>Määritä luettelo tallennetuista mielistä, joita käytetään vain avustamaan SkyMind-verkkoon yhdistettyjä siirtolaisiasi; he saavat yleisen mielialabonuksen jokaisesta tähän määrätystä mielestä.</ATPP_ProcessAssistDesc>
+	<ATPP_ProcessMigrate>Siirrä</ATPP_ProcessMigrate>
+	<ATPP_ProcessMigrateDesc>Siirrä tietoisuus tästä SkyCloud-ytimestä toiseen</ATPP_ProcessMigrateDesc>
+	
+	<ATPP_ProcessAssistAssignedMinds>Poista mielen määritys (poista)</ATPP_ProcessAssistAssignedMinds>
+	<ATPP_ProcessAssistUnassignedMinds>Määritä mieli (lisää)</ATPP_ProcessAssistUnassignedMinds>
+	<ATPP_ProcessAssistAssignAll>Määritä kaikki määrittämättömät mielet</ATPP_ProcessAssistAssignAll>
+	<ATPP_ProcessAssistUnassignAll>Poista kaikkien määritettyjen mielten määritys</ATPP_ProcessAssistUnassignAll>
+	
+	<ATPP_ProcessDisconnectAllSurrogates>Katkaise kaikkien yhteys</ATPP_ProcessDisconnectAllSurrogates>
+	
+	<ATPP_StopVirused>Pysäytä</ATPP_StopVirused>
+	<ATPP_StopVirusedDesc>Sammuta tämä viruksen saastuttama surrogaatti</ATPP_StopVirusedDesc>
+	
+	<ATPP_PreviousSurrogateControllerIs>Edellinen ohjaaja oli {0}</ATPP_PreviousSurrogateControllerIs>
+	
+	<ATPP_Skills>Taidot</ATPP_Skills>
+	<ATPP_SkillsDesc>Avaa taitotyöpaja, jonka avulla voit muuntaa palvelimiesi tuottamat taitopisteet lisätaidoiksi androideillesi</ATPP_SkillsDesc>
+	
+	<ATPP_MindAbsorption>Mielen absorptio</ATPP_MindAbsorption>
+	<ATPP_MindAbsorptionDesc>Absorboi vangin mieli muuntaaksesi sen taitopisteiksi (kuolettava toimenpide)</ATPP_MindAbsorptionDesc>
+	
+	<ATPP_MindAbsorptionConfirm>Mielen absorptio</ATPP_MindAbsorptionConfirm>
+	<ATPP_MindAbsorptionConfirmDesc>Vahvistamalla kohteen {0} tietoisuus absorboidaan ja muunnetaan taitopisteiksi (kuolettava toimenpide). Haluatko varmasti jatkaa?</ATPP_MindAbsorptionConfirmDesc>
+	
+	<ATPP_UploadMakeAndroidBatteryOverloadConfirm>Ylikuormita akku</ATPP_UploadMakeAndroidBatteryOverloadConfirm>
+	<ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>Ole varovainen: vahvistettaessa valitun androidin akku ylikuormittuu ja räjähtää lyhyen ajan kuluttua. Haluatko varmasti jatkaa?</ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>
+	
+	<ATPP_OverloadAndroid>Ylikuormita</ATPP_OverloadAndroid>
+	<ATPP_OverloadAndroidDesc>Saa androidin akku räjähtämään</ATPP_OverloadAndroidDesc>
+	
+	<!-- Power++ compat -->
+	<ATPP_LWPNConnected>Yhdistetty kohteeseen {0}</ATPP_LWPNConnected>
+	<ATPP_LWPNDisconnected>Irrotettu kohteesta {0}</ATPP_LWPNDisconnected>
+	<ATPP_NoAvailableLWPN>Ei käytettävissä olevaa LWPN-laitetta</ATPP_NoAvailableLWPN>
+	<ATPP_LWPNNbConnectedAndroid>Yhdistetyt androidit: {0}</ATPP_LWPNNbConnectedAndroid>
+	<ATPP_MessageLWPNNoSlotAvailable>Ei vapaata LWPN-paikkaa saatavilla!</ATPP_MessageLWPNNoSlotAvailable>
+	
+	<!-- Buildings -->
+	<ATPP_SkyMindAntennaSynthesis>Yhdistetyt käyttäjät: {0} / {1}</ATPP_SkyMindAntennaSynthesis>
+	<ATPP_ForceReload>Pakota akun lataus</ATPP_ForceReload>
+	<ATPP_CannotUseEveryPlaceUsed>Ei voida käyttää, latausasema on täynnä.</ATPP_CannotUseEveryPlaceUsed>
+	<ATPP_CannotUseBecauseNotInBatteryMode>Ei voida käyttää, koska valitun androidin sisäistä akkua ei ole asetettu oletusgeneraattoriksi.</ATPP_CannotUseBecauseNotInBatteryMode>
+	<ATPP_SecurityServersSynthesis>Suojatut surrogaatit: {0} / {1}</ATPP_SecurityServersSynthesis>
+	<ATPP_HackingServersSynthesis>Käytettävissä olevat hakkerointipisteet: {0} / {1}</ATPP_HackingServersSynthesis>
+	<ATTP_HackingSlotsAdded>Lisätyt hakkerointipaikat: {0}</ATTP_HackingSlotsAdded>
+	<ATTP_HackingProducedPoints>Tuotettavat hakkerointipisteet: {0}</ATTP_HackingProducedPoints>
+	<ATTP_SecuritySlotsAdded>Lisätyt turvapaikat: {0}</ATTP_SecuritySlotsAdded>
+	<ATPP_SkillServersSynthesis>Käytettävissä olevat taitopisteet: {0} / {1}</ATPP_SkillServersSynthesis>
+	<ATTP_SkillSlotsAdded>Lisätyt taitopaikat: {0}</ATTP_SkillSlotsAdded>
+	<ATTP_SkillProducedPoints>Tuotettavat taitopisteet: {0}</ATTP_SkillProducedPoints>
+	
+	<!-- Colors -->
+	<ATPP_HairColor>Hiusten väri</ATPP_HairColor>
+	<ATPP_HairColorBlond>Vaalea</ATPP_HairColorBlond>
+	<ATPP_HairColorBlack>Musta</ATPP_HairColorBlack>
+	<ATPP_HairColorAuburn>Kastanjanruskea</ATPP_HairColorAuburn>
+	<ATPP_HairColorGrey>Harmaa</ATPP_HairColorGrey>
+	<ATPP_HairColorGinger>Punainen</ATPP_HairColorGinger>
+	<ATPP_HairColorWhite>Valkoinen</ATPP_HairColorWhite>
+	
+	<ATPP_SkinColor>Ihon väri</ATPP_SkinColor>
+	<ATPP_SkinColorVerylight>Hyvin vaalea</ATPP_SkinColorVerylight>
+	<ATPP_SkinColorLight>Vaalea</ATPP_SkinColorLight>
+	<ATPP_SkinColorFair>Keskivaalea</ATPP_SkinColorFair>
+	<ATPP_SkinColorMidbrown>Keskiruskea</ATPP_SkinColorMidbrown>
+	<ATPP_SkinColorDarkbrown>Tummanruskea</ATPP_SkinColorDarkbrown>
+	<ATPP_SkinColorVerydark>Erittäin tummanruskea</ATPP_SkinColorVerydark>
+	
+	<!-- Messages -->
+	<ATPP_CannotConnectToSkyMindNoNet>Ei voida yhdistää SkyMindiin, verkkoa ei ole saatavilla!</ATPP_CannotConnectToSkyMindNoNet>
+	<ATPP_CannotConnectToSkyMind>Ei voida yhdistää SkyMindiin, vapaita paikkoja ei ole riittävästi!</ATPP_CannotConnectToSkyMind>
+	<ATPP_SurrogateUnexpectedDisconnection>Odottamaton yhteyskatkos: {0} ei ole enää yhteydessä SkyMind-verkkoon!</ATPP_SurrogateUnexpectedDisconnection>
+	<ATPP_SurrogateConnectionCannotBeDisconnected>Yhteyttä ei voida katkaista, {0} on tällä hetkellä epävakaassa mielentilassa</ATPP_SurrogateConnectionCannotBeDisconnected>
+	<ATPP_SurrogateConnectionOK>{0} on nyt yhdistetty kohteeseen {1}</ATPP_SurrogateConnectionOK>
+	
+	<ATPP_StartPermute>Tietoisuuksien vaihto kohteiden {0} ja {1} välillä on alkanut!</ATPP_StartPermute>
+	<ATPP_StartDuplicate>Kohteen {0} tietoisuuden monistus kohteeseen {1} on alkanut!</ATPP_StartDuplicate>
+	<ATPP_StartSkyCloudUpload>Kohteen {0} tietoisuuden siirto kohteeseen {1} on alkanut!</ATPP_StartSkyCloudUpload>
+	<ATPP_StartSkyCloudUploadFailedFull>Kohteen {0} tietoisuuden siirtoa kohteeseen {1} ei voida suorittaa, koska kohteessa {1} ei ole riittävästi tietoisuuden tallennustilaa</ATPP_StartSkyCloudUploadFailedFull>
+	<ATPP_StartSkyCloudDownload>Kohteen {0} tietoisuuden lataus kohteen {1} aivoihin on alkanut!</ATPP_StartSkyCloudDownload>
+	<ATPP_StartSkyCloudMigration>Kohteen {0} tietoisuuden siirto kohteesta {1} kohteeseen {2} on alkanut!</ATPP_StartSkyCloudMigration>
+	<ATPP_StartSkyCloudMigrationFailed>Kohteen {0} tietoisuuden siirtoa kohteeseen {1} ei voida suorittaa, koska kohteessa {1} ei ole riittävästi tietoisuuden tallennustilaa</ATPP_StartSkyCloudMigrationFailed>
+	
+	<ATPP_StartUpload>Kohteen {0} tietoisuuden siirto kohteeseen {1} on alkanut!</ATPP_StartUpload>
+	
+	<ATPP_CanOnlyBeUsedByAndroid>Tätä laitetta voivat käyttää vain androidit!</ATPP_CanOnlyBeUsedByAndroid>
+	<ATPP_CannotBeUsedBecauseNoOldAgeIssues>Ei voida käyttää, koska androidilla ei havaittu vanhuusongelmia</ATPP_CannotBeUsedBecauseNoOldAgeIssues>
+	
+	<ATPP_NoBrokenStuffFound>Androidilla {0} ei havaittu ongelmia!</ATPP_NoBrokenStuffFound>
+	<ATPP_BrokenStuffRepairFailed>Virhe: naniitit epäonnistuivat korjauksessa!</ATPP_BrokenStuffRepairFailed>
+	
+	<ATPP_BrokenCPURepaired>Keinotekoiset aivot on korjattu onnistuneesti!</ATPP_BrokenCPURepaired>
+	<ATPP_BrokenHydraulicSystemRepaired>Hydraulijärjestelmä on korjattu onnistuneesti!</ATPP_BrokenHydraulicSystemRepaired>
+	<ATPP_BrokenCoolingSystemRepaired>Jäähdytysjärjestelmä on korjattu onnistuneesti!</ATPP_BrokenCoolingSystemRepaired>
+	<ATPP_BrokenFrameworkRepaired>Runko on korjattu onnistuneesti!</ATPP_BrokenFrameworkRepaired>
+	
+	<ATPP_CryptolockerClearedByFaction>{0} poisti kryptolukitusviruksensa saastuneesta surrogaatistasi!</ATPP_CryptolockerClearedByFaction>
+	<ATPP_CryptolockerDeviceClearedByFaction>{0} poisti kryptolukitusviruksensa yhdistetyistä laitteistasi!</ATPP_CryptolockerDeviceClearedByFaction>
+	<ATPP_RansomwareClearedByFaction>{0} teki tarvittavat korjaukset kohteelle {1} aiheutettuihin vahinkoihin</ATPP_RansomwareClearedByFaction>
+	
+	<ATPP_SurrogateHackOK>Murtautuminen kohteeseen {0} onnistui!</ATPP_SurrogateHackOK>
+	<ATPP_CannotHackNotEnoughtHackingPoints>Ei tarpeeksi hakkerointipisteitä, {0} vaaditaan murtautumiseen!</ATPP_CannotHackNotEnoughtHackingPoints>
+	
+	<ATPP_ProcessDuplicateOK>Kohteen {0} neuroverkkoa monistetaan.</ATPP_ProcessDuplicateOK>
+	<ATPP_ProcessDuplicateFailed>Kohteen {0} neuroverkkoa ei voida monistaa, ytimessä ei ole tarpeeksi tietoisuuden tallennustilaa</ATPP_ProcessDuplicateFailed>
+	<ATPP_ProcessRemoveOK>Kohteen {0} neuroverkko on poistettu.</ATPP_ProcessRemoveOK>
+	<ATPP_ProcessAssistOK>Kohteen {0} tietoisuus on nyt määrätty avustamaan yhdistettyjä siirtolaisia.</ATPP_ProcessAssistOK>
+	<ATPP_ProcessUnassistOK>Kohteen {0} tietoisuutta ei enää ole määrätty avustamaan yhdistettyjä siirtolaisia.</ATPP_ProcessUnassistOK>
+	
+	
+	<ATPP_ProcessNoLongerInMentalBreak>Kohteen {1} muistiin tallennetulla kohteen {0} tietoisuudella ei ole enää henkistä romahdusta</ATPP_ProcessNoLongerInMentalBreak>
+	<ATPP_CannotReconnectToLastSurrogateController>Ei voida yhdistää uudelleen, surrogaatin edellinen ohjaaja ei ole käytettävissä (varattu, kuollut, ei yhteydessä SkyMindiin...)</ATPP_CannotReconnectToLastSurrogateController>
+	
+	<ATPP_ProcessMassAssist>{0} mieltä on määritetty!</ATPP_ProcessMassAssist>
+	<ATPP_ProcessMassUnassist>{0} mielen määritys on poistettu!</ATPP_ProcessMassUnassist>
+	
+	<ATPP_SkillsWorkshopPointsConverted>{0} taitopistettä on lisätty kohteelle {1}</ATPP_SkillsWorkshopPointsConverted>
+	<ATPP_SkillsWorkshopAvailablePoints>Käytettävissä olevat pisteet: {0}</ATPP_SkillsWorkshopAvailablePoints>
+	<ATPP_SkillsWorkshopAvailablePointsNote>Huomautus: Tälle androidimallille tarvitaan {0} palvelimiesi tuottamaa taitopistettä 1 käytettävissä olevan pisteen tuottamiseen</ATPP_SkillsWorkshopAvailablePointsNote>
+	
+	<ATPP_MindAbsorptionStarted>Kohteen {0} mielen absorptio aloitettu</ATPP_MindAbsorptionStarted>
+	<ATPP_NotEnoughtSkillPoints>Ei riittävästi käytettävissä olevia taitopisteitä! ({0} pistettä vaaditaan)</ATPP_NotEnoughtSkillPoints>
+	<ATPP_CannotAddVXNeuralChipInSurrogates>Tällaista sirua ei voi asentaa surrogaattiin! Siru on vaurioitunut eikä sitä voi enää käyttää!</ATPP_CannotAddVXNeuralChipInSurrogates>
+
+	
+	<!-- Settings -->
+	<ATPP_SettingsSectionGeneral>Yleiset</ATPP_SettingsSectionGeneral>
+	<ATPP_SettingsSectionSkyCloud>SkyCloud</ATPP_SettingsSectionSkyCloud>
+	<ATPP_SettingsSectionSecurity>Turvallisuus</ATPP_SettingsSectionSecurity>
+	<ATPP_SettingsSectionVX2>VX2-neurosiru</ATPP_SettingsSectionVX2>
+	<ATPP_SettingsSectionVX3>VX3-neurosiru</ATPP_SettingsSectionVX3>
+	<ATPP_SettingsSectionSkills>T1/T2-taidot</ATPP_SettingsSectionSkills>
+	<ATPP_SettingsSectionBatteryOverload>Akun ylikuormitus</ATPP_SettingsSectionBatteryOverload>
+	
+	<ATPP_SettingsDefaultAndroidGeneratorMode>Androidien oletusenergiatila:</ATPP_SettingsDefaultAndroidGeneratorMode>
+	<ATPP_SettingsDefaultAndroidGeneratorModeBiomass>Käytä biomassageneraattoria (he syövät)</ATPP_SettingsDefaultAndroidGeneratorModeBiomass>
+	<ATPP_SettingsDefaultAndroidGeneratorModeBattery>Käytä suoraan sisäistä akkua (he lataavat sähköverkosta)</ATPP_SettingsDefaultAndroidGeneratorModeBattery>
+	
+	<ATPP_SettingsMindUploadDuration>Mielen siirron kesto ({0} h)</ATPP_SettingsMindUploadDuration>
+	<ATPP_SettingsMindReplicationDuration>Mielen replikaation kesto ({0} h)</ATPP_SettingsMindReplicationDuration>
+	
+	<ATPP_SettingsMindPermutationDuration>Mielen vaihdon kesto ({0} h)</ATPP_SettingsMindPermutationDuration>
+	<ATPP_SettingsMindDuplicationDuration>Mielen monistuksen kesto ({0} h)</ATPP_SettingsMindDuplicationDuration>
+	<ATPP_SettingsMindUploadPercentageFail>Tietoisuuden siirron epäonnistumisriski ({0}%)</ATPP_SettingsMindUploadPercentageFail>
+	<ATPP_SettingsNanitePercentageFail>Riski, etteivät naniitit kykene korjaamaan androideja ({0}%)</ATPP_SettingsNanitePercentageFail>
+	
+	<ATPP_SettingsCharchingStationWattIncrease>Virrankulutuksen kasvu kohteen {0} ladatessa</ATPP_SettingsCharchingStationWattIncrease>
+	<ATPP_SettingsFoodGenerateLessEnergy>Biomassa (ruoka) tuottaa vähemmän energiaa androideille (2 kertaa vähemmän kuin ihmisille)</ATPP_SettingsFoodGenerateLessEnergy>
+	<ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>Ladatun akun prosenttiosuus 6 sekunnin välein ({0}%)</ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>
+	<ATPP_SettingsNbHoursMinServerRunningHotBeforeExplode>Vähimmäistuntimäärä, jonka palvelimet voivat käydä kuumina ennen räjähtämistä ({0} h)</ATPP_SettingsNbHoursMinServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMaxServerRunningHotBeforeExplode>Enimmäistuntimäärä, jonka palvelimet voivat käydä kuumina ennen räjähtämistä ({0} h)</ATPP_SettingsNbHoursMaxServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMinSkyCloudServerRunningHotBeforeExplode>Vähimmäistuntimäärä, jonka SkyCloud-ytimet voivat käydä kuumina ennen räjähtämistä ({0} h)</ATPP_SettingsNbHoursMinSkyCloudServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMaxSkyCloudServerRunningHotBeforeExplode>Enimmäistuntimäärä, jonka SkyCloud-ytimet voivat käydä kuumina ennen räjähtämistä ({0} h)</ATPP_SettingsNbHoursMaxSkyCloudServerRunningHotBeforeExplode>
+	<ATPP_SettingsDelayExplosiveVirus>Aika sekunneissa, jonka kuluttua räjähtävällä viruksella saastunut androidi räjähtää ({0} s)</ATPP_SettingsDelayExplosiveVirus>
+	<ATPP_SettingsRiskFactionNotRemoveCryptolocker>Riski, ettei ryhmittymä poista kryptolukitusta lunnasrahojen maksamisen jälkeen ({0}%)</ATPP_SettingsRiskFactionNotRemoveCryptolocker>
+	<ATPP_SettingsRansomCost>Kryptolukitusviruksen lunnashinta ({0}):</ATPP_SettingsRansomCost>
+	<ATPP_SettingsAndroidCanUseOrganicMedicine>Androidit voivat käyttää orgaanista lääkettä</ATPP_SettingsAndroidCanUseOrganicMedicine>
+	<ATPP_SettingsRiskGetLittleVirusEvenWithSecurityServers>Riski, että yhdistetyt asiakaslaitteet saavat viruksen (lievennetty vaikutus) silloinkin kun turvajärjestelmä kattaa ne kaikki ({0}%)</ATPP_SettingsRiskGetLittleVirusEvenWithSecurityServers>
+	<ATPP_SettingsRiskFactionNotRemoveRansomwareEffect>Riski, ettei ryhmittymä poista lunnasohjelman vaikutuksia lunnasrahojen maksamisen jälkeen ({0}%)</ATPP_SettingsRiskFactionNotRemoveRansomwareEffect>
+	<ATPP_SettingsMinSilverToRemoveBadTrait>Vähimmäishopeamäärä huonon luonteenpiirteen poistamiseksi lunnasohjelmalta</ATPP_SettingsMinSilverToRemoveBadTrait>
+	<ATPP_SettingsMaxSilverToRemoveBadTrait>Enimmäishopeamäärä huonon luonteenpiirteen poistamiseksi lunnasohjelmalta</ATPP_SettingsMaxSilverToRemoveBadTrait>
+	<ATPP_SettingsRansomwareSilverPerSkillLevel>Korruptoituneen taidon lunnasohjelmasta maksettava hopeamäärä taitotasoa kohti</ATPP_SettingsRansomwareSilverPerSkillLevel>
+	<ATPP_SettingsDisableSolarFlareImpactOnAndroids>Poista aurinkoräjähdysten haittavaikutukset androideilta</ATPP_SettingsDisableSolarFlareImpactOnAndroids>
+	<ATPP_SettingsDisableSecurityStuff>Poista virukset ja hakkerointi SkyMindin kautta</ATPP_SettingsDisableSecurityStuff>
+	<ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroupMin>Muiden ryhmittymien ryhmissä mahdollisesti olevien surrogaattien vähimmäisprosenttiosuus ({0}%)</ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroupMin>
+	<ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroup>Muiden ryhmittymien ryhmissä mahdollisesti olevien surrogaattien enimmäisprosenttiosuus ({0}%)</ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroup>
+	<ATPP_SettingsOtherFactionsCanUseSurrogate>Muut ryhmittymät voivat käyttää surrogaattiandroideja</ATPP_SettingsOtherFactionsCanUseSurrogate>
+	<ATPP_SettingsTempHackDuration>Surrogaatin väliaikaisen murtautumisen kesto ({0} sekuntia)</ATPP_SettingsTempHackDuration>
+	<ATPP_SettingsCostHackingPoints>Hakkerointipisteiden hinta kohteelle ({0}):</ATPP_SettingsCostHackingPoints>
+	<ATPP_SettingsCostVirus>Virus</ATPP_SettingsCostVirus>
+	<ATPP_SettingsCostVirusExplosive>Räjähtävä virus</ATPP_SettingsCostVirusExplosive>
+	<ATPP_SettingsCostHack>Murtautuminen</ATPP_SettingsCostHack>
+	<ATPP_SettingsCostHackTemp>Väliaikainen murtautuminen</ATPP_SettingsCostHackTemp>
+	
+	<ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>Aurinkoräjähdysten aikana androidit tuupertuvat maahan</ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>
+	<ATPP_SettingsDisableServersAlarm>Poista käytöstä palvelinten lämpöhälytys</ATPP_SettingsDisableServersAlarm>
+	<ATPP_SettingsDisableServersAmbianceNoises>Poista käytöstä palvelinten taustaäänet</ATPP_SettingsDisableServersAmbianceNoises>
+	<ATPP_SettingsAppliedToNextSaveLoading> (Otetaan käyttöön kartan uudelleenlatauksen jälkeen)</ATPP_SettingsAppliedToNextSaveLoading>
+	<ATPP_SettingsDisableLowNetworkMalus>Poista heikon SkyMind-verkon rangaistus käytöstä</ATPP_SettingsDisableLowNetworkMalus>
+	<ATPP_SettingsDisableLowNetworkMalusInCaravans>Poista heikon SkyMind-verkon rangaistus käytöstä karavaaneissa</ATPP_SettingsDisableLowNetworkMalusInCaravans>
+	<ATPP_SettingsPowerConsumedByStoredMind>Kunkin tallennetun mielen kuluttama virta SkyCloud-ytimissä</ATPP_SettingsPowerConsumedByStoredMind>
+	<ATPP_SettingsMindUploadToSkyCloudDuration>Mielen siirron kesto SkyCloudiin ({0} h)</ATPP_SettingsMindUploadToSkyCloudDuration>
+	<ATPP_SettingsMindMigrationCloudDuration>Mielen siirron kesto ({0} h)</ATPP_SettingsMindMigrationCloudDuration>
+	<ATPP_SettingsHideRemotelyControlledIcon>Piilota kuvake etäohjattujen laitteiden päältä</ATPP_SettingsHideRemotelyControlledIcon>
+	<ATPP_SettingsSkyCloudBuffPerAssistingMind>Bonuspisteiden määrä SkyCloudin kutakin avustavaa mieltä kohti ({0})</ATPP_SettingsSkyCloudBuffPerAssistingMind>
+	
+	<ATPP_SettingsNbSlotAddedForSkillServers>Lisättyjen paikkojen määrä {0} taitopalvelimelle ({1})</ATPP_SettingsNbSlotAddedForSkillServers>
+	<ATPP_SettingsNbSlotAddedForHackingServers>Lisättyjen paikkojen määrä {0} hakkerointipalvelimelle ({1})</ATPP_SettingsNbSlotAddedForHackingServers>
+	<ATPP_SettingsNbSlotAddedForSecurityServers>Lisättyjen paikkojen määrä {0} turvapalvelimelle ({1})</ATPP_SettingsNbSlotAddedForSecurityServers>
+	<ATPP_SettingsNbPointsProducedForHackingServers>Tuotettujen pisteiden määrä (30 sekunnin välein) {0} hakkerointipalvelimelle ({1})</ATPP_SettingsNbPointsProducedForHackingServers>
+	<ATPP_SettingsMinNbHoursLiteHackingDeviceAttackLast>Vähimmäistuntimäärä, jonka laitteen kevyt hakkerointihyökkäys voi kestää ({0} h)</ATPP_SettingsMinNbHoursLiteHackingDeviceAttackLast>
+	<ATPP_SettingsMaxNbHoursLiteHackingDeviceAttackLast>Enimmäistuntimäärä, jonka laitteen kevyt hakkerointihyökkäys voi kestää ({0} h)</ATPP_SettingsMaxNbHoursLiteHackingDeviceAttackLast>
+	<ATPP_SettingsHideInactiveSurrogates>Piilota toimettomat surrogaatit siirtolaispalkista</ATPP_SettingsHideInactiveSurrogates>
+	<ATPP_SettingsAndroidsOnlyHealedByCrafter>Vain sepät / käsityöläiset voivat korjata androideja</ATPP_SettingsAndroidsOnlyHealedByCrafter>
+	<ATPP_SettingsMinDurationOfMindMentalBreak>Digitoidun tietoisuuden henkisen romahduksen vähimmäiskesto ({0} h)</ATPP_SettingsMinDurationOfMindMentalBreak>
+	<ATPP_SettingsMaxDurationOfMindMentalBreak>Digitoidun tietoisuuden henkisen romahduksen enimmäiskesto ({0} h)</ATPP_SettingsMaxDurationOfMindMentalBreak>
+	<ATPP_SettingsSecToBootASkyCloudCore>SkyCloud-ytimen käynnistysaika ({0} s)</ATPP_SettingsSecToBootASkyCloudCore>
+	<ATPP_SettingsDisableAbilityOfSkyCloudServersToTalk>Estä SkyCloud-ytimiä puhumasta</ATPP_SettingsDisableAbilityOfSkyCloudServersToTalk>
+	<ATPP_SettingsNotRemoveAllTraitsOfBasicAndroids>Älä poista kaikkia luonteenpiirteitä T1/T2-androideilta</ATPP_SettingsNotRemoveAllTraitsOfBasicAndroids>
+	<ATPP_SettingsAndroidsCanEatLivingPlants>Androidit voivat syödä eläviä kasveja</ATPP_SettingsAndroidsCanEatLivingPlants>
+	<ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>Älä poista kaikkia taitointohimoja T1/T2-androideilta</ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>
+	<ATPP_SettingsVX3MaxSurrogateControllableAtOnce>Samanaikaisesti ohjattavissa olevien surrogaattien enimmäismäärä ({0})</ATPP_SettingsVX3MaxSurrogateControllableAtOnce>
+	<ATPP_SettingsNbPointsProducedForSkillServers>Tuotettujen pisteiden määrä (joka 30. sekunti) {0} taitopalvelimelle ({1})</ATPP_SettingsNbPointsProducedForSkillServers>
+	
+	<ATPP_SettingsRandomSkillsMode>Taidot ovat satunnaisia</ATPP_SettingsRandomSkillsMode>
+	<ATPP_SettingsPreventM7T5AppearingInCharacterEditor>Estä T5/M7-mallien esiintyminen hahmonluontiruudussa</ATPP_SettingsPreventM7T5AppearingInCharacterEditor>
+	<ATPP_SettingsMinHoursNaniteBankFramework>Vähimmäistuntimäärä rakenne-nanitepankkien vaikutuksen soveltamiseen ({0} h)</ATPP_SettingsMinHoursNaniteBankFramework>
+	<ATPP_SettingsMaxHoursNaniteBankFramework>Enimmäistuntimäärä rakenne-nanitepankkien vaikutuksen soveltamiseen ({0} h)</ATPP_SettingsMaxHoursNaniteBankFramework>
+	
+	<ATPP_SettingsNbSkillPointsPerSkill>Yhden taidon tuottamiseen vaadittavien taitopisteiden määrä ({0})</ATPP_SettingsNbSkillPointsPerSkill>
+	<ATPP_RemoveComfortNeedForT3T4>Poista mukavuudentarve androideilta &gt;= T3</ATPP_RemoveComfortNeedForT3T4>
+	<ATPP_SettingsAllowHumanDrugsForT3P>Salli ihmisten päihteet/lääkkeet T3+-androideille</ATPP_SettingsAllowHumanDrugsForT3P>
+	<ATPP_SettingsAllowHumanDrugsFor>Salli ihmisten päihteet/lääkkeet androideille</ATPP_SettingsAllowHumanDrugsFor>
+	
+	<ATPP_SettingsUploadMindToSkyCloudCoreMode>Mielen siirto SkyCloud-ytimeen -tila :</ATPP_SettingsUploadMindToSkyCloudCoreMode>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>Lähteenä olevan mielen keho tuhoutuu</ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>Lähteenä olevan mielen neurosiru konfiguroi virtapiirinsä automaattisesti uudelleen VX0-tilaan</ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>Lähteenä olevan mielen keholle ei tapahdu mitään (monistus)</ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>
+	<ATPP_SettingsRemoveSimpleMindedTraitOnUpload>Poista yksinkertainen mieli -piirre, kun T1 siirretään kehittyneempään isäntään (ihminen, T2+)</ATPP_SettingsRemoveSimpleMindedTraitOnUpload>
+	
+	<ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>Todennäköisyys, että luodut androidit voidaan maalata tai ne voivat ruostua ({0}%)</ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>
+	<ATPP_SettingsAndroidsCanRust>Androidit voivat ruostua</ATPP_SettingsAndroidsCanRust>
+	<ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>Vähimmäispäivämäärä ennen kuin androidien maali voi ruostua ({0} päivää)</ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>
+	<ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>Enimmäispäivämäärä ennen kuin androidien maali voi ruostua ({0} päivää)</ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>
+	
+	<ATPP_SettingsAndroidsAreRare>Tee androideista harvinaisia muille ryhmittymille (VAROITUS: poistaa kaikki androidiryhmittymät)</ATPP_SettingsAndroidsAreRare>
+	<ATPP_SettingsAllowAutoRepaint>Salli androidien ajoittaa automaattisesti maalaustoimenpide uudelleen nykyisen maalin vanhentuessa pian</ATPP_SettingsAllowAutoRepaint>
+	<ATPP_SettingsAllowAutoRepaintPrisoned>Salli myös vangittujen androidien ajoittaa maalaustoimenpide uudelleen</ATPP_SettingsAllowAutoRepaintPrisoned>
+	<ATPP_SettingsMaxAndroidByPortableLWPN>Enimmäismäärä androideja kannettavaa LWPN-lähetintä kohti (Power++) ({0})</ATPP_SettingsMaxAndroidByPortableLWPN>
+	<ATPP_SettingsAllowT5ToWearClothes>Salli T5:n käyttää vaatteita</ATPP_SettingsAllowT5ToWearClothes>
+	<ATPP_SettingsChanceCreatedAndroidsAreMale>Todennäköisyys, että luodut androidit ovat miesmalleja ({0}%)</ATPP_SettingsChanceCreatedAndroidsAreMale>
+	<ATPP_SettingsHideAbilityToForceEatingLivingPlants>Piilota pikavalikko, joka sallii pakottaa elävien kasvien syömisen</ATPP_SettingsHideAbilityToForceEatingLivingPlants>
+	<ATPP_SettingsPassionCost>Taitopisteet, jotka vaaditaan intohimon kasvattamiseen ({0})</ATPP_SettingsPassionCost>
+	<ATPP_SettingsVX0KeepBodyBackstory>Säilytä nukin taustatarina (VX0)</ATPP_SettingsVX0KeepBodyBackstory>
+	<ATPP_SettingsAllowSurrogateConnectionInitMalus>Salli surrogaattiyhteyden alustusrangaistus</ATPP_SettingsAllowSurrogateConnectionInitMalus>
+	<ATPP_SettingsAllowAndroidsToUseHospitalBeds>Salli androidien käyttää sairaalasänkyjä</ATPP_SettingsAllowAndroidsToUseHospitalBeds>
+	<ATPP_SettingsPercentageOfOtherFactionSurrogateHavingAnRXChip>Muiden ryhmittymien surrogaattien todennäköisyys omistaa RX-siru ({0}%)</ATPP_SettingsPercentageOfOtherFactionSurrogateHavingAnRXChip>
+	<ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>Todennäköisyys, että värvätyn surrogaatin ohjaaja liittyy ryhmittymääsi ilman pidätystä ({0}%)</ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>
+	<ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>Vähimmäistuntimäärä ennen kuin siepattu M8 irrotetaan SkyMindistä ({0} h)</ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>
+	<ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>Enimmäistuntimäärä ennen kuin siepattu M8 irrotetaan SkyMindistä ({0} h)</ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>
+	
+	<ATPP_SettingsAndroidOverloadBatteryProrata>Räjähdyksen voimakkuus on suhteessa akun varaustasoon</ATPP_SettingsAndroidOverloadBatteryProrata>
+	<ATPP_SettingsAndroidOverloadRadius>Androidin räjähdyssäde ({0})</ATPP_SettingsAndroidOverloadRadius>
+	<ATPP_SettingsM7OverloadRadius>M7:n räjähdyssäde ({0})</ATPP_SettingsM7OverloadRadius>
+	<ATPP_SettingsAndroidOverloadExplosionType>Räjähdystyyppi</ATPP_SettingsAndroidOverloadExplosionType>
+	<ATPP_SettingsAndroidOverloadExplosionTypeDefault>Sirpaloituva</ATPP_SettingsAndroidOverloadExplosionTypeDefault>
+	<ATPP_SettingsAndroidOverloadExplosionTypeFire>Sytyttävä</ATPP_SettingsAndroidOverloadExplosionTypeFire>
+	<ATPP_SettingsSetT1ResearchToIndustrialTechLevel>Muuta T1-tutkimus teollisen aikakauden teknologiatasoksi avaruusajan sijaan</ATPP_SettingsSetT1ResearchToIndustrialTechLevel>
+	<ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>Mielen monistuksessa yksittäisten roolien kyvyt siirretään kohdemielelle</ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>
+</LanguageData>

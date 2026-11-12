@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MessageMedicalOperationFailureMinorAndroid>{0}, {1} üzerinde çalışırken küçük bir hata yaptı.</MessageMedicalOperationFailureMinorAndroid>
+	<MessageMedicalOperationFailureCatastrophicAndroid>{0}, {1} üzerinde çalışırken feci bir başarısızlığa uğradı.</MessageMedicalOperationFailureCatastrophicAndroid>
+	<MessageMedicalOperationFailureRidiculousAndroid>{0}, {1} üzerinde çalışırken gülünç bir hata yaptı.</MessageMedicalOperationFailureRidiculousAndroid>
+	<MessageMedicalOperationFailureFatalAndroid>{0}, şu özel zorluklar nedeniyle {1} üzerinde çalışırken ölümcül bir hata yaptı: {2}</MessageMedicalOperationFailureFatalAndroid>
+	
+</LanguageData>

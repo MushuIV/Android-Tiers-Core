@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<AndroidFactionGreetingHostileI>Mängib automaatteade, mis nõuab heatahtlikku žesti, tuues näideteks kingituste toomise mõnda {0_possessive} asulasse või {0_possessive} fraktsiooni vangide vigastusteta vabastamise. Seni ei ole {0} nõus rääkima.</AndroidFactionGreetingHostileI>
+	<AndroidFactionGreetingHostileII>{0} võrdleb sinu kolooniat metsikuse poolest hõimudega, teatades, et kui soovid end parandada, võid tuua kingitusi mõnda {0_possessive} asulasse või vabastada {0_possessive} fraktsiooni vange vigastusteta.</AndroidFactionGreetingHostileII>
+	<AndroidFactionGreetingHostileIII>{0} nimetab teid külmadeks ja koletuslikeks olenditeks, enne kui katkestab kiiresti igasuguse side.</AndroidFactionGreetingHostileIII>
+	
+	<AndroidFactionGreetingWaryI>{0} sügav mehaaniline hääl tervitab kolonisti {NEGOTIATOR_labelShort}, küsides, milliseid asju soovite ajada.</AndroidFactionGreetingWaryI>
+	<AndroidFactionGreetingWaryII>Käivitub automaatteade, küsides kolonistilt {NEGOTIATOR_labelShort}, mis asjus ta ühendust võtab.</AndroidFactionGreetingWaryII>
+	<AndroidFactionGreetingWaryIII>{0} avab ettevaatlikult sideühenduse kolonistiga {NEGOTIATOR_labelShort}, küsides, mis asjus soovite rääkida.</AndroidFactionGreetingWaryIII>
+	
+	<AndroidFactionGreetingWarmI>{0} tervitab soojalt kolonisti {NEGOTIATOR_labelShort}, küsides, mida nad saavad teha teie aitamiseks.</AndroidFactionGreetingWarmI>
+	<AndroidFactionGreetingWarmII>Sideühenduse avamisel tervitatakse kolonisti {NEGOTIATOR_labelShort} lahkete sõnadega, kusjuures {0} küsib, mida nad saavad teha liitlase heaks.</AndroidFactionGreetingWarmII>
+	<AndroidFactionGreetingWarmIII>{0} tervitab kolonisti {NEGOTIATOR_labelShort} avasüli, küsides, mida nad saavad teie heaks teha.</AndroidFactionGreetingWarmIII>
+	
+</LanguageData>

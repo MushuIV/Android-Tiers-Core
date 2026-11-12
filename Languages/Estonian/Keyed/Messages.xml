@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MessageMedicalOperationFailureMinorAndroid>{0} ebaõnnestus kergelt, töötades patsiendi {1} kallal.</MessageMedicalOperationFailureMinorAndroid>
+	<MessageMedicalOperationFailureCatastrophicAndroid>{0} ebaõnnestus katastroofiliselt, töötades patsiendi {1} kallal.</MessageMedicalOperationFailureCatastrophicAndroid>
+	<MessageMedicalOperationFailureRidiculousAndroid>{0} ebaõnnestus naeruväärsel viisil, töötades patsiendi {1} kallal.</MessageMedicalOperationFailureRidiculousAndroid>
+	<MessageMedicalOperationFailureFatalAndroid>{0} tegi surmava vea patsiendi {1} opereerimisel järgmiste eriprobleemide tõttu: {2}</MessageMedicalOperationFailureFatalAndroid>
+	
+</LanguageData>

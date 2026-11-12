@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <NeedMechanic>Mekanik gerekiyor</NeedMechanic>
+  <NeedMechanicDesc>Bu androidlerin onarıma ihtiyacı var, ancak mekanik olarak atanmış sağlıklı kolonistiniz yok.\n\n{0}\nMekanik iş türüne sağlıklı bir kolonist atayın. Tedavi edilmezse, hasarlar asla düzgün onarılamayabilir ve kalıcı hale gelebilir.</NeedMechanicDesc>
+  
+</LanguageData>

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ATPP_AlertHot3Devices>Supraîncălzire a computerului</ATPP_AlertHot3Devices>
+  <ATPP_AlertHot3DevicesDesc>Unul sau mai multe dintre computerele tale au atins pragul maxim de temperatură! Te rugăm să restabilești rapid o temperatură adecvată!</ATPP_AlertHot3DevicesDesc>
+  <ATPP_AlertHot2Devices>Computer cald</ATPP_AlertHot2Devices>
+  <ATPP_AlertHot2DevicesDesc>Unul sau mai multe dintre computerele tale sunt calde, te rugăm să reduci rapid temperatura ambientală!</ATPP_AlertHot2DevicesDesc>
+  <ATPP_AlertUnsecurisedClients>{0} clienți SkyMind nesecurizați</ATPP_AlertUnsecurisedClients>
+  <ATPP_AlertUnsecurisedClientsDesc>Avertisment: ai potențial {0} clienți SkyMind care pot fi piratați prin rețea; construiește servere de securitate pentru a evita acest lucru.</ATPP_AlertUnsecurisedClientsDesc>
+  <ATPP_IncidentSurrogateHackingVirus>Virus SX</ATPP_IncidentSurrogateHackingVirus>
+  <ATPP_IncidentSurrogateHackingCryptolocker>Cryptolocker SX</ATPP_IncidentSurrogateHackingCryptolocker>
+  <ATPP_IncidentSurrogateHackingExplosiveVirus>Virus exploziv SX</ATPP_IncidentSurrogateHackingExplosiveVirus>
+  <ATPP_IncidentSurrogateHackingLiteDesc>Sistemul tău de securitate a neutralizat o parte a atacului; totuși, unele subsisteme din {0} surogați au fost compromise.</ATPP_IncidentSurrogateHackingLiteDesc>
+  <ATPP_IncidentSurrogateHackingHardDesc>Sistemul tău de securitate nu îți protejează întreaga flotă de androizi surogați; sistemele de operare a {0} androizi au fost complet compromise.</ATPP_IncidentSurrogateHackingHardDesc>
+  <ATPP_IncidentVirusedDesc>Acești surogați sunt acum complet sub controlul virusului și te vor ataca!</ATPP_IncidentVirusedDesc>
+  <ATPP_IncidentVirusedExplosiveDesc>Acești surogați sunt acum complet sub controlul virusului, te vor ataca și vor face ca bateria internă a surogatului să explodeze la sfârșitul unei numărători inverse!</ATPP_IncidentVirusedExplosiveDesc>
+  <ATPP_IncidentCryptolockerDesc>Toți surogații infectați sunt complet inutilizabili; acest lucru poate fi anulat (să sperăm) plătind o răscumpărare facțiunii din spatele acestui atac.</ATPP_IncidentCryptolockerDesc>
+  <ATPP_IncidentDeviceHackingVirus>Virus</ATPP_IncidentDeviceHackingVirus>
+  <ATPP_IncidentDeviceHackingCryptolocker>Cryptolocker</ATPP_IncidentDeviceHackingCryptolocker>
+  <ATPP_IncidentDeviceHackingExplosiveVirus>Virus exploziv</ATPP_IncidentDeviceHackingExplosiveVirus>
+  <ATPP_IncidentDeviceHackingLiteDesc>Sistemul tău de securitate a neutralizat o parte a atacului; totuși, {0} dispozitive conectate au fost temporar compromise.</ATPP_IncidentDeviceHackingLiteDesc>
+  <ATPP_IncidentDeviceHackingHardDesc>Sistemul tău de securitate nu protejează toate dispozitivele conectate; sistemele de operare a {0} dispozitive conectate au fost complet compromise.</ATPP_IncidentDeviceHackingHardDesc>
+  <ATPP_IncidentDeviceVirusedDesc>Aceste dispozitive sunt acum complet sub controlul virusului!</ATPP_IncidentDeviceVirusedDesc>
+  <ATPP_IncidentDeviceVirusedExplosiveDesc>Aceste dispozitive sunt acum complet sub controlul virusului și vor exploda la sfârșitul unei numărători inverse!</ATPP_IncidentDeviceVirusedExplosiveDesc>
+  <ATPP_IncidentDeviceCryptolockerDesc>Toate dispozitivele infectate sunt complet inutilizabili; acest lucru poate fi anulat (să sperăm) plătind o răscumpărare facțiunii din spatele acestui atac.</ATPP_IncidentDeviceCryptolockerDesc>
+  <ATPP_LetterFactionRansomware>Ransomware</ATPP_LetterFactionRansomware>
+  <ATPP_LetterFactionRansomwareSkillStolenDesc>{0} a corupt zone de memorie corespunzătoare abilității '{1}' a creierului lui {2}, prin rețeaua SkyMind.</ATPP_LetterFactionRansomwareSkillStolenDesc>
+  <ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>{0} a infectat creierul lui {1} și a instalat trăsătura negativă '{2}', prin rețeaua SkyMind.</ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>
+  <ATPP_EnergyNeed>Energie</ATPP_EnergyNeed>
+  <ATPP_EnergyNeedDesc>Energia este cantitatea de putere pe care un android o are în bateria internă. Dacă ajunge la zero, androidul va funcționa din ce în ce mai defectuos și, în cele din urmă, va fi dezactivat (moare).</ATPP_EnergyNeedDesc>
+  <ATPP_NanoKitsNoCare>Fără reparație</ATPP_NanoKitsNoCare>
+  <ATPP_NanoKitsNoKitJustVisit>Vizită a tehnicianului fără nanokituri</ATPP_NanoKitsNoKitJustVisit>
+  <ATPP_NanoKitsBasic>Nanokit de bază</ATPP_NanoKitsBasic>
+  <ATPP_NanoKitsIntermediate>Nanokit intermediar</ATPP_NanoKitsIntermediate>
+  <ATPP_NanoKitsAdvanced>Nanokit avansat</ATPP_NanoKitsAdvanced>
+  <ATPP_UploadPercentage>Încărcare a minții: {0}%</ATPP_UploadPercentage>
+  <ATPP_DownloadPercentage>Descărcare a minții: {0}%</ATPP_DownloadPercentage>
+  <ATPP_PermutationPercentage>Permutare a minții: {0}%</ATPP_PermutationPercentage>
+  <ATPP_DuplicationPercentage>Duplicare a minții: {0}%</ATPP_DuplicationPercentage>
+  <ATPP_UploadSkyCloudPercentage>Minte încărcată în SkyCloud: {0}%</ATPP_UploadSkyCloudPercentage>
+  <ATPP_DownloadFromSkyCloudPercentage>Minte descărcată din SkyCloud: {0}%</ATPP_DownloadFromSkyCloudPercentage>
+  <ATPP_SkyMindDetected>Conectat la SkyMind</ATPP_SkyMindDetected>
+  <ATPP_RemotelyControlledBy>Controlat de la distanță de {0}.</ATPP_RemotelyControlledBy>
+  <ATPP_RemotelyControl>Controlează de la distanță pe {0}</ATPP_RemotelyControl>
+  <ATPP_CompHotSensitiveHot3Text>Temperatură prea ridicată!</ATPP_CompHotSensitiveHot3Text>
+  <ATPP_CompHotSensitiveHot2Text>Avertisment: temperatură ridicată</ATPP_CompHotSensitiveHot2Text>
+  <ATPP_CompHotSensitiveHot1Text>Temperatura este puțin caldă</ATPP_CompHotSensitiveHot1Text>
+  <ATPP_CompHotSensitiveHot0Text>Temperatură ideală de funcționare</ATPP_CompHotSensitiveHot0Text>
+  <ATPP_CryptoLockedSurrogate>Cryptoblocat, inutilizabil!</ATPP_CryptoLockedSurrogate>
+  <ATPP_ExplosiveVirus>Virus exploziv: {0} secunde înainte ca bateria să explodeze!</ATPP_ExplosiveVirus>
+  <ATPP_TempHackingLosingControlIn>Pierderea controlului în {0} secunde</ATPP_TempHackingLosingControlIn>
+  <ATPP_BatteryLevel>Nivel baterie: {0}%</ATPP_BatteryLevel>
+  <ATPP_TempInfection>Sfârșitul infecției în {0}</ATPP_TempInfection>
+  <ATPP_SkyCloudCoreBooting>Serverul pornește ({0} secunde rămase)</ATPP_SkyCloudCoreBooting>
+  <ATPP_NaniteFrameworkRepairingInProgress>Repararea structurii în curs {0}%</ATPP_NaniteFrameworkRepairingInProgress>
+  <ATPP_VX3SurrogateTypePrimary>Surogat principal</ATPP_VX3SurrogateTypePrimary>
+  <ATPP_VX3SurrogateTypeSecondary>Surogat secundar</ATPP_VX3SurrogateTypeSecondary>
+  <ATPP_MindAbsorptionProgress>Absorbție de conștiință în curs {0}%</ATPP_MindAbsorptionProgress>
+  <ATPP_Rusted>Ruginit</ATPP_Rusted>
+  <ATPP_BatteryExplodeInProgress>Explozie a bateriei {0}%</ATPP_BatteryExplodeInProgress>
+  <ATPP_AutoDoorOpen>Deschide</ATPP_AutoDoorOpen>
+  <ATPP_AutoDoorOpenDescription>Deschide de la distanță printr-un nucleu SkyCloud.</ATPP_AutoDoorOpenDescription>
+  <ATPP_AutoDoorClose>Închide</ATPP_AutoDoorClose>
+  <ATPP_AutoDoorCloseDescription>Închide de la distanță printr-un server SkyCloud.</ATPP_AutoDoorCloseDescription>
+  <ATPP_AutoDoorOpenMoteText>Deschidere prin SkyCloud</ATPP_AutoDoorOpenMoteText>
+  <ATPP_AutoDoorCloseMoteText>Închidere prin SkyCloud</ATPP_AutoDoorCloseMoteText>
+  <ATPP_FlickEnable>Pornire prin SkyCloud</ATPP_FlickEnable>
+  <ATPP_FlickDisable>Oprire prin SkyCloud</ATPP_FlickDisable>
+  <ATPP_LetterSurrogateDisabled>Surogatul {0} a fost dezactivat</ATPP_LetterSurrogateDisabled>
+  <ATPP_LetterSurrogateDisabledDesc>Surogatul {0} nu mai este operațional în urma unui atac violent asupra integrității sale fizice.</ATPP_LetterSurrogateDisabledDesc>
+  <ATPP_LetterUploadOK>Încărcare finalizată</ATPP_LetterUploadOK>
+  <ATPP_LetterUploadOKDesc>Încărcarea minții lui {0} este finalizată și a fost transferată în creierul artificial al lui {1}, {1} este acum decedat (minte strivită).</ATPP_LetterUploadOKDesc>
+  <ATPP_LetterPermuteOK>Permutare finalizată</ATPP_LetterPermuteOK>
+  <ATPP_LetterPermuteOKDesc>Permutarea minții este finalizată, {0} și {1} au făcut schimb de corpuri.</ATPP_LetterPermuteOKDesc>
+  <ATPP_LetterDuplicateOK>Duplicare finalizată</ATPP_LetterDuplicateOK>
+  <ATPP_LetterDuplicateOKDesc>Duplicarea minții este finalizată, creierul lui {1} conține acum o duplicare a creierului lui {0}, {1} poate fi considerat acum decedat.</ATPP_LetterDuplicateOKDesc>
+  <ATPP_LetterSkyCloudUploadOK>Încărcare în SkyCloud finalizată</ATPP_LetterSkyCloudUploadOK>
+  <ATPP_LetterSkyCloudUploadOKDesc>Încărcarea minții în SkyCloud este finalizată, conștiința lui {0} este acum stocată în memoria centrală a lui {1}.</ATPP_LetterSkyCloudUploadOKDesc>
+  <ATPP_LetterSkyCloudReplicateOK>Replicare finalizată</ATPP_LetterSkyCloudReplicateOK>
+  <ATPP_LetterSkyCloudReplicateOKDesc>Replicarea rețelei neurale a lui {0} în memoria lui {1} este finalizată.</ATPP_LetterSkyCloudReplicateOKDesc>
+  <ATPP_LetterSkyCloudDownloadOK>Descărcare din SkyCloud finalizată</ATPP_LetterSkyCloudDownloadOK>
+  <ATPP_LetterSkyCloudDownloadOKDesc>Descărcarea minții din SkyCloud este finalizată, conștiința lui {0} este acum stocată în memoria centrală a lui {1}.</ATPP_LetterSkyCloudDownloadOKDesc>
+  <ATPP_LetterSkyCloudMigrateOK>Migrare a minții în SkyCloud finalizată</ATPP_LetterSkyCloudMigrateOK>
+  <ATPP_LetterSkyCloudMigrateOKDesc>Migrarea minții lui {0} de la {1} la {2} este acum finalizată.</ATPP_LetterSkyCloudMigrateOKDesc>
+  <ATPP_LetterInterruptedUpload>Încărcare eșuată</ATPP_LetterInterruptedUpload>
+  <ATPP_LetterInterruptedUploadDesc>Eroare fatală: Transferul de conștiință a fost întrerupt, ducând la coruperea definitivă a ambelor creiere (deces).{0}</ATPP_LetterInterruptedUploadDesc>
+  <ATPP_LetterInterruptedUploadDescCompHostDead>Moartea gazdei receptoare</ATPP_LetterInterruptedUploadDescCompHostDead>
+  <ATPP_LetterInterruptedUploadDescCompSourceDead>Moartea emițătorului minții</ATPP_LetterInterruptedUploadDescCompSourceDead>
+  <ATPP_LetterInterruptedUploadDescCompRandomError>A apărut o eroare necunoscută</ATPP_LetterInterruptedUploadDescCompRandomError>
+  <ATPP_LetterInterruptedUploadDescCompDiconnectionError>Unul sau ambii coloniști nu mai sunt conectați la SkyMind.</ATPP_LetterInterruptedUploadDescCompDiconnectionError>
+  <ATPP_LetterFactionScam>Înșelat</ATPP_LetterFactionScam>
+  <ATPP_LetterFactionScamCryptolockerDesc>{0} a decis să nu elimine virusul cryptolocker care a contaminat colonia ta, te-au înșelat...</ATPP_LetterFactionScamCryptolockerDesc>
+  <ATPP_LetterFactionScamRansomwareDesc>{0} a decis să nu anuleze efectul programului său ransomware, te-au înșelat...</ATPP_LetterFactionScamRansomwareDesc>
+  <ATPP_CryptolockerNeedPayRansomTitle>Răscumpărare Cryptolocker</ATPP_CryptolockerNeedPayRansomTitle>
+  <ATPP_CryptolockerNeedPayRansom>{0} te contactează prin radio. Ei sunt în spatele atacului cu virusul cryptolocker, vor elimina virusul în schimbul a {1} argint.</ATPP_CryptolockerNeedPayRansom>
+  <ATPP_RansomNeedPayRansomTitle>Răscumpărare Ransomware</ATPP_RansomNeedPayRansomTitle>
+  <ATPP_RansomNeedPayRansomCorruptedSKill>{0} te contactează prin radio. Ei sunt în spatele atacului ransomware, vor restaura abilitatea coruptă '{1}' a lui {2} în schimbul a {3} argint.</ATPP_RansomNeedPayRansomCorruptedSKill>
+  <ATPP_RansomNeedPayRansomDownloadedTrait>{0} te contactează prin radio. Ei sunt în spatele atacului ransomware, vor elimina trăsătura negativă instalată '{1}' a lui {2} în schimbul a {3} argint.</ATPP_RansomNeedPayRansomDownloadedTrait>
+  <ATPP_ComptHeatSensitiveComputerMeltTitle>Supraîncălzire server</ATPP_ComptHeatSensitiveComputerMeltTitle>
+  <ATPP_ComptHeatSensitiveComputerMeltDesc>Un server a explodat din cauza temperaturii ridicate de funcționare!</ATPP_ComptHeatSensitiveComputerMeltDesc>
+  <ATPP_destroyedMindsDueToDestroyedSkyCloudCore>Pierdut {0} conștiințe</ATPP_destroyedMindsDueToDestroyedSkyCloudCore>
+  <ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>În urma distrugerii nucleului SkyCloud {0}, toate cele {1} conștiințe stocate în memoria sa centrală au fost pierdute.</ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>
+  <ATPP_LetterHackingPointsRemoved>Puncte de piratare pierdute</ATPP_LetterHackingPointsRemoved>
+  <ATPP_LetterHackingPointsRemovedDesc>Toate serverele de piratare din așezarea ta (așezările tale) sunt offline, ceea ce înseamnă că {0} puncte au fost pierdute, deoarece nu mai pot fi stocate pe niciun mediu!</ATPP_LetterHackingPointsRemovedDesc>
+  <ATPP_LetterSkillPointsRemoved>Puncte de abilitate pierdute</ATPP_LetterSkillPointsRemoved>
+  <ATPP_LetterSkillPointsRemovedDesc>Toate serverele de abilități din așezarea ta (așezările tale) sunt offline, ceea ce înseamnă că {0} puncte au fost pierdute, deoarece nu mai pot fi stocate pe niciun mediu!</ATPP_LetterSkillPointsRemovedDesc>
+  <ATPP_SkyCloudCoreBooted>{0} a pornit</ATPP_SkyCloudCoreBooted>
+  <ATPP_SkyCloudCoreBootedDesc>Serverul SkyCloud {0} a pornit cu succes și poate fi utilizat acum.</ATPP_SkyCloudCoreBootedDesc>
+  <ATPP_LetterInterruptedSkyCloudReplication>Replicare eșuată</ATPP_LetterInterruptedSkyCloudReplication>
+  <ATPP_LetterInterruptedSkyCloudReplicationDesc>Replicarea conștiinței lui {0} a eșuat deoarece nucleul SkyCloud gazdă este offline.</ATPP_LetterInterruptedSkyCloudReplicationDesc>
+  <ATPP_LetterInterruptedSkyCloudMigration>Migrare eșuată</ATPP_LetterInterruptedSkyCloudMigration>
+  <ATPP_LetterInterruptedSkyCloudMigrationDesc>Migrarea conștiinței lui {0} a eșuat deoarece nucleul SkyCloud de destinație este offline.</ATPP_LetterInterruptedSkyCloudMigrationDesc>
+  <ATPP_LetterTraitorOffline>Trădător offline</ATPP_LetterTraitorOffline>
+  <ATPP_LetterTraitorOfflineDesc>{0} și-a trădat facțiunea lăsându-se recrutat de tine; facțiunea a observat acest lucru și a fost arestat (prin urmare, este deconectat de la surogatul pe care îl controla).</ATPP_LetterTraitorOfflineDesc>
+  <ATPP_LetterInterruptedMindAbsorption>Absorbție a minții eșuată</ATPP_LetterInterruptedMindAbsorption>
+  <ATPP_LetterInterruptedMindAbsorptionDesc>Absorbția minții lui {0} a eșuat fie din cauza unei deconectări de la SkyMind, fie din cauză că niciun server de puncte nu este operațional.</ATPP_LetterInterruptedMindAbsorptionDesc>
+  <ATPP_MindAbsorptionDone>Absorbție a minții finalizată</ATPP_MindAbsorptionDone>
+  <ATPP_MindAbsorptionDoneDesc>Absorbția minții lui {0} este finalizată, s-au obținut {1} puncte de abilitate</ATPP_MindAbsorptionDoneDesc>
+  <ATPP_LetterExternalSurrogateEscape>Evadare a controlorului surogatului</ATPP_LetterExternalSurrogateEscape>
+  <ATPP_LetterExternalSurrogateEscapeDesc>{0}, controlorul surogatului pe care încerci să îl recrutezi, a decis să se alăture coloniei tale; se va deconecta de la surogatul său și va fugi discret din baza inamică în care se află pentru a se alătura coloniei tale în decurs de câteva zile, fără a ști exact când.</ATPP_LetterExternalSurrogateEscapeDesc>
+  <ATPP_LetterExternalSurrogateControllerJoin>Fost prizonier s-a alăturat</ATPP_LetterExternalSurrogateControllerJoin>
+  <ATPP_LetterExternalSurrogateControllerJoinDesc>{0}, un controlor de surogat pe care l-ai întemnițat și convertit cu succes, tocmai a sosit la colonia ta și ți s-a alăturat.</ATPP_LetterExternalSurrogateControllerJoinDesc>
+  <ATPP_LetterExternalSurrogateControllerCannotJoin>Fostul prizonier nu a reușit să se alăture</ATPP_LetterExternalSurrogateControllerCannotJoin>
+  <ATPP_LetterExternalSurrogateControllerCannotJoinDesc>{0}, un controlor de surogat pe care l-ai întemnițat și convertit cu succes, a încercat să ajungă la colonia ta, dar dintr-un motiv necunoscut nu a reușit și, prin urmare, a plecat.</ATPP_LetterExternalSurrogateControllerCannotJoinDesc>
+  <ATPP_LetterExternalSurrogateDisconnect>Deconectare a controlorului</ATPP_LetterExternalSurrogateDisconnect>
+  <ATPP_LetterExternalSurrogateDisconnectDesc>{0}, controlorul surogatului pe care ai încercat să îl înrobești, s-a deconectat deoarece el și facțiunea sa consideră că nu vor mai putea obține informații din colonia ta, iar continuarea ca sclav ar fi o pierdere de timp.</ATPP_LetterExternalSurrogateDisconnectDesc>
+  <ATPP_LetterKidnappedM8Disconnected>Deconectare M8</ATPP_LetterKidnappedM8Disconnected>
+  <ATPP_LetterKidnappedM8DisconnectedDesc>Răpitorii unității tale M8 ({0} care îl găzduiește pe {1}) au sfârșit prin a obține acces la circuitele de comunicații; realizând că mașina continua să comunice prin antena SkyMind integrată, au deconectat-o. Prin urmare, nu te vei mai putea conecta la {1}.</ATPP_LetterKidnappedM8DisconnectedDesc>
+  <ATPP_DesignatorNeedSelectSX>Eroare: Trebuie să selectezi un dispozitiv valid conectat la rețeaua SkyMind!</ATPP_DesignatorNeedSelectSX>
+  <ATPP_DesignatorNeedSelectSXToHack>Eroare: Trebuie să selectezi un android surogat controlat de o altă facțiune decât a ta!</ATPP_DesignatorNeedSelectSXToHack>
+  <ATPP_SkyMindConn>Conectare la SkyMind</ATPP_SkyMindConn>
+  <ATPP_SkyMindConnDesc>Conectează acest colonist la rețeaua SkyMind pentru a permite încărcarea/permutarea/duplicarea minții sau pentru a controla de la distanță androizi din seria SX ori surogați biologici.</ATPP_SkyMindConnDesc>
+  <ATPP_SkyMindAutoConn>Conectare automată</ATPP_SkyMindAutoConn>
+  <ATPP_SkyMindAutoConnDesc>Când este deconectat de la rețeaua SkyMind, acest dispozitiv va încerca să se reconecteze automat când sunt sloturi libere.</ATPP_SkyMindAutoConnDesc>
+  <ATPP_Duplicate>Duplică</ATPP_Duplicate>
+  <ATPP_DuplicateDesc>Duplică conștiința colonistului selectat curent către altul.</ATPP_DuplicateDesc>
+  <ATPP_Permute>Permută</ATPP_Permute>
+  <ATPP_PermuteDesc>Permută conștiința colonistului selectat curent cu a altuia.</ATPP_PermuteDesc>
+  <ATPP_EnableSurrogateControlMode>Controlează</ATPP_EnableSurrogateControlMode>
+  <ATPP_EnableSurrogateControlModeDesc>Activează modul de control de la distanță, permițând acestui colonist să controleze un android din seria SX sau un surogat biologic.</ATPP_EnableSurrogateControlModeDesc>
+  <ATPP_AndroidToControlTargetDisconnect>Deconectează</ATPP_AndroidToControlTargetDisconnect>
+  <ATPP_AndroidToControlTargetDisconnectDesc>Oprește sesiunea curentă de control de la distanță.</ATPP_AndroidToControlTargetDisconnectDesc>
+  <ATPP_AndroidToControlTarget>Conectează</ATPP_AndroidToControlTarget>
+  <ATPP_AndroidToControlTargetDesc>Preia controlul asupra nodului selectat.</ATPP_AndroidToControlTargetDesc>
+  <ATPP_ThisCurrentMap>Această hartă</ATPP_ThisCurrentMap>
+  <ATPP_AndroidToControlTargetRecoverCaravan>Recuperează</ATPP_AndroidToControlTargetRecoverCaravan>
+  <ATPP_AndroidToControlTargetRecoverCaravanDesc>Recuperează un surogat deconectat dintr-o caravană.</ATPP_AndroidToControlTargetRecoverCaravanDesc>
+  <ATPP_FreeControllerInCaravan>Caravană</ATPP_FreeControllerInCaravan>
+  <ATPP_FreeControllerInCaravanDesc>Conectează acest surogat la un controlor liber dintr-o caravană</ATPP_FreeControllerInCaravanDesc>
+  <ATPP_AndroidSurrogateReconnectToLastController>Reconectează</ATPP_AndroidSurrogateReconnectToLastController>
+  <ATPP_AndroidSurrogateReconnectToLastControllerDesc>Reconectează surogatul (dacă este posibil) la ultimul utilizator care l-a folosit</ATPP_AndroidSurrogateReconnectToLastControllerDesc>
+  <ATPP_NoVX2Recipient>Niciun colonist disponibil (trebuie să aibă implantul cerebral cip VX2).</ATPP_NoVX2Recipient>
+  <ATPP_NoSkyCloudCoreAvailable>Niciun nucleu SkyCloud disponibil</ATPP_NoSkyCloudCoreAvailable>
+  <ATPP_ConsciousnessUploadNoRecipient>Niciun destinatar disponibil ca destinație de descărcare.</ATPP_ConsciousnessUploadNoRecipient>
+  <ATPP_ConsciousnessSelectDestination>Selectează o gazdă de destinație</ATPP_ConsciousnessSelectDestination>
+  <ATPP_UploadConsciousness>Încarcă</ATPP_UploadConsciousness>
+  <ATPP_UploadConsciousnessDesc>Încarcă mintea de la acest android la altul.</ATPP_UploadConsciousnessDesc>
+  <ATPP_WarningSkyMindDisconnectionRisk>Avertisment: nu trebuie să aibă loc nicio deconectare de la rețeaua SkyMind în timpul operațiunii, deoarece le va corupe creierele și, prin urmare, îi va ucide</ATPP_WarningSkyMindDisconnectionRisk>
+  <ATPP_UploadConsciousnessConfirm>Încarcă mintea</ATPP_UploadConsciousnessConfirm>
+  <ATPP_UploadConsciousnessConfirmDesc>Prin validare, {0} își va încărca mintea în corpul lui {1}, ceea ce va distruge mintea lui {1} (îl va ucide), iar corpul lui {0} va fi dezactivat; ești sigur că vrei să continui?</ATPP_UploadConsciousnessConfirmDesc>
+  <ATPP_PermuteConsciousnessConfirm>Permutare a minții</ATPP_PermuteConsciousnessConfirm>
+  <ATPP_PermuteConsciousnessConfirmDesc>Prin validare, {0} își va permuta mintea cu {1}, vor face schimb de corpuri; ești sigur că vrei să continui?</ATPP_PermuteConsciousnessConfirmDesc>
+  <ATPP_DuplicateConsciousnessConfirm>Duplicare a minții</ATPP_DuplicateConsciousnessConfirm>
+  <ATPP_DuplicateConsciousnessConfirmDesc>Prin validare, {0} își va duplica mintea în creierul lui {1}, ceea ce va distruge mintea lui {1} (îl va ucide); ești sigur că vrei să continui?</ATPP_DuplicateConsciousnessConfirmDesc>
+  <ATPP_UseBattery>Folosește bateria</ATPP_UseBattery>
+  <ATPP_UseBatteryDesc>Dacă este activat, androidul va folosi direct bateria internă în loc de generatorul pe biomasă.</ATPP_UseBatteryDesc>
+  <ATPP_RepairAndroids>Repară androizi</ATPP_RepairAndroids>
+  <ATPP_RepairAndroidsDesc>Permite acestui colonist să repare androizi.</ATPP_RepairAndroidsDesc>
+  <ATPP_UploadVirus>Virus</ATPP_UploadVirus>
+  <ATPP_UploadVirusDesc>Încarcă un virus în surogatul vizat.</ATPP_UploadVirusDesc>
+  <ATPP_UploadExplosiveVirus>Virus exploziv</ATPP_UploadExplosiveVirus>
+  <ATPP_UploadExplosiveVirusDesc>Încarcă un virus în surogatul vizat, care va supraîncărca bateria internă făcând-o să explodeze.</ATPP_UploadExplosiveVirusDesc>
+  <ATPP_Hack>Piratează</ATPP_Hack>
+  <ATPP_HackDesc>Piratează și preia controlul asupra surogatului vizat.</ATPP_HackDesc>
+  <ATPP_HackTemp>Piratare temporară</ATPP_HackTemp>
+  <ATPP_HackTempDesc>Efectuează o piratare rapidă pentru a prelua controlul temporar asupra surogatului vizat.</ATPP_HackTempDesc>
+  <ATPP_MoveToSkyCloud>Încărcare în SkyCloud</ATPP_MoveToSkyCloud>
+  <ATPP_MoveToSkyCloudDesc>Această operațiune va muta mintea gazdei într-un nucleu SkyCloud, făcând-o aproape nemuritoare, dar lăsându-i corpul mort.</ATPP_MoveToSkyCloudDesc>
+  <ATPP_MoveFromSkyCloud>Descărcare din SkyCloud</ATPP_MoveFromSkyCloud>
+  <ATPP_MoveFromSkyCloudDesc>Această operațiune va muta mintea selectată stocată într-un nucleu SkyCloud în creierul gazdei.</ATPP_MoveFromSkyCloudDesc>
+  <ATPP_CentralCoreNbStoredMind>{0} conștiințe stocate</ATPP_CentralCoreNbStoredMind>
+  <ATPP_CentralCoreNbAssistingMinds>{0} conștiințe alocate pentru asistență</ATPP_CentralCoreNbAssistingMinds>
+  <ATPP_CentralCoreMigrationInProgress>Migrarea lui {0} în {1} în curs ({2}%)</ATPP_CentralCoreMigrationInProgress>
+  <ATPP_CentralCoreProcessInMentalBreak>{0} inutilizabil: în cădere psihică</ATPP_CentralCoreProcessInMentalBreak>
+  <ATPP_CentralCoreReplicationInProgress>Replicarea conștiinței lui {0} în curs ({1}%)</ATPP_CentralCoreReplicationInProgress>
+  <ATPP_SkyCloudFloatMenuMindsStoredSelect>Selectează o conștiință</ATPP_SkyCloudFloatMenuMindsStoredSelect>
+  <ATPP_ProcessInfo>Informații</ATPP_ProcessInfo>
+  <ATPP_ProcessInfoDesc>Obține informații despre mințile stocate.</ATPP_ProcessInfoDesc>
+  <ATPP_ProcessRemove>Elimină</ATPP_ProcessRemove>
+  <ATPP_ProcessRemoveDesc>Elimină o minte</ATPP_ProcessRemoveDesc>
+  <ATPP_ProcessRemoveDescConfirm>Prin confirmare, conștiința lui {0} va fi complet eliminată din memoria lui {1}, va fi considerat decedat!</ATPP_ProcessRemoveDescConfirm>
+  <ATPP_ProcessDuplicate>Replică</ATPP_ProcessDuplicate>
+  <ATPP_ProcessDuplicateDesc>Replică o conștiință.</ATPP_ProcessDuplicateDesc>
+  <ATPP_ProcessAssist>Asistă</ATPP_ProcessAssist>
+  <ATPP_ProcessAssistDesc>Alocă lista de minți stocate folosite doar pentru a asista coloniștii conectați la rețeaua SkyMind; aceștia vor primi un bonus global de dispoziție pentru fiecare minte alocată aici.</ATPP_ProcessAssistDesc>
+  <ATPP_ProcessMigrate>Migrează</ATPP_ProcessMigrate>
+  <ATPP_ProcessMigrateDesc>Migrează o conștiință din acest nucleu SkyCloud în altul</ATPP_ProcessMigrateDesc>
+  <ATPP_ProcessAssistAssignedMinds>Anulează alocarea minții (elimină)</ATPP_ProcessAssistAssignedMinds>
+  <ATPP_ProcessAssistUnassignedMinds>Alocă mintea (adaugă)</ATPP_ProcessAssistUnassignedMinds>
+  <ATPP_ProcessAssistAssignAll>Alocă toate mințile nealocate</ATPP_ProcessAssistAssignAll>
+  <ATPP_ProcessAssistUnassignAll>Anulează alocarea tuturor minților alocate</ATPP_ProcessAssistUnassignAll>
+  <ATPP_ProcessDisconnectAllSurrogates>Deconectează tot</ATPP_ProcessDisconnectAllSurrogates>
+  <ATPP_StopVirused>Oprește</ATPP_StopVirused>
+  <ATPP_StopVirusedDesc>Oprește acest surogat infectat</ATPP_StopVirusedDesc>
+  <ATPP_PreviousSurrogateControllerIs>Controlorul anterior a fost {0}</ATPP_PreviousSurrogateControllerIs>
+  <ATPP_Skills>Abilități</ATPP_Skills>
+  <ATPP_SkillsDesc>Deschide atelierul de abilități, care îți va permite să convertești punctele de abilitate generate de serverele tale în abilități suplimentare pentru androizii tăi</ATPP_SkillsDesc>
+  <ATPP_MindAbsorption>Absorbție de conștiință</ATPP_MindAbsorption>
+  <ATPP_MindAbsorptionDesc>Absoarbe mintea unui prizonier pentru a o converti în puncte de abilitate (operațiune letală)</ATPP_MindAbsorptionDesc>
+  <ATPP_MindAbsorptionConfirm>Absorbție de conștiință</ATPP_MindAbsorptionConfirm>
+  <ATPP_MindAbsorptionConfirmDesc>Prin confirmare, conștiința lui {0} va fi absorbită și convertită în puncte de abilitate (operațiune letală); ești sigur că vrei să continui?</ATPP_MindAbsorptionConfirmDesc>
+  <ATPP_UploadMakeAndroidBatteryOverloadConfirm>Supraîncarcă bateria</ATPP_UploadMakeAndroidBatteryOverloadConfirm>
+  <ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>Atenție: la validare, bateria androidului selectat se va supraîncărca și va exploda după scurt timp. Sigur dorești să continui?</ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>
+  <ATPP_OverloadAndroid>Supraîncărcare</ATPP_OverloadAndroid>
+  <ATPP_OverloadAndroidDesc>Fă bateria androidului să explodeze</ATPP_OverloadAndroidDesc>
+  <ATPP_LWPNConnected>Conectat la {0}</ATPP_LWPNConnected>
+  <ATPP_LWPNDisconnected>Deconectat de la {0}</ATPP_LWPNDisconnected>
+  <ATPP_NoAvailableLWPN>Niciun LWPN disponibil</ATPP_NoAvailableLWPN>
+  <ATPP_LWPNNbConnectedAndroid>Androizi conectați : {0}</ATPP_LWPNNbConnectedAndroid>
+  <ATPP_MessageLWPNNoSlotAvailable>Niciun slot LWPN disponibil !</ATPP_MessageLWPNNoSlotAvailable>
+  <ATPP_SkyMindAntennaSynthesis>Utilizatori conectați: {0} / {1}</ATPP_SkyMindAntennaSynthesis>
+  <ATPP_ForceReload>Forțează încărcarea bateriei</ATPP_ForceReload>
+  <ATPP_CannotUseEveryPlaceUsed>Nu se poate folosi, stația de încărcare este plină.</ATPP_CannotUseEveryPlaceUsed>
+  <ATPP_CannotUseBecauseNotInBatteryMode>Nu se poate folosi deoarece bateria internă a androidului selectat nu este setată ca generator implicit.</ATPP_CannotUseBecauseNotInBatteryMode>
+  <ATPP_SecurityServersSynthesis>Surogați protejați: {0} / {1}</ATPP_SecurityServersSynthesis>
+  <ATPP_HackingServersSynthesis>Puncte de piratare disponibile: {0} / {1}</ATPP_HackingServersSynthesis>
+  <ATTP_HackingSlotsAdded>Sloturi de piratare adăugate: {0}</ATTP_HackingSlotsAdded>
+  <ATTP_HackingProducedPoints>Puncte de piratare produse: {0}</ATTP_HackingProducedPoints>
+  <ATTP_SecuritySlotsAdded>Sloturi de securitate adăugate: {0}</ATTP_SecuritySlotsAdded>
+  <ATPP_SkillServersSynthesis>Puncte de abilitate disponibile: {0} / {1}</ATPP_SkillServersSynthesis>
+  <ATTP_SkillSlotsAdded>Sloturi de abilitate adăugate: {0}</ATTP_SkillSlotsAdded>
+  <ATTP_SkillProducedPoints>Puncte de abilitate produse: {0}</ATTP_SkillProducedPoints>
+  <ATPP_HairColor>Culoare păr</ATPP_HairColor>
+  <ATPP_HairColorBlond>Blond</ATPP_HairColorBlond>
+  <ATPP_HairColorBlack>Negru</ATPP_HairColorBlack>
+  <ATPP_HairColorAuburn>Castaniu</ATPP_HairColorAuburn>
+  <ATPP_HairColorGrey>Gri</ATPP_HairColorGrey>
+  <ATPP_HairColorGinger>Roșcat</ATPP_HairColorGinger>
+  <ATPP_HairColorWhite>Alb</ATPP_HairColorWhite>
+  <ATPP_SkinColor>Culoare piele</ATPP_SkinColor>
+  <ATPP_SkinColorVerylight>Foarte deschisă</ATPP_SkinColorVerylight>
+  <ATPP_SkinColorLight>Deschisă</ATPP_SkinColorLight>
+  <ATPP_SkinColorFair>Medie-deschisă</ATPP_SkinColorFair>
+  <ATPP_SkinColorMidbrown>Maro mediu</ATPP_SkinColorMidbrown>
+  <ATPP_SkinColorDarkbrown>Maro închis</ATPP_SkinColorDarkbrown>
+  <ATPP_SkinColorVerydark>Maro foarte închis</ATPP_SkinColorVerydark>
+  <ATPP_CannotConnectToSkyMindNoNet>Nu se poate conecta la SkyMind, nicio rețea disponibilă!</ATPP_CannotConnectToSkyMindNoNet>
+  <ATPP_CannotConnectToSkyMind>Nu se poate conecta la SkyMind, nu sunt suficiente sloturi disponibile!</ATPP_CannotConnectToSkyMind>
+  <ATPP_SurrogateUnexpectedDisconnection>Deconectare neașteptată: {0} nu mai este conectat la rețeaua SkyMind!</ATPP_SurrogateUnexpectedDisconnection>
+  <ATPP_SurrogateConnectionCannotBeDisconnected>Nu se poate deconecta, {0} se află în prezent într-o stare psihică instabilă</ATPP_SurrogateConnectionCannotBeDisconnected>
+  <ATPP_SurrogateConnectionOK>{0} este acum conectat la {1}</ATPP_SurrogateConnectionOK>
+  <ATPP_StartPermute>Permutarea conștiințelor între {0} și {1} a început!</ATPP_StartPermute>
+  <ATPP_StartDuplicate>Duplicarea conștiinței lui {0} către {1} a început!</ATPP_StartDuplicate>
+  <ATPP_StartSkyCloudUpload>Încărcarea conștiinței lui {0} în {1} a început!</ATPP_StartSkyCloudUpload>
+  <ATPP_StartSkyCloudUploadFailedFull>Încărcarea conștiinței lui {0} în {1} nu se poate efectua, deoarece nu există suficient spațiu de stocare a conștiinței în {1}</ATPP_StartSkyCloudUploadFailedFull>
+  <ATPP_StartSkyCloudDownload>Descărcarea conștiinței lui {0} în creierul lui {1} a început!</ATPP_StartSkyCloudDownload>
+  <ATPP_StartSkyCloudMigration>Migrarea conștiinței lui {0} de la {1} la {2} a început!</ATPP_StartSkyCloudMigration>
+  <ATPP_StartSkyCloudMigrationFailed>Migrarea conștiinței lui {0} în {1} nu se poate efectua, deoarece nu există suficient spațiu de stocare a conștiinței în {1}</ATPP_StartSkyCloudMigrationFailed>
+  <ATPP_StartUpload>Încărcarea conștiinței lui {0} către {1} a început!</ATPP_StartUpload>
+  <ATPP_CanOnlyBeUsedByAndroid>Acest dispozitiv poate fi utilizat doar de către androizi!</ATPP_CanOnlyBeUsedByAndroid>
+  <ATPP_CannotBeUsedBecauseNoOldAgeIssues>Nu poate fi utilizat deoarece nu au fost găsite probleme legate de bătrânețe la android</ATPP_CannotBeUsedBecauseNoOldAgeIssues>
+  <ATPP_NoBrokenStuffFound>Nu s-au găsit defecțiuni la androidul {0}!</ATPP_NoBrokenStuffFound>
+  <ATPP_BrokenStuffRepairFailed>Eroare: nanitele nu au reușit să repare!</ATPP_BrokenStuffRepairFailed>
+  <ATPP_BrokenCPURepaired>Creierul artificial a fost reparat cu succes!</ATPP_BrokenCPURepaired>
+  <ATPP_BrokenHydraulicSystemRepaired>Sistemul hidraulic a fost reparat cu succes!</ATPP_BrokenHydraulicSystemRepaired>
+  <ATPP_BrokenCoolingSystemRepaired>Sistemul de răcire a fost reparat cu succes!</ATPP_BrokenCoolingSystemRepaired>
+  <ATPP_BrokenFrameworkRepaired>Structura a fost reparată cu succes!</ATPP_BrokenFrameworkRepaired>
+  <ATPP_CryptolockerClearedByFaction>{0} a eliminat virusul cryptolocker de pe surogatul tău infectat!</ATPP_CryptolockerClearedByFaction>
+  <ATPP_CryptolockerDeviceClearedByFaction>{0} a eliminat virusul cryptolocker de pe dispozitivele tale conectate!</ATPP_CryptolockerDeviceClearedByFaction>
+  <ATPP_RansomwareClearedByFaction>{0} a efectuat reparațiile necesare pentru daunele cauzate lui {1}</ATPP_RansomwareClearedByFaction>
+  <ATPP_SurrogateHackOK>Piratarea lui {0} a reușit!</ATPP_SurrogateHackOK>
+  <ATPP_CannotHackNotEnoughtHackingPoints>Nu sunt suficiente puncte de piratare, sunt necesare {0} pentru piratare!</ATPP_CannotHackNotEnoughtHackingPoints>
+  <ATPP_ProcessDuplicateOK>Rețeaua neurală a lui {0} este în curs de duplicare.</ATPP_ProcessDuplicateOK>
+  <ATPP_ProcessDuplicateFailed>Nu se poate duplica rețeaua neurală a lui {0}, nu există suficient spațiu de stocare a conștiinței în nucleu</ATPP_ProcessDuplicateFailed>
+  <ATPP_ProcessRemoveOK>Rețeaua neurală a lui {0} a fost eliminată.</ATPP_ProcessRemoveOK>
+  <ATPP_ProcessAssistOK>Conștiința lui {0} este acum alocată pentru a asista coloniștii conectați.</ATPP_ProcessAssistOK>
+  <ATPP_ProcessUnassistOK>Conștiința lui {0} nu mai este alocată pentru a asista coloniștii conectați.</ATPP_ProcessUnassistOK>
+  <ATPP_ProcessNoLongerInMentalBreak>Conștiința lui {0} stocată în {1} nu mai are o cădere psihică</ATPP_ProcessNoLongerInMentalBreak>
+  <ATPP_CannotReconnectToLastSurrogateController>Nu se poate reconecta, ultimul controlor al surogatului este indisponibil (ocupat, decedat, neconectat la SkyMind...)</ATPP_CannotReconnectToLastSurrogateController>
+  <ATPP_ProcessMassAssist>{0} minți au fost alocate !</ATPP_ProcessMassAssist>
+  <ATPP_ProcessMassUnassist>{0} minți au fost dealocate !</ATPP_ProcessMassUnassist>
+  <ATPP_SkillsWorkshopPointsConverted>{0} puncte de abilitate au fost adăugate la {1}</ATPP_SkillsWorkshopPointsConverted>
+  <ATPP_SkillsWorkshopAvailablePoints>Puncte disponibile : {0}</ATPP_SkillsWorkshopAvailablePoints>
+  <ATPP_SkillsWorkshopAvailablePointsNote>Notă : Pentru acest model de android ai nevoie de {0} puncte de abilitate generate de serverele tale pentru a genera 1 punct disponibil</ATPP_SkillsWorkshopAvailablePointsNote>
+  <ATPP_MindAbsorptionStarted>Absorbția conștiinței lui {0} a început</ATPP_MindAbsorptionStarted>
+  <ATPP_NotEnoughtSkillPoints>Nu sunt suficiente puncte de abilitate disponibile ! ({0} puncte necesare)</ATPP_NotEnoughtSkillPoints>
+  <ATPP_CannotAddVXNeuralChipInSurrogates>Nu se poate adăuga acest tip de cip într-un surogat! cipul a fost deteriorat și nu mai poate fi utilizat!</ATPP_CannotAddVXNeuralChipInSurrogates>
+  <ATPP_SettingsSectionGeneral>General</ATPP_SettingsSectionGeneral>
+  <ATPP_SettingsSectionSkyCloud>SkyCloud</ATPP_SettingsSectionSkyCloud>
+  <ATPP_SettingsSectionSecurity>Securitate</ATPP_SettingsSectionSecurity>
+  <ATPP_SettingsSectionVX2>Cip neural VX2</ATPP_SettingsSectionVX2>
+  <ATPP_SettingsSectionVX3>Cip neural VX3</ATPP_SettingsSectionVX3>
+  <ATPP_SettingsSectionSkills>Abilități T1/T2</ATPP_SettingsSectionSkills>
+  <ATPP_SettingsSectionBatteryOverload>Supraîncărcare baterie</ATPP_SettingsSectionBatteryOverload>
+  <ATPP_SettingsDefaultAndroidGeneratorMode>Mod implicit de energie pentru androizi:</ATPP_SettingsDefaultAndroidGeneratorMode>
+  <ATPP_SettingsDefaultAndroidGeneratorModeBiomass>Folosește generatorul pe biomasă (mănâncă)</ATPP_SettingsDefaultAndroidGeneratorModeBiomass>
+  <ATPP_SettingsDefaultAndroidGeneratorModeBattery>Folosește direct bateria internă (se încarcă de la rețeaua electrică)</ATPP_SettingsDefaultAndroidGeneratorModeBattery>
+  <ATPP_SettingsMindUploadDuration>Durata încărcării minții ({0}h)</ATPP_SettingsMindUploadDuration>
+  <ATPP_SettingsMindReplicationDuration>Durata replicării minții ({0}h)</ATPP_SettingsMindReplicationDuration>
+  <ATPP_SettingsMindPermutationDuration>Durata permutării minții ({0}h)</ATPP_SettingsMindPermutationDuration>
+  <ATPP_SettingsMindDuplicationDuration>Durata duplicării minții ({0}h)</ATPP_SettingsMindDuplicationDuration>
+  <ATPP_SettingsMindUploadPercentageFail>Risc ca transferul de conștiință să eșueze ({0}%)</ATPP_SettingsMindUploadPercentageFail>
+  <ATPP_SettingsNanitePercentageFail>Risc ca nanitele să nu poată repara androizii ({0}%)</ATPP_SettingsNanitePercentageFail>
+  <ATPP_SettingsCharchingStationWattIncrease>Creșterea consumului de energie când un {0} se încarcă</ATPP_SettingsCharchingStationWattIncrease>
+  <ATPP_SettingsFoodGenerateLessEnergy>Biomasa (hrana) aduce mai puțină energie androizilor (de 2 ori mai puțin decât oamenilor)</ATPP_SettingsFoodGenerateLessEnergy>
+  <ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>Procent din baterie încărcat la fiecare 6 secunde ({0}%)</ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>
+  <ATPP_SettingsNbHoursMinServerRunningHotBeforeExplode>Număr minim de ore în care serverele pot funcționa fierbinți înainte de a exploda ({0}h)</ATPP_SettingsNbHoursMinServerRunningHotBeforeExplode>
+  <ATPP_SettingsNbHoursMaxServerRunningHotBeforeExplode>Număr maxim de ore în care serverele pot funcționa fierbinți înainte de a exploda ({0}h)</ATPP_SettingsNbHoursMaxServerRunningHotBeforeExplode>
+  <ATPP_SettingsNbHoursMinSkyCloudServerRunningHotBeforeExplode>Număr minim de ore în care nucleele SkyCloud pot funcționa fierbinți înainte de a exploda ({0}h)</ATPP_SettingsNbHoursMinSkyCloudServerRunningHotBeforeExplode>
+  <ATPP_SettingsNbHoursMaxSkyCloudServerRunningHotBeforeExplode>Număr maxim de ore în care nucleele SkyCloud pot funcționa fierbinți înainte de a exploda ({0}h)</ATPP_SettingsNbHoursMaxSkyCloudServerRunningHotBeforeExplode>
+  <ATPP_SettingsDelayExplosiveVirus>Număr de secunde până când un android infectat cu virus exploziv explodează ({0}sec)</ATPP_SettingsDelayExplosiveVirus>
+  <ATPP_SettingsRiskFactionNotRemoveCryptolocker>Riscul ca o facțiune să nu elimine cryptolocker după ce plătești răscumpărarea ({0}%)</ATPP_SettingsRiskFactionNotRemoveCryptolocker>
+  <ATPP_SettingsRansomCost>Costul răscumpărării pentru virusul cryptolocker ({0}):</ATPP_SettingsRansomCost>
+  <ATPP_SettingsAndroidCanUseOrganicMedicine>Androizii pot folosi medicină organică</ATPP_SettingsAndroidCanUseOrganicMedicine>
+  <ATPP_SettingsRiskGetLittleVirusEvenWithSecurityServers>Riscul ca clienții tăi conectați să ia un virus (impact atenuat) chiar și cu un sistem de securitate care îi acoperă pe toți ({0}%)</ATPP_SettingsRiskGetLittleVirusEvenWithSecurityServers>
+  <ATPP_SettingsRiskFactionNotRemoveRansomwareEffect>Riscul ca o facțiune să nu elimine efectele ransomware-ului după ce plătești răscumpărarea ({0}%)</ATPP_SettingsRiskFactionNotRemoveRansomwareEffect>
+  <ATPP_SettingsMinSilverToRemoveBadTrait>Cantitate minimă de argint pentru eliminarea trăsăturii negative din ransomware</ATPP_SettingsMinSilverToRemoveBadTrait>
+  <ATPP_SettingsMaxSilverToRemoveBadTrait>Cantitate maximă de argint pentru eliminarea trăsăturii negative din ransomware</ATPP_SettingsMaxSilverToRemoveBadTrait>
+  <ATPP_SettingsRansomwareSilverPerSkillLevel>Cantitate de argint de plătit per nivel pentru ransomware cu abilitate coruptă</ATPP_SettingsRansomwareSilverPerSkillLevel>
+  <ATPP_SettingsDisableSolarFlareImpactOnAndroids>Dezactivează efectele negative ale erupției solare asupra androizilor</ATPP_SettingsDisableSolarFlareImpactOnAndroids>
+  <ATPP_SettingsDisableSecurityStuff>Dezactivează virușii și piratarea prin SkyMind</ATPP_SettingsDisableSecurityStuff>
+  <ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroupMin>Procent minim de surogați care pot fi prezenți în grupuri ale altor facțiuni ({0}%)</ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroupMin>
+  <ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroup>Procent maxim de surogați care pot fi prezenți în grupuri ale altor facțiuni ({0}%)</ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroup>
+  <ATPP_SettingsOtherFactionsCanUseSurrogate>Alte facțiuni pot folosi androizi surogați</ATPP_SettingsOtherFactionsCanUseSurrogate>
+  <ATPP_SettingsTempHackDuration>Durata piratării temporare a surogatului ({0} secunde)</ATPP_SettingsTempHackDuration>
+  <ATPP_SettingsCostHackingPoints>Cost în puncte de piratare pentru ({0}):</ATPP_SettingsCostHackingPoints>
+  <ATPP_SettingsCostVirus>Virus</ATPP_SettingsCostVirus>
+  <ATPP_SettingsCostVirusExplosive>Virus exploziv</ATPP_SettingsCostVirusExplosive>
+  <ATPP_SettingsCostHack>Piratare</ATPP_SettingsCostHack>
+  <ATPP_SettingsCostHackTemp>Piratare temporară</ATPP_SettingsCostHackTemp>
+  <ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>În timpul erupțiilor solare, androizii sunt doborâți</ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>
+  <ATPP_SettingsDisableServersAlarm>Dezactivează alarma termică a serverelor</ATPP_SettingsDisableServersAlarm>
+  <ATPP_SettingsDisableServersAmbianceNoises>Dezactivează zgomotul ambiental al serverelor</ATPP_SettingsDisableServersAmbianceNoises>
+  <ATPP_SettingsAppliedToNextSaveLoading> (Se aplică după reîncărcarea hărții)</ATPP_SettingsAppliedToNextSaveLoading>
+  <ATPP_SettingsDisableLowNetworkMalus>Dezactivează penalizarea pentru semnal scăzut la rețeaua SkyMind</ATPP_SettingsDisableLowNetworkMalus>
+  <ATPP_SettingsDisableLowNetworkMalusInCaravans>Dezactivează penalizarea pentru semnal scăzut la rețeaua SkyMind în caravane</ATPP_SettingsDisableLowNetworkMalusInCaravans>
+  <ATPP_SettingsPowerConsumedByStoredMind>Energie consumată de fiecare minte stocată în nucleele SkyCloud</ATPP_SettingsPowerConsumedByStoredMind>
+  <ATPP_SettingsMindUploadToSkyCloudDuration>Durata încărcării minții în SkyCloud ({0}h)</ATPP_SettingsMindUploadToSkyCloudDuration>
+  <ATPP_SettingsMindMigrationCloudDuration>Durata migrării minții ({0}h)</ATPP_SettingsMindMigrationCloudDuration>
+  <ATPP_SettingsHideRemotelyControlledIcon>Ascunde pictograma de deasupra dispozitivelor controlate de la distanță</ATPP_SettingsHideRemotelyControlledIcon>
+  <ATPP_SettingsSkyCloudBuffPerAssistingMind>Număr de puncte bonus per minte de asistență în SkyCloud ({0})</ATPP_SettingsSkyCloudBuffPerAssistingMind>
+  <ATPP_SettingsNbSlotAddedForSkillServers>Număr de sloturi adăugate pentru serverele de abilități {0} ({1})</ATPP_SettingsNbSlotAddedForSkillServers>
+  <ATPP_SettingsNbSlotAddedForHackingServers>Număr de sloturi adăugate pentru serverele de piratare {0} ({1})</ATPP_SettingsNbSlotAddedForHackingServers>
+  <ATPP_SettingsNbSlotAddedForSecurityServers>Număr de sloturi adăugate pentru serverele de securitate {0} ({1})</ATPP_SettingsNbSlotAddedForSecurityServers>
+  <ATPP_SettingsNbPointsProducedForHackingServers>Număr de puncte produse (la fiecare 30 de secunde) pentru serverele de piratare {0} ({1})</ATPP_SettingsNbPointsProducedForHackingServers>
+  <ATPP_SettingsMinNbHoursLiteHackingDeviceAttackLast>Număr minim de ore cât poate dura un atac ușor de piratare a dispozitivului ({0}h)</ATPP_SettingsMinNbHoursLiteHackingDeviceAttackLast>
+  <ATPP_SettingsMaxNbHoursLiteHackingDeviceAttackLast>Număr maxim de ore cât poate dura un atac ușor de piratare a dispozitivului ({0}h)</ATPP_SettingsMaxNbHoursLiteHackingDeviceAttackLast>
+  <ATPP_SettingsHideInactiveSurrogates>Ascunde surogații inactivi din bara de coloniști</ATPP_SettingsHideInactiveSurrogates>
+  <ATPP_SettingsAndroidsOnlyHealedByCrafter>Androizii pot fi vindecați doar de fierari</ATPP_SettingsAndroidsOnlyHealedByCrafter>
+  <ATPP_SettingsMinDurationOfMindMentalBreak>Durata minimă a căderii psihice a unei conștiințe digitalizate ({0}h)</ATPP_SettingsMinDurationOfMindMentalBreak>
+  <ATPP_SettingsMaxDurationOfMindMentalBreak>Durata maximă a căderii psihice a unei conștiințe digitalizate ({0}h)</ATPP_SettingsMaxDurationOfMindMentalBreak>
+  <ATPP_SettingsSecToBootASkyCloudCore>Timp de pornire al unui nucleu SkyCloud ({0}sec)</ATPP_SettingsSecToBootASkyCloudCore>
+  <ATPP_SettingsDisableAbilityOfSkyCloudServersToTalk>Dezactivează posibilitatea nucleelor SkyCloud de a vorbi</ATPP_SettingsDisableAbilityOfSkyCloudServersToTalk>
+  <ATPP_SettingsNotRemoveAllTraitsOfBasicAndroids>Nu elimina toate trăsăturile de la androizii T1/T2</ATPP_SettingsNotRemoveAllTraitsOfBasicAndroids>
+  <ATPP_SettingsAndroidsCanEatLivingPlants>Androizii pot mânca plante vii</ATPP_SettingsAndroidsCanEatLivingPlants>
+  <ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>Nu elimina pasiunile pentru abilități de la androizii T1/T2</ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>
+  <ATPP_SettingsVX3MaxSurrogateControllableAtOnce>Număr maxim de surogați controlabili simultan ({0})</ATPP_SettingsVX3MaxSurrogateControllableAtOnce>
+  <ATPP_SettingsNbPointsProducedForSkillServers>Număr de puncte produse (la fiecare 30 de secunde) pentru serverele de abilități {0} ({1})</ATPP_SettingsNbPointsProducedForSkillServers>
+  <ATPP_SettingsRandomSkillsMode>Abilitățile sunt aleatorii</ATPP_SettingsRandomSkillsMode>
+  <ATPP_SettingsPreventM7T5AppearingInCharacterEditor>Împiedică apariția T5/M7 în ecranul de creare a personajelor</ATPP_SettingsPreventM7T5AppearingInCharacterEditor>
+  <ATPP_SettingsMinHoursNaniteBankFramework>Număr minim de ore necesare pentru aplicarea efectului băncilor de nanite structurale ({0}h)</ATPP_SettingsMinHoursNaniteBankFramework>
+  <ATPP_SettingsMaxHoursNaniteBankFramework>Număr maxim de ore necesare pentru aplicarea efectului băncilor de nanite structurale ({0}h)</ATPP_SettingsMaxHoursNaniteBankFramework>
+  <ATPP_SettingsNbSkillPointsPerSkill>Număr de puncte de abilitate necesare pentru a produce o abilitate ({0})</ATPP_SettingsNbSkillPointsPerSkill>
+  <ATPP_RemoveComfortNeedForT3T4>Elimină nevoia de confort pentru androizi >= T3</ATPP_RemoveComfortNeedForT3T4>
+  <ATPP_SettingsAllowHumanDrugsForT3P>Permite droguri umane pentru androizi T3+</ATPP_SettingsAllowHumanDrugsForT3P>
+  <ATPP_SettingsAllowHumanDrugsFor>Permite droguri umane pentru androizi</ATPP_SettingsAllowHumanDrugsFor>
+  <ATPP_SettingsUploadMindToSkyCloudCoreMode>Mod de încărcare a minții în nucleul SkyCloud :</ATPP_SettingsUploadMindToSkyCloudCoreMode>
+  <ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>Corpul minții sursă este ucis</ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>
+  <ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>Cipul neural al minții sursă își reconfigurează automat circuitele în modul VX0</ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>
+  <ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>Nu se întâmplă nimic cu corpul minții sursă (duplicare)</ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>
+  <ATPP_SettingsRemoveSimpleMindedTraitOnUpload>Elimină trăsătura simplu la minte când un T1 este transferat într-o gazdă mai avansată (om, T2+)</ATPP_SettingsRemoveSimpleMindedTraitOnUpload>
+  <ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>Șansa ca androizii generați să poată fi vopsiți sau să ruginească ({0}%)</ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>
+  <ATPP_SettingsAndroidsCanRust>Androizii pot rugini</ATPP_SettingsAndroidsCanRust>
+  <ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>Număr minim de zile înainte ca vopseaua androizilor să poată rugini ({0} zile)</ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>
+  <ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>Număr maxim de zile înainte ca vopseaua androizilor să poată rugini ({0} zile)</ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>
+  <ATPP_SettingsAndroidsAreRare>Fă androizii rari pentru alte facțiuni (AVERTISMENT: va elimina toate facțiunile de androizi)</ATPP_SettingsAndroidsAreRare>
+  <ATPP_SettingsAllowAutoRepaint>Permite androizilor să reprogrameze automat o operațiune de revopsire când vopseaua curentă va expira în curând</ATPP_SettingsAllowAutoRepaint>
+  <ATPP_SettingsAllowAutoRepaintPrisoned>Permite și androizilor întemnițați să reprogrameze o operațiune de revopsire</ATPP_SettingsAllowAutoRepaintPrisoned>
+  <ATPP_SettingsMaxAndroidByPortableLWPN>Număr maxim de androizi per emițător LWPN portabil (Power++) ({0})</ATPP_SettingsMaxAndroidByPortableLWPN>
+  <ATPP_SettingsAllowT5ToWearClothes>Permite unităților T5 să poarte haine</ATPP_SettingsAllowT5ToWearClothes>
+  <ATPP_SettingsChanceCreatedAndroidsAreMale>Șansa ca androizii creați să fie modele masculine ({0}%)</ATPP_SettingsChanceCreatedAndroidsAreMale>
+  <ATPP_SettingsHideAbilityToForceEatingLivingPlants>Ascunde meniul contextual care permite forțarea consumului de plante vii</ATPP_SettingsHideAbilityToForceEatingLivingPlants>
+  <ATPP_SettingsPassionCost>Puncte de abilitate necesare pentru creșterea pasiunii ({0})</ATPP_SettingsPassionCost>
+  <ATPP_SettingsVX0KeepBodyBackstory>Păstrează povestea de fundal a marionetei (VX0)</ATPP_SettingsVX0KeepBodyBackstory>
+  <ATPP_SettingsAllowSurrogateConnectionInitMalus>Permite penalizarea la inițializarea conexiunii surogatului</ATPP_SettingsAllowSurrogateConnectionInitMalus>
+  <ATPP_SettingsAllowAndroidsToUseHospitalBeds>Permite androizilor să folosească paturi de spital</ATPP_SettingsAllowAndroidsToUseHospitalBeds>
+  <ATPP_SettingsPercentageOfOtherFactionSurrogateHavingAnRXChip>Procent de șansă ca surogații altor facțiuni să aibă un cip RX ({0}%)</ATPP_SettingsPercentageOfOtherFactionSurrogateHavingAnRXChip>
+  <ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>Șansa ca un controlor de surogat recrutat să se alăture facțiunii tale fără a fi arestat ({0}%)</ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>
+  <ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>Număr minim de ore înainte ca unitatea M8 răpită să fie deconectată de la SkyMind ({0}h)</ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>
+  <ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>Număr maxim de ore înainte ca unitatea M8 răpită să fie deconectată de la SkyMind ({0}h)</ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>
+  <ATPP_SettingsAndroidOverloadBatteryProrata>Puterea exploziei este proporțională cu nivelul bateriei</ATPP_SettingsAndroidOverloadBatteryProrata>
+  <ATPP_SettingsAndroidOverloadRadius>Rază de explozie a androidului ({0})</ATPP_SettingsAndroidOverloadRadius>
+  <ATPP_SettingsM7OverloadRadius>Rază de explozie a unității M7 ({0})</ATPP_SettingsM7OverloadRadius>
+  <ATPP_SettingsAndroidOverloadExplosionType>Tip de explozie</ATPP_SettingsAndroidOverloadExplosionType>
+  <ATPP_SettingsAndroidOverloadExplosionTypeDefault>Fragmentare</ATPP_SettingsAndroidOverloadExplosionTypeDefault>
+  <ATPP_SettingsAndroidOverloadExplosionTypeFire>Incendiar</ATPP_SettingsAndroidOverloadExplosionTypeFire>
+  <ATPP_SettingsSetT1ResearchToIndustrialTechLevel>Schimbă cercetarea T1 la nivelul tehnologic industrial în loc de spacer</ATPP_SettingsSetT1ResearchToIndustrialTechLevel>
+  <ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>La duplicarea minții, abilitățile de rol unic sunt transferate la mintea de destinație</ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>
+
+</LanguageData>

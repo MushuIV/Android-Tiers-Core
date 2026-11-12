@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <NeedMechanic>Este nevoie de mecanic</NeedMechanic>
+  <NeedMechanicDesc>Acești androizi au nevoie de reparații, dar nu ai niciun colonist sănătos desemnat ca mecanic.\n\n{0}\nDesemnează un colonist sănătos pentru tipul de muncă Mecanic. Dacă sunt lăsate netratate, daunele s-ar putea să nu se repare niciodată corespunzător și pot deveni permanente.</NeedMechanicDesc>
+  
+</LanguageData>

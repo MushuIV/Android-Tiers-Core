@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<AndroidFactionGreetingHostileI>Automaattiviesti käynnistyy ja vaatii hyvän tahdon osoitusta, ehdottaen esimerkiksi lahjojen tuomista johonkin {0_possessive} asutuksista tai {0_possessive} ryhmittymän vankien vapauttamista vahingoittumattomina. Siihen asti {0} ei suostu keskustelemaan.</AndroidFactionGreetingHostileI>
+	<AndroidFactionGreetingHostileII>{0} vertaa siirtokuntasi raakalaismaisuutta heimoihin ja toteaa, että jos haluat parantaa tapojasi, voit tuoda lahjoja johonkin {0_possessive} asutuksista tai vapauttaa {0_possessive} ryhmittymän vangit vahingoittumattomina.</AndroidFactionGreetingHostileII>
+	<AndroidFactionGreetingHostileIII>{0} kutsuu teitä kylmiksi, hirviömäisiksi olennoiksi ennen kuin katkaisee yhteyden nopeasti.</AndroidFactionGreetingHostileIII>
+	
+	<AndroidFactionGreetingWaryI>Kohteen {0} syvä mekaaninen ääni tervehtii neuvottelijaa {NEGOTIATOR_labelShort} ja kysyy, mitä asioita haluatte hoitaa.</AndroidFactionGreetingWaryI>
+	<AndroidFactionGreetingWaryII>Automaattiviesti käynnistyy ja kysyy neuvottelijalta {NEGOTIATOR_labelShort}, mitä asiaa heillä on.</AndroidFactionGreetingWaryII>
+	<AndroidFactionGreetingWaryIII>{0} avaa yhteyden neuvottelijalle {NEGOTIATOR_labelShort} varovaisesti ja kysyy, mistä asioista haluatte puhua.</AndroidFactionGreetingWaryIII>
+	
+	<AndroidFactionGreetingWarmI>{0} tervehtii lämpimästi neuvottelijaa {NEGOTIATOR_labelShort} ja kysyy, miten voi olla avuksi.</AndroidFactionGreetingWarmI>
+	<AndroidFactionGreetingWarmII>Neuvottelijaa {NEGOTIATOR_labelShort} tervehditään ystävällisin sanoin yhteyden avautuessa, ja {0} kysyy, mitä voisi tehdä liittolaisensa hyväksi.</AndroidFactionGreetingWarmII>
+	<AndroidFactionGreetingWarmIII>{0} toivottaa neuvottelijan {NEGOTIATOR_labelShort} tervetulleeksi avosylin ja kysyy, mitä voi tehdä hyväksenne.</AndroidFactionGreetingWarmIII>
+	
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<AndroidFactionGreetingHostileI>En automatiseret besked afspilles, som kræver, at du gør en gestus af god vilje, og giver eksempler såsom; at bringe gaver til en af {0_possessive} bosættelser eller løslade {0_possessive} fraktions fanger uskadte. Indtil da er {0} uvillig til at tale.</AndroidFactionGreetingHostileI>
+	<AndroidFactionGreetingHostileII>{0} sammenligner din koloni med stammerne i din vildskab og erklærer, at hvis du ønsker at forbedre dig, kan du bringe gaver til en af {0_possessive} bosættelser eller løslade {0_possessive} fraktions fanger uskadte.</AndroidFactionGreetingHostileII>
+	<AndroidFactionGreetingHostileIII>{0} kalder jer kolde, monstrøse væsener, før forbindelsen hurtigt afbrydes.</AndroidFactionGreetingHostileIII>
+	
+	<AndroidFactionGreetingWaryI>Den dybe mekaniske stemme fra {0} hilser {NEGOTIATOR_labelShort} og spørger, hvilke ærinder du ønsker at håndtere.</AndroidFactionGreetingWaryI>
+	<AndroidFactionGreetingWaryII>En automatiseret besked starter og spørger {NEGOTIATOR_labelShort}, hvilke ærinder de har.</AndroidFactionGreetingWaryII>
+	<AndroidFactionGreetingWaryIII>{0} åbner forsigtigt for kommunikationen med {NEGOTIATOR_labelShort} og spørger, hvilke ærinder du ønsker at tale om.</AndroidFactionGreetingWaryIII>
+	
+	<AndroidFactionGreetingWarmI>{0} hilser varmt på {NEGOTIATOR_labelShort} og spørger, hvad de kan gøre for at hjælpe dig.</AndroidFactionGreetingWarmI>
+	<AndroidFactionGreetingWarmII>{NEGOTIATOR_labelShort} mødes med venlige ord, da forbindelsen åbnes, mens {0} spørger, hvad de kan gøre for en allieret.</AndroidFactionGreetingWarmII>
+	<AndroidFactionGreetingWarmIII>{0} hilser på {NEGOTIATOR_labelShort} med åbne arme og spørger, hvad de kan gøre for dig.</AndroidFactionGreetingWarmIII>
+	
+</LanguageData>

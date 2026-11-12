@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<AndroidFactionGreetingHostileI>Se redă un mesaj automatizat, cerându-vă să faceți un gest de bunăvoință, oferind exemple precum: aducerea de daruri la una dintre așezările {0_possessive} sau eliberarea nevătămată a prizonierilor facțiunii {0_possessive}. Până atunci, {0} refuză să vorbească.</AndroidFactionGreetingHostileI>
+	<AndroidFactionGreetingHostileII>{0} compară colonia voastră cu triburile în ceea ce privește sălbăticia, declarând că, dacă doriți să vă îndreptați, puteți aduce daruri la una dintre așezările {0_possessive} sau să eliberați nevătămați prizonierii facțiunii {0_possessive}.</AndroidFactionGreetingHostileII>
+	<AndroidFactionGreetingHostileIII>{0} vă numește ființe reci și monstruoase înainte de a întrerupe rapid toate comunicațiile.</AndroidFactionGreetingHostileIII>
+	
+	<AndroidFactionGreetingWaryI>Vocea mecanică și profundă a lui {0} îl salută pe {NEGOTIATOR_labelShort}, întrebând ce afaceri doriți să rezolvați.</AndroidFactionGreetingWaryI>
+	<AndroidFactionGreetingWaryII>Începe un mesaj automatizat, întrebându-l pe {NEGOTIATOR_labelShort} ce treburi are.</AndroidFactionGreetingWaryII>
+	<AndroidFactionGreetingWaryIII>{0} deschide prudent comunicațiile cu {NEGOTIATOR_labelShort}, întrebând despre ce afaceri doriți să discutați.</AndroidFactionGreetingWaryIII>
+	
+	<AndroidFactionGreetingWarmI>{0} îl salută cu căldură pe {NEGOTIATOR_labelShort}, întrebând ce poate face pentru a vă ajuta.</AndroidFactionGreetingWarmI>
+	<AndroidFactionGreetingWarmII>{NEGOTIATOR_labelShort} este întâmpinat cu vorbe calde la deschiderea comunicațiilor, {0} întrebând ce poate face pentru un tovarăș aliat.</AndroidFactionGreetingWarmII>
+	<AndroidFactionGreetingWarmIII>{0} îl salută pe {NEGOTIATOR_labelShort} cu brațele deschise, întrebând ce poate face pentru voi.</AndroidFactionGreetingWarmIII>
+	
+</LanguageData>

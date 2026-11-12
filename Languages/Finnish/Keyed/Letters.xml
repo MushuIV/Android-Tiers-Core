@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Atlas_FactionChange>{0} uudelleenohjelmoitiin onnistuneesti. He ovat nyt osa siirtokuntaa.</Atlas_FactionChange>
+	<LetterLabelAtlas_FactionChange>Uusi siirtolainen</LetterLabelAtlas_FactionChange>
+	
+	<Atlas_LossOfSelfWill>Kohteen {0} vapaa tahto on vaimennettu. Tämän seurauksena he eivät enää kykene vapaaseen ajatteluun tai tunteiden kokemiseen, eivätkä vuorovaikuta muiden siirtolaisten kanssa yhtä usein. Lisäksi he ovat menettäneet kaikki luonteenpiirteensä prosessin aikana, muuttuen pelkäksi kuuliaiseksi koneeksi.</Atlas_LossOfSelfWill>
+	<LetterLabelAtlas_LossOfSelfWill>Androidin vapaa tahto</LetterLabelAtlas_LossOfSelfWill>
+	
+	<Atlas_Mutation>{0} on mutatoitunut fraktaaliksi! Vääristyneen lihan pedoksi, jonka fraktaalipilleri aiheutti!</Atlas_Mutation>
+	<LetterLabelAtlas_Mutation>Siirtolaisen mutaatio</LetterLabelAtlas_Mutation>
+
+	<Atlas_TraitReroll>Kohteen {0} persoonallisuutta on muokattu ja heidän luonteenpiirteensä on arvottu uudelleen.</Atlas_TraitReroll>
+	<LetterLabelAtlas_TraitReroll>Androidin persoonallisuuden muutos</LetterLabelAtlas_TraitReroll>
+	
+</LanguageData>

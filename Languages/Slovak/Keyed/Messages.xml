@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MessageMedicalOperationFailureMinorAndroid>{0} sa dopustil drobnej chyby pri práci na {1}.</MessageMedicalOperationFailureMinorAndroid>
+	<MessageMedicalOperationFailureCatastrophicAndroid>{0} katastrofálne zlyhal pri práci na {1}.</MessageMedicalOperationFailureCatastrophicAndroid>
+	<MessageMedicalOperationFailureRidiculousAndroid>{0} zlyhal komickým spôsobom pri práci na {1}.</MessageMedicalOperationFailureRidiculousAndroid>
+	<MessageMedicalOperationFailureFatalAndroid>{0} sa dopustil fatálnej chyby pri práci na {1} kvôli osobitným komplikáciám: {2}</MessageMedicalOperationFailureFatalAndroid>
+	
+</LanguageData>

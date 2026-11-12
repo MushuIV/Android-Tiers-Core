@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<AndroidFactionGreetingHostileI>Ένα αυτοματοποιημένο μήνυμα αναπαράγεται, απαιτώντας να κάνετε μια κίνηση καλής θέλησης, όπως να φέρετε δώρα σε έναν από τους οικισμούς του {0_possessive} ή να απελευθερώσετε σώους τους αιχμαλώτους της παράταξης {0_possessive}. Μέχρι τότε, το {0} δεν είναι διατεθειμένο να μιλήσει.</AndroidFactionGreetingHostileI>
+	<AndroidFactionGreetingHostileII>Το {0} συγκρίνει την αποικία σας με άγριες φυλές ως προς τη βαναυσότητα, δηλώνοντας ότι εάν θέλετε να βελτιωθείτε μπορείτε να φέρετε δώρα σε έναν από τους οικισμούς του {0_possessive} ή να απελευθερώσετε αβλαβείς τους αιχμαλώτους της παράταξης {0_possessive}.</AndroidFactionGreetingHostileII>
+	<AndroidFactionGreetingHostileIII>Το {0} σας αποκαλεί ψυχρά, τερατώδη όντα προτού διακόψει απότομα κάθε επικοινωνία.</AndroidFactionGreetingHostileIII>
+	
+	<AndroidFactionGreetingWaryI>Η βαθιά μηχανική φωνή του {0} χαιρετά τον/την {NEGOTIATOR_labelShort}, ρωτώντας ποια υπόθεση θέλετε να διευθετήσετε.</AndroidFactionGreetingWaryI>
+	<AndroidFactionGreetingWaryII>Ένα αυτοματοποιημένο μήνυμα ξεκινά, ρωτώντας τον/την {NEGOTIATOR_labelShort} ποια υπόθεση έχει.</AndroidFactionGreetingWaryII>
+	<AndroidFactionGreetingWaryIII>Το {0} ανοίγει επιφυλακτικά τις επικοινωνίες προς τον/την {NEGOTIATOR_labelShort}, ρωτώντας για ποια υπόθεση επιθυμείτε να μιλήσετε.</AndroidFactionGreetingWaryIII>
+	
+	<AndroidFactionGreetingWarmI>Το {0} χαιρετά θερμά τον/την {NEGOTIATOR_labelShort}, ρωτώντας τι μπορεί να κάνει για να σας βοηθήσει.</AndroidFactionGreetingWarmI>
+	<AndroidFactionGreetingWarmII>Ο/Η {NEGOTIATOR_labelShort} συναντά θερμά λόγια καθώς ανοίγουν οι επικοινωνίες, με το {0} να ρωτά τι μπορεί να κάνει για έναν σύμμαχο.</AndroidFactionGreetingWarmII>
+	<AndroidFactionGreetingWarmIII>Το {0} υποδέχεται τον/την {NEGOTIATOR_labelShort} με ανοιχτές αγκάλες, ρωτώντας τι μπορεί να κάνει για εσάς.</AndroidFactionGreetingWarmIII>
+	
+</LanguageData>

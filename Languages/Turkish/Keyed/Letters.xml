@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Atlas_FactionChange>{0} başarıyla yeniden programlandı. Artık koloninin bir parçası.</Atlas_FactionChange>
+	<LetterLabelAtlas_FactionChange>Yeni Kolonist</LetterLabelAtlas_FactionChange>
+	
+	<Atlas_LossOfSelfWill>{0} adlı birimin özgür iradesi bastırıldı. Bu nedenle artık özgürce düşünemez veya duygu hissedemez ve diğer kolonistlerle eskisi kadar sık etkileşime girmez. Buna ek olarak: işlem sırasında tüm özelliklerini kaybetti. Bu durum onu itaatkâr bir makineden farksız hale getirdi.</Atlas_LossOfSelfWill>
+	<LetterLabelAtlas_LossOfSelfWill>Android Özgür İradesi</LetterLabelAtlas_LossOfSelfWill>
+	
+	<Atlas_Mutation>{0} bir fraktala dönüştü. Fraktal hapının neden olduğu, bükülmüş etten bir canavar!</Atlas_Mutation>
+	<LetterLabelAtlas_Mutation>Kolonist Mutasyonu</LetterLabelAtlas_Mutation>
+
+	<Atlas_TraitReroll>{0} adlı birimin kişiliği değiştirildi ve özellikleri yeniden belirlendi.</Atlas_TraitReroll>
+	<LetterLabelAtlas_TraitReroll>Android Kişilik Değişimi</LetterLabelAtlas_TraitReroll>
+	
+</LanguageData>

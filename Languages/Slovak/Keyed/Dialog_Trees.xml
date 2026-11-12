@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<AndroidFactionGreetingHostileI>Prehrá sa automatická správa požadujúca gesto dobrej vôle, pričom uvádza príklady ako: prinesenie darov do jednej z {0_possessive} osád alebo prepustenie väzňov {0_possessive} frakcie bez ujmy na zdraví. Do tej doby nie je {0} ochotný hovoriť.</AndroidFactionGreetingHostileI>
+	<AndroidFactionGreetingHostileII>{0} prirovnáva vašu kolóniu v jej divokosti ku kmeňom a vyhlasuje, že ak sa chcete polepšiť, môžete priniesť dary do jednej z {0_possessive} osád alebo bez ujmy na zdraví prepustiť zajatcov {0_possessive} frakcie.</AndroidFactionGreetingHostileII>
+	<AndroidFactionGreetingHostileIII>{0} vás nazve chladnými, netvornými bytosťami a potom rýchlo preruší všetku komunikáciu.</AndroidFactionGreetingHostileIII>
+	
+	<AndroidFactionGreetingWaryI>Hlboký mechanický hlas ({0}) pozdraví {NEGOTIATOR_labelShort} a spýta sa, aké záležitosti chcete vybaviť.</AndroidFactionGreetingWaryI>
+	<AndroidFactionGreetingWaryII>Spustí sa automatická správa s otázkou na {NEGOTIATOR_labelShort}, akú záležitosť si prajú vybaviť.</AndroidFactionGreetingWaryII>
+	<AndroidFactionGreetingWaryIII>{0} obozretne nadviaže spojenie s {NEGOTIATOR_labelShort} a spýta sa, o akej záležitosti si prajete hovoriť.</AndroidFactionGreetingWaryIII>
+	
+	<AndroidFactionGreetingWarmI>{0} vrúcne pozdraví {NEGOTIATOR_labelShort} a spýta sa, čo môže urobiť, aby vám pomohol.</AndroidFactionGreetingWarmI>
+	<AndroidFactionGreetingWarmII>Po nadviazaní spojenia je {NEGOTIATOR_labelShort} privítaný láskavými slovami; {0} sa pýta, čo môže urobiť pre spriateleného spojenca.</AndroidFactionGreetingWarmII>
+	<AndroidFactionGreetingWarmIII>{0} víta {NEGOTIATOR_labelShort} s otvorenou náručou a pýta sa, čo pre vás môže urobiť.</AndroidFactionGreetingWarmIII>
+	
+</LanguageData>

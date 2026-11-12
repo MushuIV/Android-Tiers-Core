@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Atlas_FactionChange>Το {0} επαναπρογραμματίστηκε επιτυχώς. Είναι πλέον μέλος της αποικίας.</Atlas_FactionChange>
+	<LetterLabelAtlas_FactionChange>Νέος άποικος</LetterLabelAtlas_FactionChange>
+	
+	<Atlas_LossOfSelfWill>Η ελεύθερη βούληση του {0} έχει αποδυναμωθεί. Ως εκ τούτου, είναι πλέον ανίκανο να σκεφτεί ελεύθερα ή να νιώσει συναισθήματα και δεν θα αλληλεπιδρά με άλλους αποίκους τόσο συχνά. Επιπλέον: έχασε όλα τα χαρακτηριστικά του κατά τη διαδικασία, καθιστώντας το τίποτα περισσότερο από μια υπάκουη μηχανή.</Atlas_LossOfSelfWill>
+	<LetterLabelAtlas_LossOfSelfWill>Ελεύθερη βούληση ανδροειδούς</LetterLabelAtlas_LossOfSelfWill>
+	
+	<Atlas_Mutation>Το {0} μεταλλάχθηκε σε φράκταλ. Ένα τέρας παραμορφωμένης σάρκας, εξαιτίας του χαπιού φράκταλ!</Atlas_Mutation>
+	<LetterLabelAtlas_Mutation>Μετάλλαξη αποίκου</LetterLabelAtlas_Mutation>
+
+	<Atlas_TraitReroll>Η προσωπικότητα του {0} τροποποιήθηκε και τα χαρακτηριστικά του ανανεώθηκαν.</Atlas_TraitReroll>
+	<LetterLabelAtlas_TraitReroll>Αλλαγή προσωπικότητας ανδροειδούς</LetterLabelAtlas_TraitReroll>
+	
+</LanguageData>

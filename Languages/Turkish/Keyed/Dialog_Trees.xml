@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<AndroidFactionGreetingHostileI>Otomatik bir mesaj çalıyor ve iyi niyet gösterisinde bulunmanızı talep ediyor; örneğin {0_possessive} yerleşim yerlerinden birine hediyeler getirmek veya {0_possessive} fraksiyonunun tutsaklarını zarar vermeden serbest bırakmak gibi. O zamana kadar {0} konuşmaya istekli değil.</AndroidFactionGreetingHostileI>
+	<AndroidFactionGreetingHostileII>{0}, vahşilik konusunda koloninizi kabilelerle karşılaştırıyor ve kendinizi geliştirmek istiyorsanız {0_possessive} yerleşim yerlerinden birine hediyeler getirebileceğinizi veya {0_possessive} fraksiyonunun tutsaklarını zarar vermeden serbest bırakabileceğinizi belirtiyor.</AndroidFactionGreetingHostileII>
+	<AndroidFactionGreetingHostileIII>{0}, tüm iletişimi hızla kesmeden önce size soğuk ve canavarca varlıklar diyor.</AndroidFactionGreetingHostileIII>
+	
+	<AndroidFactionGreetingWaryI>{0} adlı varlığın derin mekanik sesi {NEGOTIATOR_labelShort} kişisini selamlıyor ve hangi meseleyi halletmek istediğini soruyor.</AndroidFactionGreetingWaryI>
+	<AndroidFactionGreetingWaryII>Otomatik bir mesaj başlıyor ve {NEGOTIATOR_labelShort} kişisine ne işi olduğunu soruyor.</AndroidFactionGreetingWaryII>
+	<AndroidFactionGreetingWaryIII>{0}, {NEGOTIATOR_labelShort} ile temkinli bir şekilde iletişim kurarak hangi mesele hakkında konuşmak istediğini soruyor.</AndroidFactionGreetingWaryIII>
+	
+	<AndroidFactionGreetingWarmI>{0}, {NEGOTIATOR_labelShort} kişisini sıcak bir şekilde karşılıyor ve size yardım etmek için ne yapabileceğini soruyor.</AndroidFactionGreetingWarmI>
+	<AndroidFactionGreetingWarmII>İletişim kurulduğunda {NEGOTIATOR_labelShort} nazik sözlerle karşılanıyor; {0}, bir müttefik için ne yapabileceğini soruyor.</AndroidFactionGreetingWarmII>
+	<AndroidFactionGreetingWarmIII>{0}, {NEGOTIATOR_labelShort} kişisini kollarını açarak karşılıyor ve sizin için ne yapabileceğini soruyor.</AndroidFactionGreetingWarmIII>
+	
+</LanguageData>

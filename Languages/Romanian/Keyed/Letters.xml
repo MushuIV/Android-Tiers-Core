@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Atlas_FactionChange>{0} a fost reprogramat cu succes. Acum face parte din colonie.</Atlas_FactionChange>
+	<LetterLabelAtlas_FactionChange>Colonist nou</LetterLabelAtlas_FactionChange>
+	
+	<Atlas_LossOfSelfWill>Lui {0} i-a fost suprimată voința liberă. Ca urmare, acum este incapabil să gândească liber sau să simtă emoții și nu va mai interacționa la fel de des cu ceilalți coloniști. În plus: și-a pierdut toate trăsăturile în timpul procesului. Devenind nimic mai mult decât o mașină ascultătoare</Atlas_LossOfSelfWill>
+	<LetterLabelAtlas_LossOfSelfWill>Voință liberă a androidului</LetterLabelAtlas_LossOfSelfWill>
+	
+	<Atlas_Mutation>{0} a suferit o mutație într-un fractal. O bestie din carne contorsionată, provocată de pastila fractală!.</Atlas_Mutation>
+	<LetterLabelAtlas_Mutation>Mutație colonist</LetterLabelAtlas_Mutation>
+
+	<Atlas_TraitReroll>Personalitatea lui {0} a fost modificată, iar trăsăturile i-au fost regenerate.</Atlas_TraitReroll>
+	<LetterLabelAtlas_TraitReroll>Schimbare de personalitate a androidului</LetterLabelAtlas_TraitReroll>
+	
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Atlas_FactionChange>{0} blev omprogrammeret med succes. De er nu en del af kolonien.</Atlas_FactionChange>
+	<LetterLabelAtlas_FactionChange>Ny kolonist</LetterLabelAtlas_FactionChange>
+	
+	<Atlas_LossOfSelfWill>{0} har fået sin frie vilje dæmpet. Som følge heraf er de nu ude af stand til at tænke frit eller føle følelser og vil ikke interagere med andre kolonister så ofte. Derudover: de har mistet alle deres personlighedstræk under processen, hvilket gør dem til intet andet end en lydig maskine</Atlas_LossOfSelfWill>
+	<LetterLabelAtlas_LossOfSelfWill>Android fri vilje</LetterLabelAtlas_LossOfSelfWill>
+	
+	<Atlas_Mutation>{0} er muteret til en fraktal. Et bæst af forvredet kød forårsaget af fraktalpillen!.</Atlas_Mutation>
+	<LetterLabelAtlas_Mutation>Kolonistmutation</LetterLabelAtlas_Mutation>
+
+	<Atlas_TraitReroll>{0} har fået sin personlighed ændret, og deres personlighedstræk er blevet genrullet.</Atlas_TraitReroll>
+	<LetterLabelAtlas_TraitReroll>Android personlighedsændring</LetterLabelAtlas_TraitReroll>
+	
+</LanguageData>

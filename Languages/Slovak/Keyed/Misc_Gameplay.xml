@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Alerts -->
+	<ATPP_AlertHot3Devices>Prehriatie počítača</ATPP_AlertHot3Devices>
+	<ATPP_AlertHot3DevicesDesc>Jeden alebo viac vašich počítačov dosiahlo maximálnu teplotnú hranicu! Bezodkladne obnovte vhodnú teplotu!</ATPP_AlertHot3DevicesDesc>
+	<ATPP_AlertHot2Devices>Zahriaty počítač</ATPP_AlertHot2Devices>
+	<ATPP_AlertHot2DevicesDesc>Jeden alebo viac vašich počítačov je zahriatych, rýchlo znížte okolitú teplotu!</ATPP_AlertHot2DevicesDesc>
+	
+	<ATPP_AlertUnsecurisedClients>{0} nezabezpečených klientov SkyMind</ATPP_AlertUnsecurisedClients>
+	<ATPP_AlertUnsecurisedClientsDesc>Varovanie: máte potenciálne {0} klientov SkyMind, ktorí môžu byť napadnutí cez sieť. Postavte bezpečnostné servery, aby ste tomu zabránili.</ATPP_AlertUnsecurisedClientsDesc>
+	
+	<!-- Incidents -->
+	<ATPP_IncidentSurrogateHackingVirus>Vírus SX</ATPP_IncidentSurrogateHackingVirus>
+	<ATPP_IncidentSurrogateHackingCryptolocker>Cryptolocker SX</ATPP_IncidentSurrogateHackingCryptolocker>
+	<ATPP_IncidentSurrogateHackingExplosiveVirus>Výbušný vírus SX</ATPP_IncidentSurrogateHackingExplosiveVirus>
+	<ATPP_IncidentSurrogateHackingLiteDesc>Váš bezpečnostný systém neutralizoval časť útoku, avšak niektoré subsystémy {0} surogátov boli skompromitované.</ATPP_IncidentSurrogateHackingLiteDesc>
+	
+	<ATPP_IncidentSurrogateHackingHardDesc>Váš bezpečnostný systém nechráni celú vašu flotilu surogátnych androidov. Operačné systémy {0} androidov boli úplne skompromitované.</ATPP_IncidentSurrogateHackingHardDesc>	
+	<ATPP_IncidentVirusedDesc>Títo surogáti sú teraz plne pod kontrolou vírusu a začnú na vás útočiť!</ATPP_IncidentVirusedDesc>
+	<ATPP_IncidentVirusedExplosiveDesc>Títo surogáti sú teraz úplne pod kontrolou vírusu, zaútočia na vás a po skončení odpočítavania odpália svoju vnútornú batériu!</ATPP_IncidentVirusedExplosiveDesc>
+	<ATPP_IncidentCryptolockerDesc>Všetci infikovaní surogáti sú úplne nepoužiteľní. Toto je možné (dúfajme) zvrátiť zaplatením výkupného frakcii stojacej za útokom.</ATPP_IncidentCryptolockerDesc>
+	
+	<ATPP_IncidentDeviceHackingVirus>Vírus</ATPP_IncidentDeviceHackingVirus>
+	<ATPP_IncidentDeviceHackingCryptolocker>Cryptolocker</ATPP_IncidentDeviceHackingCryptolocker>
+	<ATPP_IncidentDeviceHackingExplosiveVirus>Výbušný vírus</ATPP_IncidentDeviceHackingExplosiveVirus>
+	<ATPP_IncidentDeviceHackingLiteDesc>Váš bezpečnostný systém neutralizoval časť útoku, avšak {0} pripojených zariadení bolo dočasne skompromitovaných.</ATPP_IncidentDeviceHackingLiteDesc>
+	
+	<ATPP_IncidentDeviceHackingHardDesc>Váš bezpečnostný systém nechráni všetky pripojené zariadenia. Operačné systémy {0} pripojených zariadení boli úplne skompromitované.</ATPP_IncidentDeviceHackingHardDesc>	
+	<ATPP_IncidentDeviceVirusedDesc>Tieto zariadenia sú teraz úplne pod kontrolou vírusu!</ATPP_IncidentDeviceVirusedDesc>
+	<ATPP_IncidentDeviceVirusedExplosiveDesc>Tieto zariadenia sú teraz úplne pod kontrolou vírusu a po uplynutí odpočítavania explodujú!</ATPP_IncidentDeviceVirusedExplosiveDesc>
+	<ATPP_IncidentDeviceCryptolockerDesc>Všetky infikované zariadenia sú úplne nepoužiteľné. Toto je možné (dúfajme) zvrátiť zaplatením výkupného frakcii stojacej za útokom.</ATPP_IncidentDeviceCryptolockerDesc>
+	
+	<ATPP_LetterFactionRansomware>Ransomware</ATPP_LetterFactionRansomware>
+	<ATPP_LetterFactionRansomwareSkillStolenDesc>Frakcia {0} poškodila oblasti pamäte zodpovedajúce za zručnosť '{1}' v mozgu {2} prostredníctvom siete SkyMind.</ATPP_LetterFactionRansomwareSkillStolenDesc>
+	<ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>Frakcia {0} infikovala mozok ({1}) a nahrala negatívnu črtu '{2}' prostredníctvom siete SkyMind.</ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>
+	
+	<!-- Needs -->
+	<ATPP_EnergyNeed>Energia</ATPP_EnergyNeed>
+	<ATPP_EnergyNeedDesc>Energia je množstvo energie, ktoré má android vo svojej vnútornej batérii. Ak klesne na nulu, android začne zlyhávať a nakoniec sa deaktivuje (zomrie).</ATPP_EnergyNeedDesc>
+	
+	
+	<!-- NanoKits -->
+	<ATPP_NanoKitsNoCare>Bez opráv</ATPP_NanoKitsNoCare>
+	<ATPP_NanoKitsNoKitJustVisit>Návšteva technika bez nanokitov</ATPP_NanoKitsNoKitJustVisit>
+	<ATPP_NanoKitsBasic>Základný nanokit</ATPP_NanoKitsBasic>
+	<ATPP_NanoKitsIntermediate>Stredný nanokit</ATPP_NanoKitsIntermediate>
+	<ATPP_NanoKitsAdvanced>Pokročilý nanokit</ATPP_NanoKitsAdvanced>
+	
+	<!-- CompInspectPane -->
+	<ATPP_UploadPercentage>Nahrávanie vedomia: {0}%</ATPP_UploadPercentage>
+	<ATPP_DownloadPercentage>Sťahovanie vedomia: {0}%</ATPP_DownloadPercentage>
+	
+	<ATPP_PermutationPercentage>Permutácia vedomia: {0}%</ATPP_PermutationPercentage>
+	<ATPP_DuplicationPercentage>Duplikácia vedomia: {0}%</ATPP_DuplicationPercentage>
+	<ATPP_UploadSkyCloudPercentage>Nahrávanie vedomia do SkyCloud: {0}%</ATPP_UploadSkyCloudPercentage>
+	<ATPP_DownloadFromSkyCloudPercentage>Sťahovanie vedomia zo SkyCloud: {0}%</ATPP_DownloadFromSkyCloudPercentage>
+	
+	<ATPP_SkyMindDetected>Pripojené k sieti SkyMind</ATPP_SkyMindDetected>
+	<ATPP_RemotelyControlledBy>Diaľkovo ovládané: {0}.</ATPP_RemotelyControlledBy>
+	<ATPP_RemotelyControl>Diaľkovo ovládať: {0}</ATPP_RemotelyControl>
+	
+	<ATPP_CompHotSensitiveHot3Text>Príliš vysoká teplota!</ATPP_CompHotSensitiveHot3Text>
+	<ATPP_CompHotSensitiveHot2Text>Varovanie: vysoká teplota</ATPP_CompHotSensitiveHot2Text>
+	<ATPP_CompHotSensitiveHot1Text>Mierne zvýšená teplota</ATPP_CompHotSensitiveHot1Text>
+	<ATPP_CompHotSensitiveHot0Text>Ideálna prevádzková teplota</ATPP_CompHotSensitiveHot0Text>
+	
+	<ATPP_CryptoLockedSurrogate>Zablokované vírusom cryptolocker, nepoužiteľné!</ATPP_CryptoLockedSurrogate>
+	<ATPP_ExplosiveVirus>Výbušný vírus: {0} sekúnd do explózie batérie!</ATPP_ExplosiveVirus>
+	<ATPP_TempHackingLosingControlIn>Strata kontroly o {0} sekúnd</ATPP_TempHackingLosingControlIn>
+	
+	<ATPP_BatteryLevel>Úroveň batérie: {0}%</ATPP_BatteryLevel>
+	<ATPP_TempInfection>Koniec infekcie o {0}</ATPP_TempInfection>
+	
+	<ATPP_SkyCloudCoreBooting>Spúšťanie servera (zostáva {0} sekúnd)</ATPP_SkyCloudCoreBooting>
+	
+	<ATPP_NaniteFrameworkRepairingInProgress>Prebieha oprava kostry: {0}%</ATPP_NaniteFrameworkRepairingInProgress>
+	<ATPP_VX3SurrogateTypePrimary>Primárny surogát</ATPP_VX3SurrogateTypePrimary>
+	<ATPP_VX3SurrogateTypeSecondary>Sekundárny surogát</ATPP_VX3SurrogateTypeSecondary>
+	
+	<ATPP_MindAbsorptionProgress>Prebieha pohlcovanie vedomia: {0}%</ATPP_MindAbsorptionProgress>
+	
+	<ATPP_Rusted>Zhrdzavený</ATPP_Rusted>
+	
+	<ATPP_BatteryExplodeInProgress>Explózia batérie: {0}%</ATPP_BatteryExplodeInProgress>
+	
+	<!-- AutoDoor -->
+	<ATPP_AutoDoorOpen>Otvoriť</ATPP_AutoDoorOpen>
+	<ATPP_AutoDoorOpenDescription>Otvoriť na diaľku prostredníctvom jadra SkyCloud.</ATPP_AutoDoorOpenDescription>
+	<ATPP_AutoDoorClose>Zatvoriť</ATPP_AutoDoorClose>
+	<ATPP_AutoDoorCloseDescription>Zatvoriť na diaľku prostredníctvom servera SkyCloud.</ATPP_AutoDoorCloseDescription>
+	<ATPP_AutoDoorOpenMoteText>Otváranie cez SkyCloud</ATPP_AutoDoorOpenMoteText>
+	<ATPP_AutoDoorCloseMoteText>Zatváranie cez SkyCloud</ATPP_AutoDoorCloseMoteText>
+	
+
+	<!-- AutoFlickering -->
+	<ATPP_FlickEnable>Zapnúť napájanie cez SkyCloud</ATPP_FlickEnable>
+	<ATPP_FlickDisable>Vypnúť napájanie cez SkyCloud</ATPP_FlickDisable>
+	
+	<!-- Letters -->
+	<ATPP_LetterSurrogateDisabled>Surogát {0} vyradený z prevádzky</ATPP_LetterSurrogateDisabled>
+	<ATPP_LetterSurrogateDisabledDesc>Surogát {0} už nie je funkčný v dôsledku násilného útoku na jeho fyzickú integritu.</ATPP_LetterSurrogateDisabledDesc>
+	
+	<ATPP_LetterUploadOK>Nahrávanie dokončené</ATPP_LetterUploadOK>
+	<ATPP_LetterUploadOKDesc>Nahrávanie vedomia {0} bolo dokončené a vedomie bolo prenesené do umelého mozgu {1}. Pôvodné vedomie {1} bolo zničené (smrť).</ATPP_LetterUploadOKDesc>
+	
+	<ATPP_LetterPermuteOK>Permutácia dokončená</ATPP_LetterPermuteOK>
+	<ATPP_LetterPermuteOKDesc>Permutácia vedomia je dokončená, {0} a {1} si vymenili telá.</ATPP_LetterPermuteOKDesc>
+	
+	<ATPP_LetterDuplicateOK>Duplikácia dokončená</ATPP_LetterDuplicateOK>
+	<ATPP_LetterDuplicateOKDesc>Duplikácia vedomia bola dokončená. Mozog {1} teraz obsahuje duplikát vedomia {0}, pôvodné vedomie {1} možno považovať za mŕtve.</ATPP_LetterDuplicateOKDesc>
+	
+	<ATPP_LetterSkyCloudUploadOK>Nahrávanie do SkyCloud dokončené</ATPP_LetterSkyCloudUploadOK>
+	<ATPP_LetterSkyCloudUploadOKDesc>Nahrávanie vedomia do SkyCloud bolo dokončené, vedomie {0} je teraz uložené v centrálnej pamäti {1}.</ATPP_LetterSkyCloudUploadOKDesc>
+	
+	<ATPP_LetterSkyCloudReplicateOK>Replikácia dokončená</ATPP_LetterSkyCloudReplicateOK>
+	<ATPP_LetterSkyCloudReplicateOKDesc>Replikácia neurónovej siete {0} v pamäti {1} je dokončená.</ATPP_LetterSkyCloudReplicateOKDesc>
+	
+	<ATPP_LetterSkyCloudDownloadOK>Stiahnutie zo SkyCloud dokončené</ATPP_LetterSkyCloudDownloadOK>
+	<ATPP_LetterSkyCloudDownloadOKDesc>Stiahnutie vedomia zo SkyCloud je dokončené, vedomie {0} je teraz uložené v centrálnej pamäti {1}.</ATPP_LetterSkyCloudDownloadOKDesc>
+	
+	<ATPP_LetterSkyCloudMigrateOK>Migrácia vedomia SkyCloud dokončená</ATPP_LetterSkyCloudMigrateOK>
+	<ATPP_LetterSkyCloudMigrateOKDesc>Migrácia vedomia {0} z {1} do {2} je teraz dokončená.</ATPP_LetterSkyCloudMigrateOKDesc>
+	
+	<ATPP_LetterInterruptedUpload>Nahrávanie zlyhalo</ATPP_LetterInterruptedUpload>
+	<ATPP_LetterInterruptedUploadDesc>Kritická chyba: Prenos vedomia bol prerušený, čo viedlo k nezvratnému poškodeniu oboch mozgov (smrť).{0}</ATPP_LetterInterruptedUploadDesc>
+	<ATPP_LetterInterruptedUploadDescCompHostDead>Smrť hostiteľa príjemcu</ATPP_LetterInterruptedUploadDescCompHostDead>
+	<ATPP_LetterInterruptedUploadDescCompSourceDead>Smrť vysielača vedomia</ATPP_LetterInterruptedUploadDescCompSourceDead>
+	<ATPP_LetterInterruptedUploadDescCompRandomError>Došlo k neznámej chybe</ATPP_LetterInterruptedUploadDescCompRandomError>
+	<ATPP_LetterInterruptedUploadDescCompDiconnectionError>Jeden alebo obaja kolonisti už nie sú pripojení k sieti SkyMind.</ATPP_LetterInterruptedUploadDescCompDiconnectionError>
+	
+	<ATPP_LetterFactionScam>Podvod</ATPP_LetterFactionScam>
+	<ATPP_LetterFactionScamCryptolockerDesc>Frakcia {0} sa rozhodla neodstrániť vírus cryptolocker, ktorý zamoril vašu kolóniu. Boli ste podvedení...</ATPP_LetterFactionScamCryptolockerDesc>
+	<ATPP_LetterFactionScamRansomwareDesc>Frakcia {0} sa rozhodla nezrušiť účinok svojho ransomwaru. Boli ste podvedení...</ATPP_LetterFactionScamRansomwareDesc>
+	
+	
+	<ATPP_CryptolockerNeedPayRansomTitle>Výkupné za Cryptolocker</ATPP_CryptolockerNeedPayRansomTitle>
+	<ATPP_CryptolockerNeedPayRansom>Frakcia {0} vás kontaktuje vysielačkou. Stojí za útokom vírusom cryptolocker a ponúka odstránenie vírusu výmenou za {1} striebra.</ATPP_CryptolockerNeedPayRansom>
+	
+	<ATPP_RansomNeedPayRansomTitle>Výkupné za Ransomware</ATPP_RansomNeedPayRansomTitle>
+	<ATPP_RansomNeedPayRansomCorruptedSKill>Frakcia {0} vás kontaktuje vysielačkou. Stojí za útokom ransomwaru a ponúka obnovenie poškodenej zručnosti '{1}' kolonistu {2} výmenou za {3} striebra.</ATPP_RansomNeedPayRansomCorruptedSKill>
+	<ATPP_RansomNeedPayRansomDownloadedTrait>Frakcia {0} vás kontaktuje vysielačkou. Stojí za útokom ransomwaru a ponúka odstránenie nahranej negatívnej črty '{1}' kolonistu {2} výmenou za {3} striebra.</ATPP_RansomNeedPayRansomDownloadedTrait>
+	
+	<ATPP_ComptHeatSensitiveComputerMeltTitle>Prehriatie servera</ATPP_ComptHeatSensitiveComputerMeltTitle>
+    <ATPP_ComptHeatSensitiveComputerMeltDesc>Server explodoval v dôsledku príliš vysokej prevádzkovej teploty!</ATPP_ComptHeatSensitiveComputerMeltDesc>
+	
+	<ATPP_destroyedMindsDueToDestroyedSkyCloudCore>Strata {0} vedomí</ATPP_destroyedMindsDueToDestroyedSkyCloudCore>
+	<ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>V dôsledku zničenia jadra SkyCloud {0} bolo stratených všetkých {1} vedomí uložených v jeho centrálnej pamäti.</ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>
+	
+	<ATPP_LetterHackingPointsRemoved>Strata hackerských bodov</ATPP_LetterHackingPointsRemoved>
+	<ATPP_LetterHackingPointsRemovedDesc>Všetky hackerské servery vo vašich osadách sú offline, čo znamená, že bolo stratených {0} bodov, pretože ich už nemožno uložiť na žiadne médium!</ATPP_LetterHackingPointsRemovedDesc>
+	
+	<ATPP_LetterSkillPointsRemoved>Strata bodov zručností</ATPP_LetterSkillPointsRemoved>
+	<ATPP_LetterSkillPointsRemovedDesc>Všetky servery zručností vo vašich osadách sú offline, čo znamená, že bolo stratených {0} bodov, pretože ich už nemožno uložiť na žiadne médium!</ATPP_LetterSkillPointsRemovedDesc>
+	
+	<ATPP_SkyCloudCoreBooted>Server {0} spustený</ATPP_SkyCloudCoreBooted>
+    <ATPP_SkyCloudCoreBootedDesc>Server SkyCloud {0} bol úspešne spustený a je možné ho teraz používať.</ATPP_SkyCloudCoreBootedDesc>
+	
+	<ATPP_LetterInterruptedSkyCloudReplication>Replikácia zlyhala</ATPP_LetterInterruptedSkyCloudReplication>
+	<ATPP_LetterInterruptedSkyCloudReplicationDesc>Replikácia vedomia {0} zlyhala, pretože hostiteľské jadro SkyCloud je offline.</ATPP_LetterInterruptedSkyCloudReplicationDesc>
+	
+	<ATPP_LetterInterruptedSkyCloudMigration>Migrácia zlyhala</ATPP_LetterInterruptedSkyCloudMigration>
+	<ATPP_LetterInterruptedSkyCloudMigrationDesc>Migrácia vedomia {0} zlyhala, pretože cieľové jadro SkyCloud je offline.</ATPP_LetterInterruptedSkyCloudMigrationDesc>
+	
+	<ATPP_LetterTraitorOffline>Zradca odpojený</ATPP_LetterTraitorOffline>
+	<ATPP_LetterTraitorOfflineDesc>{0} zradil svoju frakciu tým, že sa nechal vami naverbovať. Frakcia si to všimla a zatkla ho (bol preto odpojený od surogáta, ktorého ovládal).</ATPP_LetterTraitorOfflineDesc>
+	
+	<ATPP_LetterInterruptedMindAbsorption>Pohltenie vedomia zlyhalo</ATPP_LetterInterruptedMindAbsorption>
+	<ATPP_LetterInterruptedMindAbsorptionDesc>Pohltenie vedomia {0} zlyhalo buď kvôli odpojeniu od SkyMind, alebo preto, že žiadny bodový server nie je prevádzkyschopný.</ATPP_LetterInterruptedMindAbsorptionDesc>
+	
+	<ATPP_MindAbsorptionDone>Pohltenie vedomia dokončené</ATPP_MindAbsorptionDone>
+	<ATPP_MindAbsorptionDoneDesc>Pohltenie vedomia {0} dokončené, získaných {1} bodov zručností.</ATPP_MindAbsorptionDoneDesc>
+	
+	<ATPP_LetterExternalSurrogateEscape>Útek operátora surogáta</ATPP_LetterExternalSurrogateEscape>
+	<ATPP_LetterExternalSurrogateEscapeDesc>{0}, operátor surogáta, ktorého sa snažíte naverbovať, sa rozhodol pripojiť k vašej kolónii. Odpojí sa od svojho surogáta a tajne utečie z nepriateľskej základne, aby dorazil do vašej kolónie v priebehu niekoľkých dní.</ATPP_LetterExternalSurrogateEscapeDesc>
+	
+	<ATPP_LetterExternalSurrogateControllerJoin>Bývalý väzeň sa pripojil</ATPP_LetterExternalSurrogateControllerJoin>
+	<ATPP_LetterExternalSurrogateControllerJoinDesc>{0}, operátor surogáta, ktorého ste uväznili a úspešne presvedčili, práve dorazil do vašej kolónie a pridal sa k vám.</ATPP_LetterExternalSurrogateControllerJoinDesc>
+	
+	<ATPP_LetterExternalSurrogateControllerCannotJoin>Bývalému väzňovi sa nepodarilo doraziť</ATPP_LetterExternalSurrogateControllerCannotJoin>
+	<ATPP_LetterExternalSurrogateControllerCannotJoinDesc>{0}, operátor surogáta, ktorého ste uväznili a úspešne presvedčili, sa pokúsil doraziť do vašej kolónie, ale z neznámych dôvodov neuspel a odišiel.</ATPP_LetterExternalSurrogateControllerCannotJoinDesc>
+	
+	<ATPP_LetterExternalSurrogateDisconnect>Odpojenie operátora</ATPP_LetterExternalSurrogateDisconnect>
+	<ATPP_LetterExternalSurrogateDisconnectDesc>{0}, operátor surogáta, ktorého ste sa pokúsili zotročiť, sa odpojil, pretože on aj jeho frakcia majú pocit, že už z vašej kolónie nezískajú žiadne informácie a zotrvávať ako otrok by bola strata času.</ATPP_LetterExternalSurrogateDisconnectDesc>
+	
+	<ATPP_LetterKidnappedM8Disconnected>Odpojenie M8</ATPP_LetterKidnappedM8Disconnected>
+	<ATPP_LetterKidnappedM8DisconnectedDesc>Únoscovia vášho M8 ({0} hostiaci {1}) nakoniec získali prístup k jeho komunikačným obvodom. Keď zistili, že stroj naďalej komunikuje cez integrovanú anténu SkyMind, odpojili ju. Už sa teda nebudete môcť prihlásiť k {1}.</ATPP_LetterKidnappedM8DisconnectedDesc>
+	
+	<!-- Designators -->
+	<ATPP_DesignatorNeedSelectSX>Chyba: Musíte vybrať platné zariadenie pripojené k sieti SkyMind!</ATPP_DesignatorNeedSelectSX>
+	<ATPP_DesignatorNeedSelectSXToHack>Chyba: Musíte vybrať androida-surogáta ovládaného inou frakciou ako vašou!</ATPP_DesignatorNeedSelectSXToHack>
+	
+	<!-- Comps -->
+	<ATPP_SkyMindConn>Pripojiť k sieti SkyMind</ATPP_SkyMindConn>
+	<ATPP_SkyMindConnDesc>Pripojiť tohto kolonistu k sieti SkyMind, čo umožní nahrávanie/permutáciu/duplikáciu vedomia alebo diaľkové ovládanie androidov radu SX a biologických surogátov.</ATPP_SkyMindConnDesc>
+	<ATPP_SkyMindAutoConn>Automatické pripojenie</ATPP_SkyMindAutoConn>
+	<ATPP_SkyMindAutoConnDesc>Po odpojení od siete SkyMind sa toto zariadenie pokúsi automaticky znova pripojiť, hneď ako budú k dispozícii voľné sloty.</ATPP_SkyMindAutoConnDesc>
+	<ATPP_Duplicate>Duplikovať</ATPP_Duplicate>
+	<ATPP_DuplicateDesc>Zduplikovať vedomie aktuálne vybraného kolonistu do iného tela.</ATPP_DuplicateDesc>
+	<ATPP_Permute>Permutovať</ATPP_Permute>
+	<ATPP_PermuteDesc>Vymeniť vedomie aktuálne vybraného kolonistu s iným.</ATPP_PermuteDesc>
+	<ATPP_EnableSurrogateControlMode>Ovládať</ATPP_EnableSurrogateControlMode>
+	<ATPP_EnableSurrogateControlModeDesc>Povoliť režim diaľkového ovládania, čo tomuto kolonistovi umožní ovládať androida radu SX alebo biologického surogáta.</ATPP_EnableSurrogateControlModeDesc>
+	<ATPP_AndroidToControlTargetDisconnect>Odpojiť</ATPP_AndroidToControlTargetDisconnect>
+	<ATPP_AndroidToControlTargetDisconnectDesc>Ukončiť existujúcu reláciu diaľkového ovládania.</ATPP_AndroidToControlTargetDisconnectDesc>
+	<ATPP_AndroidToControlTarget>Pripojiť</ATPP_AndroidToControlTarget>
+	<ATPP_AndroidToControlTargetDesc>Prevziať kontrolu nad vybraným uzlom.</ATPP_AndroidToControlTargetDesc>
+	<ATPP_ThisCurrentMap>Táto mapa</ATPP_ThisCurrentMap>
+	<ATPP_AndroidToControlTargetRecoverCaravan>Obnoviť</ATPP_AndroidToControlTargetRecoverCaravan>
+	<ATPP_AndroidToControlTargetRecoverCaravanDesc>Obnoviť odpojeného surogáta v karaváne.</ATPP_AndroidToControlTargetRecoverCaravanDesc>
+	<ATPP_FreeControllerInCaravan>Karavána</ATPP_FreeControllerInCaravan>
+	<ATPP_FreeControllerInCaravanDesc>Pripojiť tohto surogáta k voľnému operátorovi v karaváne.</ATPP_FreeControllerInCaravanDesc>
+	<ATPP_AndroidSurrogateReconnectToLastController>Znova pripojiť</ATPP_AndroidSurrogateReconnectToLastController>
+	<ATPP_AndroidSurrogateReconnectToLastControllerDesc>Znova pripojiť surogáta (ak je to možné) k poslednému používateľovi, ktorý ho používal.</ATPP_AndroidSurrogateReconnectToLastControllerDesc>
+	
+	
+	<ATPP_NoVX2Recipient>Žiadni dostupní kolonisti (musia mať v mozgu implantovaný čip VX2).</ATPP_NoVX2Recipient>
+	<ATPP_NoSkyCloudCoreAvailable>Žiadne jadro SkyCloud nie je k dispozícii.</ATPP_NoSkyCloudCoreAvailable>
+	<ATPP_ConsciousnessUploadNoRecipient>Žiadny príjemca nie je k dispozícii ako cieľ stiahnutia.</ATPP_ConsciousnessUploadNoRecipient>
+	<ATPP_ConsciousnessSelectDestination>Vyberte cieľového hostiteľa</ATPP_ConsciousnessSelectDestination>
+	<ATPP_UploadConsciousness>Nahrať</ATPP_UploadConsciousness>
+	<ATPP_UploadConsciousnessDesc>Nahrať vedomie z tohto androida do iného.</ATPP_UploadConsciousnessDesc>
+	
+	<ATPP_WarningSkyMindDisconnectionRisk>Varovanie: počas operácie nesmie dôjsť k odpojeniu od siete SkyMind, inak dôjde k poškodeniu ich mozgov a následnej smrti.</ATPP_WarningSkyMindDisconnectionRisk>
+	
+	<ATPP_UploadConsciousnessConfirm>Nahrať vedomie</ATPP_UploadConsciousnessConfirm>
+	<ATPP_UploadConsciousnessConfirmDesc>Potvrdením {0} nahrá svoje vedomie do tela {1}, čo zničí vedomie {1} (smrť) a telo {0} bude vyradené z prevádzky. Naozaj si prajete pokračovať?</ATPP_UploadConsciousnessConfirmDesc>
+	
+	<ATPP_PermuteConsciousnessConfirm>Permutácia vedomia</ATPP_PermuteConsciousnessConfirm>
+	<ATPP_PermuteConsciousnessConfirmDesc>Potvrdením si {0} vymení vedomie s {1} — vymenia si telá. Naozaj si prajete pokračovať?</ATPP_PermuteConsciousnessConfirmDesc>
+	
+	<ATPP_DuplicateConsciousnessConfirm>Duplikácia vedomia</ATPP_DuplicateConsciousnessConfirm>
+	<ATPP_DuplicateConsciousnessConfirmDesc>Potvrdením {0} zduplikuje svoje vedomie do mozgu {1}, čo zničí vedomie {1} (smrť). Naozaj si prajete pokračovať?</ATPP_DuplicateConsciousnessConfirmDesc>
+	
+	<ATPP_UseBattery>Používať batériu</ATPP_UseBattery>
+	<ATPP_UseBatteryDesc>Ak je povolené, nastaví androida na priame napájanie z vnútornej batérie namiesto generátora na biomasu.</ATPP_UseBatteryDesc>
+	
+	<ATPP_RepairAndroids>Opravovať androidov</ATPP_RepairAndroids>
+	<ATPP_RepairAndroidsDesc>Povoliť tomuto kolonistovi opravovať androidov.</ATPP_RepairAndroidsDesc>
+	
+	<ATPP_UploadVirus>Vírus</ATPP_UploadVirus>
+	<ATPP_UploadVirusDesc>Nahrať vírus do cieľového surogáta.</ATPP_UploadVirusDesc>
+	<ATPP_UploadExplosiveVirus>Výbušný vírus</ATPP_UploadExplosiveVirus>
+	<ATPP_UploadExplosiveVirusDesc>Nahrať vírus do cieľového surogáta, ktorý preťaží vnútornú batériu a spôsobí jej výbuch.</ATPP_UploadExplosiveVirusDesc>
+	<ATPP_Hack>Hacknúť</ATPP_Hack>
+	<ATPP_HackDesc>Hacknúť a prevziať trvalú kontrolu nad cieľovým surogátom.</ATPP_HackDesc>
+	<ATPP_HackTemp>Dočasný hack</ATPP_HackTemp>
+	<ATPP_HackTempDesc>Vykonať rýchly hack na prevzatie dočasnej kontroly nad cieľovým surogátom.</ATPP_HackTempDesc>
+	
+	<ATPP_MoveToSkyCloud>Nahrať do SkyCloud</ATPP_MoveToSkyCloud>
+	<ATPP_MoveToSkyCloudDesc>Táto operácia presunie vedomie hostiteľa do jadra SkyCloud, čo ho urobí takmer nesmrteľným, avšak zanechá jeho telo mŕtve.</ATPP_MoveToSkyCloudDesc>
+	<ATPP_MoveFromSkyCloud>Stiahnuť zo SkyCloud</ATPP_MoveFromSkyCloud>
+	<ATPP_MoveFromSkyCloudDesc>Táto operácia presunie vybrané vedomie uložené v jadre SkyCloud do mozgu hostiteľa.</ATPP_MoveFromSkyCloudDesc>
+	<ATPP_CentralCoreNbStoredMind>Uložené vedomia: {0}</ATPP_CentralCoreNbStoredMind>
+	<ATPP_CentralCoreNbAssistingMinds>Vedomia priradené k asistencii: {0}</ATPP_CentralCoreNbAssistingMinds>
+	
+	<ATPP_CentralCoreMigrationInProgress>Prebieha migrácia {0} do {1} ({2}%)</ATPP_CentralCoreMigrationInProgress>
+	<ATPP_CentralCoreProcessInMentalBreak>{0} nepoužiteľný: nervové zrútenie</ATPP_CentralCoreProcessInMentalBreak>
+	
+	<ATPP_CentralCoreReplicationInProgress>Prebieha replikácia vedomia {0} ({1}%)</ATPP_CentralCoreReplicationInProgress>
+	
+	<ATPP_SkyCloudFloatMenuMindsStoredSelect>Vyberte vedomie</ATPP_SkyCloudFloatMenuMindsStoredSelect>
+	<ATPP_ProcessInfo>Informácie</ATPP_ProcessInfo>
+	<ATPP_ProcessInfoDesc>Získať informácie o uložených vedomiach.</ATPP_ProcessInfoDesc>
+	<ATPP_ProcessRemove>Odstrániť</ATPP_ProcessRemove>
+	<ATPP_ProcessRemoveDesc>Odstrániť vedomie</ATPP_ProcessRemoveDesc>
+	<ATPP_ProcessRemoveDescConfirm>Potvrdením bude vedomie {0} úplne vymazané z pamäte {1} a bude považované za mŕtve!</ATPP_ProcessRemoveDescConfirm>
+	<ATPP_ProcessDuplicate>Replikovať</ATPP_ProcessDuplicate>
+	<ATPP_ProcessDuplicateDesc>Vytvoriť repliku vedomia.</ATPP_ProcessDuplicateDesc>
+	<ATPP_ProcessAssist>Asistovať</ATPP_ProcessAssist>
+	<ATPP_ProcessAssistDesc>Priradiť zo zoznamu uložené vedomia výhradne k asistencii vašim kolonistom pripojeným k sieti SkyMind; za každé takto priradené vedomie získajú globálny bonus k nálade.</ATPP_ProcessAssistDesc>
+	<ATPP_ProcessMigrate>Migrovať</ATPP_ProcessMigrate>
+	<ATPP_ProcessMigrateDesc>Presunúť vedomie z tohto jadra SkyCloud do iného</ATPP_ProcessMigrateDesc>
+	
+	<ATPP_ProcessAssistAssignedMinds>Odobrať asistenciu (odobrať)</ATPP_ProcessAssistAssignedMinds>
+	<ATPP_ProcessAssistUnassignedMinds>Priradiť asistenciu (pridať)</ATPP_ProcessAssistUnassignedMinds>
+	<ATPP_ProcessAssistAssignAll>Priradiť všetky nepriradené vedomia</ATPP_ProcessAssistAssignAll>
+	<ATPP_ProcessAssistUnassignAll>Odobrať všetky priradené vedomia</ATPP_ProcessAssistUnassignAll>
+	
+	<ATPP_ProcessDisconnectAllSurrogates>Odpojiť všetko</ATPP_ProcessDisconnectAllSurrogates>
+	
+	<ATPP_StopVirused>Zastaviť</ATPP_StopVirused>
+	<ATPP_StopVirusedDesc>Vypnúť tohto infikovaného surogáta</ATPP_StopVirusedDesc>
+	
+	<ATPP_PreviousSurrogateControllerIs>Predchádzajúci operátor bol {0}</ATPP_PreviousSurrogateControllerIs>
+	
+	<ATPP_Skills>Zručnosti</ATPP_Skills>
+	<ATPP_SkillsDesc>Otvoriť dielňu zručností, ktorá vám umožní previesť body zručností vygenerované vašimi servermi na ďalšie zručnosti pre vašich androidov</ATPP_SkillsDesc>
+	
+	<ATPP_MindAbsorption>Pohltenie vedomia</ATPP_MindAbsorption>
+	<ATPP_MindAbsorptionDesc>Pohltiť vedomie väzňa za účelom jeho premeny na body zručností (smrtiaci zákrok)</ATPP_MindAbsorptionDesc>
+	
+	<ATPP_MindAbsorptionConfirm>Pohltenie vedomia</ATPP_MindAbsorptionConfirm>
+	<ATPP_MindAbsorptionConfirmDesc>Potvrdením bude vedomie {0} pohltené a premenené na body zručností (smrtiaci zákrok). Naozaj si prajete pokračovať?</ATPP_MindAbsorptionConfirmDesc>
+	
+	<ATPP_UploadMakeAndroidBatteryOverloadConfirm>Preťažiť batériu</ATPP_UploadMakeAndroidBatteryOverloadConfirm>
+	<ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>Pozor: po potvrdení sa batéria vybraného androida preťaží a po krátkej chvíli exploduje. Naozaj si prajete pokračovať?</ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>
+	
+	<ATPP_OverloadAndroid>Preťažiť</ATPP_OverloadAndroid>
+	<ATPP_OverloadAndroidDesc>Spôsobiť explóziu batérie androida</ATPP_OverloadAndroidDesc>
+	
+	<!-- Power++ compat -->
+	<ATPP_LWPNConnected>Pripojené k {0}</ATPP_LWPNConnected>
+	<ATPP_LWPNDisconnected>Odpojené od {0}</ATPP_LWPNDisconnected>
+	<ATPP_NoAvailableLWPN>Nie je k dispozícii žiadna LWPN</ATPP_NoAvailableLWPN>
+	<ATPP_LWPNNbConnectedAndroid>Pripojení androidi: {0}</ATPP_LWPNNbConnectedAndroid>
+	<ATPP_MessageLWPNNoSlotAvailable>Nie je k dispozícii žiadny voľný slot LWPN!</ATPP_MessageLWPNNoSlotAvailable>
+	
+	<!-- Buildings -->
+	<ATPP_SkyMindAntennaSynthesis>Pripojení používatelia: {0} / {1}</ATPP_SkyMindAntennaSynthesis>
+	<ATPP_ForceReload>Vynútiť nabíjanie batérie</ATPP_ForceReload>
+	<ATPP_CannotUseEveryPlaceUsed>Nemožno použiť, nabíjacia stanica je plná.</ATPP_CannotUseEveryPlaceUsed>
+	<ATPP_CannotUseBecauseNotInBatteryMode>Nemožno použiť, pretože vnútorná batéria vybraného androida nie je nastavená ako predvolený generátor.</ATPP_CannotUseBecauseNotInBatteryMode>
+	<ATPP_SecurityServersSynthesis>Chránení surogáti: {0} / {1}</ATPP_SecurityServersSynthesis>
+	<ATPP_HackingServersSynthesis>Dostupné hackerské body: {0} / {1}</ATPP_HackingServersSynthesis>
+	<ATTP_HackingSlotsAdded>Pridané hackerské sloty: {0}</ATTP_HackingSlotsAdded>
+	<ATTP_HackingProducedPoints>Produkcia hackerských bodov: {0}</ATTP_HackingProducedPoints>
+	<ATTP_SecuritySlotsAdded>Pridané bezpečnostné sloty: {0}</ATTP_SecuritySlotsAdded>
+	<ATPP_SkillServersSynthesis>Dostupné body zručností: {0} / {1}</ATPP_SkillServersSynthesis>
+	<ATTP_SkillSlotsAdded>Pridané sloty zručností: {0}</ATTP_SkillSlotsAdded>
+	<ATTP_SkillProducedPoints>Produkcia bodov zručností: {0}</ATTP_SkillProducedPoints>
+	
+	<!-- Colors -->
+	<ATPP_HairColor>Farba vlasov</ATPP_HairColor>
+	<ATPP_HairColorBlond>Blond</ATPP_HairColorBlond>
+	<ATPP_HairColorBlack>Čierna</ATPP_HairColorBlack>
+	<ATPP_HairColorAuburn>Gaštanová</ATPP_HairColorAuburn>
+	<ATPP_HairColorGrey>Sivá</ATPP_HairColorGrey>
+	<ATPP_HairColorGinger>Hrdzavá</ATPP_HairColorGinger>
+	<ATPP_HairColorWhite>Biela</ATPP_HairColorWhite>
+	
+	<ATPP_SkinColor>Farba kože</ATPP_SkinColor>
+	<ATPP_SkinColorVerylight>Veľmi svetlá</ATPP_SkinColorVerylight>
+	<ATPP_SkinColorLight>Svetlá</ATPP_SkinColorLight>
+	<ATPP_SkinColorFair>Svetlo snedá</ATPP_SkinColorFair>
+	<ATPP_SkinColorMidbrown>Stredne hnedá</ATPP_SkinColorMidbrown>
+	<ATPP_SkinColorDarkbrown>Tmavo hnedá</ATPP_SkinColorDarkbrown>
+	<ATPP_SkinColorVerydark>Veľmi tmavo hnedá</ATPP_SkinColorVerydark>
+	
+	<!-- Messages -->
+	<ATPP_CannotConnectToSkyMindNoNet>Nemožno sa pripojiť k sieti SkyMind, žiadna sieť nie je k dispozícii!</ATPP_CannotConnectToSkyMindNoNet>
+	<ATPP_CannotConnectToSkyMind>Nemožno sa pripojiť k sieti SkyMind, nedostatok voľných slotov!</ATPP_CannotConnectToSkyMind>
+	<ATPP_SurrogateUnexpectedDisconnection>Neočakávané odpojenie: {0} už nie je pripojený k sieti SkyMind!</ATPP_SurrogateUnexpectedDisconnection>
+	<ATPP_SurrogateConnectionCannotBeDisconnected>Nemožno odpojiť, {0} sa práve nachádza v nestabilnom duševnom stave</ATPP_SurrogateConnectionCannotBeDisconnected>
+	<ATPP_SurrogateConnectionOK>{0} je teraz pripojený k {1}</ATPP_SurrogateConnectionOK>
+	
+	<ATPP_StartPermute>Permutácia vedomia medzi {0} a {1} sa začala!</ATPP_StartPermute>
+	<ATPP_StartDuplicate>Duplikácia vedomia {0} do {1} sa začala!</ATPP_StartDuplicate>
+	<ATPP_StartSkyCloudUpload>Nahrávanie vedomia {0} do {1} sa začalo!</ATPP_StartSkyCloudUpload>
+	<ATPP_StartSkyCloudUploadFailedFull>Nahrávanie vedomia {0} do {1} nemožno vykonať, pretože v {1} nie je dostatok miesta na uloženie vedomia</ATPP_StartSkyCloudUploadFailedFull>
+	<ATPP_StartSkyCloudDownload>Sťahovanie vedomia {0} do mozgu {1} sa začalo!</ATPP_StartSkyCloudDownload>
+	<ATPP_StartSkyCloudMigration>Migrácia vedomia {0} z {1} do {2} sa začala!</ATPP_StartSkyCloudMigration>
+	<ATPP_StartSkyCloudMigrationFailed>Migráciu vedomia {0} do {1} nemožno vykonať, pretože v {1} nie je dostatok miesta na uloženie vedomia</ATPP_StartSkyCloudMigrationFailed>
+	
+	<ATPP_StartUpload>Nahrávanie vedomia {0} do {1} sa začalo!</ATPP_StartUpload>
+	
+	<ATPP_CanOnlyBeUsedByAndroid>Toto zariadenie môžu používať iba androidi!</ATPP_CanOnlyBeUsedByAndroid>
+	<ATPP_CannotBeUsedBecauseNoOldAgeIssues>Nemožno použiť, pretože u androida neboli nájdené žiadne problémy spôsobené vekom</ATPP_CannotBeUsedBecauseNoOldAgeIssues>
+	
+	<ATPP_NoBrokenStuffFound>U androida {0} neboli nájdené žiadne poruchy!</ATPP_NoBrokenStuffFound>
+	<ATPP_BrokenStuffRepairFailed>Chyba: nanitom sa nepodarilo vykonať opravu!</ATPP_BrokenStuffRepairFailed>
+	
+	<ATPP_BrokenCPURepaired>Umelý mozog bol úspešne opravený!</ATPP_BrokenCPURepaired> 
+	<ATPP_BrokenHydraulicSystemRepaired>Hydraulický systém bol úspešne opravený!</ATPP_BrokenHydraulicSystemRepaired> 
+	<ATPP_BrokenCoolingSystemRepaired>Chladiaci systém bol úspešne opravený!</ATPP_BrokenCoolingSystemRepaired> 
+	<ATPP_BrokenFrameworkRepaired>Kostra bola úspešne opravená!</ATPP_BrokenFrameworkRepaired>
+	
+	<ATPP_CryptolockerClearedByFaction>Frakcia {0} odstránila svoj vírus cryptolocker z vášho infikovaného surogáta!</ATPP_CryptolockerClearedByFaction>
+	<ATPP_CryptolockerDeviceClearedByFaction>Frakcia {0} odstránila svoj vírus cryptolocker z vašich pripojených zariadení!</ATPP_CryptolockerDeviceClearedByFaction>
+	<ATPP_RansomwareClearedByFaction>Frakcia {0} vykonala nevyhnutné opravy škôd spôsobených na {1}</ATPP_RansomwareClearedByFaction>
+	
+	<ATPP_SurrogateHackOK>Hackovanie {0} uspelo!</ATPP_SurrogateHackOK>
+	<ATPP_CannotHackNotEnoughtHackingPoints>Nedostatok hackerských bodov, na hacknutie je potrebných {0} bodov!</ATPP_CannotHackNotEnoughtHackingPoints>
+	
+	<ATPP_ProcessDuplicateOK>Neurónová sieť {0} sa práve duplikuje.</ATPP_ProcessDuplicateOK>
+	<ATPP_ProcessDuplicateFailed>Nemožno duplikovať neurónovú sieť {0}, v jadre nie je dostatok pamäťového priestoru</ATPP_ProcessDuplicateFailed>
+	<ATPP_ProcessRemoveOK>Neurónová sieť {0} bola odstránená.</ATPP_ProcessRemoveOK>
+	<ATPP_ProcessAssistOK>Vedomie {0} je teraz priradené k asistencii pripojeným kolonistom.</ATPP_ProcessAssistOK>
+	<ATPP_ProcessUnassistOK>Vedomie {0} už nie je priradené k asistencii pripojeným kolonistom.</ATPP_ProcessUnassistOK>
+	
+	
+	<ATPP_ProcessNoLongerInMentalBreak>Vedomie {0} uložené v {1} už netrpí nervovým zrútením</ATPP_ProcessNoLongerInMentalBreak>
+	<ATPP_CannotReconnectToLastSurrogateController>Nemožno znova pripojiť, posledný operátor surogáta je nedostupný (zaneprázdnený, mŕtvy, nepripojený k sieti SkyMind...)</ATPP_CannotReconnectToLastSurrogateController>
+	
+	<ATPP_ProcessMassAssist>{0} vedomí bolo priradených!</ATPP_ProcessMassAssist>
+	<ATPP_ProcessMassUnassist>{0} vedomí bolo odobraných!</ATPP_ProcessMassUnassist>
+	
+	<ATPP_SkillsWorkshopPointsConverted>{0} bodov zručností bolo pridaných k {1}</ATPP_SkillsWorkshopPointsConverted>
+	<ATPP_SkillsWorkshopAvailablePoints>Dostupné body: {0}</ATPP_SkillsWorkshopAvailablePoints>
+	<ATPP_SkillsWorkshopAvailablePointsNote>Poznámka: Pre tento model androida potrebujete {0} bodov zručností vygenerovaných servermi na získanie 1 dostupného bodu</ATPP_SkillsWorkshopAvailablePointsNote>
+	
+	<ATPP_MindAbsorptionStarted>Pohlcovanie vedomia {0} zahájené</ATPP_MindAbsorptionStarted>
+	<ATPP_NotEnoughtSkillPoints>Nedostatok dostupných bodov zručností! (vyžadovaných {0} bodov)</ATPP_NotEnoughtSkillPoints>
+	<ATPP_CannotAddVXNeuralChipInSurrogates>Tento typ čipu nemožno nainštalovať do surogáta! Čip bol poškodený a už ho nemožno použiť!</ATPP_CannotAddVXNeuralChipInSurrogates>
+
+	
+	<!-- Settings -->
+	<ATPP_SettingsSectionGeneral>Všeobecné</ATPP_SettingsSectionGeneral>
+	<ATPP_SettingsSectionSkyCloud>SkyCloud</ATPP_SettingsSectionSkyCloud>
+	<ATPP_SettingsSectionSecurity>Zabezpečenie</ATPP_SettingsSectionSecurity>
+	<ATPP_SettingsSectionVX2>Neurónový čip VX2</ATPP_SettingsSectionVX2>
+	<ATPP_SettingsSectionVX3>Neurónový čip VX3</ATPP_SettingsSectionVX3>
+	<ATPP_SettingsSectionSkills>Zručnosti T1/T2</ATPP_SettingsSectionSkills>
+	<ATPP_SettingsSectionBatteryOverload>Preťaženie batérie</ATPP_SettingsSectionBatteryOverload>
+	
+	<ATPP_SettingsDefaultAndroidGeneratorMode>Predvolený režim energie androidov:</ATPP_SettingsDefaultAndroidGeneratorMode>
+	<ATPP_SettingsDefaultAndroidGeneratorModeBiomass>Používať generátor na biomasu (jedia)</ATPP_SettingsDefaultAndroidGeneratorModeBiomass>
+	<ATPP_SettingsDefaultAndroidGeneratorModeBattery>Priamo používať vnútornú batériu (nabíjajú sa zo siete)</ATPP_SettingsDefaultAndroidGeneratorModeBattery>
+	
+	<ATPP_SettingsMindUploadDuration>Doba trvania nahrávania vedomia ({0} h)</ATPP_SettingsMindUploadDuration>
+	<ATPP_SettingsMindReplicationDuration>Doba trvania replikácie vedomia ({0} h)</ATPP_SettingsMindReplicationDuration>
+	
+	<ATPP_SettingsMindPermutationDuration>Doba trvania permutácie vedomia ({0} h)</ATPP_SettingsMindPermutationDuration>
+	<ATPP_SettingsMindDuplicationDuration>Doba trvania duplikácie vedomia ({0} h)</ATPP_SettingsMindDuplicationDuration>
+	<ATPP_SettingsMindUploadPercentageFail>Riziko neúspechu prenosu vedomia ({0} %)</ATPP_SettingsMindUploadPercentageFail>
+	<ATPP_SettingsNanitePercentageFail>Riziko, že naniti nedokážu opraviť androida ({0} %)</ATPP_SettingsNanitePercentageFail>
+	
+	<ATPP_SettingsCharchingStationWattIncrease>Zvýšenie spotreby energie počas nabíjania {0}</ATPP_SettingsCharchingStationWattIncrease>
+	<ATPP_SettingsFoodGenerateLessEnergy>Biomasa (jedlo) dodáva androidom menej energie (2× menej ako ľuďom)</ATPP_SettingsFoodGenerateLessEnergy>
+	<ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>Percento nabitia batérie každých 6 sekúnd ({0} %)</ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>
+	<ATPP_SettingsNbHoursMinServerRunningHotBeforeExplode>Minimálny počet hodín behu serverov pri vysokej teplote pred výbuchom ({0} h)</ATPP_SettingsNbHoursMinServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMaxServerRunningHotBeforeExplode>Maximálny počet hodín behu serverov pri vysokej teplote pred výbuchom ({0} h)</ATPP_SettingsNbHoursMaxServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMinSkyCloudServerRunningHotBeforeExplode>Minimálny počet hodín behu jadier SkyCloud pri vysokej teplote pred výbuchom ({0} h)</ATPP_SettingsNbHoursMinSkyCloudServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMaxSkyCloudServerRunningHotBeforeExplode>Maximálny počet hodín behu jadier SkyCloud pri vysokej teplote pred výbuchom ({0} h)</ATPP_SettingsNbHoursMaxSkyCloudServerRunningHotBeforeExplode>
+	<ATPP_SettingsDelayExplosiveVirus>Počet sekúnd do výbuchu androida infikovaného výbušným vírusom ({0} s)</ATPP_SettingsDelayExplosiveVirus>
+	<ATPP_SettingsRiskFactionNotRemoveCryptolocker>Riziko, že frakcia neodstráni cryptolocker po zaplatení výkupného ({0} %)</ATPP_SettingsRiskFactionNotRemoveCryptolocker>
+	<ATPP_SettingsRansomCost>Výška výkupného za vírus cryptolocker ({0}):</ATPP_SettingsRansomCost>
+	<ATPP_SettingsAndroidCanUseOrganicMedicine>Androidi môžu používať organické lieky</ATPP_SettingsAndroidCanUseOrganicMedicine>
+	<ATPP_SettingsRiskGetLittleVirusEvenWithSecurityServers>Riziko, že pripojení klienti chytia vírus (oslabený dopad) aj pri plnom pokrytí bezpečnostnými servermi ({0} %)</ATPP_SettingsRiskGetLittleVirusEvenWithSecurityServers>
+	<ATPP_SettingsRiskFactionNotRemoveRansomwareEffect>Riziko, že frakcia nezruší účinky ransomwaru po zaplatení výkupného ({0} %)</ATPP_SettingsRiskFactionNotRemoveRansomwareEffect>
+	<ATPP_SettingsMinSilverToRemoveBadTrait>Minimálna čiastka striebra za odstránenie negatívnej črty ransomwaru</ATPP_SettingsMinSilverToRemoveBadTrait>
+	<ATPP_SettingsMaxSilverToRemoveBadTrait>Maximálna čiastka striebra za odstránenie negatívnej črty ransomwaru</ATPP_SettingsMaxSilverToRemoveBadTrait>
+	<ATPP_SettingsRansomwareSilverPerSkillLevel>Čiastka striebra na zaplatenie za úroveň poškodenej zručnosti ransomwaru</ATPP_SettingsRansomwareSilverPerSkillLevel>
+	<ATPP_SettingsDisableSolarFlareImpactOnAndroids>Vypnúť negatívny vplyv slnečných erupcií na androidov</ATPP_SettingsDisableSolarFlareImpactOnAndroids>
+	<ATPP_SettingsDisableSecurityStuff>Vypnúť vírusy a hackovanie cez SkyMind</ATPP_SettingsDisableSecurityStuff>
+	<ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroupMin>Minimálne percento surogátov v skupinách cudzích frakcií ({0} %)</ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroupMin>
+	<ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroup>Maximálne percento surogátov v skupinách cudzích frakcií ({0} %)</ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroup>
+	<ATPP_SettingsOtherFactionsCanUseSurrogate>Ostatné frakcie môžu používať surogátnych androidov</ATPP_SettingsOtherFactionsCanUseSurrogate>
+	<ATPP_SettingsTempHackDuration>Doba trvania dočasného hacku surogáta ({0} sekúnd)</ATPP_SettingsTempHackDuration>
+	<ATPP_SettingsCostHackingPoints>Cena hackerských bodov za ({0}):</ATPP_SettingsCostHackingPoints>
+	<ATPP_SettingsCostVirus>Vírus</ATPP_SettingsCostVirus>
+	<ATPP_SettingsCostVirusExplosive>Výbušný vírus</ATPP_SettingsCostVirusExplosive>
+	<ATPP_SettingsCostHack>Hackovanie</ATPP_SettingsCostHack>
+	<ATPP_SettingsCostHackTemp>Dočasné hackovanie</ATPP_SettingsCostHackTemp>
+	
+	<ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>Počas slnečných erupcií sú androidi vyradení z prevádzky</ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>
+	<ATPP_SettingsDisableServersAlarm>Vypnúť teplotný alarm serverov</ATPP_SettingsDisableServersAlarm>
+	<ATPP_SettingsDisableServersAmbianceNoises>Vypnúť okolitý hluk serverov</ATPP_SettingsDisableServersAmbianceNoises>
+	<ATPP_SettingsAppliedToNextSaveLoading> (Prejaví sa po znovunačítaní mapy)</ATPP_SettingsAppliedToNextSaveLoading>
+	<ATPP_SettingsDisableLowNetworkMalus>Vypnúť postih za slabú sieť SkyMind</ATPP_SettingsDisableLowNetworkMalus>
+	<ATPP_SettingsDisableLowNetworkMalusInCaravans>Vypnúť postih za slabú sieť SkyMind v karavánach</ATPP_SettingsDisableLowNetworkMalusInCaravans>
+	<ATPP_SettingsPowerConsumedByStoredMind>Energia spotrebovaná každým uloženým vedomím v jadrách SkyCloud</ATPP_SettingsPowerConsumedByStoredMind>
+	<ATPP_SettingsMindUploadToSkyCloudDuration>Doba trvania nahrávania vedomia do SkyCloud ({0} h)</ATPP_SettingsMindUploadToSkyCloudDuration>
+	<ATPP_SettingsMindMigrationCloudDuration>Doba trvania migrácie vedomia ({0} h)</ATPP_SettingsMindMigrationCloudDuration>
+	<ATPP_SettingsHideRemotelyControlledIcon>Skryť ikonu nad diaľkovo ovládanými zariadeniami</ATPP_SettingsHideRemotelyControlledIcon>
+	<ATPP_SettingsSkyCloudBuffPerAssistingMind>Hodnota posilnenia za každé asistujúce vedomie SkyCloud ({0})</ATPP_SettingsSkyCloudBuffPerAssistingMind>
+	
+	<ATPP_SettingsNbSlotAddedForSkillServers>Počet slotov pridaných pre {0} servery zručností ({1})</ATPP_SettingsNbSlotAddedForSkillServers>
+	<ATPP_SettingsNbSlotAddedForHackingServers>Počet slotov pridaných pre {0} hackerské servery ({1})</ATPP_SettingsNbSlotAddedForHackingServers>
+	<ATPP_SettingsNbSlotAddedForSecurityServers>Počet slotov pridaných pre {0} bezpečnostné servery ({1})</ATPP_SettingsNbSlotAddedForSecurityServers>
+	<ATPP_SettingsNbPointsProducedForHackingServers>Počet bodov vyprodukovaných (každých 30 sekúnd) pre {0} hackerské servery ({1})</ATPP_SettingsNbPointsProducedForHackingServers>
+	<ATPP_SettingsMinNbHoursLiteHackingDeviceAttackLast>Minimálny počet hodín trvania mierneho hackerského útoku na zariadenie ({0} h)</ATPP_SettingsMinNbHoursLiteHackingDeviceAttackLast>
+	<ATPP_SettingsMaxNbHoursLiteHackingDeviceAttackLast>Maximálny počet hodín trvania mierneho hackerského útoku na zariadenie ({0} h)</ATPP_SettingsMaxNbHoursLiteHackingDeviceAttackLast>
+	<ATPP_SettingsHideInactiveSurrogates>Skryť neaktívnych surogátov z lišty kolonistov</ATPP_SettingsHideInactiveSurrogates>
+	<ATPP_SettingsAndroidsOnlyHealedByCrafter>Androidi môžu byť opravovaní iba kováčmi</ATPP_SettingsAndroidsOnlyHealedByCrafter>
+	<ATPP_SettingsMinDurationOfMindMentalBreak>Minimálna doba trvania nervového zrútenia digitalizovaného vedomia ({0} h)</ATPP_SettingsMinDurationOfMindMentalBreak>
+	<ATPP_SettingsMaxDurationOfMindMentalBreak>Maximálna doba trvania nervového zrútenia digitalizovaného vedomia ({0} h)</ATPP_SettingsMaxDurationOfMindMentalBreak>
+	<ATPP_SettingsSecToBootASkyCloudCore>Doba spúšťania jadra SkyCloud ({0} s)</ATPP_SettingsSecToBootASkyCloudCore>
+	<ATPP_SettingsDisableAbilityOfSkyCloudServersToTalk>Vypnúť možnosť komunikácie pre jadrá SkyCloud</ATPP_SettingsDisableAbilityOfSkyCloudServersToTalk>
+	<ATPP_SettingsNotRemoveAllTraitsOfBasicAndroids>Neodstraňovať všetky osobnostné črty androidom T1/T2</ATPP_SettingsNotRemoveAllTraitsOfBasicAndroids>
+	<ATPP_SettingsAndroidsCanEatLivingPlants>Androidi môžu jesť živé rastliny</ATPP_SettingsAndroidsCanEatLivingPlants>
+	<ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>Neodstraňovať zapálenie pre zručnosti androidom T1/T2</ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>
+	<ATPP_SettingsVX3MaxSurrogateControllableAtOnce>Maximálny počet súčasne ovládateľných surogátov ({0})</ATPP_SettingsVX3MaxSurrogateControllableAtOnce>
+	<ATPP_SettingsNbPointsProducedForSkillServers>Počet bodov vyprodukovaných (každých 30 sekúnd) pre {0} servery zručností ({1})</ATPP_SettingsNbPointsProducedForSkillServers>
+	
+	<ATPP_SettingsRandomSkillsMode>Zručnosti sú náhodné</ATPP_SettingsRandomSkillsMode>
+	<ATPP_SettingsPreventM7T5AppearingInCharacterEditor>Zabrániť zobrazeniu T5/M7 na obrazovke tvorby postáv</ATPP_SettingsPreventM7T5AppearingInCharacterEditor>
+	<ATPP_SettingsMinHoursNaniteBankFramework>Minimálny počet hodín potrebných na aplikáciu účinku štrukturálnych nanitových bánk ({0} h)</ATPP_SettingsMinHoursNaniteBankFramework>
+	<ATPP_SettingsMaxHoursNaniteBankFramework>Maximálny počet hodín potrebných na aplikáciu účinku štrukturálnych nanitových bánk ({0} h)</ATPP_SettingsMaxHoursNaniteBankFramework>
+	
+	<ATPP_SettingsNbSkillPointsPerSkill>Počet bodov zručností potrebných na vytvorenie jednej zručnosti ({0})</ATPP_SettingsNbSkillPointsPerSkill>
+	<ATPP_RemoveComfortNeedForT3T4>Odstrániť potrebu pohodlia pre androidov &gt;= T3</ATPP_RemoveComfortNeedForT3T4>
+	<ATPP_SettingsAllowHumanDrugsForT3P>Povoliť ľudské drogy pre androidov T3+</ATPP_SettingsAllowHumanDrugsForT3P>
+	<ATPP_SettingsAllowHumanDrugsFor>Povoliť ľudské drogy pre androidov</ATPP_SettingsAllowHumanDrugsFor>
+	
+	<ATPP_SettingsUploadMindToSkyCloudCoreMode>Režim nahrávania vedomia do jadra SkyCloud:</ATPP_SettingsUploadMindToSkyCloudCoreMode>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>Telo zdrojového vedomia je usmrtené</ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>Neurónový čip zdrojového vedomia automaticky prekonfiguruje svoje obvody do režimu VX0</ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>Telu zdrojového vedomia sa nič nestane (duplikát)</ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>
+	<ATPP_SettingsRemoveSimpleMindedTraitOnUpload>Odstrániť črtu prostoduchosti pri prenose T1 do pokročilejšieho hostiteľa (človek, T2+)</ATPP_SettingsRemoveSimpleMindedTraitOnUpload>
+	
+	<ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>Šanca, že vygenerovaný android môže byť natretý alebo zhrdzavený ({0} %)</ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>
+	<ATPP_SettingsAndroidsCanRust>Androidi môžu hrdzavieť</ATPP_SettingsAndroidsCanRust>
+	<ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>Minimálny počet dní, kým náter androida zhrdzavie ({0} dní)</ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>
+	<ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>Maximálny počet dní, kým náter androida zhrdzavie ({0} dní)</ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>
+	
+	<ATPP_SettingsAndroidsAreRare>Urobiť androidov vzácnymi pre ostatné frakcie (VAROVANIE: odstráni všetky frakcie androidov)</ATPP_SettingsAndroidsAreRare>
+	<ATPP_SettingsAllowAutoRepaint>Povoliť androidom automatické preplánovanie náteru, keď sa existujúca farba čoskoro minie</ATPP_SettingsAllowAutoRepaint>
+	<ATPP_SettingsAllowAutoRepaintPrisoned>Povoliť uväzneným androidom tiež preplánovanie náteru</ATPP_SettingsAllowAutoRepaintPrisoned>
+	<ATPP_SettingsMaxAndroidByPortableLWPN>Maximálny počet androidov na prenosný emitor LWPN (Power++) ({0})</ATPP_SettingsMaxAndroidByPortableLWPN>
+	<ATPP_SettingsAllowT5ToWearClothes>Povoliť T5 nosiť oblečenie</ATPP_SettingsAllowT5ToWearClothes>
+	<ATPP_SettingsChanceCreatedAndroidsAreMale>Šanca, že vytvorení androidi sú mužské modely ({0} %)</ATPP_SettingsChanceCreatedAndroidsAreMale>
+	<ATPP_SettingsHideAbilityToForceEatingLivingPlants>Skryť kontextovú ponuku umožňujúcu vynútiť konzumáciu živých rastlín</ATPP_SettingsHideAbilityToForceEatingLivingPlants>
+	<ATPP_SettingsPassionCost>Body zručností potrebné na zvýšenie zapálenia ({0})</ATPP_SettingsPassionCost>
+	<ATPP_SettingsVX0KeepBodyBackstory>Ponechať pôvodnú minulosť bábky (VX0)</ATPP_SettingsVX0KeepBodyBackstory>
+	<ATPP_SettingsAllowSurrogateConnectionInitMalus>Povoliť postih za inicializáciu pripojenia k surogátovi</ATPP_SettingsAllowSurrogateConnectionInitMalus>
+	<ATPP_SettingsAllowAndroidsToUseHospitalBeds>Povoliť androidom používať nemocničné lôžka</ATPP_SettingsAllowAndroidsToUseHospitalBeds>
+	<ATPP_SettingsPercentageOfOtherFactionSurrogateHavingAnRXChip>Percentuálna šanca, že surogáti iných frakcií majú čip RX ({0} %)</ATPP_SettingsPercentageOfOtherFactionSurrogateHavingAnRXChip>
+	<ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>Šanca, že naverbovaný operátor surogáta utečie a pripojí sa k vašej frakcii bez zatknutia ({0} %)</ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>
+	<ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>Minimálny počet hodín, kým bude unesený M8 odpojený od SkyMind ({0} h)</ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>
+	<ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>Maximálny počet hodín, kým bude unesený M8 odpojený od SkyMind ({0} h)</ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>
+	
+	<ATPP_SettingsAndroidOverloadBatteryProrata>Sila výbuchu je úmerná úrovni nabitia batérie</ATPP_SettingsAndroidOverloadBatteryProrata>
+	<ATPP_SettingsAndroidOverloadRadius>Polomer výbuchu androida ({0})</ATPP_SettingsAndroidOverloadRadius>
+	<ATPP_SettingsM7OverloadRadius>Polomer výbuchu M7 ({0})</ATPP_SettingsM7OverloadRadius>
+	<ATPP_SettingsAndroidOverloadExplosionType>Typ výbuchu</ATPP_SettingsAndroidOverloadExplosionType>
+	<ATPP_SettingsAndroidOverloadExplosionTypeDefault>Trieštivý</ATPP_SettingsAndroidOverloadExplosionTypeDefault>
+	<ATPP_SettingsAndroidOverloadExplosionTypeFire>Zápalný</ATPP_SettingsAndroidOverloadExplosionTypeFire>
+	<ATPP_SettingsSetT1ResearchToIndustrialTechLevel>Zmeniť technologickú úroveň výskumu T1 na priemyselnú namiesto vesmírnej</ATPP_SettingsSetT1ResearchToIndustrialTechLevel>
+	<ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>Pri duplikácii vedomia sú jedinečné schopnosti rolí prenesené do cieľového vedomia</ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>
+</LanguageData>
