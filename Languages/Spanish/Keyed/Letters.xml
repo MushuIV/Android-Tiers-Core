@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Atlas_FactionChange>{0} ha sido reprogramado con éxito. Ahora forma parte de la colonia.</Atlas_FactionChange>
+	<LetterLabelAtlas_FactionChange>Nuevo colono</LetterLabelAtlas_FactionChange>
+	
+	<Atlas_LossOfSelfWill>El libre albedrío de {0} ha sido suprimido. Por tanto, ahora es incapaz de pensar libremente o sentir emociones y no interactuará con otros colonos con tanta frecuencia. Además: ha perdido todos sus rasgos durante el proceso, convirtiéndose en nada más que una máquina obediente.</Atlas_LossOfSelfWill>
+	<LetterLabelAtlas_LossOfSelfWill>Libre albedrío androide</LetterLabelAtlas_LossOfSelfWill>
+	
+	<Atlas_Mutation>¡{0} ha mutado en un fractal! Una bestia de carne retorcida provocada por la píldora fractal.</Atlas_Mutation>
+	<LetterLabelAtlas_Mutation>Mutación de colono</LetterLabelAtlas_Mutation>
+
+	<Atlas_TraitReroll>La personalidad de {0} ha sido alterada y sus rasgos han sido reasignados.</Atlas_TraitReroll>
+	<LetterLabelAtlas_TraitReroll>Cambio de personalidad androide</LetterLabelAtlas_TraitReroll>
+	
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <NeedMechanic>Mechaniker benötigt</NeedMechanic>
+  <NeedMechanicDesc>Diese Androiden müssen repariert werden, aber es sind keine gesunden Kolonisten als Mechaniker zugewiesen.\n\n{0}\nWeise einen gesunden Kolonisten der Arbeit Mechaniker zu. Wenn Schäden nicht repariert werden, heilen sie möglicherweise nie richtig und können dauerhaft bleiben.</NeedMechanicDesc>
+  
+</LanguageData>

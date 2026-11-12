@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<AndroidFactionGreetingHostileI>Odtwarzana jest automatyczna wiadomość z żądaniem wykonania gestu dobrej woli, takiego jak: przyniesienie podarunków do jednej z osad ({0_possessive}) lub uwolnienie więźniów należących do {0_possessive} frakcji bez uszczerbku na zdrowiu. Do tego czasu {0} odmawia rozmowy.</AndroidFactionGreetingHostileI>
+	<AndroidFactionGreetingHostileII>{0} porównuje twoją kolonię do dzikich plemion ze względu na wasze okrucieństwo, oświadczając, że jeśli chcecie się poprawić, możecie przynieść dary do jednej z osad ({0_possessive}) lub uwolnić jeńców należących do {0_possessive} frakcji bez szwanku.</AndroidFactionGreetingHostileII>
+	<AndroidFactionGreetingHostileIII>{0} nazywa was zimnymi, potwornymi istotami, po czym natychmiast przerywa połączenie.</AndroidFactionGreetingHostileIII>
+	
+	<AndroidFactionGreetingWaryI>Głęboki, mechaniczny głos ({0}) wita rozmówcę ({NEGOTIATOR_labelShort}), pytając, w jakiej sprawie się kontaktujesz.</AndroidFactionGreetingWaryI>
+	<AndroidFactionGreetingWaryII>Rozpoczyna się automatyczna wiadomość, z zapytaniem do {NEGOTIATOR_labelShort}, w jakiej sprawie dzwoni.</AndroidFactionGreetingWaryII>
+	<AndroidFactionGreetingWaryIII>{0} ostrożnie nawiązuje łączność z {NEGOTIATOR_labelShort}, pytając, o czym chcecie rozmawiać.</AndroidFactionGreetingWaryIII>
+	
+	<AndroidFactionGreetingWarmI>{0} ciepło wita rozmówcę ({NEGOTIATOR_labelShort}), pytając, czym może wam pomóc.</AndroidFactionGreetingWarmI>
+	<AndroidFactionGreetingWarmII>{NEGOTIATOR_labelShort} słyszy życzliwe słowa po nawiązaniu łączności, a {0} pyta, co może zrobić dla sojusznika.</AndroidFactionGreetingWarmII>
+	<AndroidFactionGreetingWarmIII>{0} wita {NEGOTIATOR_labelShort} z otwartymi ramionami, pytając, jak może wam pomóc.</AndroidFactionGreetingWarmIII>
+	
+</LanguageData>

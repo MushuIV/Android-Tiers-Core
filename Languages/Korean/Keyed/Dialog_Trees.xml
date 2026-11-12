@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<AndroidFactionGreetingHostileI>자동 안내 음성이 흘러나오며, {0_possessive} 정착지 중 한 곳에 선물을 전달하거나 {0_possessive} 세력의 포로를 무사히 석방하는 등 호의를 표할 것을 요구합니다. 그 전까지 {0}(은)는 대화를 거부합니다.</AndroidFactionGreetingHostileI>
+	<AndroidFactionGreetingHostileII>{0}(은)는 당신의 정착지가 야만인이나 다름없다고 비난하며, 관계를 개선하고 싶다면 {0_possessive} 정착지에 선물을 보내거나 {0_possessive} 세력의 포로를 무사히 석방하라고 말합니다.</AndroidFactionGreetingHostileII>
+	<AndroidFactionGreetingHostileIII>{0}(은)는 당신들을 차갑고 기괴한 괴물이라 부르며 재빨리 모든 통신을 차단했습니다.</AndroidFactionGreetingHostileIII>
+	
+	<AndroidFactionGreetingWaryI>{0}의 낮게 울리는 기계음이 {NEGOTIATOR_labelShort}에게 인사를 건네며 무슨 용건인지 묻습니다.</AndroidFactionGreetingWaryI>
+	<AndroidFactionGreetingWaryII>자동 메시지가 시작되며 {NEGOTIATOR_labelShort}에게 용건을 묻습니다.</AndroidFactionGreetingWaryII>
+	<AndroidFactionGreetingWaryIII>{0}(이)가 경계하며 {NEGOTIATOR_labelShort}에게 통신을 연결하고 무슨 용건으로 대화하려는지 묻습니다.</AndroidFactionGreetingWaryIII>
+	
+	<AndroidFactionGreetingWarmI>{0}(이)가 {NEGOTIATOR_labelShort}에게 따뜻하게 인사하며 무엇을 도와줄 수 있는지 묻습니다.</AndroidFactionGreetingWarmI>
+	<AndroidFactionGreetingWarmII>통신이 연결되자 친절한 인사가 건네지며, {0}(이)가 {NEGOTIATOR_labelShort}에게 동맹을 위해 무엇을 해줄 수 있는지 묻습니다.</AndroidFactionGreetingWarmII>
+	<AndroidFactionGreetingWarmIII>{0}(이)가 두 팔을 벌려 {NEGOTIATOR_labelShort}을(를) 환영하며 당신을 위해 무엇을 도울 수 있는지 묻습니다.</AndroidFactionGreetingWarmIII>
+	
+</LanguageData>

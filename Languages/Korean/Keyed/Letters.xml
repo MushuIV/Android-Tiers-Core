@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Atlas_FactionChange>{0}(이)가 성공적으로 재프로그래밍되었습니다. 이제 우리 정착지의 일원입니다.</Atlas_FactionChange>
+	<LetterLabelAtlas_FactionChange>새 정착민</LetterLabelAtlas_FactionChange>
+	
+	<Atlas_LossOfSelfWill>{0}의 자유 의지가 억제되었습니다. 이로 인해 더 이상 자유롭게 생각하거나 감정을 느낄 수 없으며, 다른 정착민과의 상호작용도 드물어집니다. 게다가 이 과정에서 모든 특성을 상실하여 순종적인 기계에 불과하게 되었습니다.</Atlas_LossOfSelfWill>
+	<LetterLabelAtlas_LossOfSelfWill>안드로이드 자유 의지</LetterLabelAtlas_LossOfSelfWill>
+	
+	<Atlas_Mutation>{0}(이)가 프랙탈 알약으로 인해 뒤틀린 육체를 지닌 흉포한 괴수인 프랙탈로 변이했습니다!</Atlas_Mutation>
+	<LetterLabelAtlas_Mutation>정착민 변이</LetterLabelAtlas_Mutation>
+
+	<Atlas_TraitReroll>{0}의 인격이 변경되었으며 특성이 무작위로 재설정되었습니다.</Atlas_TraitReroll>
+	<LetterLabelAtlas_TraitReroll>안드로이드 인격 변경</LetterLabelAtlas_TraitReroll>
+	
+</LanguageData>

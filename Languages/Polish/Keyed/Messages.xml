@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MessageMedicalOperationFailureMinorAndroid>{0} popełnił drobny błąd podczas operacji na {1}.</MessageMedicalOperationFailureMinorAndroid>
+	<MessageMedicalOperationFailureCatastrophicAndroid>{0} popełnił katastrofalny błąd podczas operacji na {1}.</MessageMedicalOperationFailureCatastrophicAndroid>
+	<MessageMedicalOperationFailureRidiculousAndroid>{0} popełnił kuriozalny błąd podczas operacji na {1}.</MessageMedicalOperationFailureRidiculousAndroid>
+	<MessageMedicalOperationFailureFatalAndroid>{0} popełnił śmiertelny błąd podczas operacji na {1} z powodu szczególnych trudności: {2}</MessageMedicalOperationFailureFatalAndroid>
+	
+</LanguageData>

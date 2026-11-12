@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MessageMedicalOperationFailureMinorAndroid>{0}は{1}の手術中に軽微なミスを犯しました。</MessageMedicalOperationFailureMinorAndroid>
+	<MessageMedicalOperationFailureCatastrophicAndroid>{0}は{1}の手術中に致命的な大失敗を犯しました。</MessageMedicalOperationFailureCatastrophicAndroid>
+	<MessageMedicalOperationFailureRidiculousAndroid>{0}は{1}の手術中にとんでもないミスを犯しました。</MessageMedicalOperationFailureRidiculousAndroid>
+	<MessageMedicalOperationFailureFatalAndroid>{0}は「{2}」という特有の困難のため、{1}の手術中に致命的な過誤を犯しました。</MessageMedicalOperationFailureFatalAndroid>
+	
+</LanguageData>

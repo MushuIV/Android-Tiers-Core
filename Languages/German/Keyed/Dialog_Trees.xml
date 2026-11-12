@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<AndroidFactionGreetingHostileI>Eine automatisierte Nachricht wird abgespielt, in der eine Geste des guten Willens gefordert wird, wie etwa: Geschenke zu einer der Siedlungen von {0_possessive} zu bringen oder Gefangene der Fraktion von {0_possessive} unversehrt freizulassen. Bis dahin ist {0} nicht zu Gesprächen bereit.</AndroidFactionGreetingHostileI>
+	<AndroidFactionGreetingHostileII>{0} vergleicht deine Kolonie in ihrer Wildheit mit den Stämmen und erklärt, dass du, wenn du dich bessern willst, Geschenke zu einer der Siedlungen von {0_possessive} bringen oder Gefangene der Fraktion von {0_possessive} unversehrt freilassen kannst.</AndroidFactionGreetingHostileII>
+	<AndroidFactionGreetingHostileIII>{0} nennt euch kalte, monströse Wesen, bevor alle Kommunikationskanäle abrupt gekappt werden.</AndroidFactionGreetingHostileIII>
+	
+	<AndroidFactionGreetingWaryI>Die tiefe mechanische Stimme von {0} begrüßt {NEGOTIATOR_labelShort} und fragt, welche Angelegenheit besprochen werden soll.</AndroidFactionGreetingWaryI>
+	<AndroidFactionGreetingWaryII>Eine automatisierte Nachricht beginnt und fragt {NEGOTIATOR_labelShort}, welches Anliegen vorliegt.</AndroidFactionGreetingWaryII>
+	<AndroidFactionGreetingWaryIII>{0} öffnet misstrauisch die Funkverbindung zu {NEGOTIATOR_labelShort} und fragt, welches Geschäft ihr besprechen wollt.</AndroidFactionGreetingWaryIII>
+	
+	<AndroidFactionGreetingWarmI>{0} begrüßt {NEGOTIATOR_labelShort} herzlich und fragt, was für dich getan werden kann.</AndroidFactionGreetingWarmI>
+	<AndroidFactionGreetingWarmII>{NEGOTIATOR_labelShort} wird mit freundlichen Worten empfangen, als die Verbindung hergestellt wird. {0} fragt, was man für einen Verbündeten tun kann.</AndroidFactionGreetingWarmII>
+	<AndroidFactionGreetingWarmIII>{0} begrüßt {NEGOTIATOR_labelShort} mit offenen Armen und fragt, was für dich getan werden kann.</AndroidFactionGreetingWarmIII>
+	
+</LanguageData>

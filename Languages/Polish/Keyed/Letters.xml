@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Atlas_FactionChange>{0} został pomyślnie przeprogramowany. Należy teraz do kolonii.</Atlas_FactionChange>
+	<LetterLabelAtlas_FactionChange>Nowy kolonista</LetterLabelAtlas_FactionChange>
+	
+	<Atlas_LossOfSelfWill>Wolna wola ({0}) została stłumiona. W rezultacie android nie jest już zdolny do samodzielnego myślenia ani odczuwania emocji i nie będzie wchodzić w interakcje z innymi kolonistami tak często. Ponadto podczas tego procesu utracił wszystkie swoje cechy charakteru, stając się jedynie posłuszną maszyną.</Atlas_LossOfSelfWill>
+	<LetterLabelAtlas_LossOfSelfWill>Wolna wola androida</LetterLabelAtlas_LossOfSelfWill>
+	
+	<Atlas_Mutation>{0} zmutował w fraktal! Powykręcana bestia z ciała powstała pod wpływem fraktalnej pigułki!</Atlas_Mutation>
+	<LetterLabelAtlas_Mutation>Mutacja kolonisty</LetterLabelAtlas_Mutation>
+
+	<Atlas_TraitReroll>Osobowość ({0}) została zmodyfikowana, a cechy charakteru wylosowane na nowo.</Atlas_TraitReroll>
+	<LetterLabelAtlas_TraitReroll>Zmiana osobowości androida</LetterLabelAtlas_TraitReroll>
+	
+</LanguageData>

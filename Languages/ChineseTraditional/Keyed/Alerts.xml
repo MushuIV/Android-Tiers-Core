@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NeedMechanic>需要機械師</NeedMechanic>
+  <NeedMechanicDesc>這些智能人形需要維修，但你沒有指派健康的殖民者作為機械師。\n\n{0}\n把一個健康的殖民者分配到機械師的工作類型。如果不加以處理，損壞可能永遠無法正常修復，並可能成為永久性的。</NeedMechanicDesc>
+</LanguageData>

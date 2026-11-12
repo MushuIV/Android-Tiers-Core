@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Atlas_FactionChange>{0}の再プログラミングに成功しました。彼らはコロニーの一員となりました。</Atlas_FactionChange>
+	<LetterLabelAtlas_FactionChange>新しい入植者</LetterLabelAtlas_FactionChange>
+	
+	<Atlas_LossOfSelfWill>{0}の自由意志は抑制されました。これにより、自由に考えたり感情を抱いたりすることができなくなり、他の入植者との交流もほとんど行わなくなります。さらに、この過程ですべての特性を失いました。彼らは従順な機械に過ぎなくなりました。</Atlas_LossOfSelfWill>
+	<LetterLabelAtlas_LossOfSelfWill>アンドロイドの自由意志</LetterLabelAtlas_LossOfSelfWill>
+	
+	<Atlas_Mutation>{0}はフラクタルへと変異しました。フラクタルピルによって引き起こされた、歪んだ肉体の獣です！</Atlas_Mutation>
+	<LetterLabelAtlas_Mutation>入植者の変異</LetterLabelAtlas_Mutation>
+
+	<Atlas_TraitReroll>{0}の人格が改変され、特性が再抽選されました。</Atlas_TraitReroll>
+	<LetterLabelAtlas_TraitReroll>アンドロイドの人格変更</LetterLabelAtlas_TraitReroll>
+	
+</LanguageData>

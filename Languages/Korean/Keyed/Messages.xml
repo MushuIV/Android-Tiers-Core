@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MessageMedicalOperationFailureMinorAndroid>{0}(이)가 {1}의 정비 작업 중 경미한 실수를 저질렀습니다.</MessageMedicalOperationFailureMinorAndroid>
+	<MessageMedicalOperationFailureCatastrophicAndroid>{0}(이)가 {1}의 정비 작업 중 치명적인 실패를 저질렀습니다.</MessageMedicalOperationFailureCatastrophicAndroid>
+	<MessageMedicalOperationFailureRidiculousAndroid>{0}(이)가 {1}의 정비 작업 중 어처구니없는 실수를 저질렀습니다.</MessageMedicalOperationFailureRidiculousAndroid>
+	<MessageMedicalOperationFailureFatalAndroid>{0}(이)가 다음의 특수한 난관으로 인해 {1}의 정비 작업 중 치명적인 오류를 저질렀습니다: {2}</MessageMedicalOperationFailureFatalAndroid>
+	
+</LanguageData>

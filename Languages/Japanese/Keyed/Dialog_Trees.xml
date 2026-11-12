@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<AndroidFactionGreetingHostileI>自動再生メッセージが流れ、善意の姿勢を示すよう要求してきました。例えば、{0_possessive}拠点に贈り物を持参するか、{0_possessive}派閥の囚人を無傷で解放することなどを求めています。それまでは、{0}は対話を拒絶しています。</AndroidFactionGreetingHostileI>
+	<AndroidFactionGreetingHostileII>{0}はあなたのコロニーの残虐性を野蛮な部族に例え、関係を改善したいなら{0_possessive}拠点に贈り物を持参するか、{0_possessive}派閥の囚人を無傷で解放するよう告げました。</AndroidFactionGreetingHostileII>
+	<AndroidFactionGreetingHostileIII>{0}はあなた方を冷酷な怪物と呼び、即座に通信を切断しました。</AndroidFactionGreetingHostileIII>
+	
+	<AndroidFactionGreetingWaryI>{0}の重々しい機械音声が{NEGOTIATOR_labelShort}に応答し、何の用件か尋ねてきました。</AndroidFactionGreetingWaryI>
+	<AndroidFactionGreetingWaryII>自動応答メッセージが流れ、{NEGOTIATOR_labelShort}に何の用件か尋ねてきました。</AndroidFactionGreetingWaryII>
+	<AndroidFactionGreetingWaryIII>{0}は警戒しながら{NEGOTIATOR_labelShort}との通信を開き、どんな用件で話し合いたいのか尋ねてきました。</AndroidFactionGreetingWaryIII>
+	
+	<AndroidFactionGreetingWarmI>{0}は温かく{NEGOTIATOR_labelShort}を迎え、何か手伝えることはあるか尋ねてきました。</AndroidFactionGreetingWarmI>
+	<AndroidFactionGreetingWarmII>通信が開かれると親切な言葉で{NEGOTIATOR_labelShort}が迎えられ、{0}は同盟者のために何ができるか尋ねてきました。</AndroidFactionGreetingWarmII>
+	<AndroidFactionGreetingWarmIII>{0}は{NEGOTIATOR_labelShort}を両手を広げて迎え、何かできることはあるか尋ねてきました。</AndroidFactionGreetingWarmIII>
+	
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Atlas_FactionChange>{0} wurde erfolgreich umprogrammiert. Sie sind jetzt Teil der Kolonie.</Atlas_FactionChange>
+	<LetterLabelAtlas_FactionChange>Neuer Kolonist</LetterLabelAtlas_FactionChange>
+	
+	<Atlas_LossOfSelfWill>Der freie Wille von {0} wurde gedämpft. Dadurch sind sie nun unfähig, frei zu denken oder Emotionen zu empfinden, und interagieren seltener mit anderen Kolonisten. Zudem haben sie während des Prozesses alle ihre Merkmale verloren. Sie sind nun nichts weiter als eine gehorsame Maschine.</Atlas_LossOfSelfWill>
+	<LetterLabelAtlas_LossOfSelfWill>Freier Wille von Android</LetterLabelAtlas_LossOfSelfWill>
+	
+	<Atlas_Mutation>{0} ist zu einem Fraktal mutiert. Eine Bestie aus verzerrtem Fleisch, verursacht durch die Fraktalpille!</Atlas_Mutation>
+	<LetterLabelAtlas_Mutation>Kolonisten-Mutation</LetterLabelAtlas_Mutation>
+
+	<Atlas_TraitReroll>Die Persönlichkeit von {0} wurde verändert und ihre Merkmale wurden neu ausgewürfelt.</Atlas_TraitReroll>
+	<LetterLabelAtlas_TraitReroll>Persönlichkeitsänderung von Android</LetterLabelAtlas_TraitReroll>
+	
+</LanguageData>

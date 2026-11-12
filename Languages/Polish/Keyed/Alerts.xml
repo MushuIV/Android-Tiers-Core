@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <NeedMechanic>Potrzebny mechanik</NeedMechanic>
+  <NeedMechanicDesc>Te androidy wymagają naprawy, ale żaden ze sprawnych kolonistów nie ma przypisanej roli mechanika.\n\n{0}\nPrzypisz sprawnego kolonistę do pracy typu Mechanik. Jeśli uszkodzenia pozostaną nienaprawione, androidy mogą nigdy nie odzyskać pełnej sprawności, a uszkodzenia mogą stać się trwałe.</NeedMechanicDesc>
+  
+</LanguageData>

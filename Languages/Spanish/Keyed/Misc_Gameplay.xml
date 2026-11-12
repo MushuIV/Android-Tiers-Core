@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- Alerts -->
+	<ATPP_AlertHot3Devices>Ordenador sobrecalentado</ATPP_AlertHot3Devices>
+	<ATPP_AlertHot3DevicesDesc>¡Uno o más de tus ordenadores han alcanzado el umbral máximo de temperatura! ¡Por favor, restablece rápidamente una temperatura adecuada!</ATPP_AlertHot3DevicesDesc>
+	<ATPP_AlertHot2Devices>Ordenador caliente</ATPP_AlertHot2Devices>
+	<ATPP_AlertHot2DevicesDesc>¡Uno o más de tus ordenadores están calientes, por favor baja rápidamente la temperatura ambiente!</ATPP_AlertHot2DevicesDesc>
+	<ATPP_AlertUnsecurisedClients>{0} clientes SkyMind no protegidos</ATPP_AlertUnsecurisedClients>
+	<ATPP_AlertUnsecurisedClientsDesc>Aviso: tienes potencialmente {0} clientes SkyMind que pueden ser hackeados a través de la red; construye servidores de seguridad para evitarlo.</ATPP_AlertUnsecurisedClientsDesc>
+	<!-- Incidents -->
+	<ATPP_IncidentSurrogateHackingVirus>Virus SX</ATPP_IncidentSurrogateHackingVirus>
+	<ATPP_IncidentSurrogateHackingCryptolocker>Cryptolocker SX</ATPP_IncidentSurrogateHackingCryptolocker>
+	<ATPP_IncidentSurrogateHackingExplosiveVirus>Virus explosivo SX</ATPP_IncidentSurrogateHackingExplosiveVirus>
+	<ATPP_IncidentSurrogateHackingLiteDesc>Tu sistema de seguridad ha neutralizado parte del ataque; sin embargo, algunos subsistemas de {0} sustitutos han sido comprometidos.</ATPP_IncidentSurrogateHackingLiteDesc>
+	<ATPP_IncidentSurrogateHackingHardDesc>Tu sistema de seguridad no protege toda tu flota de androides sustitutos; los sistemas operativos de {0} androides han sido completamente comprometidos.</ATPP_IncidentSurrogateHackingHardDesc>
+	<ATPP_IncidentVirusedDesc>¡Estos sustitutos están ahora completamente bajo el control del virus y os atacarán!</ATPP_IncidentVirusedDesc>
+	<ATPP_IncidentVirusedExplosiveDesc>¡Estos sustitutos están ahora completamente bajo el control del virus, os atacarán y harán que la batería interna del sustituto explote al final de una cuenta atrás!</ATPP_IncidentVirusedExplosiveDesc>
+	<ATPP_IncidentCryptolockerDesc>Todos los sustitutos infectados están completamente inutilizados; esto se puede cancelar (con suerte) pagando un rescate a la facción detrás de este ataque.</ATPP_IncidentCryptolockerDesc>
+	<ATPP_IncidentDeviceHackingVirus>Virus</ATPP_IncidentDeviceHackingVirus>
+	<ATPP_IncidentDeviceHackingCryptolocker>Cryptolocker</ATPP_IncidentDeviceHackingCryptolocker>
+	<ATPP_IncidentDeviceHackingExplosiveVirus>Virus explosivo</ATPP_IncidentDeviceHackingExplosiveVirus>
+	<ATPP_IncidentDeviceHackingLiteDesc>Tu sistema de seguridad ha neutralizado parte del ataque; sin embargo, {0} dispositivos conectados han sido comprometidos temporalmente.</ATPP_IncidentDeviceHackingLiteDesc>
+	<ATPP_IncidentDeviceHackingHardDesc>Tu sistema de seguridad no protege todos los dispositivos conectados; los sistemas operativos de {0} dispositivos conectados han sido completamente comprometidos.</ATPP_IncidentDeviceHackingHardDesc>
+	<ATPP_IncidentDeviceVirusedDesc>¡Estos dispositivos están ahora completamente bajo el control del virus!</ATPP_IncidentDeviceVirusedDesc>
+	<ATPP_IncidentDeviceVirusedExplosiveDesc>¡Estos dispositivos están ahora completamente bajo el control del virus y explotarán al final de una cuenta atrás!</ATPP_IncidentDeviceVirusedExplosiveDesc>
+	<ATPP_IncidentDeviceCryptolockerDesc>Todos los dispositivos infectados están completamente inutilizados; esto se puede cancelar (con suerte) pagando un rescate a la facción detrás de este ataque.</ATPP_IncidentDeviceCryptolockerDesc>
+	<ATPP_LetterFactionRansomware>Ransomware</ATPP_LetterFactionRansomware>
+	<ATPP_LetterFactionRansomwareSkillStolenDesc>{0} ha corrompido áreas de memoria correspondientes a la habilidad '{1}' del cerebro de {2}, a través de la red SkyMind.</ATPP_LetterFactionRansomwareSkillStolenDesc>
+	<ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>{0} ha infectado el cerebro de {1} e instalado el rasgo negativo '{2}', a través de la red SkyMind.</ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>
+	<!-- Needs -->
+	<ATPP_EnergyNeed>Energía</ATPP_EnergyNeed>
+	<ATPP_EnergyNeedDesc>La energía es la cantidad de carga que tiene un androide en su batería interna. Si está a cero, el androide fallará cada vez más y finalmente se desactivará (morirá).</ATPP_EnergyNeedDesc>
+	<!-- NanoKits -->
+	<ATPP_NanoKitsNoCare>Sin reparación</ATPP_NanoKitsNoCare>
+	<ATPP_NanoKitsNoKitJustVisit>Visita del técnico sin nanokits</ATPP_NanoKitsNoKitJustVisit>
+	<ATPP_NanoKitsBasic>Nanokit básico</ATPP_NanoKitsBasic>
+	<ATPP_NanoKitsIntermediate>Nanokit intermedio</ATPP_NanoKitsIntermediate>
+	<ATPP_NanoKitsAdvanced>Nanokit avanzado</ATPP_NanoKitsAdvanced>
+	<!-- CompInspectPane -->
+	<ATPP_UploadPercentage>Subida de mente: {0}%</ATPP_UploadPercentage>
+	<ATPP_DownloadPercentage>Descarga de mente: {0}%</ATPP_DownloadPercentage>
+	<ATPP_PermutationPercentage>Permutación de mente: {0}%</ATPP_PermutationPercentage>
+	<ATPP_DuplicationPercentage>Duplicación de mente: {0}%</ATPP_DuplicationPercentage>
+	<ATPP_UploadSkyCloudPercentage>Mente subida a SkyCloud: {0}%</ATPP_UploadSkyCloudPercentage>
+	<ATPP_DownloadFromSkyCloudPercentage>Mente descargada de SkyCloud: {0}%</ATPP_DownloadFromSkyCloudPercentage>
+	<ATPP_SkyMindDetected>Conectado a SkyMind</ATPP_SkyMindDetected>
+	<ATPP_RemotelyControlledBy>Controlado remotamente por {0}.</ATPP_RemotelyControlledBy>
+	<ATPP_RemotelyControl>Controlar remotamente a {0}</ATPP_RemotelyControl>
+	<ATPP_CompHotSensitiveHot3Text>¡Temperatura demasiado alta!</ATPP_CompHotSensitiveHot3Text>
+	<ATPP_CompHotSensitiveHot2Text>Aviso de alta temperatura</ATPP_CompHotSensitiveHot2Text>
+	<ATPP_CompHotSensitiveHot1Text>La temperatura es algo alta</ATPP_CompHotSensitiveHot1Text>
+	<ATPP_CompHotSensitiveHot0Text>Temperatura de funcionamiento ideal</ATPP_CompHotSensitiveHot0Text>
+	<ATPP_CryptoLockedSurrogate>¡Bloqueado por cryptolocker, inutilizable!</ATPP_CryptoLockedSurrogate>
+	<ATPP_ExplosiveVirus>Virus explosivo: ¡{0} segundos antes de que la batería explote!</ATPP_ExplosiveVirus>
+	<ATPP_TempHackingLosingControlIn>Pérdida de control en {0} segundos</ATPP_TempHackingLosingControlIn>
+	<ATPP_BatteryLevel>Nivel de batería: {0}%</ATPP_BatteryLevel>
+	<ATPP_TempInfection>Fin de la infección en {0}</ATPP_TempInfection>
+	<ATPP_SkyCloudCoreBooting>Iniciando servidor ({0} segundos restantes)</ATPP_SkyCloudCoreBooting>
+	<ATPP_NaniteFrameworkRepairingInProgress>Reparación de la estructura en progreso {0}%</ATPP_NaniteFrameworkRepairingInProgress>
+	<ATPP_VX3SurrogateTypePrimary>Sustituto primario</ATPP_VX3SurrogateTypePrimary>
+	<ATPP_VX3SurrogateTypeSecondary>Sustituto secundario</ATPP_VX3SurrogateTypeSecondary>
+	<ATPP_MindAbsorptionProgress>Absorción de conciencia en progreso {0}%</ATPP_MindAbsorptionProgress>
+	<ATPP_Rusted>Oxidado</ATPP_Rusted>
+	<ATPP_BatteryExplodeInProgress>Explosión de batería {0}%</ATPP_BatteryExplodeInProgress>
+	<!-- AutoDoor -->
+	<ATPP_AutoDoorOpen>Abrir</ATPP_AutoDoorOpen>
+	<ATPP_AutoDoorOpenDescription>Abrir remotamente mediante un núcleo SkyCloud.</ATPP_AutoDoorOpenDescription>
+	<ATPP_AutoDoorClose>Cerrar</ATPP_AutoDoorClose>
+	<ATPP_AutoDoorCloseDescription>Cerrar remotamente mediante un servidor SkyCloud.</ATPP_AutoDoorCloseDescription>
+	<ATPP_AutoDoorOpenMoteText>Abriendo vía SkyCloud</ATPP_AutoDoorOpenMoteText>
+	<ATPP_AutoDoorCloseMoteText>Cerrando vía SkyCloud</ATPP_AutoDoorCloseMoteText>
+	<!-- AutoFlickering -->
+	<ATPP_FlickEnable>Encender vía SkyCloud</ATPP_FlickEnable>
+	<ATPP_FlickDisable>Apagar vía SkyCloud</ATPP_FlickDisable>
+	<!-- Letters -->
+	<ATPP_LetterSurrogateDisabled>Sustituto {0} desactivado</ATPP_LetterSurrogateDisabled>
+	<ATPP_LetterSurrogateDisabledDesc>El sustituto {0} ya no está operativo tras un ataque violento a su integridad física.</ATPP_LetterSurrogateDisabledDesc>
+	<ATPP_LetterUploadOK>Subida completada</ATPP_LetterUploadOK>
+	<ATPP_LetterUploadOKDesc>La subida de la mente de {0} se ha completado y ha sido transferida al cerebro artificial de {1}; {1} ha muerto (mente destruida).</ATPP_LetterUploadOKDesc>
+	<ATPP_LetterPermuteOK>Permutación completada</ATPP_LetterPermuteOK>
+	<ATPP_LetterPermuteOKDesc>La permutación mental se ha completado; {0} y {1} han intercambiado sus cuerpos.</ATPP_LetterPermuteOKDesc>
+	<ATPP_LetterDuplicateOK>Duplicación completada</ATPP_LetterDuplicateOK>
+	<ATPP_LetterDuplicateOKDesc>La duplicación mental se ha completado; el cerebro de {1} ahora contiene una copia del cerebro de {0}, {1} se considera muerto.</ATPP_LetterDuplicateOKDesc>
+	<ATPP_LetterSkyCloudUploadOK>Subida a SkyCloud completada</ATPP_LetterSkyCloudUploadOK>
+	<ATPP_LetterSkyCloudUploadOKDesc>La subida de mente a SkyCloud se ha completado; la conciencia de {0} está ahora almacenada en la memoria central de {1}.</ATPP_LetterSkyCloudUploadOKDesc>
+	<ATPP_LetterSkyCloudReplicateOK>Replicación completada</ATPP_LetterSkyCloudReplicateOK>
+	<ATPP_LetterSkyCloudReplicateOKDesc>La replicación de la red neuronal de {0} en la memoria de {1} se ha completado.</ATPP_LetterSkyCloudReplicateOKDesc>
+	<ATPP_LetterSkyCloudDownloadOK>Descarga de SkyCloud completada</ATPP_LetterSkyCloudDownloadOK>
+	<ATPP_LetterSkyCloudDownloadOKDesc>La descarga de mente desde SkyCloud se ha completado; la conciencia de {0} está ahora almacenada en el cerebro de {1}.</ATPP_LetterSkyCloudDownloadOKDesc>
+	<ATPP_LetterSkyCloudMigrateOK>Migración de mente SkyCloud completada</ATPP_LetterSkyCloudMigrateOK>
+	<ATPP_LetterSkyCloudMigrateOKDesc>La migración mental de {0} desde {1} hacia {2} se ha completado.</ATPP_LetterSkyCloudMigrateOKDesc>
+	<ATPP_LetterInterruptedUpload>Subida fallida</ATPP_LetterInterruptedUpload>
+	<ATPP_LetterInterruptedUploadDesc>Error fatal: la transferencia de conciencia ha sido interrumpida, provocando una corrupción definitiva de ambos cerebros (muerte).{0}</ATPP_LetterInterruptedUploadDesc>
+	<ATPP_LetterInterruptedUploadDescCompHostDead>Muerte del anfitrión receptor</ATPP_LetterInterruptedUploadDescCompHostDead>
+	<ATPP_LetterInterruptedUploadDescCompSourceDead>Muerte del emisor de la mente</ATPP_LetterInterruptedUploadDescCompSourceDead>
+	<ATPP_LetterInterruptedUploadDescCompRandomError>Ha ocurrido un error desconocido</ATPP_LetterInterruptedUploadDescCompRandomError>
+	<ATPP_LetterInterruptedUploadDescCompDiconnectionError>Uno o ambos colonos ya no están conectados a SkyMind.</ATPP_LetterInterruptedUploadDescCompDiconnectionError>
+	<ATPP_LetterFactionScam>Estafado</ATPP_LetterFactionScam>
+	<ATPP_LetterFactionScamCryptolockerDesc>{0} decidió no eliminar el virus cryptolocker que infectó tu colonia; te han estafado...</ATPP_LetterFactionScamCryptolockerDesc>
+	<ATPP_LetterFactionScamRansomwareDesc>{0} decidió no cancelar los efectos de su ransomware; te han estafado...</ATPP_LetterFactionScamRansomwareDesc>
+	<ATPP_CryptolockerNeedPayRansomTitle>Rescate de Cryptolocker</ATPP_CryptolockerNeedPayRansomTitle>
+	<ATPP_CryptolockerNeedPayRansom>{0} se comunica contigo por radio. Son los responsables del ataque del virus cryptolocker y eliminarán su virus a cambio de {1} de plata.</ATPP_CryptolockerNeedPayRansom>
+	<ATPP_RansomNeedPayRansomTitle>Rescate de Ransomware</ATPP_RansomNeedPayRansomTitle>
+	<ATPP_RansomNeedPayRansomCorruptedSKill>{0} se comunica contigo por radio. Son los responsables del ataque de ransomware y restaurarán la habilidad corrompida '{1}' de {2} a cambio de {3} de plata.</ATPP_RansomNeedPayRansomCorruptedSKill>
+	<ATPP_RansomNeedPayRansomDownloadedTrait>{0} se comunica contigo por radio. Son los responsables del ataque de ransomware y eliminarán el rasgo negativo instalado '{1}' de {2} a cambio de {3} de plata.</ATPP_RansomNeedPayRansomDownloadedTrait>
+	<ATPP_ComptHeatSensitiveComputerMeltTitle>Sobrecalentamiento del servidor</ATPP_ComptHeatSensitiveComputerMeltTitle>
+	<ATPP_ComptHeatSensitiveComputerMeltDesc>¡Un servidor ha explotado debido a su alta temperatura de funcionamiento!</ATPP_ComptHeatSensitiveComputerMeltDesc>
+	<ATPP_destroyedMindsDueToDestroyedSkyCloudCore>Perdidas {0} conciencias</ATPP_destroyedMindsDueToDestroyedSkyCloudCore>
+	<ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>Tras la destrucción del núcleo SkyCloud {0}, se perdieron las {1} conciencias almacenadas en su memoria central.</ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>
+	<ATPP_LetterHackingPointsRemoved>Puntos de hackeo perdidos</ATPP_LetterHackingPointsRemoved>
+	<ATPP_LetterHackingPointsRemovedDesc>¡Todos los servidores de hackeo de tu(s) asentamiento(s) están fuera de línea, lo que significa que se han perdido {0} puntos ya que no pueden almacenarse en ningún soporte!</ATPP_LetterHackingPointsRemovedDesc>
+	<ATPP_LetterSkillPointsRemoved>Puntos de habilidad perdidos</ATPP_LetterSkillPointsRemoved>
+	<ATPP_LetterSkillPointsRemovedDesc>¡Todos los servidores de habilidad de tu(s) asentamiento(s) están fuera de línea, lo que significa que se han perdido {0} puntos ya que no pueden almacenarse en ningún soporte!</ATPP_LetterSkillPointsRemovedDesc>
+	<ATPP_SkyCloudCoreBooted>{0} iniciado</ATPP_SkyCloudCoreBooted>
+	<ATPP_SkyCloudCoreBootedDesc>El servidor SkyCloud {0} se ha iniciado con éxito y ahora puede utilizarse.</ATPP_SkyCloudCoreBootedDesc>
+	<ATPP_LetterInterruptedSkyCloudReplication>Replicación fallida</ATPP_LetterInterruptedSkyCloudReplication>
+	<ATPP_LetterInterruptedSkyCloudReplicationDesc>La replicación de la conciencia de {0} falló porque el núcleo SkyCloud anfitrión está fuera de línea.</ATPP_LetterInterruptedSkyCloudReplicationDesc>
+	<ATPP_LetterInterruptedSkyCloudMigration>Migración fallida</ATPP_LetterInterruptedSkyCloudMigration>
+	<ATPP_LetterInterruptedSkyCloudMigrationDesc>La migración de la conciencia de {0} falló porque el núcleo SkyCloud de destino está fuera de línea.</ATPP_LetterInterruptedSkyCloudMigrationDesc>
+	<ATPP_LetterTraitorOffline>Traidor desconectado</ATPP_LetterTraitorOffline>
+	<ATPP_LetterTraitorOfflineDesc>{0} traicionó a su facción dejándose reclutar por ti; su facción lo descubrió y fue arrestado (por lo tanto, se ha desconectado del sustituto que controlaba).</ATPP_LetterTraitorOfflineDesc>
+	<ATPP_LetterInterruptedMindAbsorption>Absorción de mente fallida</ATPP_LetterInterruptedMindAbsorption>
+	<ATPP_LetterInterruptedMindAbsorptionDesc>La absorción mental de {0} falló debido a una desconexión de SkyMind o a que ningún servidor de puntos está operativo.</ATPP_LetterInterruptedMindAbsorptionDesc>
+	<ATPP_MindAbsorptionDone>Absorción de mente completada</ATPP_MindAbsorptionDone>
+	<ATPP_MindAbsorptionDoneDesc>Absorción mental de {0} finalizada, se han obtenido {1} puntos de habilidad</ATPP_MindAbsorptionDoneDesc>
+	<ATPP_LetterExternalSurrogateEscape>Huida del controlador sustituto</ATPP_LetterExternalSurrogateEscape>
+	<ATPP_LetterExternalSurrogateEscapeDesc>{0}, el controlador del sustituto que estás intentando reclutar, ha decidido unirse a tu colonia. Se desconectará de su sustituto y huirá sigilosamente de la base enemiga en la que se encuentra para unirse a tu colonia dentro de varios días, sin saber exactamente cuándo.</ATPP_LetterExternalSurrogateEscapeDesc>
+	<ATPP_LetterExternalSurrogateControllerJoin>Ex-prisionero se une</ATPP_LetterExternalSurrogateControllerJoin>
+	<ATPP_LetterExternalSurrogateControllerJoinDesc>{0}, un controlador sustituto al que encarcelaste y convertiste con éxito, acaba de llegar a tu colonia y se ha unido a vosotros.</ATPP_LetterExternalSurrogateControllerJoinDesc>
+	<ATPP_LetterExternalSurrogateControllerCannotJoin>Ex-prisionero no pudo unirse</ATPP_LetterExternalSurrogateControllerCannotJoin>
+	<ATPP_LetterExternalSurrogateControllerCannotJoinDesc>{0}, un controlador sustituto al que encarcelaste y convertiste con éxito, intentó llegar a tu colonia pero por alguna razón desconocida no lo logró y se marchó.</ATPP_LetterExternalSurrogateControllerCannotJoinDesc>
+	<ATPP_LetterExternalSurrogateDisconnect>Desconexión del controlador</ATPP_LetterExternalSurrogateDisconnect>
+	<ATPP_LetterExternalSurrogateDisconnectDesc>{0}, el controlador del sustituto que intentaste esclavizar, se ha desconectado porque él y su facción consideran que ya no podrán obtener información de tu colonia y continuar como esclavo sería una pérdida de tiempo.</ATPP_LetterExternalSurrogateDisconnectDesc>
+	<ATPP_LetterKidnappedM8Disconnected>Desconexión de M8</ATPP_LetterKidnappedM8Disconnected>
+	<ATPP_LetterKidnappedM8DisconnectedDesc>Los secuestradores de tu M8 ({0} albergando a {1}) consiguieron acceder a sus circuitos de comunicación. Al darse cuenta de que la máquina seguía comunicándose a través de su antena SkyMind integrada, la desconectaron. Ya no podrás conectarte a {1}.</ATPP_LetterKidnappedM8DisconnectedDesc>
+	<!-- Designators -->
+	<ATPP_DesignatorNeedSelectSX>Error: ¡Debes seleccionar un dispositivo válido conectado a la red SkyMind!</ATPP_DesignatorNeedSelectSX>
+	<ATPP_DesignatorNeedSelectSXToHack>Error: ¡Debes seleccionar un androide sustituto controlado por una facción distinta a la tuya!</ATPP_DesignatorNeedSelectSXToHack>
+	<!-- Comps -->
+	<ATPP_SkyMindConn>Conectar a SkyMind</ATPP_SkyMindConn>
+	<ATPP_SkyMindConnDesc>Conectar este colono a la red SkyMind para permitir la subida/permutación/duplicación mental o controlar remotamente androides de la serie SX o sustitutos biológicos.</ATPP_SkyMindConnDesc>
+	<ATPP_SkyMindAutoConn>Conexión automática</ATPP_SkyMindAutoConn>
+	<ATPP_SkyMindAutoConnDesc>Al desconectarse de la red SkyMind, este dispositivo intentará reconectarse automáticamente cuando haya ranuras libres.</ATPP_SkyMindAutoConnDesc>
+	<ATPP_Duplicate>Duplicar</ATPP_Duplicate>
+	<ATPP_DuplicateDesc>Duplicar la conciencia del colono seleccionado actualmente en otro.</ATPP_DuplicateDesc>
+	<ATPP_Permute>Permutar</ATPP_Permute>
+	<ATPP_PermuteDesc>Permutar la conciencia del colono seleccionado actualmente con otro.</ATPP_PermuteDesc>
+	<ATPP_EnableSurrogateControlMode>Controlar</ATPP_EnableSurrogateControlMode>
+	<ATPP_EnableSurrogateControlModeDesc>Activar el modo de control remoto, permitiendo a este colono controlar un androide de la serie SX o un sustituto biológico.</ATPP_EnableSurrogateControlModeDesc>
+	<ATPP_AndroidToControlTargetDisconnect>Desconectar</ATPP_AndroidToControlTargetDisconnect>
+	<ATPP_AndroidToControlTargetDisconnectDesc>Detener la sesión de control remoto actual.</ATPP_AndroidToControlTargetDisconnectDesc>
+	<ATPP_AndroidToControlTarget>Conectar</ATPP_AndroidToControlTarget>
+	<ATPP_AndroidToControlTargetDesc>Tomar el control del nodo seleccionado.</ATPP_AndroidToControlTargetDesc>
+	<ATPP_ThisCurrentMap>Este mapa</ATPP_ThisCurrentMap>
+	<ATPP_AndroidToControlTargetRecoverCaravan>Recuperar</ATPP_AndroidToControlTargetRecoverCaravan>
+	<ATPP_AndroidToControlTargetRecoverCaravanDesc>Recuperar un sustituto desconectado en una caravana.</ATPP_AndroidToControlTargetRecoverCaravanDesc>
+	<ATPP_FreeControllerInCaravan>Caravana</ATPP_FreeControllerInCaravan>
+	<ATPP_FreeControllerInCaravanDesc>Conectar este sustituto a un controlador libre en una caravana</ATPP_FreeControllerInCaravanDesc>
+	<ATPP_AndroidSurrogateReconnectToLastController>Reconectar</ATPP_AndroidSurrogateReconnectToLastController>
+	<ATPP_AndroidSurrogateReconnectToLastControllerDesc>Reconectar el sustituto (si es posible) al último usuario que lo utilizó</ATPP_AndroidSurrogateReconnectToLastControllerDesc>
+	<ATPP_NoVX2Recipient>No hay colonos disponibles (deben tener el implante cerebral de chip VX2).</ATPP_NoVX2Recipient>
+	<ATPP_NoSkyCloudCoreAvailable>No hay ningún núcleo SkyCloud disponible</ATPP_NoSkyCloudCoreAvailable>
+	<ATPP_ConsciousnessUploadNoRecipient>No hay ningún receptor disponible como destino de descarga.</ATPP_ConsciousnessUploadNoRecipient>
+	<ATPP_ConsciousnessSelectDestination>Seleccionar un anfitrión de destino</ATPP_ConsciousnessSelectDestination>
+	<ATPP_UploadConsciousness>Subir</ATPP_UploadConsciousness>
+	<ATPP_UploadConsciousnessDesc>Subir la mente de este androide a otro.</ATPP_UploadConsciousnessDesc>
+	<ATPP_WarningSkyMindDisconnectionRisk>Aviso: no debe producirse ninguna desconexión de la red SkyMind durante la operación, ya que corrompería sus cerebros y por tanto los mataría</ATPP_WarningSkyMindDisconnectionRisk>
+	<ATPP_UploadConsciousnessConfirm>Subir mente</ATPP_UploadConsciousnessConfirm>
+	<ATPP_UploadConsciousnessConfirmDesc>Al confirmar, {0} subirá su mente al cuerpo de {1}, lo que destruirá la mente de {1} (lo matará) y el cuerpo de {0} quedará desactivado. ¿Estás seguro de que deseas continuar?</ATPP_UploadConsciousnessConfirmDesc>
+	<ATPP_PermuteConsciousnessConfirm>Permutación de mente</ATPP_PermuteConsciousnessConfirm>
+	<ATPP_PermuteConsciousnessConfirmDesc>Al confirmar, {0} permutará su mente con {1}, intercambiando sus cuerpos. ¿Estás seguro de que deseas continuar?</ATPP_PermuteConsciousnessConfirmDesc>
+	<ATPP_DuplicateConsciousnessConfirm>Duplicación de mente</ATPP_DuplicateConsciousnessConfirm>
+	<ATPP_DuplicateConsciousnessConfirmDesc>Al confirmar, {0} duplicará su mente en el cerebro de {1}, lo que destruirá la mente de {1} (lo matará). ¿Estás seguro de que deseas continuar?</ATPP_DuplicateConsciousnessConfirmDesc>
+	<ATPP_UseBattery>Usar batería</ATPP_UseBattery>
+	<ATPP_UseBatteryDesc>Si se activa, el androide utilizará directamente su batería interna en lugar de su generador de biomasa.</ATPP_UseBatteryDesc>
+	<ATPP_RepairAndroids>Reparar androides</ATPP_RepairAndroids>
+	<ATPP_RepairAndroidsDesc>Permitir a este colono reparar androides.</ATPP_RepairAndroidsDesc>
+	<ATPP_UploadVirus>Virus</ATPP_UploadVirus>
+	<ATPP_UploadVirusDesc>Subir un virus al sustituto objetivo.</ATPP_UploadVirusDesc>
+	<ATPP_UploadExplosiveVirus>Virus explosivo</ATPP_UploadExplosiveVirus>
+	<ATPP_UploadExplosiveVirusDesc>Subir un virus al sustituto objetivo que sobrecargará la batería interna haciéndola explotar.</ATPP_UploadExplosiveVirusDesc>
+	<ATPP_Hack>Hackear</ATPP_Hack>
+	<ATPP_HackDesc>Hackear y tomar el control del sustituto objetivo.</ATPP_HackDesc>
+	<ATPP_HackTemp>Hackeo temporal</ATPP_HackTemp>
+	<ATPP_HackTempDesc>Realizar un hackeo rápido para tomar el control temporal del sustituto objetivo.</ATPP_HackTempDesc>
+	<ATPP_MoveToSkyCloud>Subida a SkyCloud</ATPP_MoveToSkyCloud>
+	<ATPP_MoveToSkyCloudDesc>Esta operación trasladará la mente del anfitrión a un núcleo SkyCloud, lo que lo hará casi inmortal, pero dejando su cuerpo muerto.</ATPP_MoveToSkyCloudDesc>
+	<ATPP_MoveFromSkyCloud>Descarga de SkyCloud</ATPP_MoveFromSkyCloud>
+	<ATPP_MoveFromSkyCloudDesc>Esta operación trasladará la mente seleccionada almacenada en un núcleo SkyCloud al cerebro del anfitrión.</ATPP_MoveFromSkyCloudDesc>
+	<ATPP_CentralCoreNbStoredMind>{0} conciencias almacenadas</ATPP_CentralCoreNbStoredMind>
+	<ATPP_CentralCoreNbAssistingMinds>{0} conciencias asignadas a asistencia</ATPP_CentralCoreNbAssistingMinds>
+	<ATPP_CentralCoreMigrationInProgress>Migración de {0} hacia {1} en progreso ({2}%)</ATPP_CentralCoreMigrationInProgress>
+	<ATPP_CentralCoreProcessInMentalBreak>{0} inutilizable: en colapso mental</ATPP_CentralCoreProcessInMentalBreak>
+	<ATPP_CentralCoreReplicationInProgress>Replicación de la conciencia de {0} en progreso ({1}%)</ATPP_CentralCoreReplicationInProgress>
+	<ATPP_SkyCloudFloatMenuMindsStoredSelect>Seleccionar una conciencia</ATPP_SkyCloudFloatMenuMindsStoredSelect>
+	<ATPP_ProcessInfo>Información</ATPP_ProcessInfo>
+	<ATPP_ProcessInfoDesc>Obtener información sobre las mentes almacenadas.</ATPP_ProcessInfoDesc>
+	<ATPP_ProcessRemove>Eliminar</ATPP_ProcessRemove>
+	<ATPP_ProcessRemoveDesc>Eliminar una mente</ATPP_ProcessRemoveDesc>
+	<ATPP_ProcessRemoveDescConfirm>¡Al confirmar, la conciencia de {0} se eliminará totalmente de la memoria de {1} y se considerará muerto!</ATPP_ProcessRemoveDescConfirm>
+	<ATPP_ProcessDuplicate>Replicar</ATPP_ProcessDuplicate>
+	<ATPP_ProcessDuplicateDesc>Replicar una conciencia.</ATPP_ProcessDuplicateDesc>
+	<ATPP_ProcessAssist>Asistir</ATPP_ProcessAssist>
+	<ATPP_ProcessAssistDesc>Asigna la lista de mentes almacenadas utilizadas solo para asistir a tus colonos conectados a la red SkyMind; obtendrán una mejora de humor global por cada mente asignada aquí.</ATPP_ProcessAssistDesc>
+	<ATPP_ProcessMigrate>Migrar</ATPP_ProcessMigrate>
+	<ATPP_ProcessMigrateDesc>Migrar una conciencia desde este núcleo SkyCloud a otro</ATPP_ProcessMigrateDesc>
+	<ATPP_ProcessAssistAssignedMinds>Desasignar mente (quitar)</ATPP_ProcessAssistAssignedMinds>
+	<ATPP_ProcessAssistUnassignedMinds>Asignar mente (añadir)</ATPP_ProcessAssistUnassignedMinds>
+	<ATPP_ProcessAssistAssignAll>Asignar todas las mentes sin asignar</ATPP_ProcessAssistAssignAll>
+	<ATPP_ProcessAssistUnassignAll>Desasignar todas las mentes asignadas</ATPP_ProcessAssistUnassignAll>
+	<ATPP_ProcessDisconnectAllSurrogates>Desconectar todo</ATPP_ProcessDisconnectAllSurrogates>
+	<ATPP_StopVirused>Detener</ATPP_StopVirused>
+	<ATPP_StopVirusedDesc>Apagar este sustituto infectado</ATPP_StopVirusedDesc>
+	<ATPP_PreviousSurrogateControllerIs>El controlador anterior era {0}</ATPP_PreviousSurrogateControllerIs>
+	<ATPP_Skills>Habilidades</ATPP_Skills>
+	<ATPP_SkillsDesc>Abre el taller de habilidades, que te permitirá convertir los puntos de habilidad generados por tus servidores en habilidades adicionales para tus androides</ATPP_SkillsDesc>
+	<ATPP_MindAbsorption>Absorción de mente</ATPP_MindAbsorption>
+	<ATPP_MindAbsorptionDesc>Absorber la mente de un prisionero para convertirla en puntos de habilidad (operación letal)</ATPP_MindAbsorptionDesc>
+	<ATPP_MindAbsorptionConfirm>Absorción de mente</ATPP_MindAbsorptionConfirm>
+	<ATPP_MindAbsorptionConfirmDesc>Al confirmar, la conciencia de {0} será absorbida y convertida en puntos de habilidad (operación letal). ¿Estás seguro de que deseas continuar?</ATPP_MindAbsorptionConfirmDesc>
+	<ATPP_UploadMakeAndroidBatteryOverloadConfirm>Sobrecargar batería</ATPP_UploadMakeAndroidBatteryOverloadConfirm>
+	<ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>Ten cuidado: al confirmar, la batería del androide seleccionado se sobrecargará y explotará tras un breve periodo. ¿Realmente deseas continuar?</ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>
+	<ATPP_OverloadAndroid>Sobrecargar</ATPP_OverloadAndroid>
+	<ATPP_OverloadAndroidDesc>Hacer que la batería del androide explote</ATPP_OverloadAndroidDesc>
+	<!-- Power++ compat -->
+	<ATPP_LWPNConnected>Conectado a {0}</ATPP_LWPNConnected>
+	<ATPP_LWPNDisconnected>Desconectado de {0}</ATPP_LWPNDisconnected>
+	<ATPP_NoAvailableLWPN>No hay LWPN disponible</ATPP_NoAvailableLWPN>
+	<ATPP_LWPNNbConnectedAndroid>Androides conectados: {0}</ATPP_LWPNNbConnectedAndroid>
+	<ATPP_MessageLWPNNoSlotAvailable>¡No hay ranuras LWPN libres disponibles!</ATPP_MessageLWPNNoSlotAvailable>
+	<!-- Buildings -->
+	<ATPP_SkyMindAntennaSynthesis>Usuarios conectados: {0} / {1}</ATPP_SkyMindAntennaSynthesis>
+	<ATPP_ForceReload>Forzar carga de batería</ATPP_ForceReload>
+	<ATPP_CannotUseEveryPlaceUsed>No se puede usar, la estación de carga está llena.</ATPP_CannotUseEveryPlaceUsed>
+	<ATPP_CannotUseBecauseNotInBatteryMode>No se puede usar porque la batería interna del androide seleccionado no está establecida como generador predeterminado.</ATPP_CannotUseBecauseNotInBatteryMode>
+	<ATPP_SecurityServersSynthesis>Sustitutos protegidos: {0} / {1}</ATPP_SecurityServersSynthesis>
+	<ATPP_HackingServersSynthesis>Puntos de hackeo disponibles: {0} / {1}</ATPP_HackingServersSynthesis>
+	<ATTP_HackingSlotsAdded>Ranuras de hackeo añadidas: {0}</ATTP_HackingSlotsAdded>
+	<ATTP_HackingProducedPoints>Puntos de hackeo produciendo: {0}</ATTP_HackingProducedPoints>
+	<ATTP_SecuritySlotsAdded>Ranuras de seguridad añadidas: {0}</ATTP_SecuritySlotsAdded>
+	<ATPP_SkillServersSynthesis>Puntos de habilidad disponibles: {0} / {1}</ATPP_SkillServersSynthesis>
+	<ATTP_SkillSlotsAdded>Ranuras de habilidad añadidas: {0}</ATTP_SkillSlotsAdded>
+	<ATTP_SkillProducedPoints>Puntos de habilidad produciendo: {0}</ATTP_SkillProducedPoints>
+	<!-- Colors -->
+	<ATPP_HairColor>Color de pelo</ATPP_HairColor>
+	<ATPP_HairColorBlond>Rubio</ATPP_HairColorBlond>
+	<ATPP_HairColorBlack>Negro</ATPP_HairColorBlack>
+	<ATPP_HairColorAuburn>Castaño rojizo</ATPP_HairColorAuburn>
+	<ATPP_HairColorGrey>Gris</ATPP_HairColorGrey>
+	<ATPP_HairColorGinger>Pelirrojo</ATPP_HairColorGinger>
+	<ATPP_HairColorWhite>Blanco</ATPP_HairColorWhite>
+	<ATPP_SkinColor>Color de piel</ATPP_SkinColor>
+	<ATPP_SkinColorVerylight>Muy claro</ATPP_SkinColorVerylight>
+	<ATPP_SkinColorLight>Claro</ATPP_SkinColorLight>
+	<ATPP_SkinColorFair>Pálido</ATPP_SkinColorFair>
+	<ATPP_SkinColorMidbrown>Marrón medio</ATPP_SkinColorMidbrown>
+	<ATPP_SkinColorDarkbrown>Marrón oscuro</ATPP_SkinColorDarkbrown>
+	<ATPP_SkinColorVerydark>Marrón muy oscuro</ATPP_SkinColorVerydark>
+	<!-- Messages -->
+	<ATPP_CannotConnectToSkyMindNoNet>¡No se puede conectar a SkyMind, no hay red disponible!</ATPP_CannotConnectToSkyMindNoNet>
+	<ATPP_CannotConnectToSkyMind>¡No se puede conectar a SkyMind, no hay suficientes ranuras disponibles!</ATPP_CannotConnectToSkyMind>
+	<ATPP_SurrogateUnexpectedDisconnection>Desconexión inesperada: ¡{0} ya no está conectado a la red SkyMind!</ATPP_SurrogateUnexpectedDisconnection>
+	<ATPP_SurrogateConnectionCannotBeDisconnected>No se puede desconectar, {0} se encuentra actualmente en un estado mental inestable</ATPP_SurrogateConnectionCannotBeDisconnected>
+	<ATPP_SurrogateConnectionOK>{0} está ahora conectado a {1}</ATPP_SurrogateConnectionOK>
+	<ATPP_StartPermute>¡La permutación de conciencias entre {0} y {1} ha comenzado!</ATPP_StartPermute>
+	<ATPP_StartDuplicate>¡La duplicación de la conciencia de {0} hacia {1} ha comenzado!</ATPP_StartDuplicate>
+	<ATPP_StartSkyCloudUpload>¡La subida de la conciencia de {0} en {1} ha comenzado!</ATPP_StartSkyCloudUpload>
+	<ATPP_StartSkyCloudUploadFailedFull>La subida de la conciencia de {0} en {1} no puede realizarse porque no hay suficiente espacio de almacenamiento de conciencia en {1}</ATPP_StartSkyCloudUploadFailedFull>
+	<ATPP_StartSkyCloudDownload>¡La descarga de la conciencia de {0} en el cerebro de {1} ha comenzado!</ATPP_StartSkyCloudDownload>
+	<ATPP_StartSkyCloudMigration>¡La migración de la conciencia de {0} de {1} a {2} ha comenzado!</ATPP_StartSkyCloudMigration>
+	<ATPP_StartSkyCloudMigrationFailed>La migración de la conciencia de {0} a {1} no puede realizarse porque no hay suficiente espacio de almacenamiento de conciencia en {1}</ATPP_StartSkyCloudMigrationFailed>
+	<ATPP_StartUpload>¡La subida de la conciencia de {0} hacia {1} ha comenzado!</ATPP_StartUpload>
+	<ATPP_CanOnlyBeUsedByAndroid>¡Este dispositivo solo puede ser utilizado por androides!</ATPP_CanOnlyBeUsedByAndroid>
+	<ATPP_CannotBeUsedBecauseNoOldAgeIssues>No se puede utilizar porque no se encontraron problemas de envejecimiento en el androide</ATPP_CannotBeUsedBecauseNoOldAgeIssues>
+	<ATPP_NoBrokenStuffFound>¡No se encontraron problemas en el androide {0}!</ATPP_NoBrokenStuffFound>
+	<ATPP_BrokenStuffRepairFailed>Error: ¡los nanitos no han podido reparar!</ATPP_BrokenStuffRepairFailed>
+	<ATPP_BrokenCPURepaired>¡El cerebro artificial ha sido reparado con éxito!</ATPP_BrokenCPURepaired>
+	<ATPP_BrokenHydraulicSystemRepaired>¡El sistema hidráulico ha sido reparado con éxito!</ATPP_BrokenHydraulicSystemRepaired>
+	<ATPP_BrokenCoolingSystemRepaired>¡El sistema de refrigeración ha sido reparado con éxito!</ATPP_BrokenCoolingSystemRepaired>
+	<ATPP_BrokenFrameworkRepaired>¡La estructura ha sido reparada con éxito!</ATPP_BrokenFrameworkRepaired>
+	<ATPP_CryptolockerClearedByFaction>¡{0} ha eliminado su virus cryptolocker de tu sustituto infectado!</ATPP_CryptolockerClearedByFaction>
+	<ATPP_CryptolockerDeviceClearedByFaction>¡{0} ha eliminado su virus cryptolocker de tus dispositivos conectados!</ATPP_CryptolockerDeviceClearedByFaction>
+	<ATPP_RansomwareClearedByFaction>{0} realizó las reparaciones necesarias para el daño causado a {1}</ATPP_RansomwareClearedByFaction>
+	<ATPP_SurrogateHackOK>¡El hackeo de {0} ha tenido éxito!</ATPP_SurrogateHackOK>
+	<ATPP_CannotHackNotEnoughtHackingPoints>No hay suficientes puntos de hackeo; ¡se requieren {0} para hackear!</ATPP_CannotHackNotEnoughtHackingPoints>
+	<ATPP_ProcessDuplicateOK>La red neuronal de {0} se está duplicando.</ATPP_ProcessDuplicateOK>
+	<ATPP_ProcessDuplicateFailed>No se puede duplicar la red neuronal de {0}; no hay suficiente espacio de almacenamiento de conciencia en el núcleo</ATPP_ProcessDuplicateFailed>
+	<ATPP_ProcessRemoveOK>La red neuronal de {0} ha sido eliminada.</ATPP_ProcessRemoveOK>
+	<ATPP_ProcessAssistOK>La conciencia de {0} está ahora asignada para asistir a los colonos conectados.</ATPP_ProcessAssistOK>
+	<ATPP_ProcessUnassistOK>La conciencia de {0} ya no está asignada para asistir a los colonos conectados.</ATPP_ProcessUnassistOK>
+	<ATPP_ProcessNoLongerInMentalBreak>La conciencia de {0} almacenada en {1} ya no sufre un colapso mental</ATPP_ProcessNoLongerInMentalBreak>
+	<ATPP_CannotReconnectToLastSurrogateController>No se puede reconectar; el último controlador del sustituto no está disponible (ocupado, muerto, desconectado de SkyMind...)</ATPP_CannotReconnectToLastSurrogateController>
+	<ATPP_ProcessMassAssist>¡Se han asignado {0} mentes!</ATPP_ProcessMassAssist>
+	<ATPP_ProcessMassUnassist>¡Se han desasignado {0} mentes!</ATPP_ProcessMassUnassist>
+	<ATPP_SkillsWorkshopPointsConverted>Se han añadido {0} puntos de habilidad a {1}</ATPP_SkillsWorkshopPointsConverted>
+	<ATPP_SkillsWorkshopAvailablePoints>Puntos disponibles: {0}</ATPP_SkillsWorkshopAvailablePoints>
+	<ATPP_SkillsWorkshopAvailablePointsNote>Nota: Para este modelo de androide necesitas {0} puntos de habilidad generados por tus servidores para generar 1 punto disponible</ATPP_SkillsWorkshopAvailablePointsNote>
+	<ATPP_MindAbsorptionStarted>Absorción de mente de {0} iniciada</ATPP_MindAbsorptionStarted>
+	<ATPP_NotEnoughtSkillPoints>¡No hay suficientes puntos de habilidad disponibles! (se requieren {0} puntos)</ATPP_NotEnoughtSkillPoints>
+	<ATPP_CannotAddVXNeuralChipInSurrogates>¡No se puede añadir este tipo de chip en un sustituto! ¡El chip se ha dañado y ya no se puede utilizar!</ATPP_CannotAddVXNeuralChipInSurrogates>
+	<!-- Settings -->
+	<ATPP_SettingsSectionGeneral>General</ATPP_SettingsSectionGeneral>
+	<ATPP_SettingsSectionSkyCloud>SkyCloud</ATPP_SettingsSectionSkyCloud>
+	<ATPP_SettingsSectionSecurity>Seguridad</ATPP_SettingsSectionSecurity>
+	<ATPP_SettingsSectionVX2>Chip neural VX2</ATPP_SettingsSectionVX2>
+	<ATPP_SettingsSectionVX3>Chip neural VX3</ATPP_SettingsSectionVX3>
+	<ATPP_SettingsSectionSkills>Habilidades T1/T2</ATPP_SettingsSectionSkills>
+	<ATPP_SettingsSectionBatteryOverload>Sobrecarga de batería</ATPP_SettingsSectionBatteryOverload>
+	<ATPP_SettingsDefaultAndroidGeneratorMode>Modo de energía predeterminado del androide:</ATPP_SettingsDefaultAndroidGeneratorMode>
+	<ATPP_SettingsDefaultAndroidGeneratorModeBiomass>Usar generador de biomasa (comen)</ATPP_SettingsDefaultAndroidGeneratorModeBiomass>
+	<ATPP_SettingsDefaultAndroidGeneratorModeBattery>Usar directamente la batería interna (se cargan a través de la red eléctrica)</ATPP_SettingsDefaultAndroidGeneratorModeBattery>
+	<ATPP_SettingsMindUploadDuration>Duración de la subida de mente ({0}h)</ATPP_SettingsMindUploadDuration>
+	<ATPP_SettingsMindReplicationDuration>Duración de la replicación de mente ({0}h)</ATPP_SettingsMindReplicationDuration>
+	<ATPP_SettingsMindPermutationDuration>Duración de la permutación de mente ({0}h)</ATPP_SettingsMindPermutationDuration>
+	<ATPP_SettingsMindDuplicationDuration>Duración de la duplicación de mente ({0}h)</ATPP_SettingsMindDuplicationDuration>
+	<ATPP_SettingsMindUploadPercentageFail>Riesgo de que la transferencia de conciencia falle ({0}%)</ATPP_SettingsMindUploadPercentageFail>
+	<ATPP_SettingsNanitePercentageFail>Riesgo de que los nanitos no puedan reparar a los androides ({0}%)</ATPP_SettingsNanitePercentageFail>
+	<ATPP_SettingsCharchingStationWattIncrease>Aumento de energía consumida cuando un {0} se está cargando</ATPP_SettingsCharchingStationWattIncrease>
+	<ATPP_SettingsFoodGenerateLessEnergy>La biomasa (comida) aporta menos energía a los androides (2 veces menos que a los humanos)</ATPP_SettingsFoodGenerateLessEnergy>
+	<ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>Porcentaje de batería cargada cada 6 segundos ({0}%)</ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>
+	<ATPP_SettingsNbHoursMinServerRunningHotBeforeExplode>Número mínimo de horas que los servidores pueden funcionar calientes antes de explotar ({0}h)</ATPP_SettingsNbHoursMinServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMaxServerRunningHotBeforeExplode>Número máximo de horas que los servidores pueden funcionar calientes antes de explotar ({0}h)</ATPP_SettingsNbHoursMaxServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMinSkyCloudServerRunningHotBeforeExplode>Número mínimo de horas que los núcleos SkyCloud pueden funcionar calientes antes de explotar ({0}h)</ATPP_SettingsNbHoursMinSkyCloudServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMaxSkyCloudServerRunningHotBeforeExplode>Número máximo de horas que los núcleos SkyCloud pueden funcionar calientes antes de explotar ({0}h)</ATPP_SettingsNbHoursMaxSkyCloudServerRunningHotBeforeExplode>
+	<ATPP_SettingsDelayExplosiveVirus>Número de segundos antes de que un androide infectado con un virus explosivo explote ({0}seg)</ATPP_SettingsDelayExplosiveVirus>
+	<ATPP_SettingsRiskFactionNotRemoveCryptolocker>Riesgo de que una facción no elimine el cryptolocker tras pagar el rescate ({0}%)</ATPP_SettingsRiskFactionNotRemoveCryptolocker>
+	<ATPP_SettingsRansomCost>Coste de rescate del virus cryptolocker ({0}):</ATPP_SettingsRansomCost>
+	<ATPP_SettingsAndroidCanUseOrganicMedicine>Los androides pueden usar medicina orgánica</ATPP_SettingsAndroidCanUseOrganicMedicine>
+	<ATPP_SettingsRiskGetLittleVirusEvenWithSecurityServers>Riesgo de que tus clientes conectados contraigan un virus (impacto atenuado) incluso con un sistema de seguridad que los cubra a todos ({0}%)</ATPP_SettingsRiskGetLittleVirusEvenWithSecurityServers>
+	<ATPP_SettingsRiskFactionNotRemoveRansomwareEffect>Riesgo de que una facción no elimine los efectos del ransomware tras pagar el rescate ({0}%)</ATPP_SettingsRiskFactionNotRemoveRansomwareEffect>
+	<ATPP_SettingsMinSilverToRemoveBadTrait>Cantidad mínima de plata a pagar para eliminar el ransomware de rasgo negativo</ATPP_SettingsMinSilverToRemoveBadTrait>
+	<ATPP_SettingsMaxSilverToRemoveBadTrait>Cantidad máxima de plata a pagar para eliminar el ransomware de rasgo negativo</ATPP_SettingsMaxSilverToRemoveBadTrait>
+	<ATPP_SettingsRansomwareSilverPerSkillLevel>Cantidad de plata a pagar por el ransomware de habilidad corrompida por nivel</ATPP_SettingsRansomwareSilverPerSkillLevel>
+	<ATPP_SettingsDisableSolarFlareImpactOnAndroids>Desactivar los efectos negativos de la erupción solar en los androides</ATPP_SettingsDisableSolarFlareImpactOnAndroids>
+	<ATPP_SettingsDisableSecurityStuff>Desactivar virus y hackeos a través de SkyMind</ATPP_SettingsDisableSecurityStuff>
+	<ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroupMin>Porcentaje mínimo de sustitutos que pueden estar presentes en grupos de otras facciones ({0}%)</ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroupMin>
+	<ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroup>Porcentaje máximo de sustitutos que pueden estar presentes en grupos de otras facciones ({0}%)</ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroup>
+	<ATPP_SettingsOtherFactionsCanUseSurrogate>Otras facciones pueden usar androides sustitutos</ATPP_SettingsOtherFactionsCanUseSurrogate>
+	<ATPP_SettingsTempHackDuration>Duración del hackeo temporal de sustitutos ({0} segundos)</ATPP_SettingsTempHackDuration>
+	<ATPP_SettingsCostHackingPoints>Coste en puntos de hackeo para ({0}):</ATPP_SettingsCostHackingPoints>
+	<ATPP_SettingsCostVirus>Virus</ATPP_SettingsCostVirus>
+	<ATPP_SettingsCostVirusExplosive>Virus explosivo</ATPP_SettingsCostVirusExplosive>
+	<ATPP_SettingsCostHack>Hackeo</ATPP_SettingsCostHack>
+	<ATPP_SettingsCostHackTemp>Hackeo temporal</ATPP_SettingsCostHackTemp>
+	<ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>Durante las erupciones solares los androides quedan incapacitados</ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>
+	<ATPP_SettingsDisableServersAlarm>Desactivar la alarma de calor de los servidores</ATPP_SettingsDisableServersAlarm>
+	<ATPP_SettingsDisableServersAmbianceNoises>Desactivar el ruido ambiental de los servidores</ATPP_SettingsDisableServersAmbianceNoises>
+	<ATPP_SettingsAppliedToNextSaveLoading> (Se aplica tras recargar el mapa)</ATPP_SettingsAppliedToNextSaveLoading>
+	<ATPP_SettingsDisableLowNetworkMalus>Desactivar la penalización por red SkyMind baja</ATPP_SettingsDisableLowNetworkMalus>
+	<ATPP_SettingsDisableLowNetworkMalusInCaravans>Desactivar la penalización por red SkyMind baja en caravanas</ATPP_SettingsDisableLowNetworkMalusInCaravans>
+	<ATPP_SettingsPowerConsumedByStoredMind>Energía consumida por cada mente almacenada en los núcleos SkyCloud</ATPP_SettingsPowerConsumedByStoredMind>
+	<ATPP_SettingsMindUploadToSkyCloudDuration>Duración de la subida de mente a SkyCloud ({0}h)</ATPP_SettingsMindUploadToSkyCloudDuration>
+	<ATPP_SettingsMindMigrationCloudDuration>Duración de la migración mental ({0}h)</ATPP_SettingsMindMigrationCloudDuration>
+	<ATPP_SettingsHideRemotelyControlledIcon>Ocultar el icono sobre los dispositivos controlados remotamente</ATPP_SettingsHideRemotelyControlledIcon>
+	<ATPP_SettingsSkyCloudBuffPerAssistingMind>Número de puntos de bonificación por mente de asistencia SkyCloud ({0})</ATPP_SettingsSkyCloudBuffPerAssistingMind>
+	<ATPP_SettingsNbSlotAddedForSkillServers>Número de ranuras añadidas para {0} servidores de habilidad ({1})</ATPP_SettingsNbSlotAddedForSkillServers>
+	<ATPP_SettingsNbSlotAddedForHackingServers>Número de ranuras añadidas para {0} servidores de hackeo ({1})</ATPP_SettingsNbSlotAddedForHackingServers>
+	<ATPP_SettingsNbSlotAddedForSecurityServers>Número de ranuras añadidas para {0} servidores de seguridad ({1})</ATPP_SettingsNbSlotAddedForSecurityServers>
+	<ATPP_SettingsNbPointsProducedForHackingServers>Número de puntos producidos (cada 30 segundos) para {0} servidores de hackeo ({1})</ATPP_SettingsNbPointsProducedForHackingServers>
+	<ATPP_SettingsMinNbHoursLiteHackingDeviceAttackLast>Número mínimo de horas que puede durar un ataque ligero de hackeo de dispositivo ({0}h)</ATPP_SettingsMinNbHoursLiteHackingDeviceAttackLast>
+	<ATPP_SettingsMaxNbHoursLiteHackingDeviceAttackLast>Número máximo de horas que puede durar un ataque ligero de hackeo de dispositivo ({0}h)</ATPP_SettingsMaxNbHoursLiteHackingDeviceAttackLast>
+	<ATPP_SettingsHideInactiveSurrogates>Ocultar sustitutos inactivos de la barra de colonos</ATPP_SettingsHideInactiveSurrogates>
+	<ATPP_SettingsAndroidsOnlyHealedByCrafter>Los androides solo pueden ser reparados por herreros</ATPP_SettingsAndroidsOnlyHealedByCrafter>
+	<ATPP_SettingsMinDurationOfMindMentalBreak>Duración mínima del colapso mental de una conciencia digitalizada ({0}h)</ATPP_SettingsMinDurationOfMindMentalBreak>
+	<ATPP_SettingsMaxDurationOfMindMentalBreak>Duración máxima del colapso mental de una conciencia digitalizada ({0}h)</ATPP_SettingsMaxDurationOfMindMentalBreak>
+	<ATPP_SettingsSecToBootASkyCloudCore>Tiempo de arranque de un núcleo SkyCloud ({0}seg)</ATPP_SettingsSecToBootASkyCloudCore>
+	<ATPP_SettingsDisableAbilityOfSkyCloudServersToTalk>Desactivar la posibilidad de que los núcleos SkyCloud hablen</ATPP_SettingsDisableAbilityOfSkyCloudServersToTalk>
+	<ATPP_SettingsNotRemoveAllTraitsOfBasicAndroids>No eliminar todos los rasgos de los androides T1/T2</ATPP_SettingsNotRemoveAllTraitsOfBasicAndroids>
+	<ATPP_SettingsAndroidsCanEatLivingPlants>Los androides pueden comer plantas vivas</ATPP_SettingsAndroidsCanEatLivingPlants>
+	<ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>No eliminar todas las pasiones de habilidad de los androides T1/T2</ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>
+	<ATPP_SettingsVX3MaxSurrogateControllableAtOnce>Número máximo de sustitutos controlables al mismo tiempo ({0})</ATPP_SettingsVX3MaxSurrogateControllableAtOnce>
+	<ATPP_SettingsNbPointsProducedForSkillServers>Número de puntos producidos (cada 30 segundos) para {0} servidores de habilidad ({1})</ATPP_SettingsNbPointsProducedForSkillServers>
+	<ATPP_SettingsRandomSkillsMode>Las habilidades son aleatorias</ATPP_SettingsRandomSkillsMode>
+	<ATPP_SettingsPreventM7T5AppearingInCharacterEditor>Evitar que T5/M7 aparezcan en la pantalla de creación de personajes</ATPP_SettingsPreventM7T5AppearingInCharacterEditor>
+	<ATPP_SettingsMinHoursNaniteBankFramework>Número mínimo de horas requeridas para aplicar el efecto de los bancos de nanitos estructurales ({0}h)</ATPP_SettingsMinHoursNaniteBankFramework>
+	<ATPP_SettingsMaxHoursNaniteBankFramework>Número máximo de horas requeridas para aplicar el efecto de los bancos de nanitos estructurales ({0}h)</ATPP_SettingsMaxHoursNaniteBankFramework>
+	<ATPP_SettingsNbSkillPointsPerSkill>Número de puntos de habilidad requeridos para producir una habilidad ({0})</ATPP_SettingsNbSkillPointsPerSkill>
+	<ATPP_RemoveComfortNeedForT3T4>Eliminar necesidad de comodidad para androides &gt;= T3</ATPP_RemoveComfortNeedForT3T4>
+	<ATPP_SettingsAllowHumanDrugsForT3P>Permitir drogas humanas para androides T3+</ATPP_SettingsAllowHumanDrugsForT3P>
+	<ATPP_SettingsAllowHumanDrugsFor>Permitir drogas humanas para androides</ATPP_SettingsAllowHumanDrugsFor>
+	<ATPP_SettingsUploadMindToSkyCloudCoreMode>Modo de subida de mente al núcleo SkyCloud:</ATPP_SettingsUploadMindToSkyCloudCoreMode>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>El cuerpo de la mente de origen muere</ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>El chip neural de la mente de origen reconfigura automáticamente sus circuitos en modo VX0</ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>No le ocurre nada al cuerpo de la mente de origen (duplicado)</ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>
+	<ATPP_SettingsRemoveSimpleMindedTraitOnUpload>Eliminar rasgo de mente simple cuando un T1 es transferido a un anfitrión más avanzado (humano, T2+)</ATPP_SettingsRemoveSimpleMindedTraitOnUpload>
+	<ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>Probabilidad de que los androides generados puedan estar pintados u oxidados ({0}%)</ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>
+	<ATPP_SettingsAndroidsCanRust>Los androides pueden oxidarse</ATPP_SettingsAndroidsCanRust>
+	<ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>Número mínimo de días antes de que la pintura de los androides pueda oxidarse ({0} días)</ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>
+	<ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>Número máximo de días antes de que la pintura de los androides pueda oxidarse ({0} días)</ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>
+	<ATPP_SettingsAndroidsAreRare>Hacer que los androides sean raros para otras facciones (AVISO: eliminará todas las facciones androides)</ATPP_SettingsAndroidsAreRare>
+	<ATPP_SettingsAllowAutoRepaint>Permitir que los androides reprogramen automáticamente una operación de repintado cuando la pintura actual vaya a caducar pronto</ATPP_SettingsAllowAutoRepaint>
+	<ATPP_SettingsAllowAutoRepaintPrisoned>Permitir que los androides encarcelados también reprogramen una operación de repintado</ATPP_SettingsAllowAutoRepaintPrisoned>
+	<ATPP_SettingsMaxAndroidByPortableLWPN>Máximo de androides por emisor LWPN portátil (Power++) ({0})</ATPP_SettingsMaxAndroidByPortableLWPN>
+	<ATPP_SettingsAllowT5ToWearClothes>Permitir que el T5 lleve ropa</ATPP_SettingsAllowT5ToWearClothes>
+	<ATPP_SettingsChanceCreatedAndroidsAreMale>Probabilidad de que los androides creados sean modelos masculinos ({0}%)</ATPP_SettingsChanceCreatedAndroidsAreMale>
+	<ATPP_SettingsHideAbilityToForceEatingLivingPlants>Ocultar el menú flotante que permite forzar el consumo de plantas vivas</ATPP_SettingsHideAbilityToForceEatingLivingPlants>
+	<ATPP_SettingsPassionCost>Puntos de habilidad requeridos para aumentar la pasión ({0})</ATPP_SettingsPassionCost>
+	<ATPP_SettingsVX0KeepBodyBackstory>Conservar el trasfondo del cuerpo marioneta (VX0)</ATPP_SettingsVX0KeepBodyBackstory>
+	<ATPP_SettingsAllowSurrogateConnectionInitMalus>Permitir penalización de inicialización de conexión de sustituto</ATPP_SettingsAllowSurrogateConnectionInitMalus>
+	<ATPP_SettingsAllowAndroidsToUseHospitalBeds>Permitir que los androides utilicen camas de hospital</ATPP_SettingsAllowAndroidsToUseHospitalBeds>
+	<ATPP_SettingsPercentageOfOtherFactionSurrogateHavingAnRXChip>Probabilidad de que los sustitutos de otras facciones tengan un chip RX ({0}%)</ATPP_SettingsPercentageOfOtherFactionSurrogateHavingAnRXChip>
+	<ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>Probabilidad de que el controlador de un sustituto reclutado se una a tu facción sin ser arrestado ({0}%)</ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>
+	<ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>Número mínimo de horas antes de que un M8 secuestrado sea desconectado de SkyMind ({0}h)</ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>
+	<ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>Número máximo de horas antes de que un M8 secuestrado sea desconectado de SkyMind ({0}h)</ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>
+	<ATPP_SettingsAndroidOverloadBatteryProrata>La potencia de la explosión es proporcional al nivel de batería</ATPP_SettingsAndroidOverloadBatteryProrata>
+	<ATPP_SettingsAndroidOverloadRadius>Radio de explosión del androide ({0})</ATPP_SettingsAndroidOverloadRadius>
+	<ATPP_SettingsM7OverloadRadius>Radio de explosión del M7 ({0})</ATPP_SettingsM7OverloadRadius>
+	<ATPP_SettingsAndroidOverloadExplosionType>Tipo de explosión</ATPP_SettingsAndroidOverloadExplosionType>
+	<ATPP_SettingsAndroidOverloadExplosionTypeDefault>Fragmentación</ATPP_SettingsAndroidOverloadExplosionTypeDefault>
+	<ATPP_SettingsAndroidOverloadExplosionTypeFire>Incendiaria</ATPP_SettingsAndroidOverloadExplosionTypeFire>
+	<ATPP_SettingsSetT1ResearchToIndustrialTechLevel>Cambiar la investigación de T1 a nivel tecnológico industrial en lugar de espacial</ATPP_SettingsSetT1ResearchToIndustrialTechLevel>
+	<ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>Al duplicar la mente, las habilidades de rol único se transfieren a la mente de destino</ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>
+</LanguageData>

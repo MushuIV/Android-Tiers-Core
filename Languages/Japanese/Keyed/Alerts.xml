@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <NeedMechanic>整備士が必要</NeedMechanic>
+  <NeedMechanicDesc>アンドロイドの修理が必要ですが、健康な入植者が整備士として割り当てられていません。\n\n{0}\n健康な入植者を整備士の仕事に割り当ててください。未修理のまま放置すると、損傷が適切に修復されず永久的な欠損になる可能性があります。</NeedMechanicDesc>
+  
+</LanguageData>

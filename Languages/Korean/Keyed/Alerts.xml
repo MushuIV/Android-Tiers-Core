@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <NeedMechanic>정비사 필요</NeedMechanic>
+  <NeedMechanicDesc>안드로이드의 수리가 필요하지만, 정비사로 지정된 건강한 정착민이 없습니다.\n\n{0}\n건강한 정착민에게 정비사 작업을 할당하십시오. 방치할 경우 손상이 정상적으로 복구되지 않고 영구적인 손상으로 남을 수 있습니다.</NeedMechanicDesc>
+  
+</LanguageData>
