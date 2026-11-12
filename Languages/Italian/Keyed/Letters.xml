@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Atlas_FactionChange>{0} è stato riprogrammato con successo. Ora fa parte della colonia.</Atlas_FactionChange>
+	<LetterLabelAtlas_FactionChange>Nuovo colono</LetterLabelAtlas_FactionChange>
+	
+	<Atlas_LossOfSelfWill>Il libero arbitrio di {0} è stato soppresso. Di conseguenza ora è incapace di pensare liberamente o provare emozioni e non interagirà più frequentemente con gli altri coloni. Inoltre: ha perso tutti i suoi tratti durante il processo, diventando niente più che una macchina obbediente</Atlas_LossOfSelfWill>
+	<LetterLabelAtlas_LossOfSelfWill>Libero arbitrio dell'androide</LetterLabelAtlas_LossOfSelfWill>
+	
+	<Atlas_Mutation>{0} è mutato in un frattale. Una bestia di carne contorta, causata dalla pillola frattale!.</Atlas_Mutation>
+	<LetterLabelAtlas_Mutation>Mutazione del colono</LetterLabelAtlas_Mutation>
+
+	<Atlas_TraitReroll>La personalità di {0} è stata modificata e i suoi tratti sono stati rimescolati.</Atlas_TraitReroll>
+	<LetterLabelAtlas_TraitReroll>Cambio di personalità dell'androide</LetterLabelAtlas_TraitReroll>
+	
+</LanguageData>

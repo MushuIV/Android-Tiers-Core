@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Atlas_FactionChange>{0} is succesvol geherprogrammeerd. Ze maken nu deel uit van de kolonie.</Atlas_FactionChange>
+	<LetterLabelAtlas_FactionChange>Nieuwe kolonist</LetterLabelAtlas_FactionChange>
+	
+	<Atlas_LossOfSelfWill>De vrije wil van {0} is onderdrukt. Daardoor zijn ze nu niet meer in staat om vrij te denken of emoties te voelen en zullen ze minder vaak communiceren met andere kolonisten. Bovendien zijn ze tijdens dit proces al hun eigenschappen kwijtgeraakt, waardoor ze niets meer zijn dan een gehoorzame machine.</Atlas_LossOfSelfWill>
+	<LetterLabelAtlas_LossOfSelfWill>Vrije wil van android</LetterLabelAtlas_LossOfSelfWill>
+	
+	<Atlas_Mutation>{0} is gemuteerd in een fractaal. Een beest van verwrongen vlees, veroorzaakt door de fractaalpil!</Atlas_Mutation>
+	<LetterLabelAtlas_Mutation>Kolonistmutatie</LetterLabelAtlas_Mutation>
+
+	<Atlas_TraitReroll>De persoonlijkheid van {0} is gewijzigd en hun eigenschappen zijn opnieuw bepaald.</Atlas_TraitReroll>
+	<LetterLabelAtlas_TraitReroll>Persoonlijkheidswijziging van android</LetterLabelAtlas_TraitReroll>
+	
+</LanguageData>

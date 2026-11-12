@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Atlas_FactionChange>{0} успішно перепрограмовано. Тепер це частина колонії.</Atlas_FactionChange>
+	<LetterLabelAtlas_FactionChange>Новий поселенець</LetterLabelAtlas_FactionChange>
+	
+	<Atlas_LossOfSelfWill>Вільну волю {0} було пригнічено. Тепер вони не здатні вільно мислити чи відчувати емоції й рідше взаємодіятимуть з іншими поселенцями. До того ж, у процесі вони втратили всі свої риси характеру, перетворившись на просто слухняну машину.</Atlas_LossOfSelfWill>
+	<LetterLabelAtlas_LossOfSelfWill>Вільна воля андроїда</LetterLabelAtlas_LossOfSelfWill>
+	
+	<Atlas_Mutation>{0} мутує у фрактал! Звір із покрученої плоті, породжений фрактальною пігулкою!.</Atlas_Mutation>
+	<LetterLabelAtlas_Mutation>Мутація поселенця</LetterLabelAtlas_Mutation>
+
+	<Atlas_TraitReroll>Особистість {0} було змінено, а риси характеру переобрано.</Atlas_TraitReroll>
+	<LetterLabelAtlas_TraitReroll>Зміна особистості андроїда</LetterLabelAtlas_TraitReroll>
+	
+</LanguageData>

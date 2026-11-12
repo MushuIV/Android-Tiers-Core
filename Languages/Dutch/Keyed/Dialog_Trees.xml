@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<AndroidFactionGreetingHostileI>Er klinkt een geautomatiseerd bericht waarin wordt geëist dat je een gebaar van goede wil maakt, met voorbeelden zoals: geschenken brengen naar een van {0_possessive} nederzettingen of gevangenen van {0_possessive} factie ongedeerd vrijlaten. Tot die tijd weigert {0} te praten.</AndroidFactionGreetingHostileI>
+	<AndroidFactionGreetingHostileII>{0} vergelijkt je kolonie met primitieve stammen in jullie wreedheid, en stelt dat als je jezelf wilt verbeteren, je geschenken kunt brengen naar een van {0_possessive} nederzettingen of gevangenen van {0_possessive} factie ongedeerd kunt vrijlaten.</AndroidFactionGreetingHostileII>
+	<AndroidFactionGreetingHostileIII>{0} noemt jullie kille, monsterlijke wezens alvorens direct alle communicatie te verbreken.</AndroidFactionGreetingHostileIII>
+	
+	<AndroidFactionGreetingWaryI>De zware mechanische stem van {0} begroet {NEGOTIATOR_labelShort} en vraagt welke zaken je wilt afhandelen.</AndroidFactionGreetingWaryI>
+	<AndroidFactionGreetingWaryII>Een geautomatiseerd bericht begint en vraagt {NEGOTIATOR_labelShort} welke zaken zij hebben.</AndroidFactionGreetingWaryII>
+	<AndroidFactionGreetingWaryIII>{0} opent op hoede de communicatie met {NEGOTIATOR_labelShort} en vraagt welke zaken je wilt bespreken.</AndroidFactionGreetingWaryIII>
+	
+	<AndroidFactionGreetingWarmI>{0} begroet {NEGOTIATOR_labelShort} hartelijk en vraagt wat ze kunnen doen om je te helpen.</AndroidFactionGreetingWarmI>
+	<AndroidFactionGreetingWarmII>{NEGOTIATOR_labelShort} wordt met vriendelijke woorden ontvangen wanneer de communicatie wordt geopend; {0} vraagt wat ze kunnen doen voor een medebondgenoot.</AndroidFactionGreetingWarmII>
+	<AndroidFactionGreetingWarmIII>{0} begroet {NEGOTIATOR_labelShort} met open armen en vraagt wat ze voor je kunnen doen.</AndroidFactionGreetingWarmIII>
+	
+</LanguageData>

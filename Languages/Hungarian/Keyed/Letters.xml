@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Atlas_FactionChange>{0} sikeresen újra lett programozva. Mostantól a kolónia tagja.</Atlas_FactionChange>
+	<LetterLabelAtlas_FactionChange>Új telepes</LetterLabelAtlas_FactionChange>
+	
+	<Atlas_LossOfSelfWill>{0} szabad akarata el lett tompítva. Emiatt már képtelen a szabad gondolkodásra vagy érzelmek átélésére, és nem fog olyan gyakran kapcsolatba lépni más telepesekkel. Ráadásul a folyamat során minden személyiségvonását elveszítette. Nem lett más, mint egy engedelmes gép.</Atlas_LossOfSelfWill>
+	<LetterLabelAtlas_LossOfSelfWill>Android szabad akarat</LetterLabelAtlas_LossOfSelfWill>
+	
+	<Atlas_Mutation>{0} fraktállá mutálódott. Egy eltorzult húsból álló fenevaddá, amit a fraktálkapszula okozott!</Atlas_Mutation>
+	<LetterLabelAtlas_Mutation>Telepes mutáció</LetterLabelAtlas_Mutation>
+
+	<Atlas_TraitReroll>{0} személyisége megváltozott, és a tulajdonságai újrasorsolódtak.</Atlas_TraitReroll>
+	<LetterLabelAtlas_TraitReroll>Android személyiségváltozás</LetterLabelAtlas_TraitReroll>
+	
+</LanguageData>

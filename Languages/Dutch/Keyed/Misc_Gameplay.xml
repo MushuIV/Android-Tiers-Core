@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Alerts -->
+	<ATPP_AlertHot3Devices>Computer oververhit</ATPP_AlertHot3Devices>
+	<ATPP_AlertHot3DevicesDesc>Een of meer van je computers hebben de maximale temperatuurdrempel bereikt! Zorg snel voor een geschikte temperatuur!</ATPP_AlertHot3DevicesDesc>
+	<ATPP_AlertHot2Devices>Computer warm</ATPP_AlertHot2Devices>
+	<ATPP_AlertHot2DevicesDesc>Een of meer van je computers zijn warm, verlaag snel de omgevingstemperatuur!</ATPP_AlertHot2DevicesDesc>
+	<ATPP_AlertUnsecurisedClients>{0} onbeveiligde SkyMind-clients</ATPP_AlertUnsecurisedClients>
+	<ATPP_AlertUnsecurisedClientsDesc>Waarschuwing: je hebt mogelijk {0} SkyMind-clients die via het netwerk kunnen worden gehackt; bouw beveiligingsservers om dit te voorkomen.</ATPP_AlertUnsecurisedClientsDesc>
+	<!-- Incidents -->
+	<ATPP_IncidentSurrogateHackingVirus>SX-virus</ATPP_IncidentSurrogateHackingVirus>
+	<ATPP_IncidentSurrogateHackingCryptolocker>SX-cryptolocker</ATPP_IncidentSurrogateHackingCryptolocker>
+	<ATPP_IncidentSurrogateHackingExplosiveVirus>Explosief SX-virus</ATPP_IncidentSurrogateHackingExplosiveVirus>
+	<ATPP_IncidentSurrogateHackingLiteDesc>Je beveiligingssysteem heeft een deel van de aanval geneutraliseerd, maar sommige subsystemen van {0} surrogaten zijn gecompromitteerd.</ATPP_IncidentSurrogateHackingLiteDesc>
+	<ATPP_IncidentSurrogateHackingHardDesc>Je beveiligingssysteem beschermt niet je gehele vloot van surrogaat-androids; de besturingssystemen van {0} androids zijn volledig gecompromitteerd.</ATPP_IncidentSurrogateHackingHardDesc>
+	<ATPP_IncidentVirusedDesc>Deze surrogaten staan nu volledig onder controle van het virus en zullen je nu aanvallen!</ATPP_IncidentVirusedDesc>
+	<ATPP_IncidentVirusedExplosiveDesc>Deze surrogaten staan nu volledig onder controle van het virus, zullen je nu aanvallen en laten de interne batterij van de surrogaat ontploffen na het verstrijken van een aftelklok!</ATPP_IncidentVirusedExplosiveDesc>
+	<ATPP_IncidentCryptolockerDesc>Alle geïnfecteerde surrogaten zijn volledig onbruikbaar; dit kan (hopelijk) worden opgeheven door losgeld te betalen aan de factie achter deze aanval.</ATPP_IncidentCryptolockerDesc>
+	<ATPP_IncidentDeviceHackingVirus>Virus</ATPP_IncidentDeviceHackingVirus>
+	<ATPP_IncidentDeviceHackingCryptolocker>Cryptolocker</ATPP_IncidentDeviceHackingCryptolocker>
+	<ATPP_IncidentDeviceHackingExplosiveVirus>Explosief virus</ATPP_IncidentDeviceHackingExplosiveVirus>
+	<ATPP_IncidentDeviceHackingLiteDesc>Je beveiligingssysteem heeft een deel van de aanval geneutraliseerd, maar {0} verbonden apparaten zijn tijdelijk gecompromitteerd.</ATPP_IncidentDeviceHackingLiteDesc>
+	<ATPP_IncidentDeviceHackingHardDesc>Je beveiligingssysteem beschermt niet alle verbonden apparaten; de besturingssystemen van {0} verbonden apparaten zijn volledig gecompromitteerd.</ATPP_IncidentDeviceHackingHardDesc>
+	<ATPP_IncidentDeviceVirusedDesc>Deze apparaten staan nu volledig onder controle van het virus!</ATPP_IncidentDeviceVirusedDesc>
+	<ATPP_IncidentDeviceVirusedExplosiveDesc>Deze apparaten staan nu volledig onder controle van het virus en zullen ontploffen na afloop van een aftelklok!</ATPP_IncidentDeviceVirusedExplosiveDesc>
+	<ATPP_IncidentDeviceCryptolockerDesc>Alle geïnfecteerde apparaten zijn volledig onbruikbaar; dit kan (hopelijk) worden opgeheven door losgeld te betalen aan de factie achter deze aanval.</ATPP_IncidentDeviceCryptolockerDesc>
+	<ATPP_LetterFactionRansomware>Ransomware</ATPP_LetterFactionRansomware>
+	<ATPP_LetterFactionRansomwareSkillStolenDesc>{0} heeft via het SkyMind-netwerk geheugengebieden beschadigd die overeenkomen met de vaardigheid '{1}' van {2}'s brein.</ATPP_LetterFactionRansomwareSkillStolenDesc>
+	<ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>{0} heeft via het SkyMind-netwerk het brein van {1} geïnfecteerd en de slechte eigenschap '{2}' geïnstalleerd.</ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>
+	<!-- Needs -->
+	<ATPP_EnergyNeed>Energie</ATPP_EnergyNeed>
+	<ATPP_EnergyNeedDesc>Energie is de hoeveelheid stroom die een android in diens interne batterij heeft. Als deze op nul staat, zal een android steeds meer storingen vertonen en uiteindelijk worden gedeactiveerd (sterven).</ATPP_EnergyNeedDesc>
+	<!-- NanoKits -->
+	<ATPP_NanoKitsNoCare>Geen reparatie</ATPP_NanoKitsNoCare>
+	<ATPP_NanoKitsNoKitJustVisit>Bezoek van de technicus zonder nanokits</ATPP_NanoKitsNoKitJustVisit>
+	<ATPP_NanoKitsBasic>Basis-nanokit</ATPP_NanoKitsBasic>
+	<ATPP_NanoKitsIntermediate>Gemiddelde nanokit</ATPP_NanoKitsIntermediate>
+	<ATPP_NanoKitsAdvanced>Geavanceerde nanokit</ATPP_NanoKitsAdvanced>
+	<!-- CompInspectPane -->
+	<ATPP_UploadPercentage>Geestupload: {0}%</ATPP_UploadPercentage>
+	<ATPP_DownloadPercentage>Geestdownload: {0}%</ATPP_DownloadPercentage>
+	<ATPP_PermutationPercentage>Geestpermutatie: {0}%</ATPP_PermutationPercentage>
+	<ATPP_DuplicationPercentage>Geestduplicatie: {0}%</ATPP_DuplicationPercentage>
+	<ATPP_UploadSkyCloudPercentage>Geest geüpload naar SkyCloud: {0}%</ATPP_UploadSkyCloudPercentage>
+	<ATPP_DownloadFromSkyCloudPercentage>Geest gedownload van SkyCloud: {0}%</ATPP_DownloadFromSkyCloudPercentage>
+	<ATPP_SkyMindDetected>Verbonden met SkyMind</ATPP_SkyMindDetected>
+	<ATPP_RemotelyControlledBy>Op afstand bestuurd door {0}.</ATPP_RemotelyControlledBy>
+	<ATPP_RemotelyControl>{0} op afstand besturen</ATPP_RemotelyControl>
+	<ATPP_CompHotSensitiveHot3Text>Temperatuur te hoog!</ATPP_CompHotSensitiveHot3Text>
+	<ATPP_CompHotSensitiveHot2Text>Waarschuwing hoge temperatuur</ATPP_CompHotSensitiveHot2Text>
+	<ATPP_CompHotSensitiveHot1Text>Temperatuur is een beetje hoog</ATPP_CompHotSensitiveHot1Text>
+	<ATPP_CompHotSensitiveHot0Text>Ideale bedrijfstemperatuur</ATPP_CompHotSensitiveHot0Text>
+	<ATPP_CryptoLockedSurrogate>Cryptolocked, onbruikbaar!</ATPP_CryptoLockedSurrogate>
+	<ATPP_ExplosiveVirus>Explosief virus: {0} seconden voordat de batterij ontploft!</ATPP_ExplosiveVirus>
+	<ATPP_TempHackingLosingControlIn>Controleverlies over {0} seconden</ATPP_TempHackingLosingControlIn>
+	<ATPP_BatteryLevel>Batterijniveau: {0}%</ATPP_BatteryLevel>
+	<ATPP_TempInfection>Einde van infectie over {0}</ATPP_TempInfection>
+	<ATPP_SkyCloudCoreBooting>Server start op ({0} seconden resterend)</ATPP_SkyCloudCoreBooting>
+	<ATPP_NaniteFrameworkRepairingInProgress>Reparaties aan chassis bezig {0}%</ATPP_NaniteFrameworkRepairingInProgress>
+	<ATPP_VX3SurrogateTypePrimary>Primaire surrogaat</ATPP_VX3SurrogateTypePrimary>
+	<ATPP_VX3SurrogateTypeSecondary>Secundaire surrogaat</ATPP_VX3SurrogateTypeSecondary>
+	<ATPP_MindAbsorptionProgress>Bewustzijnsabsorptie bezig {0}%</ATPP_MindAbsorptionProgress>
+	<ATPP_Rusted>Geroest</ATPP_Rusted>
+	<ATPP_BatteryExplodeInProgress>Batterij-explosie {0}%</ATPP_BatteryExplodeInProgress>
+	<!-- AutoDoor -->
+	<ATPP_AutoDoorOpen>Openen</ATPP_AutoDoorOpen>
+	<ATPP_AutoDoorOpenDescription>Op afstand openen via een SkyCloud-kern.</ATPP_AutoDoorOpenDescription>
+	<ATPP_AutoDoorClose>Sluiten</ATPP_AutoDoorClose>
+	<ATPP_AutoDoorCloseDescription>Op afstand sluiten via een SkyCloud-server.</ATPP_AutoDoorCloseDescription>
+	<ATPP_AutoDoorOpenMoteText>Openen via SkyCloud</ATPP_AutoDoorOpenMoteText>
+	<ATPP_AutoDoorCloseMoteText>Sluiten via SkyCloud</ATPP_AutoDoorCloseMoteText>
+	<!-- AutoFlickering -->
+	<ATPP_FlickEnable>Inschakelen via SkyCloud</ATPP_FlickEnable>
+	<ATPP_FlickDisable>Uitschakelen via SkyCloud</ATPP_FlickDisable>
+	<!-- Letters -->
+	<ATPP_LetterSurrogateDisabled>Surrogaat {0} uitgeschakeld</ATPP_LetterSurrogateDisabled>
+	<ATPP_LetterSurrogateDisabledDesc>Surrogaat {0} is niet langer operationeel na een gewelddadige aanval op diens fysieke integriteit.</ATPP_LetterSurrogateDisabledDesc>
+	<ATPP_LetterUploadOK>Upload voltooid</ATPP_LetterUploadOK>
+	<ATPP_LetterUploadOKDesc>Het uploaden van de geest van {0} is voltooid en deze is nu overgebracht naar het kunstmatige brein van {1}; {1} is nu dood (geest overschreven).</ATPP_LetterUploadOKDesc>
+	<ATPP_LetterPermuteOK>Permutatie voltooid</ATPP_LetterPermuteOK>
+	<ATPP_LetterPermuteOKDesc>De permutatie van de geest is voltooid; {0} en {1} hebben van lichaam gewisseld.</ATPP_LetterPermuteOKDesc>
+	<ATPP_LetterDuplicateOK>Duplicatie voltooid</ATPP_LetterDuplicateOK>
+	<ATPP_LetterDuplicateOKDesc>De duplicatie van de geest is voltooid; het brein van {1} bevat nu een duplicaat van het brein van {0}; {1} kan nu als dood worden beschouwd.</ATPP_LetterDuplicateOKDesc>
+	<ATPP_LetterSkyCloudUploadOK>SkyCloud-upload voltooid</ATPP_LetterSkyCloudUploadOK>
+	<ATPP_LetterSkyCloudUploadOKDesc>Het uploaden van de geest naar SkyCloud is voltooid; het bewustzijn van {0} is nu opgeslagen in het centrale geheugen van {1}.</ATPP_LetterSkyCloudUploadOKDesc>
+	<ATPP_LetterSkyCloudReplicateOK>Replicatie voltooid</ATPP_LetterSkyCloudReplicateOK>
+	<ATPP_LetterSkyCloudReplicateOKDesc>De replicatie van het neurale netwerk van {0} in het geheugen van {1} is voltooid.</ATPP_LetterSkyCloudReplicateOKDesc>
+	<ATPP_LetterSkyCloudDownloadOK>SkyCloud-download voltooid</ATPP_LetterSkyCloudDownloadOK>
+	<ATPP_LetterSkyCloudDownloadOKDesc>Het downloaden van de geest van SkyCloud is voltooid; het bewustzijn van {0} is nu opgeslagen in het centrale geheugen van {1}.</ATPP_LetterSkyCloudDownloadOKDesc>
+	<ATPP_LetterSkyCloudMigrateOK>SkyCloud-geestmigratie voltooid</ATPP_LetterSkyCloudMigrateOK>
+	<ATPP_LetterSkyCloudMigrateOKDesc>De migratie van de geest van {0} van {1} naar {2} is nu voltooid.</ATPP_LetterSkyCloudMigrateOKDesc>
+	<ATPP_LetterInterruptedUpload>Upload mislukt</ATPP_LetterInterruptedUpload>
+	<ATPP_LetterInterruptedUploadDesc>Fatale fout: De overdracht van het bewustzijn is onderbroken, wat heeft geleid tot definitieve beschadiging van beide breinen (overlijden).{0}</ATPP_LetterInterruptedUploadDesc>
+	<ATPP_LetterInterruptedUploadDescCompHostDead>Overlijden van de ontvangende gastheer</ATPP_LetterInterruptedUploadDescCompHostDead>
+	<ATPP_LetterInterruptedUploadDescCompSourceDead>Overlijden van de uitzendende geest</ATPP_LetterInterruptedUploadDescCompSourceDead>
+	<ATPP_LetterInterruptedUploadDescCompRandomError>Er is een onbekende fout opgetreden</ATPP_LetterInterruptedUploadDescCompRandomError>
+	<ATPP_LetterInterruptedUploadDescCompDiconnectionError>Een of beide kolonisten zijn niet langer verbonden met SkyMind.</ATPP_LetterInterruptedUploadDescCompDiconnectionError>
+	<ATPP_LetterFactionScam>Opgelicht</ATPP_LetterFactionScam>
+	<ATPP_LetterFactionScamCryptolockerDesc>{0} heeft besloten het cryptolocker-virus dat je kolonie besmette niet te verwijderen; ze hebben je opgelicht...</ATPP_LetterFactionScamCryptolockerDesc>
+	<ATPP_LetterFactionScamRansomwareDesc>{0} heeft besloten het effect van hun ransomware niet op te heffen; ze hebben je opgelicht...</ATPP_LetterFactionScamRansomwareDesc>
+	<ATPP_CryptolockerNeedPayRansomTitle>Cryptolocker-losgeld</ATPP_CryptolockerNeedPayRansomTitle>
+	<ATPP_CryptolockerNeedPayRansom>{0} neemt contact met je op via de radio. Zij zitten achter de aanval met het cryptolocker-virus en zullen hun virus verwijderen in ruil voor {1} zilver.</ATPP_CryptolockerNeedPayRansom>
+	<ATPP_RansomNeedPayRansomTitle>Ransomware-losgeld</ATPP_RansomNeedPayRansomTitle>
+	<ATPP_RansomNeedPayRansomCorruptedSKill>{0} neemt contact met je op via de radio. Zij zitten achter de ransomware-aanval en zullen de beschadigde vaardigheid '{1}' van {2} herstellen in ruil voor {3} zilver.</ATPP_RansomNeedPayRansomCorruptedSKill>
+	<ATPP_RansomNeedPayRansomDownloadedTrait>{0} neemt contact met je op via de radio. Zij zitten achter de ransomware-aanval en zullen de geïnstalleerde slechte eigenschap '{1}' van {2} verwijderen in ruil voor {3} zilver.</ATPP_RansomNeedPayRansomDownloadedTrait>
+	<ATPP_ComptHeatSensitiveComputerMeltTitle>Server oververhit</ATPP_ComptHeatSensitiveComputerMeltTitle>
+	<ATPP_ComptHeatSensitiveComputerMeltDesc>Een server is ontploft vanwege de hoge bedrijfstemperatuur!</ATPP_ComptHeatSensitiveComputerMeltDesc>
+	<ATPP_destroyedMindsDueToDestroyedSkyCloudCore>{0} bewustzijnen verloren</ATPP_destroyedMindsDueToDestroyedSkyCloudCore>
+	<ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>Na de vernietiging van SkyCloud-kern {0} zijn alle {1} bewustzijnen die in het centrale geheugen waren opgeslagen verloren gegaan.</ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>
+	<ATPP_LetterHackingPointsRemoved>Hackpunten verloren</ATPP_LetterHackingPointsRemoved>
+	<ATPP_LetterHackingPointsRemovedDesc>Alle hackservers in je nederzetting(en) zijn offline, wat betekent dat {0} punten verloren zijn gegaan omdat ze op geen enkel medium meer kunnen worden opgeslagen!</ATPP_LetterHackingPointsRemovedDesc>
+	<ATPP_LetterSkillPointsRemoved>Vaardigheidspunten verloren</ATPP_LetterSkillPointsRemoved>
+	<ATPP_LetterSkillPointsRemovedDesc>Alle vaardigheidsservers in je nederzetting(en) zijn offline, wat betekent dat {0} punten verloren zijn gegaan omdat ze op geen enkel medium meer kunnen worden opgeslagen!</ATPP_LetterSkillPointsRemovedDesc>
+	<ATPP_SkyCloudCoreBooted>{0} opgestart</ATPP_SkyCloudCoreBooted>
+	<ATPP_SkyCloudCoreBootedDesc>De SkyCloud-server {0} is succesvol gestart en kan nu worden gebruikt.</ATPP_SkyCloudCoreBootedDesc>
+	<ATPP_LetterInterruptedSkyCloudReplication>Replicatie mislukt</ATPP_LetterInterruptedSkyCloudReplication>
+	<ATPP_LetterInterruptedSkyCloudReplicationDesc>De replicatie van het bewustzijn van {0} is mislukt omdat de host-SkyCloud-kern offline is.</ATPP_LetterInterruptedSkyCloudReplicationDesc>
+	<ATPP_LetterInterruptedSkyCloudMigration>Migratie mislukt</ATPP_LetterInterruptedSkyCloudMigration>
+	<ATPP_LetterInterruptedSkyCloudMigrationDesc>De migratie van het bewustzijn van {0} is mislukt omdat de bestemmings-SkyCloud-kern offline is.</ATPP_LetterInterruptedSkyCloudMigrationDesc>
+	<ATPP_LetterTraitorOffline>Verrader offline</ATPP_LetterTraitorOffline>
+	<ATPP_LetterTraitorOfflineDesc>{0} heeft diens factie verraden door zich door jou te laten rekruteren. De factie merkte het op en hij werd gearresteerd (hij is daarom losgekoppeld van de surrogaat die hij bestuurde).</ATPP_LetterTraitorOfflineDesc>
+	<ATPP_LetterInterruptedMindAbsorption>Bewustzijnsabsorptie mislukt</ATPP_LetterInterruptedMindAbsorption>
+	<ATPP_LetterInterruptedMindAbsorptionDesc>De bewustzijnsabsorptie van {0} is mislukt door een verbroken verbinding met SkyMind of doordat er geen puntenserver operationeel is.</ATPP_LetterInterruptedMindAbsorptionDesc>
+	<ATPP_MindAbsorptionDone>Bewustzijnsabsorptie voltooid</ATPP_MindAbsorptionDone>
+	<ATPP_MindAbsorptionDoneDesc>Bewustzijnsabsorptie van {0} voltooid, {1} vaardigheidspunten verdiend</ATPP_MindAbsorptionDoneDesc>
+	<ATPP_LetterExternalSurrogateEscape>Ontsnapping van surrogaatbestuurder</ATPP_LetterExternalSurrogateEscape>
+	<ATPP_LetterExternalSurrogateEscapeDesc>{0}, de bestuurder van de surrogaat die je probeert te rekruteren, heeft besloten zich bij je kolonie aan te sluiten. Hij zal de verbinding met diens surrogaat verbreken en heimelijk de vijandelijke basis ontvluchten om zich binnen enkele dagen bij je kolonie te voegen, zonder precies te weten wanneer.</ATPP_LetterExternalSurrogateEscapeDesc>
+	<ATPP_LetterExternalSurrogateControllerJoin>Ex-gevangene aangesloten</ATPP_LetterExternalSurrogateControllerJoin>
+	<ATPP_LetterExternalSurrogateControllerJoinDesc>{0}, een surrogaatbestuurder die je gevangen hebt genomen en succesvol hebt bekeerd, is zojuist bij je kolonie aangekomen en heeft zich aangesloten.</ATPP_LetterExternalSurrogateControllerJoinDesc>
+	<ATPP_LetterExternalSurrogateControllerCannotJoin>Ex-gevangene kon zich niet aansluiten</ATPP_LetterExternalSurrogateControllerCannotJoin>
+	<ATPP_LetterExternalSurrogateControllerCannotJoinDesc>{0}, een surrogaatbestuurder die je gevangen hebt genomen en succesvol hebt bekeerd, heeft geprobeerd je kolonie te bereiken, maar slaagde daar om onbekende redenen niet in en is daarom vertrokken.</ATPP_LetterExternalSurrogateControllerCannotJoinDesc>
+	<ATPP_LetterExternalSurrogateDisconnect>Bestuurder losgekoppeld</ATPP_LetterExternalSurrogateDisconnect>
+	<ATPP_LetterExternalSurrogateDisconnectDesc>{0}, de bestuurder van de surrogaat die je probeerde te knechten, heeft de verbinding verbroken omdat hij en diens factie het gevoel hebben geen informatie meer uit je kolonie te kunnen halen en doorgaan als slaaf tijdverspilling zou zijn.</ATPP_LetterExternalSurrogateDisconnectDesc>
+	<ATPP_LetterKidnappedM8Disconnected>M8-ontkoppeling</ATPP_LetterKidnappedM8Disconnected>
+	<ATPP_LetterKidnappedM8DisconnectedDesc>De ontvoerders van je M8 ({0} met {1}) wisten uiteindelijk toegang te krijgen tot diens communicatiecircuits. Toen ze beseften dat de machine bleef communiceren via diens geïntegreerde SkyMind-antenne, koppelden ze deze los. Je kunt dus niet langer inloggen op {1}.</ATPP_LetterKidnappedM8DisconnectedDesc>
+	<!-- Designators -->
+	<ATPP_DesignatorNeedSelectSX>Fout: Je moet een geldig apparaat selecteren dat is verbonden met het SkyMind-netwerk!</ATPP_DesignatorNeedSelectSX>
+	<ATPP_DesignatorNeedSelectSXToHack>Fout: Je moet een surrogaat-android selecteren die door een andere factie dan de jouwe wordt bestuurd!</ATPP_DesignatorNeedSelectSXToHack>
+	<!-- Comps -->
+	<ATPP_SkyMindConn>Verbinden met SkyMind</ATPP_SkyMindConn>
+	<ATPP_SkyMindConnDesc>Verbind deze kolonist met het SkyMind-netwerk om geestupload/-permutatie/-duplicatie mogelijk te maken of om op afstand SX-serie androids of biologische surrogaten te besturen.</ATPP_SkyMindConnDesc>
+	<ATPP_SkyMindAutoConn>Automatische verbinding</ATPP_SkyMindAutoConn>
+	<ATPP_SkyMindAutoConnDesc>Indien losgekoppeld van het SkyMind-netwerk, zal dit apparaat automatisch proberen opnieuw verbinding te maken wanneer er vrije slots beschikbaar zijn.</ATPP_SkyMindAutoConnDesc>
+	<ATPP_Duplicate>Dupliceren</ATPP_Duplicate>
+	<ATPP_DuplicateDesc>Dupliceer het bewustzijn van de geselecteerde kolonist naar een ander.</ATPP_DuplicateDesc>
+	<ATPP_Permute>Permuteren</ATPP_Permute>
+	<ATPP_PermuteDesc>Wissel het bewustzijn van de geselecteerde kolonist uit met een ander.</ATPP_PermuteDesc>
+	<ATPP_EnableSurrogateControlMode>Besturen</ATPP_EnableSurrogateControlMode>
+	<ATPP_EnableSurrogateControlModeDesc>Schakel afstandsbedieningsmodus in, waardoor deze kolonist een SX-serie android of biologische surrogaat kan besturen.</ATPP_EnableSurrogateControlModeDesc>
+	<ATPP_AndroidToControlTargetDisconnect>Verbinding verbreken</ATPP_AndroidToControlTargetDisconnect>
+	<ATPP_AndroidToControlTargetDisconnectDesc>Stop de huidige sessie van afstandsbediening.</ATPP_AndroidToControlTargetDisconnectDesc>
+	<ATPP_AndroidToControlTarget>Verbinden</ATPP_AndroidToControlTarget>
+	<ATPP_AndroidToControlTargetDesc>Neem de controle over het geselecteerde knooppunt.</ATPP_AndroidToControlTargetDesc>
+	<ATPP_ThisCurrentMap>Deze kaart</ATPP_ThisCurrentMap>
+	<ATPP_AndroidToControlTargetRecoverCaravan>Herstellen</ATPP_AndroidToControlTargetRecoverCaravan>
+	<ATPP_AndroidToControlTargetRecoverCaravanDesc>Herstel een losgekoppelde surrogaat in een karavaan.</ATPP_AndroidToControlTargetRecoverCaravanDesc>
+	<ATPP_FreeControllerInCaravan>Karavaan</ATPP_FreeControllerInCaravan>
+	<ATPP_FreeControllerInCaravanDesc>Verbind deze surrogaat met een vrije bestuurder in een karavaan</ATPP_FreeControllerInCaravanDesc>
+	<ATPP_AndroidSurrogateReconnectToLastController>Opnieuw verbinden</ATPP_AndroidSurrogateReconnectToLastController>
+	<ATPP_AndroidSurrogateReconnectToLastControllerDesc>Verbind de surrogaat (indien mogelijk) opnieuw met de laatste gebruiker die hem bediende</ATPP_AndroidSurrogateReconnectToLastControllerDesc>
+	<ATPP_NoVX2Recipient>Geen beschikbare kolonisten (ze moeten het VX2-chip-hersenimplantaat hebben).</ATPP_NoVX2Recipient>
+	<ATPP_NoSkyCloudCoreAvailable>Geen beschikbare SkyCloud-kern</ATPP_NoSkyCloudCoreAvailable>
+	<ATPP_ConsciousnessUploadNoRecipient>Geen ontvanger beschikbaar als downloadbestemming.</ATPP_ConsciousnessUploadNoRecipient>
+	<ATPP_ConsciousnessSelectDestination>Selecteer een bestemmingsgastheer</ATPP_ConsciousnessSelectDestination>
+	<ATPP_UploadConsciousness>Uploaden</ATPP_UploadConsciousness>
+	<ATPP_UploadConsciousnessDesc>Upload geest van deze android naar een ander.</ATPP_UploadConsciousnessDesc>
+	<ATPP_WarningSkyMindDisconnectionRisk>Waarschuwing: er mogen tijdens de operatie geen ontkoppelingen van het SkyMind-netwerk plaatsvinden, omdat dit hun brein beschadigt en hen doodt</ATPP_WarningSkyMindDisconnectionRisk>
+	<ATPP_UploadConsciousnessConfirm>Geest uploaden</ATPP_UploadConsciousnessConfirm>
+	<ATPP_UploadConsciousnessConfirmDesc>Door te bevestigen zal {0} diens geest uploaden naar het lichaam van {1}, waardoor de geest van {1} wordt overschreven (gedood) en het lichaam van {0} wordt uitgeschakeld. Weet je zeker dat je wilt doorgaan?</ATPP_UploadConsciousnessConfirmDesc>
+	<ATPP_PermuteConsciousnessConfirm>Geestpermutatie</ATPP_PermuteConsciousnessConfirm>
+	<ATPP_PermuteConsciousnessConfirmDesc>Door te bevestigen zal {0} diens geest uitwisselen met {1}; ze zullen van lichaam wisselen. Weet je zeker dat je wilt doorgaan?</ATPP_PermuteConsciousnessConfirmDesc>
+	<ATPP_DuplicateConsciousnessConfirm>Geestduplicatie</ATPP_DuplicateConsciousnessConfirm>
+	<ATPP_DuplicateConsciousnessConfirmDesc>Door te bevestigen zal {0} diens geest dupliceren naar het brein van {1}, waardoor de geest van {1} wordt overschreven (gedood). Weet je zeker dat je wilt doorgaan?</ATPP_DuplicateConsciousnessConfirmDesc>
+	<ATPP_UseBattery>Batterij gebruiken</ATPP_UseBattery>
+	<ATPP_UseBatteryDesc>Indien ingeschakeld gebruikt de android direct diens interne batterij in plaats van diens biomassagenerator.</ATPP_UseBatteryDesc>
+	<ATPP_RepairAndroids>Androids repareren</ATPP_RepairAndroids>
+	<ATPP_RepairAndroidsDesc>Sta deze kolonist toe androids te repareren.</ATPP_RepairAndroidsDesc>
+	<ATPP_UploadVirus>Virus</ATPP_UploadVirus>
+	<ATPP_UploadVirusDesc>Upload een virus naar de gekozen surrogaat.</ATPP_UploadVirusDesc>
+	<ATPP_UploadExplosiveVirus>Explosief virus</ATPP_UploadExplosiveVirus>
+	<ATPP_UploadExplosiveVirusDesc>Upload een virus naar de gekozen surrogaat waardoor de interne batterij overbelast raakt en ontploft.</ATPP_UploadExplosiveVirusDesc>
+	<ATPP_Hack>Hacken</ATPP_Hack>
+	<ATPP_HackDesc>Hack de gekozen surrogaat en neem de controle over.</ATPP_HackDesc>
+	<ATPP_HackTemp>Tijdelijke hack</ATPP_HackTemp>
+	<ATPP_HackTempDesc>Voer een snelle hack uit om tijdelijk de controle over de gekozen surrogaat over te nemen.</ATPP_HackTempDesc>
+	<ATPP_MoveToSkyCloud>SkyCloud-upload</ATPP_MoveToSkyCloud>
+	<ATPP_MoveToSkyCloudDesc>Deze operatie verplaatst de geest van de gastheer naar een SkyCloud-kern, wat hen vrijwel onsterfelijk maakt, maar diens lichaam als dood achterlaat.</ATPP_MoveToSkyCloudDesc>
+	<ATPP_MoveFromSkyCloud>SkyCloud-download</ATPP_MoveFromSkyCloud>
+	<ATPP_MoveFromSkyCloudDesc>Deze operatie verplaatst de geselecteerde geest die is opgeslagen in een SkyCloud-kern naar het brein van de gastheer.</ATPP_MoveFromSkyCloudDesc>
+	<ATPP_CentralCoreNbStoredMind>{0} bewustzijnen opgeslagen</ATPP_CentralCoreNbStoredMind>
+	<ATPP_CentralCoreNbAssistingMinds>{0} bewustzijnen toegewezen aan assistentie</ATPP_CentralCoreNbAssistingMinds>
+	<ATPP_CentralCoreMigrationInProgress>Migratie van {0} naar {1} bezig ({2}%)</ATPP_CentralCoreMigrationInProgress>
+	<ATPP_CentralCoreProcessInMentalBreak>{0} onbruikbaar: mentale inzinking</ATPP_CentralCoreProcessInMentalBreak>
+	<ATPP_CentralCoreReplicationInProgress>Bewustzijnsreplicatie van {0} bezig ({1}%)</ATPP_CentralCoreReplicationInProgress>
+	<ATPP_SkyCloudFloatMenuMindsStoredSelect>Selecteer een bewustzijn</ATPP_SkyCloudFloatMenuMindsStoredSelect>
+	<ATPP_ProcessInfo>Info</ATPP_ProcessInfo>
+	<ATPP_ProcessInfoDesc>Informatie over opgeslagen geesten verkrijgen.</ATPP_ProcessInfoDesc>
+	<ATPP_ProcessRemove>Verwijderen</ATPP_ProcessRemove>
+	<ATPP_ProcessRemoveDesc>Verwijder een geest</ATPP_ProcessRemoveDesc>
+	<ATPP_ProcessRemoveDescConfirm>Door te bevestigen wordt het bewustzijn van {0} volledig gewist uit het geheugen van {1}; ze worden als dood beschouwd!</ATPP_ProcessRemoveDescConfirm>
+	<ATPP_ProcessDuplicate>Repliceren</ATPP_ProcessDuplicate>
+	<ATPP_ProcessDuplicateDesc>Repliceer een bewustzijn.</ATPP_ProcessDuplicateDesc>
+	<ATPP_ProcessAssist>Assisteren</ATPP_ProcessAssist>
+	<ATPP_ProcessAssistDesc>Wijs de lijst van opgeslagen geesten toe die uitsluitend worden gebruikt om je kolonisten te assisteren die zijn verbonden met het SkyMind-netwerk; ze krijgen een globale stemmingsboost voor elke geest die hier is toegewezen.</ATPP_ProcessAssistDesc>
+	<ATPP_ProcessMigrate>Migreren</ATPP_ProcessMigrate>
+	<ATPP_ProcessMigrateDesc>Migreer een bewustzijn van deze SkyCloud-kern naar een andere</ATPP_ProcessMigrateDesc>
+	<ATPP_ProcessAssistAssignedMinds>Geesttoewijzing ongedaan maken (verwijderen)</ATPP_ProcessAssistAssignedMinds>
+	<ATPP_ProcessAssistUnassignedMinds>Geest toewijzen (toevoegen)</ATPP_ProcessAssistUnassignedMinds>
+	<ATPP_ProcessAssistAssignAll>Alle niet-toegewezen geesten toewijzen</ATPP_ProcessAssistAssignAll>
+	<ATPP_ProcessAssistUnassignAll>Alle toegewezen geesten ontkoppelen</ATPP_ProcessAssistUnassignAll>
+	<ATPP_ProcessDisconnectAllSurrogates>Alles loskoppelen</ATPP_ProcessDisconnectAllSurrogates>
+	<ATPP_StopVirused>Stoppen</ATPP_StopVirused>
+	<ATPP_StopVirusedDesc>Schakel deze geïnfecteerde surrogaat uit</ATPP_StopVirusedDesc>
+	<ATPP_PreviousSurrogateControllerIs>Vorige bestuurder was {0}</ATPP_PreviousSurrogateControllerIs>
+	<ATPP_Skills>Vaardigheden</ATPP_Skills>
+	<ATPP_SkillsDesc>Open de vaardighedenwerkplaats, waarmee je de door je servers gegenereerde vaardigheidspunten kunt omzetten in extra vaardigheden voor je androids</ATPP_SkillsDesc>
+	<ATPP_MindAbsorption>Bewustzijnsabsorptie</ATPP_MindAbsorption>
+	<ATPP_MindAbsorptionDesc>Absorbeer de geest van een gevangene om deze om te zetten in vaardigheidspunten (dodelijke operatie)</ATPP_MindAbsorptionDesc>
+	<ATPP_MindAbsorptionConfirm>Bewustzijnsabsorptie</ATPP_MindAbsorptionConfirm>
+	<ATPP_MindAbsorptionConfirmDesc>Door te bevestigen wordt het bewustzijn van {0} geabsorbeerd en omgezet in vaardigheidspunten (dodelijke operatie). Weet je zeker dat je wilt doorgaan?</ATPP_MindAbsorptionConfirmDesc>
+	<ATPP_UploadMakeAndroidBatteryOverloadConfirm>Batterij overbelasten</ATPP_UploadMakeAndroidBatteryOverloadConfirm>
+	<ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>Pas op: bij bevestiging raakt de batterij van de geselecteerde android overbelast en zal na korte tijd ontploffen. Wil je echt doorgaan?</ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>
+	<ATPP_OverloadAndroid>Overbelasten</ATPP_OverloadAndroid>
+	<ATPP_OverloadAndroidDesc>Laat de batterij van de android ontploffen</ATPP_OverloadAndroidDesc>
+	<!-- Power++ compat -->
+	<ATPP_LWPNConnected>Verbonden met {0}</ATPP_LWPNConnected>
+	<ATPP_LWPNDisconnected>Losgekoppeld van {0}</ATPP_LWPNDisconnected>
+	<ATPP_NoAvailableLWPN>Geen beschikbare LWPN</ATPP_NoAvailableLWPN>
+	<ATPP_LWPNNbConnectedAndroid>Verbonden androids : {0}</ATPP_LWPNNbConnectedAndroid>
+	<ATPP_MessageLWPNNoSlotAvailable>Geen vrij LWPN-slot beschikbaar!</ATPP_MessageLWPNNoSlotAvailable>
+	<!-- Buildings -->
+	<ATPP_SkyMindAntennaSynthesis>Verbonden gebruikers: {0} / {1}</ATPP_SkyMindAntennaSynthesis>
+	<ATPP_ForceReload>Batterij opladen forceren</ATPP_ForceReload>
+	<ATPP_CannotUseEveryPlaceUsed>Kan niet gebruiken, het laadstation is vol.</ATPP_CannotUseEveryPlaceUsed>
+	<ATPP_CannotUseBecauseNotInBatteryMode>Kan niet gebruiken omdat de interne batterij van de geselecteerde android niet als standaardgenerator is ingesteld.</ATPP_CannotUseBecauseNotInBatteryMode>
+	<ATPP_SecurityServersSynthesis>Beschermde surrogaten: {0} / {1}</ATPP_SecurityServersSynthesis>
+	<ATPP_HackingServersSynthesis>Hackpunten beschikbaar: {0} / {1}</ATPP_HackingServersSynthesis>
+	<ATTP_HackingSlotsAdded>Hackslots toegevoegd: {0}</ATTP_HackingSlotsAdded>
+	<ATTP_HackingProducedPoints>Geproduceerde hackpunten: {0}</ATTP_HackingProducedPoints>
+	<ATTP_SecuritySlotsAdded>Beveiligingsslots toegevoegd: {0}</ATTP_SecuritySlotsAdded>
+	<ATPP_SkillServersSynthesis>Vaardigheidspunten beschikbaar: {0} / {1}</ATPP_SkillServersSynthesis>
+	<ATTP_SkillSlotsAdded>Vaardigheidsslots toegevoegd: {0}</ATTP_SkillSlotsAdded>
+	<ATTP_SkillProducedPoints>Geproduceerde vaardigheidspunten: {0}</ATTP_SkillProducedPoints>
+	<!-- Colors -->
+	<ATPP_HairColor>Haarkleur</ATPP_HairColor>
+	<ATPP_HairColorBlond>Blond</ATPP_HairColorBlond>
+	<ATPP_HairColorBlack>Zwart</ATPP_HairColorBlack>
+	<ATPP_HairColorAuburn>Kastanjebruin</ATPP_HairColorAuburn>
+	<ATPP_HairColorGrey>Grijs</ATPP_HairColorGrey>
+	<ATPP_HairColorGinger>Roodharig</ATPP_HairColorGinger>
+	<ATPP_HairColorWhite>Wit</ATPP_HairColorWhite>
+	<ATPP_SkinColor>Huidskleur</ATPP_SkinColor>
+	<ATPP_SkinColorVerylight>Zeer licht</ATPP_SkinColorVerylight>
+	<ATPP_SkinColorLight>Licht</ATPP_SkinColorLight>
+	<ATPP_SkinColorFair>Blank</ATPP_SkinColorFair>
+	<ATPP_SkinColorMidbrown>Middenbruin</ATPP_SkinColorMidbrown>
+	<ATPP_SkinColorDarkbrown>Donkerbruin</ATPP_SkinColorDarkbrown>
+	<ATPP_SkinColorVerydark>Zeer donkerbruin</ATPP_SkinColorVerydark>
+	<!-- Messages -->
+	<ATPP_CannotConnectToSkyMindNoNet>Kan geen verbinding maken met SkyMind, geen netwerk beschikbaar!</ATPP_CannotConnectToSkyMindNoNet>
+	<ATPP_CannotConnectToSkyMind>Kan geen verbinding maken met SkyMind, onvoldoende slots beschikbaar!</ATPP_CannotConnectToSkyMind>
+	<ATPP_SurrogateUnexpectedDisconnection>Onverwachte ontkoppeling: {0} is niet langer verbonden met het SkyMind-netwerk!</ATPP_SurrogateUnexpectedDisconnection>
+	<ATPP_SurrogateConnectionCannotBeDisconnected>Kan verbinding niet verbreken, {0} bevindt zich momenteel in een instabiele mentale toestand</ATPP_SurrogateConnectionCannotBeDisconnected>
+	<ATPP_SurrogateConnectionOK>{0} is nu verbonden met {1}</ATPP_SurrogateConnectionOK>
+	<ATPP_StartPermute>De permutatie van bewustzijnen tussen {0} en {1} is begonnen!</ATPP_StartPermute>
+	<ATPP_StartDuplicate>De duplicatie van het bewustzijn van {0} naar {1} is begonnen!</ATPP_StartDuplicate>
+	<ATPP_StartSkyCloudUpload>Het uploaden van het bewustzijn van {0} naar {1} is begonnen!</ATPP_StartSkyCloudUpload>
+	<ATPP_StartSkyCloudUploadFailedFull>Het uploaden van het bewustzijn van {0} naar {1} kan niet worden uitgevoerd, omdat er niet genoeg bewustzijnsopslagruimte is in {1}</ATPP_StartSkyCloudUploadFailedFull>
+	<ATPP_StartSkyCloudDownload>Het downloaden van het bewustzijn van {0} naar het brein van {1} is begonnen!</ATPP_StartSkyCloudDownload>
+	<ATPP_StartSkyCloudMigration>De migratie van het bewustzijn van {0} van {1} naar {2} is begonnen!</ATPP_StartSkyCloudMigration>
+	<ATPP_StartSkyCloudMigrationFailed>De migratie van het bewustzijn van {0} in {1} kan niet worden uitgevoerd, omdat er niet genoeg bewustzijnsopslagruimte is in {1}</ATPP_StartSkyCloudMigrationFailed>
+	<ATPP_StartUpload>Het uploaden van het bewustzijn van {0} naar {1} is begonnen!</ATPP_StartUpload>
+	<ATPP_CanOnlyBeUsedByAndroid>Dit apparaat kan alleen door androids worden gebruikt!</ATPP_CanOnlyBeUsedByAndroid>
+	<ATPP_CannotBeUsedBecauseNoOldAgeIssues>Kan niet worden gebruikt omdat er geen ouderdomskwalen bij de android zijn gevonden</ATPP_CannotBeUsedBecauseNoOldAgeIssues>
+	<ATPP_NoBrokenStuffFound>Geen problemen gevonden voor android {0}!</ATPP_NoBrokenStuffFound>
+	<ATPP_BrokenStuffRepairFailed>Fout: nanites konden de reparatie niet voltooien!</ATPP_BrokenStuffRepairFailed>
+	<ATPP_BrokenCPURepaired>Kunstmatig brein is succesvol gerepareerd!</ATPP_BrokenCPURepaired>
+	<ATPP_BrokenHydraulicSystemRepaired>Het hydraulische systeem is succesvol gerepareerd!</ATPP_BrokenHydraulicSystemRepaired>
+	<ATPP_BrokenCoolingSystemRepaired>Het koelsysteem is succesvol gerepareerd!</ATPP_BrokenCoolingSystemRepaired>
+	<ATPP_BrokenFrameworkRepaired>Het chassis is succesvol gerepareerd!</ATPP_BrokenFrameworkRepaired>
+	<ATPP_CryptolockerClearedByFaction>{0} heeft het cryptolocker-virus verwijderd van je geïnfecteerde surrogaat!</ATPP_CryptolockerClearedByFaction>
+	<ATPP_CryptolockerDeviceClearedByFaction>{0} heeft het cryptolocker-virus verwijderd van je verbonden apparaten!</ATPP_CryptolockerDeviceClearedByFaction>
+	<ATPP_RansomwareClearedByFaction>{0} heeft de nodige reparaties uitgevoerd voor de schade toegebracht aan {1}</ATPP_RansomwareClearedByFaction>
+	<ATPP_SurrogateHackOK>Hacken van {0} geslaagd!</ATPP_SurrogateHackOK>
+	<ATPP_CannotHackNotEnoughtHackingPoints>Niet genoeg hackpunten, {0} zijn vereist om te hacken!</ATPP_CannotHackNotEnoughtHackingPoints>
+	<ATPP_ProcessDuplicateOK>Het neurale netwerk van {0} wordt gedupliceerd.</ATPP_ProcessDuplicateOK>
+	<ATPP_ProcessDuplicateFailed>Kan neuraal netwerk van {0} niet dupliceren, onvoldoende bewustzijnsopslagruimte in de kern</ATPP_ProcessDuplicateFailed>
+	<ATPP_ProcessRemoveOK>Het neurale netwerk van {0} is verwijderd.</ATPP_ProcessRemoveOK>
+	<ATPP_ProcessAssistOK>Het bewustzijn van {0} is nu toegewezen om verbonden kolonisten te assisteren.</ATPP_ProcessAssistOK>
+	<ATPP_ProcessUnassistOK>Het bewustzijn van {0} is niet langer toegewezen om verbonden kolonisten te assisteren.</ATPP_ProcessUnassistOK>
+	<ATPP_ProcessNoLongerInMentalBreak>Het bewustzijn van {0} opgeslagen in {1} heeft niet langer een mentale inzinking</ATPP_ProcessNoLongerInMentalBreak>
+	<ATPP_CannotReconnectToLastSurrogateController>Kan niet opnieuw verbinden, de laatste surrogaatbestuurder is niet beschikbaar (bezig, dood, niet verbonden met SkyMind...)</ATPP_CannotReconnectToLastSurrogateController>
+	<ATPP_ProcessMassAssist>{0} geesten zijn toegewezen!</ATPP_ProcessMassAssist>
+	<ATPP_ProcessMassUnassist>{0} geesten zijn niet meer toegewezen!</ATPP_ProcessMassUnassist>
+	<ATPP_SkillsWorkshopPointsConverted>{0} vaardigheidspunten zijn toegevoegd aan {1}</ATPP_SkillsWorkshopPointsConverted>
+	<ATPP_SkillsWorkshopAvailablePoints>Beschikbare punten : {0}</ATPP_SkillsWorkshopAvailablePoints>
+	<ATPP_SkillsWorkshopAvailablePointsNote>Opmerking : Voor dit model android heb je {0} vaardigheidspunten nodig die door je servers zijn gegenereerd om 1 beschikbaar punt te verkrijgen</ATPP_SkillsWorkshopAvailablePointsNote>
+	<ATPP_MindAbsorptionStarted>Bewustzijnsabsorptie van {0} gestart</ATPP_MindAbsorptionStarted>
+	<ATPP_NotEnoughtSkillPoints>Niet genoeg beschikbare vaardigheidspunten! ({0} punten vereist)</ATPP_NotEnoughtSkillPoints>
+	<ATPP_CannotAddVXNeuralChipInSurrogates>Kan dit type chip niet in een surrogaat plaatsen! De chip is beschadigd en kan niet meer worden gebruikt!</ATPP_CannotAddVXNeuralChipInSurrogates>
+	<!-- Settings -->
+	<ATPP_SettingsSectionGeneral>Algemeen</ATPP_SettingsSectionGeneral>
+	<ATPP_SettingsSectionSkyCloud>SkyCloud</ATPP_SettingsSectionSkyCloud>
+	<ATPP_SettingsSectionSecurity>Beveiliging</ATPP_SettingsSectionSecurity>
+	<ATPP_SettingsSectionVX2>VX2 Neurale Chip</ATPP_SettingsSectionVX2>
+	<ATPP_SettingsSectionVX3>VX3 Neurale Chip</ATPP_SettingsSectionVX3>
+	<ATPP_SettingsSectionSkills>T1/T2 vaardigheden</ATPP_SettingsSectionSkills>
+	<ATPP_SettingsSectionBatteryOverload>Batterijoverbelasting</ATPP_SettingsSectionBatteryOverload>
+	<ATPP_SettingsDefaultAndroidGeneratorMode>Standaard energiemodus voor androids:</ATPP_SettingsDefaultAndroidGeneratorMode>
+	<ATPP_SettingsDefaultAndroidGeneratorModeBiomass>Biomassagenerator gebruiken (ze eten)</ATPP_SettingsDefaultAndroidGeneratorModeBiomass>
+	<ATPP_SettingsDefaultAndroidGeneratorModeBattery>Direct de interne batterij gebruiken (ze laden op via het elektriciteitsnet)</ATPP_SettingsDefaultAndroidGeneratorModeBattery>
+	<ATPP_SettingsMindUploadDuration>Duur van upload van de geest ({0}u)</ATPP_SettingsMindUploadDuration>
+	<ATPP_SettingsMindReplicationDuration>Duur van replicatie van de geest ({0}u)</ATPP_SettingsMindReplicationDuration>
+	<ATPP_SettingsMindPermutationDuration>Duur van permutatie van de geest ({0}u)</ATPP_SettingsMindPermutationDuration>
+	<ATPP_SettingsMindDuplicationDuration>Duur van duplicatie van de geest ({0}u)</ATPP_SettingsMindDuplicationDuration>
+	<ATPP_SettingsMindUploadPercentageFail>Kans dat de overdracht van bewustzijn mislukt ({0}%)</ATPP_SettingsMindUploadPercentageFail>
+	<ATPP_SettingsNanitePercentageFail>Kans dat nanites androids niet kunnen repareren ({0}%)</ATPP_SettingsNanitePercentageFail>
+	<ATPP_SettingsCharchingStationWattIncrease>Toename van stroomverbruik wanneer een {0} oplaadt</ATPP_SettingsCharchingStationWattIncrease>
+	<ATPP_SettingsFoodGenerateLessEnergy>Biomassa (voedsel) levert minder energie op voor androids (2 keer minder dan voor mensen)</ATPP_SettingsFoodGenerateLessEnergy>
+	<ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>Percentage opgeladen batterij elke 6 seconden ({0}%)</ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>
+	<ATPP_SettingsNbHoursMinServerRunningHotBeforeExplode>Minimaal aantal uren dat servers te heet kunnen draaien voordat ze ontploffen ({0}u)</ATPP_SettingsNbHoursMinServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMaxServerRunningHotBeforeExplode>Maximaal aantal uren dat servers te heet kunnen draaien voordat ze ontploffen ({0}u)</ATPP_SettingsNbHoursMaxServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMinSkyCloudServerRunningHotBeforeExplode>Minimaal aantal uren dat SkyCloud-kernen te heet kunnen draaien voordat ze ontploffen ({0}u)</ATPP_SettingsNbHoursMinSkyCloudServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMaxSkyCloudServerRunningHotBeforeExplode>Maximaal aantal uren dat SkyCloud-kernen te heet kunnen draaien voordat ze ontploffen ({0}u)</ATPP_SettingsNbHoursMaxSkyCloudServerRunningHotBeforeExplode>
+	<ATPP_SettingsDelayExplosiveVirus>Aantal seconden voordat een met explosief virus geïnfecteerde android ontploft ({0}sec)</ATPP_SettingsDelayExplosiveVirus>
+	<ATPP_SettingsRiskFactionNotRemoveCryptolocker>Kans dat een factie cryptolocker niet verwijdert na betaling van het losgeld ({0}%)</ATPP_SettingsRiskFactionNotRemoveCryptolocker>
+	<ATPP_SettingsRansomCost>Kosten van cryptolocker-viruslosgeld ({0}):</ATPP_SettingsRansomCost>
+	<ATPP_SettingsAndroidCanUseOrganicMedicine>Androids kunnen organische medicijnen gebruiken</ATPP_SettingsAndroidCanUseOrganicMedicine>
+	<ATPP_SettingsRiskGetLittleVirusEvenWithSecurityServers>Kans dat je verbonden clients een virus oplopen (verzwakte impact), zelfs met een beveiligingssysteem dat ze allemaal dekt ({0}%)</ATPP_SettingsRiskGetLittleVirusEvenWithSecurityServers>
+	<ATPP_SettingsRiskFactionNotRemoveRansomwareEffect>Kans dat een factie ransomware-effecten niet opheft na betaling van het losgeld ({0}%)</ATPP_SettingsRiskFactionNotRemoveRansomwareEffect>
+	<ATPP_SettingsMinSilverToRemoveBadTrait>Minimumbedrag aan zilver om ransomware met slechte eigenschap te verwijderen</ATPP_SettingsMinSilverToRemoveBadTrait>
+	<ATPP_SettingsMaxSilverToRemoveBadTrait>Maximumbedrag aan zilver om ransomware met slechte eigenschap te verwijderen</ATPP_SettingsMaxSilverToRemoveBadTrait>
+	<ATPP_SettingsRansomwareSilverPerSkillLevel>Hoeveelheid zilver te betalen per niveau voor ransomware met beschadigde vaardigheid</ATPP_SettingsRansomwareSilverPerSkillLevel>
+	<ATPP_SettingsDisableSolarFlareImpactOnAndroids>Negatieve effecten van zonnevlammen op androids uitschakelen</ATPP_SettingsDisableSolarFlareImpactOnAndroids>
+	<ATPP_SettingsDisableSecurityStuff>Virussen en hacken via SkyMind uitschakelen</ATPP_SettingsDisableSecurityStuff>
+	<ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroupMin>Minimaal percentage surrogaten dat aanwezig kan zijn in groepen van andere facties ({0}%)</ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroupMin>
+	<ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroup>Maximaal percentage surrogaten dat aanwezig kan zijn in groepen van andere facties ({0}%)</ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroup>
+	<ATPP_SettingsOtherFactionsCanUseSurrogate>Andere facties kunnen surrogaat-androids gebruiken</ATPP_SettingsOtherFactionsCanUseSurrogate>
+	<ATPP_SettingsTempHackDuration>Duur van tijdelijke surrogaathack ({0} seconden)</ATPP_SettingsTempHackDuration>
+	<ATPP_SettingsCostHackingPoints>Kosten in hackpunten voor ({0}):</ATPP_SettingsCostHackingPoints>
+	<ATPP_SettingsCostVirus>Virus</ATPP_SettingsCostVirus>
+	<ATPP_SettingsCostVirusExplosive>Explosief virus</ATPP_SettingsCostVirusExplosive>
+	<ATPP_SettingsCostHack>Hacken</ATPP_SettingsCostHack>
+	<ATPP_SettingsCostHackTemp>Tijdelijk hacken</ATPP_SettingsCostHackTemp>
+	<ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>Tijdens zonnevlammen raken androids uitgeschakeld</ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>
+	<ATPP_SettingsDisableServersAlarm>Hitte-alarm van servers uitschakelen</ATPP_SettingsDisableServersAlarm>
+	<ATPP_SettingsDisableServersAmbianceNoises>Omgevingsgeluiden van servers uitschakelen</ATPP_SettingsDisableServersAmbianceNoises>
+	<ATPP_SettingsAppliedToNextSaveLoading> (Toegepast na opnieuw laden van de kaart)</ATPP_SettingsAppliedToNextSaveLoading>
+	<ATPP_SettingsDisableLowNetworkMalus>Straf voor zwak SkyMind-netwerk uitschakelen</ATPP_SettingsDisableLowNetworkMalus>
+	<ATPP_SettingsDisableLowNetworkMalusInCaravans>Straf voor zwak SkyMind-netwerk in karavanen uitschakelen</ATPP_SettingsDisableLowNetworkMalusInCaravans>
+	<ATPP_SettingsPowerConsumedByStoredMind>Stroom verbruikt door elke opgeslagen geest in SkyCloud-kernen</ATPP_SettingsPowerConsumedByStoredMind>
+	<ATPP_SettingsMindUploadToSkyCloudDuration>Duur van het uploaden van een geest naar SkyCloud ({0}u)</ATPP_SettingsMindUploadToSkyCloudDuration>
+	<ATPP_SettingsMindMigrationCloudDuration>Duur van de geestmigratie ({0}u)</ATPP_SettingsMindMigrationCloudDuration>
+	<ATPP_SettingsHideRemotelyControlledIcon>Pictogram bovenop op afstand bestuurde apparaten verbergen</ATPP_SettingsHideRemotelyControlledIcon>
+	<ATPP_SettingsSkyCloudBuffPerAssistingMind>Aantal buff-punten per assisterende SkyCloud-geest ({0})</ATPP_SettingsSkyCloudBuffPerAssistingMind>
+	<ATPP_SettingsNbSlotAddedForSkillServers>Aantal toegevoegde slots voor {0} vaardigheidsservers ({1})</ATPP_SettingsNbSlotAddedForSkillServers>
+	<ATPP_SettingsNbSlotAddedForHackingServers>Aantal toegevoegde slots voor {0} hackservers ({1})</ATPP_SettingsNbSlotAddedForHackingServers>
+	<ATPP_SettingsNbSlotAddedForSecurityServers>Aantal toegevoegde slots voor {0} beveiligingsservers ({1})</ATPP_SettingsNbSlotAddedForSecurityServers>
+	<ATPP_SettingsNbPointsProducedForHackingServers>Aantal geproduceerde punten (elke 30 seconden) voor {0} hackservers ({1})</ATPP_SettingsNbPointsProducedForHackingServers>
+	<ATPP_SettingsMinNbHoursLiteHackingDeviceAttackLast>Minimaal aantal uren dat een lichte hackaanval op apparaten kan duren ({0}u)</ATPP_SettingsMinNbHoursLiteHackingDeviceAttackLast>
+	<ATPP_SettingsMaxNbHoursLiteHackingDeviceAttackLast>Maximaal aantal uren dat een lichte hackaanval op apparaten kan duren ({0}u)</ATPP_SettingsMaxNbHoursLiteHackingDeviceAttackLast>
+	<ATPP_SettingsHideInactiveSurrogates>Inactieve surrogaten verbergen van de kolonistenbalk</ATPP_SettingsHideInactiveSurrogates>
+	<ATPP_SettingsAndroidsOnlyHealedByCrafter>Androids kunnen alleen worden gerepareerd door smeden</ATPP_SettingsAndroidsOnlyHealedByCrafter>
+	<ATPP_SettingsMinDurationOfMindMentalBreak>Minimale duur van een mentale inzinking van een gedigitaliseerd bewustzijn ({0}u)</ATPP_SettingsMinDurationOfMindMentalBreak>
+	<ATPP_SettingsMaxDurationOfMindMentalBreak>Maximale duur van een mentale inzinking van een gedigitaliseerd bewustzijn ({0}u)</ATPP_SettingsMaxDurationOfMindMentalBreak>
+	<ATPP_SettingsSecToBootASkyCloudCore>Opstarttijd van een SkyCloud-kern ({0}sec)</ATPP_SettingsSecToBootASkyCloudCore>
+	<ATPP_SettingsDisableAbilityOfSkyCloudServersToTalk>Mogelijkheid voor SkyCloud-kernen om te praten uitschakelen</ATPP_SettingsDisableAbilityOfSkyCloudServersToTalk>
+	<ATPP_SettingsNotRemoveAllTraitsOfBasicAndroids>Niet alle eigenschappen verwijderen van T1/T2-androids</ATPP_SettingsNotRemoveAllTraitsOfBasicAndroids>
+	<ATPP_SettingsAndroidsCanEatLivingPlants>Androids kunnen levende planten eten</ATPP_SettingsAndroidsCanEatLivingPlants>
+	<ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>Niet alle vaardigheidspassies verwijderen voor T1/T2-androids</ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>
+	<ATPP_SettingsVX3MaxSurrogateControllableAtOnce>Maximaal aantal gelijktijdig bestuurbare surrogaten ({0})</ATPP_SettingsVX3MaxSurrogateControllableAtOnce>
+	<ATPP_SettingsNbPointsProducedForSkillServers>Aantal geproduceerde punten (elke 30 seconden) voor {0} vaardigheidsservers ({1})</ATPP_SettingsNbPointsProducedForSkillServers>
+	<ATPP_SettingsRandomSkillsMode>Vaardigheden zijn willekeurig</ATPP_SettingsRandomSkillsMode>
+	<ATPP_SettingsPreventM7T5AppearingInCharacterEditor>Voorkomen dat T5/M7 verschijnen in het personage-creatiescherm</ATPP_SettingsPreventM7T5AppearingInCharacterEditor>
+	<ATPP_SettingsMinHoursNaniteBankFramework>Minimaal aantal uren vereist om het effect van structurele nanite-banken toe te passen ({0}u)</ATPP_SettingsMinHoursNaniteBankFramework>
+	<ATPP_SettingsMaxHoursNaniteBankFramework>Maximaal aantal uren vereist om het effect van structurele nanite-banken toe te passen ({0}u)</ATPP_SettingsMaxHoursNaniteBankFramework>
+	<ATPP_SettingsNbSkillPointsPerSkill>Aantal vaardigheidspunten vereist om één vaardigheid te produceren ({0})</ATPP_SettingsNbSkillPointsPerSkill>
+	<ATPP_RemoveComfortNeedForT3T4>Comfortbehoefte verwijderen voor androids &gt;= T3</ATPP_RemoveComfortNeedForT3T4>
+	<ATPP_SettingsAllowHumanDrugsForT3P>Menselijke drugs toestaan voor T3+ androids</ATPP_SettingsAllowHumanDrugsForT3P>
+	<ATPP_SettingsAllowHumanDrugsFor>Menselijke drugs toestaan voor androids</ATPP_SettingsAllowHumanDrugsFor>
+	<ATPP_SettingsUploadMindToSkyCloudCoreMode>Modus voor uploaden van geest naar SkyCloud-kern:</ATPP_SettingsUploadMindToSkyCloudCoreMode>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>Het lichaam van de brongeest wordt gedood</ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>De neurale chip van de brongeest herconfigureert automatisch zijn circuits in de VX0-modus</ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>Er gebeurt niets met het lichaam van de brongeest (dupliceren)</ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>
+	<ATPP_SettingsRemoveSimpleMindedTraitOnUpload>Eenvoudige geest-eigenschap verwijderen wanneer een T1 wordt overgedragen naar een geavanceerdere gastheer (mens, T2+)</ATPP_SettingsRemoveSimpleMindedTraitOnUpload>
+	<ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>Kans dat gegenereerde androids kunnen worden geverfd of roesten ({0}%)</ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>
+	<ATPP_SettingsAndroidsCanRust>Androids kunnen roesten</ATPP_SettingsAndroidsCanRust>
+	<ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>Minimaal aantal dagen voordat de verf van androids kan roesten ({0} dagen)</ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>
+	<ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>Maximaal aantal dagen voordat de verf van androids kan roesten ({0} dagen)</ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>
+	<ATPP_SettingsAndroidsAreRare>Androids zeldzaam maken voor andere facties (LET OP: verwijdert alle android-facties)</ATPP_SettingsAndroidsAreRare>
+	<ATPP_SettingsAllowAutoRepaint>Androids toestaan automatisch een verfbeurt opnieuw in te plannen wanneer de huidige verf bijna verloopt</ATPP_SettingsAllowAutoRepaint>
+	<ATPP_SettingsAllowAutoRepaintPrisoned>Gevangen androids ook toestaan een verfbeurt opnieuw in te plannen</ATPP_SettingsAllowAutoRepaintPrisoned>
+	<ATPP_SettingsMaxAndroidByPortableLWPN>Maximaal aantal androids per draagbare LWPN-zender (Power++) ({0})</ATPP_SettingsMaxAndroidByPortableLWPN>
+	<ATPP_SettingsAllowT5ToWearClothes>T5 toestaan kleding te dragen</ATPP_SettingsAllowT5ToWearClothes>
+	<ATPP_SettingsChanceCreatedAndroidsAreMale>Kans dat gecreëerde androids mannelijke modellen zijn ({0}%)</ATPP_SettingsChanceCreatedAndroidsAreMale>
+	<ATPP_SettingsHideAbilityToForceEatingLivingPlants>Het contextmenu verbergen waarmee gedwongen levende planten kunnen worden gegeten</ATPP_SettingsHideAbilityToForceEatingLivingPlants>
+	<ATPP_SettingsPassionCost>Vaardigheidspunten vereist om passie te verhogen ({0})</ATPP_SettingsPassionCost>
+	<ATPP_SettingsVX0KeepBodyBackstory>Achtergrondverhaal van marionet behouden (VX0)</ATPP_SettingsVX0KeepBodyBackstory>
+	<ATPP_SettingsAllowSurrogateConnectionInitMalus>Verbindingsinitialisatiestraf voor surrogaat toestaan</ATPP_SettingsAllowSurrogateConnectionInitMalus>
+	<ATPP_SettingsAllowAndroidsToUseHospitalBeds>Androids toestaan ziekenhuisbedden te gebruiken</ATPP_SettingsAllowAndroidsToUseHospitalBeds>
+	<ATPP_SettingsPercentageOfOtherFactionSurrogateHavingAnRXChip>Kanspercentage dat surrogaten van andere facties een RX-chip hebben ({0}%)</ATPP_SettingsPercentageOfOtherFactionSurrogateHavingAnRXChip>
+	<ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>Kans dat gerekruteerde surrogaatbestuurder zich bij je factie aansluit zonder te worden gearresteerd ({0}%)</ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>
+	<ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>Minimaal aantal uren voordat ontvoerde M8 wordt losgekoppeld van SkyMind ({0}u)</ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>
+	<ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>Maximaal aantal uren voordat ontvoerde M8 wordt losgekoppeld van SkyMind ({0}u)</ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>
+	<ATPP_SettingsAndroidOverloadBatteryProrata>De kracht van de explosie is evenredig met het batterijniveau</ATPP_SettingsAndroidOverloadBatteryProrata>
+	<ATPP_SettingsAndroidOverloadRadius>Explosieradius van android ({0})</ATPP_SettingsAndroidOverloadRadius>
+	<ATPP_SettingsM7OverloadRadius>Explosieradius van M7 ({0})</ATPP_SettingsM7OverloadRadius>
+	<ATPP_SettingsAndroidOverloadExplosionType>Type explosie</ATPP_SettingsAndroidOverloadExplosionType>
+	<ATPP_SettingsAndroidOverloadExplosionTypeDefault>Fragmentatie</ATPP_SettingsAndroidOverloadExplosionTypeDefault>
+	<ATPP_SettingsAndroidOverloadExplosionTypeFire>Brandstichtend</ATPP_SettingsAndroidOverloadExplosionTypeFire>
+	<ATPP_SettingsSetT1ResearchToIndustrialTechLevel>T1-onderzoek wijzigen naar industrieel technologisch niveau in plaats van spacer</ATPP_SettingsSetT1ResearchToIndustrialTechLevel>
+	<ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>Bij geestduplicatie worden vaardigheden van unieke rollen overgedragen naar de bestemmingsgeest</ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>
+</LanguageData>

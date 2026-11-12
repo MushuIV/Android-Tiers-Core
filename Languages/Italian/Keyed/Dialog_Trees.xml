@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<AndroidFactionGreetingHostileI>Viene riprodotto un messaggio automatico che richiede un gesto di buona volontà, fornendo esempi come portare doni a uno dei suoi insediamenti ({0_possessive}) o rilasciare illesi i prigionieri della sua fazione ({0_possessive}). Fino ad allora, {0} non è disposto a parlare.</AndroidFactionGreetingHostileI>
+	<AndroidFactionGreetingHostileII>{0} paragona la tua colonia alle tribù nella vostra ferocia, affermando che se desideri migliorarti puoi portare doni a uno dei suoi insediamenti ({0_possessive}) o rilasciare illesi i prigionieri della sua fazione ({0_possessive}).</AndroidFactionGreetingHostileII>
+	<AndroidFactionGreetingHostileIII>{0} vi definisce esseri freddi e mostruosi prima di interrompere bruscamente ogni comunicazione.</AndroidFactionGreetingHostileIII>
+	
+	<AndroidFactionGreetingWaryI>La voce profonda e meccanica di {0} saluta {NEGOTIATOR_labelShort}, chiedendo di quali affari volete occuparvi.</AndroidFactionGreetingWaryI>
+	<AndroidFactionGreetingWaryII>Si avvia un messaggio automatico che chiede a {NEGOTIATOR_labelShort} quali affari abbia.</AndroidFactionGreetingWaryII>
+	<AndroidFactionGreetingWaryIII>{0} apre cautamente le comunicazioni verso {NEGOTIATOR_labelShort}, chiedendo di quali questioni desiderate parlare.</AndroidFactionGreetingWaryIII>
+	
+	<AndroidFactionGreetingWarmI>{0} saluta calorosamente {NEGOTIATOR_labelShort}, chiedendo cosa può fare per aiutarvi.</AndroidFactionGreetingWarmI>
+	<AndroidFactionGreetingWarmII>{NEGOTIATOR_labelShort} viene accolto con parole gentili all'apertura delle comunicazioni, con {0} che chiede cosa può fare per un alleato.</AndroidFactionGreetingWarmII>
+	<AndroidFactionGreetingWarmIII>{0} saluta {NEGOTIATOR_labelShort} a braccia aperte, chiedendo cosa può fare per voi.</AndroidFactionGreetingWarmIII>
+	
+</LanguageData>

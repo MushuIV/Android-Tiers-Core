@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <NeedMechanic>Monteur nodig</NeedMechanic>
+  <NeedMechanicDesc>Deze androids moeten worden gerepareerd, maar er zijn geen gezonde kolonisten toegewezen als monteur.\n\n{0}\nWijs een gezonde kolonist toe aan het werktype Monteur. Als schade onbehandeld blijft, herstelt het mogelijk nooit goed en kan het permanent worden.</NeedMechanicDesc>
+  
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<AndroidFactionGreetingHostileI>Відтворюється автоматичне повідомлення з вимогою проявити добру волю, наприклад: принести дарунки до одного з {0_possessive} поселень або неушкодженими відпустити полонених {0_possessive} фракції. Доти {0} не бажає вести переговори.</AndroidFactionGreetingHostileI>
+	<AndroidFactionGreetingHostileII>{0} порівнює вашу колонію з дикунами через вашу жорстокість, зазначаючи, що якщо ви бажаєте виправитися, ви можете принести дарунки до одного з {0_possessive} поселень або неушкодженими відпустити полонених {0_possessive} фракції.</AndroidFactionGreetingHostileII>
+	<AndroidFactionGreetingHostileIII>{0} називає вас холодними потворними істотами, після чого різко перериває зв'язок.</AndroidFactionGreetingHostileIII>
+	
+	<AndroidFactionGreetingWaryI>Глибокий механічний голос {0} вітає {NEGOTIATOR_labelShort}, запитуючи, у якій справі ви звертаєтеся.</AndroidFactionGreetingWaryI>
+	<AndroidFactionGreetingWaryII>Вмикається автоматичне повідомлення, яке запитує {NEGOTIATOR_labelShort}, у якій справі звернення.</AndroidFactionGreetingWaryII>
+	<AndroidFactionGreetingWaryIII>{0} насторожено виходить на зв'язок із {NEGOTIATOR_labelShort}, запитуючи, про яку справу ви бажаєте поговорити.</AndroidFactionGreetingWaryIII>
+	
+	<AndroidFactionGreetingWarmI>{0} тепло вітає {NEGOTIATOR_labelShort}, запитуючи, чим може вам допомогти.</AndroidFactionGreetingWarmI>
+	<AndroidFactionGreetingWarmII>{NEGOTIATOR_labelShort} чує дружні слова на початку зв'язку: {0} запитує, що вони можуть зробити для союзника.</AndroidFactionGreetingWarmII>
+	<AndroidFactionGreetingWarmIII>{0} радо вітає {NEGOTIATOR_labelShort}, запитуючи, чим може допомогти.</AndroidFactionGreetingWarmIII>
+	
+</LanguageData>

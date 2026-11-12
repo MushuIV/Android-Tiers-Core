@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MessageMedicalOperationFailureMinorAndroid>{0} kisebb hibát vétett miközben rajta dolgozott: {1}.</MessageMedicalOperationFailureMinorAndroid>
+	<MessageMedicalOperationFailureCatastrophicAndroid>{0} katasztrofális hibát vétett miközben rajta dolgozott: {1}.</MessageMedicalOperationFailureCatastrophicAndroid>
+	<MessageMedicalOperationFailureRidiculousAndroid>{0} nevetséges módon kudarcot vallott miközben rajta dolgozott: {1}.</MessageMedicalOperationFailureRidiculousAndroid>
+	<MessageMedicalOperationFailureFatalAndroid>{0} végzetes hibát vétett miközben rajta dolgozott: {1}, a következő különleges nehézségek miatt: {2}</MessageMedicalOperationFailureFatalAndroid>
+	
+</LanguageData>

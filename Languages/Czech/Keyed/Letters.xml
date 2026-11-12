@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Atlas_FactionChange>{0} byl úspěšně přeprogramován. Nyní je součástí kolonie.</Atlas_FactionChange>
+	<LetterLabelAtlas_FactionChange>Nový kolonista</LetterLabelAtlas_FactionChange>
+	
+	<Atlas_LossOfSelfWill>Svobodná vůle ({0}) byla potlačena. V důsledku toho již není schopen svobodného myšlení ani prožívání emocí a nebude tak často komunikovat s ostatními kolonisty. Během tohoto procesu navíc ztratil všechny své povahové rysy, což z něj činí pouhý poslušný stroj.</Atlas_LossOfSelfWill>
+	<LetterLabelAtlas_LossOfSelfWill>Svobodná vůle androida</LetterLabelAtlas_LossOfSelfWill>
+	
+	<Atlas_Mutation>{0} zmutoval ve fraktál! Zkroucené monstrum z masa vzniklé vlivem fraktální pilulky!</Atlas_Mutation>
+	<LetterLabelAtlas_Mutation>Mutace kolonisty</LetterLabelAtlas_Mutation>
+
+	<Atlas_TraitReroll>Osobnost ({0}) byla pozměněna a povahové rysy byly znovu vylosovány.</Atlas_TraitReroll>
+	<LetterLabelAtlas_TraitReroll>Změna osobnosti androida</LetterLabelAtlas_TraitReroll>
+	
+</LanguageData>

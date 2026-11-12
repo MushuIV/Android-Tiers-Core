@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <NeedMechanic>Műszerész szükséges</NeedMechanic>
+  <NeedMechanicDesc>Ezek az androidok javításra szorulnak, de nincs egészséges telepes műszerészként beosztva.\n\n{0}\nOssz be egy egészséges telepest a Műszerész munkatípusra. Kezelés nélkül a sérülések nem biztos, hogy megfelelően meggyógyulnak, és maradandóvá válhatnak.</NeedMechanicDesc>
+  
+</LanguageData>

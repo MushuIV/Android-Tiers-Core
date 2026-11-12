@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<AndroidFactionGreetingHostileI>Egy automatikus üzenet hangzik el, amely jóindulatú gesztust követel tőled, például ajándékok hozatalát {0_possessive} települései egyikébe, vagy {0_possessive} frakciója foglyainak sértetlen elengedését. Addig {0} nem hajlandó tárgyalni.</AndroidFactionGreetingHostileI>
+	<AndroidFactionGreetingHostileII>{0} a törzsek vadságához hasonlítja a kolóniádat, kijelentve, hogy ha javítani akartok magatokon, ajándékokat hozhattok {0_possessive} települései egyikébe, vagy sértetlenül szabadon engedhetitek {0_possessive} frakciója foglyait.</AndroidFactionGreetingHostileII>
+	<AndroidFactionGreetingHostileIII>{0} rideg, szörnyeteg lényeknek nevez titeket, mielőtt hirtelen megszakítaná az összes kommunikációt.</AndroidFactionGreetingHostileIII>
+	
+	<AndroidFactionGreetingWaryI>{0} mély mechanikus hangja üdvözli {NEGOTIATOR_labelShort} személyét, megkérdezve, milyen ügyet kívántok intézni.</AndroidFactionGreetingWaryI>
+	<AndroidFactionGreetingWaryII>Egy automatikus üzenet indul el, megkérdezve {NEGOTIATOR_labelShort} személyétől, milyen ügyben jár.</AndroidFactionGreetingWaryII>
+	<AndroidFactionGreetingWaryIII>{0} óvatosan nyit kommunikációt {NEGOTIATOR_labelShort} felé, megkérdezve, milyen ügyet szeretnétek megbeszélni.</AndroidFactionGreetingWaryIII>
+	
+	<AndroidFactionGreetingWarmI>{0} melegen üdvözli {NEGOTIATOR_labelShort} személyét, megkérdezve, miben tud segíteni nektek.</AndroidFactionGreetingWarmI>
+	<AndroidFactionGreetingWarmII>{NEGOTIATOR_labelShort} kedves szavakkal fogadtatik, ahogy a kommunikáció létrejön, miközben {0} megkérdezi, mit tehetnek egy szövetségesért.</AndroidFactionGreetingWarmII>
+	<AndroidFactionGreetingWarmIII>{0} tárt karokkal üdvözli {NEGOTIATOR_labelShort} személyét, megkérdezve, miben segíthet nektek.</AndroidFactionGreetingWarmIII>
+	
+</LanguageData>

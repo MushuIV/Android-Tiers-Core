@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MessageMedicalOperationFailureMinorAndroid>{0} припускається незначної помилки під час операції над {1}.</MessageMedicalOperationFailureMinorAndroid>
+	<MessageMedicalOperationFailureCatastrophicAndroid>{0} припускається катастрофічної помилки під час операції над {1}.</MessageMedicalOperationFailureCatastrophicAndroid>
+	<MessageMedicalOperationFailureRidiculousAndroid>{0} припускається безглуздої помилки під час операції над {1}.</MessageMedicalOperationFailureRidiculousAndroid>
+	<MessageMedicalOperationFailureFatalAndroid>{0} припускається смертельної помилки під час операції над {1} через специфічні складнощі: {2}</MessageMedicalOperationFailureFatalAndroid>
+	
+</LanguageData>
