@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationConditional">
+		<xpath>/Defs/ThingDef[defName = "GrowthVat"]</xpath>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<!-- Add Biotech Dermal Gestation recipe to AndroidProductionVat and FabricationBench -->
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs</xpath>
+					<value>
+						<RecipeDef>
+							<defName>ATPP_GestateSyntheticSkinGland_Biotech</defName>
+							<label>gestate synthetic skin gland</label>
+							<description>Using Biotech hemogenic solution, cellular nutrients, and medical stabilizers in an Android Production Vat, gestate a living synthetic skin gland matrix for TX-series infiltrators.</description>
+							<jobString>Gestating synthetic skin gland.</jobString>
+							<workAmount>5000</workAmount>
+							<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+							<effectWorking>Smelt</effectWorking>
+							<soundWorking>Recipe_Machining</soundWorking>
+							<researchPrerequisite>T2Androids</researchPrerequisite>
+							<skillRequirements>
+								<Crafting>6</Crafting>
+								<Intellectual>4</Intellectual>
+							</skillRequirements>
+							<ingredients>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>HemogenPack</li>
+										</thingDefs>
+									</filter>
+									<count>10</count>
+								</li>
+								<li>
+									<filter>
+										<categories>
+											<li>MeatRaw</li>
+											<li>FoodRaw</li>
+										</categories>
+									</filter>
+									<count>20</count>
+								</li>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>MedicineIndustrial</li>
+										</thingDefs>
+									</filter>
+									<count>2</count>
+								</li>
+							</ingredients>
+							<fixedIngredientFilter>
+								<thingDefs>
+									<li>HemogenPack</li>
+									<li>MedicineIndustrial</li>
+								</thingDefs>
+								<categories>
+									<li>MeatRaw</li>
+									<li>FoodRaw</li>
+								</categories>
+							</fixedIngredientFilter>
+							<products>
+								<ATPP_SyntheticSkinGland>1</ATPP_SyntheticSkinGland>
+							</products>
+							<recipeUsers>
+								<li>AndroidProductionVat</li>
+								<li>FabricationBench</li>
+							</recipeUsers>
+						</RecipeDef>
+					</value>
+				</li>
+
+				<!-- Remove crude base game manual recipe from workbenches since Biotech provides advanced gestation -->
+				<li Class="PatchOperationConditional">
+					<xpath>/Defs/RecipeDef[defName = "ATPP_MakeSyntheticSkinGland"]/recipeUsers</xpath>
+					<match Class="PatchOperationRemove">
+						<xpath>/Defs/RecipeDef[defName = "ATPP_MakeSyntheticSkinGland"]/recipeUsers</xpath>
+					</match>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>

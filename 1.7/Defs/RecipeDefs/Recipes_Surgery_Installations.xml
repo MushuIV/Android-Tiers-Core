@@ -3654,4 +3654,75 @@
 		<li>ATPP_T4ArtificialBrain</li>
       </thingDefs>
     </fixedIngredientFilter>
-   </RecipeDef></Defs>
+   </RecipeDef>
+
+  <RecipeDef ParentName="SurgeryAndroid">
+    <defName>ATPP_ApplySyntheticSkin</defName>
+    <label>graft synthetic skin</label>
+    <description>Grafts a synthetic dermal matrix onto this TX infantry chassis, covering the exposed mechanical endoskeleton with human-like synthetic living skin. This increases social reception and thermal insulation while eliminating rain-rusting, at the expense of higher flammability.</description>
+    <workerClass>MOARANDROIDS.Recipe_ApplySyntheticSkin</workerClass>
+    <jobString>Grafting synthetic skin onto android.</jobString>
+    <workAmount>4500</workAmount>
+    <surgerySuccessChanceFactor>0.9</surgerySuccessChanceFactor>
+    <deathOnFailedSurgeryChance>0.05</deathOnFailedSurgeryChance>
+    <skillRequirements>
+      <Crafting>8</Crafting>
+      <Medicine>6</Medicine>
+    </skillRequirements>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ATPP_SyntheticSkinGland</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>MedicineIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>2</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>ATPP_SyntheticSkinGland</li>
+        <li>MedicineIndustrial</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <targetsBodyPart>false</targetsBodyPart>
+  </RecipeDef>
+
+  <RecipeDef ParentName="SurgeryAndroid">
+    <defName>ATPP_RemoveSyntheticSkin</defName>
+    <label>strip synthetic skin</label>
+    <description>Surgically strips the synthetic skin layer from this TX infiltrator, exposing the reinforced infantry endoskeleton beneath. The android loses social charm but gains fire immunity and battlefield durability.</description>
+    <workerClass>MOARANDROIDS.Recipe_RemoveSyntheticSkin</workerClass>
+    <jobString>Stripping synthetic skin from android.</jobString>
+    <workAmount>3000</workAmount>
+    <surgerySuccessChanceFactor>0.95</surgerySuccessChanceFactor>
+    <deathOnFailedSurgeryChance>0.02</deathOnFailedSurgeryChance>
+    <skillRequirements>
+      <Crafting>6</Crafting>
+    </skillRequirements>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>MedicineIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>MedicineIndustrial</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <targetsBodyPart>false</targetsBodyPart>
+  </RecipeDef>
+</Defs>

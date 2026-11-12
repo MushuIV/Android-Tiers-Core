@@ -305,6 +305,7 @@
       <li>InstallAdvPlating</li>
       <li>RemoveBodyPartAndroid</li>
       <li>ShutdownAndroid</li>
+      <li>ATPP_ApplySyntheticSkin</li>
       <li>InstallAdvancedReplacementLeg</li>
       <li>InstallAdvancedReplacementArm</li>
       <li>InstallFarmingMindImplant</li>

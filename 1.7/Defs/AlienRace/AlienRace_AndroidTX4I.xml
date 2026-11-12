@@ -305,6 +305,7 @@
       <li>InstallAdv2Plating</li>
       <li>RemoveBodyPartAndroid</li>
       <li>ShutdownAndroid</li>
+      <li>ATPP_ApplySyntheticSkin</li>
       <li>InstallFarmingMindImplant</li>
       <li>InstallAnimalMindImplant</li>
       <li>InstallNegotiationMindImplant</li>

@@ -286,4 +286,71 @@
 		<li>AndroidProductionVat</li>
       </recipeUsers>
 	</RecipeDef>
+
+  <RecipeDef>
+    <defName>ATPP_MakeSyntheticSkinGland</defName>
+    <label>synthesize skin gland</label>
+    <description>Synthesize an artificial skin gland using hydrocarbon chemfuel, neutroamine preservative solution, medicine, and woven textile scaffolds.</description>
+    <jobString>Synthesizing skin gland.</jobString>
+    <workAmount>6000</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>Smelt</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <researchPrerequisite>T2Androids</researchPrerequisite>
+    <skillRequirements>
+      <Crafting>6</Crafting>
+      <Intellectual>4</Intellectual>
+    </skillRequirements>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Cloth</li>
+            <li>Synthread</li>
+          </thingDefs>
+        </filter>
+        <count>30</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Chemfuel</li>
+          </thingDefs>
+        </filter>
+        <count>40</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Neutroamine</li>
+          </thingDefs>
+        </filter>
+        <count>8</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>MedicineIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>4</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Cloth</li>
+        <li>Synthread</li>
+        <li>Chemfuel</li>
+        <li>Neutroamine</li>
+        <li>MedicineIndustrial</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <ATPP_SyntheticSkinGland>1</ATPP_SyntheticSkinGland>
+    </products>
+    <recipeUsers>
+      <li>DrugLab</li>
+      <li>FabricationBench</li>
+    </recipeUsers>
+  </RecipeDef>
 </Defs>

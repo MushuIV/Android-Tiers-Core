@@ -517,4 +517,6 @@
 	<ATPP_SettingsAndroidOverloadExplosionTypeFire>Incendiary</ATPP_SettingsAndroidOverloadExplosionTypeFire>
 	<ATPP_SettingsSetT1ResearchToIndustrialTechLevel>Change T1 research to be industrial tech level instead of spacer</ATPP_SettingsSetT1ResearchToIndustrialTechLevel>
 	<ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>On mind duplication, single roles abilities are transfered to destination mind</ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>
+	<ATPP_AppliedSyntheticSkinSuccess>Successfully grafted synthetic dermal layer onto {0}. The unit is now an infiltration-capable chassis.</ATPP_AppliedSyntheticSkinSuccess>
+	<ATPP_RemovedSyntheticSkinSuccess>Successfully stripped synthetic skin from {0}, exposing the raw heavy combat endoskeleton.</ATPP_RemovedSyntheticSkinSuccess>
 </LanguageData>

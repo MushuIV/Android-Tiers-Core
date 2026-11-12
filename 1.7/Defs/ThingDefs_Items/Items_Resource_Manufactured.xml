@@ -232,4 +232,35 @@
 	</RecipeDef>
 	
 	-->
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>ATPP_SyntheticSkinGland</defName>
+    <label>synthetic skin gland</label>
+    <description>An advanced bio-synthetic organ consisting of a dormant epidermal matrix and nutrient micro-ducts. When grafted onto a TX-series combat chassis or integrated during vat assembly, it expands and bonds with the subdermal casing, providing human-like thermal insulation, tactile sensory response, and lifelike skin disguise.</description>
+    <graphicData>
+      <texPath>Things/Item/Organwhite</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(0.8,0.8)</drawSize>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <MarketValue>550</MarketValue>
+      <Mass>1.2</Mass>
+      <Flammability>0.6</Flammability>
+      <DeteriorationRate>0.5</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <tradeability>All</tradeability>
+    <techLevel>Spacer</techLevel>
+    <tradeTags>
+      <li>ExoticMisc</li>
+    </tradeTags>
+    <thingSetMakerTags>
+      <li>RewardSpecial</li>
+    </thingSetMakerTags>
+  </ThingDef>
 </Defs>

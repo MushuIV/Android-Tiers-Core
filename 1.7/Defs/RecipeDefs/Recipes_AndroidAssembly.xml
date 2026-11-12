@@ -1097,18 +1097,10 @@
 		 <li>
             <filter>
                <thingDefs>
-                  <li>Chemfuel</li>
+                  <li>ATPP_SyntheticSkinGland</li>
                </thingDefs>
             </filter>
-            <count>85</count>
-         </li>
-		 <li>
-            <filter>
-               <thingDefs>
-                  <li>Cloth</li>
-               </thingDefs>
-            </filter>
-            <count>125</count>
+            <count>1</count>
          </li>
       </ingredients>
 	  <researchPrerequisite>T2Androids</researchPrerequisite>
@@ -1179,18 +1171,10 @@
 		 <li>
             <filter>
                <thingDefs>
-                  <li>Chemfuel</li>
+                  <li>ATPP_SyntheticSkinGland</li>
                </thingDefs>
             </filter>
-            <count>85</count>
-         </li>
-		 <li>
-            <filter>
-               <thingDefs>
-                  <li>Cloth</li>
-               </thingDefs>
-            </filter>
-            <count>125</count>
+            <count>1</count>
          </li>
       </ingredients>
 	  <researchPrerequisite>T2Androids</researchPrerequisite>
@@ -1395,10 +1379,10 @@
 		 <li>
             <filter>
                <thingDefs>
-                  <li>Meat_Human</li>
+                  <li>ATPP_SyntheticSkinGland</li>
                </thingDefs>
             </filter>
-            <count>175</count>
+            <count>1</count>
          </li>
 		 <li>
             <filter>
@@ -1478,10 +1462,10 @@
 		 <li>
             <filter>
                <thingDefs>
-                  <li>Meat_Human</li>
+                  <li>ATPP_SyntheticSkinGland</li>
                </thingDefs>
             </filter>
-            <count>175</count>
+            <count>1</count>
          </li>
 		 <li>
             <filter>
@@ -1702,10 +1686,10 @@
 		 <li>
             <filter>
                <thingDefs>
-                  <li>Meat_Human</li>
+                  <li>ATPP_SyntheticSkinGland</li>
                </thingDefs>
             </filter>
-            <count>175</count>
+            <count>1</count>
          </li>
 		 <li>
             <filter>
@@ -1784,10 +1768,10 @@
 		 <li>
             <filter>
                <thingDefs>
-                  <li>Meat_Human</li>
+                  <li>ATPP_SyntheticSkinGland</li>
                </thingDefs>
             </filter>
-            <count>175</count>
+            <count>1</count>
          </li>
 		 <li>
             <filter>
@@ -2017,10 +2001,10 @@
 		 <li>
             <filter>
                <thingDefs>
-                  <li>Meat_Human</li>
+                  <li>ATPP_SyntheticSkinGland</li>
                </thingDefs>
             </filter>
-            <count>175</count>
+            <count>1</count>
          </li>
 		 <li>
             <filter>
@@ -2107,10 +2091,10 @@
 		 <li>
             <filter>
                <thingDefs>
-                  <li>Meat_Human</li>
+                  <li>ATPP_SyntheticSkinGland</li>
                </thingDefs>
             </filter>
-            <count>175</count>
+            <count>1</count>
          </li>
 		 <li>
             <filter>

@@ -52,4 +52,7 @@
 	
 	<ATPP_T4ArtificialBrain.label>Artificial Brain T4</ATPP_T4ArtificialBrain.label>
 	<ATPP_T4ArtificialBrain.description>An artificial T4 brain, allowing to transform a T4 surrogate into a blank neural network android</ATPP_T4ArtificialBrain.description>
+
+	<ATPP_SyntheticSkinGland.label>synthetic skin gland</ATPP_SyntheticSkinGland.label>
+	<ATPP_SyntheticSkinGland.description>An advanced bio-synthetic organ consisting of a dormant epidermal matrix and nutrient micro-ducts. When grafted onto a TX-series combat chassis or integrated during vat assembly, it expands and bonds with the subdermal casing, providing human-like thermal insulation, tactile sensory response, and lifelike skin disguise.</ATPP_SyntheticSkinGland.description>
 </LanguageData>

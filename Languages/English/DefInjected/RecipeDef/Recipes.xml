@@ -268,4 +268,24 @@
   <ATPP_CreateTX2KIFemaleAndroid.label>Create TX2KI female Android</ATPP_CreateTX2KIFemaleAndroid.label>
   <ATPP_CreateTX2KIFemaleAndroid.description>Create a TX2KI female Android</ATPP_CreateTX2KIFemaleAndroid.description>
   <ATPP_CreateTX2KIFemaleAndroid.jobString>Creating a TX2KI Android</ATPP_CreateTX2KIFemaleAndroid.jobString>
+
+  <ATPP_MakeSyntheticSkinGland.label>synthesize skin gland</ATPP_MakeSyntheticSkinGland.label>
+  <ATPP_MakeSyntheticSkinGland.description>Synthesize an artificial skin gland using hydrocarbon chemfuel, neutroamine preservative solution, medicine, and woven textile scaffolds.</ATPP_MakeSyntheticSkinGland.description>
+  <ATPP_MakeSyntheticSkinGland.jobString>Synthesizing skin gland.</ATPP_MakeSyntheticSkinGland.jobString>
+
+  <ATPP_GestateSyntheticSkinGland_Biotech.label>gestate synthetic skin gland</ATPP_GestateSyntheticSkinGland_Biotech.label>
+  <ATPP_GestateSyntheticSkinGland_Biotech.description>Using Biotech hemogenic solution, cellular nutrients, and medical stabilizers in an Android Production Vat, gestate a living synthetic skin gland matrix for TX-series infiltrators.</ATPP_GestateSyntheticSkinGland_Biotech.description>
+  <ATPP_GestateSyntheticSkinGland_Biotech.jobString>Gestating synthetic skin gland.</ATPP_GestateSyntheticSkinGland_Biotech.jobString>
+
+  <ATPP_QE_GrowSyntheticSkinGland.label>grow synthetic skin gland</ATPP_QE_GrowSyntheticSkinGland.label>
+  <ATPP_QE_GrowSyntheticSkinGland.description>Cultivate a living bio-synthetic skin gland matrix inside the Questionable Ethics organ vat using organic nutrients and chemical stabilizers.</ATPP_QE_GrowSyntheticSkinGland.description>
+  <ATPP_QE_GrowSyntheticSkinGland.jobString>Growing synthetic skin gland.</ATPP_QE_GrowSyntheticSkinGland.jobString>
+
+  <ATPP_ApplySyntheticSkin.label>graft synthetic skin</ATPP_ApplySyntheticSkin.label>
+  <ATPP_ApplySyntheticSkin.description>Grafts a synthetic dermal matrix onto this TX infantry chassis, covering the exposed mechanical endoskeleton with human-like synthetic living skin. This increases social reception and thermal insulation while eliminating rain-rusting, at the expense of higher flammability.</ATPP_ApplySyntheticSkin.description>
+  <ATPP_ApplySyntheticSkin.jobString>Grafting synthetic skin onto android.</ATPP_ApplySyntheticSkin.jobString>
+
+  <ATPP_RemoveSyntheticSkin.label>strip synthetic skin</ATPP_RemoveSyntheticSkin.label>
+  <ATPP_RemoveSyntheticSkin.description>Surgically strips the synthetic skin layer from this TX infiltrator, exposing the reinforced infantry endoskeleton beneath. The android loses social charm but gains fire immunity and battlefield durability.</ATPP_RemoveSyntheticSkin.description>
+  <ATPP_RemoveSyntheticSkin.jobString>Stripping synthetic skin from android.</ATPP_RemoveSyntheticSkin.jobString>
 </LanguageData>
