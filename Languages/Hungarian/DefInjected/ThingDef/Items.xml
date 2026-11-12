@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_NanitesHydraulicSerum.label>Nanitbank (Hidraulikus)</ATPP_NanitesHydraulicSerum.label>
+  <ATPP_NanitesHydraulicSerum.description>Egy egyszer használatos nanitbank, amely az androidok meghibásodott (öregkori) hidraulikus rendszerének javítására szolgál.</ATPP_NanitesHydraulicSerum.description>
+  <ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>Használd ezt a nanitszérumot az android öregkori hibáinak javításához</ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesCPUSerum.label>Nanitbank (Processzor)</ATPP_NanitesCPUSerum.label>
+  <ATPP_NanitesCPUSerum.description>Egy egyszer használatos nanitbank, amely az androidok meghibásodott (öregkori) mesterséges agyának javítására szolgál.</ATPP_NanitesCPUSerum.description>
+  <ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>Használd ezt a nanitszérumot az android öregkori hibáinak javításához</ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesCoolingSerum.label>Nanitbank (Hűtés)</ATPP_NanitesCoolingSerum.label>
+  <ATPP_NanitesCoolingSerum.description>Egy egyszer használatos nanitbank, amely túlmelegedés esetén az androidok meghibásodott (öregkori) hűtőrendszerének javítására szolgál.</ATPP_NanitesCoolingSerum.description>
+  <ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>Használd ezt a nanitszérumot az android öregkori hibáinak javításához</ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesFrameSerum.label>Nanitbank (Vázszerkezet)</ATPP_NanitesFrameSerum.label>
+  <ATPP_NanitesFrameSerum.description>Egy egyszer használatos nanitbank, amely az androidok sérült (öregkori) belső vázának javítására szolgál.</ATPP_NanitesFrameSerum.description>
+  <ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>Használd ezt a nanitszérumot az android öregkori hibáinak javításához</ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>
+  <ATPP_AndroidNanokitBasic.label>Alap nanokészlet</ATPP_AndroidNanokitBasic.label>
+  <ATPP_AndroidNanokitBasic.description>Nanobotokat tartalmazó készlet az androidok sérüléseinek kezelésére</ATPP_AndroidNanokitBasic.description>
+  <ATPP_AndroidNanokitIntermediate.label>Közepes nanokészlet</ATPP_AndroidNanokitIntermediate.label>
+  <ATPP_AndroidNanokitIntermediate.description>Nanobotokat tartalmazó készlet az androidok sérüléseinek kezelésére</ATPP_AndroidNanokitIntermediate.description>
+  <ATPP_AndroidNanokitAdvanced.label>Fejlett nanokészlet</ATPP_AndroidNanokitAdvanced.label>
+  <ATPP_AndroidNanokitAdvanced.description>Nanobotokat tartalmazó készlet az androidok sérüléseinek kezelésére</ATPP_AndroidNanokitAdvanced.description>
+  <ATPP_RXChip.label>RX neurális csip</ATPP_RXChip.label>
+  <ATPP_RXChip.description>Egy neurális csip, amely személyes SkyMind átjátszóként működik.</ATPP_RXChip.description>
+  <ATPP_VX0Chip.label>VX0 neurális csip</ATPP_VX0Chip.label>
+  <ATPP_VX0Chip.description>Egy neurális csip, amely biológiai helyettessé alakítja a gazdatestet.</ATPP_VX0Chip.description>
+  <ATPP_VX1Chip.label>VX1 neurális csip</ATPP_VX1Chip.label>
+  <ATPP_VX1Chip.description>Egy neurális csip, amely lehetővé teszi a gazdatest számára bármely SX sorozatú android vagy biológiai helyettes távvezérlését.</ATPP_VX1Chip.description>
+  <ATPP_VX2Chip.label>VX2 neurális csip</ATPP_VX2Chip.label>
+  <ATPP_VX2Chip.description>Egy neurális csip, amely lehetővé teszi a gazdatest számára bármely SX sorozatú android vagy biológiai helyettes távvezérlését és tudatuk cseréjét/duplikálását.</ATPP_VX2Chip.description>
+  <ATPP_VX3Chip.label>VX3 neurális csip</ATPP_VX3Chip.label>
+  <ATPP_VX3Chip.description>Egy neurális csip, amely lehetővé teszi a gazdatest számára több SX sorozatú android vagy biológiai helyettes egyidejű távvezérlését és tudatuk cseréjét/duplikálását.</ATPP_VX3Chip.description>
+  <ATPP_T1ArtificialBrain.label>T1 mesterséges agy</ATPP_T1ArtificialBrain.label>
+  <ATPP_T1ArtificialBrain.description>Egy T1 mesterséges agy, amely lehetővé teszi egy T1 helyettes átalakítását üres neurális hálózatú androiddá</ATPP_T1ArtificialBrain.description>
+  <ATPP_T2ArtificialBrain.label>T2 mesterséges agy</ATPP_T2ArtificialBrain.label>
+  <ATPP_T2ArtificialBrain.description>Egy T2 mesterséges agy, amely lehetővé teszi egy T2 helyettes átalakítását üres neurális hálózatú androiddá</ATPP_T2ArtificialBrain.description>
+  <ATPP_T3ArtificialBrain.label>T3 mesterséges agy</ATPP_T3ArtificialBrain.label>
+  <ATPP_T3ArtificialBrain.description>Egy T3 mesterséges agy, amely lehetővé teszi egy T3 helyettes átalakítását üres neurális hálózatú androiddá</ATPP_T3ArtificialBrain.description>
+  <ATPP_T4ArtificialBrain.label>T4 mesterséges agy</ATPP_T4ArtificialBrain.label>
+  <ATPP_T4ArtificialBrain.description>Egy T4 mesterséges agy, amely lehetővé teszi egy T4 helyettes átalakítását üres neurális hálózatú androiddá</ATPP_T4ArtificialBrain.description>
+  <ATPP_SyntheticSkinGland.label>szintetikus bőrmirigy</ATPP_SyntheticSkinGland.label>
+  <ATPP_SyntheticSkinGland.description>Egy fejlett bio-szintetikus szerv, amely alvó epidermális mátrixból és tápanyag-mikrocsatornákból áll. Amikor egy TX sorozatú harci vázra ültetik át, vagy keltetői összeszerelés során integrálják, kiterjed és összekapcsolódik a bőr alatti burkolattal, emberhez hasonló hőszigetelést, tapintási érzékelést és élethű bőralcát biztosítva.</ATPP_SyntheticSkinGland.description>
+  <ATPP_GS_TX2KMale.label>Férfi TX2K váz</ATPP_GS_TX2KMale.label>
+  <ATPP_GS_TX2KMale.description>Egy inaktív TX2K működőképes belső váz, amely arra vár, hogy aktiválják egy keltetőben, miután kinőtt a bőre</ATPP_GS_TX2KMale.description>
+  <ATPP_GS_TX2KFemale.label>Női TX2K váz</ATPP_GS_TX2KFemale.label>
+  <ATPP_GS_TX2KFemale.description>Egy inaktív TX2K működőképes belső váz, amely arra vár, hogy aktiválják egy keltetőben, miután kinőtt a bőre</ATPP_GS_TX2KFemale.description>
+  <ATPP_GS_TX3Male.label>Férfi TX3 váz</ATPP_GS_TX3Male.label>
+  <ATPP_GS_TX3Male.description>Egy inaktív TX3 működőképes belső váz, amely arra vár, hogy aktiválják egy keltetőben, miután kinőtt a bőre</ATPP_GS_TX3Male.description>
+  <ATPP_GS_TX3Female.label>Női TX3 váz</ATPP_GS_TX3Female.label>
+  <ATPP_GS_TX3Female.description>Egy inaktív TX3 működőképes belső váz, amely arra vár, hogy aktiválják egy keltetőben, miután kinőtt a bőre</ATPP_GS_TX3Female.description>
+  <ATPP_GS_TX4Male.label>Férfi TX4 váz</ATPP_GS_TX4Male.label>
+  <ATPP_GS_TX4Male.description>Egy inaktív TX4 működőképes belső váz, amely arra vár, hogy aktiválják egy keltetőben, miután kinőtt a bőre</ATPP_GS_TX4Male.description>
+  <ATPP_GS_TX4Female.label>Női TX4 váz</ATPP_GS_TX4Female.label>
+  <ATPP_GS_TX4Female.description>Egy inaktív TX4 működőképes belső váz, amely arra vár, hogy aktiválják egy keltetőben, miután kinőtt a bőre</ATPP_GS_TX4Female.description>
+
+</LanguageData>

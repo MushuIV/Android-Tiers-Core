@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_NanitesHydraulicSerum.label>Nanietenbank (Hydraulisch)</ATPP_NanitesHydraulicSerum.label>
+	<ATPP_NanitesHydraulicSerum.description>Een eenmalige bank nanieten afgestemd op het repareren van defecte hydraulische systemen van androids (gerelateerd aan ouderdom).</ATPP_NanitesHydraulicSerum.description>
+	<ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>Gebruik dit nanietenserum om ouderdomsproblemen van androids te verhelpen</ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>
+	<ATPP_NanitesCPUSerum.label>Nanietenbank (CPU)</ATPP_NanitesCPUSerum.label>
+	<ATPP_NanitesCPUSerum.description>Een eenmalige bank nanieten afgestemd op het repareren van defecte kunstmatige breinsystemen van androids (gerelateerd aan ouderdom).</ATPP_NanitesCPUSerum.description>
+	<ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>Gebruik dit nanietenserum om ouderdomsproblemen van androids te verhelpen</ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>
+	<ATPP_NanitesCoolingSerum.label>Nanietenbank (Koeling)</ATPP_NanitesCoolingSerum.label>
+	<ATPP_NanitesCoolingSerum.description>Een eenmalige bank nanieten afgestemd op het repareren van defecte koelsystemen van androids bij oververhitting (gerelateerd aan ouderdom).</ATPP_NanitesCoolingSerum.description>
+	<ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>Gebruik dit nanietenserum om ouderdomsproblemen van androids te verhelpen</ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>
+	<ATPP_NanitesFrameSerum.label>Nanietenbank (Frame)</ATPP_NanitesFrameSerum.label>
+	<ATPP_NanitesFrameSerum.description>Een eenmalige bank nanieten afgestemd op het repareren van defecte exoskeletten van androids (gerelateerd aan ouderdom).</ATPP_NanitesFrameSerum.description>
+	<ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>Gebruik dit nanietenserum om ouderdomsproblemen van androids te verhelpen</ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>
+	<ATPP_AndroidNanokitBasic.label>Basis-nanokit</ATPP_AndroidNanokitBasic.label>
+	<ATPP_AndroidNanokitBasic.description>Een kit met nanobots om de verwondingen van androids te behandelen</ATPP_AndroidNanokitBasic.description>
+	<ATPP_AndroidNanokitIntermediate.label>Gemiddelde nanokit</ATPP_AndroidNanokitIntermediate.label>
+	<ATPP_AndroidNanokitIntermediate.description>Een kit met nanobots om de verwondingen van androids te behandelen</ATPP_AndroidNanokitIntermediate.description>
+	<ATPP_AndroidNanokitAdvanced.label>Geavanceerde nanokit</ATPP_AndroidNanokitAdvanced.label>
+	<ATPP_AndroidNanokitAdvanced.description>Een kit met nanobots om de verwondingen van androids te behandelen</ATPP_AndroidNanokitAdvanced.description>
+	<ATPP_RXChip.label>RX neurale chip</ATPP_RXChip.label>
+	<ATPP_RXChip.description>Een neurale chip die fungeert als persoonlijk SkyMind-relais.</ATPP_RXChip.description>
+	<ATPP_VX0Chip.label>VX0 neurale chip</ATPP_VX0Chip.label>
+	<ATPP_VX0Chip.description>Een neurale chip die zijn gastheer transformeert in een biologische surrogaat.</ATPP_VX0Chip.description>
+	<ATPP_VX1Chip.label>VX1 neurale chip</ATPP_VX1Chip.label>
+	<ATPP_VX1Chip.description>Een neurale chip waarmee de gastheer op afstand elke SX-serie android of biologische surrogaat kan besturen.</ATPP_VX1Chip.description>
+	<ATPP_VX2Chip.label>VX2 neurale chip</ATPP_VX2Chip.label>
+	<ATPP_VX2Chip.description>Een neurale chip waarmee de gastheer op afstand elke SX-serie android of biologische surrogaat kan besturen en zijn geest kan verwisselen/dupliceren.</ATPP_VX2Chip.description>
+	<ATPP_VX3Chip.label>VX3 neurale chip</ATPP_VX3Chip.label>
+	<ATPP_VX3Chip.description>Een neurale chip waarmee de gastheer op afstand meerdere SX-serie androids of biologische surrogaten tegelijk kan besturen en zijn geest kan verwisselen/dupliceren.</ATPP_VX3Chip.description>
+	<ATPP_T1ArtificialBrain.label>Kunstmatig brein T1</ATPP_T1ArtificialBrain.label>
+	<ATPP_T1ArtificialBrain.description>Een kunstmatig T1-brein, waarmee een T1-surrogaat getransformeerd kan worden in een android met een blanco neuraal netwerk</ATPP_T1ArtificialBrain.description>
+	<ATPP_T2ArtificialBrain.label>Kunstmatig brein T2</ATPP_T2ArtificialBrain.label>
+	<ATPP_T2ArtificialBrain.description>Een kunstmatig T2-brein, waarmee een T2-surrogaat getransformeerd kan worden in een android met een blanco neuraal netwerk</ATPP_T2ArtificialBrain.description>
+	<ATPP_T3ArtificialBrain.label>Kunstmatig brein T3</ATPP_T3ArtificialBrain.label>
+	<ATPP_T3ArtificialBrain.description>Een kunstmatig T3-brein, waarmee een T3-surrogaat getransformeerd kan worden in een android met een blanco neuraal netwerk</ATPP_T3ArtificialBrain.description>
+	<ATPP_T4ArtificialBrain.label>Kunstmatig brein T4</ATPP_T4ArtificialBrain.label>
+	<ATPP_T4ArtificialBrain.description>Een kunstmatig T4-brein, waarmee een T4-surrogaat getransformeerd kan worden in een android met een blanco neuraal netwerk</ATPP_T4ArtificialBrain.description>
+	<ATPP_SyntheticSkinGland.label>synthetische huidklier</ATPP_SyntheticSkinGland.label>
+	<ATPP_SyntheticSkinGland.description>Een geavanceerd biosynthetisch orgaan bestaande uit een sluimerende epidermale matrix en microkanalen voor voedingsstoffen. Wanneer het op een TX-serie gevechtschassis wordt getransplanteerd of tijdens assemblage in een vat wordt geïntegreerd, zet het uit en verbindt het zich met de onderhuidse behuizing, wat zorgt voor mensachtige thermische isolatie, tastgevoelige respons en een levensechte huidvermomming.</ATPP_SyntheticSkinGland.description>
+	<ATPP_GS_TX2KMale.label>Mannelijk TX2K-frame</ATPP_GS_TX2KMale.label>
+	<ATPP_GS_TX2KMale.description>Een inactief functioneel TX2K-exoskelet dat wacht om geactiveerd te worden in een vat zodra de huid is gegroeid</ATPP_GS_TX2KMale.description>
+	<ATPP_GS_TX2KFemale.label>Vrouwelijk TX2K-frame</ATPP_GS_TX2KFemale.label>
+	<ATPP_GS_TX2KFemale.description>Een inactief functioneel TX2K-exoskelet dat wacht om geactiveerd te worden in een vat zodra de huid is gegroeid</ATPP_GS_TX2KFemale.description>
+	<ATPP_GS_TX3Male.label>Mannelijk TX3-frame</ATPP_GS_TX3Male.label>
+	<ATPP_GS_TX3Male.description>Een inactief functioneel TX3-exoskelet dat wacht om geactiveerd te worden in een vat zodra de huid is gegroeid</ATPP_GS_TX3Male.description>
+	<ATPP_GS_TX3Female.label>Vrouwelijk TX3-frame</ATPP_GS_TX3Female.label>
+	<ATPP_GS_TX3Female.description>Een inactief functioneel TX3-exoskelet dat wacht om geactiveerd te worden in een vat zodra de huid is gegroeid</ATPP_GS_TX3Female.description>
+	<ATPP_GS_TX4Male.label>Mannelijk TX4-frame</ATPP_GS_TX4Male.label>
+	<ATPP_GS_TX4Male.description>Een inactief functioneel TX4-exoskelet dat wacht om geactiveerd te worden in een vat zodra de huid is gegroeid</ATPP_GS_TX4Male.description>
+	<ATPP_GS_TX4Female.label>Vrouwelijk TX4-frame</ATPP_GS_TX4Female.label>
+	<ATPP_GS_TX4Female.description>Een inactief functioneel TX4-exoskelet dat wacht om geactiveerd te worden in een vat zodra de huid is gegroeid</ATPP_GS_TX4Female.description>
+</LanguageData>

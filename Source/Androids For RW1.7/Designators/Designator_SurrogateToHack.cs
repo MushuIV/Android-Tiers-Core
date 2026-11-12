@@ -151,7 +151,7 @@ namespace MOARANDROIDS
 
             if(nbpToConsume > nbp)
             {
-                Messages.Message("ATPP_CannotHackNotEnoughtHackingPoints".Translate(), MessageTypeDefOf.NegativeEvent);
+                Messages.Message("ATPP_CannotHackNotEnoughtHackingPoints".Translate(nbpToConsume), MessageTypeDefOf.NegativeEvent);
                 return;
             }
 

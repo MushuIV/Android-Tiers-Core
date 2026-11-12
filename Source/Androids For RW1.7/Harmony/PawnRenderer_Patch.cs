@@ -39,14 +39,8 @@ namespace MOARANDROIDS
                     bool state = false;
                     CompAndroidState cas = Utils.getCachedCAS(pawn);
 
-                    if (pawn.def.defName == Utils.TX2
-                        || pawn.def.defName == Utils.TX2I
-                        || pawn.def.defName == Utils.TX2KI
-                        || pawn.def.defName == Utils.TX3I
-                        || pawn.def.defName == Utils.TX4I
-                        || (pawn.def.defName == Utils.TX2K && cas != null && (cas.TXHurtedHeadSet || cas.TXHurtedHeadSet2))
-                        || (pawn.def.defName == Utils.TX3 && cas != null && (cas.TXHurtedHeadSet || cas.TXHurtedHeadSet2)) 
-                        || (pawn.def.defName == Utils.TX4 && cas != null && (cas.TXHurtedHeadSet || cas.TXHurtedHeadSet2)))
+                    if (Utils.ExceptionAndroidWithGlowingEyes.Contains(pawn.def.defName)
+                        || (Utils.ExceptionAndroidWithSkinList.Contains(pawn.def.defName) && cas != null && (cas.TXHurtedHeadSet || cas.TXHurtedHeadSet2)))
                     {
                         if (!flagPortrait)
                         {

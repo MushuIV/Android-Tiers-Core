@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_ConsciousnessUpload.label>Nahrávání vědomí</ATPP_ConsciousnessUpload.label>
+  <ATPP_ConsciousnessUpload.labelNoun>nahrávání vědomí</ATPP_ConsciousnessUpload.labelNoun>
+  <ATPP_NoHost.label>Není připojen žádný hostitel</ATPP_NoHost.label>
+  <ATPP_NoHost.labelNoun>Není připojen žádný hostitel</ATPP_NoHost.labelNoun>
+  <ATPP_HediffRXChip.label>Neuronový čip RX</ATPP_HediffRXChip.label>
+  <ATPP_HediffRXChip.labelNoun>Neuronový čip fungující jako osobní vysílač sítě SkyMind.</ATPP_HediffRXChip.labelNoun>
+  <ATPP_HediffVX0Chip.label>Neuronový čip VX0</ATPP_HediffVX0Chip.label>
+  <ATPP_HediffVX0Chip.labelNoun>Neuronový čip určený k přeměně hostitele v biologického surogáta</ATPP_HediffVX0Chip.labelNoun>
+  <ATPP_HediffVX1Chip.label>Neuronový čip VX1</ATPP_HediffVX1Chip.label>
+  <ATPP_HediffVX1Chip.labelNoun>Neuronový čip VX1</ATPP_HediffVX1Chip.labelNoun>
+  <ATPP_HediffVX2Chip.label>Neuronový čip VX2</ATPP_HediffVX2Chip.label>
+  <ATPP_HediffVX2Chip.labelNoun>Neuronový čip VX2</ATPP_HediffVX2Chip.labelNoun>
+  <ATPP_HediffVX3Chip.label>Neuronový čip VX3</ATPP_HediffVX3Chip.label>
+  <ATPP_HediffVX3Chip.labelNoun>Neuronový čip VX3</ATPP_HediffVX3Chip.labelNoun>
+  <ATPP_InRemoteControlMode.label>Režim dálkového ovládání aktivován</ATPP_InRemoteControlMode.label>
+  <ATPP_InRemoteControlMode.labelNoun>Režim dálkového ovládání aktivován</ATPP_InRemoteControlMode.labelNoun>
+  <ATPP_RemotelyControlled.label>Dálkově ovládán</ATPP_RemotelyControlled.label>
+  <ATPP_RemotelyControlled.labelNoun>Dálkově ovládán</ATPP_RemotelyControlled.labelNoun>
+  <ATPP_SolarFlareAndroidImpact.label>Sluneční erupce</ATPP_SolarFlareAndroidImpact.label>
+  <ATPP_SolarFlareAndroidImpact.labelNoun>Sluneční erupce</ATPP_SolarFlareAndroidImpact.labelNoun>
+  <ATPP_LowNetworkSignal.label>Slabý signál sítě SkyMind</ATPP_LowNetworkSignal.label>
+  <ATPP_LowNetworkSignal.labelNoun>Slabý signál sítě SkyMind</ATPP_LowNetworkSignal.labelNoun>
+  <ATPP_Rusted.label>Zrezivělý</ATPP_Rusted.label>
+  <ATPP_Rusted.labelNoun>Zrezivělý</ATPP_Rusted.labelNoun>
+  <ATPP_BlankAndroid.label>Prázdná neuronová síť</ATPP_BlankAndroid.label>
+  <ATPP_BlankAndroid.labelNoun>Prázdná neuronová síť</ATPP_BlankAndroid.labelNoun>
+  <ATPP_SurrogateInit.label>Inicializace připojení</ATPP_SurrogateInit.label>
+  <ATPP_SurrogateInit.labelNoun>Inicializace připojení</ATPP_SurrogateInit.labelNoun>
+  <ATPP_AssistingMinds.label>Asistující vědomí z jader SkyCloud</ATPP_AssistingMinds.label>
+  <ATPP_AssistingMinds.labelNoun>Asistující vědomí z jader SkyCloud</ATPP_AssistingMinds.labelNoun>
+  <DecayedFrame.label>rozpadající se základní deska</DecayedFrame.label>
+  <DecayedFrame.labelNoun>rozpadající se základní deska</DecayedFrame.labelNoun>
+  <CorruptMemory.label>poškozená paměť</CorruptMemory.label>
+  <WeakValves.label>slabé ventily</WeakValves.label>
+  <ExaggeratedHealing.label>hyperaktivní reakce</ExaggeratedHealing.label>
+  <FaultyPump.label>vadné čerpadlo</FaultyPump.label>
+  <FaultyPump.labelNoun>vadné čerpadlo</FaultyPump.labelNoun>
+  <ShutdownAndroid.label>vyřazen z provozu</ShutdownAndroid.label>
+  <ShutdownAndroid.description>Jádro AI bylo trvale vypnuto a kompletně vymazáno.</ShutdownAndroid.description>
+  <RebootingSequenceAT.label>Restartování</RebootingSequenceAT.label>
+  <RebootingSequenceAT.description>V jádru AI probíhá restartovací sekvence.</RebootingSequenceAT.description>
+  <NoFreeWillAT.label>bezcitný</NoFreeWillAT.label>
+  <NoFreeWillAT.labelNoun>bezcitný</NoFreeWillAT.labelNoun>
+  <NoFreeWillAT.description>Úpravy sektorů morálky a emočních reakcí jádra AI, které vedou ke zcela neutrální náladě a absenci vyšších funkcí.</NoFreeWillAT.description>
+  <FreshReprogramming.label>nedávno přeprogramován</FreshReprogramming.label>
+  <FreshReprogramming.description>Nedávno přeprogramované jádro AI. Kompilace a automatická oprava veškerého nového softwaru může způsobit dočasné snížení schopností.</FreshReprogramming.description>
+  <OverclockedAndroid.label>přetaktovaný</OverclockedAndroid.label>
+  <OverclockedAndroid.labelNoun>vylepšení přetaktováním</OverclockedAndroid.labelNoun>
+  <OverclockedAndroid.description>Výpočetní sektory jádra AI androida byly zrychleny, což vede k rychlejšímu zpracování funkcí, ale také k vyššímu zatížení hardwaru.</OverclockedAndroid.description>
+  <BatteryChargeMech.label>Baterie</BatteryChargeMech.label>
+  <BatteryChargeMech.description>Zbývající výdrž baterie před vypnutím</BatteryChargeMech.description>
+  <AndroidCoolantLoss.label>únik chladicí kapaliny</AndroidCoolantLoss.label>
+  <AndroidCoolantLoss.description>Únik chladicí kapaliny ve vnitřním potrubí, což vede ke snížení chladicí kapacity a přehřívání vnitřních komponent.</AndroidCoolantLoss.description>
+  <AndroidOverheating.label>přehřívání</AndroidOverheating.label>
+  <AndroidFreezing.label>Zamrzání</AndroidFreezing.label>
+  <PlatingSteel.label>Ocelový rám</PlatingSteel.label>
+  <PlatingSteel.labelNoun>základní ocelový rám</PlatingSteel.labelNoun>
+  <PlatingSteel.description>Nainstalovaný ocelový rám.</PlatingSteel.description>
+  <PlatingPlasteel.label>plastocelové opláštění rámu</PlatingPlasteel.label>
+  <PlatingPlasteel.labelNoun>pevné plastocelové opláštění rámu</PlatingPlasteel.labelNoun>
+  <PlatingPlasteel.description>Nainstalované plastocelové opláštění rámu.</PlatingPlasteel.description>
+  <PlatingComposite.label>kompozitní pancéřování rámu</PlatingComposite.label>
+  <PlatingComposite.labelNoun>vysokopevnostní kompozitní pancéřování</PlatingComposite.labelNoun>
+  <PlatingComposite.description>Nainstalované kompozitní pancéřování rámu.</PlatingComposite.description>
+  <MiningArm_AT.label>těžební paže</MiningArm_AT.label>
+  <MiningArm_AT.labelNoun>těžební paže</MiningArm_AT.labelNoun>
+  <MiningArm_AT.description>Nainstalovaná těžební paže.</MiningArm_AT.description>
+  <HydraulicFrame.label>hydraulický rám</HydraulicFrame.label>
+  <HydraulicFrame.labelNoun>hydraulický rám</HydraulicFrame.labelNoun>
+  <HydraulicFrame.description>Nainstalovaný hydraulický rám.</HydraulicFrame.description>
+  <HydraulicLeg.label>hydraulická noha</HydraulicLeg.label>
+  <HydraulicLeg.labelNoun>hydraulická noha</HydraulicLeg.labelNoun>
+  <HydraulicLeg.description>Nainstalovaná hydraulická noha.</HydraulicLeg.description>
+  <HydraulicArm.label>hydraulická paže</HydraulicArm.label>
+  <HydraulicArm.labelNoun>hydraulická paže</HydraulicArm.labelNoun>
+  <HydraulicArm.description>Nainstalovaná hydraulická paže.</HydraulicArm.description>
+  <MakeshiftRLeg.label>provizorní náhradní noha</MakeshiftRLeg.label>
+  <MakeshiftRLeg.labelNoun>provizorní náhradní noha</MakeshiftRLeg.labelNoun>
+  <MakeshiftRLeg.description>Nainstalovaná provizorní náhradní noha.</MakeshiftRLeg.description>
+  <MakeshiftRArm.label>provizorní náhradní paže</MakeshiftRArm.label>
+  <MakeshiftRArm.labelNoun>provizorní náhradní paže</MakeshiftRArm.labelNoun>
+  <MakeshiftRArm.description>Nainstalovaná provizorní náhradní paže.</MakeshiftRArm.description>
+  <BRArm.label>základní náhradní paže</BRArm.label>
+  <BRArm.labelNoun>základní náhradní paže</BRArm.labelNoun>
+  <BRArm.description>Nainstalovaná základní náhradní paže.</BRArm.description>
+  <BRLeg.label>základní náhradní noha</BRLeg.label>
+  <BRLeg.labelNoun>základní náhradní noha</BRLeg.labelNoun>
+  <BRLeg.description>Nainstalovaná základní náhradní noha.</BRLeg.description>
+  <BLReceptor.label>hrubý světelný senzor</BLReceptor.label>
+  <BLReceptor.labelNoun>hrubý světelný senzor</BLReceptor.labelNoun>
+  <BLReceptor.description>Nainstalovaný hrubý světelný senzor.</BLReceptor.description>
+  <BHeatsink.label>hrubý chladič</BHeatsink.label>
+  <BHeatsink.labelNoun>hrubý chladič</BHeatsink.labelNoun>
+  <BHeatsink.description>Nainstalovaný hrubý chladič.</BHeatsink.description>
+  <BCoolantPump.label>hrubé chladicí čerpadlo</BCoolantPump.label>
+  <BCoolantPump.labelNoun>hrubé chladicí čerpadlo</BCoolantPump.labelNoun>
+  <BCoolantPump.description>Nainstalované hrubé chladicí čerpadlo.</BCoolantPump.description>
+  <BBattery.label>hrubý bateriový blok</BBattery.label>
+  <BBattery.labelNoun>hrubý bateriový blok</BBattery.labelNoun>
+  <BBattery.description>Nainstalovaný hrubý bateriový blok.</BBattery.description>
+  <BMStorage.label>hrubý zásobník mechanitů</BMStorage.label>
+  <BMStorage.labelNoun>hrubý zásobník mechanitů</BMStorage.labelNoun>
+  <BMStorage.description>Nainstalovaný hrubý zásobník mechanitů.</BMStorage.description>
+  <BTransformer.label>hrubý bioreaktor</BTransformer.label>
+  <BTransformer.labelNoun>hrubý bioreaktor</BTransformer.labelNoun>
+  <BTransformer.description>Nainstalovaný hrubý bioreaktor.</BTransformer.description>
+  <BVAdapter.label>hrubý měnič napětí</BVAdapter.label>
+  <BVAdapter.labelNoun>hrubý měnič napětí</BVAdapter.labelNoun>
+  <BVAdapter.description>Nainstalovaný hrubý měnič napětí.</BVAdapter.description>
+  <BasicRearCounterweight.label>základní protizávaží</BasicRearCounterweight.label>
+  <BasicRearCounterweight.labelNoun>základní protizávaží</BasicRearCounterweight.labelNoun>
+  <BasicRearCounterweight.description>Nainstalované základní protizávaží.</BasicRearCounterweight.description>
+  <CrudeJawAndroid.label>hrubá čelist</CrudeJawAndroid.label>
+  <CrudeJawAndroid.labelNoun>hrubá čelist</CrudeJawAndroid.labelNoun>
+  <CrudeJawAndroid.description>Nainstalovaná hrubá čelist.</CrudeJawAndroid.description>
+  <ARArm.label>vysokovýkonná paže</ARArm.label>
+  <ARArm.labelNoun>vysokovýkonná paže</ARArm.labelNoun>
+  <ARArm.description>Nainstalovaná vysokovýkonná paže.</ARArm.description>
+  <ARLeg.label>vysokovýkonná noha</ARLeg.label>
+  <ARLeg.labelNoun>vysokovýkonná noha</ARLeg.labelNoun>
+  <ARLeg.description>Nainstalovaná vysokovýkonná noha.</ARLeg.description>
+  <ALReceptor.label>pokročilý světelný senzor</ALReceptor.label>
+  <ALReceptor.labelNoun>pokročilý světelný senzor</ALReceptor.labelNoun>
+  <ALReceptor.description>Nainstalovaný pokročilý světelný senzor.</ALReceptor.description>
+  <AHeatsink.label>pokročilý chladič</AHeatsink.label>
+  <AHeatsink.labelNoun>pokročilý chladič</AHeatsink.labelNoun>
+  <AHeatsink.description>Nainstalovaný pokročilý chladič.</AHeatsink.description>
+  <ACoolantPump.label>pokročilé chladicí čerpadlo</ACoolantPump.label>
+  <ACoolantPump.labelNoun>pokročilé chladicí čerpadlo</ACoolantPump.labelNoun>
+  <ACoolantPump.description>Nainstalované pokročilé chladicí čerpadlo.</ACoolantPump.description>
+  <ABattery.label>pokročilý bateriový blok</ABattery.label>
+  <ABattery.labelNoun>pokročilý bateriový blok</ABattery.labelNoun>
+  <ABattery.description>Nainstalovaný pokročilý bateriový blok.</ABattery.description>
+  <AMStorage.label>pokročilý zásobník mechanitů</AMStorage.label>
+  <AMStorage.labelNoun>pokročilý zásobník mechanitů</AMStorage.labelNoun>
+  <AMStorage.description>Nainstalovaný pokročilý zásobník mechanitů.</AMStorage.description>
+  <ATransformer.label>pokročilý bioreaktor</ATransformer.label>
+  <ATransformer.labelNoun>pokročilý bioreaktor</ATransformer.labelNoun>
+  <ATransformer.description>Nainstalovaný pokročilý bioreaktor.</ATransformer.description>
+  <AVAdapter.label>pokročilý měnič napětí</AVAdapter.label>
+  <AVAdapter.labelNoun>pokročilý měnič napětí</AVAdapter.labelNoun>
+  <AVAdapter.description>Nainstalovaný pokročilý měnič napětí.</AVAdapter.description>
+  <AdvRearCounterweight.label>gyroskopické protizávaží</AdvRearCounterweight.label>
+  <AdvRearCounterweight.labelNoun>gyroskopické protizávaží</AdvRearCounterweight.labelNoun>
+  <AdvRearCounterweight.description>Nainstalované gyroskopické protizávaží.</AdvRearCounterweight.description>
+  <AdvJawAndroid.label>kybernetická čelist</AdvJawAndroid.label>
+  <AdvJawAndroid.labelNoun>kybernetická čelist</AdvJawAndroid.labelNoun>
+  <AdvJawAndroid.description>Nainstalovaná kybernetická čelist.</AdvJawAndroid.description>
+  <PositronMind.label>Pozitronové přepojení</PositronMind.label>
+  <PositronMind.labelNoun>pozitronové přepojení</PositronMind.labelNoun>
+  <PositronMind.description>Nainstalované pozitronové přepojení.</PositronMind.description>
+  <SoldierMind.label>Vojenské vylepšení</SoldierMind.label>
+  <SoldierMind.labelNoun>vojenské vylepšení</SoldierMind.labelNoun>
+  <SoldierMind.description>Nainstalované vojenské vylepšení.</SoldierMind.description>
+  <BuilderMind.label>Banky konstrukčních plánů</BuilderMind.label>
+  <BuilderMind.labelNoun>banka konstrukčních plánů</BuilderMind.labelNoun>
+  <BuilderMind.description>Nainstalovaná banka konstrukčních plánů.</BuilderMind.description>
+  <SurgeonMind.label>Implantovaný trikordér</SurgeonMind.label>
+  <SurgeonMind.labelNoun>implantovaný trikordér</SurgeonMind.labelNoun>
+  <SurgeonMind.description>Implantovaný trikordér.</SurgeonMind.description>
+  <SpeedMind.label>Neuronové dálnice</SpeedMind.label>
+  <SpeedMind.labelNoun>Neuronové dálnice</SpeedMind.labelNoun>
+  <SpeedMind.description>Nainstalované neuronové dálnice.</SpeedMind.description>
+  <GeoMind.label>Geologické banky</GeoMind.label>
+  <GeoMind.labelNoun>geologická banka</GeoMind.labelNoun>
+  <GeoMind.description>Nainstalovaná geologická banka.</GeoMind.description>
+  <MechanicMind.label>Inženýrský implantát</MechanicMind.label>
+  <MechanicMind.labelNoun>inženýrský implantát</MechanicMind.labelNoun>
+  <MechanicMind.description>Nainstalovaný inženýrský implantát.</MechanicMind.description>
+  <CookingMind.label>Kulinářský implantát</CookingMind.label>
+  <CookingMind.labelNoun>kulinářský implantát</CookingMind.labelNoun>
+  <CookingMind.description>Nainstalovaný kulinářský implantát.</CookingMind.description>
+  <CharismaMind.label>Implantát charismatu</CharismaMind.label>
+  <CharismaMind.labelNoun>implantát charismatu</CharismaMind.labelNoun>
+  <CharismaMind.description>Nainstalovaný implantát charismatu.</CharismaMind.description>
+  <NegotiatorMind.label>Vyjednávací implantát</NegotiatorMind.label>
+  <NegotiatorMind.labelNoun>vyjednávací implantát</NegotiatorMind.labelNoun>
+  <NegotiatorMind.description>Nainstalovaný vyjednávací implantát.</NegotiatorMind.description>
+  <ZoologyMind.label>Zoologický implantát</ZoologyMind.label>
+  <ZoologyMind.labelNoun>zoologický implantát</ZoologyMind.labelNoun>
+  <ZoologyMind.description>Nainstalovaný zoologický implantát.</ZoologyMind.description>
+  <AgriculturalMind.label>Zemědělský implantát</AgriculturalMind.label>
+  <AgriculturalMind.labelNoun>zemědělský implantát</AgriculturalMind.labelNoun>
+  <AgriculturalMind.description>Nainstalovaný zemědělský implantát.</AgriculturalMind.description>
+  <UnskilledMind.label>Základní pracovní čip</UnskilledMind.label>
+  <UnskilledMind.labelNoun>základní pracovní čip</UnskilledMind.labelNoun>
+  <UnskilledMind.description>Nainstalovaný základní pracovní čip.</UnskilledMind.description>
+  <AR2Arm.label>Kybernetická paže</AR2Arm.label>
+  <AR2Arm.labelNoun>kybernetická paže</AR2Arm.labelNoun>
+  <AR2Arm.description>Nainstalovaná kybernetická paže.</AR2Arm.description>
+  <AR2Leg.label>Kybernetická noha</AR2Leg.label>
+  <AR2Leg.labelNoun>kybernetická noha</AR2Leg.labelNoun>
+  <AR2Leg.description>Nainstalovaná kybernetická noha.</AR2Leg.description>
+  <AL2Receptor.label>archotechnický světelný senzor</AL2Receptor.label>
+  <AL2Receptor.labelNoun>archotechnický světelný senzor</AL2Receptor.labelNoun>
+  <AL2Receptor.description>Nainstalovaný archotechnický světelný senzor.</AL2Receptor.description>
+  <A2Heatsink.label>archotechnický chladič</A2Heatsink.label>
+  <A2Heatsink.labelNoun>archotechnický chladič</A2Heatsink.labelNoun>
+  <A2Heatsink.description>Nainstalovaný archotechnický chladič.</A2Heatsink.description>
+  <A2CoolantPump.label>archotechnické chladicí čerpadlo</A2CoolantPump.label>
+  <A2CoolantPump.labelNoun>archotechnické chladicí čerpadlo</A2CoolantPump.labelNoun>
+  <A2CoolantPump.description>Nainstalované archotechnické chladicí čerpadlo.</A2CoolantPump.description>
+  <A2Battery.label>archotechnický bateriový blok</A2Battery.label>
+  <A2Battery.labelNoun>archotechnický bateriový blok</A2Battery.labelNoun>
+  <A2Battery.description>Nainstalovaný archotechnický bateriový blok.</A2Battery.description>
+  <A2MStorage.label>archotechnický zásobník mechanitů</A2MStorage.label>
+  <A2MStorage.labelNoun>archotechnický zásobník mechanitů</A2MStorage.labelNoun>
+  <A2MStorage.description>Nainstalovaný archotechnický zásobník mechanitů.</A2MStorage.description>
+  <A2Transformer.label>archotechnický bioreaktor</A2Transformer.label>
+  <A2Transformer.labelNoun>archotechnický bioreaktor</A2Transformer.labelNoun>
+  <A2Transformer.description>Nainstalovaný archotechnický bioreaktor.</A2Transformer.description>
+  <A2VAdapter.label>archotechnický měnič napětí</A2VAdapter.label>
+  <A2VAdapter.labelNoun>archotechnický měnič napětí</A2VAdapter.labelNoun>
+  <A2VAdapter.description>Nainstalovaný archotechnický měnič napětí.</A2VAdapter.description>
+  <HearingSensorCrude.label>hrubý sluchový senzor</HearingSensorCrude.label>
+  <HearingSensorCrude.labelNoun>hrubý sluchový senzor</HearingSensorCrude.labelNoun>
+  <HearingSensorCrude.description>Nainstalovaný hrubý sluchový senzor.</HearingSensorCrude.description>
+  <HearingSensorAdv.label>pokročilý sluchový senzor</HearingSensorAdv.label>
+  <HearingSensorAdv.labelNoun>pokročilý sluchový senzor</HearingSensorAdv.labelNoun>
+  <HearingSensorAdv.description>Nainstalovaný pokročilý sluchový senzor.</HearingSensorAdv.description>
+  <HearingSensorArch.label>archotechnický sluchový senzor</HearingSensorArch.label>
+  <HearingSensorArch.labelNoun>archotechnický sluchový senzor</HearingSensorArch.labelNoun>
+  <HearingSensorArch.description>Nainstalovaný archotechnický sluchový senzor.</HearingSensorArch.description>
+  <SmellSensorAdv.label>pokročilý čichový senzor</SmellSensorAdv.label>
+  <SmellSensorAdv.labelNoun>pokročilý čichový senzor</SmellSensorAdv.labelNoun>
+  <SmellSensorAdv.description>Nainstalovaný pokročilý čichový senzor.</SmellSensorAdv.description>
+  <SmellingSensorCrude.label>hrubý čichový senzor</SmellingSensorCrude.label>
+  <SmellingSensorCrude.labelNoun>hrubý čichový senzor</SmellingSensorCrude.labelNoun>
+  <SmellingSensorCrude.description>Nainstalovaný hrubý čichový senzor.</SmellingSensorCrude.description>
+  <SmellingSensorArch.label>archotechnický čichový senzor</SmellingSensorArch.label>
+  <SmellingSensorArch.labelNoun>archotechnický čichový senzor</SmellingSensorArch.labelNoun>
+  <SmellingSensorArch.description>Nainstalovaný archotechnický čichový senzor.</SmellingSensorArch.description>
+  <EvolvingMind.label>Vyvíjející se AI</EvolvingMind.label>
+  <EvolvingMind.labelNoun>vyvíjející se AI</EvolvingMind.labelNoun>
+  <EvolvingMind.description>Nainstalovaná vyvíjející se AI.</EvolvingMind.description>
+  <AndroidTiers_EmotionlessCard.label>Vypnuté sociální interakce</AndroidTiers_EmotionlessCard.label>
+  <AndroidTiers_EmotionlessCard.labelNoun>Vypnuté sociální interakce</AndroidTiers_EmotionlessCard.labelNoun>
+  <Backstory_PitFighterUpgrade.label>bojové rukavice z arény</Backstory_PitFighterUpgrade.label>
+  <Backstory_PitFighterUpgrade.labelNoun>bojová rukavice z arény</Backstory_PitFighterUpgrade.labelNoun>
+  <Backstory_PitFighterUpgrade.description>Nainstalovaná bojová rukavice.</Backstory_PitFighterUpgrade.description>
+  <Backstory_TranscendantAssimilatorUpgrade.label>Plazmová rukavice</Backstory_TranscendantAssimilatorUpgrade.label>
+  <Backstory_TranscendantAssimilatorUpgrade.labelNoun>plazmová rukavice</Backstory_TranscendantAssimilatorUpgrade.labelNoun>
+  <Backstory_TranscendantAssimilatorUpgrade.description>Nainstalovaná bojová rukavice.</Backstory_TranscendantAssimilatorUpgrade.description>
+  <Backstory_HighCouncilUpgrade.label>Kvantové zpracování</Backstory_HighCouncilUpgrade.label>
+  <Backstory_HighCouncilUpgrade.labelNoun>kvantová mysl</Backstory_HighCouncilUpgrade.labelNoun>
+  <Backstory_HighCouncilUpgrade.description>Nainstalovaná kvantová mysl.</Backstory_HighCouncilUpgrade.description>
+  <SGelhuman.label>Strukturální gel</SGelhuman.label>
+  <SGelhuman.description>Směs aminokyselin a mechanitů proudící krevním řečištěm; je vysoce toxická a může způsobovat záchvaty.</SGelhuman.description>
+  <SGelandroid.label>Strukturální gel</SGelandroid.label>
+  <SGelandroid.description>Směs aminokyselin a mechanitů proudící chladicím potrubím; pomáhá udržovat vnitřní součásti pro vyšší výkon.</SGelandroid.description>
+  <Toxicated.label>Otráven</Toxicated.label>
+  <Toxicated.description>Toxické sloučeniny v krevním řečišti; způsobují potíže s dýcháním a zvracení.</Toxicated.description>
+  <AFreezeandroid.label>Polymerová nemrznoucí směs</AFreezeandroid.label>
+  <AFreezeandroid.description>Nemrznoucí směs na bázi polymerů v chladicím potrubí. Pomáhá regulovat teplotu v horkém i chladném prostředí.</AFreezeandroid.description>
+  <MechSwarmandroid.label>Roj mechanitů</MechSwarmandroid.label>
+  <MechSwarmandroid.description>Nanomechaniti proudící chladicím potrubím. Pomáhají udržovat vnitřní součásti ve špičkovém výkonu.</MechSwarmandroid.description>
+  <Conversion.label>???</Conversion.label>
+  <Conversion.description>Fraktální sloučeniny v krevním řečišti. Způsobují záchvaty, silné zvracení a prudké praskání kůže v důsledku těžkého zánětu tkání.</Conversion.description>
+  <FractalPillAndroid.label>Fraktální vylepšení</FractalPillAndroid.label>
+  <FractalPillAndroid.description>Fraktální sloučeniny v chladicím potrubí. Výrazně zvyšují účinnost a sílu všech činností.</FractalPillAndroid.description>
+  <RegenHumanoid.label>Mono-mast</RegenHumanoid.label>
+  <RegenHumanoid.description>Aktivní regenerační rozpouštědla v krevním řečišti. Podporují základní buněčnou regeneraci.</RegenHumanoid.description>
+  <RegenAndroid.label>Mono-mast</RegenAndroid.label>
+  <RegenAndroid.description>Aktivní regenerační rozpouštědla v chladicím potrubí. Napomáhají samoopravě mechanismů.</RegenAndroid.description>
+  <ATPP_DummyHediff.label>Zástupný stav</ATPP_DummyHediff.label>
+  <ATPP_DummyHediff.labelNoun>Zástupný stav</ATPP_DummyHediff.labelNoun>
+
+</LanguageData>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_ConsciousnessUpload.label>Geestupload</ATPP_ConsciousnessUpload.label>
+	<ATPP_ConsciousnessUpload.labelNoun>geestupload</ATPP_ConsciousnessUpload.labelNoun>
+	<ATPP_NoHost.label>Geen host verbonden</ATPP_NoHost.label>
+	<ATPP_NoHost.labelNoun>geen host verbonden</ATPP_NoHost.labelNoun>
+	<ATPP_HediffRXChip.label>RX neurale chip</ATPP_HediffRXChip.label>
+	<ATPP_HediffRXChip.labelNoun>Een neurale chip die fungeert als persoonlijk SkyMind-relais.</ATPP_HediffRXChip.labelNoun>
+	<ATPP_HediffVX0Chip.label>VX0 neurale chip</ATPP_HediffVX0Chip.label>
+	<ATPP_HediffVX0Chip.labelNoun>Een neurale chip om de gastheer te transformeren in een biologische surrogaat</ATPP_HediffVX0Chip.labelNoun>
+	<ATPP_HediffVX1Chip.label>VX1 neurale chip</ATPP_HediffVX1Chip.label>
+	<ATPP_HediffVX1Chip.labelNoun>VX1 neurale chip</ATPP_HediffVX1Chip.labelNoun>
+	<ATPP_HediffVX2Chip.label>VX2 neurale chip</ATPP_HediffVX2Chip.label>
+	<ATPP_HediffVX2Chip.labelNoun>VX2 neurale chip</ATPP_HediffVX2Chip.labelNoun>
+	<ATPP_HediffVX3Chip.label>VX3 neurale chip</ATPP_HediffVX3Chip.label>
+	<ATPP_HediffVX3Chip.labelNoun>VX3 neurale chip</ATPP_HediffVX3Chip.labelNoun>
+	<ATPP_InRemoteControlMode.label>Afstandsbedieningsmodus ingeschakeld</ATPP_InRemoteControlMode.label>
+	<ATPP_InRemoteControlMode.labelNoun>afstandsbedieningsmodus ingeschakeld</ATPP_InRemoteControlMode.labelNoun>
+	<ATPP_RemotelyControlled.label>Op afstand bestuurd</ATPP_RemotelyControlled.label>
+	<ATPP_RemotelyControlled.labelNoun>op afstand bestuurd</ATPP_RemotelyControlled.labelNoun>
+	<ATPP_SolarFlareAndroidImpact.label>Zonnevlam</ATPP_SolarFlareAndroidImpact.label>
+	<ATPP_SolarFlareAndroidImpact.labelNoun>zonnevlam</ATPP_SolarFlareAndroidImpact.labelNoun>
+	<ATPP_LowNetworkSignal.label>Zwak SkyMind-netwerksignaal</ATPP_LowNetworkSignal.label>
+	<ATPP_LowNetworkSignal.labelNoun>zwak SkyMind-netwerksignaal</ATPP_LowNetworkSignal.labelNoun>
+	<ATPP_Rusted.label>Verroest</ATPP_Rusted.label>
+	<ATPP_Rusted.labelNoun>verroest</ATPP_Rusted.labelNoun>
+	<ATPP_BlankAndroid.label>Blanco neuraal netwerk</ATPP_BlankAndroid.label>
+	<ATPP_BlankAndroid.labelNoun>blanco neuraal netwerk</ATPP_BlankAndroid.labelNoun>
+	<ATPP_SurrogateInit.label>Verbindingsinitialisatie</ATPP_SurrogateInit.label>
+	<ATPP_SurrogateInit.labelNoun>verbindingsinitialisatie</ATPP_SurrogateInit.labelNoun>
+	<ATPP_AssistingMinds.label>Assisterende geesten van SkyCloud-kernen</ATPP_AssistingMinds.label>
+	<ATPP_AssistingMinds.labelNoun>assisterende geesten van SkyCloud-kernen</ATPP_AssistingMinds.labelNoun>
+	<DecayedFrame.label>aftakelend hoofdframe</DecayedFrame.label>
+	<DecayedFrame.labelNoun>een aftakelend hoofdframe</DecayedFrame.labelNoun>
+	<CorruptMemory.label>corrupt geheugen</CorruptMemory.label>
+	<WeakValves.label>zwakke kleppen</WeakValves.label>
+	<ExaggeratedHealing.label>hyperactieve reactie</ExaggeratedHealing.label>
+	<FaultyPump.label>defecte pomp</FaultyPump.label>
+	<FaultyPump.labelNoun>een defecte pomp</FaultyPump.labelNoun>
+	<ShutdownAndroid.label>buiten dienst gesteld</ShutdownAndroid.label>
+	<ShutdownAndroid.description>AI-kern permanent uitgeschakeld en volledig gewist.</ShutdownAndroid.description>
+	<RebootingSequenceAT.label>Opnieuw opstarten</RebootingSequenceAT.label>
+	<RebootingSequenceAT.description>Herstartsequentie actief in de AI-kern.</RebootingSequenceAT.description>
+	<NoFreeWillAT.label>gevoelloos</NoFreeWillAT.label>
+	<NoFreeWillAT.labelNoun>gevoelloosheid</NoFreeWillAT.labelNoun>
+	<NoFreeWillAT.description>Aanpassingen aan de moraliteits- en emotionele responssectoren van de AI-kern, wat resulteert in een volledig neutrale stemming en gebrek aan hogere functies.</NoFreeWillAT.description>
+	<FreshReprogramming.label>recentelijk geherprogrammeerd</FreshReprogramming.label>
+	<FreshReprogramming.description>Recentelijk geherprogrammeerde AI-kern. Het compileren en automatisch corrigeren van alle nieuwe software kan verminderde vaardigheden veroorzaken.</FreshReprogramming.description>
+	<OverclockedAndroid.label>overgeklokt</OverclockedAndroid.label>
+	<OverclockedAndroid.labelNoun>een overklok-upgrade</OverclockedAndroid.labelNoun>
+	<OverclockedAndroid.description>Verwerkingssectoren van de AI-kern van de android zijn versneld, wat zorgt voor snellere berekeningen maar ook een hogere belasting van de hardware.</OverclockedAndroid.description>
+	<BatteryChargeMech.label>Batterij</BatteryChargeMech.label>
+	<BatteryChargeMech.description>Resterende batterijduur vóór uitschakeling</BatteryChargeMech.description>
+	<AndroidCoolantLoss.label>koelvloeistofverlies</AndroidCoolantLoss.label>
+	<AndroidCoolantLoss.description>Verlies van koelvloeistof in interne leidingen, wat leidt tot verminderde koelcapaciteit en oververhitting van interne onderdelen.</AndroidCoolantLoss.description>
+	<AndroidOverheating.label>oververhitting</AndroidOverheating.label>
+	<AndroidFreezing.label>Bevriezing</AndroidFreezing.label>
+	<PlatingSteel.label>Stalen frame</PlatingSteel.label>
+	<PlatingSteel.labelNoun>een eenvoudig stalen frame</PlatingSteel.labelNoun>
+	<PlatingSteel.description>Een geïnstalleerd stalen frame.</PlatingSteel.description>
+	<PlatingPlasteel.label>plastalen framebekleding</PlatingPlasteel.label>
+	<PlatingPlasteel.labelNoun>sterke plastalen framebekleding</PlatingPlasteel.labelNoun>
+	<PlatingPlasteel.description>Een geïnstalleerde plastalen framebekleding.</PlatingPlasteel.description>
+	<PlatingComposite.label>composiet framebeplating</PlatingComposite.label>
+	<PlatingComposite.labelNoun>composietbeplating met hoge treksterkte</PlatingComposite.labelNoun>
+	<PlatingComposite.description>Geïnstalleerde composiet framebeplating.</PlatingComposite.description>
+	<MiningArm_AT.label>mijnbouwarm</MiningArm_AT.label>
+	<MiningArm_AT.labelNoun>een mijnbouwarm</MiningArm_AT.labelNoun>
+	<MiningArm_AT.description>Een geïnstalleerde mijnbouwarm.</MiningArm_AT.description>
+	<HydraulicFrame.label>hydraulisch frame</HydraulicFrame.label>
+	<HydraulicFrame.labelNoun>een hydraulisch frame</HydraulicFrame.labelNoun>
+	<HydraulicFrame.description>Een geïnstalleerd hydraulisch frame.</HydraulicFrame.description>
+	<HydraulicLeg.label>hydraulisch been</HydraulicLeg.label>
+	<HydraulicLeg.labelNoun>een hydraulisch been</HydraulicLeg.labelNoun>
+	<HydraulicLeg.description>Een geïnstalleerd hydraulisch been.</HydraulicLeg.description>
+	<HydraulicArm.label>hydraulische arm</HydraulicArm.label>
+	<HydraulicArm.labelNoun>een hydraulische arm</HydraulicArm.labelNoun>
+	<HydraulicArm.description>Een geïnstalleerde hydraulische arm.</HydraulicArm.description>
+	<MakeshiftRLeg.label>geïmproviseerd vervangend been</MakeshiftRLeg.label>
+	<MakeshiftRLeg.labelNoun>een geïmproviseerd vervangend been</MakeshiftRLeg.labelNoun>
+	<MakeshiftRLeg.description>Een geïnstalleerd geïmproviseerd vervangend been.</MakeshiftRLeg.description>
+	<MakeshiftRArm.label>geïmproviseerde vervangende arm</MakeshiftRArm.label>
+	<MakeshiftRArm.labelNoun>een geïmproviseerde vervangende arm</MakeshiftRArm.labelNoun>
+	<MakeshiftRArm.description>Een geïnstalleerde geïmproviseerde vervangende arm.</MakeshiftRArm.description>
+	<BRArm.label>eenvoudige vervangende arm</BRArm.label>
+	<BRArm.labelNoun>een eenvoudige vervangende arm</BRArm.labelNoun>
+	<BRArm.description>Een geïnstalleerde eenvoudige vervangende arm.</BRArm.description>
+	<BRLeg.label>eenvoudig vervangend been</BRLeg.label>
+	<BRLeg.labelNoun>een eenvoudig vervangend been</BRLeg.labelNoun>
+	<BRLeg.description>Een geïnstalleerd eenvoudig vervangend been.</BRLeg.description>
+	<BLReceptor.label>primitieve lichtsensor</BLReceptor.label>
+	<BLReceptor.labelNoun>een primitieve lichtsensor</BLReceptor.labelNoun>
+	<BLReceptor.description>Een geïnstalleerde primitieve lichtsensor.</BLReceptor.description>
+	<BHeatsink.label>primitieve koelplaat</BHeatsink.label>
+	<BHeatsink.labelNoun>een primitieve koelplaat</BHeatsink.labelNoun>
+	<BHeatsink.description>Een geïnstalleerde primitieve koelplaat.</BHeatsink.description>
+	<BCoolantPump.label>primitieve koelvloeistofpomp</BCoolantPump.label>
+	<BCoolantPump.labelNoun>een primitieve koelvloeistofpomp</BCoolantPump.labelNoun>
+	<BCoolantPump.description>Een geïnstalleerde primitieve koelvloeistofpomp.</BCoolantPump.description>
+	<BBattery.label>primitief batterijpakket</BBattery.label>
+	<BBattery.labelNoun>een primitief batterijpakket</BBattery.labelNoun>
+	<BBattery.description>Een geïnstalleerd primitief batterijpakket.</BBattery.description>
+	<BMStorage.label>primitieve mechanietopslag</BMStorage.label>
+	<BMStorage.labelNoun>primitieve mechanietopslag</BMStorage.labelNoun>
+	<BMStorage.description>Een geïnstalleerde primitieve mechanietopslag.</BMStorage.description>
+	<BTransformer.label>primitieve bioreactor</BTransformer.label>
+	<BTransformer.labelNoun>een primitieve bioreactor</BTransformer.labelNoun>
+	<BTransformer.description>Een geïnstalleerde primitieve bioreactor.</BTransformer.description>
+	<BVAdapter.label>primitieve stroomomvormer</BVAdapter.label>
+	<BVAdapter.labelNoun>een primitieve stroomomvormer</BVAdapter.labelNoun>
+	<BVAdapter.description>Een geïnstalleerde primitieve stroomomvormer.</BVAdapter.description>
+	<BasicRearCounterweight.label>eenvoudig contragewicht</BasicRearCounterweight.label>
+	<BasicRearCounterweight.labelNoun>een eenvoudig contragewicht</BasicRearCounterweight.labelNoun>
+	<BasicRearCounterweight.description>Een geïnstalleerd eenvoudig contragewicht.</BasicRearCounterweight.description>
+	<CrudeJawAndroid.label>primitieve kaak</CrudeJawAndroid.label>
+	<CrudeJawAndroid.labelNoun>een primitieve kaak</CrudeJawAndroid.labelNoun>
+	<CrudeJawAndroid.description>Een geïnstalleerde primitieve kaak.</CrudeJawAndroid.description>
+	<ARArm.label>krachtige arm</ARArm.label>
+	<ARArm.labelNoun>een krachtige arm</ARArm.labelNoun>
+	<ARArm.description>Een geïnstalleerde krachtige arm.</ARArm.description>
+	<ARLeg.label>krachtig been</ARLeg.label>
+	<ARLeg.labelNoun>een krachtig been</ARLeg.labelNoun>
+	<ARLeg.description>Een geïnstalleerd krachtig been.</ARLeg.description>
+	<ALReceptor.label>geavanceerde lichtsensor</ALReceptor.label>
+	<ALReceptor.labelNoun>een geavanceerde lichtsensor</ALReceptor.labelNoun>
+	<ALReceptor.description>Een geïnstalleerde geavanceerde lichtsensor.</ALReceptor.description>
+	<AHeatsink.label>geavanceerde koelplaat</AHeatsink.label>
+	<AHeatsink.labelNoun>een geavanceerde koelplaat</AHeatsink.labelNoun>
+	<AHeatsink.description>Een geïnstalleerde geavanceerde koelplaat.</AHeatsink.description>
+	<ACoolantPump.label>geavanceerde koelvloeistofpomp</ACoolantPump.label>
+	<ACoolantPump.labelNoun>een geavanceerde koelvloeistofpomp</ACoolantPump.labelNoun>
+	<ACoolantPump.description>Een geïnstalleerde geavanceerde koelvloeistofpomp.</ACoolantPump.description>
+	<ABattery.label>geavanceerd batterijpakket</ABattery.label>
+	<ABattery.labelNoun>een geavanceerd batterijpakket</ABattery.labelNoun>
+	<ABattery.description>Een geïnstalleerd geavanceerd batterijpakket.</ABattery.description>
+	<AMStorage.label>geavanceerde mechanietopslag</AMStorage.label>
+	<AMStorage.labelNoun>geavanceerde mechanietopslag</AMStorage.labelNoun>
+	<AMStorage.description>Geïnstalleerde geavanceerde mechanietopslag.</AMStorage.description>
+	<ATransformer.label>geavanceerde bioreactor</ATransformer.label>
+	<ATransformer.labelNoun>een geavanceerde bioreactor</ATransformer.labelNoun>
+	<ATransformer.description>Een geïnstalleerde geavanceerde bioreactor.</ATransformer.description>
+	<AVAdapter.label>geavanceerde stroomomvormer</AVAdapter.label>
+	<AVAdapter.labelNoun>een geavanceerde stroomomvormer</AVAdapter.labelNoun>
+	<AVAdapter.description>Een geïnstalleerde geavanceerde stroomomvormer.</AVAdapter.description>
+	<AdvRearCounterweight.label>gyroscopisch contragewicht</AdvRearCounterweight.label>
+	<AdvRearCounterweight.labelNoun>een gyroscopisch contragewicht</AdvRearCounterweight.labelNoun>
+	<AdvRearCounterweight.description>Een geïnstalleerd gyroscopisch contragewicht.</AdvRearCounterweight.description>
+	<AdvJawAndroid.label>cybernetische kaak</AdvJawAndroid.label>
+	<AdvJawAndroid.labelNoun>een cybernetische kaak</AdvJawAndroid.labelNoun>
+	<AdvJawAndroid.description>Een geïnstalleerde cybernetische kaak.</AdvJawAndroid.description>
+	<PositronMind.label>Positronische herbedrading</PositronMind.label>
+	<PositronMind.labelNoun>een positronische herbedrading</PositronMind.labelNoun>
+	<PositronMind.description>Geïnstalleerde positronische herbedrading.</PositronMind.description>
+	<SoldierMind.label>Soldaat-upgrade</SoldierMind.label>
+	<SoldierMind.labelNoun>een soldaat-upgrade</SoldierMind.labelNoun>
+	<SoldierMind.description>Een geïnstalleerde soldaat-upgrade.</SoldierMind.description>
+	<BuilderMind.label>Blauwdrukbanken</BuilderMind.label>
+	<BuilderMind.labelNoun>een blauwdrukbank</BuilderMind.labelNoun>
+	<BuilderMind.description>Een geïnstalleerde blauwdrukbank.</BuilderMind.description>
+	<SurgeonMind.label>Geïmplanteerde tricorder</SurgeonMind.label>
+	<SurgeonMind.labelNoun>een geïmplanteerde tricorder</SurgeonMind.labelNoun>
+	<SurgeonMind.description>Een geïmplanteerde tricorder.</SurgeonMind.description>
+	<SpeedMind.label>Neurale snelwegen</SpeedMind.label>
+	<SpeedMind.labelNoun>neurale snelwegen</SpeedMind.labelNoun>
+	<SpeedMind.description>Geïnstalleerde neurale snelwegen.</SpeedMind.description>
+	<GeoMind.label>Geologische banken</GeoMind.label>
+	<GeoMind.labelNoun>een geologische bank</GeoMind.labelNoun>
+	<GeoMind.description>Een geïnstalleerde geologische bank.</GeoMind.description>
+	<MechanicMind.label>Techniek-implantaat</MechanicMind.label>
+	<MechanicMind.labelNoun>een techniek-implantaat</MechanicMind.labelNoun>
+	<MechanicMind.description>Een geïnstalleerd techniek-implantaat.</MechanicMind.description>
+	<CookingMind.label>Keuken-implantaat</CookingMind.label>
+	<CookingMind.labelNoun>een keuken-implantaat</CookingMind.labelNoun>
+	<CookingMind.description>Een geïnstalleerd keuken-implantaat.</CookingMind.description>
+	<CharismaMind.label>Charisma-implantaat</CharismaMind.label>
+	<CharismaMind.labelNoun>een charisma-implantaat</CharismaMind.labelNoun>
+	<CharismaMind.description>Een geïnstalleerd charisma-implantaat.</CharismaMind.description>
+	<NegotiatorMind.label>Onderhandelaar-implantaat</NegotiatorMind.label>
+	<NegotiatorMind.labelNoun>een onderhandelaar-implantaat</NegotiatorMind.labelNoun>
+	<NegotiatorMind.description>Een geïnstalleerd onderhandelaar-implantaat.</NegotiatorMind.description>
+	<ZoologyMind.label>Zoölogie-implantaat</ZoologyMind.label>
+	<ZoologyMind.labelNoun>een zoölogie-implantaat</ZoologyMind.labelNoun>
+	<ZoologyMind.description>Een geïnstalleerd zoölogie-implantaat.</ZoologyMind.description>
+	<AgriculturalMind.label>Landbouw-implantaat</AgriculturalMind.label>
+	<AgriculturalMind.labelNoun>een landbouw-implantaat</AgriculturalMind.labelNoun>
+	<AgriculturalMind.description>Een geïnstalleerd landbouw-implantaat.</AgriculturalMind.description>
+	<UnskilledMind.label>Basis-arbeidschip</UnskilledMind.label>
+	<UnskilledMind.labelNoun>een basis-arbeidschip</UnskilledMind.labelNoun>
+	<UnskilledMind.description>Een geïnstalleerde basis-arbeidschip.</UnskilledMind.description>
+	<AR2Arm.label>Cybernetische arm</AR2Arm.label>
+	<AR2Arm.labelNoun>een cybernetische arm</AR2Arm.labelNoun>
+	<AR2Arm.description>Een geïnstalleerde cybernetische arm.</AR2Arm.description>
+	<AR2Leg.label>Cybernetisch been</AR2Leg.label>
+	<AR2Leg.labelNoun>een cybernetisch been</AR2Leg.labelNoun>
+	<AR2Leg.description>Een geïnstalleerd cybernetisch been.</AR2Leg.description>
+	<AL2Receptor.label>archotech-lichtsensor</AL2Receptor.label>
+	<AL2Receptor.labelNoun>een archotech-lichtsensor</AL2Receptor.labelNoun>
+	<AL2Receptor.description>Een geïnstalleerde archotech-lichtsensor.</AL2Receptor.description>
+	<A2Heatsink.label>archotech-koelplaat</A2Heatsink.label>
+	<A2Heatsink.labelNoun>een archotech-koelplaat</A2Heatsink.labelNoun>
+	<A2Heatsink.description>Een geïnstalleerde archotech-koelplaat.</A2Heatsink.description>
+	<A2CoolantPump.label>archotech-koelvloeistofpomp</A2CoolantPump.label>
+	<A2CoolantPump.labelNoun>een archotech-koelvloeistofpomp</A2CoolantPump.labelNoun>
+	<A2CoolantPump.description>Een geïnstalleerde archotech-koelvloeistofpomp.</A2CoolantPump.description>
+	<A2Battery.label>archotech-batterijpakket</A2Battery.label>
+	<A2Battery.labelNoun>een archotech-batterijpakket</A2Battery.labelNoun>
+	<A2Battery.description>Een geïnstalleerd archotech-batterijpakket.</A2Battery.description>
+	<A2MStorage.label>archotech-mechanietopslag</A2MStorage.label>
+	<A2MStorage.labelNoun>archotech-mechanietopslag</A2MStorage.labelNoun>
+	<A2MStorage.description>Geïnstalleerde archotech-mechanietopslag.</A2MStorage.description>
+	<A2Transformer.label>archotech-bioreactor</A2Transformer.label>
+	<A2Transformer.labelNoun>een archotech-bioreactor</A2Transformer.labelNoun>
+	<A2Transformer.description>Een geïnstalleerde archotech-bioreactor.</A2Transformer.description>
+	<A2VAdapter.label>archotech-stroomomvormer</A2VAdapter.label>
+	<A2VAdapter.labelNoun>een archotech-stroomomvormer</A2VAdapter.labelNoun>
+	<A2VAdapter.description>Een geïnstalleerde archotech-stroomomvormer.</A2VAdapter.description>
+	<HearingSensorCrude.label>primitieve gehoorsensor</HearingSensorCrude.label>
+	<HearingSensorCrude.labelNoun>een primitieve gehoorsensor</HearingSensorCrude.labelNoun>
+	<HearingSensorCrude.description>Een geïnstalleerde primitieve gehoorsensor.</HearingSensorCrude.description>
+	<HearingSensorAdv.label>geavanceerde gehoorsensor</HearingSensorAdv.label>
+	<HearingSensorAdv.labelNoun>een geavanceerde gehoorsensor</HearingSensorAdv.labelNoun>
+	<HearingSensorAdv.description>Een geïnstalleerde geavanceerde gehoorsensor.</HearingSensorAdv.description>
+	<HearingSensorArch.label>archotech-gehoorsensor</HearingSensorArch.label>
+	<HearingSensorArch.labelNoun>een archotech-gehoorsensor</HearingSensorArch.labelNoun>
+	<HearingSensorArch.description>Een geïnstalleerde archotech-gehoorsensor.</HearingSensorArch.description>
+	<SmellSensorAdv.label>geavanceerde reuksensor</SmellSensorAdv.label>
+	<SmellSensorAdv.labelNoun>een geavanceerde reuksensor</SmellSensorAdv.labelNoun>
+	<SmellSensorAdv.description>Een geïnstalleerde geavanceerde reuksensor.</SmellSensorAdv.description>
+	<SmellingSensorCrude.label>primitieve reuksensor</SmellingSensorCrude.label>
+	<SmellingSensorCrude.labelNoun>een primitieve reuksensor</SmellingSensorCrude.labelNoun>
+	<SmellingSensorCrude.description>Een geïnstalleerde primitieve reuksensor.</SmellingSensorCrude.description>
+	<SmellingSensorArch.label>archotech-reuksensor</SmellingSensorArch.label>
+	<SmellingSensorArch.labelNoun>een archotech-reuksensor</SmellingSensorArch.labelNoun>
+	<SmellingSensorArch.description>Een geïnstalleerde archotech-reuksensor.</SmellingSensorArch.description>
+	<EvolvingMind.label>Evoluerende AI</EvolvingMind.label>
+	<EvolvingMind.labelNoun>een evoluerende AI</EvolvingMind.labelNoun>
+	<EvolvingMind.description>Een geïnstalleerde evoluerende AI.</EvolvingMind.description>
+	<AndroidTiers_EmotionlessCard.label>Uitgeschakelde sociale interacties</AndroidTiers_EmotionlessCard.label>
+	<AndroidTiers_EmotionlessCard.labelNoun>uitgeschakelde sociale interacties</AndroidTiers_EmotionlessCard.labelNoun>
+	<Backstory_PitFighterUpgrade.label>vechthandschoenen</Backstory_PitFighterUpgrade.label>
+	<Backstory_PitFighterUpgrade.labelNoun>een vechthandschoen</Backstory_PitFighterUpgrade.labelNoun>
+	<Backstory_PitFighterUpgrade.description>Een geïnstalleerde handschoen.</Backstory_PitFighterUpgrade.description>
+	<Backstory_TranscendantAssimilatorUpgrade.label>Plasmahandschoen</Backstory_TranscendantAssimilatorUpgrade.label>
+	<Backstory_TranscendantAssimilatorUpgrade.labelNoun>een plasmahandschoen</Backstory_TranscendantAssimilatorUpgrade.labelNoun>
+	<Backstory_TranscendantAssimilatorUpgrade.description>Een geïnstalleerde handschoen.</Backstory_TranscendantAssimilatorUpgrade.description>
+	<Backstory_HighCouncilUpgrade.label>Kwantumverwerking</Backstory_HighCouncilUpgrade.label>
+	<Backstory_HighCouncilUpgrade.labelNoun>een kwantumgeest</Backstory_HighCouncilUpgrade.labelNoun>
+	<Backstory_HighCouncilUpgrade.description>Een geïnstalleerde kwantumgeest.</Backstory_HighCouncilUpgrade.description>
+	<SGelhuman.label>Structuurgel</SGelhuman.label>
+	<SGelhuman.description>Mengsel van aminozuren en mechanieten in de bloedbaan, zeer giftig en kan aanvallen veroorzaken.</SGelhuman.description>
+	<SGelandroid.label>Structuurgel</SGelandroid.label>
+	<SGelandroid.description>Mengsel van aminozuren en mechanieten in koelleidingen, helpt interne onderdelen te onderhouden voor betere prestaties.</SGelandroid.description>
+	<Toxicated.label>Vergiftigd</Toxicated.label>
+	<Toxicated.description>Giftige stoffen in de bloedbaan, veroorzaakt ademhalingsproblemen en braken.</Toxicated.description>
+	<AFreezeandroid.label>Polymeer-antivries</AFreezeandroid.label>
+	<AFreezeandroid.description>Antivries op basis van polymeren in koelleidingen. Helpt bij temperatuurregeling in zowel warme als koude omgevingen.</AFreezeandroid.description>
+	<MechSwarmandroid.label>Mech-zwerm</MechSwarmandroid.label>
+	<MechSwarmandroid.description>Nano-mechanieten stromend door koelleidingen. Helpt interne systemen op topprestaties te houden.</MechSwarmandroid.description>
+	<Conversion.label>???</Conversion.label>
+	<Conversion.description>Fractaalverbindingen in de bloedbaan. Veroorzaakt aanvallen, hevig braken en het gewelddadig scheuren van de huid door ernstige weefselontsteking.</Conversion.description>
+	<FractalPillAndroid.label>Fractaalverbetering</FractalPillAndroid.label>
+	<FractalPillAndroid.description>Fractaalverbindingen in koelleidingen. Verbetert de efficiëntie en kracht van alle handelingen aanzienlijk.</FractalPillAndroid.description>
+	<RegenHumanoid.label>Mono-zalf</RegenHumanoid.label>
+	<RegenHumanoid.description>Actieve regeneratieve oplosmiddelen in de bloedbaan. Stimuleert basale celregeneratie.</RegenHumanoid.description>
+	<RegenAndroid.label>Mono-zalf</RegenAndroid.label>
+	<RegenAndroid.description>Actieve regeneratieve oplosmiddelen in koelleidingen. Helpt bij het automatisch repareren van mechanismen.</RegenAndroid.description>
+	<ATPP_DummyHediff.label>DummyHediff</ATPP_DummyHediff.label>
+	<ATPP_DummyHediff.labelNoun>DummyHediff</ATPP_DummyHediff.labelNoun>
+</LanguageData>

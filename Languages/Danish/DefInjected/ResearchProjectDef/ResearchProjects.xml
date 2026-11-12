@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_ResearchSM7.label>SM7-kampmekanoide</ATPP_ResearchSM7.label>
+  <ATPP_ResearchSM7.description>Forsk i, hvordan man bygger SM7-kampmekanoider.</ATPP_ResearchSM7.description>
+  <ATPP_ResearchServerI100Serie.label>I100-seriens servere</ATPP_ResearchServerI100Serie.label>
+  <ATPP_ResearchServerI100Serie.description>Forsk i, hvordan man bygger I100-seriens sikkerheds-, hacking- og færdighedsservere – billige, men støjende, store og ikke særlig effektive.</ATPP_ResearchServerI100Serie.description>
+  <ATPP_ResearchServerI300Serie.label>I300-seriens servere</ATPP_ResearchServerI300Serie.label>
+  <ATPP_ResearchServerI300Serie.description>Forsk i, hvordan man bygger I300-seriens sikkerheds-, hacking- og færdighedsservere – støjende, men med middel effektivitet.</ATPP_ResearchServerI300Serie.description>
+  <ATPP_ResearchServerI500Serie.label>I500-seriens servere</ATPP_ResearchServerI500Serie.label>
+  <ATPP_ResearchServerI500Serie.description>Forsk i, hvordan man bygger I500-seriens sikkerheds-, hacking- og færdighedsservere – dyre, men meget effektive.</ATPP_ResearchServerI500Serie.description>
+  <ATPP_ResearchSkyCloudCore.label>SkyCloud-kerne</ATPP_ResearchSkyCloudCore.label>
+  <ATPP_ResearchSkyCloudCore.description>Forsk i, hvordan man bygger SkyCloud-kerneservere – kraftige supercomputere, der kan huse flere digitaliserede bevidstheder og lade dem interagere med den virkelige verden via enhver enhed forbundet til SkyMind-netværket.</ATPP_ResearchSkyCloudCore.description>
+  <ATPP_ResearchBatteryOverload.label>Batterioverbelastning</ATPP_ResearchBatteryOverload.label>
+  <ATPP_ResearchBatteryOverload.description>Forsk i, hvordan man forvandler androider til vandrende bomber ved at få deres interne batteri til at eksplodere.</ATPP_ResearchBatteryOverload.description>
+  <ATPP_ResearchVX0Chip.label>VX0-neuralchip</ATPP_ResearchVX0Chip.label>
+  <ATPP_ResearchVX0Chip.description>Forsk i, hvordan man fremstiller VX0-chips – en neuralchip, der forvandler sin vært til et biologisk surrogat.</ATPP_ResearchVX0Chip.description>
+  <ATPP_ResearchCharchingStation.label>Ladestation</ATPP_ResearchCharchingStation.label>
+  <ATPP_ResearchCharchingStation.description>Giver dig mulighed for at oplade op til 8 androider samtidigt direkte til deres interne batteri i stedet for gennem deres biomassegenerator.</ATPP_ResearchCharchingStation.description>
+  <ATPP_ResearchCraftBasicNanoKit.label>Grundlæggende nanokit</ATPP_ResearchCraftBasicNanoKit.label>
+  <ATPP_ResearchCraftBasicNanoKit.description>Giver dig mulighed for at fremstille grundlæggende nanokits, som kræves for at reparere sårede androider.</ATPP_ResearchCraftBasicNanoKit.description>
+  <ATPP_ResearchCraftIntermediateNanoKit.label>Mellemliggende nanokit</ATPP_ResearchCraftIntermediateNanoKit.label>
+  <ATPP_ResearchCraftIntermediateNanoKit.description>Giver dig mulighed for at fremstille mellemliggende nanokits, som kræves for at reparere sårede androider.</ATPP_ResearchCraftIntermediateNanoKit.description>
+  <ATPP_ResearchCraftAdvancedNanoKit.label>Avanceret nanokit</ATPP_ResearchCraftAdvancedNanoKit.label>
+  <ATPP_ResearchCraftAdvancedNanoKit.description>Giver dig mulighed for at fremstille avancerede nanokits, som kræves for at reparere sårede androider.</ATPP_ResearchCraftAdvancedNanoKit.description>
+  <ATPP_ResearchVX1Chip.label>VX1-neuralchip</ATPP_ResearchVX1Chip.label>
+  <ATPP_ResearchVX1Chip.description>Forsk i, hvordan man fremstiller VX1-chippen – en neuralchip, der gør det muligt for værten at fjernstyre enhver android i SX-serien eller ethvert biologisk surrogat.</ATPP_ResearchVX1Chip.description>
+  <ATPP_ResearchVX2Chip.label>VX2-neuralchip</ATPP_ResearchVX2Chip.label>
+  <ATPP_ResearchVX2Chip.description>Forsk i, hvordan man fremstiller VX2-chippen – en neuralchip, der gør det muligt for værten at fjernstyre enhver android i SX-serien eller ethvert biologisk surrogat samt duplikere eller ombytte deres bevidsthed.</ATPP_ResearchVX2Chip.description>
+  <ATPP_ResearchVX3Chip.label>VX3-neuralchip</ATPP_ResearchVX3Chip.label>
+  <ATPP_ResearchVX3Chip.description>Forsk i, hvordan man fremstiller VX3-chippen – en neuralchip, der gør det muligt for værten at fjernstyre flere androider i SX-serien eller biologiske surrogater samtidigt samt duplikere eller ombytte deres bevidsthed.</ATPP_ResearchVX3Chip.description>
+  <ATPP_ResearchSkyMindWAN.label>SkyMind V2-antenne</ATPP_ResearchSkyMindWAN.label>
+  <ATPP_ResearchSkyMindWAN.description>Forsk i, hvordan man bygger SkyMind V2-antennen, som danner grundlag for at overføre en kolonists bevidsthed til en anden og gør det muligt for op til 15 kolonister at være forbundet samtidigt pr. V2-antenne.</ATPP_ResearchSkyMindWAN.description>
+  <ATPP_ResearchSkyMindLAN.label>SkyMind V1-antenne</ATPP_ResearchSkyMindLAN.label>
+  <ATPP_ResearchSkyMindLAN.description>Forsk i, hvordan man bygger SkyMind V1-antennen, som danner grundlag for at overføre en kolonists bevidsthed til en anden og gør det muligt for op til 3 kolonister at være forbundet samtidigt pr. V1-antenne.</ATPP_ResearchSkyMindLAN.description>
+  <ATPP_ResearchSurrogateHost.label>SX-androider</ATPP_ResearchSurrogateHost.label>
+  <ATPP_ResearchSurrogateHost.description>Forsk i, hvordan man bygger androider i SX-serien, som ligner TX-serien, men hvor deres kunstige hjerner er erstattet af et avanceret fjernstyringssystem.</ATPP_ResearchSurrogateHost.description>
+  <ATPP_ResearchCraftRepairNaniteBanks.label>Helbred aldersbetingede funktionsfejl</ATPP_ResearchCraftRepairNaniteBanks.label>
+  <ATPP_ResearchCraftRepairNaniteBanks.description>Giver dig mulighed for at fremstille nanitter, som helbreder aldersbetingede funktionsfejl hos androider.</ATPP_ResearchCraftRepairNaniteBanks.description>
+
+</LanguageData>

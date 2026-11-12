@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATPP_ResearchSM7.label>SM7戦闘メカノイド</ATPP_ResearchSM7.label>
+  <ATPP_ResearchSM7.description>SM7戦闘メカノイドの製造方法を研究します。</ATPP_ResearchSM7.description>
+  <ATPP_ResearchServerI100Serie.label>I100シリーズサーバー</ATPP_ResearchServerI100Serie.label>
+  <ATPP_ResearchServerI100Serie.description>I100シリーズのセキュリティ、ハッキング、スキルサーバーの構築方法を研究します。安価ですが騒音が大きく、大型で効率はあまり高くありません。</ATPP_ResearchServerI100Serie.description>
+  <ATPP_ResearchServerI300Serie.label>I300シリーズサーバー</ATPP_ResearchServerI300Serie.label>
+  <ATPP_ResearchServerI300Serie.description>I300シリーズのセキュリティ、ハッキング、スキルサーバーの構築方法を研究します。騒音はありますが効率は中程度です。</ATPP_ResearchServerI300Serie.description>
+  <ATPP_ResearchServerI500Serie.label>I500シリーズサーバー</ATPP_ResearchServerI500Serie.label>
+  <ATPP_ResearchServerI500Serie.description>I500シリーズのセキュリティ、ハッキング、スキルサーバーの構築方法を研究します。高価ですが非常に高効率です。</ATPP_ResearchServerI500Serie.description>
+  <ATPP_ResearchSkyCloudCore.label>スカイクラウドコア</ATPP_ResearchSkyCloudCore.label>
+  <ATPP_ResearchSkyCloudCore.description>スカイクラウドコアサーバーの構築方法を研究します。これは複数のデジタル化された意識をホストし、スカイマインドネットワークに接続されたあらゆるデバイスを通じて現実世界と対話できる強力なスーパーコンピューターです。</ATPP_ResearchSkyCloudCore.description>
+  <ATPP_ResearchBatteryOverload.label>バッテリー過負荷</ATPP_ResearchBatteryOverload.label>
+  <ATPP_ResearchBatteryOverload.description>アンドロイドの内蔵バッテリーを爆発させ、歩く爆弾へと変える方法を研究します。</ATPP_ResearchBatteryOverload.description>
+  <ATPP_ResearchVX0Chip.label>VX0ニューラルチップ</ATPP_ResearchVX0Chip.label>
+  <ATPP_ResearchVX0Chip.description>宿主を生体代理体へと変換するVX0ニューラルチップの製造方法を研究します。</ATPP_ResearchVX0Chip.description>
+  <ATPP_ResearchCharchingStation.label>充電ステーション</ATPP_ResearchCharchingStation.label>
+  <ATPP_ResearchCharchingStation.description>バイオマス発電機を介さず、最大8体のアンドロイドの内蔵バッテリーを同時に直接充電できるようにします。</ATPP_ResearchCharchingStation.description>
+  <ATPP_ResearchCraftBasicNanoKit.label>基本ナノキット</ATPP_ResearchCraftBasicNanoKit.label>
+  <ATPP_ResearchCraftBasicNanoKit.description>負傷したアンドロイドの修復に必要な基本ナノキットを作成できるようになります。</ATPP_ResearchCraftBasicNanoKit.description>
+  <ATPP_ResearchCraftIntermediateNanoKit.label>中級ナノキット</ATPP_ResearchCraftIntermediateNanoKit.label>
+  <ATPP_ResearchCraftIntermediateNanoKit.description>負傷したアンドロイドの修復に必要な中級ナノキットを作成できるようになります。</ATPP_ResearchCraftIntermediateNanoKit.description>
+  <ATPP_ResearchCraftAdvancedNanoKit.label>先進ナノキット</ATPP_ResearchCraftAdvancedNanoKit.label>
+  <ATPP_ResearchCraftAdvancedNanoKit.description>負傷したアンドロイドの修復に必要な先進ナノキットを作成できるようになります。</ATPP_ResearchCraftAdvancedNanoKit.description>
+  <ATPP_ResearchVX1Chip.label>VX1ニューラルチップ</ATPP_ResearchVX1Chip.label>
+  <ATPP_ResearchVX1Chip.description>宿主がSXシリーズアンドロイドまたは生体代理体を遠隔操作できるVX1ニューラルチップの製造方法を研究します。</ATPP_ResearchVX1Chip.description>
+  <ATPP_ResearchVX2Chip.label>VX2ニューラルチップ</ATPP_ResearchVX2Chip.label>
+  <ATPP_ResearchVX2Chip.description>宿主がSXシリーズアンドロイドまたは生体代理体を遠隔操作し、意識の複製・交換を行えるVX2ニューラルチップの製造方法を研究します。</ATPP_ResearchVX2Chip.description>
+  <ATPP_ResearchVX3Chip.label>VX3ニューラルチップ</ATPP_ResearchVX3Chip.label>
+  <ATPP_ResearchVX3Chip.description>宿主が複数のSXシリーズアンドロイドまたは生体代理体を同時に遠隔操作し、意識の複製・交換を行えるVX3ニューラルチップの製造方法を研究します。</ATPP_ResearchVX3Chip.description>
+  <ATPP_ResearchSkyMindWAN.label>スカイマインド V2アンテナ</ATPP_ResearchSkyMindWAN.label>
+  <ATPP_ResearchSkyMindWAN.description>スカイマインドV2アンテナの構築方法を研究します。入植者の意識転送の基盤となり、V2アンテナ1基あたり最大15名の入植者を同時接続できます。</ATPP_ResearchSkyMindWAN.description>
+  <ATPP_ResearchSkyMindLAN.label>スカイマインド V1アンテナ</ATPP_ResearchSkyMindLAN.label>
+  <ATPP_ResearchSkyMindLAN.description>スカイマインドV1アンテナの構築方法を研究します。入植者の意識転送の基盤となり、V1アンテナ1基あたり最大3名の入植者を同時接続できます。</ATPP_ResearchSkyMindLAN.description>
+  <ATPP_ResearchSurrogateHost.label>SXアンドロイド</ATPP_ResearchSurrogateHost.label>
+  <ATPP_ResearchSurrogateHost.description>SXシリーズアンドロイドの製造方法を研究します。TXシリーズに似ていますが、人工頭脳の代わりに高度な遠隔操作システムが搭載されています。</ATPP_ResearchSurrogateHost.description>
+  <ATPP_ResearchCraftRepairNaniteBanks.label>経年劣化の修復</ATPP_ResearchCraftRepairNaniteBanks.label>
+  <ATPP_ResearchCraftRepairNaniteBanks.description>アンドロイドの経年劣化による不具合を治癒するナノマシンを作成できるようになります。</ATPP_ResearchCraftRepairNaniteBanks.description>
+</LanguageData>

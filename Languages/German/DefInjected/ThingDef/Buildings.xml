@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_ReloadStation.label>Androiden-Ladestation</ATPP_ReloadStation.label>
+	<ATPP_ReloadStation.description>Eine Ladestation für Androiden, die bis zu 8 Androiden gleichzeitig aufnehmen kann.</ATPP_ReloadStation.description>
+	<ATPP_SkyMindLAN.label>SkyMind V1-Antenne</ATPP_SkyMindLAN.label>
+	<ATPP_SkyMindLAN.description>Die SkyMind V1-Antenne unterstützt bis zu 3 gleichzeitige Clients und erzeugt ein drahtloses Netzwerk, das das Hochladen des Bewusstseins eines Kolonisten auf einen anderen sowie die Fernsteuerung beliebiger SX-Androiden oder biologischer Surrogate ermöglicht.</ATPP_SkyMindLAN.description>
+	<ATPP_SkyMindWAN.label>SkyMind V2-Antenne</ATPP_SkyMindWAN.label>
+	<ATPP_SkyMindWAN.description>Die SkyMind V2-Antenne unterstützt bis zu 15 gleichzeitige Clients und erzeugt ein drahtloses Netzwerk, das das Hochladen des Bewusstseins eines Kolonisten auf einen anderen sowie die Fernsteuerung beliebiger SX-Androiden oder biologischer Surrogate ermöglicht.</ATPP_SkyMindWAN.description>
+	<ATPP_SkyMindRelayTower.label>SkyMind-Relaisturm</ATPP_SkyMindRelayTower.label>
+	<ATPP_SkyMindRelayTower.description>Der SkyMind-Relaisturm verstärkt das Signal von Antennen und verhindert Signalverluste bei der Surrogat-Steuerung über große Entfernungen.</ATPP_SkyMindRelayTower.description>
+	<ATPP_I100Security.label>I-100 (Sicherheit)</ATPP_I100Security.label>
+	<ATPP_I100Security.description>Firewall-Server, der dein SkyMind-Netzwerk vor Cyberangriffen und Viren schützt.</ATPP_I100Security.description>
+	<ATPP_I100Hacking.label>I-100 (Hacking)</ATPP_I100Hacking.label>
+	<ATPP_I100Hacking.description>Hacking-Server, mit dem du Clients hacken kannst, die mit einem SkyMind-Netzwerk verbunden sind.</ATPP_I100Hacking.description>
+	<ATPP_I100Skill.label>I-100 (Fertigkeiten)</ATPP_I100Skill.label>
+	<ATPP_I100Skill.description>Fertigkeitsserver, mit dem du die Fertigkeitspunkte von Androiden im SkyMind-Netzwerk erhöhen kannst.</ATPP_I100Skill.description>
+	<ATPP_I300Security.label>I-300 (Sicherheit)</ATPP_I300Security.label>
+	<ATPP_I300Security.description>Firewall-Server, der dein SkyMind-Netzwerk vor Cyberangriffen und Viren schützt.</ATPP_I300Security.description>
+	<ATPP_I300Hacking.label>I-300 (Hacking)</ATPP_I300Hacking.label>
+	<ATPP_I300Hacking.description>Hacking-Server, mit dem du Clients hacken kannst, die mit einem SkyMind-Netzwerk verbunden sind.</ATPP_I300Hacking.description>
+	<ATPP_I300Skill.label>I-300 (Fertigkeiten)</ATPP_I300Skill.label>
+	<ATPP_I300Skill.description>Fertigkeitsserver, mit dem du die Fertigkeitspunkte von Androiden im SkyMind-Netzwerk erhöhen kannst.</ATPP_I300Skill.description>
+	<ATPP_I500Security.label>I-500 (Sicherheit)</ATPP_I500Security.label>
+	<ATPP_I500Security.description>Firewall-Server, der dein SkyMind-Netzwerk vor Cyberangriffen und Viren schützt.</ATPP_I500Security.description>
+	<ATPP_I500Hacking.label>I-500 (Hacking)</ATPP_I500Hacking.label>
+	<ATPP_I500Hacking.description>Hacking-Server, mit dem du Clients hacken kannst, die mit einem SkyMind-Netzwerk verbunden sind.</ATPP_I500Hacking.description>
+	<ATPP_I500Skill.label>I-500 (Fertigkeiten)</ATPP_I500Skill.label>
+	<ATPP_I500Skill.description>Fertigkeitsserver, mit dem du die Fertigkeitspunkte von Androiden im SkyMind-Netzwerk erhöhen kannst.</ATPP_I500Skill.description>
+	<ATPP_AndroidPod.label>Androiden-Kapsel</ATPP_AndroidPod.label>
+	<ATPP_AndroidPod.description>Eine Androiden-Kapsel, in der Androiden repariert, während des Wartens auf einen Wirt (bei Surrogaten) aufbewahrt und bei Stromanschluss aufgeladen werden können.</ATPP_AndroidPod.description>
+	<ATPP_AndroidPodMech.label>M7-Kapsel</ATPP_AndroidPodMech.label>
+	<ATPP_AndroidPodMech.description>Eine riesige Kapsel, in der M7-Mechanoiden repariert, während des Wartens auf einen Wirt (bei Surrogaten) aufbewahrt und bei Stromanschluss aufgeladen werden können.</ATPP_AndroidPodMech.description>
+	<ATPP_SkyCloudCore.label>SkyCloud-Kern</ATPP_SkyCloudCore.label>
+	<ATPP_SkyCloudCore.description>Ein Supercomputer, der die Steuerung aller mit dem SkyMind-Netzwerk verbundenen Geräte sowie das Hochladen digitalisierter Gehirne deiner Kolonisten in seinen Speicher ermöglicht, wodurch sie nahezu unsterblich und allwissend werden.</ATPP_SkyCloudCore.description>
+</LanguageData>

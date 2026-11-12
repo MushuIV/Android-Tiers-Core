@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_ConsciousnessUpload.label>Medvetandeuppladdning</ATPP_ConsciousnessUpload.label>
+	<ATPP_ConsciousnessUpload.labelNoun>medvetandeuppladdning</ATPP_ConsciousnessUpload.labelNoun>
+	<ATPP_NoHost.label>Ingen värd ansluten</ATPP_NoHost.label>
+	<ATPP_NoHost.labelNoun>ingen värd ansluten</ATPP_NoHost.labelNoun>
+	<ATPP_HediffRXChip.label>RX-neuralkrets</ATPP_HediffRXChip.label>
+	<ATPP_HediffRXChip.labelNoun>En neuralkrets som fungerar som ett personligt SkyMind-relä.</ATPP_HediffRXChip.labelNoun>
+	<ATPP_HediffVX0Chip.label>VX0-neuralkrets</ATPP_HediffVX0Chip.label>
+	<ATPP_HediffVX0Chip.labelNoun>En neuralkrets för att förvandla värden till ett biologiskt surrogat</ATPP_HediffVX0Chip.labelNoun>
+	<ATPP_HediffVX1Chip.label>VX1-neuralkrets</ATPP_HediffVX1Chip.label>
+	<ATPP_HediffVX1Chip.labelNoun>VX1-neuralkrets</ATPP_HediffVX1Chip.labelNoun>
+	<ATPP_HediffVX2Chip.label>VX2-neuralkrets</ATPP_HediffVX2Chip.label>
+	<ATPP_HediffVX2Chip.labelNoun>VX2-neuralkrets</ATPP_HediffVX2Chip.labelNoun>
+	<ATPP_HediffVX3Chip.label>VX3-neuralkrets</ATPP_HediffVX3Chip.label>
+	<ATPP_HediffVX3Chip.labelNoun>VX3-neuralkrets</ATPP_HediffVX3Chip.labelNoun>
+	<ATPP_InRemoteControlMode.label>Fjärrstyrningsläge aktiverat</ATPP_InRemoteControlMode.label>
+	<ATPP_InRemoteControlMode.labelNoun>fjärrstyrningsläge aktiverat</ATPP_InRemoteControlMode.labelNoun>
+	<ATPP_RemotelyControlled.label>Fjärrstyrd</ATPP_RemotelyControlled.label>
+	<ATPP_RemotelyControlled.labelNoun>fjärrstyrd</ATPP_RemotelyControlled.labelNoun>
+	<ATPP_SolarFlareAndroidImpact.label>Solstorm</ATPP_SolarFlareAndroidImpact.label>
+	<ATPP_SolarFlareAndroidImpact.labelNoun>solstorm</ATPP_SolarFlareAndroidImpact.labelNoun>
+	<ATPP_LowNetworkSignal.label>Svag SkyMind-nätverkssignal</ATPP_LowNetworkSignal.label>
+	<ATPP_LowNetworkSignal.labelNoun>svag SkyMind-nätverkssignal</ATPP_LowNetworkSignal.labelNoun>
+	<ATPP_Rusted.label>Rostad</ATPP_Rusted.label>
+	<ATPP_Rusted.labelNoun>rostad</ATPP_Rusted.labelNoun>
+	<ATPP_BlankAndroid.label>Tomt neuralt nätverk</ATPP_BlankAndroid.label>
+	<ATPP_BlankAndroid.labelNoun>tomt neuralt nätverk</ATPP_BlankAndroid.labelNoun>
+	<ATPP_SurrogateInit.label>Anslutningsinitiering</ATPP_SurrogateInit.label>
+	<ATPP_SurrogateInit.labelNoun>anslutningsinitiering</ATPP_SurrogateInit.labelNoun>
+	<ATPP_AssistingMinds.label>Assisterande medvetanden från SkyCloud-kärnor</ATPP_AssistingMinds.label>
+	<ATPP_AssistingMinds.labelNoun>assisterande medvetanden från SkyCloud-kärnor</ATPP_AssistingMinds.labelNoun>
+	<DecayedFrame.label>sönderfallande chassi</DecayedFrame.label>
+	<DecayedFrame.labelNoun>ett sönderfallande chassi</DecayedFrame.labelNoun>
+	<CorruptMemory.label>korrupt minne</CorruptMemory.label>
+	<WeakValves.label>svaga ventiler</WeakValves.label>
+	<ExaggeratedHealing.label>hyperaktiv reaktion</ExaggeratedHealing.label>
+	<FaultyPump.label>felaktig pump</FaultyPump.label>
+	<FaultyPump.labelNoun>en felaktig pump</FaultyPump.labelNoun>
+	<ShutdownAndroid.label>avstängd</ShutdownAndroid.label>
+	<ShutdownAndroid.description>AI-kärna permanent avstängd och helt raderad.</ShutdownAndroid.description>
+	<RebootingSequenceAT.label>Startar om</RebootingSequenceAT.label>
+	<RebootingSequenceAT.description>Omstartssekvens aktiv i AI-kärnan.</RebootingSequenceAT.description>
+	<NoFreeWillAT.label>känslolös</NoFreeWillAT.label>
+	<NoFreeWillAT.labelNoun>känslolöshet</NoFreeWillAT.labelNoun>
+	<NoFreeWillAT.description>Ändringar i moral- och känsloresponsssektorerna i AI-kärnan, vilket resulterar i ett helt neutralt humör och avsaknad av högre funktioner.</NoFreeWillAT.description>
+	<FreshReprogramming.label>nyligen omprogrammerad</FreshReprogramming.label>
+	<FreshReprogramming.description>Nyligen omprogrammerad AI-kärna. Kompilering och automatisk korrigering av all ny programvara kan orsaka nedsatt förmåga.</FreshReprogramming.description>
+	<OverclockedAndroid.label>överklockad</OverclockedAndroid.label>
+	<OverclockedAndroid.labelNoun>en överklockningsuppgradering</OverclockedAndroid.labelNoun>
+	<OverclockedAndroid.description>Processorsektorerna i androidens AI-kärna har snabbas upp, vilket ger snabbare beräkningar men också ökad belastning på hårdvaran.</OverclockedAndroid.description>
+	<BatteryChargeMech.label>Batteri</BatteryChargeMech.label>
+	<BatteryChargeMech.description>Återstående batteritid före avstängning</BatteryChargeMech.description>
+	<AndroidCoolantLoss.label>kylvätskeförlust</AndroidCoolantLoss.label>
+	<AndroidCoolantLoss.description>Förlust av kylvätska i interna ledningar, vilket leder till minskad kylkapacitet och överhettning av interna delar.</AndroidCoolantLoss.description>
+	<AndroidOverheating.label>överhettning</AndroidOverheating.label>
+	<AndroidFreezing.label>Nedkylning</AndroidFreezing.label>
+	<PlatingSteel.label>Stålram</PlatingSteel.label>
+	<PlatingSteel.labelNoun>en enkel stålram</PlatingSteel.labelNoun>
+	<PlatingSteel.description>En installerad stålram.</PlatingSteel.description>
+	<PlatingPlasteel.label>plasteel-rambeklädnad</PlatingPlasteel.label>
+	<PlatingPlasteel.labelNoun>stark plasteel-rambeklädnad</PlatingPlasteel.labelNoun>
+	<PlatingPlasteel.description>En installerad plasteel-rambeklädnad.</PlatingPlasteel.description>
+	<PlatingComposite.label>komposit-ramplåtar</PlatingComposite.label>
+	<PlatingComposite.labelNoun>kompositplåtar med hög draghållfasthet</PlatingComposite.labelNoun>
+	<PlatingComposite.description>Installerade komposit-ramplåtar.</PlatingComposite.description>
+	<MiningArm_AT.label>gruvarm</MiningArm_AT.label>
+	<MiningArm_AT.labelNoun>en gruvarm</MiningArm_AT.labelNoun>
+	<MiningArm_AT.description>En installerad gruvarm.</MiningArm_AT.description>
+	<HydraulicFrame.label>hydraulisk ram</HydraulicFrame.label>
+	<HydraulicFrame.labelNoun>en hydraulisk ram</HydraulicFrame.labelNoun>
+	<HydraulicFrame.description>En installerad hydraulisk ram.</HydraulicFrame.description>
+	<HydraulicLeg.label>hydrauliskt ben</HydraulicLeg.label>
+	<HydraulicLeg.labelNoun>ett hydrauliskt ben</HydraulicLeg.labelNoun>
+	<HydraulicLeg.description>Ett installerat hydrauliskt ben.</HydraulicLeg.description>
+	<HydraulicArm.label>hydraulisk arm</HydraulicArm.label>
+	<HydraulicArm.labelNoun>en hydraulisk arm</HydraulicArm.labelNoun>
+	<HydraulicArm.description>En installerad hydraulisk arm.</HydraulicArm.description>
+	<MakeshiftRLeg.label>provisoriskt ersättningsben</MakeshiftRLeg.label>
+	<MakeshiftRLeg.labelNoun>ett provisoriskt ersättningsben</MakeshiftRLeg.labelNoun>
+	<MakeshiftRLeg.description>Ett installerat provisoriskt ersättningsben.</MakeshiftRLeg.description>
+	<MakeshiftRArm.label>provisorisk ersättningsarm</MakeshiftRArm.label>
+	<MakeshiftRArm.labelNoun>en provisorisk ersättningsarm</MakeshiftRArm.labelNoun>
+	<MakeshiftRArm.description>En installerad provisorisk ersättningsarm.</MakeshiftRArm.description>
+	<BRArm.label>enkel ersättningsarm</BRArm.label>
+	<BRArm.labelNoun>en enkel ersättningsarm</BRArm.labelNoun>
+	<BRArm.description>En installerad enkel ersättningsarm.</BRArm.description>
+	<BRLeg.label>enkelt ersättningsben</BRLeg.label>
+	<BRLeg.labelNoun>ett enkelt ersättningsben</BRLeg.labelNoun>
+	<BRLeg.description>Ett installerat enkelt ersättningsben.</BRLeg.description>
+	<BLReceptor.label>primitiv ljussensor</BLReceptor.label>
+	<BLReceptor.labelNoun>en primitiv ljussensor</BLReceptor.labelNoun>
+	<BLReceptor.description>En installerad primitiv ljussensor.</BLReceptor.description>
+	<BHeatsink.label>primitiv kylfläns</BHeatsink.label>
+	<BHeatsink.labelNoun>en primitiv kylfläns</BHeatsink.labelNoun>
+	<BHeatsink.description>En installerad primitiv kylfläns.</BHeatsink.description>
+	<BCoolantPump.label>primitiv kylvätskepump</BCoolantPump.label>
+	<BCoolantPump.labelNoun>en primitiv kylvätskepump</BCoolantPump.labelNoun>
+	<BCoolantPump.description>En installerad primitiv kylvätskepump.</BCoolantPump.description>
+	<BBattery.label>primitivt batteripaket</BBattery.label>
+	<BBattery.labelNoun>ett primitivt batteripaket</BBattery.labelNoun>
+	<BBattery.description>Ett installerat primitivt batteripaket.</BBattery.description>
+	<BMStorage.label>primitiv mekanitlagring</BMStorage.label>
+	<BMStorage.labelNoun>primitiv mekanitlagring</BMStorage.labelNoun>
+	<BMStorage.description>En installerad primitiv mekanitlagring.</BMStorage.description>
+	<BTransformer.label>primitiv bioreaktor</BTransformer.label>
+	<BTransformer.labelNoun>en primitiv bioreaktor</BTransformer.labelNoun>
+	<BTransformer.description>En installerad primitiv bioreaktor.</BTransformer.description>
+	<BVAdapter.label>primitiv strömomvandlare</BVAdapter.label>
+	<BVAdapter.labelNoun>en primitiv strömomvandlare</BVAdapter.labelNoun>
+	<BVAdapter.description>En installerad primitiv strömomvandlare.</BVAdapter.description>
+	<BasicRearCounterweight.label>enkel motvikt</BasicRearCounterweight.label>
+	<BasicRearCounterweight.labelNoun>en enkel motvikt</BasicRearCounterweight.labelNoun>
+	<BasicRearCounterweight.description>En installerad enkel motvikt.</BasicRearCounterweight.description>
+	<CrudeJawAndroid.label>primitiv käke</CrudeJawAndroid.label>
+	<CrudeJawAndroid.labelNoun>en primitiv käke</CrudeJawAndroid.labelNoun>
+	<CrudeJawAndroid.description>En installerad primitiv käke.</CrudeJawAndroid.description>
+	<ARArm.label>högpresterande arm</ARArm.label>
+	<ARArm.labelNoun>en högpresterande arm</ARArm.labelNoun>
+	<ARArm.description>En installerad högpresterande arm.</ARArm.description>
+	<ARLeg.label>högpresterande ben</ARLeg.label>
+	<ARLeg.labelNoun>ett högpresterande ben</ARLeg.labelNoun>
+	<ARLeg.description>Ett installerat högpresterande ben.</ARLeg.description>
+	<ALReceptor.label>avancerad ljussensor</ALReceptor.label>
+	<ALReceptor.labelNoun>en avancerad ljussensor</ALReceptor.labelNoun>
+	<ALReceptor.description>En installerad avancerad ljussensor.</ALReceptor.description>
+	<AHeatsink.label>avancerad kylfläns</AHeatsink.label>
+	<AHeatsink.labelNoun>en avancerad kylfläns</AHeatsink.labelNoun>
+	<AHeatsink.description>En installerad avancerad kylfläns.</AHeatsink.description>
+	<ACoolantPump.label>avancerad kylvätskepump</ACoolantPump.label>
+	<ACoolantPump.labelNoun>en avancerad kylvätskepump</ACoolantPump.labelNoun>
+	<ACoolantPump.description>En installerad avancerad kylvätskepump.</ACoolantPump.description>
+	<ABattery.label>avancerat batteripaket</ABattery.label>
+	<ABattery.labelNoun>ett avancerat batteripaket</ABattery.labelNoun>
+	<ABattery.description>Ett installerat avancerat batteripaket.</ABattery.description>
+	<AMStorage.label>avancerad mekanitlagring</AMStorage.label>
+	<AMStorage.labelNoun>avancerad mekanitlagring</AMStorage.labelNoun>
+	<AMStorage.description>Installerad avancerad mekanitlagring.</AMStorage.description>
+	<ATransformer.label>avancerad bioreaktor</ATransformer.label>
+	<ATransformer.labelNoun>en avancerad bioreaktor</ATransformer.labelNoun>
+	<ATransformer.description>En installerad avancerad bioreaktor.</ATransformer.description>
+	<AVAdapter.label>avancerad strömomvandlare</AVAdapter.label>
+	<AVAdapter.labelNoun>en avancerad strömomvandlare</AVAdapter.labelNoun>
+	<AVAdapter.description>En installerad avancerad strömomvandlare.</AVAdapter.description>
+	<AdvRearCounterweight.label>gyroskopisk motvikt</AdvRearCounterweight.label>
+	<AdvRearCounterweight.labelNoun>en gyroskopisk motvikt</AdvRearCounterweight.labelNoun>
+	<AdvRearCounterweight.description>En installerad gyroskopisk motvikt.</AdvRearCounterweight.description>
+	<AdvJawAndroid.label>cybernetisk käke</AdvJawAndroid.label>
+	<AdvJawAndroid.labelNoun>en cybernetisk käke</AdvJawAndroid.labelNoun>
+	<AdvJawAndroid.description>En installerad cybernetisk käke.</AdvJawAndroid.description>
+	<PositronMind.label>Positronisk omkoppling</PositronMind.label>
+	<PositronMind.labelNoun>en positronisk omkoppling</PositronMind.labelNoun>
+	<PositronMind.description>Installerad positronisk omkoppling.</PositronMind.description>
+	<SoldierMind.label>Soldatuppgradering</SoldierMind.label>
+	<SoldierMind.labelNoun>en soldatuppgradering</SoldierMind.labelNoun>
+	<SoldierMind.description>En installerad soldatuppgradering.</SoldierMind.description>
+	<BuilderMind.label>Ritningsbanker</BuilderMind.label>
+	<BuilderMind.labelNoun>en ritningsbank</BuilderMind.labelNoun>
+	<BuilderMind.description>En installerad ritningsbank.</BuilderMind.description>
+	<SurgeonMind.label>Implanterad trikorder</SurgeonMind.label>
+	<SurgeonMind.labelNoun>en implanterad trikorder</SurgeonMind.labelNoun>
+	<SurgeonMind.description>En implanterad trikorder.</SurgeonMind.description>
+	<SpeedMind.label>Neurala motorvägar</SpeedMind.label>
+	<SpeedMind.labelNoun>neurala motorvägar</SpeedMind.labelNoun>
+	<SpeedMind.description>Installerade neurala motorvägar.</SpeedMind.description>
+	<GeoMind.label>Geologiska banker</GeoMind.label>
+	<GeoMind.labelNoun>en geologisk bank</GeoMind.labelNoun>
+	<GeoMind.description>En installerad geologisk bank.</GeoMind.description>
+	<MechanicMind.label>Ingenjörsimplantat</MechanicMind.label>
+	<MechanicMind.labelNoun>ett ingenjörsimplantat</MechanicMind.labelNoun>
+	<MechanicMind.description>Ett installerat ingenjörsimplantat.</MechanicMind.description>
+	<CookingMind.label>Matlagningsimplantat</CookingMind.label>
+	<CookingMind.labelNoun>ett matlagningsimplantat</CookingMind.labelNoun>
+	<CookingMind.description>Ett installerat matlagningsimplantat.</CookingMind.description>
+	<CharismaMind.label>Karismaimplantat</CharismaMind.label>
+	<CharismaMind.labelNoun>ett karismaimplantat</CharismaMind.labelNoun>
+	<CharismaMind.description>Ett installerat karismaimplantat.</CharismaMind.description>
+	<NegotiatorMind.label>Förhandlingsimplantat</NegotiatorMind.label>
+	<NegotiatorMind.labelNoun>ett förhandlingsimplantat</NegotiatorMind.labelNoun>
+	<NegotiatorMind.description>Ett installerat förhandlingsimplantat.</NegotiatorMind.description>
+	<ZoologyMind.label>Zoologiimplantat</ZoologyMind.label>
+	<ZoologyMind.labelNoun>ett zoologiimplantat</ZoologyMind.labelNoun>
+	<ZoologyMind.description>Ett installerat zoologiimplantat.</ZoologyMind.description>
+	<AgriculturalMind.label>Jordbruksimplantat</AgriculturalMind.label>
+	<AgriculturalMind.labelNoun>ett jordbruksimplantat</AgriculturalMind.labelNoun>
+	<AgriculturalMind.description>Ett installerat jordbruksimplantat.</AgriculturalMind.description>
+	<UnskilledMind.label>Enkelt arbetschip</UnskilledMind.label>
+	<UnskilledMind.labelNoun>ett enkelt arbetschip</UnskilledMind.labelNoun>
+	<UnskilledMind.description>Ett installerat enkelt arbetschip.</UnskilledMind.description>
+	<AR2Arm.label>Cybernetisk arm</AR2Arm.label>
+	<AR2Arm.labelNoun>en cybernetisk arm</AR2Arm.labelNoun>
+	<AR2Arm.description>En installerad cybernetisk arm.</AR2Arm.description>
+	<AR2Leg.label>Cybernetiskt ben</AR2Leg.label>
+	<AR2Leg.labelNoun>ett cybernetiskt ben</AR2Leg.labelNoun>
+	<AR2Leg.description>Ett installerat cybernetiskt ben.</AR2Leg.description>
+	<AL2Receptor.label>archotech-ljussensor</AL2Receptor.label>
+	<AL2Receptor.labelNoun>en archotech-ljussensor</AL2Receptor.labelNoun>
+	<AL2Receptor.description>En installerad archotech-ljussensor.</AL2Receptor.description>
+	<A2Heatsink.label>archotech-kylfläns</A2Heatsink.label>
+	<A2Heatsink.labelNoun>en archotech-kylfläns</A2Heatsink.labelNoun>
+	<A2Heatsink.description>En installerad archotech-kylfläns.</A2Heatsink.description>
+	<A2CoolantPump.label>archotech-kylvätskepump</A2CoolantPump.label>
+	<A2CoolantPump.labelNoun>en archotech-kylvätskepump</A2CoolantPump.labelNoun>
+	<A2CoolantPump.description>En installerad archotech-kylvätskepump.</A2CoolantPump.description>
+	<A2Battery.label>archotech-batteripaket</A2Battery.label>
+	<A2Battery.labelNoun>ett archotech-batteripaket</A2Battery.labelNoun>
+	<A2Battery.description>Ett installerat archotech-batteripaket.</A2Battery.description>
+	<A2MStorage.label>archotech-mekanitlagring</A2MStorage.label>
+	<A2MStorage.labelNoun>archotech-mekanitlagring</A2MStorage.labelNoun>
+	<A2MStorage.description>Installerad archotech-mekanitlagring.</A2MStorage.description>
+	<A2Transformer.label>archotech-bioreaktor</A2Transformer.label>
+	<A2Transformer.labelNoun>en archotech-bioreaktor</A2Transformer.labelNoun>
+	<A2Transformer.description>En installerad archotech-bioreaktor.</A2Transformer.description>
+	<A2VAdapter.label>archotech-strömomvandlare</A2VAdapter.label>
+	<A2VAdapter.labelNoun>en archotech-strömomvandlare</A2VAdapter.labelNoun>
+	<A2VAdapter.description>En installerad archotech-strömomvandlare.</A2VAdapter.description>
+	<HearingSensorCrude.label>primitiv hörselsensor</HearingSensorCrude.label>
+	<HearingSensorCrude.labelNoun>en primitiv hörselsensor</HearingSensorCrude.labelNoun>
+	<HearingSensorCrude.description>En installerad primitiv hörselsensor.</HearingSensorCrude.description>
+	<HearingSensorAdv.label>avancerad hörselsensor</HearingSensorAdv.label>
+	<HearingSensorAdv.labelNoun>en avancerad hörselsensor</HearingSensorAdv.labelNoun>
+	<HearingSensorAdv.description>En installerad avancerad hörselsensor.</HearingSensorAdv.description>
+	<HearingSensorArch.label>archotech-hörselsensor</HearingSensorArch.label>
+	<HearingSensorArch.labelNoun>en archotech-hörselsensor</HearingSensorArch.labelNoun>
+	<HearingSensorArch.description>En installerad archotech-hörselsensor.</HearingSensorArch.description>
+	<SmellSensorAdv.label>avancerad luktsensor</SmellSensorAdv.label>
+	<SmellSensorAdv.labelNoun>en avancerad luktsensor</SmellSensorAdv.labelNoun>
+	<SmellSensorAdv.description>En installerad avancerad luktsensor.</SmellSensorAdv.description>
+	<SmellingSensorCrude.label>primitiv luktsensor</SmellingSensorCrude.label>
+	<SmellingSensorCrude.labelNoun>en primitiv luktsensor</SmellingSensorCrude.labelNoun>
+	<SmellingSensorCrude.description>En installerad primitiv luktsensor.</SmellingSensorCrude.description>
+	<SmellingSensorArch.label>archotech-luktsensor</SmellingSensorArch.label>
+	<SmellingSensorArch.labelNoun>en archotech-luktsensor</SmellingSensorArch.labelNoun>
+	<SmellingSensorArch.description>En installerad archotech-luktsensor.</SmellingSensorArch.description>
+	<EvolvingMind.label>Utvecklande AI</EvolvingMind.label>
+	<EvolvingMind.labelNoun>en utvecklande AI</EvolvingMind.labelNoun>
+	<EvolvingMind.description>En installerad utvecklande AI.</EvolvingMind.description>
+	<AndroidTiers_EmotionlessCard.label>Inaktiverade sociala interaktioner</AndroidTiers_EmotionlessCard.label>
+	<AndroidTiers_EmotionlessCard.labelNoun>inaktiverade sociala interaktioner</AndroidTiers_EmotionlessCard.labelNoun>
+	<Backstory_PitFighterUpgrade.label>arenahandskar</Backstory_PitFighterUpgrade.label>
+	<Backstory_PitFighterUpgrade.labelNoun>en arenahandske</Backstory_PitFighterUpgrade.labelNoun>
+	<Backstory_PitFighterUpgrade.description>En installerad stridshandske.</Backstory_PitFighterUpgrade.description>
+	<Backstory_TranscendantAssimilatorUpgrade.label>Plasmahandske</Backstory_TranscendantAssimilatorUpgrade.label>
+	<Backstory_TranscendantAssimilatorUpgrade.labelNoun>en plasmahandske</Backstory_TranscendantAssimilatorUpgrade.labelNoun>
+	<Backstory_TranscendantAssimilatorUpgrade.description>En installerad stridshandske.</Backstory_TranscendantAssimilatorUpgrade.description>
+	<Backstory_HighCouncilUpgrade.label>Kvantprocessering</Backstory_HighCouncilUpgrade.label>
+	<Backstory_HighCouncilUpgrade.labelNoun>ett kvantsinne</Backstory_HighCouncilUpgrade.labelNoun>
+	<Backstory_HighCouncilUpgrade.description>Ett installerat kvantsinne.</Backstory_HighCouncilUpgrade.description>
+	<SGelhuman.label>Strukturgel</SGelhuman.label>
+	<SGelhuman.description>Blandning av aminosyror och mekaniter som flödar genom blodomloppet, mycket giftig och kan orsaka anfall.</SGelhuman.description>
+	<SGelandroid.label>Strukturgel</SGelandroid.label>
+	<SGelandroid.description>Blandning av aminosyror och mekaniter som flödar genom kylledningarna, hjälper till att underhålla inre delar för bättre prestanda.</SGelandroid.description>
+	<Toxicated.label>Förgiftad</Toxicated.label>
+	<Toxicated.description>Giftiga föreningar i blodomloppet, orsakar andningssvårigheter och kräkningar.</Toxicated.description>
+	<AFreezeandroid.label>Polymer-frysskydd</AFreezeandroid.label>
+	<AFreezeandroid.description>Polymerbaserat frysskydd i kylledningarna. Hjälper till med temperaturreglering i både varma och kalla miljöer.</AFreezeandroid.description>
+	<MechSwarmandroid.label>Mek-svärm</MechSwarmandroid.label>
+	<MechSwarmandroid.description>Nanomekaniter som flödar genom kylledningarna. Hjälper till att hålla inre delar i toppskick.</MechSwarmandroid.description>
+	<Conversion.label>???</Conversion.label>
+	<Conversion.description>Fraktalföreningar i blodomloppet. Orsakar anfall, kraftiga kräkningar och våldsam sprickbildning i huden på grund av svår vävnadsinflammation.</Conversion.description>
+	<FractalPillAndroid.label>Fraktalförstärkning</FractalPillAndroid.label>
+	<FractalPillAndroid.description>Fraktalföreningar i kylledningarna. Förbättrar avsevärt effektiviteten och kraften i alla handlingar.</FractalPillAndroid.description>
+	<RegenHumanoid.label>Mono-salva</RegenHumanoid.label>
+	<RegenHumanoid.description>Aktiva regenerativa lösningsmedel i blodomloppet. Uppmuntrar grundläggande cellregenerering.</RegenHumanoid.description>
+	<RegenAndroid.label>Mono-salva</RegenAndroid.label>
+	<RegenAndroid.description>Aktiva regenerativa lösningsmedel i kylledningarna. Hjälper till med automatisk reparation av mekanismer.</RegenAndroid.description>
+	<ATPP_DummyHediff.label>DummyHediff</ATPP_DummyHediff.label>
+	<ATPP_DummyHediff.labelNoun>DummyHediff</ATPP_DummyHediff.labelNoun>
+</LanguageData>

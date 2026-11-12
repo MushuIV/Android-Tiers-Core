@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_DisassembleAndroid.label>Demonteeri surnud android</ATPP_DisassembleAndroid.label>
+	<ATPP_DisassembleAndroid.description>Demonteeri surnud android selle koostisosadeks.</ATPP_DisassembleAndroid.description>
+	<ATPP_DisassembleAndroid.jobString>Demonteerib androidi.</ATPP_DisassembleAndroid.jobString>
+	<ATPP_Make_NanitesHydraulicSerum.label>Valmista nanorakkude pank (hüdraulika)</ATPP_Make_NanitesHydraulicSerum.label>
+	<ATPP_Make_NanitesHydraulicSerum.description>Valmista androidide hüdraulika nanorakkude seerum, mis võimaldab androidide (vanadusest tingitud) vigade parandamist.</ATPP_Make_NanitesHydraulicSerum.description>
+	<ATPP_Make_NanitesHydraulicSerum.jobString>Valmistab androidide nanorakkude seerumit.</ATPP_Make_NanitesHydraulicSerum.jobString>
+	<ATPP_Make_NanitesCPUSerum.label>Valmista nanorakkude pank (protsessor)</ATPP_Make_NanitesCPUSerum.label>
+	<ATPP_Make_NanitesCPUSerum.description>Valmista androidide protsessori nanorakkude seerum, mis võimaldab parandada androidi protsessorit (seotud vanadusega).</ATPP_Make_NanitesCPUSerum.description>
+	<ATPP_Make_NanitesCPUSerum.jobString>Valmistab androidide nanorakkude seerumit.</ATPP_Make_NanitesCPUSerum.jobString>
+	<ATPP_Make_NanitesCoolingSerum.label>Valmista nanorakkude pank (jahutus)</ATPP_Make_NanitesCoolingSerum.label>
+	<ATPP_Make_NanitesCoolingSerum.description>Valmista androidide jahutuse nanorakkude seerum, mis võimaldab parandada androidi jahutussüsteemi (seotud vanadusega).</ATPP_Make_NanitesCoolingSerum.description>
+	<ATPP_Make_NanitesCoolingSerum.jobString>Valmistab androidide nanorakkude seerumit.</ATPP_Make_NanitesCoolingSerum.jobString>
+	<ATPP_Make_NanitesFrameSerum.label>Valmista nanorakkude pank (karkass)</ATPP_Make_NanitesFrameSerum.label>
+	<ATPP_Make_NanitesFrameSerum.description>Valmista androidide karkassi nanorakkude seerum, mis võimaldab parandada androidi eksoskeletti (seotud vanadusega).</ATPP_Make_NanitesFrameSerum.description>
+	<ATPP_Make_NanitesFrameSerum.jobString>Valmistab androidide nanorakkude seerumit.</ATPP_Make_NanitesFrameSerum.jobString>
+	<ATPP_Make_RXChip.label>Valmista RX närvikiip</ATPP_Make_RXChip.label>
+	<ATPP_Make_RXChip.description>Närvikiip, mis toimib isikliku SkyMind-repiiterina.</ATPP_Make_RXChip.description>
+	<ATPP_Make_RXChip.jobString>Valmistab RX närvikiipi.</ATPP_Make_RXChip.jobString>
+	<ATPP_Make_VX0Chip.label>Valmista VX0 närvikiip</ATPP_Make_VX0Chip.label>
+	<ATPP_Make_VX0Chip.description>Valmista VX0 kiip – närvikiip, mis muudab oma hosti bioloogiliseks surrogaadiks.</ATPP_Make_VX0Chip.description>
+	<ATPP_Make_VX0Chip.jobString>Valmistab VX0 närvikiipi.</ATPP_Make_VX0Chip.jobString>
+	<ATPP_Make_VX1Chip.label>Valmista VX1 närvikiip</ATPP_Make_VX1Chip.label>
+	<ATPP_Make_VX1Chip.description>Valmista VX1 kiip, mis võimaldab selle hostil kaugelt juhtida mis tahes SX-seeria androidi või bioloogilist surrogaati.</ATPP_Make_VX1Chip.description>
+	<ATPP_Make_VX1Chip.jobString>Valmistab VX1 närvikiipi.</ATPP_Make_VX1Chip.jobString>
+	<ATPP_Make_VX2Chip.label>Valmista VX2 närvikiip</ATPP_Make_VX2Chip.label>
+	<ATPP_Make_VX2Chip.description>Valmista VX2 kiip, mis võimaldab selle hostil kaugelt juhtida mis tahes SX-seeria androidi või bioloogilist surrogaati ning oma meelt dubleerida/vahetada.</ATPP_Make_VX2Chip.description>
+	<ATPP_Make_VX2Chip.jobString>Valmistab VX2 närvikiipi.</ATPP_Make_VX2Chip.jobString>
+	<ATPP_Make_VX3Chip.label>Valmista VX3 närvikiip</ATPP_Make_VX3Chip.label>
+	<ATPP_Make_VX3Chip.description>Valmista VX3 kiip, mis võimaldab selle hostil kaugelt juhtida korraga mitut SX-seeria androidi või bioloogilist surrogaati ning oma meelt dubleerida/vahetada.</ATPP_Make_VX3Chip.description>
+	<ATPP_Make_VX3Chip.jobString>Valmistab VX3 närvikiipi.</ATPP_Make_VX3Chip.jobString>
+	<ATPP_InstallVX2Chip.label>Paigalda VX2 närvikiip</ATPP_InstallVX2Chip.label>
+	<ATPP_InstallVX2Chip.description>Paigalda VX2 närvikiip, mis võimaldab selle hostil kaugelt juhtida mis tahes SX-seeria androidi või bioloogilist surrogaati ning oma meelt dubleerida/vahetada.</ATPP_InstallVX2Chip.description>
+	<ATPP_InstallVX2Chip.jobString>Paigaldab VX2 närvikiipi.</ATPP_InstallVX2Chip.jobString>
+	<ATPP_InstallVX2ChipOnAndroid.label>Paigalda androidile VX2 närvikiip</ATPP_InstallVX2ChipOnAndroid.label>
+	<ATPP_InstallVX2ChipOnAndroid.description>Paigalda androidile VX2 närvikiip, mis võimaldab selle hostil kaugelt juhtida mis tahes SX-seeria androidi või bioloogilist surrogaati ning oma meelt dubleerida/vahetada.</ATPP_InstallVX2ChipOnAndroid.description>
+	<ATPP_InstallVX2ChipOnAndroid.jobString>Paigaldab androidile VX2 närvikiipi.</ATPP_InstallVX2ChipOnAndroid.jobString>
+	<ATPP_InstallVX3Chip.label>Paigalda VX3 närvikiip</ATPP_InstallVX3Chip.label>
+	<ATPP_InstallVX3Chip.description>Paigalda VX3 närvikiip, mis võimaldab selle hostil kaugelt juhtida korraga mitut SX-seeria androidi või bioloogilist surrogaati ning oma meelt dubleerida/vahetada.</ATPP_InstallVX3Chip.description>
+	<ATPP_InstallVX3Chip.jobString>Paigaldab VX3 närvikiipi.</ATPP_InstallVX3Chip.jobString>
+	<ATPP_InstallVX3ChipOnAndroid.label>Paigalda androidile VX3 närvikiip</ATPP_InstallVX3ChipOnAndroid.label>
+	<ATPP_InstallVX3ChipOnAndroid.description>Paigalda androidile VX3 närvikiip, mis võimaldab selle hostil kaugelt juhtida korraga mitut SX-seeria androidi või bioloogilist surrogaati ning oma meelt dubleerida/vahetada.</ATPP_InstallVX3ChipOnAndroid.description>
+	<ATPP_InstallVX3ChipOnAndroid.jobString>Paigaldab androidile VX3 närvikiipi.</ATPP_InstallVX3ChipOnAndroid.jobString>
+	<ATPP_InstallRXChip.label>Paigalda RX närvikiip</ATPP_InstallRXChip.label>
+	<ATPP_InstallRXChip.description>Paigalda RX närvikiip, mis toimib oma hosti jaoks isikliku SkyMind-repiiterina.</ATPP_InstallRXChip.description>
+	<ATPP_InstallRXChip.jobString>Paigaldab RX närvikiipi.</ATPP_InstallRXChip.jobString>
+	<ATPP_InstallRXChipOnAndroid.label>Paigalda RX närvikiip</ATPP_InstallRXChipOnAndroid.label>
+	<ATPP_InstallRXChipOnAndroid.description>Paigalda RX närvikiip, mis toimib oma hosti jaoks isikliku SkyMind-repiiterina.</ATPP_InstallRXChipOnAndroid.description>
+	<ATPP_InstallRXChipOnAndroid.jobString>Paigaldab RX närvikiipi.</ATPP_InstallRXChipOnAndroid.jobString>
+	<ATPP_InstallVX0ChipOnAndroid.label>Paigalda androidile VX0 närvikiip</ATPP_InstallVX0ChipOnAndroid.label>
+	<ATPP_InstallVX0ChipOnAndroid.description>Paigalda androidile VX0 närvikiip – närvikiip, mis muudab oma hosti bioloogiliseks surrogaadiks.</ATPP_InstallVX0ChipOnAndroid.description>
+	<ATPP_InstallVX0ChipOnAndroid.jobString>Paigaldab androidile VX0 närvikiipi.</ATPP_InstallVX0ChipOnAndroid.jobString>
+	<ATPP_InstallVX0Chip.label>Paigalda VX0 närvikiip</ATPP_InstallVX0Chip.label>
+	<ATPP_InstallVX0Chip.description>Paigalda VX0 närvikiip – närvikiip, mis muudab oma hosti bioloogiliseks surrogaadiks.</ATPP_InstallVX0Chip.description>
+	<ATPP_InstallVX0Chip.jobString>Paigaldab VX0 närvikiipi.</ATPP_InstallVX0Chip.jobString>
+	<ATPP_InstallVX1Chip.label>Paigalda VX1 närvikiip</ATPP_InstallVX1Chip.label>
+	<ATPP_InstallVX1Chip.description>Paigalda VX1 närvikiip, mis võimaldab selle hostil kaugelt juhtida mis tahes SX-seeria androidi või bioloogilist surrogaati.</ATPP_InstallVX1Chip.description>
+	<ATPP_InstallVX1Chip.jobString>Paigaldab VX1 närvikiipi.</ATPP_InstallVX1Chip.jobString>
+	<ATPP_InstallVX1ChipOnAndroid.label>Paigalda androidile VX1 närvikiip</ATPP_InstallVX1ChipOnAndroid.label>
+	<ATPP_InstallVX1ChipOnAndroid.description>Paigalda androidile VX1 närvikiip, mis võimaldab selle hostil kaugelt juhtida mis tahes SX-seeria androidi või bioloogilist surrogaati.</ATPP_InstallVX1ChipOnAndroid.description>
+	<ATPP_InstallVX1ChipOnAndroid.jobString>Paigaldab androidile VX1 närvikiipi.</ATPP_InstallVX1ChipOnAndroid.jobString>
+	<ATPP_CreateS1.label>Loo T1 surrogaatandroid (S1)</ATPP_CreateS1.label>
+	<ATPP_CreateS1.description>Loo tühi S1 android plastterasest ja komponentidest.</ATPP_CreateS1.description>
+	<ATPP_CreateS1.jobString>Valmistab S1 androidi.</ATPP_CreateS1.jobString>
+	<ATPP_CreateS2.label>Loo T2 surrogaatandroid (S2)</ATPP_CreateS2.label>
+	<ATPP_CreateS2.description>Loo tühi S2 android plastterasest ja komponentidest.</ATPP_CreateS2.description>
+	<ATPP_CreateS2.jobString>Valmistab S2 androidi.</ATPP_CreateS2.jobString>
+	<ATPP_CreateS3.label>Loo T3 surrogaatandroid (S3)</ATPP_CreateS3.label>
+	<ATPP_CreateS3.description>Loo tühi S3 android plastterasest ja komponentidest.</ATPP_CreateS3.description>
+	<ATPP_CreateS3.jobString>Valmistab S3 androidi.</ATPP_CreateS3.jobString>
+	<ATPP_CreateS4.label>Loo T4 surrogaatandroid (S4)</ATPP_CreateS4.label>
+	<ATPP_CreateS4.description>Loo tühi S4 android plastterasest ja komponentidest.</ATPP_CreateS4.description>
+	<ATPP_CreateS4.jobString>Valmistab S4 androidi.</ATPP_CreateS4.jobString>
+	<ATPP_CreateHellDrone.label>Loo HellUnit surrogaatandroid (S-HU)</ATPP_CreateHellDrone.label>
+	<ATPP_CreateHellDrone.description>Loo tühi S-HU android plastterasest ja komponentidest.</ATPP_CreateHellDrone.description>
+	<ATPP_CreateHellDrone.jobString>Valmistab S-HU androidi.</ATPP_CreateHellDrone.jobString>
+	<ATPP_CreateM7.label>Loo M7 surrogaatmehhanoid (SM7)</ATPP_CreateM7.label>
+	<ATPP_CreateM7.description>Loo tühi SM7 mehhanoid plastterasest ja komponentidest.</ATPP_CreateM7.description>
+	<ATPP_CreateM7.jobString>Valmistab SM7 mehhanoidi.</ATPP_CreateM7.jobString>
+	<ATPP_CreateBlankT3.label>Loo tühja närvivõrguga T3 android</ATPP_CreateBlankT3.label>
+	<ATPP_CreateBlankT3.description>Loo tühja närvivõrguga T3 android</ATPP_CreateBlankT3.description>
+	<ATPP_CreateBlankT3.jobString>Loob tühja närvivõrguga T3 androidi</ATPP_CreateBlankT3.jobString>
+	<ATPP_CreateBlankT4.label>Loo tühja närvivõrguga T4 android</ATPP_CreateBlankT4.label>
+	<ATPP_CreateBlankT4.description>Loo tühja närvivõrguga T4 android</ATPP_CreateBlankT4.description>
+	<ATPP_CreateBlankT4.jobString>Loob tühja närvivõrguga T4 androidi</ATPP_CreateBlankT4.jobString>
+	<ATPP_Make_SM7Mech40MMCannon.label>Valmista 40 mm kahur (SM7 relv)</ATPP_Make_SM7Mech40MMCannon.label>
+	<ATPP_Make_SM7Mech40MMCannon.description>Valmista 40 mm kahur (SM7 relv)</ATPP_Make_SM7Mech40MMCannon.description>
+	<ATPP_Make_SM7Mech40MMCannon.jobString>Valmistab 40 mm kahurit (SM7 relv)</ATPP_Make_SM7Mech40MMCannon.jobString>
+	<ATPP_Make_SM7MechMastiffGun.label>Valmista Mastiff haavlipüss (SM7 relv)</ATPP_Make_SM7MechMastiffGun.label>
+	<ATPP_Make_SM7MechMastiffGun.description>Valmista Mastiff haavlipüss (SM7 relv)</ATPP_Make_SM7MechMastiffGun.description>
+	<ATPP_Make_SM7MechMastiffGun.jobString>Valmistab Mastiff haavlipüssi (SM7 relv)</ATPP_Make_SM7MechMastiffGun.jobString>
+	<ATPP_Make_SM7MechHandCannon.label>Valmista X-5 käsikahur (SM7 relv)</ATPP_Make_SM7MechHandCannon.label>
+	<ATPP_Make_SM7MechHandCannon.description>Valmista X-5 käsikahur (SM7 relv)</ATPP_Make_SM7MechHandCannon.description>
+	<ATPP_Make_SM7MechHandCannon.jobString>Valmistab X-5 käsikahurit (SM7 relv)</ATPP_Make_SM7MechHandCannon.jobString>
+	<ATPP_PaintAndroidFrameworkKhaki.label>Värvi androidi raam khakivärvi</ATPP_PaintAndroidFrameworkKhaki.label>
+	<ATPP_PaintAndroidFrameworkKhaki.description>Värvi androidi raam khakivärvi</ATPP_PaintAndroidFrameworkKhaki.description>
+	<ATPP_PaintAndroidFrameworkKhaki.jobString>Värvib androidi raami khakivärvi</ATPP_PaintAndroidFrameworkKhaki.jobString>
+	<ATPP_PaintAndroidFrameworkGreen.label>Värvi androidi raam roheliseks</ATPP_PaintAndroidFrameworkGreen.label>
+	<ATPP_PaintAndroidFrameworkGreen.description>Värvi androidi raam roheliseks</ATPP_PaintAndroidFrameworkGreen.description>
+	<ATPP_PaintAndroidFrameworkGreen.jobString>Värvib androidi raami roheliseks</ATPP_PaintAndroidFrameworkGreen.jobString>
+	<ATPP_PaintAndroidFrameworkBlue.label>Värvi androidi raam siniseks</ATPP_PaintAndroidFrameworkBlue.label>
+	<ATPP_PaintAndroidFrameworkBlue.description>Värvi androidi raam siniseks</ATPP_PaintAndroidFrameworkBlue.description>
+	<ATPP_PaintAndroidFrameworkBlue.jobString>Värvib androidi raami siniseks</ATPP_PaintAndroidFrameworkBlue.jobString>
+	<ATPP_PaintAndroidFrameworkRed.label>Värvi androidi raam punaseks</ATPP_PaintAndroidFrameworkRed.label>
+	<ATPP_PaintAndroidFrameworkRed.description>Värvi androidi raam punaseks</ATPP_PaintAndroidFrameworkRed.description>
+	<ATPP_PaintAndroidFrameworkRed.jobString>Värvib androidi raami punaseks</ATPP_PaintAndroidFrameworkRed.jobString>
+	<ATPP_PaintAndroidFrameworkYellow.label>Värvi androidi raam kollaseks</ATPP_PaintAndroidFrameworkYellow.label>
+	<ATPP_PaintAndroidFrameworkYellow.description>Värvi androidi raam kollaseks</ATPP_PaintAndroidFrameworkYellow.description>
+	<ATPP_PaintAndroidFrameworkYellow.jobString>Värvib androidi raami kollaseks</ATPP_PaintAndroidFrameworkYellow.jobString>
+	<ATPP_PaintAndroidFrameworkOrange.label>Värvi androidi raam oranžiks</ATPP_PaintAndroidFrameworkOrange.label>
+	<ATPP_PaintAndroidFrameworkOrange.description>Värvi androidi raam oranžiks</ATPP_PaintAndroidFrameworkOrange.description>
+	<ATPP_PaintAndroidFrameworkOrange.jobString>Värvib androidi raami oranžiks</ATPP_PaintAndroidFrameworkOrange.jobString>
+	<ATPP_PaintAndroidFrameworkBlack.label>Värvi androidi raam mustaks</ATPP_PaintAndroidFrameworkBlack.label>
+	<ATPP_PaintAndroidFrameworkBlack.description>Värvi androidi raam mustaks</ATPP_PaintAndroidFrameworkBlack.description>
+	<ATPP_PaintAndroidFrameworkBlack.jobString>Värvib androidi raami mustaks</ATPP_PaintAndroidFrameworkBlack.jobString>
+	<ATPP_PaintAndroidFrameworkWhite.label>Värvi androidi raam valgeks</ATPP_PaintAndroidFrameworkWhite.label>
+	<ATPP_PaintAndroidFrameworkWhite.description>Värvi androidi raam valgeks</ATPP_PaintAndroidFrameworkWhite.description>
+	<ATPP_PaintAndroidFrameworkWhite.jobString>Värvib androidi raami valgeks</ATPP_PaintAndroidFrameworkWhite.jobString>
+	<ATPP_PaintAndroidFrameworkGray.label>Värvi androidi raam halliks</ATPP_PaintAndroidFrameworkGray.label>
+	<ATPP_PaintAndroidFrameworkGray.description>Värvi androidi raam halliks</ATPP_PaintAndroidFrameworkGray.description>
+	<ATPP_PaintAndroidFrameworkGray.jobString>Värvib androidi raami halliks</ATPP_PaintAndroidFrameworkGray.jobString>
+	<ATPP_PaintAndroidFrameworkPurple.label>Värvi androidi raam lillaks</ATPP_PaintAndroidFrameworkPurple.label>
+	<ATPP_PaintAndroidFrameworkPurple.description>Värvi androidi raam lillaks</ATPP_PaintAndroidFrameworkPurple.description>
+	<ATPP_PaintAndroidFrameworkPurple.jobString>Värvib androidi raami lillaks</ATPP_PaintAndroidFrameworkPurple.jobString>
+	<ATPP_PaintAndroidFrameworkPink.label>Värvi androidi raam roosaks</ATPP_PaintAndroidFrameworkPink.label>
+	<ATPP_PaintAndroidFrameworkPink.description>Värvi androidi raam roosaks</ATPP_PaintAndroidFrameworkPink.description>
+	<ATPP_PaintAndroidFrameworkPink.jobString>Värvib androidi raami roosaks</ATPP_PaintAndroidFrameworkPink.jobString>
+	<ATPP_PaintAndroidFrameworkCyan.label>Värvi androidi raam tsüaaniks</ATPP_PaintAndroidFrameworkCyan.label>
+	<ATPP_PaintAndroidFrameworkCyan.description>Värvi androidi raam tsüaaniks</ATPP_PaintAndroidFrameworkCyan.description>
+	<ATPP_PaintAndroidFrameworkCyan.jobString>Värvib androidi raami tsüaaniks</ATPP_PaintAndroidFrameworkCyan.jobString>
+	<ATPP_PaintAndroidFrameworkDefault.label>Värvi androidi raam vaikevärvi</ATPP_PaintAndroidFrameworkDefault.label>
+	<ATPP_PaintAndroidFrameworkDefault.description>Värvi androidi raam vaikevärvi</ATPP_PaintAndroidFrameworkDefault.description>
+	<ATPP_PaintAndroidFrameworkDefault.jobString>Värvib androidi raami vaikevärvi</ATPP_PaintAndroidFrameworkDefault.jobString>
+	<ATPP_ApplyHydraulicNaniteBank.label>Manusta hüdraulika nanorakkude pank</ATPP_ApplyHydraulicNaniteBank.label>
+	<ATPP_ApplyHydraulicNaniteBank.description>Manusta ühekordne annus nanorakke, mis on häälestatud parandama androidide kahjustatud hüdraulikasüsteeme.</ATPP_ApplyHydraulicNaniteBank.description>
+	<ATPP_ApplyHydraulicNaniteBank.jobString>Parandab nanorakkude seerumiga androidi vanadusprobleeme</ATPP_ApplyHydraulicNaniteBank.jobString>
+	<ATPP_ApplyHealFrameworkSystem.label>Manusta karkassi nanorakkude pank</ATPP_ApplyHealFrameworkSystem.label>
+	<ATPP_ApplyHealFrameworkSystem.description>Manusta ühekordne nanorakkude pank, mis on häälestatud parandama androidide kahjustatud eksoskelette.</ATPP_ApplyHealFrameworkSystem.description>
+	<ATPP_ApplyHealFrameworkSystem.jobString>Parandab nanorakkude seerumiga androidi vanadusprobleeme</ATPP_ApplyHealFrameworkSystem.jobString>
+	<ATPP_ApplyHealCoolingSystem.label>Manusta jahutuse nanorakkude pank</ATPP_ApplyHealCoolingSystem.label>
+	<ATPP_ApplyHealCoolingSystem.description>Manusta ühekordne nanorakkude pank, mis on häälestatud parandama androidide kahjustatud jahutussüsteeme ülekuumenemise korral.</ATPP_ApplyHealCoolingSystem.description>
+	<ATPP_ApplyHealCoolingSystem.jobString>Parandab nanorakkude seerumiga androidi vanadusprobleeme</ATPP_ApplyHealCoolingSystem.jobString>
+	<ATPP_ApplyHealCPUSerum.label>Manusta protsessori nanorakkude pank</ATPP_ApplyHealCPUSerum.label>
+	<ATPP_ApplyHealCPUSerum.description>Manusta ühekordne nanorakkude pank, mis on häälestatud parandama androidide kahjustatud tehisaju süsteeme.</ATPP_ApplyHealCPUSerum.description>
+	<ATPP_ApplyHealCPUSerum.jobString>Parandab nanorakkude seerumiga androidi vanadusprobleeme</ATPP_ApplyHealCPUSerum.jobString>
+	<ATPP_Make_T1ArtificialBrain.label>Valmista T1 tehisaju</ATPP_Make_T1ArtificialBrain.label>
+	<ATPP_Make_T1ArtificialBrain.description>Valmista T1 tehisaju, et muuta surrogaat tühja närvivõrguga androidiks.</ATPP_Make_T1ArtificialBrain.description>
+	<ATPP_Make_T1ArtificialBrain.jobString>Valmistab T1 tehisaju.</ATPP_Make_T1ArtificialBrain.jobString>
+	<ATPP_Make_T2ArtificialBrain.label>Valmista T2 tehisaju</ATPP_Make_T2ArtificialBrain.label>
+	<ATPP_Make_T2ArtificialBrain.description>Valmista T2 tehisaju, et muuta surrogaat tühja närvivõrguga androidiks.</ATPP_Make_T2ArtificialBrain.description>
+	<ATPP_Make_T2ArtificialBrain.jobString>Valmistab T2 tehisaju.</ATPP_Make_T2ArtificialBrain.jobString>
+	<ATPP_Make_T3ArtificialBrain.label>Valmista T3 tehisaju</ATPP_Make_T3ArtificialBrain.label>
+	<ATPP_Make_T3ArtificialBrain.description>Valmista T3 tehisaju, et muuta surrogaat tühja närvivõrguga androidiks.</ATPP_Make_T3ArtificialBrain.description>
+	<ATPP_Make_T3ArtificialBrain.jobString>Valmistab T3 tehisaju.</ATPP_Make_T3ArtificialBrain.jobString>
+	<ATPP_Make_T4ArtificialBrain.label>Valmista T4 tehisaju</ATPP_Make_T4ArtificialBrain.label>
+	<ATPP_Make_T4ArtificialBrain.description>Valmista T4 tehisaju, et muuta surrogaat tühja närvivõrguga androidiks.</ATPP_Make_T4ArtificialBrain.description>
+	<ATPP_Make_T4ArtificialBrain.jobString>Valmistab T4 tehisaju.</ATPP_Make_T4ArtificialBrain.jobString>
+	<ATPP_InstallT1ArtificialBrain.label>Paigalda T1 tehisaju</ATPP_InstallT1ArtificialBrain.label>
+	<ATPP_InstallT1ArtificialBrain.description>Paigalda T1 tehisaju, mis võimaldab muuta T1 surrogaadi tühja närvivõrguga androidiks</ATPP_InstallT1ArtificialBrain.description>
+	<ATPP_InstallT1ArtificialBrain.jobString>Paigaldab T1 tehisaju.</ATPP_InstallT1ArtificialBrain.jobString>
+	<ATPP_InstallT2ArtificialBrain.label>Paigalda T2 tehisaju</ATPP_InstallT2ArtificialBrain.label>
+	<ATPP_InstallT2ArtificialBrain.description>Paigalda T2 tehisaju, mis võimaldab muuta T2 surrogaadi tühja närvivõrguga androidiks</ATPP_InstallT2ArtificialBrain.description>
+	<ATPP_InstallT2ArtificialBrain.jobString>Paigaldab T2 tehisaju.</ATPP_InstallT2ArtificialBrain.jobString>
+	<ATPP_InstallT3ArtificialBrain.label>Paigalda T3 tehisaju</ATPP_InstallT3ArtificialBrain.label>
+	<ATPP_InstallT3ArtificialBrain.description>Paigalda T3 tehisaju, mis võimaldab muuta T3 surrogaadi tühja närvivõrguga androidiks</ATPP_InstallT3ArtificialBrain.description>
+	<ATPP_InstallT3ArtificialBrain.jobString>Paigaldab T3 tehisaju.</ATPP_InstallT3ArtificialBrain.jobString>
+	<ATPP_InstallT4ArtificialBrain.label>Paigalda T4 tehisaju</ATPP_InstallT4ArtificialBrain.label>
+	<ATPP_InstallT4ArtificialBrain.description>Paigalda T4 tehisaju, mis võimaldab muuta T4 surrogaadi tühja närvivõrguga androidiks</ATPP_InstallT4ArtificialBrain.description>
+	<ATPP_InstallT4ArtificialBrain.jobString>Paigaldab T4 tehisaju.</ATPP_InstallT4ArtificialBrain.jobString>
+	<ATPP_CreateSX2.label>Loo meessoost TX2 surrogaatandroid (SX2)</ATPP_CreateSX2.label>
+	<ATPP_CreateSX2.description>Loo tühi meessoost SX2 android plastterasest ja komponentidest.</ATPP_CreateSX2.description>
+	<ATPP_CreateSX2.jobString>Valmistab SX2 androidi.</ATPP_CreateSX2.jobString>
+	<ATPP_CreateSX2Female.label>Loo naissoost TX2 surrogaatandroid (SX2)</ATPP_CreateSX2Female.label>
+	<ATPP_CreateSX2Female.description>Loo tühi naissoost SX2 android plastterasest ja komponentidest.</ATPP_CreateSX2Female.description>
+	<ATPP_CreateSX2Female.jobString>Valmistab SX2 androidi.</ATPP_CreateSX2Female.jobString>
+	<ATPP_CreateSX3.label>Loo meessoost TX3 surrogaatandroid (SX3)</ATPP_CreateSX3.label>
+	<ATPP_CreateSX3.description>Loo tühi meessoost SX3 android plastterasest ja komponentidest.</ATPP_CreateSX3.description>
+	<ATPP_CreateSX3.jobString>Valmistab SX3 androidi.</ATPP_CreateSX3.jobString>
+	<ATPP_CreateSX3Female.label>Loo naissoost TX3 surrogaatandroid (SX3)</ATPP_CreateSX3Female.label>
+	<ATPP_CreateSX3Female.description>Loo tühi naissoost SX3 android plastterasest ja komponentidest.</ATPP_CreateSX3Female.description>
+	<ATPP_CreateSX3Female.jobString>Valmistab SX3 androidi.</ATPP_CreateSX3Female.jobString>
+	<ATPP_CreateSX4.label>Loo TX4 surrogaatandroid (SX4)</ATPP_CreateSX4.label>
+	<ATPP_CreateSX4.description>Loo tühi SX4 android plastterasest ja komponentidest.</ATPP_CreateSX4.description>
+	<ATPP_CreateSX4.jobString>Valmistab SX4 androidi.</ATPP_CreateSX4.jobString>
+	<ATPP_CreateSX4Female.label>Loo naissoost TX4 surrogaatandroid (SX4)</ATPP_CreateSX4Female.label>
+	<ATPP_CreateSX4Female.description>Loo tühi naissoost SX4 android plastterasest ja komponentidest.</ATPP_CreateSX4Female.description>
+	<ATPP_CreateSX4Female.jobString>Valmistab SX4 androidi.</ATPP_CreateSX4Female.jobString>
+	<ATPP_CreateSX2I.label>Loo meessoost TX2I surrogaatandroid (SX2I)</ATPP_CreateSX2I.label>
+	<ATPP_CreateSX2I.description>Loo tühi meessoost SX2I android plastterasest ja komponentidest.</ATPP_CreateSX2I.description>
+	<ATPP_CreateSX2I.jobString>Valmistab SX2I androidi.</ATPP_CreateSX2I.jobString>
+	<ATPP_CreateSX2IFemale.label>Loo naissoost TX2I surrogaatandroid (SX2I)</ATPP_CreateSX2IFemale.label>
+	<ATPP_CreateSX2IFemale.description>Loo tühi naissoost SX2I android plastterasest ja komponentidest.</ATPP_CreateSX2IFemale.description>
+	<ATPP_CreateSX2IFemale.jobString>Valmistab SX2I androidi.</ATPP_CreateSX2IFemale.jobString>
+	<ATPP_CreateSX2K.label>Loo meessoost TX2K surrogaatandroid (SX2K)</ATPP_CreateSX2K.label>
+	<ATPP_CreateSX2K.description>Loo tühi meessoost SX2K android plastterasest ja komponentidest.</ATPP_CreateSX2K.description>
+	<ATPP_CreateSX2K.jobString>Valmistab SX2K androidi.</ATPP_CreateSX2K.jobString>
+	<ATPP_CreateSX2KFemale.label>Loo naissoost TX2K surrogaatandroid (SX2K)</ATPP_CreateSX2KFemale.label>
+	<ATPP_CreateSX2KFemale.description>Loo tühi naissoost SX2K android plastterasest ja komponentidest.</ATPP_CreateSX2KFemale.description>
+	<ATPP_CreateSX2KFemale.jobString>Valmistab SX2K androidi.</ATPP_CreateSX2KFemale.jobString>
+	<ATPP_CreateSX2KI.label>Loo TX2KI surrogaatandroid (SX2KI)</ATPP_CreateSX2KI.label>
+	<ATPP_CreateSX2KI.description>Loo tühi SX2KI android plastterasest ja komponentidest.</ATPP_CreateSX2KI.description>
+	<ATPP_CreateSX2KI.jobString>Valmistab SX2KI androidi.</ATPP_CreateSX2KI.jobString>
+	<ATPP_CreateSX2KIFemale.label>Loo naissoost TX2KI surrogaatandroid (SX2KI)</ATPP_CreateSX2KIFemale.label>
+	<ATPP_CreateSX2KIFemale.description>Loo tühi naissoost SX2KI android plastterasest ja komponentidest.</ATPP_CreateSX2KIFemale.description>
+	<ATPP_CreateSX2KIFemale.jobString>Valmistab naissoost SX2KI androidi.</ATPP_CreateSX2KIFemale.jobString>
+	<ATPP_CreateSX3I.label>Loo meessoost TX3I surrogaatandroid (SX3I)</ATPP_CreateSX3I.label>
+	<ATPP_CreateSX3I.description>Loo tühi meessoost SX3I android plastterasest ja komponentidest.</ATPP_CreateSX3I.description>
+	<ATPP_CreateSX3I.jobString>Valmistab SX3I androidi.</ATPP_CreateSX3I.jobString>
+	<ATPP_CreateSX3IFemale.label>Loo naissoost TX3I surrogaatandroid (SX3I)</ATPP_CreateSX3IFemale.label>
+	<ATPP_CreateSX3IFemale.description>Loo tühi naissoost SX3I android plastterasest ja komponentidest.</ATPP_CreateSX3IFemale.description>
+	<ATPP_CreateSX3IFemale.jobString>Valmistab SX3I androidi.</ATPP_CreateSX3IFemale.jobString>
+	<ATPP_CreateSX4I.label>Loo TX4I surrogaatandroid (SX4I)</ATPP_CreateSX4I.label>
+	<ATPP_CreateSX4I.description>Loo tühi SX4I android plastterasest ja komponentidest.</ATPP_CreateSX4I.description>
+	<ATPP_CreateSX4I.jobString>Valmistab SX4I androidi.</ATPP_CreateSX4I.jobString>
+	<ATPP_CreateSX4IFemale.label>Loo naissoost TX4I surrogaatandroid (SX4I)</ATPP_CreateSX4IFemale.label>
+	<ATPP_CreateSX4IFemale.description>Loo tühi naissoost SX4I android plastterasest ja komponentidest.</ATPP_CreateSX4IFemale.description>
+	<ATPP_CreateSX4IFemale.jobString>Valmistab SX4I androidi.</ATPP_CreateSX4IFemale.jobString>
+	<ATPP_CreateTX4Android.label>Loo meessoost TX4 android</ATPP_CreateTX4Android.label>
+	<ATPP_CreateTX4Android.description>Loo meessoost TX4 android</ATPP_CreateTX4Android.description>
+	<ATPP_CreateTX4Android.jobString>Loob TX4 androidi</ATPP_CreateTX4Android.jobString>
+	<ATPP_CreateTX4FemaleAndroid.label>Loo naissoost TX4 android</ATPP_CreateTX4FemaleAndroid.label>
+	<ATPP_CreateTX4FemaleAndroid.description>Loo naissoost TX4 android</ATPP_CreateTX4FemaleAndroid.description>
+	<ATPP_CreateTX4FemaleAndroid.jobString>Loob TX4 androidi</ATPP_CreateTX4FemaleAndroid.jobString>
+	<ATPP_CreateTX3Android.label>Loo meessoost TX3 android</ATPP_CreateTX3Android.label>
+	<ATPP_CreateTX3Android.description>Loo meessoost TX3 android</ATPP_CreateTX3Android.description>
+	<ATPP_CreateTX3Android.jobString>Loob TX3 androidi</ATPP_CreateTX3Android.jobString>
+	<ATPP_CreateTX3FemaleAndroid.label>Loo naissoost TX3 android</ATPP_CreateTX3FemaleAndroid.label>
+	<ATPP_CreateTX3FemaleAndroid.description>Loo naissoost TX3 android</ATPP_CreateTX3FemaleAndroid.description>
+	<ATPP_CreateTX3FemaleAndroid.jobString>Loob TX3 androidi</ATPP_CreateTX3FemaleAndroid.jobString>
+	<ATPP_CreateTX2Android.label>Loo meessoost TX2 android</ATPP_CreateTX2Android.label>
+	<ATPP_CreateTX2Android.description>Loo meessoost TX2 android</ATPP_CreateTX2Android.description>
+	<ATPP_CreateTX2Android.jobString>Loob TX2 androidi</ATPP_CreateTX2Android.jobString>
+	<ATPP_CreateTX2FemaleAndroid.label>Loo naissoost TX2 android</ATPP_CreateTX2FemaleAndroid.label>
+	<ATPP_CreateTX2FemaleAndroid.description>Loo naissoost TX2 android</ATPP_CreateTX2FemaleAndroid.description>
+	<ATPP_CreateTX2FemaleAndroid.jobString>Loob TX2 androidi</ATPP_CreateTX2FemaleAndroid.jobString>
+	<ATPP_CreateTX4IAndroid.label>Loo meessoost TX4I android</ATPP_CreateTX4IAndroid.label>
+	<ATPP_CreateTX4IAndroid.description>Loo meessoost TX4I android</ATPP_CreateTX4IAndroid.description>
+	<ATPP_CreateTX4IAndroid.jobString>Loob TX4I androidi</ATPP_CreateTX4IAndroid.jobString>
+	<ATPP_CreateTX4IFemaleAndroid.label>Loo naissoost TX4I android</ATPP_CreateTX4IFemaleAndroid.label>
+	<ATPP_CreateTX4IFemaleAndroid.description>Loo naissoost TX4I android</ATPP_CreateTX4IFemaleAndroid.description>
+	<ATPP_CreateTX4IFemaleAndroid.jobString>Loob TX4I androidi</ATPP_CreateTX4IFemaleAndroid.jobString>
+	<ATPP_CreateTX3IAndroid.label>Loo meessoost TX3I android</ATPP_CreateTX3IAndroid.label>
+	<ATPP_CreateTX3IAndroid.description>Loo meessoost TX3I android</ATPP_CreateTX3IAndroid.description>
+	<ATPP_CreateTX3IAndroid.jobString>Loob TX3I androidi</ATPP_CreateTX3IAndroid.jobString>
+	<ATPP_CreateTX3IFemaleAndroid.label>Loo naissoost TX3I android</ATPP_CreateTX3IFemaleAndroid.label>
+	<ATPP_CreateTX3IFemaleAndroid.description>Loo naissoost TX3I android</ATPP_CreateTX3IFemaleAndroid.description>
+	<ATPP_CreateTX3IFemaleAndroid.jobString>Loob TX3I androidi</ATPP_CreateTX3IFemaleAndroid.jobString>
+	<ATPP_CreateTX2IAndroid.label>Loo meessoost TX2I android</ATPP_CreateTX2IAndroid.label>
+	<ATPP_CreateTX2IAndroid.description>Loo meessoost TX2I android</ATPP_CreateTX2IAndroid.description>
+	<ATPP_CreateTX2IAndroid.jobString>Loob TX2I androidi</ATPP_CreateTX2IAndroid.jobString>
+	<ATPP_CreateTX2IFemaleAndroid.label>Loo naissoost TX2I android</ATPP_CreateTX2IFemaleAndroid.label>
+	<ATPP_CreateTX2IFemaleAndroid.description>Loo naissoost TX2I android</ATPP_CreateTX2IFemaleAndroid.description>
+	<ATPP_CreateTX2IFemaleAndroid.jobString>Loob TX2I androidi</ATPP_CreateTX2IFemaleAndroid.jobString>
+	<ATPP_CreateTX2KAndroid.label>Loo meessoost TX2K android</ATPP_CreateTX2KAndroid.label>
+	<ATPP_CreateTX2KAndroid.description>Loo meessoost TX2K android</ATPP_CreateTX2KAndroid.description>
+	<ATPP_CreateTX2KAndroid.jobString>Loob TX2K androidi</ATPP_CreateTX2KAndroid.jobString>
+	<ATPP_CreateTX2KFemaleAndroid.label>Loo naissoost TX2K android</ATPP_CreateTX2KFemaleAndroid.label>
+	<ATPP_CreateTX2KFemaleAndroid.description>Loo naissoost TX2K android</ATPP_CreateTX2KFemaleAndroid.description>
+	<ATPP_CreateTX2KFemaleAndroid.jobString>Loob TX2K androidi</ATPP_CreateTX2KFemaleAndroid.jobString>
+	<ATPP_CreateTX2KIAndroid.label>Loo TX2KI android</ATPP_CreateTX2KIAndroid.label>
+	<ATPP_CreateTX2KIAndroid.description>Loo TX2KI android</ATPP_CreateTX2KIAndroid.description>
+	<ATPP_CreateTX2KIAndroid.jobString>Loob TX2KI androidi</ATPP_CreateTX2KIAndroid.jobString>
+	<ATPP_CreateTX2KIFemaleAndroid.label>Loo naissoost TX2KI android</ATPP_CreateTX2KIFemaleAndroid.label>
+	<ATPP_CreateTX2KIFemaleAndroid.description>Loo naissoost TX2KI android</ATPP_CreateTX2KIFemaleAndroid.description>
+	<ATPP_CreateTX2KIFemaleAndroid.jobString>Loob TX2KI androidi</ATPP_CreateTX2KIFemaleAndroid.jobString>
+	<ATPP_MakeSyntheticSkinGland.label>sünteesi nahanääre</ATPP_MakeSyntheticSkinGland.label>
+	<ATPP_MakeSyntheticSkinGland.description>Sünteesi tehisnahanääre, kasutades süsivesinikest keemiakütust, neutroamiini säilituslahust, ravimeid ja kootud tekstiilkarkasse.</ATPP_MakeSyntheticSkinGland.description>
+	<ATPP_MakeSyntheticSkinGland.jobString>Sünteesib nahanääret.</ATPP_MakeSyntheticSkinGland.jobString>
+	<ATPP_GestateSyntheticSkinGland_Biotech.label>kasvata sünteetiline nahanääre</ATPP_GestateSyntheticSkinGland_Biotech.label>
+	<ATPP_GestateSyntheticSkinGland_Biotech.description>Kasvata Androidide tootmisnõus TX-seeria infiltrantidele elus sünteetilise nahanäärme maatriks, kasutades Biotechi hemogeenset lahust, rakutoitaineid ja meditsiinilisi stabilisaatoreid.</ATPP_GestateSyntheticSkinGland_Biotech.description>
+	<ATPP_GestateSyntheticSkinGland_Biotech.jobString>Kasvatab sünteetilist nahanääret.</ATPP_GestateSyntheticSkinGland_Biotech.jobString>
+	<ATPP_QE_GrowSyntheticSkinGland.label>kultiveeri sünteetiline nahanääre</ATPP_QE_GrowSyntheticSkinGland.label>
+	<ATPP_QE_GrowSyntheticSkinGland.description>Kultiveeri Questionable Ethicsi elundinõus elus biosünteetilise nahanäärme maatriks, kasutades orgaanilisi toitaineid ja keemilisi stabilisaatoreid.</ATPP_QE_GrowSyntheticSkinGland.description>
+	<ATPP_QE_GrowSyntheticSkinGland.jobString>Kultiveerib sünteetilist nahanääret.</ATPP_QE_GrowSyntheticSkinGland.jobString>
+	<ATPP_ApplySyntheticSkin.label>siirda sünteetiline nahk</ATPP_ApplySyntheticSkin.label>
+	<ATPP_ApplySyntheticSkin.description>Siirdab sellele TX jalaväeraamile sünteetilise nahamaatriksi, kattes palja mehaanilise endoskeleti inimlaadse sünteetilise elusnahaga. See parandab sotsiaalset vastuvõttu ja soojusisolatsiooni ning kõrvaldab vihmast tingitud roostetamise suurema süttivuse arvelt.</ATPP_ApplySyntheticSkin.description>
+	<ATPP_ApplySyntheticSkin.jobString>Siirdab androidile sünteetilist nahka.</ATPP_ApplySyntheticSkin.jobString>
+	<ATPP_RemoveSyntheticSkin.label>eemalda sünteetiline nahk</ATPP_RemoveSyntheticSkin.label>
+	<ATPP_RemoveSyntheticSkin.description>Eemaldab kirurgiliselt sellelt TX infiltrandilt sünteetilise nahakihi, paljastades selle all oleva tugevdatud jalaväe endoskeleti. Android kaotab sotsiaalse veetluse, kuid saab tulekindluse ja lahinguväljal vastupidavuse.</ATPP_RemoveSyntheticSkin.description>
+	<ATPP_RemoveSyntheticSkin.jobString>Eemaldab androidilt sünteetilist nahka.</ATPP_RemoveSyntheticSkin.jobString>
+	<ATPP_QE_CreateTX2KMale.label>koosta meessoost TX2K raam (QEE elundinõu)</ATPP_QE_CreateTX2KMale.label>
+	<ATPP_QE_CreateTX2KMale.description>Koosta mitteaktiivne meessoost TX2K eksoskelettraam, mis on kodeeritud genoomijärjestusena elundinõus kasvatamiseks.</ATPP_QE_CreateTX2KMale.description>
+	<ATPP_QE_CreateTX2KMale.jobString>Valmistab androidi</ATPP_QE_CreateTX2KMale.jobString>
+	<ATPP_QE_CreateTX2KFemale.label>koosta naissoost TX2K raam (QEE elundinõu)</ATPP_QE_CreateTX2KFemale.label>
+	<ATPP_QE_CreateTX2KFemale.description>Koosta mitteaktiivne naissoost TX2K eksoskelettraam, mis on kodeeritud genoomijärjestusena elundinõus kasvatamiseks.</ATPP_QE_CreateTX2KFemale.description>
+	<ATPP_QE_CreateTX2KFemale.jobString>Valmistab androidi</ATPP_QE_CreateTX2KFemale.jobString>
+	<ATPP_QE_CreateSX2KMaleSurrogate.label>koosta meessoost SX2K surrogaatraam (QEE elundinõu)</ATPP_QE_CreateSX2KMaleSurrogate.label>
+	<ATPP_QE_CreateSX2KMaleSurrogate.description>Koosta mitteaktiivne meessoost TX2K surrogaadi eksoskelettraam, mis on kodeeritud genoomijärjestusena elundinõus kasvatamiseks.</ATPP_QE_CreateSX2KMaleSurrogate.description>
+	<ATPP_QE_CreateSX2KMaleSurrogate.jobString>Valmistab androidi</ATPP_QE_CreateSX2KMaleSurrogate.jobString>
+	<ATPP_QE_CreateSX2KFemaleSurrogate.label>koosta naissoost SX2K surrogaatraam (QEE elundinõu)</ATPP_QE_CreateSX2KFemaleSurrogate.label>
+	<ATPP_QE_CreateSX2KFemaleSurrogate.description>Koosta mitteaktiivne naissoost TX2K surrogaadi eksoskelettraam, mis on kodeeritud genoomijärjestusena elundinõus kasvatamiseks.</ATPP_QE_CreateSX2KFemaleSurrogate.description>
+	<ATPP_QE_CreateSX2KFemaleSurrogate.jobString>Valmistab androidi</ATPP_QE_CreateSX2KFemaleSurrogate.jobString>
+	<ATPP_QE_CreateTX3Male.label>koosta meessoost TX3 raam (QEE elundinõu)</ATPP_QE_CreateTX3Male.label>
+	<ATPP_QE_CreateTX3Male.description>Koosta mitteaktiivne meessoost TX3 eksoskelettraam, mis on kodeeritud genoomijärjestusena elundinõus kasvatamiseks.</ATPP_QE_CreateTX3Male.description>
+	<ATPP_QE_CreateTX3Male.jobString>Valmistab androidi</ATPP_QE_CreateTX3Male.jobString>
+	<ATPP_QE_CreateTX3Female.label>koosta naissoost TX3 raam (QEE elundinõu)</ATPP_QE_CreateTX3Female.label>
+	<ATPP_QE_CreateTX3Female.description>Koosta mitteaktiivne naissoost TX3 eksoskelettraam, mis on kodeeritud genoomijärjestusena elundinõus kasvatamiseks.</ATPP_QE_CreateTX3Female.description>
+	<ATPP_QE_CreateTX3Female.jobString>Valmistab androidi</ATPP_QE_CreateTX3Female.jobString>
+	<ATPP_QE_CreateSX3MaleSurrogate.label>koosta meessoost SX3 surrogaatraam (QEE elundinõu)</ATPP_QE_CreateSX3MaleSurrogate.label>
+	<ATPP_QE_CreateSX3MaleSurrogate.description>Koosta mitteaktiivne meessoost TX3 surrogaadi eksoskelettraam, mis on kodeeritud genoomijärjestusena elundinõus kasvatamiseks.</ATPP_QE_CreateSX3MaleSurrogate.description>
+	<ATPP_QE_CreateSX3MaleSurrogate.jobString>Valmistab androidi</ATPP_QE_CreateSX3MaleSurrogate.jobString>
+	<ATPP_QE_CreateSX3FemaleSurrogate.label>koosta naissoost SX3 surrogaatraam (QEE elundinõu)</ATPP_QE_CreateSX3FemaleSurrogate.label>
+	<ATPP_QE_CreateSX3FemaleSurrogate.description>Koosta mitteaktiivne naissoost TX3 surrogaadi eksoskelettraam, mis on kodeeritud genoomijärjestusena elundinõus kasvatamiseks.</ATPP_QE_CreateSX3FemaleSurrogate.description>
+	<ATPP_QE_CreateSX3FemaleSurrogate.jobString>Valmistab androidi</ATPP_QE_CreateSX3FemaleSurrogate.jobString>
+	<ATPP_QE_CreateTX4Male.label>koosta meessoost TX4 raam (QEE elundinõu)</ATPP_QE_CreateTX4Male.label>
+	<ATPP_QE_CreateTX4Male.description>Koosta mitteaktiivne meessoost TX4 eksoskelettraam, mis on kodeeritud genoomijärjestusena elundinõus kasvatamiseks.</ATPP_QE_CreateTX4Male.description>
+	<ATPP_QE_CreateTX4Male.jobString>Valmistab androidi</ATPP_QE_CreateTX4Male.jobString>
+	<ATPP_QE_CreateTX4Female.label>koosta naissoost TX4 raam (QEE elundinõu)</ATPP_QE_CreateTX4Female.label>
+	<ATPP_QE_CreateTX4Female.description>Koosta mitteaktiivne naissoost TX4 eksoskelettraam, mis on kodeeritud genoomijärjestusena elundinõus kasvatamiseks.</ATPP_QE_CreateTX4Female.description>
+	<ATPP_QE_CreateTX4Female.jobString>Valmistab androidi</ATPP_QE_CreateTX4Female.jobString>
+	<ATPP_QE_CreateSX4MaleSurrogate.label>koosta meessoost SX4 surrogaatraam (QEE elundinõu)</ATPP_QE_CreateSX4MaleSurrogate.label>
+	<ATPP_QE_CreateSX4MaleSurrogate.description>Koosta mitteaktiivne meessoost TX4 surrogaadi eksoskelettraam, mis on kodeeritud genoomijärjestusena elundinõus kasvatamiseks.</ATPP_QE_CreateSX4MaleSurrogate.description>
+	<ATPP_QE_CreateSX4MaleSurrogate.jobString>Valmistab androidi</ATPP_QE_CreateSX4MaleSurrogate.jobString>
+	<ATPP_QE_CreateSX4FemaleSurrogate.label>koosta naissoost SX4 surrogaatraam (QEE elundinõu)</ATPP_QE_CreateSX4FemaleSurrogate.label>
+	<ATPP_QE_CreateSX4FemaleSurrogate.description>Koosta mitteaktiivne naissoost TX4 surrogaadi eksoskelettraam, mis on kodeeritud genoomijärjestusena elundinõus kasvatamiseks.</ATPP_QE_CreateSX4FemaleSurrogate.description>
+	<ATPP_QE_CreateSX4FemaleSurrogate.jobString>Valmistab androidi</ATPP_QE_CreateSX4FemaleSurrogate.jobString>
+</LanguageData>

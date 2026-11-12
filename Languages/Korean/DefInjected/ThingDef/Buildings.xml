@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATPP_ReloadStation.label>안드로이드 충전소</ATPP_ReloadStation.label>
+  <ATPP_ReloadStation.description>안드로이드를 위한 충전소로, 최대 8기의 안드로이드를 동시에 수용하여 충전할 수 있습니다.</ATPP_ReloadStation.description>
+  <ATPP_SkyMindLAN.label>스카이마인드 V1 안테나</ATPP_SkyMindLAN.label>
+  <ATPP_SkyMindLAN.description>스카이마인드 V1 안테나는 최대 3개의 클라이언트를 동시에 수용하며, 정착민의 의식을 다른 대상에게 업로드하고 SX 시리즈 안드로이드나 생체 대리체를 원격 조종할 수 있는 무선 네트워크를 방출합니다.</ATPP_SkyMindLAN.description>
+  <ATPP_SkyMindWAN.label>스카이마인드 V2 안테나</ATPP_SkyMindWAN.label>
+  <ATPP_SkyMindWAN.description>스카이마인드 V2 안테나는 최대 15개의 클라이언트를 동시에 수용하며, 정착민의 의식을 다른 대상에게 업로드하고 SX 시리즈 안드로이드나 생체 대리체를 원격 조종할 수 있는 무선 네트워크를 방출합니다.</ATPP_SkyMindWAN.description>
+  <ATPP_SkyMindRelayTower.label>스카이마인드 중계탑</ATPP_SkyMindRelayTower.label>
+  <ATPP_SkyMindRelayTower.description>스카이마인드 중계탑은 안테나의 신호를 증폭하여 장거리에서 대리체 조종 성능이 저하되는 것을 방지합니다.</ATPP_SkyMindRelayTower.description>
+  <ATPP_I100Security.label>I-100 (보안)</ATPP_I100Security.label>
+  <ATPP_I100Security.description>사이버 공격과 바이러스로부터 스카이마인드 네트워크를 보호하는 방화벽 서버입니다.</ATPP_I100Security.description>
+  <ATPP_I100Hacking.label>I-100 (해킹)</ATPP_I100Hacking.label>
+  <ATPP_I100Hacking.description>스카이마인드 네트워크에 연결된 클라이언트를 해킹할 수 있게 해주는 해킹 서버입니다.</ATPP_I100Hacking.description>
+  <ATPP_I100Skill.label>I-100 (스킬)</ATPP_I100Skill.label>
+  <ATPP_I100Skill.description>스카이마인드 네트워크에 연결된 안드로이드의 스킬 포인트를 높일 수 있게 해주는 스킬 서버입니다.</ATPP_I100Skill.description>
+  <ATPP_I300Security.label>I-300 (보안)</ATPP_I300Security.label>
+  <ATPP_I300Security.description>사이버 공격과 바이러스로부터 스카이마인드 네트워크를 보호하는 방화벽 서버입니다.</ATPP_I300Security.description>
+  <ATPP_I300Hacking.label>I-300 (해킹)</ATPP_I300Hacking.label>
+  <ATPP_I300Hacking.description>스카이마인드 네트워크에 연결된 클라이언트를 해킹할 수 있게 해주는 해킹 서버입니다.</ATPP_I300Hacking.description>
+  <ATPP_I300Skill.label>I-300 (스킬)</ATPP_I300Skill.label>
+  <ATPP_I300Skill.description>스카이마인드 네트워크에 연결된 안드로이드의 스킬 포인트를 높일 수 있게 해주는 스킬 서버입니다.</ATPP_I300Skill.description>
+  <ATPP_I500Security.label>I-500 (보안)</ATPP_I500Security.label>
+  <ATPP_I500Security.description>사이버 공격과 바이러스로부터 스카이마인드 네트워크를 보호하는 방화벽 서버입니다.</ATPP_I500Security.description>
+  <ATPP_I500Hacking.label>I-500 (해킹)</ATPP_I500Hacking.label>
+  <ATPP_I500Hacking.description>스카이마인드 네트워크에 연결된 클라이언트를 해킹할 수 있게 해주는 해킹 서버입니다.</ATPP_I500Hacking.description>
+  <ATPP_I500Skill.label>I-500 (스킬)</ATPP_I500Skill.label>
+  <ATPP_I500Skill.description>스카이마인드 네트워크에 연결된 안드로이드의 스킬 포인트를 높일 수 있게 해주는 스킬 서버입니다.</ATPP_I500Skill.description>
+  <ATPP_AndroidPod.label>안드로이드 포드</ATPP_AndroidPod.label>
+  <ATPP_AndroidPod.description>안드로이드를 수리하거나 호스트 대기 중(대리체의 경우) 보관하며 전력이 연결된 경우 충전할 수 있는 안드로이드 포드입니다.</ATPP_AndroidPod.description>
+  <ATPP_AndroidPodMech.label>M7 포드</ATPP_AndroidPodMech.label>
+  <ATPP_AndroidPodMech.description>M7 메카노이드를 수리하거나 호스트 대기 중(대리체의 경우) 보관하며 전력이 연결된 경우 충전할 수 있는 거대 포드입니다.</ATPP_AndroidPodMech.description>
+  <ATPP_SkyCloudCore.label>스카이크라우드 코어</ATPP_SkyCloudCore.label>
+  <ATPP_SkyCloudCore.description>스카이마인드 네트워크에 연결된 모든 장치를 제어할 수 있을 뿐만 아니라 정착민의 디지털화된 두뇌를 메모리에 업로드하여 거의 불멸하고 전지한 존재로 만들 수 있는 슈퍼컴퓨터입니다.</ATPP_SkyCloudCore.description>
+</LanguageData>

@@ -1,193 +1,132 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- Alerts -->
 	<ATPP_AlertHot3Devices>Számítógép túlmelegedés</ATPP_AlertHot3Devices>
 	<ATPP_AlertHot3DevicesDesc>Egy vagy több számítógéped elérte a maximális hőmérsékleti határértéket! Kérlek, gyorsan állítsd vissza a megfelelő hőmérsékletet!</ATPP_AlertHot3DevicesDesc>
 	<ATPP_AlertHot2Devices>Számítógép meleg</ATPP_AlertHot2Devices>
 	<ATPP_AlertHot2DevicesDesc>Egy vagy több számítógéped meleg, kérlek, gyorsan csökkentsd a környezeti hőmérsékletet!</ATPP_AlertHot2DevicesDesc>
-	
 	<ATPP_AlertUnsecurisedClients>{0} védtelen SkyMind kliens</ATPP_AlertUnsecurisedClients>
 	<ATPP_AlertUnsecurisedClientsDesc>Figyelem: feltehetőleg {0} olyan SkyMind kliensed van, amelyet fel lehet törni a hálózaton keresztül. Építs biztonsági szervereket ennek elkerülésére.</ATPP_AlertUnsecurisedClientsDesc>
-	
-	<!-- Incidents -->
 	<ATPP_IncidentSurrogateHackingVirus>SX-vírus</ATPP_IncidentSurrogateHackingVirus>
 	<ATPP_IncidentSurrogateHackingCryptolocker>SX-Cryptolocker</ATPP_IncidentSurrogateHackingCryptolocker>
 	<ATPP_IncidentSurrogateHackingExplosiveVirus>SX-robbanóvírus</ATPP_IncidentSurrogateHackingExplosiveVirus>
 	<ATPP_IncidentSurrogateHackingLiteDesc>A biztonsági rendszered semlegesítette a támadás egy részét, azonban {0} helyettes android néhány alrendszere kompromittálódott.</ATPP_IncidentSurrogateHackingLiteDesc>
-	
-	<ATPP_IncidentSurrogateHackingHardDesc>A biztonsági rendszered nem védi a teljes helyettes android flottádat, {0} android operációs rendszere teljesen kompromittálódott.</ATPP_IncidentSurrogateHackingHardDesc>	
+	<ATPP_IncidentSurrogateHackingHardDesc>A biztonsági rendszered nem védi a teljes helyettes android flottádat, {0} android operációs rendszere teljesen kompromittálódott.</ATPP_IncidentSurrogateHackingHardDesc>
 	<ATPP_IncidentVirusedDesc>Ezek a helyettes androidok teljesen a vírus irányítása alá kerültek, és most megtámadnak téged!</ATPP_IncidentVirusedDesc>
 	<ATPP_IncidentVirusedExplosiveDesc>Ezek a helyettes androidok teljesen a vírus irányítása alá kerültek, megtámadnak téged, és a visszaszámlálás végén felrobbantják a belső akkumulátorukat!</ATPP_IncidentVirusedExplosiveDesc>
 	<ATPP_IncidentCryptolockerDesc>Az összes fertőzött helyettes android teljesen használhatatlan. Ez (remélhetőleg) visszavonható váltságdíj fizetésével a támadás mögött álló frakciónak.</ATPP_IncidentCryptolockerDesc>
-	
 	<ATPP_IncidentDeviceHackingVirus>Vírus</ATPP_IncidentDeviceHackingVirus>
 	<ATPP_IncidentDeviceHackingCryptolocker>Cryptolocker</ATPP_IncidentDeviceHackingCryptolocker>
 	<ATPP_IncidentDeviceHackingExplosiveVirus>Robbanóvírus</ATPP_IncidentDeviceHackingExplosiveVirus>
 	<ATPP_IncidentDeviceHackingLiteDesc>A biztonsági rendszered semlegesítette a támadás egy részét, azonban {0} csatlakoztatott eszköz átmenetileg kompromittálódott.</ATPP_IncidentDeviceHackingLiteDesc>
-	
-	<ATPP_IncidentDeviceHackingHardDesc>A biztonsági rendszered nem védi az összes csatlakoztatott eszközt, {0} csatlakoztatott eszköz operációs rendszere teljesen kompromittálódott.</ATPP_IncidentDeviceHackingHardDesc>	
+	<ATPP_IncidentDeviceHackingHardDesc>A biztonsági rendszered nem védi az összes csatlakoztatott eszközt, {0} csatlakoztatott eszköz operációs rendszere teljesen kompromittálódott.</ATPP_IncidentDeviceHackingHardDesc>
 	<ATPP_IncidentDeviceVirusedDesc>Ezek az eszközök mostantól teljesen a vírus irányítása alatt állnak!</ATPP_IncidentDeviceVirusedDesc>
 	<ATPP_IncidentDeviceVirusedExplosiveDesc>Ezek az eszközök teljesen a vírus irányítása alá kerültek, és a visszaszámlálás végén felrobbannak!</ATPP_IncidentDeviceVirusedExplosiveDesc>
 	<ATPP_IncidentDeviceCryptolockerDesc>Az összes fertőzött eszköz teljesen használhatatlan. Ez (remélhetőleg) visszavonható váltságdíj fizetésével a támadás mögött álló frakciónak.</ATPP_IncidentDeviceCryptolockerDesc>
-	
 	<ATPP_LetterFactionRansomware>Zsarolóvírus</ATPP_LetterFactionRansomware>
 	<ATPP_LetterFactionRansomwareSkillStolenDesc>{0} megrongálta a(z) '{1}' jártasságnak megfelelő memóriaterületeket {2} agyában a SkyMind hálózaton keresztül.</ATPP_LetterFactionRansomwareSkillStolenDesc>
 	<ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>{0} megfertőzte {1} agyát, és telepítette a rossz tulajdonságot: '{2}', a SkyMind hálózaton keresztül.</ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>
-	
-	<!-- Needs -->
 	<ATPP_EnergyNeed>Energia</ATPP_EnergyNeed>
 	<ATPP_EnergyNeedDesc>Az energia az android belső akkumulátorában lévő energiamennyiség. Ha eléri a nullát, az android egyre súlyosabban meghibásodik, és végül leáll (meghal).</ATPP_EnergyNeedDesc>
-	
-	
-	<!-- NanoKits -->
 	<ATPP_NanoKitsNoCare>Nincs javítás</ATPP_NanoKitsNoCare>
 	<ATPP_NanoKitsNoKitJustVisit>Technikus látogatása nanokészlet nélkül</ATPP_NanoKitsNoKitJustVisit>
 	<ATPP_NanoKitsBasic>Alap nanokészlet</ATPP_NanoKitsBasic>
 	<ATPP_NanoKitsIntermediate>Közepes nanokészlet</ATPP_NanoKitsIntermediate>
 	<ATPP_NanoKitsAdvanced>Fejlett nanokészlet</ATPP_NanoKitsAdvanced>
-	
-	<!-- CompInspectPane -->
 	<ATPP_UploadPercentage>Tudatfeltöltés: {0}%</ATPP_UploadPercentage>
 	<ATPP_DownloadPercentage>Tudatletöltés: {0}%</ATPP_DownloadPercentage>
-	
 	<ATPP_PermutationPercentage>Tudatcsere: {0}%</ATPP_PermutationPercentage>
 	<ATPP_DuplicationPercentage>Tudatduplikáció: {0}%</ATPP_DuplicationPercentage>
 	<ATPP_UploadSkyCloudPercentage>Tudat feltöltve a SkyCloudba: {0}%</ATPP_UploadSkyCloudPercentage>
 	<ATPP_DownloadFromSkyCloudPercentage>Tudat letöltve a SkyCloudból: {0}%</ATPP_DownloadFromSkyCloudPercentage>
-	
 	<ATPP_SkyMindDetected>Csatlakozva a SkyMindhoz</ATPP_SkyMindDetected>
 	<ATPP_RemotelyControlledBy>Távolról irányítja: {0}.</ATPP_RemotelyControlledBy>
 	<ATPP_RemotelyControl>{0} távvezérlése</ATPP_RemotelyControl>
-	
 	<ATPP_CompHotSensitiveHot3Text>A hőmérséklet túl magas!</ATPP_CompHotSensitiveHot3Text>
 	<ATPP_CompHotSensitiveHot2Text>Figyelmeztetés: magas hőmérséklet</ATPP_CompHotSensitiveHot2Text>
 	<ATPP_CompHotSensitiveHot1Text>A hőmérséklet kissé meleg</ATPP_CompHotSensitiveHot1Text>
 	<ATPP_CompHotSensitiveHot0Text>Ideális üzemi hőmérséklet</ATPP_CompHotSensitiveHot0Text>
-	
 	<ATPP_CryptoLockedSurrogate>Titkosítva, használhatatlan!</ATPP_CryptoLockedSurrogate>
 	<ATPP_ExplosiveVirus>Robbanóvírus: {0} másodperc az akkumulátor felrobbanásáig!</ATPP_ExplosiveVirus>
 	<ATPP_TempHackingLosingControlIn>Irányítás elvesztése {0} másodperc múlva</ATPP_TempHackingLosingControlIn>
-	
 	<ATPP_BatteryLevel>Akkumulátorszint: {0}%</ATPP_BatteryLevel>
 	<ATPP_TempInfection>Fertőzés vége: {0} múlva</ATPP_TempInfection>
-	
 	<ATPP_SkyCloudCoreBooting>Szerver indítása ({0} másodperc van hátra)</ATPP_SkyCloudCoreBooting>
-	
 	<ATPP_NaniteFrameworkRepairingInProgress>Váz javítása folyamatban {0}%</ATPP_NaniteFrameworkRepairingInProgress>
 	<ATPP_VX3SurrogateTypePrimary>Elsődleges helyettes</ATPP_VX3SurrogateTypePrimary>
 	<ATPP_VX3SurrogateTypeSecondary>Másodlagos helyettes</ATPP_VX3SurrogateTypeSecondary>
-	
 	<ATPP_MindAbsorptionProgress>Tudat elnyelése folyamatban {0}%</ATPP_MindAbsorptionProgress>
-	
 	<ATPP_Rusted>Rozsdás</ATPP_Rusted>
-	
 	<ATPP_BatteryExplodeInProgress>Akkumulátor robbanás {0}%</ATPP_BatteryExplodeInProgress>
-	
-	<!-- AutoDoor -->
 	<ATPP_AutoDoorOpen>Kinyitás</ATPP_AutoDoorOpen>
 	<ATPP_AutoDoorOpenDescription>Távoli kinyitás egy SkyCloud magon keresztül.</ATPP_AutoDoorOpenDescription>
 	<ATPP_AutoDoorClose>Becsukás</ATPP_AutoDoorClose>
 	<ATPP_AutoDoorCloseDescription>Távoli becsukás egy SkyCloud szerveren keresztül.</ATPP_AutoDoorCloseDescription>
 	<ATPP_AutoDoorOpenMoteText>Kinyitás SkyCloudon keresztül</ATPP_AutoDoorOpenMoteText>
 	<ATPP_AutoDoorCloseMoteText>Becsukás SkyCloudon keresztül</ATPP_AutoDoorCloseMoteText>
-	
-	<!-- AutoFlickering -->
 	<ATPP_FlickEnable>Bekapcsolás SkyCloudon keresztül</ATPP_FlickEnable>
 	<ATPP_FlickDisable>Kikapcsolás SkyCloudon keresztül</ATPP_FlickDisable>
-	
-	<!-- Letters -->
 	<ATPP_LetterSurrogateDisabled>{0} helyettes kiiktatva</ATPP_LetterSurrogateDisabled>
 	<ATPP_LetterSurrogateDisabledDesc>A(z) {0} helyettes android már nem működőképes fizikai épségének súlyos megsértése miatt.</ATPP_LetterSurrogateDisabledDesc>
-	
 	<ATPP_LetterUploadOK>Feltöltés kész</ATPP_LetterUploadOK>
 	<ATPP_LetterUploadOKDesc>A(z) {0} tudatának feltöltése befejeződött, és átkerült {1} mesterséges agyába. {1} mostantól halott (tudata felülírva).</ATPP_LetterUploadOKDesc>
-	
 	<ATPP_LetterPermuteOK>Tudatcsere kész</ATPP_LetterPermuteOK>
 	<ATPP_LetterPermuteOKDesc>A tudatcsere befejeződött, {0} és {1} testet cserélt.</ATPP_LetterPermuteOKDesc>
-	
 	<ATPP_LetterDuplicateOK>Duplikáció kész</ATPP_LetterDuplicateOK>
 	<ATPP_LetterDuplicateOKDesc>A tudatduplikáció befejeződött, {1} agya mostantól {0} agyának másolatát tartalmazza, {1} halottnak tekinthető.</ATPP_LetterDuplicateOKDesc>
-	
 	<ATPP_LetterSkyCloudUploadOK>SkyCloud feltöltés kész</ATPP_LetterSkyCloudUploadOK>
 	<ATPP_LetterSkyCloudUploadOKDesc>A tudatfeltöltés a SkyCloudba befejeződött, {0} tudata mostantól {1} központi memóriájában van tárolva.</ATPP_LetterSkyCloudUploadOKDesc>
-	
 	<ATPP_LetterSkyCloudReplicateOK>Replikáció kész</ATPP_LetterSkyCloudReplicateOK>
 	<ATPP_LetterSkyCloudReplicateOKDesc>{0} neurális hálózatának replikációja {1} memóriájában befejeződött.</ATPP_LetterSkyCloudReplicateOKDesc>
-	
 	<ATPP_LetterSkyCloudDownloadOK>SkyCloud letöltés kész</ATPP_LetterSkyCloudDownloadOK>
 	<ATPP_LetterSkyCloudDownloadOKDesc>A tudatletöltés a SkyCloudból befejeződött, {0} tudata mostantól {1} központi memóriájában van tárolva.</ATPP_LetterSkyCloudDownloadOKDesc>
-	
 	<ATPP_LetterSkyCloudMigrateOK>SkyCloud tudatmigráció kész</ATPP_LetterSkyCloudMigrateOK>
 	<ATPP_LetterSkyCloudMigrateOKDesc>{0} tudatának migrációja {1} helyről {2} helyre befejeződött.</ATPP_LetterSkyCloudMigrateOKDesc>
-	
 	<ATPP_LetterInterruptedUpload>Feltöltés sikertelen</ATPP_LetterInterruptedUpload>
 	<ATPP_LetterInterruptedUploadDesc>Végzetes hiba: A tudatátvitel megszakadt, ami mindkét agy végleges korrupciójához (halálához) vezetett.{0}</ATPP_LetterInterruptedUploadDesc>
 	<ATPP_LetterInterruptedUploadDescCompHostDead>A fogadó gazdatest halála</ATPP_LetterInterruptedUploadDescCompHostDead>
 	<ATPP_LetterInterruptedUploadDescCompSourceDead>A tudatkibocsátó forrás halála</ATPP_LetterInterruptedUploadDescCompSourceDead>
 	<ATPP_LetterInterruptedUploadDescCompRandomError>Ismeretlen hiba történt</ATPP_LetterInterruptedUploadDescCompRandomError>
 	<ATPP_LetterInterruptedUploadDescCompDiconnectionError>Az egyik vagy mindkét telepes kapcsolata megszakadt a SkyMinddal.</ATPP_LetterInterruptedUploadDescCompDiconnectionError>
-	
 	<ATPP_LetterFactionScam>Átverés</ATPP_LetterFactionScam>
 	<ATPP_LetterFactionScamCryptolockerDesc>{0} úgy döntött, hogy nem törli a kolóniádat megfertőző cryptolocker vírust, átvertek...</ATPP_LetterFactionScamCryptolockerDesc>
 	<ATPP_LetterFactionScamRansomwareDesc>{0} úgy döntött, hogy nem vonja vissza a zsarolóvírusa hatását, átvertek...</ATPP_LetterFactionScamRansomwareDesc>
-	
 	<ATPP_CryptolockerNeedPayRansomTitle>Cryptolocker váltságdíj</ATPP_CryptolockerNeedPayRansomTitle>
 	<ATPP_CryptolockerNeedPayRansom>{0} felvette veled a kapcsolatot rádión. Ők állnak a cryptolocker vírustámadás mögött, és {1} ezüstért cserébe hajlandóak eltávolítani a vírust.</ATPP_CryptolockerNeedPayRansom>
-	
 	<ATPP_RansomNeedPayRansomTitle>Zsarolóvírus váltságdíj</ATPP_RansomNeedPayRansomTitle>
 	<ATPP_RansomNeedPayRansomCorruptedSKill>{0} felvette veled a kapcsolatot rádión. Ők állnak a zsarolóvírus-támadás mögött, és {3} ezüstért cserébe visszaállítják {2} megrongálódott '{1}' jártasságát.</ATPP_RansomNeedPayRansomCorruptedSKill>
 	<ATPP_RansomNeedPayRansomDownloadedTrait>{0} felvette veled a kapcsolatot rádión. Ők állnak a zsarolóvírus-támadás mögött, és {3} ezüstért cserébe eltávolítják a telepített rossz tulajdonságot: '{1}' {2} esetében.</ATPP_RansomNeedPayRansomDownloadedTrait>
-	
 	<ATPP_ComptHeatSensitiveComputerMeltTitle>Szerver túlmelegedés</ATPP_ComptHeatSensitiveComputerMeltTitle>
-    <ATPP_ComptHeatSensitiveComputerMeltDesc>Egy szerver felrobbant a magas üzemi hőmérséklete miatt!</ATPP_ComptHeatSensitiveComputerMeltDesc>
-	
+	<ATPP_ComptHeatSensitiveComputerMeltDesc>Egy szerver felrobbant a magas üzemi hőmérséklete miatt!</ATPP_ComptHeatSensitiveComputerMeltDesc>
 	<ATPP_destroyedMindsDueToDestroyedSkyCloudCore>{0} tudat elveszett</ATPP_destroyedMindsDueToDestroyedSkyCloudCore>
 	<ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>A(z) {0} SkyCloud mag megsemmisülése következtében a központi memóriájában tárolt mind a(z) {1} tudat elveszett.</ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>
-	
 	<ATPP_LetterHackingPointsRemoved>Hackelési pontok elvesztek</ATPP_LetterHackingPointsRemoved>
 	<ATPP_LetterHackingPointsRemovedDesc>A településeden minden hackelőszerver offline állapotban van, ami azt jelenti, hogy {0} pont elveszett, mivel már nem tárolhatók semmilyen adathordozón!</ATPP_LetterHackingPointsRemovedDesc>
-	
 	<ATPP_LetterSkillPointsRemoved>Jártasságpontok elvesztek</ATPP_LetterSkillPointsRemoved>
 	<ATPP_LetterSkillPointsRemovedDesc>A településeden minden jártasságszerver offline állapotban van, ami azt jelenti, hogy {0} pont elveszett, mivel már nem tárolhatók semmilyen adathordozón!</ATPP_LetterSkillPointsRemovedDesc>
-	
 	<ATPP_SkyCloudCoreBooted>{0} elindult</ATPP_SkyCloudCoreBooted>
-    <ATPP_SkyCloudCoreBootedDesc>A(z) {0} SkyCloud szerver sikeresen elindult, és mostantól használható.</ATPP_SkyCloudCoreBootedDesc>
-	
+	<ATPP_SkyCloudCoreBootedDesc>A(z) {0} SkyCloud szerver sikeresen elindult, és mostantól használható.</ATPP_SkyCloudCoreBootedDesc>
 	<ATPP_LetterInterruptedSkyCloudReplication>Replikáció sikertelen</ATPP_LetterInterruptedSkyCloudReplication>
 	<ATPP_LetterInterruptedSkyCloudReplicationDesc>{0} tudatának replikációja nem sikerült, mert a fogadó SkyCloud mag offline állapotban van.</ATPP_LetterInterruptedSkyCloudReplicationDesc>
-	
 	<ATPP_LetterInterruptedSkyCloudMigration>Migráció sikertelen</ATPP_LetterInterruptedSkyCloudMigration>
 	<ATPP_LetterInterruptedSkyCloudMigrationDesc>{0} tudatának migrációja nem sikerült, mert a cél SkyCloud mag offline állapotban van.</ATPP_LetterInterruptedSkyCloudMigrationDesc>
-	
 	<ATPP_LetterTraitorOffline>Áruló offline</ATPP_LetterTraitorOffline>
 	<ATPP_LetterTraitorOfflineDesc>{0} elárulta a frakcióját azzal, hogy hagyta magát beszervezni általad; a frakciója észrevette ezt és letartóztatták (ezért lekapcsolták az általa irányított helyettesről).</ATPP_LetterTraitorOfflineDesc>
-	
 	<ATPP_LetterInterruptedMindAbsorption>Tudatelnyelés sikertelen</ATPP_LetterInterruptedMindAbsorption>
 	<ATPP_LetterInterruptedMindAbsorptionDesc>{0} tudatának elnyelése megszakadt vagy a SkyMind kapcsolat bontása miatt, vagy mert egyetlen pontszerver sem üzemel.</ATPP_LetterInterruptedMindAbsorptionDesc>
-	
 	<ATPP_MindAbsorptionDone>Tudatelnyelés befejeződött</ATPP_MindAbsorptionDone>
 	<ATPP_MindAbsorptionDoneDesc>{0} tudatának elnyelése befejeződött, {1} jártasságpont szerezve.</ATPP_MindAbsorptionDoneDesc>
-	
 	<ATPP_LetterExternalSurrogateEscape>Helyettes irányító szökése</ATPP_LetterExternalSurrogateEscape>
 	<ATPP_LetterExternalSurrogateEscapeDesc>{0}, a toborozni kívánt helyettes irányítója úgy döntött, hogy csatlakozik a kolóniádhoz. Lekapcsolódik a helyetteséről, és észrevétlenül elmenekül az ellenséges bázisról, hogy néhány napon belül csatlakozzon a kolóniádhoz anélkül, hogy pontosan tudnánk mikor.</ATPP_LetterExternalSurrogateEscapeDesc>
-	
 	<ATPP_LetterExternalSurrogateControllerJoin>Volt fogoly csatlakozott</ATPP_LetterExternalSurrogateControllerJoin>
 	<ATPP_LetterExternalSurrogateControllerJoinDesc>{0}, egy helyettes irányító, akit bebörtönöztél és sikeresen megtérítettél, megérkezett a kolóniádhoz és csatlakozott hozzátok.</ATPP_LetterExternalSurrogateControllerJoinDesc>
-	
 	<ATPP_LetterExternalSurrogateControllerCannotJoin>Volt fogoly nem tudott csatlakozni</ATPP_LetterExternalSurrogateControllerCannotJoin>
 	<ATPP_LetterExternalSurrogateControllerCannotJoinDesc>{0}, egy helyettes irányító, akit bebörtönöztél és sikeresen megtérítettél, megpróbálta elérni a kolóniádat, de ismeretlen okból nem járt sikerrel, így távozott.</ATPP_LetterExternalSurrogateControllerCannotJoinDesc>
-	
 	<ATPP_LetterExternalSurrogateDisconnect>Irányító lekapcsolódása</ATPP_LetterExternalSurrogateDisconnect>
 	<ATPP_LetterExternalSurrogateDisconnectDesc>{0}, a rabszolgává tenni kívánt helyettes irányítója lekapcsolódott, mivel ő és a frakciója úgy érzi, többé nem juthatnak információhoz a kolóniádtól, és a rabszolgaként maradás időpocsékolás lenne.</ATPP_LetterExternalSurrogateDisconnectDesc>
-	
 	<ATPP_LetterKidnappedM8Disconnected>M8 lekapcsolódás</ATPP_LetterKidnappedM8Disconnected>
 	<ATPP_LetterKidnappedM8DisconnectedDesc>Az elrabolt M8-ad ({0}, gazdatest: {1}) elrablói végül hozzáfértek a kommunikációs áramkörökhöz. Észrevették, hogy a gép az integrált SkyMind antennáján keresztül kommunikál, ezért lekapcsolták. Így a továbbiakban nem tudsz bejelentkezni ide: {1}.</ATPP_LetterKidnappedM8DisconnectedDesc>
-	
-	<!-- Designators -->
 	<ATPP_DesignatorNeedSelectSX>Hiba: Érvényes, a SkyMind hálózathoz csatlakozó eszközt kell kiválasztanod!</ATPP_DesignatorNeedSelectSX>
 	<ATPP_DesignatorNeedSelectSXToHack>Hiba: Egy másik frakció által irányított helyettes androidot kell kiválasztanod!</ATPP_DesignatorNeedSelectSXToHack>
-	
-	<!-- Comps -->
 	<ATPP_SkyMindConn>Csatlakozás a SkyMindhoz</ATPP_SkyMindConn>
 	<ATPP_SkyMindConnDesc>Csatlakoztatja ezt a telepest a SkyMind hálózathoz, lehetővé téve a tudat feltöltését/cseréjét/duplikálását, vagy az SX sorozatú androidok és biológiai helyettesek távvezérlését.</ATPP_SkyMindConnDesc>
 	<ATPP_SkyMindAutoConn>Automatikus csatlakozás</ATPP_SkyMindAutoConn>
@@ -209,32 +148,23 @@
 	<ATPP_FreeControllerInCaravanDesc>Ennek a helyettesnek a csatlakoztatása egy szabad irányítóhoz egy karavánban</ATPP_FreeControllerInCaravanDesc>
 	<ATPP_AndroidSurrogateReconnectToLastController>Újracsatlakozás</ATPP_AndroidSurrogateReconnectToLastController>
 	<ATPP_AndroidSurrogateReconnectToLastControllerDesc>A helyettes újracsatlakoztatása (ha lehetséges) a legutóbbi felhasználóhoz, aki használta</ATPP_AndroidSurrogateReconnectToLastControllerDesc>
-	
-	
 	<ATPP_NoVX2Recipient>Nincs elérhető telepes (VX2 csip agyimplantátummal kell rendelkezniük).</ATPP_NoVX2Recipient>
 	<ATPP_NoSkyCloudCoreAvailable>Nincs elérhető SkyCloud mag</ATPP_NoSkyCloudCoreAvailable>
 	<ATPP_ConsciousnessUploadNoRecipient>Nincs elérhető célállomás a letöltéshez.</ATPP_ConsciousnessUploadNoRecipient>
 	<ATPP_ConsciousnessSelectDestination>Válassz cél gazdatestet</ATPP_ConsciousnessSelectDestination>
 	<ATPP_UploadConsciousness>Feltöltés</ATPP_UploadConsciousness>
 	<ATPP_UploadConsciousnessDesc>Tudat feltöltése ebből az androidból egy másikba.</ATPP_UploadConsciousnessDesc>
-	
 	<ATPP_WarningSkyMindDisconnectionRisk>Figyelem: a művelet során nem történhet lekapcsolódás a SkyMind hálózatról, mert az károsítja az agyukat, és a halálukhoz vezet</ATPP_WarningSkyMindDisconnectionRisk>
-	
 	<ATPP_UploadConsciousnessConfirm>Tudat feltöltése</ATPP_UploadConsciousnessConfirm>
 	<ATPP_UploadConsciousnessConfirmDesc>A megerősítéssel {0} feltölti tudatát {1} testébe, ami elpusztítja {1} tudatát (megöli őt), {0} teste pedig leáll. Biztosan folytatni akarod?</ATPP_UploadConsciousnessConfirmDesc>
-	
 	<ATPP_PermuteConsciousnessConfirm>Tudatcsere</ATPP_PermuteConsciousnessConfirm>
 	<ATPP_PermuteConsciousnessConfirmDesc>A megerősítéssel {0} és {1} megcserélik a tudatukat és testet cserélnek. Biztosan folytatni akarod?</ATPP_PermuteConsciousnessConfirmDesc>
-	
 	<ATPP_DuplicateConsciousnessConfirm>Tudatduplikáció</ATPP_DuplicateConsciousnessConfirm>
 	<ATPP_DuplicateConsciousnessConfirmDesc>A megerősítéssel {0} lemásolja a tudatát {1} agyába, ami felülírja {1} tudatát (megöli őt). Biztosan folytatni akarod?</ATPP_DuplicateConsciousnessConfirmDesc>
-	
 	<ATPP_UseBattery>Akkumulátor használata</ATPP_UseBattery>
 	<ATPP_UseBatteryDesc>Ha engedélyezve van, az android közvetlenül a belső akkumulátorát használja a biomassza-generátor helyett.</ATPP_UseBatteryDesc>
-	
 	<ATPP_RepairAndroids>Androidok javítása</ATPP_RepairAndroids>
 	<ATPP_RepairAndroidsDesc>Engedélyezi ennek a telepesnek az androidok javítását.</ATPP_RepairAndroidsDesc>
-	
 	<ATPP_UploadVirus>Vírus</ATPP_UploadVirus>
 	<ATPP_UploadVirusDesc>Vírus feltöltése a célba vett helyettesbe.</ATPP_UploadVirusDesc>
 	<ATPP_UploadExplosiveVirus>Robbanóvírus</ATPP_UploadExplosiveVirus>
@@ -243,19 +173,15 @@
 	<ATPP_HackDesc>A célba vett helyettes feltörése és irányításának átvétele.</ATPP_HackDesc>
 	<ATPP_HackTemp>Ideiglenes feltörés</ATPP_HackTemp>
 	<ATPP_HackTempDesc>Gyors feltörés végrehajtása a célba vett helyettes ideiglenes irányításához.</ATPP_HackTempDesc>
-	
 	<ATPP_MoveToSkyCloud>SkyCloud feltöltés</ATPP_MoveToSkyCloud>
 	<ATPP_MoveToSkyCloudDesc>Ez a művelet átmozgatja a gazdatest tudatát egy SkyCloud magba, ami szinte halhatatlanná teszi, de a teste halott marad.</ATPP_MoveToSkyCloudDesc>
 	<ATPP_MoveFromSkyCloud>SkyCloud letöltés</ATPP_MoveFromSkyCloud>
 	<ATPP_MoveFromSkyCloudDesc>Ez a művelet átmozgatja a SkyCloud magban tárolt kiválasztott tudatot a gazdatest agyába.</ATPP_MoveFromSkyCloudDesc>
 	<ATPP_CentralCoreNbStoredMind>{0} tudat tárolva</ATPP_CentralCoreNbStoredMind>
 	<ATPP_CentralCoreNbAssistingMinds>{0} tudat segédkezésre kijelölve</ATPP_CentralCoreNbAssistingMinds>
-	
 	<ATPP_CentralCoreMigrationInProgress>{0} migrációja ide: {1} folyamatban ({2}%)</ATPP_CentralCoreMigrationInProgress>
 	<ATPP_CentralCoreProcessInMentalBreak>{0} használhatatlan: idegösszeomlásban van</ATPP_CentralCoreProcessInMentalBreak>
-	
 	<ATPP_CentralCoreReplicationInProgress>{0} tudatreplikációja folyamatban ({1}%)</ATPP_CentralCoreReplicationInProgress>
-	
 	<ATPP_SkyCloudFloatMenuMindsStoredSelect>Válassz egy tudatot</ATPP_SkyCloudFloatMenuMindsStoredSelect>
 	<ATPP_ProcessInfo>Információk</ATPP_ProcessInfo>
 	<ATPP_ProcessInfoDesc>Információk lekérése a tárolt tudatokról.</ATPP_ProcessInfoDesc>
@@ -268,42 +194,29 @@
 	<ATPP_ProcessAssistDesc>Kijelöli a tárolt tudatok listáját, amelyek kizárólag a SkyMind hálózathoz csatlakozó telepesek segítésére szolgálnak; minden ide kijelölt tudat után általános hangulatjavulást kapnak.</ATPP_ProcessAssistDesc>
 	<ATPP_ProcessMigrate>Migrálás</ATPP_ProcessMigrate>
 	<ATPP_ProcessMigrateDesc>Tudat migrációja ebből a SkyCloud magból egy másikba</ATPP_ProcessMigrateDesc>
-	
 	<ATPP_ProcessAssistAssignedMinds>Tudat leválasztása (eltávolítás)</ATPP_ProcessAssistAssignedMinds>
 	<ATPP_ProcessAssistUnassignedMinds>Tudat hozzárendelése (hozzáadás)</ATPP_ProcessAssistUnassignedMinds>
 	<ATPP_ProcessAssistAssignAll>Összes hozzárendelése</ATPP_ProcessAssistAssignAll>
 	<ATPP_ProcessAssistUnassignAll>Összes leválasztása</ATPP_ProcessAssistUnassignAll>
-	
 	<ATPP_ProcessDisconnectAllSurrogates>Összes lekapcsolása</ATPP_ProcessDisconnectAllSurrogates>
-	
 	<ATPP_StopVirused>Leállítás</ATPP_StopVirused>
 	<ATPP_StopVirusedDesc>A fertőzött helyettes leállítása</ATPP_StopVirusedDesc>
-	
 	<ATPP_PreviousSurrogateControllerIs>Előző irányító: {0}</ATPP_PreviousSurrogateControllerIs>
-	
 	<ATPP_Skills>Jártasságok</ATPP_Skills>
 	<ATPP_SkillsDesc>Megnyitja a jártasság-műhelyt, amellyel a szerverek által termelt jártasságpontokat további képességekké alakíthatod az androidjaid számára</ATPP_SkillsDesc>
-	
 	<ATPP_MindAbsorption>Tudatelnyelés</ATPP_MindAbsorption>
 	<ATPP_MindAbsorptionDesc>Egy fogoly tudatának elnyelése jártasságpontokká alakítás céljából (halálos művelet)</ATPP_MindAbsorptionDesc>
-	
 	<ATPP_MindAbsorptionConfirm>Tudatelnyelés</ATPP_MindAbsorptionConfirm>
 	<ATPP_MindAbsorptionConfirmDesc>A megerősítéssel {0} tudata elnyelődik és jártasságpontokká alakul (halálos művelet). Biztosan folytatni akarod?</ATPP_MindAbsorptionConfirmDesc>
-	
 	<ATPP_UploadMakeAndroidBatteryOverloadConfirm>Akkumulátor túlterhelése</ATPP_UploadMakeAndroidBatteryOverloadConfirm>
 	<ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>Legyél óvatos: a megerősítéssel a kiválasztott android akkumulátora túlterhelődik, és rövid időn belül felrobban. Valóban folytatni kívánod?</ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>
-	
 	<ATPP_OverloadAndroid>Túlterhelés</ATPP_OverloadAndroid>
 	<ATPP_OverloadAndroidDesc>Az android akkumulátorának felrobbantása</ATPP_OverloadAndroidDesc>
-	
-	<!-- Power++ compat -->
 	<ATPP_LWPNConnected>Csatlakoztatva ehhez: {0}</ATPP_LWPNConnected>
 	<ATPP_LWPNDisconnected>Lekapcsolva erről: {0}</ATPP_LWPNDisconnected>
 	<ATPP_NoAvailableLWPN>Nincs elérhető LWPN</ATPP_NoAvailableLWPN>
 	<ATPP_LWPNNbConnectedAndroid>Csatlakoztatott androidok: {0}</ATPP_LWPNNbConnectedAndroid>
 	<ATPP_MessageLWPNNoSlotAvailable>Nincs szabad LWPN hely!</ATPP_MessageLWPNNoSlotAvailable>
-	
-	<!-- Buildings -->
 	<ATPP_SkyMindAntennaSynthesis>Csatlakoztatott felhasználók: {0} / {1}</ATPP_SkyMindAntennaSynthesis>
 	<ATPP_ForceReload>Akkumulátortöltés kényszerítése</ATPP_ForceReload>
 	<ATPP_CannotUseEveryPlaceUsed>Nem használható, a töltőállomás tele van.</ATPP_CannotUseEveryPlaceUsed>
@@ -316,8 +229,6 @@
 	<ATPP_SkillServersSynthesis>Elérhető jártasságpontok: {0} / {1}</ATPP_SkillServersSynthesis>
 	<ATTP_SkillSlotsAdded>Hozzáadott jártassági helyek: {0}</ATTP_SkillSlotsAdded>
 	<ATTP_SkillProducedPoints>Termelt jártasságpontok: {0}</ATTP_SkillProducedPoints>
-	
-	<!-- Colors -->
 	<ATPP_HairColor>Hajszín</ATPP_HairColor>
 	<ATPP_HairColorBlond>Szőke</ATPP_HairColorBlond>
 	<ATPP_HairColorBlack>Fekete</ATPP_HairColorBlack>
@@ -325,7 +236,6 @@
 	<ATPP_HairColorGrey>Ősz</ATPP_HairColorGrey>
 	<ATPP_HairColorGinger>Vörös</ATPP_HairColorGinger>
 	<ATPP_HairColorWhite>Fehér</ATPP_HairColorWhite>
-	
 	<ATPP_SkinColor>Bőrszín</ATPP_SkinColor>
 	<ATPP_SkinColorVerylight>Nagyon világos</ATPP_SkinColorVerylight>
 	<ATPP_SkinColorLight>Világos</ATPP_SkinColorLight>
@@ -333,14 +243,11 @@
 	<ATPP_SkinColorMidbrown>Középbarna</ATPP_SkinColorMidbrown>
 	<ATPP_SkinColorDarkbrown>Sötétbarna</ATPP_SkinColorDarkbrown>
 	<ATPP_SkinColorVerydark>Nagyon sötétbarna</ATPP_SkinColorVerydark>
-	
-	<!-- Messages -->
 	<ATPP_CannotConnectToSkyMindNoNet>Nem lehet csatlakozni a SkyMindhoz, nincs elérhető hálózat!</ATPP_CannotConnectToSkyMindNoNet>
 	<ATPP_CannotConnectToSkyMind>Nem lehet csatlakozni a SkyMindhoz, nincs elég szabad hely!</ATPP_CannotConnectToSkyMind>
 	<ATPP_SurrogateUnexpectedDisconnection>Váratlan lekapcsolódás: {0} kapcsolata megszakadt a SkyMind hálózattal!</ATPP_SurrogateUnexpectedDisconnection>
 	<ATPP_SurrogateConnectionCannotBeDisconnected>Nem lehet lekapcsolni, {0} jelenleg instabil mentális állapotban van</ATPP_SurrogateConnectionCannotBeDisconnected>
 	<ATPP_SurrogateConnectionOK>{0} mostantól csatlakozva van ehhez: {1}</ATPP_SurrogateConnectionOK>
-	
 	<ATPP_StartPermute>A tudatcsere {0} és {1} között megkezdődött!</ATPP_StartPermute>
 	<ATPP_StartDuplicate>{0} tudatának másolása ide: {1} megkezdődött!</ATPP_StartDuplicate>
 	<ATPP_StartSkyCloudUpload>{0} tudatának feltöltése ide: {1} megkezdődött!</ATPP_StartSkyCloudUpload>
@@ -348,50 +255,35 @@
 	<ATPP_StartSkyCloudDownload>{0} tudatának letöltése {1} agyába megkezdődött!</ATPP_StartSkyCloudDownload>
 	<ATPP_StartSkyCloudMigration>{0} tudatának migrációja {1} helyről {2} helyre megkezdődött!</ATPP_StartSkyCloudMigration>
 	<ATPP_StartSkyCloudMigrationFailed>{0} tudatának migrációja ide: {1} nem hajtható végre, mert nincs elég tudattároló hely itt: {1}</ATPP_StartSkyCloudMigrationFailed>
-	
 	<ATPP_StartUpload>{0} tudatának feltöltése ide: {1} megkezdődött!</ATPP_StartUpload>
-	
 	<ATPP_CanOnlyBeUsedByAndroid>Ezt az eszközt csak androidok használhatják!</ATPP_CanOnlyBeUsedByAndroid>
 	<ATPP_CannotBeUsedBecauseNoOldAgeIssues>Nem használható, mert nem találhatók öregkori problémák az androidon</ATPP_CannotBeUsedBecauseNoOldAgeIssues>
-	
 	<ATPP_NoBrokenStuffFound>Nem találhatók problémák a(z) {0} androidnál!</ATPP_NoBrokenStuffFound>
 	<ATPP_BrokenStuffRepairFailed>Hiba: a nanitok nem tudták elvégezni a javítást!</ATPP_BrokenStuffRepairFailed>
-	
-	<ATPP_BrokenCPURepaired>A mesterséges agy sikeresen megjavítva!</ATPP_BrokenCPURepaired> 
-	<ATPP_BrokenHydraulicSystemRepaired>A hidraulikus rendszer sikeresen megjavítva!</ATPP_BrokenHydraulicSystemRepaired> 
-	<ATPP_BrokenCoolingSystemRepaired>A hűtőrendszer sikeresen megjavítva!</ATPP_BrokenCoolingSystemRepaired> 
-	<ATPP_BrokenFrameworkRepaired>A váz szerkezete sikeresen megjavítva!</ATPP_BrokenFrameworkRepaired> 
-	
+	<ATPP_BrokenCPURepaired>A mesterséges agy sikeresen megjavítva!</ATPP_BrokenCPURepaired>
+	<ATPP_BrokenHydraulicSystemRepaired>A hidraulikus rendszer sikeresen megjavítva!</ATPP_BrokenHydraulicSystemRepaired>
+	<ATPP_BrokenCoolingSystemRepaired>A hűtőrendszer sikeresen megjavítva!</ATPP_BrokenCoolingSystemRepaired>
+	<ATPP_BrokenFrameworkRepaired>A váz szerkezete sikeresen megjavítva!</ATPP_BrokenFrameworkRepaired>
 	<ATPP_CryptolockerClearedByFaction>{0} eltávolította a cryptolocker vírusát a fertőzött helyettesedről!</ATPP_CryptolockerClearedByFaction>
 	<ATPP_CryptolockerDeviceClearedByFaction>{0} eltávolította a cryptolocker vírusát a csatlakoztatott eszközeidről!</ATPP_CryptolockerDeviceClearedByFaction>
 	<ATPP_RansomwareClearedByFaction>{0} elvégezte a szükséges javításokat a(z) {1} által okozott károkra</ATPP_RansomwareClearedByFaction>
-	
 	<ATPP_SurrogateHackOK>{0} feltörése sikeres!</ATPP_SurrogateHackOK>
 	<ATPP_CannotHackNotEnoughtHackingPoints>Nincs elég hackelési pont, {0} szükséges a feltöréshez!</ATPP_CannotHackNotEnoughtHackingPoints>
-	
 	<ATPP_ProcessDuplicateOK>{0} neurális hálózata duplikálás alatt áll.</ATPP_ProcessDuplicateOK>
 	<ATPP_ProcessDuplicateFailed>Nem sikerült duplikálni {0} neurális hálózatát, nincs elég tudattároló hely a magban</ATPP_ProcessDuplicateFailed>
 	<ATPP_ProcessRemoveOK>{0} neurális hálózata eltávolításra került.</ATPP_ProcessRemoveOK>
 	<ATPP_ProcessAssistOK>{0} tudata hozzárendelve a csatlakoztatott telepesek segítéséhez.</ATPP_ProcessAssistOK>
 	<ATPP_ProcessUnassistOK>{0} tudata leválasztva a csatlakoztatott telepesek segítéséről.</ATPP_ProcessUnassistOK>
-	
-	
 	<ATPP_ProcessNoLongerInMentalBreak>A(z) {1} magban tárolt {0} tudata már nem szenved idegösszeomlásban</ATPP_ProcessNoLongerInMentalBreak>
 	<ATPP_CannotReconnectToLastSurrogateController>Nem lehet újracsatlakozni, a legutóbbi helyettes-irányító nem érhető el (elfoglalt, halott, nincs csatlakozva a SkyMindhoz...)</ATPP_CannotReconnectToLastSurrogateController>
-	
 	<ATPP_ProcessMassAssist>{0} tudat hozzárendelve !</ATPP_ProcessMassAssist>
 	<ATPP_ProcessMassUnassist>{0} tudat leválasztva !</ATPP_ProcessMassUnassist>
-	
 	<ATPP_SkillsWorkshopPointsConverted>{0} jártasságpont hozzáadva ehhez: {1}</ATPP_SkillsWorkshopPointsConverted>
 	<ATPP_SkillsWorkshopAvailablePoints>Elérhető pontok : {0}</ATPP_SkillsWorkshopAvailablePoints>
 	<ATPP_SkillsWorkshopAvailablePointsNote>Megjegyzés : Ennél az android modellnél {0} szerverek által termelt jártasságpont szükséges 1 elérhető pont generálásához</ATPP_SkillsWorkshopAvailablePointsNote>
-	
 	<ATPP_MindAbsorptionStarted>{0} tudatának elnyelése megkezdődött</ATPP_MindAbsorptionStarted>
 	<ATPP_NotEnoughtSkillPoints>Nincs elég elérhető jártasságpont ! ({0} pont szükséges)</ATPP_NotEnoughtSkillPoints>
 	<ATPP_CannotAddVXNeuralChipInSurrogates>Nem lehet ilyen típusú csipet behelyezni egy helyettesbe! A csip megsérült és többé nem használható!</ATPP_CannotAddVXNeuralChipInSurrogates>
-
-	
-	<!-- Settings -->
 	<ATPP_SettingsSectionGeneral>Általános</ATPP_SettingsSectionGeneral>
 	<ATPP_SettingsSectionSkyCloud>SkyCloud</ATPP_SettingsSectionSkyCloud>
 	<ATPP_SettingsSectionSecurity>Biztonság</ATPP_SettingsSectionSecurity>
@@ -399,19 +291,15 @@
 	<ATPP_SettingsSectionVX3>VX3 neurális csip</ATPP_SettingsSectionVX3>
 	<ATPP_SettingsSectionSkills>T1/T2 jártasságok</ATPP_SettingsSectionSkills>
 	<ATPP_SettingsSectionBatteryOverload>Akkumulátor túlterhelés</ATPP_SettingsSectionBatteryOverload>
-	
 	<ATPP_SettingsDefaultAndroidGeneratorMode>Android alapértelmezett energiamódja:</ATPP_SettingsDefaultAndroidGeneratorMode>
 	<ATPP_SettingsDefaultAndroidGeneratorModeBiomass>Biomassza-generátor használata (esznek)</ATPP_SettingsDefaultAndroidGeneratorModeBiomass>
 	<ATPP_SettingsDefaultAndroidGeneratorModeBattery>Belső akkumulátor közvetlen használata (az elektromos hálózatról töltődnek)</ATPP_SettingsDefaultAndroidGeneratorModeBattery>
-	
 	<ATPP_SettingsMindUploadDuration>Tudatfeltöltés időtartama ({0} óra)</ATPP_SettingsMindUploadDuration>
 	<ATPP_SettingsMindReplicationDuration>Tudatreplikáció időtartama ({0} óra)</ATPP_SettingsMindReplicationDuration>
-	
 	<ATPP_SettingsMindPermutationDuration>Tudatcsere időtartama ({0} óra)</ATPP_SettingsMindPermutationDuration>
 	<ATPP_SettingsMindDuplicationDuration>Tudatduplikáció időtartama ({0} óra)</ATPP_SettingsMindDuplicationDuration>
 	<ATPP_SettingsMindUploadPercentageFail>Tudatátvitel meghiúsulásának esélye ({0}%)</ATPP_SettingsMindUploadPercentageFail>
 	<ATPP_SettingsNanitePercentageFail>Esély arra, hogy a nanitok nem tudják megjavítani az androidokat ({0}%)</ATPP_SettingsNanitePercentageFail>
-	
 	<ATPP_SettingsCharchingStationWattIncrease>Fogyasztásnövekedés, ha egy {0} töltődik</ATPP_SettingsCharchingStationWattIncrease>
 	<ATPP_SettingsFoodGenerateLessEnergy>A biomassza (étel) kevesebb energiát biztosít az androidoknak (2-szer kevesebbet, mint az embereknek)</ATPP_SettingsFoodGenerateLessEnergy>
 	<ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>6 másodpercenként újratöltött akkumulátor százaléka ({0}%)</ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>
@@ -439,7 +327,6 @@
 	<ATPP_SettingsCostVirusExplosive>Robbanóvírus</ATPP_SettingsCostVirusExplosive>
 	<ATPP_SettingsCostHack>Feltörés</ATPP_SettingsCostHack>
 	<ATPP_SettingsCostHackTemp>Ideiglenes feltörés</ATPP_SettingsCostHackTemp>
-	
 	<ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>Napkitörések során az androidok cselekvésképtelenné válnak</ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>
 	<ATPP_SettingsDisableServersAlarm>Szerverek hőmérsékleti riasztásának kikapcsolása</ATPP_SettingsDisableServersAlarm>
 	<ATPP_SettingsDisableServersAmbianceNoises>Szerverek háttérzajának kikapcsolása</ATPP_SettingsDisableServersAmbianceNoises>
@@ -451,7 +338,6 @@
 	<ATPP_SettingsMindMigrationCloudDuration>Tudatmigráció időtartama ({0} óra)</ATPP_SettingsMindMigrationCloudDuration>
 	<ATPP_SettingsHideRemotelyControlledIcon>Távvezérelt eszközök feletti ikon elrejtése</ATPP_SettingsHideRemotelyControlledIcon>
 	<ATPP_SettingsSkyCloudBuffPerAssistingMind>Erősítési pontok száma SkyCloud segédkező tudatonként ({0})</ATPP_SettingsSkyCloudBuffPerAssistingMind>
-	
 	<ATPP_SettingsNbSlotAddedForSkillServers>{0} jártasságszerver által hozzáadott férőhelyek száma ({1})</ATPP_SettingsNbSlotAddedForSkillServers>
 	<ATPP_SettingsNbSlotAddedForHackingServers>{0} hackelőszerver által hozzáadott férőhelyek száma ({1})</ATPP_SettingsNbSlotAddedForHackingServers>
 	<ATPP_SettingsNbSlotAddedForSecurityServers>{0} biztonsági szerver által hozzáadott férőhelyek száma ({1})</ATPP_SettingsNbSlotAddedForSecurityServers>
@@ -469,28 +355,23 @@
 	<ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>Ne törölje az összes képességlelkesedést a T1/T2 androidokról</ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>
 	<ATPP_SettingsVX3MaxSurrogateControllableAtOnce>Egyszerre irányítható helyettesek maximális száma ({0})</ATPP_SettingsVX3MaxSurrogateControllableAtOnce>
 	<ATPP_SettingsNbPointsProducedForSkillServers>{0} jártasságszerver által termelt pontok száma (minden 30 másodpercben) ({1})</ATPP_SettingsNbPointsProducedForSkillServers>
-	
 	<ATPP_SettingsRandomSkillsMode>A jártasságok véletlenszerűek</ATPP_SettingsRandomSkillsMode>
 	<ATPP_SettingsPreventM7T5AppearingInCharacterEditor>T5/M7 megjelenésének megakadályozása a karakterkészítő képernyőn</ATPP_SettingsPreventM7T5AppearingInCharacterEditor>
 	<ATPP_SettingsMinHoursNaniteBankFramework>Szerkezeti nanitbankok hatásának érvényesüléséhez szükséges minimális óraszám ({0} óra)</ATPP_SettingsMinHoursNaniteBankFramework>
 	<ATPP_SettingsMaxHoursNaniteBankFramework>Szerkezeti nanitbankok hatásának érvényesüléséhez szükséges maximális óraszám ({0} óra)</ATPP_SettingsMaxHoursNaniteBankFramework>
-	
 	<ATPP_SettingsNbSkillPointsPerSkill>Egy jártasság létrehozásához szükséges jártasságpontok száma ({0})</ATPP_SettingsNbSkillPointsPerSkill>
 	<ATPP_RemoveComfortNeedForT3T4>Kényelmi szükséglet eltávolítása a T3 vagy magasabb androidoknál</ATPP_RemoveComfortNeedForT3T4>
 	<ATPP_SettingsAllowHumanDrugsForT3P>Emberi drogok engedélyezése T3+ androidok számára</ATPP_SettingsAllowHumanDrugsForT3P>
 	<ATPP_SettingsAllowHumanDrugsFor>Emberi drogok engedélyezése androidok számára</ATPP_SettingsAllowHumanDrugsFor>
-	
 	<ATPP_SettingsUploadMindToSkyCloudCoreMode>Tudatfeltöltés SkyCloud magba mód :</ATPP_SettingsUploadMindToSkyCloudCoreMode>
 	<ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>A forrástudat teste elhalálozik</ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>
 	<ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>A forrástudat neurális csipje automatikusan átkonfigurálja áramköreit VX0 módba</ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>
 	<ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>Nem történik semmi a forrástudat testével (duplikálás)</ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>
 	<ATPP_SettingsRemoveSimpleMindedTraitOnUpload>'Egyszerű gondolkodású' tulajdonság eltávolítása, ha egy T1 fejlettebb gazdatestbe kerül (ember, T2+)</ATPP_SettingsRemoveSimpleMindedTraitOnUpload>
-	
 	<ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>Esély arra, hogy a generált androidok festhetők vagy megrozsdásodhatnak ({0}%)</ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>
 	<ATPP_SettingsAndroidsCanRust>Az androidok megrozsdásodhatnak</ATPP_SettingsAndroidsCanRust>
 	<ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>Minimális napok száma, mielőtt az androidok festése megrozsdásodhat ({0} nap)</ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>
 	<ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>Maximális napok száma, mielőtt az androidok festése megrozsdásodhat ({0} nap)</ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>
-	
 	<ATPP_SettingsAndroidsAreRare>Androidok ritkává tétele más frakcióknál (FIGYELEM: eltávolítja az összes android frakciót)</ATPP_SettingsAndroidsAreRare>
 	<ATPP_SettingsAllowAutoRepaint>Androidok automatikus átfestésének engedélyezése, ha a jelenlegi festés hamarosan lejár</ATPP_SettingsAllowAutoRepaint>
 	<ATPP_SettingsAllowAutoRepaintPrisoned>Börtönben lévő androidok számára is engedélyezi az átfestési művelet ütemezését</ATPP_SettingsAllowAutoRepaintPrisoned>
@@ -506,7 +387,6 @@
 	<ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>Esély arra, hogy a beszervezett helyettes-irányító letartóztatás nélkül elmenekül és csatlakozik a frakciódhoz ({0}%)</ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>
 	<ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>Minimális óraszám, mielőtt az elrabolt M8 lekapcsolódik a SkyMindról ({0} óra)</ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>
 	<ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>Maximális óraszám, mielőtt az elrabolt M8 lekapcsolódik a SkyMindról ({0} óra)</ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>
-	
 	<ATPP_SettingsAndroidOverloadBatteryProrata>A robbanás ereje arányos az akkumulátor töltöttségi szintjével</ATPP_SettingsAndroidOverloadBatteryProrata>
 	<ATPP_SettingsAndroidOverloadRadius>Android robbanási sugara ({0})</ATPP_SettingsAndroidOverloadRadius>
 	<ATPP_SettingsM7OverloadRadius>M7 robbanási sugara ({0})</ATPP_SettingsM7OverloadRadius>
@@ -515,4 +395,12 @@
 	<ATPP_SettingsAndroidOverloadExplosionTypeFire>Gyújtó</ATPP_SettingsAndroidOverloadExplosionTypeFire>
 	<ATPP_SettingsSetT1ResearchToIndustrialTechLevel>A T1 kutatás ipari technológiai szintre állítása űrkorszak helyett</ATPP_SettingsSetT1ResearchToIndustrialTechLevel>
 	<ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>Tudatduplikációkor az egyedi szerepkör-képességek átkerülnek a céltudatba</ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>
+	<ATPP_AppliedSyntheticSkinSuccess>A szintetikus bőrréteg sikeresen átültetve {0} testére. Az egység mostantól beépülésre képes váz.</ATPP_AppliedSyntheticSkinSuccess>
+	<ATPP_RemovedSyntheticSkinSuccess>A szintetikus bőr sikeresen eltávolítva {0} testéről, szabaddá téve a nyers nehéz harci belső vázat.</ATPP_RemovedSyntheticSkinSuccess>
+	<ATPP_AndroidSpawned>{0} létrehozva.</ATPP_AndroidSpawned>
+	<ATPP_Transcendant>Transzcendens</ATPP_Transcendant>
+	<ATPP_LWPSel>LWPN kiválasztása</ATPP_LWPSel>
+	<ATPP_WPNListRow>{0} ({1} W elérhető)</ATPP_WPNListRow>
+	<ATPP_ClearCurrentWPNConnection>Jelenlegi LWPN-kapcsolat törlése</ATPP_ClearCurrentWPNConnection>
+	<ATPP_LocalWirelessPowerSelectorListTitle>Helyi vezeték nélküli energiahálózat kiválasztása</ATPP_LocalWirelessPowerSelectorListTitle>
 </LanguageData>

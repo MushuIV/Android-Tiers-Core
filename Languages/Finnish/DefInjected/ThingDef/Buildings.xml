@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_ReloadStation.label>Androidien latausasema</ATPP_ReloadStation.label>
+	<ATPP_ReloadStation.description>Latausasema androideille; siihen mahtuu samanaikaisesti jopa 8 androidia.</ATPP_ReloadStation.description>
+	<ATPP_SkyMindLAN.label>SkyMind V1 -antenni</ATPP_SkyMindLAN.label>
+	<ATPP_SkyMindLAN.description>SkyMind V1 -antenni tukee enintään 3 samanaikaista asiakaslaitetta. Se lähettää langatonta verkkoa, joka mahdollistaa siirtolaisen mielen siirtämisen toiseen sekä SX-sarjan androidien ja biologisten surrogaattien etäohjauksen.</ATPP_SkyMindLAN.description>
+	<ATPP_SkyMindWAN.label>SkyMind V2 -antenni</ATPP_SkyMindWAN.label>
+	<ATPP_SkyMindWAN.description>SkyMind V2 -antenni tukee enintään 15 samanaikaista asiakaslaitetta. Se lähettää langatonta verkkoa, joka mahdollistaa siirtolaisen mielen siirtämisen toiseen sekä SX-sarjan androidien ja biologisten surrogaattien etäohjauksen.</ATPP_SkyMindWAN.description>
+	<ATPP_SkyMindRelayTower.label>SkyMind-vahvistintorni</ATPP_SkyMindRelayTower.label>
+	<ATPP_SkyMindRelayTower.description>SkyMind-vahvistintorni vahvistaa antennien signaalia ja estää surrogaattien hallinnan heikkenemisen pitkillä etäisyyksillä.</ATPP_SkyMindRelayTower.description>
+	<ATPP_I100Security.label>I-100 (Turvallisuus)</ATPP_I100Security.label>
+	<ATPP_I100Security.description>Palomuuripalvelin, joka suojaa SkyMind-verkkoasi kyberhyökkäyksiltä ja viruksilta.</ATPP_I100Security.description>
+	<ATPP_I100Hacking.label>I-100 (Hakkerointi)</ATPP_I100Hacking.label>
+	<ATPP_I100Hacking.description>Hakkerointipalvelin, jonka avulla voit murtautua SkyMind-verkkoon yhdistettyihin asiakaslaitteisiin.</ATPP_I100Hacking.description>
+	<ATPP_I100Skill.label>I-100 (Taito)</ATPP_I100Skill.label>
+	<ATPP_I100Skill.description>Taitopalvelin, jonka avulla voit kasvattaa SkyMind-verkkoon yhdistettyjen androidien taitopisteitä.</ATPP_I100Skill.description>
+	<ATPP_I300Security.label>I-300 (Turvallisuus)</ATPP_I300Security.label>
+	<ATPP_I300Security.description>Palomuuripalvelin, joka suojaa SkyMind-verkkoasi kyberhyökkäyksiltä ja viruksilta.</ATPP_I300Security.description>
+	<ATPP_I300Hacking.label>I-300 (Hakkerointi)</ATPP_I300Hacking.label>
+	<ATPP_I300Hacking.description>Hakkerointipalvelin, jonka avulla voit murtautua SkyMind-verkkoon yhdistettyihin asiakaslaitteisiin.</ATPP_I300Hacking.description>
+	<ATPP_I300Skill.label>I-300 (Taito)</ATPP_I300Skill.label>
+	<ATPP_I300Skill.description>Taitopalvelin, jonka avulla voit kasvattaa SkyMind-verkkoon yhdistettyjen androidien taitopisteitä.</ATPP_I300Skill.description>
+	<ATPP_I500Security.label>I-500 (Turvallisuus)</ATPP_I500Security.label>
+	<ATPP_I500Security.description>Palomuuripalvelin, joka suojaa SkyMind-verkkoasi kyberhyökkäyksiltä ja viruksilta.</ATPP_I500Security.description>
+	<ATPP_I500Hacking.label>I-500 (Hakkerointi)</ATPP_I500Hacking.label>
+	<ATPP_I500Hacking.description>Hakkerointipalvelin, jonka avulla voit murtautua SkyMind-verkkoon yhdistettyihin asiakaslaitteisiin.</ATPP_I500Hacking.description>
+	<ATPP_I500Skill.label>I-500 (Taito)</ATPP_I500Skill.label>
+	<ATPP_I500Skill.description>Taitopalvelin, jonka avulla voit kasvattaa SkyMind-verkkoon yhdistettyjen androidien taitopisteitä.</ATPP_I500Skill.description>
+	<ATPP_AndroidPod.label>Androidikapseli</ATPP_AndroidPod.label>
+	<ATPP_AndroidPod.description>Androidikapseli, jossa androideja voidaan korjata, säilyttää isäntää odotettaessa (surrogaattien tapauksessa) ja ladata, jos se on kytketty sähköverkkoon.</ATPP_AndroidPod.description>
+	<ATPP_AndroidPodMech.label>M7-kapseli</ATPP_AndroidPodMech.label>
+	<ATPP_AndroidPodMech.description>Valtava kapseli, jossa M7-mekanoideja voidaan korjata, säilyttää isäntää odotettaessa (surrogaattien tapauksessa) ja ladata, jos se on kytketty sähköverkkoon.</ATPP_AndroidPodMech.description>
+	<ATPP_SkyCloudCore.label>SkyCloud-ydin</ATPP_SkyCloudCore.label>
+	<ATPP_SkyCloudCore.description>Supertietokone, joka mahdollistaa kaikkien SkyMind-verkkoon yhdistettyjen laitteiden hallinnan sekä siirtolaistesi digitoitujen aivojen tallentamisen sen muistiin, tehden heistä lähes kuolemattomia ja kaikkitietäviä.</ATPP_SkyCloudCore.description>
+</LanguageData>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_ReloadStation.label>Android-laadstation</ATPP_ReloadStation.label>
+	<ATPP_ReloadStation.description>Een laadstation voor androids, dat plaats biedt aan maximaal 8 androids tegelijkertijd.</ATPP_ReloadStation.description>
+	<ATPP_SkyMindLAN.label>SkyMind V1-antenne</ATPP_SkyMindLAN.label>
+	<ATPP_SkyMindLAN.description>De SkyMind V1-antenne accepteert tot 3 gelijktijdige clients en zendt een draadloos netwerk uit waarmee de geest van een kolonist naar een ander geüpload kan worden en elke SX-serie android of biologische surrogaat op afstand bestuurd kan worden.</ATPP_SkyMindLAN.description>
+	<ATPP_SkyMindWAN.label>SkyMind V2-antenne</ATPP_SkyMindWAN.label>
+	<ATPP_SkyMindWAN.description>De SkyMind V2-antenne accepteert tot 15 gelijktijdige clients en zendt een draadloos netwerk uit waarmee de geest van een kolonist naar een ander geüpload kan worden en elke SX-serie android of biologische surrogaat op afstand bestuurd kan worden.</ATPP_SkyMindWAN.description>
+	<ATPP_SkyMindRelayTower.label>SkyMind-relaiszendmast</ATPP_SkyMindRelayTower.label>
+	<ATPP_SkyMindRelayTower.description>De SkyMind-relaiszendmast versterkt het signaal van antennes en voorkomt verzwakking van surrogaatbesturing over grote afstanden.</ATPP_SkyMindRelayTower.description>
+	<ATPP_I100Security.label>I-100 (Beveiliging)</ATPP_I100Security.label>
+	<ATPP_I100Security.description>Firewall-server die verantwoordelijk is voor het beveiligen van je SkyMind-netwerk tegen cyberaanvallen en virussen.</ATPP_I100Security.description>
+	<ATPP_I100Hacking.label>I-100 (Hacken)</ATPP_I100Hacking.label>
+	<ATPP_I100Hacking.description>Hackserver waarmee je clients kunt hacken die verbonden zijn met een SkyMind-netwerk.</ATPP_I100Hacking.description>
+	<ATPP_I100Skill.label>I-100 (Vaardigheid)</ATPP_I100Skill.label>
+	<ATPP_I100Skill.description>Vaardigheidsserver waarmee je de vaardigheidspunten van verbonden androids op een SkyMind-netwerk kunt verhogen.</ATPP_I100Skill.description>
+	<ATPP_I300Security.label>I-300 (Beveiliging)</ATPP_I300Security.label>
+	<ATPP_I300Security.description>Firewall-server die verantwoordelijk is voor het beveiligen van je SkyMind-netwerk tegen cyberaanvallen en virussen.</ATPP_I300Security.description>
+	<ATPP_I300Hacking.label>I-300 (Hacken)</ATPP_I300Hacking.label>
+	<ATPP_I300Hacking.description>Hackserver waarmee je clients kunt hacken die verbonden zijn met een SkyMind-netwerk.</ATPP_I300Hacking.description>
+	<ATPP_I300Skill.label>I-300 (Vaardigheid)</ATPP_I300Skill.label>
+	<ATPP_I300Skill.description>Vaardigheidsserver waarmee je de vaardigheidspunten van verbonden androids op een SkyMind-netwerk kunt verhogen.</ATPP_I300Skill.description>
+	<ATPP_I500Security.label>I-500 (Beveiliging)</ATPP_I500Security.label>
+	<ATPP_I500Security.description>Firewall-server die verantwoordelijk is voor het beveiligen van je SkyMind-netwerk tegen cyberaanvallen en virussen.</ATPP_I500Security.description>
+	<ATPP_I500Hacking.label>I-500 (Hacken)</ATPP_I500Hacking.label>
+	<ATPP_I500Hacking.description>Hackserver waarmee je clients kunt hacken die verbonden zijn met een SkyMind-netwerk.</ATPP_I500Hacking.description>
+	<ATPP_I500Skill.label>I-500 (Vaardigheid)</ATPP_I500Skill.label>
+	<ATPP_I500Skill.description>Vaardigheidsserver waarmee je de vaardigheidspunten van verbonden androids op een SkyMind-netwerk kunt verhogen.</ATPP_I500Skill.description>
+	<ATPP_AndroidPod.label>Android-pod</ATPP_AndroidPod.label>
+	<ATPP_AndroidPod.description>Een android-pod waarin androids gerepareerd kunnen worden, opgeslagen kunnen worden terwijl ze op een host wachten (in het geval van surrogaten) en opgeladen worden indien aangesloten op stroom.</ATPP_AndroidPod.description>
+	<ATPP_AndroidPodMech.label>M7-pod</ATPP_AndroidPodMech.label>
+	<ATPP_AndroidPodMech.description>Een gigantische pod waarin M7-mechanoïden gerepareerd kunnen worden, opgeslagen kunnen worden terwijl ze op een host wachten (in het geval van surrogaten) en opgeladen worden indien aangesloten op stroom.</ATPP_AndroidPodMech.description>
+	<ATPP_SkyCloudCore.label>SkyCloud-kern</ATPP_SkyCloudCore.label>
+	<ATPP_SkyCloudCore.description>Een supercomputer die besturing mogelijk maakt van alle apparaten die op het SkyMind-netwerk zijn aangesloten, evenals het uploaden van gedigitaliseerde breinen van kolonisten naar het geheugen om hen vrijwel onsterfelijk en alwetend te maken</ATPP_SkyCloudCore.description>
+</LanguageData>

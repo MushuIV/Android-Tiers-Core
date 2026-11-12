@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_Android2TXKind.label>Поселенець-андроїд TX2</ATPP_Android2TXKind.label>
+  <ATPP_Android2TXKind.labelPlural>Поселенці-андроїди TX2</ATPP_Android2TXKind.labelPlural>
+  <ATPP_Android3TXKind.label>Поселенець-андроїд TX3</ATPP_Android3TXKind.label>
+  <ATPP_Android3TXKind.labelPlural>Поселенці-андроїди TX3</ATPP_Android3TXKind.labelPlural>
+  <ATPP_Android4TXKind.label>Поселенець-андроїд TX4</ATPP_Android4TXKind.label>
+  <ATPP_Android4TXKind.labelPlural>Поселенці-андроїди TX4</ATPP_Android4TXKind.labelPlural>
+  <ATPP_Android2KTXKind.label>Поселенець-андроїд TX2K</ATPP_Android2KTXKind.label>
+  <ATPP_Android2KTXKind.labelPlural>Поселенці-андроїди TX2K</ATPP_Android2KTXKind.labelPlural>
+  <ATPP_Android2KITXKind.label>Поселенець-андроїд TX2KI</ATPP_Android2KITXKind.label>
+  <ATPP_Android2KITXKind.labelPlural>Поселенці-андроїди TX2KI</ATPP_Android2KITXKind.labelPlural>
+  <ATPP_Android3ITXKind.label>Поселенець-андроїд TX3I</ATPP_Android3ITXKind.label>
+  <ATPP_Android3ITXKind.labelPlural>Поселенці-андроїди TX3I</ATPP_Android3ITXKind.labelPlural>
+  <ATPP_Android4ITXKind.label>Поселенець-андроїд TX4I</ATPP_Android4ITXKind.label>
+  <ATPP_Android4ITXKind.labelPlural>Поселенці-андроїди TX4I</ATPP_Android4ITXKind.labelPlural>
+  <ATPP_Android2ITXKind.label>Поселенець-андроїд TX2I</ATPP_Android2ITXKind.label>
+  <ATPP_Android2ITXKind.labelPlural>Поселенці-андроїди TX2I</ATPP_Android2ITXKind.labelPlural>
+  <ATPP_AndroidTX2RaiderFactionSpecific.label>Рейдер-андроїд TX2</ATPP_AndroidTX2RaiderFactionSpecific.label>
+  <ATPP_AndroidTX2RaiderFactionSpecific.labelPlural>Рейдери-андроїди TX2</ATPP_AndroidTX2RaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX2IRaiderFactionSpecific.label>Рейдер-андроїд TX2I</ATPP_AndroidTX2IRaiderFactionSpecific.label>
+  <ATPP_AndroidTX2IRaiderFactionSpecific.labelPlural>Рейдери-андроїди TX2I</ATPP_AndroidTX2IRaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX2KRaiderFactionSpecific.label>Рейдер-андроїд TX2K</ATPP_AndroidTX2KRaiderFactionSpecific.label>
+  <ATPP_AndroidTX2KRaiderFactionSpecific.labelPlural>Рейдери-андроїди TX2K</ATPP_AndroidTX2KRaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX2KIRaiderFactionSpecific.label>Рейдер-андроїд TX2KI</ATPP_AndroidTX2KIRaiderFactionSpecific.label>
+  <ATPP_AndroidTX2KIRaiderFactionSpecific.labelPlural>Рейдери-андроїди TX2KI</ATPP_AndroidTX2KIRaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX3RaiderFactionSpecific.label>Рейдер-андроїд TX3</ATPP_AndroidTX3RaiderFactionSpecific.label>
+  <ATPP_AndroidTX3RaiderFactionSpecific.labelPlural>Рейдери-андроїди TX3</ATPP_AndroidTX3RaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX3IRaiderFactionSpecific.label>Рейдер-андроїд TX3I</ATPP_AndroidTX3IRaiderFactionSpecific.label>
+  <ATPP_AndroidTX3IRaiderFactionSpecific.labelPlural>Рейдери-андроїди TX3I</ATPP_AndroidTX3IRaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX4RaiderFactionSpecific.label>Рейдер-андроїд TX4</ATPP_AndroidTX4RaiderFactionSpecific.label>
+  <ATPP_AndroidTX4RaiderFactionSpecific.labelPlural>Рейдери-андроїди TX4</ATPP_AndroidTX4RaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX4IRaiderFactionSpecific.label>Рейдер-андроїд TX4I</ATPP_AndroidTX4IRaiderFactionSpecific.label>
+  <ATPP_AndroidTX4IRaiderFactionSpecific.labelPlural>Рейдери-андроїди TX4I</ATPP_AndroidTX4IRaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX2CollectiveSoldier.label>Солдат-андроїд TX2</ATPP_AndroidTX2CollectiveSoldier.label>
+  <ATPP_AndroidTX2CollectiveSoldier.labelPlural>Солдати-андроїди TX2</ATPP_AndroidTX2CollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX2ICollectiveSoldier.label>Солдат-андроїд TX2I</ATPP_AndroidTX2ICollectiveSoldier.label>
+  <ATPP_AndroidTX2ICollectiveSoldier.labelPlural>Солдати-андроїди TX2I</ATPP_AndroidTX2ICollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX2KCollectiveSoldier.label>Солдат-андроїд TX2K</ATPP_AndroidTX2KCollectiveSoldier.label>
+  <ATPP_AndroidTX2KCollectiveSoldier.labelPlural>Солдати-андроїди TX2K</ATPP_AndroidTX2KCollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX2KICollectiveSoldier.label>Солдат-андроїд TX2KI</ATPP_AndroidTX2KICollectiveSoldier.label>
+  <ATPP_AndroidTX2KICollectiveSoldier.labelPlural>Солдати-андроїди TX2KI</ATPP_AndroidTX2KICollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX3CollectiveSoldier.label>Солдат-андроїд TX3</ATPP_AndroidTX3CollectiveSoldier.label>
+  <ATPP_AndroidTX3CollectiveSoldier.labelPlural>Солдати-андроїди TX3</ATPP_AndroidTX3CollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX3ICollectiveSoldier.label>Солдат-андроїд TX3I</ATPP_AndroidTX3ICollectiveSoldier.label>
+  <ATPP_AndroidTX3ICollectiveSoldier.labelPlural>Солдати-андроїди TX3I</ATPP_AndroidTX3ICollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX4CollectiveSoldier.label>Солдат-андроїд TX4</ATPP_AndroidTX4CollectiveSoldier.label>
+  <ATPP_AndroidTX4CollectiveSoldier.labelPlural>Солдати-андроїди TX4</ATPP_AndroidTX4CollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX4ICollectiveSoldier.label>Солдат-андроїд TX4I</ATPP_AndroidTX4ICollectiveSoldier.label>
+  <ATPP_AndroidTX4ICollectiveSoldier.labelPlural>Солдати-андроїди TX4I</ATPP_AndroidTX4ICollectiveSoldier.labelPlural>
+
+</LanguageData>

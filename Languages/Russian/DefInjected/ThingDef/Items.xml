@@ -1,40 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<ATPP_NanitesHydraulicSerum.label>Банк нанитов (гидравлические)</ATPP_NanitesHydraulicSerum.label>
-	<ATPP_NanitesHydraulicSerum.description>Одноразовый банк нанитов, настроенный на ремонт сломанных гидравлических систем андроидов (связанных со старостью).</ATPP_NanitesHydraulicSerum.description>
-	<ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>Используйте эту нанитную сыворотку, чтобы исправить возрастные проблемы андроидов</ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>
-	
-	<ATPP_NanitesCPUSerum.label>Банк нанитов (CPU)</ATPP_NanitesCPUSerum.label>
-	<ATPP_NanitesCPUSerum.description>Одноразовый банк нанитов, настроенный на восстановление сломанного искусственного разума системы андройда (связанной со старостью).</ATPP_NanitesCPUSerum.description>
-	<ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>Используйте эту нанитную сыворотку, чтобы исправить возрастные проблемы андроидов</ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>
-	
-	<ATPP_NanitesCoolingSerum.label>Банк нанитов (охлаждение)</ATPP_NanitesCoolingSerum.label>
-	<ATPP_NanitesCoolingSerum.description>Одноразовый банк нанитов, настроенный на ремонт сломанной системы охлаждения андроидов в случае перегрева (связанного со старостью).</ATPP_NanitesCoolingSerum.description>
-	<ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>Используйте эту нанитную сыворотку, чтобы исправить возрастные проблемы андроидов</ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>
-	
-	<ATPP_NanitesFrameSerum.label>Банк нанитов (каркас)</ATPP_NanitesFrameSerum.label>
-	<ATPP_NanitesFrameSerum.description>Одноразовый банк нанитов, настроенный на восстановление сломанного экзоскелета андроидов (связанного со старостью).</ATPP_NanitesFrameSerum.description>
-	<ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>Используйте эту нанитную сыворотку, чтобы исправить возрастные проблемы андроидов</ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesHydraulicSerum.label>Банк нанитов (гидравлические)</ATPP_NanitesHydraulicSerum.label>
+  <ATPP_NanitesHydraulicSerum.description>Одноразовый банк нанитов, настроенный на ремонт сломанных гидравлических систем андроидов (связанных со старостью).</ATPP_NanitesHydraulicSerum.description>
+  <ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>Используйте эту нанитную сыворотку, чтобы исправить возрастные проблемы андроидов</ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesCPUSerum.label>Банк нанитов (CPU)</ATPP_NanitesCPUSerum.label>
+  <ATPP_NanitesCPUSerum.description>Одноразовый банк нанитов, настроенный на восстановление сломанного искусственного разума системы андройда (связанной со старостью).</ATPP_NanitesCPUSerum.description>
+  <ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>Используйте эту нанитную сыворотку, чтобы исправить возрастные проблемы андроидов</ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesCoolingSerum.label>Банк нанитов (охлаждение)</ATPP_NanitesCoolingSerum.label>
+  <ATPP_NanitesCoolingSerum.description>Одноразовый банк нанитов, настроенный на ремонт сломанной системы охлаждения андроидов в случае перегрева (связанного со старостью).</ATPP_NanitesCoolingSerum.description>
+  <ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>Используйте эту нанитную сыворотку, чтобы исправить возрастные проблемы андроидов</ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesFrameSerum.label>Банк нанитов (каркас)</ATPP_NanitesFrameSerum.label>
+  <ATPP_NanitesFrameSerum.description>Одноразовый банк нанитов, настроенный на восстановление сломанного экзоскелета андроидов (связанного со старостью).</ATPP_NanitesFrameSerum.description>
+  <ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>Используйте эту нанитную сыворотку, чтобы исправить возрастные проблемы андроидов</ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>
+  <ATPP_AndroidNanokitBasic.label>Базовый нанокит </ATPP_AndroidNanokitBasic.label>
+  <ATPP_AndroidNanokitBasic.description>Набор, содержащий наноботов для лечения ран андроидов</ATPP_AndroidNanokitBasic.description>
+  <ATPP_AndroidNanokitIntermediate.label>Средний нанокит</ATPP_AndroidNanokitIntermediate.label>
+  <ATPP_AndroidNanokitIntermediate.description>Набор, содержащий наноботов для лечения ран андроидов</ATPP_AndroidNanokitIntermediate.description>
+  <ATPP_AndroidNanokitAdvanced.label>Расширенный нанокит</ATPP_AndroidNanokitAdvanced.label>
+  <ATPP_AndroidNanokitAdvanced.description>Набор, содержащий наноботов для лечения ран андроидов</ATPP_AndroidNanokitAdvanced.description>
+  <ATPP_RXChip.label>Нейрочип RX</ATPP_RXChip.label>
+  <ATPP_RXChip.description>Нейрочип, действующий как персональный ретранслятор SkyMind.</ATPP_RXChip.description>
+  <ATPP_VX0Chip.label>Нейрочип VX0</ATPP_VX0Chip.label>
+  <ATPP_VX0Chip.description>Нейронный чип, который превращает его хозяина в биологический суррогат.</ATPP_VX0Chip.description>
+  <ATPP_VX1Chip.label>Нейрочип VX1</ATPP_VX1Chip.label>
+  <ATPP_VX1Chip.description>Нейронный чип, позволяющий его хозяину дистанционно управлять суррогатными андроидами.</ATPP_VX1Chip.description>
+  <ATPP_VX2Chip.label>Нейрочип VX2</ATPP_VX2Chip.label>
+  <ATPP_VX2Chip.description>Нейронный чип, позволяющий его хозяину дистанционно управлять суррогатными андроидами и переставлять/дублировать его сознание.</ATPP_VX2Chip.description>
+  <ATPP_VX3Chip.label>Нейрочип VX3</ATPP_VX3Chip.label>
+  <ATPP_VX3Chip.description>Нейронный чип, позволяющий его хозяину дистанционно управлять несколькими андроидами серии SX или биологическими суррогатами одновременно и дублировать / переставлять их разум.</ATPP_VX3Chip.description>
+  <ATPP_T1ArtificialBrain.label>Искусственный мозг T1</ATPP_T1ArtificialBrain.label>
+  <ATPP_T1ArtificialBrain.description>Искусственный мозг T1, позволяющий превратить суррогата T1 в андроида с чистой нейросетью.</ATPP_T1ArtificialBrain.description>
+  <ATPP_T2ArtificialBrain.label>Искусственный мозг T2</ATPP_T2ArtificialBrain.label>
+  <ATPP_T2ArtificialBrain.description>Искусственный мозг T2, позволяющий превратить суррогата T2 в андроида с чистой нейросетью.</ATPP_T2ArtificialBrain.description>
+  <ATPP_T3ArtificialBrain.label>Искусственный мозг T3</ATPP_T3ArtificialBrain.label>
+  <ATPP_T3ArtificialBrain.description>Искусственный мозг T3, позволяющий превратить суррогата T3 в андроида с чистой нейросетью.</ATPP_T3ArtificialBrain.description>
+  <ATPP_T4ArtificialBrain.label>Искусственный мозг T4</ATPP_T4ArtificialBrain.label>
+  <ATPP_T4ArtificialBrain.description>Искусственный мозг T4, позволяющий превратить суррогата T4 в андроида с чистой нейросетью.</ATPP_T4ArtificialBrain.description>
+  <ATPP_SyntheticSkinGland.label>железа синтетической кожи</ATPP_SyntheticSkinGland.label>
+  <ATPP_SyntheticSkinGland.description>Продвинутый биосинтетический орган, состоящий из спящего эпидермального матрикса и питательных микроканалов. При пересадке на боевое шасси серии TX или интеграции при сборке в чане он расширяется и срастается с подкожной обшивкой, обеспечивая человекоподобную теплоизоляцию, тактильную чувствительность и реалистичную маскировку кожей.</ATPP_SyntheticSkinGland.description>
+  <ATPP_GS_TX2KMale.label>Мужской каркас TX2K</ATPP_GS_TX2KMale.label>
+  <ATPP_GS_TX2KMale.description>Неактивный функциональный экзоскелет TX2K, ожидающий активации в чане после наращивания кожи.</ATPP_GS_TX2KMale.description>
+  <ATPP_GS_TX2KFemale.label>Женский каркас TX2K</ATPP_GS_TX2KFemale.label>
+  <ATPP_GS_TX2KFemale.description>Неактивный функциональный экзоскелет TX2K, ожидающий активации в чане после наращивания кожи.</ATPP_GS_TX2KFemale.description>
+  <ATPP_GS_TX3Male.label>Мужской каркас TX3</ATPP_GS_TX3Male.label>
+  <ATPP_GS_TX3Male.description>Неактивный функциональный экзоскелет TX3, ожидающий активации в чане после наращивания кожи.</ATPP_GS_TX3Male.description>
+  <ATPP_GS_TX3Female.label>Женский каркас TX3</ATPP_GS_TX3Female.label>
+  <ATPP_GS_TX3Female.description>Неактивный функциональный экзоскелет TX3, ожидающий активации в чане после наращивания кожи.</ATPP_GS_TX3Female.description>
+  <ATPP_GS_TX4Male.label>Мужской каркас TX4</ATPP_GS_TX4Male.label>
+  <ATPP_GS_TX4Male.description>Неактивный функциональный экзоскелет TX4, ожидающий активации в чане после наращивания кожи.</ATPP_GS_TX4Male.description>
+  <ATPP_GS_TX4Female.label>Женский каркас TX4</ATPP_GS_TX4Female.label>
+  <ATPP_GS_TX4Female.description>Неактивный функциональный экзоскелет TX4, ожидающий активации в чане после наращивания кожи.</ATPP_GS_TX4Female.description>
 
-	<ATPP_AndroidNanokitBasic.label>Базовый нанокит </ATPP_AndroidNanokitBasic.label>
-	<ATPP_AndroidNanokitBasic.description>Набор, содержащий наноботов для лечения ран андроидов</ATPP_AndroidNanokitBasic.description>
-	
-	<ATPP_AndroidNanokitIntermediate.label>Средний нанокит</ATPP_AndroidNanokitIntermediate.label>
-	<ATPP_AndroidNanokitIntermediate.description>Набор, содержащий наноботов для лечения ран андроидов</ATPP_AndroidNanokitIntermediate.description>
-	
-	<ATPP_AndroidNanokitAdvanced.label>Расширенный нанокит</ATPP_AndroidNanokitAdvanced.label>
-	<ATPP_AndroidNanokitAdvanced.description>Набор, содержащий наноботов для лечения ран андроидов</ATPP_AndroidNanokitAdvanced.description>
-	
-	<ATPP_VX0Chip.label>Нейрочип VX0</ATPP_VX0Chip.label>
-	<ATPP_VX0Chip.description>Нейронный чип, который превращает его хозяина в биологический суррогат.</ATPP_VX0Chip.description>
-	
-	<ATPP_VX1Chip.label>Нейрочип VX1</ATPP_VX1Chip.label>
-	<ATPP_VX1Chip.description>Нейронный чип, позволяющий его хозяину дистанционно управлять суррогатными андроидами.</ATPP_VX1Chip.description>
-	
-	<ATPP_VX2Chip.label>Нейрочип VX2</ATPP_VX2Chip.label>
-	<ATPP_VX2Chip.description>Нейронный чип, позволяющий его хозяину дистанционно управлять суррогатными андроидами и переставлять/дублировать его сознание.</ATPP_VX2Chip.description>
-	
-	<ATPP_VX3Chip.label>Нейрочип VX3</ATPP_VX3Chip.label>
-	<ATPP_VX3Chip.description>Нейронный чип, позволяющий его хозяину дистанционно управлять несколькими андроидами серии SX или биологическими суррогатами одновременно и дублировать / переставлять их разум.</ATPP_VX3Chip.description>
 </LanguageData>

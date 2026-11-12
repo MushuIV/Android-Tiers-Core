@@ -15,7 +15,6 @@
 	</backstoryFiltersOverride>
 	<race>Android1Tier</race>
     <combatPower>80</combatPower>
-	    <baseRecruitDifficulty>0.80</baseRecruitDifficulty>
 	<minGenerationAge>20</minGenerationAge>
 	<maxGenerationAge>50</maxGenerationAge>
 			<defaultFactionType>AndroidRebellionAtlas</defaultFactionType>
@@ -69,7 +68,6 @@
 	</backstoryFiltersOverride>
 	<race>Android1Tier</race>
     <combatPower>40</combatPower>
-	    <baseRecruitDifficulty>0.70</baseRecruitDifficulty>
 	<minGenerationAge>20</minGenerationAge>	
 			<defaultFactionType>AndroidRebellionAtlas</defaultFactionType>
 		<aiAvoidCover>true</aiAvoidCover>
@@ -119,7 +117,6 @@
 		</categories>
 	  </li>
 	</backstoryFiltersOverride>
-	    <baseRecruitDifficulty>0.90</baseRecruitDifficulty>
 	<race>Android2Tier</race>
     <combatPower>130</combatPower>
 	<minGenerationAge>20</minGenerationAge>
@@ -173,7 +170,6 @@
 		</categories>
 	  </li>
 	</backstoryFiltersOverride>
-	    <baseRecruitDifficulty>0.92</baseRecruitDifficulty>
 	<race>Android3Tier</race>
     <combatPower>180</combatPower>
 	<minGenerationAge>20</minGenerationAge>
@@ -228,7 +224,6 @@
 		</categories>
 	  </li>
 	</backstoryFiltersOverride>
-	    <baseRecruitDifficulty>0.92</baseRecruitDifficulty>
 	<race>Android4Tier</race>
     <combatPower>220</combatPower>
 	<minGenerationAge>20</minGenerationAge>

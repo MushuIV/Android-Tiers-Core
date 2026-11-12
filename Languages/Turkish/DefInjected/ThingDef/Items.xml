@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATPP_NanitesHydraulicSerum.label>Nanit Bankası (Hidrolik)</ATPP_NanitesHydraulicSerum.label>
+  <ATPP_NanitesHydraulicSerum.description>Yaşlılığa bağlı bozuk android hidrolik sistemlerini onarmak için ayarlanmış tek kullanımlık bir nanit bankası.</ATPP_NanitesHydraulicSerum.description>
+  <ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>Android yaşlılık sorunlarını gidermek için bu nanit serumunu kullan</ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesCPUSerum.label>Nanit Bankası (CPU)</ATPP_NanitesCPUSerum.label>
+  <ATPP_NanitesCPUSerum.description>Yaşlılığa bağlı bozuk android yapay beyin sistemlerini onarmak için ayarlanmış tek kullanımlık bir nanit bankası.</ATPP_NanitesCPUSerum.description>
+  <ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>Android yaşlılık sorunlarını gidermek için bu nanit serumunu kullan</ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesCoolingSerum.label>Nanit Bankası (Soğutma)</ATPP_NanitesCoolingSerum.label>
+  <ATPP_NanitesCoolingSerum.description>Aşırı ısınma durumunda (yaşlılığa bağlı) bozuk android soğutma sistemlerini onarmak için ayarlanmış tek kullanımlık bir nanit bankası.</ATPP_NanitesCoolingSerum.description>
+  <ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>Android yaşlılık sorunlarını gidermek için bu nanit serumunu kullan</ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesFrameSerum.label>Nanit Bankası (İskelet)</ATPP_NanitesFrameSerum.label>
+  <ATPP_NanitesFrameSerum.description>Yaşlılığa bağlı bozuk android dış iskeletlerini onarmak için ayarlanmış tek kullanımlık bir nanit bankası.</ATPP_NanitesFrameSerum.description>
+  <ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>Android yaşlılık sorunlarını gidermek için bu nanit serumunu kullan</ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>
+  <ATPP_AndroidNanokitBasic.label>Temel Nanokit</ATPP_AndroidNanokitBasic.label>
+  <ATPP_AndroidNanokitBasic.description>Androidlerin yaralarını tedavi etmek için nanobotlar içeren bir kit.</ATPP_AndroidNanokitBasic.description>
+  <ATPP_AndroidNanokitIntermediate.label>Orta Seviye Nanokit</ATPP_AndroidNanokitIntermediate.label>
+  <ATPP_AndroidNanokitIntermediate.description>Androidlerin yaralarını tedavi etmek için nanobotlar içeren bir kit.</ATPP_AndroidNanokitIntermediate.description>
+  <ATPP_AndroidNanokitAdvanced.label>Gelişmiş Nanokit</ATPP_AndroidNanokitAdvanced.label>
+  <ATPP_AndroidNanokitAdvanced.description>Androidlerin yaralarını tedavi etmek için nanobotlar içeren bir kit.</ATPP_AndroidNanokitAdvanced.description>
+  <ATPP_RXChip.label>RX Nöral Çip</ATPP_RXChip.label>
+  <ATPP_RXChip.description>Kişisel SkyMind aktarıcısı olarak işlev gören bir nöral çip.</ATPP_RXChip.description>
+  <ATPP_VX0Chip.label>VX0 Nöral Çip</ATPP_VX0Chip.label>
+  <ATPP_VX0Chip.description>Konağını biyolojik bir vekile dönüştüren bir nöral çip.</ATPP_VX0Chip.description>
+  <ATPP_VX1Chip.label>VX1 Nöral Çip</ATPP_VX1Chip.label>
+  <ATPP_VX1Chip.description>Konağının herhangi bir SX serisi androidi veya biyolojik vekili uzaktan kontrol etmesini sağlayan bir nöral çip.</ATPP_VX1Chip.description>
+  <ATPP_VX2Chip.label>VX2 Nöral Çip</ATPP_VX2Chip.label>
+  <ATPP_VX2Chip.description>Konağının herhangi bir SX serisi androidi veya biyolojik vekili uzaktan kontrol etmesini ve zihnini değiş tokuş etmesini/kopyalamasını sağlayan bir nöral çip.</ATPP_VX2Chip.description>
+  <ATPP_VX3Chip.label>VX3 Nöral Çip</ATPP_VX3Chip.label>
+  <ATPP_VX3Chip.description>Konağının aynı anda birden fazla SX serisi androidi veya biyolojik vekili uzaktan kontrol etmesini ve zihnini değiş tokuş etmesini/kopyalamasını sağlayan bir nöral çip.</ATPP_VX3Chip.description>
+  <ATPP_T1ArtificialBrain.label>T1 Yapay Beyin</ATPP_T1ArtificialBrain.label>
+  <ATPP_T1ArtificialBrain.description>Bir vekili boş nöral ağlı bir androide dönüştürmeye olanak tanıyan bir T1 yapay beyin</ATPP_T1ArtificialBrain.description>
+  <ATPP_T2ArtificialBrain.label>T2 Yapay Beyin</ATPP_T2ArtificialBrain.label>
+  <ATPP_T2ArtificialBrain.description>Bir vekili boş nöral ağlı bir androide dönüştürmeye olanak tanıyan bir T2 yapay beyin</ATPP_T2ArtificialBrain.description>
+  <ATPP_T3ArtificialBrain.label>T3 Yapay Beyin</ATPP_T3ArtificialBrain.label>
+  <ATPP_T3ArtificialBrain.description>Bir vekili boş nöral ağlı bir androide dönüştürmeye olanak tanıyan bir T3 yapay beyin</ATPP_T3ArtificialBrain.description>
+  <ATPP_T4ArtificialBrain.label>T4 Yapay Beyin</ATPP_T4ArtificialBrain.label>
+  <ATPP_T4ArtificialBrain.description>Bir vekili boş nöral ağlı bir androide dönüştürmeye olanak tanıyan bir T4 yapay beyin</ATPP_T4ArtificialBrain.description>
+  <ATPP_SyntheticSkinGland.label>sentetik deri bezi</ATPP_SyntheticSkinGland.label>
+  <ATPP_SyntheticSkinGland.description>Uyuyan bir epidermal matristen ve besin mikro kanallarından oluşan gelişmiş bir biyo-sentetik organ. Bir TX serisi savaş şasisine nakledildiğinde veya tank montajı sırasında entegre edildiğinde genişleyerek deri altı kılıfla bütünleşir; insan benzeri ısı yalıtımı, dokunsal duyu tepkisi ve gerçekçi bir deri kamuflajı sağlar.</ATPP_SyntheticSkinGland.description>
+  <ATPP_GS_TX2KMale.label>Erkek TX2K iskeleti</ATPP_GS_TX2KMale.label>
+  <ATPP_GS_TX2KMale.description>Derisi büyüdüğünde bir tankta etkinleştirilmeyi bekleyen devre dışı bir TX2K işlevsel dış iskeleti</ATPP_GS_TX2KMale.description>
+  <ATPP_GS_TX2KFemale.label>Kadın TX2K iskeleti</ATPP_GS_TX2KFemale.label>
+  <ATPP_GS_TX2KFemale.description>Derisi büyüdüğünde bir tankta etkinleştirilmeyi bekleyen devre dışı bir TX2K işlevsel dış iskeleti</ATPP_GS_TX2KFemale.description>
+  <ATPP_GS_TX3Male.label>Erkek TX3 iskeleti</ATPP_GS_TX3Male.label>
+  <ATPP_GS_TX3Male.description>Derisi büyüdüğünde bir tankta etkinleştirilmeyi bekleyen devre dışı bir TX3 işlevsel dış iskeleti</ATPP_GS_TX3Male.description>
+  <ATPP_GS_TX3Female.label>Kadın TX3 iskeleti</ATPP_GS_TX3Female.label>
+  <ATPP_GS_TX3Female.description>Derisi büyüdüğünde bir tankta etkinleştirilmeyi bekleyen devre dışı bir TX3 işlevsel dış iskeleti</ATPP_GS_TX3Female.description>
+  <ATPP_GS_TX4Male.label>Erkek TX4 iskeleti</ATPP_GS_TX4Male.label>
+  <ATPP_GS_TX4Male.description>Derisi büyüdüğünde bir tankta etkinleştirilmeyi bekleyen devre dışı bir TX4 işlevsel dış iskeleti</ATPP_GS_TX4Male.description>
+  <ATPP_GS_TX4Female.label>Kadın TX4 iskeleti</ATPP_GS_TX4Female.label>
+  <ATPP_GS_TX4Female.description>Derisi büyüdüğünde bir tankta etkinleştirilmeyi bekleyen devre dışı bir TX4 işlevsel dış iskeleti</ATPP_GS_TX4Female.description>
+</LanguageData>

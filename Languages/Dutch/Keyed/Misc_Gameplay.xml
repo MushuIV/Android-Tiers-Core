@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- Alerts -->
 	<ATPP_AlertHot3Devices>Computer oververhit</ATPP_AlertHot3Devices>
 	<ATPP_AlertHot3DevicesDesc>Een of meer van je computers hebben de maximale temperatuurdrempel bereikt! Zorg snel voor een geschikte temperatuur!</ATPP_AlertHot3DevicesDesc>
 	<ATPP_AlertHot2Devices>Computer warm</ATPP_AlertHot2Devices>
 	<ATPP_AlertHot2DevicesDesc>Een of meer van je computers zijn warm, verlaag snel de omgevingstemperatuur!</ATPP_AlertHot2DevicesDesc>
 	<ATPP_AlertUnsecurisedClients>{0} onbeveiligde SkyMind-clients</ATPP_AlertUnsecurisedClients>
 	<ATPP_AlertUnsecurisedClientsDesc>Waarschuwing: je hebt mogelijk {0} SkyMind-clients die via het netwerk kunnen worden gehackt; bouw beveiligingsservers om dit te voorkomen.</ATPP_AlertUnsecurisedClientsDesc>
-	<!-- Incidents -->
 	<ATPP_IncidentSurrogateHackingVirus>SX-virus</ATPP_IncidentSurrogateHackingVirus>
 	<ATPP_IncidentSurrogateHackingCryptolocker>SX-cryptolocker</ATPP_IncidentSurrogateHackingCryptolocker>
 	<ATPP_IncidentSurrogateHackingExplosiveVirus>Explosief SX-virus</ATPP_IncidentSurrogateHackingExplosiveVirus>
@@ -27,16 +25,13 @@
 	<ATPP_LetterFactionRansomware>Ransomware</ATPP_LetterFactionRansomware>
 	<ATPP_LetterFactionRansomwareSkillStolenDesc>{0} heeft via het SkyMind-netwerk geheugengebieden beschadigd die overeenkomen met de vaardigheid '{1}' van {2}'s brein.</ATPP_LetterFactionRansomwareSkillStolenDesc>
 	<ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>{0} heeft via het SkyMind-netwerk het brein van {1} geïnfecteerd en de slechte eigenschap '{2}' geïnstalleerd.</ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>
-	<!-- Needs -->
 	<ATPP_EnergyNeed>Energie</ATPP_EnergyNeed>
 	<ATPP_EnergyNeedDesc>Energie is de hoeveelheid stroom die een android in diens interne batterij heeft. Als deze op nul staat, zal een android steeds meer storingen vertonen en uiteindelijk worden gedeactiveerd (sterven).</ATPP_EnergyNeedDesc>
-	<!-- NanoKits -->
 	<ATPP_NanoKitsNoCare>Geen reparatie</ATPP_NanoKitsNoCare>
 	<ATPP_NanoKitsNoKitJustVisit>Bezoek van de technicus zonder nanokits</ATPP_NanoKitsNoKitJustVisit>
 	<ATPP_NanoKitsBasic>Basis-nanokit</ATPP_NanoKitsBasic>
 	<ATPP_NanoKitsIntermediate>Gemiddelde nanokit</ATPP_NanoKitsIntermediate>
 	<ATPP_NanoKitsAdvanced>Geavanceerde nanokit</ATPP_NanoKitsAdvanced>
-	<!-- CompInspectPane -->
 	<ATPP_UploadPercentage>Geestupload: {0}%</ATPP_UploadPercentage>
 	<ATPP_DownloadPercentage>Geestdownload: {0}%</ATPP_DownloadPercentage>
 	<ATPP_PermutationPercentage>Geestpermutatie: {0}%</ATPP_PermutationPercentage>
@@ -62,17 +57,14 @@
 	<ATPP_MindAbsorptionProgress>Bewustzijnsabsorptie bezig {0}%</ATPP_MindAbsorptionProgress>
 	<ATPP_Rusted>Geroest</ATPP_Rusted>
 	<ATPP_BatteryExplodeInProgress>Batterij-explosie {0}%</ATPP_BatteryExplodeInProgress>
-	<!-- AutoDoor -->
 	<ATPP_AutoDoorOpen>Openen</ATPP_AutoDoorOpen>
 	<ATPP_AutoDoorOpenDescription>Op afstand openen via een SkyCloud-kern.</ATPP_AutoDoorOpenDescription>
 	<ATPP_AutoDoorClose>Sluiten</ATPP_AutoDoorClose>
 	<ATPP_AutoDoorCloseDescription>Op afstand sluiten via een SkyCloud-server.</ATPP_AutoDoorCloseDescription>
 	<ATPP_AutoDoorOpenMoteText>Openen via SkyCloud</ATPP_AutoDoorOpenMoteText>
 	<ATPP_AutoDoorCloseMoteText>Sluiten via SkyCloud</ATPP_AutoDoorCloseMoteText>
-	<!-- AutoFlickering -->
 	<ATPP_FlickEnable>Inschakelen via SkyCloud</ATPP_FlickEnable>
 	<ATPP_FlickDisable>Uitschakelen via SkyCloud</ATPP_FlickDisable>
-	<!-- Letters -->
 	<ATPP_LetterSurrogateDisabled>Surrogaat {0} uitgeschakeld</ATPP_LetterSurrogateDisabled>
 	<ATPP_LetterSurrogateDisabledDesc>Surrogaat {0} is niet langer operationeel na een gewelddadige aanval op diens fysieke integriteit.</ATPP_LetterSurrogateDisabledDesc>
 	<ATPP_LetterUploadOK>Upload voltooid</ATPP_LetterUploadOK>
@@ -133,10 +125,8 @@
 	<ATPP_LetterExternalSurrogateDisconnectDesc>{0}, de bestuurder van de surrogaat die je probeerde te knechten, heeft de verbinding verbroken omdat hij en diens factie het gevoel hebben geen informatie meer uit je kolonie te kunnen halen en doorgaan als slaaf tijdverspilling zou zijn.</ATPP_LetterExternalSurrogateDisconnectDesc>
 	<ATPP_LetterKidnappedM8Disconnected>M8-ontkoppeling</ATPP_LetterKidnappedM8Disconnected>
 	<ATPP_LetterKidnappedM8DisconnectedDesc>De ontvoerders van je M8 ({0} met {1}) wisten uiteindelijk toegang te krijgen tot diens communicatiecircuits. Toen ze beseften dat de machine bleef communiceren via diens geïntegreerde SkyMind-antenne, koppelden ze deze los. Je kunt dus niet langer inloggen op {1}.</ATPP_LetterKidnappedM8DisconnectedDesc>
-	<!-- Designators -->
 	<ATPP_DesignatorNeedSelectSX>Fout: Je moet een geldig apparaat selecteren dat is verbonden met het SkyMind-netwerk!</ATPP_DesignatorNeedSelectSX>
 	<ATPP_DesignatorNeedSelectSXToHack>Fout: Je moet een surrogaat-android selecteren die door een andere factie dan de jouwe wordt bestuurd!</ATPP_DesignatorNeedSelectSXToHack>
-	<!-- Comps -->
 	<ATPP_SkyMindConn>Verbinden met SkyMind</ATPP_SkyMindConn>
 	<ATPP_SkyMindConnDesc>Verbind deze kolonist met het SkyMind-netwerk om geestupload/-permutatie/-duplicatie mogelijk te maken of om op afstand SX-serie androids of biologische surrogaten te besturen.</ATPP_SkyMindConnDesc>
 	<ATPP_SkyMindAutoConn>Automatische verbinding</ATPP_SkyMindAutoConn>
@@ -222,13 +212,11 @@
 	<ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>Pas op: bij bevestiging raakt de batterij van de geselecteerde android overbelast en zal na korte tijd ontploffen. Wil je echt doorgaan?</ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>
 	<ATPP_OverloadAndroid>Overbelasten</ATPP_OverloadAndroid>
 	<ATPP_OverloadAndroidDesc>Laat de batterij van de android ontploffen</ATPP_OverloadAndroidDesc>
-	<!-- Power++ compat -->
 	<ATPP_LWPNConnected>Verbonden met {0}</ATPP_LWPNConnected>
 	<ATPP_LWPNDisconnected>Losgekoppeld van {0}</ATPP_LWPNDisconnected>
 	<ATPP_NoAvailableLWPN>Geen beschikbare LWPN</ATPP_NoAvailableLWPN>
 	<ATPP_LWPNNbConnectedAndroid>Verbonden androids : {0}</ATPP_LWPNNbConnectedAndroid>
 	<ATPP_MessageLWPNNoSlotAvailable>Geen vrij LWPN-slot beschikbaar!</ATPP_MessageLWPNNoSlotAvailable>
-	<!-- Buildings -->
 	<ATPP_SkyMindAntennaSynthesis>Verbonden gebruikers: {0} / {1}</ATPP_SkyMindAntennaSynthesis>
 	<ATPP_ForceReload>Batterij opladen forceren</ATPP_ForceReload>
 	<ATPP_CannotUseEveryPlaceUsed>Kan niet gebruiken, het laadstation is vol.</ATPP_CannotUseEveryPlaceUsed>
@@ -241,7 +229,6 @@
 	<ATPP_SkillServersSynthesis>Vaardigheidspunten beschikbaar: {0} / {1}</ATPP_SkillServersSynthesis>
 	<ATTP_SkillSlotsAdded>Vaardigheidsslots toegevoegd: {0}</ATTP_SkillSlotsAdded>
 	<ATTP_SkillProducedPoints>Geproduceerde vaardigheidspunten: {0}</ATTP_SkillProducedPoints>
-	<!-- Colors -->
 	<ATPP_HairColor>Haarkleur</ATPP_HairColor>
 	<ATPP_HairColorBlond>Blond</ATPP_HairColorBlond>
 	<ATPP_HairColorBlack>Zwart</ATPP_HairColorBlack>
@@ -256,7 +243,6 @@
 	<ATPP_SkinColorMidbrown>Middenbruin</ATPP_SkinColorMidbrown>
 	<ATPP_SkinColorDarkbrown>Donkerbruin</ATPP_SkinColorDarkbrown>
 	<ATPP_SkinColorVerydark>Zeer donkerbruin</ATPP_SkinColorVerydark>
-	<!-- Messages -->
 	<ATPP_CannotConnectToSkyMindNoNet>Kan geen verbinding maken met SkyMind, geen netwerk beschikbaar!</ATPP_CannotConnectToSkyMindNoNet>
 	<ATPP_CannotConnectToSkyMind>Kan geen verbinding maken met SkyMind, onvoldoende slots beschikbaar!</ATPP_CannotConnectToSkyMind>
 	<ATPP_SurrogateUnexpectedDisconnection>Onverwachte ontkoppeling: {0} is niet langer verbonden met het SkyMind-netwerk!</ATPP_SurrogateUnexpectedDisconnection>
@@ -298,7 +284,6 @@
 	<ATPP_MindAbsorptionStarted>Bewustzijnsabsorptie van {0} gestart</ATPP_MindAbsorptionStarted>
 	<ATPP_NotEnoughtSkillPoints>Niet genoeg beschikbare vaardigheidspunten! ({0} punten vereist)</ATPP_NotEnoughtSkillPoints>
 	<ATPP_CannotAddVXNeuralChipInSurrogates>Kan dit type chip niet in een surrogaat plaatsen! De chip is beschadigd en kan niet meer worden gebruikt!</ATPP_CannotAddVXNeuralChipInSurrogates>
-	<!-- Settings -->
 	<ATPP_SettingsSectionGeneral>Algemeen</ATPP_SettingsSectionGeneral>
 	<ATPP_SettingsSectionSkyCloud>SkyCloud</ATPP_SettingsSectionSkyCloud>
 	<ATPP_SettingsSectionSecurity>Beveiliging</ATPP_SettingsSectionSecurity>
@@ -410,4 +395,12 @@
 	<ATPP_SettingsAndroidOverloadExplosionTypeFire>Brandstichtend</ATPP_SettingsAndroidOverloadExplosionTypeFire>
 	<ATPP_SettingsSetT1ResearchToIndustrialTechLevel>T1-onderzoek wijzigen naar industrieel technologisch niveau in plaats van spacer</ATPP_SettingsSetT1ResearchToIndustrialTechLevel>
 	<ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>Bij geestduplicatie worden vaardigheden van unieke rollen overgedragen naar de bestemmingsgeest</ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>
+	<ATPP_AppliedSyntheticSkinSuccess>Synthetische huidlaag succesvol getransplanteerd op {0}. De eenheid is nu een infiltratiechassis.</ATPP_AppliedSyntheticSkinSuccess>
+	<ATPP_RemovedSyntheticSkinSuccess>Synthetische huid succesvol verwijderd van {0}, waardoor het ruwe zware gevechtsendoskelet zichtbaar wordt.</ATPP_RemovedSyntheticSkinSuccess>
+	<ATPP_AndroidSpawned>{0} is aangemaakt.</ATPP_AndroidSpawned>
+	<ATPP_Transcendant>Transcendent</ATPP_Transcendant>
+	<ATPP_LWPSel>Selecteer LWPN</ATPP_LWPSel>
+	<ATPP_WPNListRow>{0} ({1} W beschikbaar)</ATPP_WPNListRow>
+	<ATPP_ClearCurrentWPNConnection>Huidige LWPN-verbinding wissen</ATPP_ClearCurrentWPNConnection>
+	<ATPP_LocalWirelessPowerSelectorListTitle>Selecteer lokaal draadloos stroomnetwerk</ATPP_LocalWirelessPowerSelectorListTitle>
 </LanguageData>

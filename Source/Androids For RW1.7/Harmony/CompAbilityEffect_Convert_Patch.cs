@@ -31,6 +31,7 @@ namespace MOARANDROIDS
         }
 
         [HarmonyPatch(typeof(CompAbilityEffect_Convert), "Valid")]
+        [HarmonyPatch(new Type[] { typeof(LocalTargetInfo), typeof(bool) })]
         public class CompAbilityEffect_Convert_Valid_Patch
         {
             [HarmonyPrefix]
@@ -46,6 +47,7 @@ namespace MOARANDROIDS
         }
 
         [HarmonyPatch(typeof(CompAbilityEffect_Convert), "Apply")]
+        [HarmonyPatch(new Type[] { typeof(LocalTargetInfo), typeof(LocalTargetInfo) })]
         public class CompAbilityEffect_Convert_Apply_Patch
         {
             [HarmonyPrefix]

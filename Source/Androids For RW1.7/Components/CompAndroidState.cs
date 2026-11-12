@@ -102,6 +102,51 @@ namespace MOARANDROIDS
             }
         }
 
+        private bool refreshDefFlags()
+        {
+            if (currentPawn == null)
+                currentPawn = (Pawn)parent;
+            if (currentPawn == null)
+                return false;
+
+            isAndroidWithSkin = Utils.ExceptionAndroidWithSkinList.Contains(currentPawn.def.defName);
+            dontRust = Utils.ExceptionAndroidsDontRust.Contains(currentPawn.def.defName);
+
+            bool isAndroidTier = currentPawn.IsAndroidTier();
+            this.isAndroidTIer = isAndroidTier;
+            isAndroidOrAnimalTier = currentPawn.IsAndroidOrAnimalTier();
+
+            isOrganic = !isAndroidTier && !Utils.ExceptionAndroidAnimalPowered.Contains(currentPawn.def.defName);
+
+            if (isOrganic)
+                useBattery = false;
+
+            return isAndroidTier;
+        }
+
+        public void refreshDefState()
+        {
+            if (!init)
+            {
+                initComp();
+                return;
+            }
+
+            refreshDefFlags();
+            TXHurtedHeadSet = false;
+            TXHurtedHeadSet2 = false;
+            forcedDamageLevel = 0;
+
+            if (isAndroidWithSkin)
+            {
+                checkTXWithSkinFacialTextureUpdate(true);
+            }
+            else
+            {
+                hair = null;
+            }
+        }
+
         private void initComp()
         {
             if (init)
@@ -110,19 +155,7 @@ namespace MOARANDROIDS
             init = true;
             currentPawn = (Pawn)parent;
             csm = Utils.getCachedCSM(currentPawn);
-            isAndroidWithSkin = Utils.ExceptionAndroidWithSkinList.Contains(currentPawn.def.defName);
-            dontRust = Utils.ExceptionAndroidsDontRust.Contains(currentPawn.def.defName);
-
-            bool isAndroidTier = currentPawn.IsAndroidTier();
-            isAndroidOrAnimalTier = currentPawn.IsAndroidOrAnimalTier();
-
-            if (!isAndroidTier && !Utils.ExceptionAndroidAnimalPowered.Contains(currentPawn.def.defName))
-            {
-                isOrganic = true;
-            }
-
-            if (isOrganic)
-                useBattery = false;
+            bool isAndroidTier = refreshDefFlags();
 
             if(isSurrogate)
                 Utils.GCATPP.pushSurrogateAndroid(currentPawn);
@@ -580,7 +613,7 @@ namespace MOARANDROIDS
             }
         }
 
-        public void checkTXWithSkinFacialTextureUpdate()
+        public void checkTXWithSkinFacialTextureUpdate(bool forceReset = false)
         {
             try
             {
@@ -623,7 +656,7 @@ namespace MOARANDROIDS
                     }
                     else
                     {
-                        if ((TXHurtedHeadSet || !init) && cp.health.summaryHealth.SummaryHealthPercent > 0.85f )
+                        if ((TXHurtedHeadSet || !init || forceReset) && cp.health.summaryHealth.SummaryHealthPercent > 0.85f )
                         {
                             TXHurtedHeadSet = false;
                             TXHurtedHeadSet2 = false;
@@ -637,7 +670,7 @@ namespace MOARANDROIDS
                             cp.Drawer.renderer.SetAllGraphicsDirty();
                             PortraitsCache.SetDirty(cp);
                         }
-                        else if ((TXHurtedHeadSet2 || !init) && cp.health.summaryHealth.SummaryHealthPercent > 0.45f)
+                        else if ((TXHurtedHeadSet2 || !init || forceReset) && cp.health.summaryHealth.SummaryHealthPercent > 0.45f)
                         {
                             TXHurtedHeadSet2 = false;
                             TXHurtedHeadSet = false;
@@ -645,7 +678,8 @@ namespace MOARANDROIDS
                             if (cp.health.summaryHealth.SummaryHealthPercent <= 0.85f)
                                 TXHurtedHeadSet = true;
 
-                            cp.story.hairDef = hair;
+                            if (hair != null)
+                                cp.story.hairDef = hair;
                             hair = null;
                             if (cp.health.summaryHealth.SummaryHealthPercent <= 0.85f)
                             {
@@ -660,15 +694,6 @@ namespace MOARANDROIDS
                             cp.Drawer.renderer.SetAllGraphicsDirty();
                             PortraitsCache.SetDirty(cp);
                         }
-                        //(string)Traverse.Create(p1.story).Field("headGraphicPath").GetValue();
-                    }
-
-                    if(Utils.RIMMSQOL_LOADED && Utils.lastResolveAllGraphicsHeadGraphicPath != null)
-                    {
-                        cp.story.GetType().GetField("headGraphicPath", BindingFlags.NonPublic | BindingFlags.Instance).SetValue(cp.story, Utils.lastResolveAllGraphicsHeadGraphicPath);
-                        Utils.lastResolveAllGraphicsHeadGraphicPath = null;
-                        /*cp.Drawer.renderer.SetAllGraphicsDirty();
-                        PortraitsCache.SetDirty(cp);*/
                     }
                 }
             }
@@ -1067,7 +1092,7 @@ namespace MOARANDROIDS
                     yield return new Command_Action
                     {
                         icon = tex,
-                        defaultLabel = "ARKPPP_LWPSel".Translate(),
+                        defaultLabel = Translator.CanTranslate("ARKPPP_LWPSel") ? "ARKPPP_LWPSel".Translate() : "ATPP_LWPSel".Translate(),
                         defaultDesc = "",
                         action = delegate ()
                         {
@@ -1085,8 +1110,10 @@ namespace MOARANDROIDS
                                     if (compLWPNEmitter != null)
                                     {
                                         string lib = getConnectedLWPNLabel(build);
+                                        string rowPower = ((int)Utils.getCurrentAvailableEnergy(build.PowerComp.PowerNet)).ToString();
+                                        string rowLabel = Translator.CanTranslate("ARKPPP_WPNListRow") ? "ARKPPP_WPNListRow".Translate(lib, rowPower) : "ATPP_WPNListRow".Translate(lib, rowPower);
 
-                                        opts.Add(new FloatMenuOption("ARKPPP_WPNListRow".Translate(lib,((int)Utils.getCurrentAvailableEnergy(build.PowerComp.PowerNet)).ToString()), delegate
+                                        opts.Add(new FloatMenuOption(rowLabel, delegate
                                         {
                                             if(connectedLWPN  != null)
                                             {
@@ -1119,7 +1146,8 @@ namespace MOARANDROIDS
                             //Si le recepteur est configuré pour se connecter a un LWPN définis on ajoute une option de deconnexion
                             if (connectedLWPN != null)
                             {
-                                opts.Add(new FloatMenuOption("ARKPPP_ClearCurrentWPNConnection".Translate(), delegate
+                                string clearLabel = Translator.CanTranslate("ARKPPP_ClearCurrentWPNConnection") ? "ARKPPP_ClearCurrentWPNConnection".Translate() : "ATPP_ClearCurrentWPNConnection".Translate();
+                                opts.Add(new FloatMenuOption(clearLabel, delegate
                                 {
                                     if(connectedLWPN != null)
                                         Utils.GCATPP.popLWPNAndroid(connectedLWPN, (Pawn)parent);
@@ -1131,7 +1159,8 @@ namespace MOARANDROIDS
                                 }, MenuOptionPriority.Default, null, null, 0f, null, null));
                             }
 
-                            floatMenuMap = new FloatMenu(opts, "ARKPPP_LocalWirelessPowerSelectorListTitle".Translate());
+                            string titleLabel = Translator.CanTranslate("ARKPPP_LocalWirelessPowerSelectorListTitle") ? "ARKPPP_LocalWirelessPowerSelectorListTitle".Translate() : "ATPP_LocalWirelessPowerSelectorListTitle".Translate();
+                            floatMenuMap = new FloatMenu(opts, titleLabel);
                             Find.WindowStack.Add(floatMenuMap);
                         }
                     };

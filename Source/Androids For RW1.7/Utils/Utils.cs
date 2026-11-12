@@ -182,7 +182,7 @@ namespace MOARANDROIDS
         "Imouto_Civil","ImoutoTribe"  //ImoutoTribe
         }.GetSortedArray();
 
-        public static HashSet<string> ExceptionAndroidWithGlowingEyes = new HashSet<string> { "ATPP_Android2TX", "ATPP_Android3ITX", "ATPP_Android4ITX", "ATPP_Android2KITX" };
+        public static HashSet<string> ExceptionAndroidWithGlowingEyes = new HashSet<string> { "ATPP_Android2ITX", "ATPP_Android3ITX", "ATPP_Android4ITX", "ATPP_Android2KITX" };
 
         public static string[] ExceptionSkinColors = new string[] { "Verylight", "Light", "Fair", "Midbrown", "Darkbrown", "Verydark" }.GetSortedArray();
         public static string[] ExceptionHairColors = new string[] { "Blond", "Black", "Auburn", "Grey", "Ginger", "White" }.GetSortedArray();
@@ -228,7 +228,7 @@ namespace MOARANDROIDS
         public static HashSet<string> ExceptionRegularAndroidList = new HashSet<string> { "Android1Tier", "Android2Tier", "Android3Tier", "Android4Tier", "Android5Tier", "AT_HellUnit", "ATPP_Android2TX", "ATPP_Android3TX", "ATPP_Android4TX", "ATPP_Android2KTX", "ATPP_Android2ITX", "ATPP_Android2KITX", "ATPP_Android3ITX", "ATPP_Android4ITX" };
         public static HashSet<string> ExceptionAndroidList = new HashSet<string> { "Android1Tier", "Android2Tier", "Android3Tier", "Android4Tier", "Android5Tier", "M7Mech", "M8Mech", "AT_HellUnit", "ATPP_Android2TX", "ATPP_Android3TX", "ATPP_Android4TX", "ATPP_Android2KTX", "ATPP_Android2ITX", "ATPP_Android2KITX", "ATPP_Android3ITX", "ATPP_Android4ITX" };
         public static HashSet<string> ExceptionAndroidCorpseList = new HashSet<string> { "Corpse_Android1Tier", "Corpse_Android2Tier", "Corpse_Android3Tier", "Corpse_Android4Tier", "Corpse_Android5Tier", "Corpse_AT_HellUnit", "Corpse_M7Mech", "Corpse_M8Mech" };
-        public static string[] ExceptionAndroidListBasic = new string[] { "Android1Tier", "Android2Tier", "M7Mech", "M8Mech", "ATPP_Android2TX", "ATPP_Android2KTX", "ATPP_Android2ITX" }.GetSortedArray();
+        public static string[] ExceptionAndroidListBasic = new string[] { "Android1Tier", "Android2Tier", "M7Mech", "M8Mech", "ATPP_Android2TX", "ATPP_Android2KTX", "ATPP_Android2ITX", "ATPP_Android2KITX" }.GetSortedArray();
         public static HashSet<string> ExceptionAndroidListAdvanced = new HashSet<string> { "Android3Tier", "Android4Tier", "Android5Tier", "AT_HellUnit", "ATPP_Android3TX", "ATPP_Android4TX", "ATPP_Android3ITX", "ATPP_Android4ITX" };
         public static string[] ExceptionAndroidAnimalPowered = new string[] { "AndroidMuff", "AndroidDog", "RoboticSheep", "RoboticCow", "AndroidFox" }.GetSortedArray();
         public static string[] ExceptionAndroidAnimals = new string[] { "AndroidMuff", "AndroidDog", "RoboticSheep", "RoboticCow", "AndroidChicken", "AndroidFox" }.GetSortedArray();
@@ -1729,15 +1729,8 @@ namespace MOARANDROIDS
                 st2.title = p1.story.title;
 
 
-                string vhg1 = (string) Traverse.Create(p1.story).Field("headGraphicPath").GetValue();
-                string vhg2 = (string)Traverse.Create(p2.story).Field("headGraphicPath").GetValue();
-
-
                 p1.story = st2;
                 p2.story = st1;
-
-                Traverse.Create(p1.story).Field("headGraphicPath").SetValue(vhg1);
-                Traverse.Create(p2.story).Field("headGraphicPath").SetValue(vhg2);
                 //Log.Message("L6");
 
                 /******************** Royal TITLES ******************************/
@@ -2625,18 +2618,7 @@ namespace MOARANDROIDS
             Duplicate(pawn, p, false);
             //Traverse.Create(p.story).Field("headGraphicPath").SetValue(pawn.story.HeadGraphicPath);
 
-            //Report crownType stocké dans le comp d'alien race
-            ThingComp alienComp = TryGetCompByTypeName(pawn, "AlienComp", "AlienRace");
-            if (alienComp != null)
-            {
-                string crownType = (string) Traverse.Create(alienComp).Field("crownType").GetValue();
-
-                ThingComp alienComp2 = TryGetCompByTypeName(p, "AlienComp", "AlienRace");
-                if(alienComp2 != null)
-                {
-                    Traverse.Create(alienComp2).Field("crownType").SetValue(crownType);
-                }
-            }
+            //HeadTypeDef is already copied above via p.story.headType = pawn.story.headType
 
             //headGraphicPathToUse = pawn.story.HeadGraphicPath;
             p.Drawer.renderer.SetAllGraphicsDirty();
@@ -3019,16 +3001,37 @@ namespace MOARANDROIDS
 
         public static void changeHARCrownType(Pawn pawn, string type)
         {
-            ThingComp alienComp = Utils.TryGetCompByTypeName(pawn, "AlienComp", "AlienRace");
-            if (alienComp != null)
-            {
-                string crownType = (string)Traverse.Create(alienComp).Field("crownType").GetValue();
+            if (pawn?.story == null || string.IsNullOrEmpty(type))
+                return;
 
-                ThingComp alienComp2 = Utils.TryGetCompByTypeName(pawn, "AlienComp", "AlienRace");
-                if (alienComp2 != null)
-                {
-                    Traverse.Create(alienComp2).Field("crownType").SetValue(type);
-                }
+            string genderPrefix = pawn.gender == Gender.Female ? "Female" : "Male";
+            string headDefName;
+            switch (type)
+            {
+                case "Average_Normal":
+                    headDefName = genderPrefix + "_AverageNormal";
+                    break;
+                case "Average_Hurted":
+                    headDefName = "ATPP_" + genderPrefix + "_Average_Hurted";
+                    break;
+                case "Average_Hurted2":
+                    headDefName = "ATPP_" + genderPrefix + "_Average_Hurted2";
+                    break;
+                case "AndroidPaintJob_1":
+                    headDefName = "ATPP_Male_AndroidPaintJob_1";
+                    break;
+                case "AndroidPaintJob_2":
+                    headDefName = "ATPP_Male_AndroidPaintJob_2";
+                    break;
+                default:
+                    headDefName = type;
+                    break;
+            }
+
+            HeadTypeDef headDef = DefDatabase<HeadTypeDef>.GetNamed(headDefName, false);
+            if (headDef != null)
+            {
+                pawn.story.headType = headDef;
             }
         }
 

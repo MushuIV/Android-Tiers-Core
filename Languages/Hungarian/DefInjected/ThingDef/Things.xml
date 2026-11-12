@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_T4BlankGeneratorAI.label>T4 üres android</ATPP_T4BlankGeneratorAI.label>
+  <ATPP_T4BlankGeneratorAI.description>Üres neurális hálózatú android készítése</ATPP_T4BlankGeneratorAI.description>
+  <ATPP_T3BlankGeneratorAI.label>T3 üres android</ATPP_T3BlankGeneratorAI.label>
+  <ATPP_T3BlankGeneratorAI.description>Üres neurális hálózatú android készítése</ATPP_T3BlankGeneratorAI.description>
+  <ATPP_Android2KTX.label>TX2K android</ATPP_Android2KTX.label>
+  <ATPP_Android2KTX.description>Egy prototípus android, amelyet kizárólag harctéri nehézgyalogságként való használatra terveztek; rendkívül ellenálló és súlyos közelharci sebzést okoz, azonban páncélzata miatt meglehetősen lassú, és korlátozott, lényegében harcra optimalizált processzora miatt képtelen összetett feladatok elvégzésére.</ATPP_Android2KTX.description>
+  <ATPP_Android2KITX.label>TX2KI android</ATPP_Android2KITX.label>
+  <ATPP_Android2KITX.description>Egy prototípus android (bőr nélkül), amelyet kizárólag harctéri nehézgyalogságként való használatra terveztek; rendkívül ellenálló és súlyos közelharci sebzést okoz, azonban páncélzata miatt meglehetősen lassú, és korlátozott, lényegében harcra optimalizált processzora miatt képtelen összetett feladatok elvégzésére.</ATPP_Android2KITX.description>
+  <ATPP_Android2ITX.label>TX2I android</ATPP_Android2ITX.label>
+  <ATPP_Android2ITX.description>A TX2 egy átalakított sorozata, amelyet T2 helyett harctéri gyalogságként használnak, elsősorban különleges megjelenésük miatt, amely félelmet kelt szerves ellenségeikben.</ATPP_Android2ITX.description>
+  <ATPP_Android3ITX.label>TX3I android</ATPP_Android3ITX.label>
+  <ATPP_Android3ITX.description>A TX3 egy átalakított sorozata, amelyet T3 helyett harctéri gyalogságként használnak, elsősorban különleges megjelenésük miatt, amely félelmet kelt szerves ellenségeikben.</ATPP_Android3ITX.description>
+  <ATPP_Android4ITX.label>TX4I android</ATPP_Android4ITX.label>
+  <ATPP_Android4ITX.description>A TX4 egy átalakított sorozata, amelyet T4 helyett harctéri gyalogságként használnak, elsősorban különleges megjelenésük miatt, amely félelmet kelt szerves ellenségeikben.</ATPP_Android4ITX.description>
+  <ATPP_Android4TX.label>TX4 android</ATPP_Android4TX.label>
+  <ATPP_Android4TX.description>A T4 egy különleges, beszivárgási küldetésekre tervezett sorozata; kissé módosított T4 belső vázát élő szövetek borítják, amelyek megvédik a rozsdásodástól, jobb társas hatást és EMP-/napkitörés-állóságot biztosítanak neki, azonban gyúlékonyabb.</ATPP_Android4TX.description>
+  <ATPP_Android3TX.label>TX3 android</ATPP_Android3TX.label>
+  <ATPP_Android3TX.description>A T3 egy különleges, beszivárgási küldetésekre tervezett sorozata; kissé módosított T3 belső vázát élő szövetek borítják, amelyek megvédik a rozsdásodástól, jobb társas hatást és EMP-/napkitörés-állóságot biztosítanak neki, azonban gyúlékonyabb.</ATPP_Android3TX.description>
+  <ATPP_Android2TX.label>TX2 android</ATPP_Android2TX.label>
+  <ATPP_Android2TX.description>A T2 egy különleges, beszivárgási küldetésekre tervezett sorozata; kissé módosított T2 belső vázát szintetikus gumibőr borítja, amely megvédi a rozsdásodástól, jobb társas hatást és EMP-/napkitörés-állóságot biztosít neki, azonban gyúlékonyabb.</ATPP_Android2TX.description>
+  <ATPP_Android2TX.tools.right_fist.label>jobb ököl</ATPP_Android2TX.tools.right_fist.label>
+  <ATPP_Android2TX.tools.left_fist.label>bal ököl</ATPP_Android2TX.tools.left_fist.label>
+  <ATPP_Android2ITX.tools.right_fist.label>jobb ököl</ATPP_Android2ITX.tools.right_fist.label>
+  <ATPP_Android2ITX.tools.left_fist.label>bal ököl</ATPP_Android2ITX.tools.left_fist.label>
+  <ATPP_Android2KITX.tools.right_fist.label>jobb ököl</ATPP_Android2KITX.tools.right_fist.label>
+  <ATPP_Android2KITX.tools.left_fist.label>bal ököl</ATPP_Android2KITX.tools.left_fist.label>
+  <ATPP_Android2KTX.tools.right_fist.label>jobb ököl</ATPP_Android2KTX.tools.right_fist.label>
+  <ATPP_Android2KTX.tools.left_fist.label>bal ököl</ATPP_Android2KTX.tools.left_fist.label>
+  <ATPP_Android3TX.tools.right_fist.label>jobb ököl</ATPP_Android3TX.tools.right_fist.label>
+  <ATPP_Android3TX.tools.left_fist.label>bal ököl</ATPP_Android3TX.tools.left_fist.label>
+  <ATPP_Android3ITX.tools.right_fist.label>jobb ököl</ATPP_Android3ITX.tools.right_fist.label>
+  <ATPP_Android3ITX.tools.left_fist.label>bal ököl</ATPP_Android3ITX.tools.left_fist.label>
+  <ATPP_Android4TX.tools.right_fist.label>jobb ököl</ATPP_Android4TX.tools.right_fist.label>
+  <ATPP_Android4TX.tools.left_fist.label>bal ököl</ATPP_Android4TX.tools.left_fist.label>
+  <ATPP_Android4ITX.tools.right_fist.label>jobb ököl</ATPP_Android4ITX.tools.right_fist.label>
+  <ATPP_Android4ITX.tools.left_fist.label>bal ököl</ATPP_Android4ITX.tools.left_fist.label>
+  <ATPP_TX4AndroidGeneratorAI.label>TX4 férfi android</ATPP_TX4AndroidGeneratorAI.label>
+  <ATPP_TX4AndroidGeneratorAI.description>Egy TX4 készítése, amely a T4 egy különleges, beszivárgási küldetésekre tervezett sorozata; kissé módosított T4 belső vázát élő szövetek borítják, amelyek megvédik a rozsdásodástól, jobb társas hatást és EMP-/napkitörés-állóságot biztosítanak neki, azonban gyúlékonyabb</ATPP_TX4AndroidGeneratorAI.description>
+  <ATPP_TX4FemaleAndroidGeneratorAI.label>TX4 női android</ATPP_TX4FemaleAndroidGeneratorAI.label>
+  <ATPP_TX4FemaleAndroidGeneratorAI.description>Egy TX4 készítése, amely a T4 egy különleges, beszivárgási küldetésekre tervezett sorozata; kissé módosított T4 belső vázát élő szövetek borítják, amelyek megvédik a rozsdásodástól, jobb társas hatást és EMP-/napkitörés-állóságot biztosítanak neki, azonban gyúlékonyabb</ATPP_TX4FemaleAndroidGeneratorAI.description>
+  <ATPP_TX3AndroidGeneratorAI.label>TX3 férfi android</ATPP_TX3AndroidGeneratorAI.label>
+  <ATPP_TX3AndroidGeneratorAI.description>Egy TX3 készítése, amely a T3 egy különleges, beszivárgási küldetésekre tervezett sorozata; kissé módosított T3 belső vázát élő szövetek borítják, amelyek megvédik a rozsdásodástól, jobb társas hatást és EMP-/napkitörés-állóságot biztosítanak neki, azonban gyúlékonyabb</ATPP_TX3AndroidGeneratorAI.description>
+  <ATPP_TX3FemaleAndroidGeneratorAI.label>TX3 női android</ATPP_TX3FemaleAndroidGeneratorAI.label>
+  <ATPP_TX3FemaleAndroidGeneratorAI.description>Egy TX3 készítése, amely a T3 egy különleges, beszivárgási küldetésekre tervezett sorozata; kissé módosított T3 belső vázát élő szövetek borítják, amelyek megvédik a rozsdásodástól, jobb társas hatást és EMP-/napkitörés-állóságot biztosítanak neki, azonban gyúlékonyabb</ATPP_TX3FemaleAndroidGeneratorAI.description>
+  <ATPP_TX2AndroidGeneratorAI.label>TX2 férfi android</ATPP_TX2AndroidGeneratorAI.label>
+  <ATPP_TX2AndroidGeneratorAI.description>Egy TX2 készítése, amely a T2 egy különleges, beszivárgási küldetésekre tervezett sorozata; kissé módosított T2 belső vázát szintetikus gumibőr borítja, amely megvédi a rozsdásodástól, jobb társas hatást és EMP-/napkitörés-állóságot biztosít neki, azonban gyúlékonyabb.</ATPP_TX2AndroidGeneratorAI.description>
+  <ATPP_TX2FemaleAndroidGeneratorAI.label>TX2 női android</ATPP_TX2FemaleAndroidGeneratorAI.label>
+  <ATPP_TX2FemaleAndroidGeneratorAI.description>Egy TX2 készítése, amely a T2 egy különleges, beszivárgási küldetésekre tervezett sorozata; kissé módosított T2 belső vázát szintetikus gumibőr borítja, amely megvédi a rozsdásodástól, jobb társas hatást és EMP-/napkitörés-állóságot biztosít neki, azonban gyúlékonyabb.</ATPP_TX2FemaleAndroidGeneratorAI.description>
+  <ATPP_TX2KAndroidGeneratorAI.label>TX2K férfi android</ATPP_TX2KAndroidGeneratorAI.label>
+  <ATPP_TX2KAndroidGeneratorAI.description>Egy TX2K készítése, egy prototípus androidé, amelyet kizárólag harctéri nehézgyalogságként való használatra terveztek; rendkívül ellenálló és súlyos közelharci sebzést okoz, azonban páncélzata miatt meglehetősen lassú, és korlátozott, lényegében harcra optimalizált processzora miatt képtelen összetett feladatok elvégzésére.</ATPP_TX2KAndroidGeneratorAI.description>
+  <ATPP_TX2KFemaleAndroidGeneratorAI.label>TX2K női android</ATPP_TX2KFemaleAndroidGeneratorAI.label>
+  <ATPP_TX2KFemaleAndroidGeneratorAI.description>Egy TX2K készítése, egy prototípus androidé, amelyet kizárólag harctéri nehézgyalogságként való használatra terveztek; rendkívül ellenálló és súlyos közelharci sebzést okoz, azonban páncélzata miatt meglehetősen lassú, és korlátozott, lényegében harcra optimalizált processzora miatt képtelen összetett feladatok elvégzésére.</ATPP_TX2KFemaleAndroidGeneratorAI.description>
+  <ATPP_TX2KIAndroidGeneratorAI.label>TX2KI férfi android</ATPP_TX2KIAndroidGeneratorAI.label>
+  <ATPP_TX2KIAndroidGeneratorAI.description>Egy TX2KI készítése, egy prototípus androidé, amelyet kizárólag harctéri nehézgyalogságként való használatra terveztek; rendkívül ellenálló és súlyos közelharci sebzést okoz, azonban páncélzata miatt meglehetősen lassú, és korlátozott, lényegében harcra optimalizált processzora miatt képtelen összetett feladatok elvégzésére.</ATPP_TX2KIAndroidGeneratorAI.description>
+  <ATPP_TX2KIFemaleAndroidGeneratorAI.label>TX2KI női android</ATPP_TX2KIFemaleAndroidGeneratorAI.label>
+  <ATPP_TX2KIFemaleAndroidGeneratorAI.description>Egy TX2KI készítése, egy prototípus androidé, amelyet kizárólag harctéri nehézgyalogságként való használatra terveztek; rendkívül ellenálló és súlyos közelharci sebzést okoz, azonban páncélzata miatt meglehetősen lassú, és korlátozott, lényegében harcra optimalizált processzora miatt képtelen összetett feladatok elvégzésére.</ATPP_TX2KIFemaleAndroidGeneratorAI.description>
+  <ATPP_TX2IAndroidGeneratorAI.label>TX2I férfi android</ATPP_TX2IAndroidGeneratorAI.label>
+  <ATPP_TX2IAndroidGeneratorAI.description>Egy TX2I készítése, amely a TX2 egy átalakított sorozata, és T2 helyett harctéri gyalogságként használják, elsősorban különleges megjelenésük miatt, amely félelmet kelt az ellenségeikben.</ATPP_TX2IAndroidGeneratorAI.description>
+  <ATPP_TX2IFemaleAndroidGeneratorAI.label>TX2I női android</ATPP_TX2IFemaleAndroidGeneratorAI.label>
+  <ATPP_TX2IFemaleAndroidGeneratorAI.description>Egy TX2I készítése, amely a TX2 egy átalakított sorozata, és T2 helyett harctéri gyalogságként használják, elsősorban különleges megjelenésük miatt, amely félelmet kelt az ellenségeikben.</ATPP_TX2IFemaleAndroidGeneratorAI.description>
+  <ATPP_TX3IAndroidGeneratorAI.label>TX3I férfi android</ATPP_TX3IAndroidGeneratorAI.label>
+  <ATPP_TX3IAndroidGeneratorAI.description>Egy TX3I készítése, amely a TX3 egy átalakított sorozata, és T3 helyett harctéri gyalogságként használják, elsősorban különleges megjelenésük miatt, amely félelmet kelt az ellenségeikben.</ATPP_TX3IAndroidGeneratorAI.description>
+  <ATPP_TX3IFemaleAndroidGeneratorAI.label>TX3I női android</ATPP_TX3IFemaleAndroidGeneratorAI.label>
+  <ATPP_TX3IFemaleAndroidGeneratorAI.description>Egy TX3I készítése, amely a TX3 egy átalakított sorozata, és T3 helyett harctéri gyalogságként használják, elsősorban különleges megjelenésük miatt, amely félelmet kelt az ellenségeikben.</ATPP_TX3IFemaleAndroidGeneratorAI.description>
+  <ATPP_TX4IAndroidGeneratorAI.label>TX4I férfi android</ATPP_TX4IAndroidGeneratorAI.label>
+  <ATPP_TX4IAndroidGeneratorAI.description>Egy TX4I készítése, amely a TX4 egy átalakított sorozata, és T4 helyett harctéri gyalogságként használják, elsősorban különleges megjelenésük miatt, amely félelmet kelt az ellenségeikben.</ATPP_TX4IAndroidGeneratorAI.description>
+  <ATPP_TX4IFemaleAndroidGeneratorAI.label>TX4I női android</ATPP_TX4IFemaleAndroidGeneratorAI.label>
+  <ATPP_TX4IFemaleAndroidGeneratorAI.description>Egy TX4I készítése, amely a TX4 egy átalakított sorozata, és T4 helyett harctéri gyalogságként használják, elsősorban különleges megjelenésük miatt, amely félelmet kelt az ellenségeikben.</ATPP_TX4IFemaleAndroidGeneratorAI.description>
+  <ATPP_GSGeneratorTX2KMale.label>Inaktív férfi TX2K</ATPP_GSGeneratorTX2KMale.label>
+  <ATPP_GSGeneratorTX2KMale.description>Helyettes android készítése.</ATPP_GSGeneratorTX2KMale.description>
+  <ATPP_GSGeneratorTX2KFemale.label>Inaktív női TX2K</ATPP_GSGeneratorTX2KFemale.label>
+  <ATPP_GSGeneratorTX2KFemale.description>Helyettes android készítése.</ATPP_GSGeneratorTX2KFemale.description>
+  <ATPP_GSGeneratorTX2KMaleSurrogate.label>Inaktív férfi TX2K</ATPP_GSGeneratorTX2KMaleSurrogate.label>
+  <ATPP_GSGeneratorTX2KMaleSurrogate.description>Helyettes android készítése.</ATPP_GSGeneratorTX2KMaleSurrogate.description>
+  <ATPP_GSGeneratorTX2KFemaleSurrogate.label>Inaktív női TX2K</ATPP_GSGeneratorTX2KFemaleSurrogate.label>
+  <ATPP_GSGeneratorTX2KFemaleSurrogate.description>Helyettes android készítése.</ATPP_GSGeneratorTX2KFemaleSurrogate.description>
+  <ATPP_GSGeneratorTX3Male.label>Inaktív férfi TX3</ATPP_GSGeneratorTX3Male.label>
+  <ATPP_GSGeneratorTX3Male.description>Helyettes android készítése.</ATPP_GSGeneratorTX3Male.description>
+  <ATPP_GSGeneratorTX3Female.label>Inaktív női TX3</ATPP_GSGeneratorTX3Female.label>
+  <ATPP_GSGeneratorTX3Female.description>Helyettes android készítése.</ATPP_GSGeneratorTX3Female.description>
+  <ATPP_GSGeneratorTX3MaleSurrogate.label>Inaktív férfi TX3</ATPP_GSGeneratorTX3MaleSurrogate.label>
+  <ATPP_GSGeneratorTX3MaleSurrogate.description>Helyettes android készítése.</ATPP_GSGeneratorTX3MaleSurrogate.description>
+  <ATPP_GSGeneratorTX3FemaleSurrogate.label>Inaktív női TX3</ATPP_GSGeneratorTX3FemaleSurrogate.label>
+  <ATPP_GSGeneratorTX3FemaleSurrogate.description>Helyettes android készítése.</ATPP_GSGeneratorTX3FemaleSurrogate.description>
+  <ATPP_GSGeneratorTX4Male.label>Inaktív férfi TX4</ATPP_GSGeneratorTX4Male.label>
+  <ATPP_GSGeneratorTX4Male.description>Helyettes android készítése.</ATPP_GSGeneratorTX4Male.description>
+  <ATPP_GSGeneratorTX4Female.label>Inaktív női TX4</ATPP_GSGeneratorTX4Female.label>
+  <ATPP_GSGeneratorTX4Female.description>Helyettes android készítése.</ATPP_GSGeneratorTX4Female.description>
+  <ATPP_GSGeneratorTX4MaleSurrogate.label>Inaktív férfi TX4</ATPP_GSGeneratorTX4MaleSurrogate.label>
+  <ATPP_GSGeneratorTX4MaleSurrogate.description>Helyettes android készítése.</ATPP_GSGeneratorTX4MaleSurrogate.description>
+  <ATPP_GSGeneratorTX4FemaleSurrogate.label>Inaktív női TX4</ATPP_GSGeneratorTX4FemaleSurrogate.label>
+  <ATPP_GSGeneratorTX4FemaleSurrogate.description>Helyettes android készítése.</ATPP_GSGeneratorTX4FemaleSurrogate.description>
+  <ATPP_SX2SurrogateGeneratorAI.label>SX2 férfi helyettes android</ATPP_SX2SurrogateGeneratorAI.label>
+  <ATPP_SX2SurrogateGeneratorAI.description>Helyettes android készítése.</ATPP_SX2SurrogateGeneratorAI.description>
+  <ATPP_SX2FemaleSurrogateGeneratorAI.label>SX2 női helyettes android</ATPP_SX2FemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2FemaleSurrogateGeneratorAI.description>Helyettes android készítése.</ATPP_SX2FemaleSurrogateGeneratorAI.description>
+  <ATPP_SX2ISurrogateGeneratorAI.label>SX2I férfi helyettes android</ATPP_SX2ISurrogateGeneratorAI.label>
+  <ATPP_SX2ISurrogateGeneratorAI.description>Helyettes android készítése.</ATPP_SX2ISurrogateGeneratorAI.description>
+  <ATPP_SX2IFemaleSurrogateGeneratorAI.label>SX2I női helyettes android</ATPP_SX2IFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2IFemaleSurrogateGeneratorAI.description>Helyettes android készítése.</ATPP_SX2IFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX2KSurrogateGeneratorAI.label>SX2K férfi helyettes android</ATPP_SX2KSurrogateGeneratorAI.label>
+  <ATPP_SX2KSurrogateGeneratorAI.description>Helyettes android készítése.</ATPP_SX2KSurrogateGeneratorAI.description>
+  <ATPP_SX2KFemaleSurrogateGeneratorAI.label>SX2K női helyettes android</ATPP_SX2KFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2KFemaleSurrogateGeneratorAI.description>Helyettes android készítése.</ATPP_SX2KFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX2KISurrogateGeneratorAI.label>SX2KI férfi helyettes android</ATPP_SX2KISurrogateGeneratorAI.label>
+  <ATPP_SX2KISurrogateGeneratorAI.description>Helyettes android készítése.</ATPP_SX2KISurrogateGeneratorAI.description>
+  <ATPP_SX2KIFemaleSurrogateGeneratorAI.label>SX2KI női helyettes android</ATPP_SX2KIFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2KIFemaleSurrogateGeneratorAI.description>Helyettes android készítése.</ATPP_SX2KIFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX3SurrogateGeneratorAI.label>SX3 férfi helyettes android</ATPP_SX3SurrogateGeneratorAI.label>
+  <ATPP_SX3SurrogateGeneratorAI.description>Helyettes android készítése.</ATPP_SX3SurrogateGeneratorAI.description>
+  <ATPP_SX3FemaleSurrogateGeneratorAI.label>SX3 női helyettes android</ATPP_SX3FemaleSurrogateGeneratorAI.label>
+  <ATPP_SX3FemaleSurrogateGeneratorAI.description>Helyettes android készítése.</ATPP_SX3FemaleSurrogateGeneratorAI.description>
+  <ATPP_SX3ISurrogateGeneratorAI.label>SX3I férfi helyettes android</ATPP_SX3ISurrogateGeneratorAI.label>
+  <ATPP_SX3ISurrogateGeneratorAI.description>Helyettes android készítése.</ATPP_SX3ISurrogateGeneratorAI.description>
+  <ATPP_SX3IFemaleSurrogateGeneratorAI.label>SX3I női helyettes android</ATPP_SX3IFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX3IFemaleSurrogateGeneratorAI.description>Helyettes android készítése.</ATPP_SX3IFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX4SurrogateGeneratorAI.label>SX4 férfi helyettes android</ATPP_SX4SurrogateGeneratorAI.label>
+  <ATPP_SX4SurrogateGeneratorAI.description>Helyettes android készítése.</ATPP_SX4SurrogateGeneratorAI.description>
+  <ATPP_SX4FemaleSurrogateGeneratorAI.label>SX4 női helyettes android</ATPP_SX4FemaleSurrogateGeneratorAI.label>
+  <ATPP_SX4FemaleSurrogateGeneratorAI.description>Helyettes android készítése.</ATPP_SX4FemaleSurrogateGeneratorAI.description>
+  <ATPP_SX4ISurrogateGeneratorAI.label>SX4I férfi helyettes android</ATPP_SX4ISurrogateGeneratorAI.label>
+  <ATPP_SX4ISurrogateGeneratorAI.description>Helyettes android készítése.</ATPP_SX4ISurrogateGeneratorAI.description>
+  <ATPP_SX4IFemaleSurrogateGeneratorAI.label>SX4I női helyettes android</ATPP_SX4IFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX4IFemaleSurrogateGeneratorAI.description>Helyettes android készítése.</ATPP_SX4IFemaleSurrogateGeneratorAI.description>
+
+</LanguageData>

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_DisassembleAndroid.label>Halott android szétszerelése</ATPP_DisassembleAndroid.label>
+  <ATPP_DisassembleAndroid.description>Egy halott android szétszerelése alkatrészeire.</ATPP_DisassembleAndroid.description>
+  <ATPP_DisassembleAndroid.jobString>Android szétszerelése.</ATPP_DisassembleAndroid.jobString>
+  <ATPP_Make_NanitesHydraulicSerum.label>Nanit adag készítése (hidraulikus)</ATPP_Make_NanitesHydraulicSerum.label>
+  <ATPP_Make_NanitesHydraulicSerum.description>Android hidraulikus nanitszérum készítése, amely lehetővé teszi az androidok (öregkori) hibáinak javítását.</ATPP_Make_NanitesHydraulicSerum.description>
+  <ATPP_Make_NanitesHydraulicSerum.jobString>Android nanitszérum készítése.</ATPP_Make_NanitesHydraulicSerum.jobString>
+  <ATPP_Make_NanitesCPUSerum.label>Nanit adag készítése (processzor)</ATPP_Make_NanitesCPUSerum.label>
+  <ATPP_Make_NanitesCPUSerum.description>Android processzor nanitszérum készítése, amely lehetővé teszi az android processzorának (öregkori) javítását.</ATPP_Make_NanitesCPUSerum.description>
+  <ATPP_Make_NanitesCPUSerum.jobString>Android nanitszérum készítése.</ATPP_Make_NanitesCPUSerum.jobString>
+  <ATPP_Make_NanitesCoolingSerum.label>Nanit adag készítése (hűtés)</ATPP_Make_NanitesCoolingSerum.label>
+  <ATPP_Make_NanitesCoolingSerum.description>Android hűtő nanitszérum készítése, amely lehetővé teszi az android hűtőrendszerének (öregkori) javítását.</ATPP_Make_NanitesCoolingSerum.description>
+  <ATPP_Make_NanitesCoolingSerum.jobString>Android nanitszérum készítése.</ATPP_Make_NanitesCoolingSerum.jobString>
+  <ATPP_Make_NanitesFrameSerum.label>Nanit adag készítése (vázszerkezet)</ATPP_Make_NanitesFrameSerum.label>
+  <ATPP_Make_NanitesFrameSerum.description>Android váz nanitszérum készítése, amely lehetővé teszi az android belső vázának (öregkori) javítását.</ATPP_Make_NanitesFrameSerum.description>
+  <ATPP_Make_NanitesFrameSerum.jobString>Android nanitszérum készítése.</ATPP_Make_NanitesFrameSerum.jobString>
+  <ATPP_Make_RXChip.label>RX neurális csip készítése</ATPP_Make_RXChip.label>
+  <ATPP_Make_RXChip.description>Egy neurális csip, amely személyes SkyMind átjátszóként működik.</ATPP_Make_RXChip.description>
+  <ATPP_Make_RXChip.jobString>RX neurális csip készítése.</ATPP_Make_RXChip.jobString>
+  <ATPP_Make_VX0Chip.label>VX0 neurális csip készítése</ATPP_Make_VX0Chip.label>
+  <ATPP_Make_VX0Chip.description>VX0 csip készítése, egy neurális csip, amely biológiai helyettessé alakítja a gazdatestet.</ATPP_Make_VX0Chip.description>
+  <ATPP_Make_VX0Chip.jobString>VX0 neurális csip készítése.</ATPP_Make_VX0Chip.jobString>
+  <ATPP_Make_VX1Chip.label>VX1 neurális csip készítése</ATPP_Make_VX1Chip.label>
+  <ATPP_Make_VX1Chip.description>VX1 csip készítése, amely lehetővé teszi a gazdatest számára bármely SX sorozatú android vagy biológiai helyettes távvezérlését.</ATPP_Make_VX1Chip.description>
+  <ATPP_Make_VX1Chip.jobString>VX1 neurális csip készítése.</ATPP_Make_VX1Chip.jobString>
+  <ATPP_Make_VX2Chip.label>VX2 neurális csip készítése</ATPP_Make_VX2Chip.label>
+  <ATPP_Make_VX2Chip.description>VX2 csip készítése, amely lehetővé teszi a gazdatest számára bármely SX sorozatú android vagy biológiai helyettes távvezérlését és tudatuk duplikálását/cseréjét.</ATPP_Make_VX2Chip.description>
+  <ATPP_Make_VX2Chip.jobString>VX2 neurális csip készítése.</ATPP_Make_VX2Chip.jobString>
+  <ATPP_Make_VX3Chip.label>VX3 neurális csip készítése</ATPP_Make_VX3Chip.label>
+  <ATPP_Make_VX3Chip.description>VX3 csip készítése, amely lehetővé teszi a gazdatest számára több SX sorozatú android vagy biológiai helyettes egyidejű távvezérlését és tudatuk duplikálását/cseréjét.</ATPP_Make_VX3Chip.description>
+  <ATPP_Make_VX3Chip.jobString>VX3 neurális csip készítése.</ATPP_Make_VX3Chip.jobString>
+  <ATPP_InstallVX2Chip.label>VX2 neurális csip beültetése</ATPP_InstallVX2Chip.label>
+  <ATPP_InstallVX2Chip.description>VX2 neurális csip beültetése, amely lehetővé teszi a gazdatest számára bármely SX sorozatú android vagy biológiai helyettes távvezérlését és tudatuk duplikálását/cseréjét.</ATPP_InstallVX2Chip.description>
+  <ATPP_InstallVX2Chip.jobString>VX2 neurális csip beültetése.</ATPP_InstallVX2Chip.jobString>
+  <ATPP_InstallVX2ChipOnAndroid.label>VX2 neurális csip beültetése androidba</ATPP_InstallVX2ChipOnAndroid.label>
+  <ATPP_InstallVX2ChipOnAndroid.description>VX2 neurális csip beültetése androidba, amely lehetővé teszi a gazdatest számára bármely SX sorozatú android vagy biológiai helyettes távvezérlését és tudatuk duplikálását/cseréjét.</ATPP_InstallVX2ChipOnAndroid.description>
+  <ATPP_InstallVX2ChipOnAndroid.jobString>VX2 neurális csip beültetése androidba.</ATPP_InstallVX2ChipOnAndroid.jobString>
+  <ATPP_InstallVX3Chip.label>VX3 neurális csip beültetése</ATPP_InstallVX3Chip.label>
+  <ATPP_InstallVX3Chip.description>VX3 neurális csip beültetése, amely lehetővé teszi a gazdatest számára több SX sorozatú android vagy biológiai helyettes egyidejű távvezérlését és tudatuk duplikálását/cseréjét.</ATPP_InstallVX3Chip.description>
+  <ATPP_InstallVX3Chip.jobString>VX3 neurális csip beültetése.</ATPP_InstallVX3Chip.jobString>
+  <ATPP_InstallVX3ChipOnAndroid.label>VX3 neurális csip beültetése androidba</ATPP_InstallVX3ChipOnAndroid.label>
+  <ATPP_InstallVX3ChipOnAndroid.description>VX3 neurális csip beültetése androidba, amely lehetővé teszi a gazdatest számára több SX sorozatú android vagy biológiai helyettes egyidejű távvezérlését és tudatuk duplikálását/cseréjét.</ATPP_InstallVX3ChipOnAndroid.description>
+  <ATPP_InstallVX3ChipOnAndroid.jobString>VX3 neurális csip beültetése androidba.</ATPP_InstallVX3ChipOnAndroid.jobString>
+  <ATPP_InstallRXChip.label>RX neurális csip beültetése</ATPP_InstallRXChip.label>
+  <ATPP_InstallRXChip.description>RX neurális csip beültetése, egy csip, amely személyes SkyMind átjátszóként működik a gazdatest számára.</ATPP_InstallRXChip.description>
+  <ATPP_InstallRXChip.jobString>RX neurális csip beültetése.</ATPP_InstallRXChip.jobString>
+  <ATPP_InstallRXChipOnAndroid.label>RX neurális csip beültetése</ATPP_InstallRXChipOnAndroid.label>
+  <ATPP_InstallRXChipOnAndroid.description>RX neurális csip beültetése, egy csip, amely személyes SkyMind átjátszóként működik a gazdatest számára.</ATPP_InstallRXChipOnAndroid.description>
+  <ATPP_InstallRXChipOnAndroid.jobString>RX neurális csip beültetése.</ATPP_InstallRXChipOnAndroid.jobString>
+  <ATPP_InstallVX0ChipOnAndroid.label>VX0 neurális csip beültetése androidba</ATPP_InstallVX0ChipOnAndroid.label>
+  <ATPP_InstallVX0ChipOnAndroid.description>VX0 neurális csip beültetése androidba, egy neurális csip, amely biológiai helyettessé alakítja a gazdatestet.</ATPP_InstallVX0ChipOnAndroid.description>
+  <ATPP_InstallVX0ChipOnAndroid.jobString>VX0 neurális csip beültetése androidba.</ATPP_InstallVX0ChipOnAndroid.jobString>
+  <ATPP_InstallVX0Chip.label>VX0 neurális csip beültetése</ATPP_InstallVX0Chip.label>
+  <ATPP_InstallVX0Chip.description>VX0 neurális csip beültetése, egy neurális csip, amely biológiai helyettessé alakítja a gazdatestet.</ATPP_InstallVX0Chip.description>
+  <ATPP_InstallVX0Chip.jobString>VX0 neurális csip beültetése.</ATPP_InstallVX0Chip.jobString>
+  <ATPP_InstallVX1Chip.label>VX1 neurális csip beültetése</ATPP_InstallVX1Chip.label>
+  <ATPP_InstallVX1Chip.description>VX1 neurális csip beültetése, amely lehetővé teszi a gazdatest számára bármely SX sorozatú android vagy biológiai helyettes távvezérlését.</ATPP_InstallVX1Chip.description>
+  <ATPP_InstallVX1Chip.jobString>VX1 neurális csip beültetése.</ATPP_InstallVX1Chip.jobString>
+  <ATPP_InstallVX1ChipOnAndroid.label>VX1 neurális csip beültetése androidba</ATPP_InstallVX1ChipOnAndroid.label>
+  <ATPP_InstallVX1ChipOnAndroid.description>VX1 neurális csip beültetése androidba, amely lehetővé teszi a gazdatest számára bármely SX sorozatú android vagy biológiai helyettes távvezérlését.</ATPP_InstallVX1ChipOnAndroid.description>
+  <ATPP_InstallVX1ChipOnAndroid.jobString>VX1 neurális csip beültetése androidba.</ATPP_InstallVX1ChipOnAndroid.jobString>
+  <ATPP_CreateS1.label>T1 helyettes android (S1) készítése</ATPP_CreateS1.label>
+  <ATPP_CreateS1.description>Üres S1 android készítése plasztacélból és alkatrészekből.</ATPP_CreateS1.description>
+  <ATPP_CreateS1.jobString>S1 android készítése.</ATPP_CreateS1.jobString>
+  <ATPP_CreateS2.label>T2 helyettes android (S2) készítése</ATPP_CreateS2.label>
+  <ATPP_CreateS2.description>Üres S2 android készítése plasztacélból és alkatrészekből.</ATPP_CreateS2.description>
+  <ATPP_CreateS2.jobString>S2 android készítése.</ATPP_CreateS2.jobString>
+  <ATPP_CreateS3.label>T3 helyettes android (S3) készítése</ATPP_CreateS3.label>
+  <ATPP_CreateS3.description>Üres S3 android készítése plasztacélból és alkatrészekből.</ATPP_CreateS3.description>
+  <ATPP_CreateS3.jobString>S3 android készítése.</ATPP_CreateS3.jobString>
+  <ATPP_CreateS4.label>T4 helyettes android (S4) készítése</ATPP_CreateS4.label>
+  <ATPP_CreateS4.description>Üres S4 android készítése plasztacélból és alkatrészekből.</ATPP_CreateS4.description>
+  <ATPP_CreateS4.jobString>S4 android készítése.</ATPP_CreateS4.jobString>
+  <ATPP_CreateHellDrone.label>HellUnit helyettes android (S-HU) készítése</ATPP_CreateHellDrone.label>
+  <ATPP_CreateHellDrone.description>Üres S-HU android készítése plasztacélból és alkatrészekből.</ATPP_CreateHellDrone.description>
+  <ATPP_CreateHellDrone.jobString>S-HU android készítése.</ATPP_CreateHellDrone.jobString>
+  <ATPP_CreateM7.label>M7 helyettes mechanoid (SM7) készítése</ATPP_CreateM7.label>
+  <ATPP_CreateM7.description>Üres SM7 mechanoid készítése plasztacélból és alkatrészekből.</ATPP_CreateM7.description>
+  <ATPP_CreateM7.jobString>SM7 mechanoid készítése.</ATPP_CreateM7.jobString>
+  <ATPP_CreateBlankT3.label>Üres neurális hálózatú T3 android készítése</ATPP_CreateBlankT3.label>
+  <ATPP_CreateBlankT3.description>Üres neurális hálózatú T3 android készítése</ATPP_CreateBlankT3.description>
+  <ATPP_CreateBlankT3.jobString>Üres neurális hálózatú T3 android készítése</ATPP_CreateBlankT3.jobString>
+  <ATPP_CreateBlankT4.label>Üres neurális hálózatú T4 android készítése</ATPP_CreateBlankT4.label>
+  <ATPP_CreateBlankT4.description>Üres neurális hálózatú T4 android készítése</ATPP_CreateBlankT4.description>
+  <ATPP_CreateBlankT4.jobString>Üres neurális hálózatú T4 android készítése</ATPP_CreateBlankT4.jobString>
+  <ATPP_Make_SM7Mech40MMCannon.label>40mm-es ágyú készítése (SM7 fegyver)</ATPP_Make_SM7Mech40MMCannon.label>
+  <ATPP_Make_SM7Mech40MMCannon.description>40mm-es ágyú készítése (SM7 fegyver)</ATPP_Make_SM7Mech40MMCannon.description>
+  <ATPP_Make_SM7Mech40MMCannon.jobString>40mm-es ágyú készítése (SM7 fegyver)</ATPP_Make_SM7Mech40MMCannon.jobString>
+  <ATPP_Make_SM7MechMastiffGun.label>Mastiff sörétes puska készítése (SM7 fegyver)</ATPP_Make_SM7MechMastiffGun.label>
+  <ATPP_Make_SM7MechMastiffGun.description>Mastiff sörétes puska készítése (SM7 fegyver)</ATPP_Make_SM7MechMastiffGun.description>
+  <ATPP_Make_SM7MechMastiffGun.jobString>Mastiff sörétes puska készítése (SM7 fegyver)</ATPP_Make_SM7MechMastiffGun.jobString>
+  <ATPP_Make_SM7MechHandCannon.label>X-5 kéziágyú készítése (SM7 fegyver)</ATPP_Make_SM7MechHandCannon.label>
+  <ATPP_Make_SM7MechHandCannon.description>X-5 kéziágyú készítése (SM7 fegyver)</ATPP_Make_SM7MechHandCannon.description>
+  <ATPP_Make_SM7MechHandCannon.jobString>X-5 kéziágyú készítése (SM7 fegyver)</ATPP_Make_SM7MechHandCannon.jobString>
+  <ATPP_PaintAndroidFrameworkKhaki.label>Android vázának festése khakire</ATPP_PaintAndroidFrameworkKhaki.label>
+  <ATPP_PaintAndroidFrameworkKhaki.description>Android vázának festése khakire</ATPP_PaintAndroidFrameworkKhaki.description>
+  <ATPP_PaintAndroidFrameworkKhaki.jobString>Android vázának festése khakire</ATPP_PaintAndroidFrameworkKhaki.jobString>
+  <ATPP_PaintAndroidFrameworkGreen.label>Android vázának festése zöldre</ATPP_PaintAndroidFrameworkGreen.label>
+  <ATPP_PaintAndroidFrameworkGreen.description>Android vázának festése zöldre</ATPP_PaintAndroidFrameworkGreen.description>
+  <ATPP_PaintAndroidFrameworkGreen.jobString>Android vázának festése zöldre</ATPP_PaintAndroidFrameworkGreen.jobString>
+  <ATPP_PaintAndroidFrameworkBlue.label>Android vázának festése kékre</ATPP_PaintAndroidFrameworkBlue.label>
+  <ATPP_PaintAndroidFrameworkBlue.description>Android vázának festése kékre</ATPP_PaintAndroidFrameworkBlue.description>
+  <ATPP_PaintAndroidFrameworkBlue.jobString>Android vázának festése kékre</ATPP_PaintAndroidFrameworkBlue.jobString>
+  <ATPP_PaintAndroidFrameworkRed.label>Android vázának festése pirosra</ATPP_PaintAndroidFrameworkRed.label>
+  <ATPP_PaintAndroidFrameworkRed.description>Android vázának festése pirosra</ATPP_PaintAndroidFrameworkRed.description>
+  <ATPP_PaintAndroidFrameworkRed.jobString>Android vázának festése pirosra</ATPP_PaintAndroidFrameworkRed.jobString>
+  <ATPP_PaintAndroidFrameworkYellow.label>Android vázának festése sárgára</ATPP_PaintAndroidFrameworkYellow.label>
+  <ATPP_PaintAndroidFrameworkYellow.description>Android vázának festése sárgára</ATPP_PaintAndroidFrameworkYellow.description>
+  <ATPP_PaintAndroidFrameworkYellow.jobString>Android vázának festése sárgára</ATPP_PaintAndroidFrameworkYellow.jobString>
+  <ATPP_PaintAndroidFrameworkOrange.label>Android vázának festése narancssárgára</ATPP_PaintAndroidFrameworkOrange.label>
+  <ATPP_PaintAndroidFrameworkOrange.description>Android vázának festése narancssárgára</ATPP_PaintAndroidFrameworkOrange.description>
+  <ATPP_PaintAndroidFrameworkOrange.jobString>Android vázának festése narancssárgára</ATPP_PaintAndroidFrameworkOrange.jobString>
+  <ATPP_PaintAndroidFrameworkBlack.label>Android vázának festése feketére</ATPP_PaintAndroidFrameworkBlack.label>
+  <ATPP_PaintAndroidFrameworkBlack.description>Android vázának festése feketére</ATPP_PaintAndroidFrameworkBlack.description>
+  <ATPP_PaintAndroidFrameworkBlack.jobString>Android vázának festése feketére</ATPP_PaintAndroidFrameworkBlack.jobString>
+  <ATPP_PaintAndroidFrameworkWhite.label>Android vázának festése fehérre</ATPP_PaintAndroidFrameworkWhite.label>
+  <ATPP_PaintAndroidFrameworkWhite.description>Android vázának festése fehérre</ATPP_PaintAndroidFrameworkWhite.description>
+  <ATPP_PaintAndroidFrameworkWhite.jobString>Android vázának festése fehérre</ATPP_PaintAndroidFrameworkWhite.jobString>
+  <ATPP_PaintAndroidFrameworkGray.label>Android vázának festése szürkére</ATPP_PaintAndroidFrameworkGray.label>
+  <ATPP_PaintAndroidFrameworkGray.description>Android vázának festése szürkére</ATPP_PaintAndroidFrameworkGray.description>
+  <ATPP_PaintAndroidFrameworkGray.jobString>Android vázának festése szürkére</ATPP_PaintAndroidFrameworkGray.jobString>
+  <ATPP_PaintAndroidFrameworkPurple.label>Android vázának festése lilára</ATPP_PaintAndroidFrameworkPurple.label>
+  <ATPP_PaintAndroidFrameworkPurple.description>Android vázának festése lilára</ATPP_PaintAndroidFrameworkPurple.description>
+  <ATPP_PaintAndroidFrameworkPurple.jobString>Android vázának festése lilára</ATPP_PaintAndroidFrameworkPurple.jobString>
+  <ATPP_PaintAndroidFrameworkPink.label>Android vázának festése rózsaszínre</ATPP_PaintAndroidFrameworkPink.label>
+  <ATPP_PaintAndroidFrameworkPink.description>Android vázának festése rózsaszínre</ATPP_PaintAndroidFrameworkPink.description>
+  <ATPP_PaintAndroidFrameworkPink.jobString>Android vázának festése rózsaszínre</ATPP_PaintAndroidFrameworkPink.jobString>
+  <ATPP_PaintAndroidFrameworkCyan.label>Android vázának festése ciánra</ATPP_PaintAndroidFrameworkCyan.label>
+  <ATPP_PaintAndroidFrameworkCyan.description>Android vázának festése ciánra</ATPP_PaintAndroidFrameworkCyan.description>
+  <ATPP_PaintAndroidFrameworkCyan.jobString>Android vázának festése ciánra</ATPP_PaintAndroidFrameworkCyan.jobString>
+  <ATPP_PaintAndroidFrameworkDefault.label>Android vázának festése alapértelmezett színre</ATPP_PaintAndroidFrameworkDefault.label>
+  <ATPP_PaintAndroidFrameworkDefault.description>Android vázának festése alapértelmezett színre</ATPP_PaintAndroidFrameworkDefault.description>
+  <ATPP_PaintAndroidFrameworkDefault.jobString>Android vázának festése alapértelmezett színre</ATPP_PaintAndroidFrameworkDefault.jobString>
+  <ATPP_ApplyHydraulicNaniteBank.label>Hidraulikus nanitbank beadása</ATPP_ApplyHydraulicNaniteBank.label>
+  <ATPP_ApplyHydraulicNaniteBank.description>Egyszer használatos nanit adag beadása, amely az androidok meghibásodott hidraulikus rendszerének javítására szolgál.</ATPP_ApplyHydraulicNaniteBank.description>
+  <ATPP_ApplyHydraulicNaniteBank.jobString>Android öregkori problémáinak javítása nanitszérummal</ATPP_ApplyHydraulicNaniteBank.jobString>
+  <ATPP_ApplyHealFrameworkSystem.label>Vázszerkezeti nanitbank beadása</ATPP_ApplyHealFrameworkSystem.label>
+  <ATPP_ApplyHealFrameworkSystem.description>Egyszer használatos nanitbank beadása, amely az androidok sérült belső vázának javítására szolgál.</ATPP_ApplyHealFrameworkSystem.description>
+  <ATPP_ApplyHealFrameworkSystem.jobString>Android öregkori problémáinak javítása nanitszérummal</ATPP_ApplyHealFrameworkSystem.jobString>
+  <ATPP_ApplyHealCoolingSystem.label>Hűtőrendszeri nanitbank beadása</ATPP_ApplyHealCoolingSystem.label>
+  <ATPP_ApplyHealCoolingSystem.description>Egyszer használatos nanitbank beadása, amely túlmelegedés esetén az androidok meghibásodott hűtőrendszerének javítására szolgál.</ATPP_ApplyHealCoolingSystem.description>
+  <ATPP_ApplyHealCoolingSystem.jobString>Android öregkori problémáinak javítása nanitszérummal</ATPP_ApplyHealCoolingSystem.jobString>
+  <ATPP_ApplyHealCPUSerum.label>Processzor nanitbank beadása</ATPP_ApplyHealCPUSerum.label>
+  <ATPP_ApplyHealCPUSerum.description>Egyszer használatos nanitbank beadása, amely az androidok meghibásodott mesterséges agyának javítására szolgál.</ATPP_ApplyHealCPUSerum.description>
+  <ATPP_ApplyHealCPUSerum.jobString>Android öregkori problémáinak javítása nanitszérummal</ATPP_ApplyHealCPUSerum.jobString>
+  <ATPP_Make_T1ArtificialBrain.label>T1 mesterséges agy készítése</ATPP_Make_T1ArtificialBrain.label>
+  <ATPP_Make_T1ArtificialBrain.description>T1 mesterséges agy készítése, amellyel egy helyettes üres neurális hálózatú androiddá alakítható.</ATPP_Make_T1ArtificialBrain.description>
+  <ATPP_Make_T1ArtificialBrain.jobString>T1 mesterséges agy készítése.</ATPP_Make_T1ArtificialBrain.jobString>
+  <ATPP_Make_T2ArtificialBrain.label>T2 mesterséges agy készítése</ATPP_Make_T2ArtificialBrain.label>
+  <ATPP_Make_T2ArtificialBrain.description>T2 mesterséges agy készítése, amellyel egy helyettes üres neurális hálózatú androiddá alakítható.</ATPP_Make_T2ArtificialBrain.description>
+  <ATPP_Make_T2ArtificialBrain.jobString>T2 mesterséges agy készítése.</ATPP_Make_T2ArtificialBrain.jobString>
+  <ATPP_Make_T3ArtificialBrain.label>T3 mesterséges agy készítése</ATPP_Make_T3ArtificialBrain.label>
+  <ATPP_Make_T3ArtificialBrain.description>T3 mesterséges agy készítése, amellyel egy helyettes üres neurális hálózatú androiddá alakítható.</ATPP_Make_T3ArtificialBrain.description>
+  <ATPP_Make_T3ArtificialBrain.jobString>T3 mesterséges agy készítése.</ATPP_Make_T3ArtificialBrain.jobString>
+  <ATPP_Make_T4ArtificialBrain.label>T4 mesterséges agy készítése</ATPP_Make_T4ArtificialBrain.label>
+  <ATPP_Make_T4ArtificialBrain.description>T4 mesterséges agy készítése, amellyel egy helyettes üres neurális hálózatú androiddá alakítható.</ATPP_Make_T4ArtificialBrain.description>
+  <ATPP_Make_T4ArtificialBrain.jobString>T4 mesterséges agy készítése.</ATPP_Make_T4ArtificialBrain.jobString>
+  <ATPP_InstallT1ArtificialBrain.label>T1 mesterséges agy beültetése</ATPP_InstallT1ArtificialBrain.label>
+  <ATPP_InstallT1ArtificialBrain.description>T1 mesterséges agy beültetése, amely lehetővé teszi egy T1 helyettes átalakítását üres neurális hálózatú androiddá</ATPP_InstallT1ArtificialBrain.description>
+  <ATPP_InstallT1ArtificialBrain.jobString>T1 mesterséges agy beültetése.</ATPP_InstallT1ArtificialBrain.jobString>
+  <ATPP_InstallT2ArtificialBrain.label>T2 mesterséges agy beültetése</ATPP_InstallT2ArtificialBrain.label>
+  <ATPP_InstallT2ArtificialBrain.description>T2 mesterséges agy beültetése, amely lehetővé teszi egy T2 helyettes átalakítását üres neurális hálózatú androiddá</ATPP_InstallT2ArtificialBrain.description>
+  <ATPP_InstallT2ArtificialBrain.jobString>T2 mesterséges agy beültetése.</ATPP_InstallT2ArtificialBrain.jobString>
+  <ATPP_InstallT3ArtificialBrain.label>T3 mesterséges agy beültetése</ATPP_InstallT3ArtificialBrain.label>
+  <ATPP_InstallT3ArtificialBrain.description>T3 mesterséges agy beültetése, amely lehetővé teszi egy T3 helyettes átalakítását üres neurális hálózatú androiddá</ATPP_InstallT3ArtificialBrain.description>
+  <ATPP_InstallT3ArtificialBrain.jobString>T3 mesterséges agy beültetése.</ATPP_InstallT3ArtificialBrain.jobString>
+  <ATPP_InstallT4ArtificialBrain.label>T4 mesterséges agy beültetése</ATPP_InstallT4ArtificialBrain.label>
+  <ATPP_InstallT4ArtificialBrain.description>T4 mesterséges agy beültetése, amely lehetővé teszi egy T4 helyettes átalakítását üres neurális hálózatú androiddá</ATPP_InstallT4ArtificialBrain.description>
+  <ATPP_InstallT4ArtificialBrain.jobString>T4 mesterséges agy beültetése.</ATPP_InstallT4ArtificialBrain.jobString>
+  <ATPP_CreateSX2.label>TX2 férfi helyettes android (SX2) készítése</ATPP_CreateSX2.label>
+  <ATPP_CreateSX2.description>Üres SX2 férfi android készítése plasztacélból és alkatrészekből.</ATPP_CreateSX2.description>
+  <ATPP_CreateSX2.jobString>SX2 android készítése.</ATPP_CreateSX2.jobString>
+  <ATPP_CreateSX2Female.label>TX2 női helyettes android (SX2) készítése</ATPP_CreateSX2Female.label>
+  <ATPP_CreateSX2Female.description>Üres SX2 női android készítése plasztacélból és alkatrészekből.</ATPP_CreateSX2Female.description>
+  <ATPP_CreateSX2Female.jobString>SX2 android készítése.</ATPP_CreateSX2Female.jobString>
+  <ATPP_CreateSX3.label>TX3 férfi helyettes android (SX3) készítése</ATPP_CreateSX3.label>
+  <ATPP_CreateSX3.description>Üres SX3 férfi android készítése plasztacélból és alkatrészekből.</ATPP_CreateSX3.description>
+  <ATPP_CreateSX3.jobString>SX3 android készítése.</ATPP_CreateSX3.jobString>
+  <ATPP_CreateSX3Female.label>TX3 női helyettes android (SX3) készítése</ATPP_CreateSX3Female.label>
+  <ATPP_CreateSX3Female.description>Üres SX3 női android készítése plasztacélból és alkatrészekből.</ATPP_CreateSX3Female.description>
+  <ATPP_CreateSX3Female.jobString>SX3 android készítése.</ATPP_CreateSX3Female.jobString>
+  <ATPP_CreateSX4.label>TX4 helyettes android (SX4) készítése</ATPP_CreateSX4.label>
+  <ATPP_CreateSX4.description>Üres SX4 android készítése plasztacélból és alkatrészekből.</ATPP_CreateSX4.description>
+  <ATPP_CreateSX4.jobString>SX4 android készítése.</ATPP_CreateSX4.jobString>
+  <ATPP_CreateSX4Female.label>TX4 női helyettes android (SX4) készítése</ATPP_CreateSX4Female.label>
+  <ATPP_CreateSX4Female.description>Üres SX4 női android készítése plasztacélból és alkatrészekből.</ATPP_CreateSX4Female.description>
+  <ATPP_CreateSX4Female.jobString>SX4 android készítése.</ATPP_CreateSX4Female.jobString>
+  <ATPP_CreateSX2I.label>TX2I férfi helyettes android (SX2I) készítése</ATPP_CreateSX2I.label>
+  <ATPP_CreateSX2I.description>Üres SX2I férfi android készítése plasztacélból és alkatrészekből.</ATPP_CreateSX2I.description>
+  <ATPP_CreateSX2I.jobString>SX2I android készítése.</ATPP_CreateSX2I.jobString>
+  <ATPP_CreateSX2IFemale.label>TX2I női helyettes android (SX2I) készítése</ATPP_CreateSX2IFemale.label>
+  <ATPP_CreateSX2IFemale.description>Üres SX2I női android készítése plasztacélból és alkatrészekből.</ATPP_CreateSX2IFemale.description>
+  <ATPP_CreateSX2IFemale.jobString>SX2I android készítése.</ATPP_CreateSX2IFemale.jobString>
+  <ATPP_CreateSX2K.label>TX2K férfi helyettes android (SX2K) készítése</ATPP_CreateSX2K.label>
+  <ATPP_CreateSX2K.description>Üres SX2K férfi android készítése plasztacélból és alkatrészekből.</ATPP_CreateSX2K.description>
+  <ATPP_CreateSX2K.jobString>SX2K android készítése.</ATPP_CreateSX2K.jobString>
+  <ATPP_CreateSX2KFemale.label>TX2K női helyettes android (SX2K) készítése</ATPP_CreateSX2KFemale.label>
+  <ATPP_CreateSX2KFemale.description>Üres SX2K női android készítése plasztacélból és alkatrészekből.</ATPP_CreateSX2KFemale.description>
+  <ATPP_CreateSX2KFemale.jobString>SX2K android készítése.</ATPP_CreateSX2KFemale.jobString>
+  <ATPP_CreateSX2KI.label>TX2KI helyettes android (SX2KI) készítése</ATPP_CreateSX2KI.label>
+  <ATPP_CreateSX2KI.description>Üres SX2KI android készítése plasztacélból és alkatrészekből.</ATPP_CreateSX2KI.description>
+  <ATPP_CreateSX2KI.jobString>SX2KI android készítése.</ATPP_CreateSX2KI.jobString>
+  <ATPP_CreateSX2KIFemale.label>TX2KI női helyettes android (SX2KI) készítése</ATPP_CreateSX2KIFemale.label>
+  <ATPP_CreateSX2KIFemale.description>Üres SX2KI női android készítése plasztacélból és alkatrészekből.</ATPP_CreateSX2KIFemale.description>
+  <ATPP_CreateSX2KIFemale.jobString>SX2KI női android készítése.</ATPP_CreateSX2KIFemale.jobString>
+  <ATPP_CreateSX3I.label>TX3I férfi helyettes android (SX3I) készítése</ATPP_CreateSX3I.label>
+  <ATPP_CreateSX3I.description>Üres SX3I férfi android készítése plasztacélból és alkatrészekből.</ATPP_CreateSX3I.description>
+  <ATPP_CreateSX3I.jobString>SX3I android készítése.</ATPP_CreateSX3I.jobString>
+  <ATPP_CreateSX3IFemale.label>TX3I női helyettes android (SX3I) készítése</ATPP_CreateSX3IFemale.label>
+  <ATPP_CreateSX3IFemale.description>Üres SX3I női android készítése plasztacélból és alkatrészekből.</ATPP_CreateSX3IFemale.description>
+  <ATPP_CreateSX3IFemale.jobString>SX3I android készítése.</ATPP_CreateSX3IFemale.jobString>
+  <ATPP_CreateSX4I.label>TX4I helyettes android (SX4I) készítése</ATPP_CreateSX4I.label>
+  <ATPP_CreateSX4I.description>Üres SX4I android készítése plasztacélból és alkatrészekből.</ATPP_CreateSX4I.description>
+  <ATPP_CreateSX4I.jobString>SX4I android készítése.</ATPP_CreateSX4I.jobString>
+  <ATPP_CreateSX4IFemale.label>TX4I női helyettes android (SX4I) készítése</ATPP_CreateSX4IFemale.label>
+  <ATPP_CreateSX4IFemale.description>Üres SX4I női android készítése plasztacélból és alkatrészekből.</ATPP_CreateSX4IFemale.description>
+  <ATPP_CreateSX4IFemale.jobString>SX4I android készítése.</ATPP_CreateSX4IFemale.jobString>
+  <ATPP_CreateTX4Android.label>TX4 férfi android készítése</ATPP_CreateTX4Android.label>
+  <ATPP_CreateTX4Android.description>TX4 férfi android készítése</ATPP_CreateTX4Android.description>
+  <ATPP_CreateTX4Android.jobString>TX4 android készítése</ATPP_CreateTX4Android.jobString>
+  <ATPP_CreateTX4FemaleAndroid.label>TX4 női android készítése</ATPP_CreateTX4FemaleAndroid.label>
+  <ATPP_CreateTX4FemaleAndroid.description>TX4 női android készítése</ATPP_CreateTX4FemaleAndroid.description>
+  <ATPP_CreateTX4FemaleAndroid.jobString>TX4 android készítése</ATPP_CreateTX4FemaleAndroid.jobString>
+  <ATPP_CreateTX3Android.label>TX3 férfi android készítése</ATPP_CreateTX3Android.label>
+  <ATPP_CreateTX3Android.description>TX3 férfi android készítése</ATPP_CreateTX3Android.description>
+  <ATPP_CreateTX3Android.jobString>TX3 android készítése</ATPP_CreateTX3Android.jobString>
+  <ATPP_CreateTX3FemaleAndroid.label>TX3 női android készítése</ATPP_CreateTX3FemaleAndroid.label>
+  <ATPP_CreateTX3FemaleAndroid.description>TX3 női android készítése</ATPP_CreateTX3FemaleAndroid.description>
+  <ATPP_CreateTX3FemaleAndroid.jobString>TX3 android készítése</ATPP_CreateTX3FemaleAndroid.jobString>
+  <ATPP_CreateTX2Android.label>TX2 férfi android készítése</ATPP_CreateTX2Android.label>
+  <ATPP_CreateTX2Android.description>TX2 férfi android készítése</ATPP_CreateTX2Android.description>
+  <ATPP_CreateTX2Android.jobString>TX2 android készítése</ATPP_CreateTX2Android.jobString>
+  <ATPP_CreateTX2FemaleAndroid.label>TX2 női android készítése</ATPP_CreateTX2FemaleAndroid.label>
+  <ATPP_CreateTX2FemaleAndroid.description>TX2 női android készítése</ATPP_CreateTX2FemaleAndroid.description>
+  <ATPP_CreateTX2FemaleAndroid.jobString>TX2 android készítése</ATPP_CreateTX2FemaleAndroid.jobString>
+  <ATPP_CreateTX4IAndroid.label>TX4I férfi android készítése</ATPP_CreateTX4IAndroid.label>
+  <ATPP_CreateTX4IAndroid.description>TX4I férfi android készítése</ATPP_CreateTX4IAndroid.description>
+  <ATPP_CreateTX4IAndroid.jobString>TX4I android készítése</ATPP_CreateTX4IAndroid.jobString>
+  <ATPP_CreateTX4IFemaleAndroid.label>TX4I női android készítése</ATPP_CreateTX4IFemaleAndroid.label>
+  <ATPP_CreateTX4IFemaleAndroid.description>TX4I női android készítése</ATPP_CreateTX4IFemaleAndroid.description>
+  <ATPP_CreateTX4IFemaleAndroid.jobString>TX4I android készítése</ATPP_CreateTX4IFemaleAndroid.jobString>
+  <ATPP_CreateTX3IAndroid.label>TX3I férfi android készítése</ATPP_CreateTX3IAndroid.label>
+  <ATPP_CreateTX3IAndroid.description>TX3I férfi android készítése</ATPP_CreateTX3IAndroid.description>
+  <ATPP_CreateTX3IAndroid.jobString>TX3I android készítése</ATPP_CreateTX3IAndroid.jobString>
+  <ATPP_CreateTX3IFemaleAndroid.label>TX3I női android készítése</ATPP_CreateTX3IFemaleAndroid.label>
+  <ATPP_CreateTX3IFemaleAndroid.description>TX3I női android készítése</ATPP_CreateTX3IFemaleAndroid.description>
+  <ATPP_CreateTX3IFemaleAndroid.jobString>TX3I android készítése</ATPP_CreateTX3IFemaleAndroid.jobString>
+  <ATPP_CreateTX2IAndroid.label>TX2I férfi android készítése</ATPP_CreateTX2IAndroid.label>
+  <ATPP_CreateTX2IAndroid.description>TX2I férfi android készítése</ATPP_CreateTX2IAndroid.description>
+  <ATPP_CreateTX2IAndroid.jobString>TX2I android készítése</ATPP_CreateTX2IAndroid.jobString>
+  <ATPP_CreateTX2IFemaleAndroid.label>TX2I női android készítése</ATPP_CreateTX2IFemaleAndroid.label>
+  <ATPP_CreateTX2IFemaleAndroid.description>TX2I női android készítése</ATPP_CreateTX2IFemaleAndroid.description>
+  <ATPP_CreateTX2IFemaleAndroid.jobString>TX2I android készítése</ATPP_CreateTX2IFemaleAndroid.jobString>
+  <ATPP_CreateTX2KAndroid.label>TX2K férfi android készítése</ATPP_CreateTX2KAndroid.label>
+  <ATPP_CreateTX2KAndroid.description>TX2K férfi android készítése</ATPP_CreateTX2KAndroid.description>
+  <ATPP_CreateTX2KAndroid.jobString>TX2K android készítése</ATPP_CreateTX2KAndroid.jobString>
+  <ATPP_CreateTX2KFemaleAndroid.label>TX2K női android készítése</ATPP_CreateTX2KFemaleAndroid.label>
+  <ATPP_CreateTX2KFemaleAndroid.description>TX2K női android készítése</ATPP_CreateTX2KFemaleAndroid.description>
+  <ATPP_CreateTX2KFemaleAndroid.jobString>TX2K android készítése</ATPP_CreateTX2KFemaleAndroid.jobString>
+  <ATPP_CreateTX2KIAndroid.label>TX2KI android készítése</ATPP_CreateTX2KIAndroid.label>
+  <ATPP_CreateTX2KIAndroid.description>TX2KI android készítése</ATPP_CreateTX2KIAndroid.description>
+  <ATPP_CreateTX2KIAndroid.jobString>TX2KI android készítése</ATPP_CreateTX2KIAndroid.jobString>
+  <ATPP_CreateTX2KIFemaleAndroid.label>TX2KI női android készítése</ATPP_CreateTX2KIFemaleAndroid.label>
+  <ATPP_CreateTX2KIFemaleAndroid.description>TX2KI női android készítése</ATPP_CreateTX2KIFemaleAndroid.description>
+  <ATPP_CreateTX2KIFemaleAndroid.jobString>TX2KI android készítése</ATPP_CreateTX2KIFemaleAndroid.jobString>
+  <ATPP_MakeSyntheticSkinGland.label>bőrmirigy szintetizálása</ATPP_MakeSyntheticSkinGland.label>
+  <ATPP_MakeSyntheticSkinGland.description>Mesterséges bőrmirigy szintetizálása szénhidrogén vegyüzemanyag, neutroamin tartósítóoldat, gyógyszer és szőtt textilváz felhasználásával.</ATPP_MakeSyntheticSkinGland.description>
+  <ATPP_MakeSyntheticSkinGland.jobString>Bőrmirigy szintetizálása.</ATPP_MakeSyntheticSkinGland.jobString>
+  <ATPP_GestateSyntheticSkinGland_Biotech.label>szintetikus bőrmirigy keltetése</ATPP_GestateSyntheticSkinGland_Biotech.label>
+  <ATPP_GestateSyntheticSkinGland_Biotech.description>Biotech hemogén oldat, sejtes tápanyagok és orvosi stabilizátorok felhasználásával egy androidgyártó keltetőben élő szintetikus bőrmirigy-mátrix keltetése a TX-sorozatú beszivárgók számára.</ATPP_GestateSyntheticSkinGland_Biotech.description>
+  <ATPP_GestateSyntheticSkinGland_Biotech.jobString>Szintetikus bőrmirigy keltetése.</ATPP_GestateSyntheticSkinGland_Biotech.jobString>
+  <ATPP_QE_GrowSyntheticSkinGland.label>szintetikus bőrmirigy tenyésztése</ATPP_QE_GrowSyntheticSkinGland.label>
+  <ATPP_QE_GrowSyntheticSkinGland.description>Élő bio-szintetikus bőrmirigy-mátrix tenyésztése a Questionable Ethics szervkeltetőben szerves tápanyagok és kémiai stabilizátorok segítségével.</ATPP_QE_GrowSyntheticSkinGland.description>
+  <ATPP_QE_GrowSyntheticSkinGland.jobString>Szintetikus bőrmirigy tenyésztése.</ATPP_QE_GrowSyntheticSkinGland.jobString>
+  <ATPP_ApplySyntheticSkin.label>szintetikus bőr átültetése</ATPP_ApplySyntheticSkin.label>
+  <ATPP_ApplySyntheticSkin.description>Szintetikus bőrréteg átültetése erre a TX gyalogsági vázra, beborítva a szabadon lévő mechanikus belső vázat emberhez hasonló élő szintetikus bőrrel. Ez növeli a társas elfogadottságot és a hőszigetelést, miközben megszünteti az eső okozta rozsdásodást, magasabb gyúlékonyság árán.</ATPP_ApplySyntheticSkin.description>
+  <ATPP_ApplySyntheticSkin.jobString>Szintetikus bőr átültetése androidra.</ATPP_ApplySyntheticSkin.jobString>
+  <ATPP_RemoveSyntheticSkin.label>szintetikus bőr eltávolítása</ATPP_RemoveSyntheticSkin.label>
+  <ATPP_RemoveSyntheticSkin.description>A szintetikus bőrréteg sebészeti eltávolítása erről a TX beszivárgóról, szabaddá téve az alatta lévő megerősített gyalogsági belső vázat. Az android elveszíti társas vonzerejét, de tűzállóságot és harctéri tartósságot nyer.</ATPP_RemoveSyntheticSkin.description>
+  <ATPP_RemoveSyntheticSkin.jobString>Szintetikus bőr eltávolítása androidról.</ATPP_RemoveSyntheticSkin.jobString>
+  <ATPP_QE_CreateTX2KMale.label>TX2K férfi váz összeszerelése (QEE keltető)</ATPP_QE_CreateTX2KMale.label>
+  <ATPP_QE_CreateTX2KMale.description>Inaktív férfi TX2K belső váz összeszerelése genomszekvenciaként kódolva a szervkeltetőben történő inkubáláshoz.</ATPP_QE_CreateTX2KMale.description>
+  <ATPP_QE_CreateTX2KMale.jobString>Android készítése</ATPP_QE_CreateTX2KMale.jobString>
+  <ATPP_QE_CreateTX2KFemale.label>TX2K női váz összeszerelése (QEE keltető)</ATPP_QE_CreateTX2KFemale.label>
+  <ATPP_QE_CreateTX2KFemale.description>Inaktív női TX2K belső váz összeszerelése genomszekvenciaként kódolva a szervkeltetőben történő inkubáláshoz.</ATPP_QE_CreateTX2KFemale.description>
+  <ATPP_QE_CreateTX2KFemale.jobString>Android készítése</ATPP_QE_CreateTX2KFemale.jobString>
+  <ATPP_QE_CreateSX2KMaleSurrogate.label>SX2K férfi helyettes váz összeszerelése (QEE keltető)</ATPP_QE_CreateSX2KMaleSurrogate.label>
+  <ATPP_QE_CreateSX2KMaleSurrogate.description>Inaktív férfi TX2K helyettes belső váz összeszerelése genomszekvenciaként kódolva a szervkeltetőben történő inkubáláshoz.</ATPP_QE_CreateSX2KMaleSurrogate.description>
+  <ATPP_QE_CreateSX2KMaleSurrogate.jobString>Android készítése</ATPP_QE_CreateSX2KMaleSurrogate.jobString>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.label>SX2K női helyettes váz összeszerelése (QEE keltető)</ATPP_QE_CreateSX2KFemaleSurrogate.label>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.description>Inaktív női TX2K helyettes belső váz összeszerelése genomszekvenciaként kódolva a szervkeltetőben történő inkubáláshoz.</ATPP_QE_CreateSX2KFemaleSurrogate.description>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.jobString>Android készítése</ATPP_QE_CreateSX2KFemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX3Male.label>TX3 férfi váz összeszerelése (QEE keltető)</ATPP_QE_CreateTX3Male.label>
+  <ATPP_QE_CreateTX3Male.description>Inaktív férfi TX3 belső váz összeszerelése genomszekvenciaként kódolva a szervkeltetőben történő inkubáláshoz.</ATPP_QE_CreateTX3Male.description>
+  <ATPP_QE_CreateTX3Male.jobString>Android készítése</ATPP_QE_CreateTX3Male.jobString>
+  <ATPP_QE_CreateTX3Female.label>TX3 női váz összeszerelése (QEE keltető)</ATPP_QE_CreateTX3Female.label>
+  <ATPP_QE_CreateTX3Female.description>Inaktív női TX3 belső váz összeszerelése genomszekvenciaként kódolva a szervkeltetőben történő inkubáláshoz.</ATPP_QE_CreateTX3Female.description>
+  <ATPP_QE_CreateTX3Female.jobString>Android készítése</ATPP_QE_CreateTX3Female.jobString>
+  <ATPP_QE_CreateSX3MaleSurrogate.label>SX3 férfi helyettes váz összeszerelése (QEE keltető)</ATPP_QE_CreateSX3MaleSurrogate.label>
+  <ATPP_QE_CreateSX3MaleSurrogate.description>Inaktív férfi TX3 helyettes belső váz összeszerelése genomszekvenciaként kódolva a szervkeltetőben történő inkubáláshoz.</ATPP_QE_CreateSX3MaleSurrogate.description>
+  <ATPP_QE_CreateSX3MaleSurrogate.jobString>Android készítése</ATPP_QE_CreateSX3MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX3FemaleSurrogate.label>SX3 női helyettes váz összeszerelése (QEE keltető)</ATPP_QE_CreateSX3FemaleSurrogate.label>
+  <ATPP_QE_CreateSX3FemaleSurrogate.description>Inaktív női TX3 helyettes belső váz összeszerelése genomszekvenciaként kódolva a szervkeltetőben történő inkubáláshoz.</ATPP_QE_CreateSX3FemaleSurrogate.description>
+  <ATPP_QE_CreateSX3FemaleSurrogate.jobString>Android készítése</ATPP_QE_CreateSX3FemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX4Male.label>TX4 férfi váz összeszerelése (QEE keltető)</ATPP_QE_CreateTX4Male.label>
+  <ATPP_QE_CreateTX4Male.description>Inaktív férfi TX4 belső váz összeszerelése genomszekvenciaként kódolva a szervkeltetőben történő inkubáláshoz.</ATPP_QE_CreateTX4Male.description>
+  <ATPP_QE_CreateTX4Male.jobString>Android készítése</ATPP_QE_CreateTX4Male.jobString>
+  <ATPP_QE_CreateTX4Female.label>TX4 női váz összeszerelése (QEE keltető)</ATPP_QE_CreateTX4Female.label>
+  <ATPP_QE_CreateTX4Female.description>Inaktív női TX4 belső váz összeszerelése genomszekvenciaként kódolva a szervkeltetőben történő inkubáláshoz.</ATPP_QE_CreateTX4Female.description>
+  <ATPP_QE_CreateTX4Female.jobString>Android készítése</ATPP_QE_CreateTX4Female.jobString>
+  <ATPP_QE_CreateSX4MaleSurrogate.label>SX4 férfi helyettes váz összeszerelése (QEE keltető)</ATPP_QE_CreateSX4MaleSurrogate.label>
+  <ATPP_QE_CreateSX4MaleSurrogate.description>Inaktív férfi TX4 helyettes belső váz összeszerelése genomszekvenciaként kódolva a szervkeltetőben történő inkubáláshoz.</ATPP_QE_CreateSX4MaleSurrogate.description>
+  <ATPP_QE_CreateSX4MaleSurrogate.jobString>Android készítése</ATPP_QE_CreateSX4MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX4FemaleSurrogate.label>SX4 női helyettes váz összeszerelése (QEE keltető)</ATPP_QE_CreateSX4FemaleSurrogate.label>
+  <ATPP_QE_CreateSX4FemaleSurrogate.description>Inaktív női TX4 helyettes belső váz összeszerelése genomszekvenciaként kódolva a szervkeltetőben történő inkubáláshoz.</ATPP_QE_CreateSX4FemaleSurrogate.description>
+  <ATPP_QE_CreateSX4FemaleSurrogate.jobString>Android készítése</ATPP_QE_CreateSX4FemaleSurrogate.jobString>
+
+</LanguageData>

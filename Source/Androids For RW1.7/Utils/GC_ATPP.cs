@@ -161,14 +161,21 @@ namespace MOARANDROIDS
                     {
                         try
                         {
-                            ThingDef tx4 = DefDatabase<ThingDef>.GetNamed("ATPP_Android4TX", false);
-                            ThingDef tx3 = DefDatabase<ThingDef>.GetNamed("ATPP_Android3TX", false);
-
                             ThingDef humanMeat = DefDatabase<ThingDef>.GetNamed("Meat_Human", false);
-                            if (tx3 != null && tx4 != null && humanMeat != null)
+                            if (humanMeat != null)
                             {
-                                tx4.butcherProducts.Add(new ThingDefCountClass(humanMeat, 100));
-                                tx3.butcherProducts.Add(new ThingDefCountClass(humanMeat, 100));
+                                foreach (string defName in Utils.ExceptionAndroidWithSkinList)
+                                {
+                                    ThingDef txDef = DefDatabase<ThingDef>.GetNamed(defName, false);
+                                    if (txDef == null)
+                                        continue;
+
+                                    if (txDef.butcherProducts == null)
+                                        txDef.butcherProducts = new List<ThingDefCountClass>();
+
+                                    if (!txDef.butcherProducts.Any(bp => bp.thingDef == humanMeat))
+                                        txDef.butcherProducts.Add(new ThingDefCountClass(humanMeat, 100));
+                                }
                             }
 
                         }

@@ -181,9 +181,17 @@ namespace MOARANDROIDS
         {
             string BUID = __instance.GetUniqueLoadID();
 
-            if (!Utils.GCATPP.QEEAndroidHair.ContainsKey(BUID) || DefDatabase<HairDef>.GetNamed(Utils.GCATPP.QEEAndroidHair[BUID], false) == null)
+            HairDef currentHair = Utils.GCATPP.QEEAndroidHair.TryGetValue(BUID, out string hairDefName)
+                ? DefDatabase<HairDef>.GetNamed(hairDefName, false)
+                : null;
+            if (currentHair == null || currentHair.noGraphic || string.IsNullOrEmpty(currentHair.texPath))
             {
-                Utils.GCATPP.QEEAndroidHair[BUID] = DefDatabase<HairDef>.AllDefs.First().defName;
+                HairDef validHair = DefDatabase<HairDef>.AllDefs.FirstOrDefault(h => !h.noGraphic && !string.IsNullOrEmpty(h.texPath))
+                    ?? DefDatabase<HairDef>.AllDefs.FirstOrDefault();
+                if (validHair != null)
+                {
+                    Utils.GCATPP.QEEAndroidHair[BUID] = validHair.defName;
+                }
             }
             if (!Utils.GCATPP.QEEAndroidHairColor.ContainsKey(BUID))
             {
@@ -200,9 +208,9 @@ namespace MOARANDROIDS
             try
             {
                 //Affichage controles que VAT en mode idle
-                int status = (int)Traverse.Create(__instance).Field("status").GetValue();
+                object statusVal = Traverse.Create(__instance).Field("status").GetValue();
 
-                if (status != 0)
+                if (statusVal == null || Convert.ToInt32(statusVal) != 0)
                     return;
 
                 List<Gizmo> ret = new List<Gizmo>();
@@ -213,15 +221,19 @@ namespace MOARANDROIDS
                 QEE_CheckInitData(__instance);
 
 
-                HairDef ch = DefDatabase<HairDef>.GetNamed(Utils.GCATPP.QEEAndroidHair[BUID], false);
+                HairDef ch = Utils.GCATPP.QEEAndroidHair.TryGetValue(BUID, out string hairDefName)
+                    ? DefDatabase<HairDef>.GetNamed(hairDefName, false)
+                    : null;
                 Color hairColor = Utils.getHairColor(Utils.GCATPP.QEEAndroidHairColor[BUID]);
-                Material baseMat = GraphicDatabase.Get<Graphic_Multi>(ch.texPath, ShaderDatabase.Cutout, Vector2.one, hairColor).MatAt(Rot4.South);
+                Material baseMat = (ch != null && !ch.noGraphic && !string.IsNullOrEmpty(ch.texPath))
+                    ? GraphicDatabase.Get<Graphic_Multi>(ch.texPath, ShaderDatabase.Cutout, Vector2.one, hairColor).MatAt(Rot4.South)
+                    : null;
 
                 Gizmo b = new Command_Action()
                 {
-                    defaultLabel = ch.LabelCap,
+                    defaultLabel = ch != null ? (string)ch.LabelCap : "",
                     defaultDesc = "",
-                    icon = (Texture2D)baseMat.mainTexture,
+                    icon = baseMat != null ? (Texture2D)baseMat.mainTexture : null,
                     action = delegate ()
                     {
                         List<FloatMenuOption> opts = new List<FloatMenuOption>();
@@ -229,6 +241,8 @@ namespace MOARANDROIDS
 
                         foreach (var h in DefDatabase<HairDef>.AllDefs)
                         {
+                            if (h.noGraphic || string.IsNullOrEmpty(h.texPath))
+                                continue;
                             opts.Add(new FloatMenuOption(h.LabelCap, delegate ()
                             {
                                 Utils.GCATPP.QEEAndroidHair[BUID] = h.defName;
@@ -311,7 +325,7 @@ namespace MOARANDROIDS
         {
             ThingOwner to = (ThingOwner)Traverse.Create(__instance).Field("innerContainer").GetValue();
 
-            Thing genome = to.FirstOrDefault(thing => thing.GetType().Name == "GenomeSequence");
+            Thing genome = to?.FirstOrDefault(thing => thing != null && thing.GetType().Name == "GenomeSequence");
             if (genome != null)
             {
                 TargetGSequencer = genome.GetUniqueLoadID();
@@ -326,7 +340,7 @@ namespace MOARANDROIDS
         {
             string BUID = __instance.GetUniqueLoadID();
 
-            if (TargetGSequencer != null && __result)
+            if (TargetGSequencer != null && __result && __instance.Map != null)
             {
                 Thing target = null;
                 //Recherche et destruction du sequence de genome TX si succés TryExtractProduct
@@ -343,14 +357,17 @@ namespace MOARANDROIDS
                     //Si surrogate on va traficoter le pawnBeingGrown pour être un surrogate
                     string source = (string)Traverse.Create(target).Field("sourceName").GetValue();
 
-                    if (source.ToLower().Contains("(surrogate)"))
+                    if (!string.IsNullOrEmpty(source) && source.ToLower().Contains("(surrogate)"))
                     {
-                        CompAndroidState cas = Utils.getCachedCAS(Utils.GCATPP.VatGrowerLastPawnInProgress[BUID]);
-                        if (cas != null)
+                        if (Utils.GCATPP.VatGrowerLastPawnInProgress.TryGetValue(BUID, out Pawn grownPawn) && grownPawn != null)
                         {
-                            Utils.initBodyAsSurrogate(Utils.GCATPP.VatGrowerLastPawnInProgress[BUID]);
-                            cas.initAsSurrogate();
-                            Utils.setSurrogateName(Utils.GCATPP.VatGrowerLastPawnInProgress[BUID]);
+                            CompAndroidState cas = Utils.getCachedCAS(grownPawn);
+                            if (cas != null)
+                            {
+                                Utils.initBodyAsSurrogate(grownPawn);
+                                cas.initAsSurrogate();
+                                Utils.setSurrogateName(grownPawn);
+                            }
                         }
                     }
 

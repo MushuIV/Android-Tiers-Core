@@ -28,7 +28,7 @@ namespace MOARANDROIDS
         {
             if (this.pawn.Any)
             {
-                return "Transcendant".Translate() + ": " + this.pawn[0].LabelShort;
+                return "ATPP_Transcendant".Translate() + ": " + this.pawn[0].LabelShort;
             }
             return null;
         }

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_NanitesHydraulicSerum.label>Nanorakkude pank (Hüdraulika)</ATPP_NanitesHydraulicSerum.label>
+	<ATPP_NanitesHydraulicSerum.description>Ühekordne nanorakkude pank, mis on häälestatud parandama androidide kahjustatud hüdraulikasüsteeme (seotud vanadusega).</ATPP_NanitesHydraulicSerum.description>
+	<ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>Kasuta seda nanorakkude seerumit androidi vanadusprobleemide parandamiseks</ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>
+	<ATPP_NanitesCPUSerum.label>Nanorakkude pank (Protsessor)</ATPP_NanitesCPUSerum.label>
+	<ATPP_NanitesCPUSerum.description>Ühekordne nanorakkude pank, mis on häälestatud parandama androidide kahjustatud tehisaju süsteeme (seotud vanadusega).</ATPP_NanitesCPUSerum.description>
+	<ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>Kasuta seda nanorakkude seerumit androidi vanadusprobleemide parandamiseks</ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>
+	<ATPP_NanitesCoolingSerum.label>Nanorakkude pank (Jahutus)</ATPP_NanitesCoolingSerum.label>
+	<ATPP_NanitesCoolingSerum.description>Ühekordne nanorakkude pank, mis on häälestatud parandama androidide kahjustatud jahutussüsteeme ülekuumenemise korral (seotud vanadusega).</ATPP_NanitesCoolingSerum.description>
+	<ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>Kasuta seda nanorakkude seerumit androidi vanadusprobleemide parandamiseks</ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>
+	<ATPP_NanitesFrameSerum.label>Nanorakkude pank (Karkass)</ATPP_NanitesFrameSerum.label>
+	<ATPP_NanitesFrameSerum.description>Ühekordne nanorakkude pank, mis on häälestatud parandama androidide kahjustatud eksoskelette (seotud vanadusega).</ATPP_NanitesFrameSerum.description>
+	<ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>Kasuta seda nanorakkude seerumit androidi vanadusprobleemide parandamiseks</ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>
+	<ATPP_AndroidNanokitBasic.label>Tavaline nanokomplekt</ATPP_AndroidNanokitBasic.label>
+	<ATPP_AndroidNanokitBasic.description>Komplekt, mis sisaldab nanobotte androidide vigastuste ravimiseks</ATPP_AndroidNanokitBasic.description>
+	<ATPP_AndroidNanokitIntermediate.label>Keskastme nanokomplekt</ATPP_AndroidNanokitIntermediate.label>
+	<ATPP_AndroidNanokitIntermediate.description>Komplekt, mis sisaldab nanobotte androidide vigastuste ravimiseks</ATPP_AndroidNanokitIntermediate.description>
+	<ATPP_AndroidNanokitAdvanced.label>Täiustatud nanokomplekt</ATPP_AndroidNanokitAdvanced.label>
+	<ATPP_AndroidNanokitAdvanced.description>Komplekt, mis sisaldab nanobotte androidide vigastuste ravimiseks</ATPP_AndroidNanokitAdvanced.description>
+	<ATPP_RXChip.label>RX närvikiip</ATPP_RXChip.label>
+	<ATPP_RXChip.description>Närvikiip, mis toimib isikliku SkyMind-repiiterina.</ATPP_RXChip.description>
+	<ATPP_VX0Chip.label>VX0 närvikiip</ATPP_VX0Chip.label>
+	<ATPP_VX0Chip.description>Närvikiip, mis muudab oma hosti bioloogiliseks surrogaadiks.</ATPP_VX0Chip.description>
+	<ATPP_VX1Chip.label>VX1 närvikiip</ATPP_VX1Chip.label>
+	<ATPP_VX1Chip.description>Närvikiip, mis võimaldab selle hostil kaugelt juhtida mis tahes SX-seeria androidi või bioloogilist surrogaati.</ATPP_VX1Chip.description>
+	<ATPP_VX2Chip.label>VX2 närvikiip</ATPP_VX2Chip.label>
+	<ATPP_VX2Chip.description>Närvikiip, mis võimaldab selle hostil kaugelt juhtida mis tahes SX-seeria androidi või bioloogilist surrogaati ning oma meelt vahetada/dubleerida.</ATPP_VX2Chip.description>
+	<ATPP_VX3Chip.label>VX3 närvikiip</ATPP_VX3Chip.label>
+	<ATPP_VX3Chip.description>Närvikiip, mis võimaldab selle hostil kaugelt juhtida korraga mitut SX-seeria androidi või bioloogilist surrogaati ning oma meelt vahetada/dubleerida.</ATPP_VX3Chip.description>
+	<ATPP_T1ArtificialBrain.label>Tehisaju T1</ATPP_T1ArtificialBrain.label>
+	<ATPP_T1ArtificialBrain.description>T1 tehisaju, mis võimaldab muuta T1 surrogaadi tühja närvivõrguga androidiks</ATPP_T1ArtificialBrain.description>
+	<ATPP_T2ArtificialBrain.label>Tehisaju T2</ATPP_T2ArtificialBrain.label>
+	<ATPP_T2ArtificialBrain.description>T2 tehisaju, mis võimaldab muuta T2 surrogaadi tühja närvivõrguga androidiks</ATPP_T2ArtificialBrain.description>
+	<ATPP_T3ArtificialBrain.label>Tehisaju T3</ATPP_T3ArtificialBrain.label>
+	<ATPP_T3ArtificialBrain.description>T3 tehisaju, mis võimaldab muuta T3 surrogaadi tühja närvivõrguga androidiks</ATPP_T3ArtificialBrain.description>
+	<ATPP_T4ArtificialBrain.label>Tehisaju T4</ATPP_T4ArtificialBrain.label>
+	<ATPP_T4ArtificialBrain.description>T4 tehisaju, mis võimaldab muuta T4 surrogaadi tühja närvivõrguga androidiks</ATPP_T4ArtificialBrain.description>
+	<ATPP_SyntheticSkinGland.label>sünteetiline nahanääre</ATPP_SyntheticSkinGland.label>
+	<ATPP_SyntheticSkinGland.description>Täiustatud biosünteetiline elund, mis koosneb uinuvast epidermaalsest maatriksist ja toitainete mikrokanalitest. Kui see siirdatakse TX-seeria lahinguraamile või integreeritakse tootmisnõus kokkupaneku käigus, laieneb see ja seondub nahaaluse kestaga, pakkudes inimlaadset soojusisolatsiooni, kompamistundlikkust ja elutruud nahamaskeeringut.</ATPP_SyntheticSkinGland.description>
+	<ATPP_GS_TX2KMale.label>Meessoost TX2K raam</ATPP_GS_TX2KMale.label>
+	<ATPP_GS_TX2KMale.description>Mitteaktiivne töökorras TX2K eksoskelett, mis ootab aktiveerimist kultiveerimisnõus pärast naha kasvamist</ATPP_GS_TX2KMale.description>
+	<ATPP_GS_TX2KFemale.label>Naissoost TX2K raam</ATPP_GS_TX2KFemale.label>
+	<ATPP_GS_TX2KFemale.description>Mitteaktiivne töökorras TX2K eksoskelett, mis ootab aktiveerimist kultiveerimisnõus pärast naha kasvamist</ATPP_GS_TX2KFemale.description>
+	<ATPP_GS_TX3Male.label>Meessoost TX3 raam</ATPP_GS_TX3Male.label>
+	<ATPP_GS_TX3Male.description>Mitteaktiivne töökorras TX3 eksoskelett, mis ootab aktiveerimist kultiveerimisnõus pärast naha kasvamist</ATPP_GS_TX3Male.description>
+	<ATPP_GS_TX3Female.label>Naissoost TX3 raam</ATPP_GS_TX3Female.label>
+	<ATPP_GS_TX3Female.description>Mitteaktiivne töökorras TX3 eksoskelett, mis ootab aktiveerimist kultiveerimisnõus pärast naha kasvamist</ATPP_GS_TX3Female.description>
+	<ATPP_GS_TX4Male.label>Meessoost TX4 raam</ATPP_GS_TX4Male.label>
+	<ATPP_GS_TX4Male.description>Mitteaktiivne töökorras TX4 eksoskelett, mis ootab aktiveerimist kultiveerimisnõus pärast naha kasvamist</ATPP_GS_TX4Male.description>
+	<ATPP_GS_TX4Female.label>Naissoost TX4 raam</ATPP_GS_TX4Female.label>
+	<ATPP_GS_TX4Female.description>Mitteaktiivne töökorras TX4 eksoskelett, mis ootab aktiveerimist kultiveerimisnõus pärast naha kasvamist</ATPP_GS_TX4Female.description>
+</LanguageData>

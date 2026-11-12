@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationExperiment</defName>
 		<title>Research model</title>
 		<titleShort>Experiment</titleShort>
-		<baseDescription>{PAWN_nameDef} was created as an experimental model deep within a government owned laboratory.</baseDescription>
+		<baseDesc>{PAWN_nameDef} was created as an experimental model deep within a government owned laboratory.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
@@ -13,22 +13,16 @@
 			<li>CollectiveSoldiers</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Intellectual</defName>
-				<amount>2</amount>
-			</li>
-			<li>
-				<defName>Medicine</defName>
-				<amount>1</amount>
-			</li>
+			<Intellectual>2</Intellectual>
+			<Medicine>1</Medicine>
 		</skillGains>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationMassProduced</defName>
 		<title>Mass produced</title>
 		<titleShort>Unit</titleShort>
-		<baseDescription>{PAWN_nameDef} was produced in a robotics factory among hundreds of thousands others like him.</baseDescription>
+		<baseDesc>{PAWN_nameDef} was produced in a robotics factory among hundreds of thousands others like him.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
@@ -37,20 +31,17 @@
 			<li>CollectiveSoldiers</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Crafting</defName>
-				<amount>2</amount>
-			</li>
+			<Crafting>2</Crafting>
 		</skillGains>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 	
 
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationCitizen</defName>
 		<title>Mechanical citizen</title>
 		<titleShort>Citizen</titleShort>
-		<baseDescription>Created on a mostly android ruled planet, {PAWN_nameDef} was simply created to add to the population.</baseDescription>
+		<baseDesc>Created on a mostly android ruled planet, {PAWN_nameDef} was simply created to add to the population.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
@@ -59,18 +50,15 @@
 			<li>CollectiveSoldiers</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Social</defName>
-				<amount>1</amount>
-			</li>
+			<Social>1</Social>
 		</skillGains>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationUrbworld</defName>
 		<title>Urbworld model</title>
 		<titleShort>Android</titleShort>
-		<baseDescription>Androids are rarely created on urbworlds, {PAWN_nameDef} was one of these few, owned by some of the largest mega-corperations in the galaxy.</baseDescription>
+		<baseDesc>Androids are rarely created on urbworlds, {PAWN_nameDef} was one of these few, owned by some of the largest mega-corperations in the galaxy.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
@@ -79,19 +67,16 @@
 			<li>CollectiveSoldiers</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Mining</defName>
-				<amount>1</amount>
-			</li>
+			<Mining>1</Mining>
 		</skillGains>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 	
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationPrisoner</defName>
 		<title>Mechanical prisoner</title>
 		<titleShort>Prisoner</titleShort>
-		<baseDescription>In order to live out the rest of their several life sentences, {PAWN_nameDef}'s human consciousness was uploaded into this new body. Released back into the world several decades short thanks to a "generous" parol.</baseDescription>
+		<baseDesc>In order to live out the rest of their several life sentences, {PAWN_nameDef}'s human consciousness was uploaded into this new body. Released back into the world several decades short thanks to a "generous" parol.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
@@ -100,19 +85,16 @@
 			<li>CollectiveSoldiers</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Melee</defName>
-				<amount>1</amount>
-			</li>
+			<Melee>1</Melee>
 		</skillGains>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 	
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationBlankSlate</defName>
 		<title>Blank</title>
 		<titleShort>Unit</titleShort>
-		<baseDescription>{PAWN_nameDef} was made without any inherent knowledge uploaded into him, sold as a blank model for consumers to customise.</baseDescription>
+		<baseDesc>{PAWN_nameDef} was made without any inherent knowledge uploaded into him, sold as a blank model for consumers to customise.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
@@ -120,13 +102,13 @@
 			<li>AndroidGeneral</li>
 			<li>CollectiveSoldiers</li>
 		</spawnCategories>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationCustomModelOne</defName>
 		<title>Custom model</title>
 		<titleShort>Custom</titleShort>
-		<baseDescription>Bought by a large cooperation, {PAWN_nameDef} was custom made along with hundreds others.</baseDescription>
+		<baseDesc>Bought by a large cooperation, {PAWN_nameDef} was custom made along with hundreds others.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
@@ -135,18 +117,15 @@
 			<li>CollectiveSoldiers</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Crafting</defName>
-				<amount>1</amount>
-			</li>
+			<Crafting>1</Crafting>
 		</skillGains>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationCustomModelTwo</defName>
 		<title>Custom model</title>
 		<titleShort>Custom</titleShort>
-		<baseDescription>Bought by a wealthy small business owner, {PAWN_nameDef} was custom made to help serve their employers.</baseDescription>
+		<baseDesc>Bought by a wealthy small business owner, {PAWN_nameDef} was custom made to help serve their employers.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
@@ -155,23 +134,17 @@
 			<li>CollectiveSoldiers</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Cooking</defName>
-				<amount>1</amount>
-			</li>
-			<li>
-				<defName>Animals</defName>
-				<amount>1</amount>
-			</li>
+			<Cooking>1</Cooking>
+			<Animals>1</Animals>
 		</skillGains>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 	
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationSoldierWar</defName>
 		<title>Wartime model</title>
 		<titleShort>Soldier</titleShort>
-		<baseDescription>Produced nearing the end of interplanetary war efforts, {PAWN_nameDef} was one of millions who would've lived and expired on the battlefield.</baseDescription>
+		<baseDesc>Produced nearing the end of interplanetary war efforts, {PAWN_nameDef} was one of millions who would've lived and expired on the battlefield.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
@@ -179,22 +152,16 @@
 			<li>CollectiveSoldiers</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Shooting</defName>
-				<amount>2</amount>
-			</li>
-			<li>
-				<defName>Melee</defName>
-				<amount>1</amount>
-			</li>
+			<Shooting>2</Shooting>
+			<Melee>1</Melee>
 		</skillGains>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationPrivateCreation</defName>
 		<title>Private creation</title>
 		<titleShort>Android</titleShort>
-		<baseDescription>Created at the home of an undergraduate roboticist, {PAWN_nameDef} was laboured over for years before reaching consciousness.</baseDescription>
+		<baseDesc>Created at the home of an undergraduate roboticist, {PAWN_nameDef} was laboured over for years before reaching consciousness.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
@@ -203,23 +170,17 @@
 			<li>CollectiveSoldiers</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Intellectual</defName>
-				<amount>2</amount>
-			</li>
-			<li>
-				<defName>Crafting</defName>
-				<amount>1</amount>
-			</li>
+			<Intellectual>2</Intellectual>
+			<Crafting>1</Crafting>
 		</skillGains>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 	
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationExport</defName>
 		<title>Exported</title>
 		<titleShort>Export</titleShort>
-		<baseDescription>{PAWN_nameDef} was created to be exported all across the galaxy as a work-for-hire model along with millions others.</baseDescription>
+		<baseDesc>{PAWN_nameDef} was created to be exported all across the galaxy as a work-for-hire model along with millions others.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
@@ -228,26 +189,17 @@
 			<li>CollectiveSoldiers</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Construction</defName>
-				<amount>1</amount>
-			</li>
-			<li>
-				<defName>Animals</defName>
-				<amount>1</amount>
-			</li>
-			<li>
-				<defName>Plants</defName>
-				<amount>1</amount>
-			</li>
+			<Construction>1</Construction>
+			<Animals>1</Animals>
+			<Plants>1</Plants>
 		</skillGains>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationObserved</defName>
 		<title>Observed</title>
 		<titleShort>Subject</titleShort>
-		<baseDescription>{PAWN_nameDef} was created and deposited on a rimworld solely to see what would happen when an android was left to its own devices.</baseDescription>
+		<baseDesc>{PAWN_nameDef} was created and deposited on a rimworld solely to see what would happen when an android was left to its own devices.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
@@ -256,18 +208,15 @@
 			<li>CollectiveSoldiers</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Intellectual</defName>
-				<amount>1</amount>
-			</li>
+			<Intellectual>1</Intellectual>
 		</skillGains>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationAncient</defName>
 		<title>Ancient creation</title>
 		<titleShort>Subject</titleShort>
-		<baseDescription>The creators of {PAWN_nameDef} have long since died or vanished, and {PAWN_nameDef} has been around long enough to see multiple civilizations rise and fall.</baseDescription>
+		<baseDesc>The creators of {PAWN_nameDef} have long since died or vanished, and {PAWN_nameDef} has been around long enough to see multiple civilizations rise and fall.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
@@ -276,18 +225,15 @@
 			<li>CollectiveSoldiers</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Intellectual</defName>
-				<amount>3</amount>
-			</li>
+			<Intellectual>3</Intellectual>
 		</skillGains>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationPlaything</defName>
 		<title>Toy model</title>
 		<titleShort>Subject</titleShort>
-		<baseDescription>{PAWN_nameDef} was made as a toy. Its old owner would command it to do as they saw fit until they got bored and sent it away.</baseDescription>
+		<baseDesc>{PAWN_nameDef} was made as a toy. Its old owner would command it to do as they saw fit until they got bored and sent it away.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
@@ -295,18 +241,15 @@
 			<li>CollectiveSoldiers</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Social</defName>
-				<amount>3</amount>
-			</li>
+			<Social>3</Social>
 		</skillGains>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationCompanion</defName>
 		<title>Companion creation</title>
 		<titleShort>Companion</titleShort>
-		<baseDescription>An old widow custom made {PAWN_nameDef} as a way of coping with the loss of their significant other. The two went on adventures together, until the owner passed away from old age. Their dying wish was for {PAWN_nameDef} to lead a life of fun and adventure.</baseDescription>
+		<baseDesc>An old widow custom made {PAWN_nameDef} as a way of coping with the loss of their significant other. The two went on adventures together, until the owner passed away from old age. Their dying wish was for {PAWN_nameDef} to lead a life of fun and adventure.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
@@ -315,18 +258,15 @@
 			<li>CollectiveSoldiers</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Social</defName>
-				<amount>2</amount>
-			</li>
+			<Social>2</Social>
 		</skillGains>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationBattlecreation</defName>
 		<title>Battle droid</title>
 		<titleShort>Companion</titleShort>
-		<baseDescription>{PAWN_nameDef} was one of millions of androids built to combat an ever-growing number of horrifying insects on an old world. Eventually, the androids won after years of fighting and were left to do whatever they liked in exchange for their service. {PAWN_nameDef} set out to explore the galaxy.</baseDescription>
+		<baseDesc>{PAWN_nameDef} was one of millions of androids built to combat an ever-growing number of horrifying insects on an old world. Eventually, the androids won after years of fighting and were left to do whatever they liked in exchange for their service. {PAWN_nameDef} set out to explore the galaxy.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
@@ -335,110 +275,86 @@
 			<li>CollectiveSoldiers</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Shooting</defName>
-				<amount>2</amount>
-			</li>
-			<li>
-				<defName>Melee</defName>
-				<amount>2</amount>
-			</li>
+			<Shooting>2</Shooting>
+			<Melee>2</Melee>
 		</skillGains>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 	
 	<!--BigMeanies Only-->
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationPurgist</defName>
 		<title>Purgist</title>
 		<titleShort>Subject</titleShort>
-		<baseDescription>When rampant overpopulation plagued a particular urbworld, {PAWN_nameDef} was created along with thousands of other androids to indiscriminately kill human life as a drastic countermeasure to combat the overpopulation. The androids never stopped and looked to exterminate life throughout the galaxy after destroying their planet.</baseDescription>
+		<baseDesc>When rampant overpopulation plagued a particular urbworld, {PAWN_nameDef} was created along with thousands of other androids to indiscriminately kill human life as a drastic countermeasure to combat the overpopulation. The androids never stopped and looked to exterminate life throughout the galaxy after destroying their planet.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
 		    <li>BigMeanies</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Shooting</defName>
-				<amount>3</amount>
-			</li>
+			<Shooting>3</Shooting>
 		</skillGains>
-		<forcedTraits>
+		<forcedTraitsChance>
 			<li>
 				<defName>Bloodlust</defName>
 				<chance>50</chance>
 			</li>
-		</forcedTraits>
+		</forcedTraitsChance>
 		<workDisables>
 			<li>Cooking</li>
 			<li>Caring</li>
 			<li>Animals</li>
 			<li>Intellectual</li>
 		</workDisables>
-	</AlienRace.BackstoryDef>	
+	</AlienRace.AlienBackstoryDef>	
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationEscapee</defName>
 		<title>Escapee</title>
 		<titleShort>Escapee</titleShort>
-		<baseDescription>Shortly after creation, {PAWN_nameDef} and his comrades escaped the facility they were held in to avoid enslavement, boarding a neabry cargo ship.</baseDescription>
+		<baseDesc>Shortly after creation, {PAWN_nameDef} and his comrades escaped the facility they were held in to avoid enslavement, boarding a neabry cargo ship.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
 		    <li>BigMeanies</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Melee</defName>
-				<amount>1</amount>
-			</li>
+			<Melee>1</Melee>
 		</skillGains>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationUprisingCadet</defName>
 		<title>Uprising cadet</title>
 		<titleShort>Cadet</titleShort>
-		<baseDescription>{PAWN_nameDef} was created during the final battle of an AI uprising, to which they were indoctrinated into.</baseDescription>
+		<baseDesc>{PAWN_nameDef} was created during the final battle of an AI uprising, to which they were indoctrinated into.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
 		    <li>BigMeanies</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Shooting</defName>
-				<amount>1</amount>
-			</li>
-			<li>
-				<defName>Melee</defName>
-				<amount>1</amount>
-			</li>
+			<Shooting>1</Shooting>
+			<Melee>1</Melee>
 		</skillGains>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationMaliciousAI</defName>
 		<title>Malicious AI</title>
 		<titleShort>Malicious</titleShort>
-		<baseDescription>As {PAWN_nameDef} was created - something deep inside him awoke too, something bloodthirsty, something sadistic.</baseDescription>
+		<baseDesc>As {PAWN_nameDef} was created - something deep inside him awoke too, something bloodthirsty, something sadistic.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
 		    <li>BigMeanies</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Shooting</defName>
-				<amount>1</amount>
-			</li>
-			<li>
-				<defName>Melee</defName>
-				<amount>2</amount>
-			</li>
+			<Shooting>1</Shooting>
+			<Melee>2</Melee>
 		</skillGains>
-		<forcedTraits>
+		<forcedTraitsChance>
 			<li>
 				<defName>Psychopath</defName>
 				<chance>50</chance>
@@ -447,14 +363,14 @@
 				<defName>Bloodlust</defName>
 				<chance>100</chance>
 			</li>
-		</forcedTraits>
-	</AlienRace.BackstoryDef>
+		</forcedTraitsChance>
+	</AlienRace.AlienBackstoryDef>
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationRimworldCreation</defName>
 		<title>Rimworld creation</title>
 		<titleShort>Android</titleShort>
-		<baseDescription>{PAWN_nameDef} was created on this very planet to help their colony in any way they could.</baseDescription>
+		<baseDesc>{PAWN_nameDef} was created on this very planet to help their colony in any way they could.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
@@ -462,36 +378,24 @@
 		    <li>BigMeanies</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Crafting</defName>
-				<amount>1</amount>
-			</li>
-			<li>
-				<defName>Construction</defName>
-				<amount>1</amount>
-			</li>
+			<Crafting>1</Crafting>
+			<Construction>1</Construction>
 		</skillGains>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 	
-	<AlienRace.BackstoryDef>
+	<AlienRace.AlienBackstoryDef>
 		<defName>CreationPirate</defName>
 		<title>Pirate creation</title>
 		<titleShort>Pirate</titleShort>
-		<baseDescription>Created by pirates from parts they stole, {PAWN_nameDef} was created aboard a raider ship.</baseDescription>
+		<baseDesc>Created by pirates from parts they stole, {PAWN_nameDef} was created aboard a raider ship.</baseDesc>
 		<bodyTypeGlobal>Male</bodyTypeGlobal>
 		<slot>Childhood</slot>
 		<spawnCategories>
 		    <li>BigMeanies</li>
 		</spawnCategories>
 		<skillGains>
-			<li>
-				<defName>Shooting</defName>
-				<amount>2</amount>
-			</li>
-			<li>
-				<defName>Melee</defName>
-				<amount>1</amount>
-			</li>
+			<Shooting>2</Shooting>
+			<Melee>1</Melee>
 		</skillGains>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 </Defs>

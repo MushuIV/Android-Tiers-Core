@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_DisassembleAndroid.label>Dode android demonteren</ATPP_DisassembleAndroid.label>
+	<ATPP_DisassembleAndroid.description>Demonteer een dode android in zijn samenstellende onderdelen.</ATPP_DisassembleAndroid.description>
+	<ATPP_DisassembleAndroid.jobString>Android demonteren.</ATPP_DisassembleAndroid.jobString>
+	<ATPP_Make_NanitesHydraulicSerum.label>Maak een nanietenbank (hydraulisch)</ATPP_Make_NanitesHydraulicSerum.label>
+	<ATPP_Make_NanitesHydraulicSerum.description>Maak een hydraulisch nanietenserum voor het repareren van androids (gerelateerd aan ouderdom).</ATPP_Make_NanitesHydraulicSerum.description>
+	<ATPP_Make_NanitesHydraulicSerum.jobString>Nanietenserum voor androids maken.</ATPP_Make_NanitesHydraulicSerum.jobString>
+	<ATPP_Make_NanitesCPUSerum.label>Maak een nanietenbank (CPU)</ATPP_Make_NanitesCPUSerum.label>
+	<ATPP_Make_NanitesCPUSerum.description>Maak een CPU-nanietenserum voor het repareren van de CPU van een android (gerelateerd aan ouderdom).</ATPP_Make_NanitesCPUSerum.description>
+	<ATPP_Make_NanitesCPUSerum.jobString>Nanietenserum voor androids maken.</ATPP_Make_NanitesCPUSerum.jobString>
+	<ATPP_Make_NanitesCoolingSerum.label>Maak een nanietenbank (koeling)</ATPP_Make_NanitesCoolingSerum.label>
+	<ATPP_Make_NanitesCoolingSerum.description>Maak een koelingsnanietenserum voor het repareren van het koelsysteem van een android (gerelateerd aan ouderdom).</ATPP_Make_NanitesCoolingSerum.description>
+	<ATPP_Make_NanitesCoolingSerum.jobString>Nanietenserum voor androids maken.</ATPP_Make_NanitesCoolingSerum.jobString>
+	<ATPP_Make_NanitesFrameSerum.label>Maak een nanietenbank (frame)</ATPP_Make_NanitesFrameSerum.label>
+	<ATPP_Make_NanitesFrameSerum.description>Maak een frame-nanietenserum voor het repareren van het exoskelet van een android (gerelateerd aan ouderdom).</ATPP_Make_NanitesFrameSerum.description>
+	<ATPP_Make_NanitesFrameSerum.jobString>Nanietenserum voor androids maken.</ATPP_Make_NanitesFrameSerum.jobString>
+	<ATPP_Make_RXChip.label>Maak een RX neurale chip</ATPP_Make_RXChip.label>
+	<ATPP_Make_RXChip.description>Een neurale chip die fungeert als persoonlijk SkyMind-relais.</ATPP_Make_RXChip.description>
+	<ATPP_Make_RXChip.jobString>RX neurale chip maken.</ATPP_Make_RXChip.jobString>
+	<ATPP_Make_VX0Chip.label>Maak een VX0 neurale chip</ATPP_Make_VX0Chip.label>
+	<ATPP_Make_VX0Chip.description>Maak een VX0-chip, een neurale chip die de gastheer transformeert in een biologische surrogaat.</ATPP_Make_VX0Chip.description>
+	<ATPP_Make_VX0Chip.jobString>VX0 neurale chip maken.</ATPP_Make_VX0Chip.jobString>
+	<ATPP_Make_VX1Chip.label>Maak een VX1 neurale chip</ATPP_Make_VX1Chip.label>
+	<ATPP_Make_VX1Chip.description>Maak een VX1-chip, waarmee de gastheer op afstand elke SX-serie android of biologische surrogaat kan besturen.</ATPP_Make_VX1Chip.description>
+	<ATPP_Make_VX1Chip.jobString>VX1 neurale chip maken.</ATPP_Make_VX1Chip.jobString>
+	<ATPP_Make_VX2Chip.label>Maak een VX2 neurale chip</ATPP_Make_VX2Chip.label>
+	<ATPP_Make_VX2Chip.description>Maak een VX2-chip, waarmee de gastheer op afstand elke SX-serie android of biologische surrogaat kan besturen en zijn geest kan dupliceren/verwisselen.</ATPP_Make_VX2Chip.description>
+	<ATPP_Make_VX2Chip.jobString>VX2 neurale chip maken.</ATPP_Make_VX2Chip.jobString>
+	<ATPP_Make_VX3Chip.label>Maak een VX3 neurale chip</ATPP_Make_VX3Chip.label>
+	<ATPP_Make_VX3Chip.description>Maak een VX3-chip, waarmee de gastheer op afstand meerdere SX-serie androids of biologische surrogaten tegelijk kan besturen en zijn geest kan dupliceren/verwisselen.</ATPP_Make_VX3Chip.description>
+	<ATPP_Make_VX3Chip.jobString>VX3 neurale chip maken.</ATPP_Make_VX3Chip.jobString>
+	<ATPP_InstallVX2Chip.label>Installeer een VX2 neurale chip</ATPP_InstallVX2Chip.label>
+	<ATPP_InstallVX2Chip.description>Installeer een VX2 neurale chip, waarmee de gastheer op afstand elke SX-serie android of biologische surrogaat kan besturen en zijn geest kan dupliceren/verwisselen.</ATPP_InstallVX2Chip.description>
+	<ATPP_InstallVX2Chip.jobString>VX2 neurale chip installeren.</ATPP_InstallVX2Chip.jobString>
+	<ATPP_InstallVX2ChipOnAndroid.label>Installeer een VX2 neurale chip voor android</ATPP_InstallVX2ChipOnAndroid.label>
+	<ATPP_InstallVX2ChipOnAndroid.description>Installeer een VX2 neurale chip voor android, waarmee de gastheer op afstand elke SX-serie android of biologische surrogaat kan besturen en zijn geest kan dupliceren/verwisselen.</ATPP_InstallVX2ChipOnAndroid.description>
+	<ATPP_InstallVX2ChipOnAndroid.jobString>VX2 neurale chip voor android installeren.</ATPP_InstallVX2ChipOnAndroid.jobString>
+	<ATPP_InstallVX3Chip.label>Installeer een VX3 neurale chip</ATPP_InstallVX3Chip.label>
+	<ATPP_InstallVX3Chip.description>Installeer een VX3 neurale chip, waarmee de gastheer op afstand meerdere SX-serie androids of biologische surrogaten tegelijk kan besturen en zijn geest kan dupliceren/verwisselen.</ATPP_InstallVX3Chip.description>
+	<ATPP_InstallVX3Chip.jobString>VX3 neurale chip installeren.</ATPP_InstallVX3Chip.jobString>
+	<ATPP_InstallVX3ChipOnAndroid.label>Installeer een VX3 neurale chip voor android</ATPP_InstallVX3ChipOnAndroid.label>
+	<ATPP_InstallVX3ChipOnAndroid.description>Installeer een VX3 neurale chip voor android, waarmee de gastheer op afstand meerdere SX-serie androids of biologische surrogaten tegelijk kan besturen en zijn geest kan dupliceren/verwisselen.</ATPP_InstallVX3ChipOnAndroid.description>
+	<ATPP_InstallVX3ChipOnAndroid.jobString>VX3 neurale chip voor android installeren.</ATPP_InstallVX3ChipOnAndroid.jobString>
+	<ATPP_InstallRXChip.label>Installeer een RX neurale chip</ATPP_InstallRXChip.label>
+	<ATPP_InstallRXChip.description>Installeer een RX neurale chip, een chip die fungeert als persoonlijk SkyMind-relais voor zijn gastheer.</ATPP_InstallRXChip.description>
+	<ATPP_InstallRXChip.jobString>RX neurale chip installeren.</ATPP_InstallRXChip.jobString>
+	<ATPP_InstallRXChipOnAndroid.label>Installeer een RX neurale chip</ATPP_InstallRXChipOnAndroid.label>
+	<ATPP_InstallRXChipOnAndroid.description>Installeer een RX neurale chip, een chip die fungeert als persoonlijk SkyMind-relais voor zijn gastheer.</ATPP_InstallRXChipOnAndroid.description>
+	<ATPP_InstallRXChipOnAndroid.jobString>RX neurale chip installeren.</ATPP_InstallRXChipOnAndroid.jobString>
+	<ATPP_InstallVX0ChipOnAndroid.label>Installeer een VX0 neurale chip voor android</ATPP_InstallVX0ChipOnAndroid.label>
+	<ATPP_InstallVX0ChipOnAndroid.description>Installeer een VX0 neurale chip voor android, een neurale chip die zijn gastheer transformeert in een biologische surrogaat.</ATPP_InstallVX0ChipOnAndroid.description>
+	<ATPP_InstallVX0ChipOnAndroid.jobString>VX0 neurale chip voor android installeren.</ATPP_InstallVX0ChipOnAndroid.jobString>
+	<ATPP_InstallVX0Chip.label>Installeer een VX0 neurale chip</ATPP_InstallVX0Chip.label>
+	<ATPP_InstallVX0Chip.description>Installeer een VX0 neurale chip, een neurale chip die zijn gastheer transformeert in een biologische surrogaat.</ATPP_InstallVX0Chip.description>
+	<ATPP_InstallVX0Chip.jobString>VX0 neurale chip installeren.</ATPP_InstallVX0Chip.jobString>
+	<ATPP_InstallVX1Chip.label>Installeer een VX1 neurale chip</ATPP_InstallVX1Chip.label>
+	<ATPP_InstallVX1Chip.description>Installeer een VX1 neurale chip, waarmee de gastheer op afstand elke SX-serie android of biologische surrogaat kan besturen.</ATPP_InstallVX1Chip.description>
+	<ATPP_InstallVX1Chip.jobString>VX1 neurale chip installeren.</ATPP_InstallVX1Chip.jobString>
+	<ATPP_InstallVX1ChipOnAndroid.label>Installeer een VX1 neurale chip voor android</ATPP_InstallVX1ChipOnAndroid.label>
+	<ATPP_InstallVX1ChipOnAndroid.description>Installeer een VX1 neurale chip voor android, waarmee de gastheer op afstand elke SX-serie android of biologische surrogaat kan besturen.</ATPP_InstallVX1ChipOnAndroid.description>
+	<ATPP_InstallVX1ChipOnAndroid.jobString>VX1 neurale chip voor android installeren.</ATPP_InstallVX1ChipOnAndroid.jobString>
+	<ATPP_CreateS1.label>Maak T1 surrogaat-android (S1)</ATPP_CreateS1.label>
+	<ATPP_CreateS1.description>Maak een blanco S1-android van plastaal en componenten.</ATPP_CreateS1.description>
+	<ATPP_CreateS1.jobString>S1-android maken.</ATPP_CreateS1.jobString>
+	<ATPP_CreateS2.label>Maak T2 surrogaat-android (S2)</ATPP_CreateS2.label>
+	<ATPP_CreateS2.description>Maak een blanco S2-android van plastaal en componenten.</ATPP_CreateS2.description>
+	<ATPP_CreateS2.jobString>S2-android maken.</ATPP_CreateS2.jobString>
+	<ATPP_CreateS3.label>Maak T3 surrogaat-android (S3)</ATPP_CreateS3.label>
+	<ATPP_CreateS3.description>Maak een blanco S3-android van plastaal en componenten.</ATPP_CreateS3.description>
+	<ATPP_CreateS3.jobString>S3-android maken.</ATPP_CreateS3.jobString>
+	<ATPP_CreateS4.label>Maak T4 surrogaat-android (S4)</ATPP_CreateS4.label>
+	<ATPP_CreateS4.description>Maak een blanco S4-android van plastaal en componenten.</ATPP_CreateS4.description>
+	<ATPP_CreateS4.jobString>S4-android maken.</ATPP_CreateS4.jobString>
+	<ATPP_CreateHellDrone.label>Maak HellUnit surrogaat-android (S-HU)</ATPP_CreateHellDrone.label>
+	<ATPP_CreateHellDrone.description>Maak een blanco S-HU-android van plastaal en componenten.</ATPP_CreateHellDrone.description>
+	<ATPP_CreateHellDrone.jobString>S-HU-android maken.</ATPP_CreateHellDrone.jobString>
+	<ATPP_CreateM7.label>Maak M7 surrogaat-mechanoïde (SM7)</ATPP_CreateM7.label>
+	<ATPP_CreateM7.description>Maak een blanco SM7-mechanoïde van plastaal en componenten.</ATPP_CreateM7.description>
+	<ATPP_CreateM7.jobString>SM7-mechanoïde maken.</ATPP_CreateM7.jobString>
+	<ATPP_CreateBlankT3.label>Maak blanco neuraal netwerk T3-android</ATPP_CreateBlankT3.label>
+	<ATPP_CreateBlankT3.description>Maak blanco neuraal netwerk T3-android</ATPP_CreateBlankT3.description>
+	<ATPP_CreateBlankT3.jobString>Blanco neuraal netwerk T3-android maken</ATPP_CreateBlankT3.jobString>
+	<ATPP_CreateBlankT4.label>Maak blanco neuraal netwerk T4-android</ATPP_CreateBlankT4.label>
+	<ATPP_CreateBlankT4.description>Maak blanco neuraal netwerk T4-android</ATPP_CreateBlankT4.description>
+	<ATPP_CreateBlankT4.jobString>Blanco neuraal netwerk T4-android maken</ATPP_CreateBlankT4.jobString>
+	<ATPP_Make_SM7Mech40MMCannon.label>Maak een 40mm-kanon (SM7-wapen)</ATPP_Make_SM7Mech40MMCannon.label>
+	<ATPP_Make_SM7Mech40MMCannon.description>Maak een 40mm-kanon (SM7-wapen)</ATPP_Make_SM7Mech40MMCannon.description>
+	<ATPP_Make_SM7Mech40MMCannon.jobString>40mm-kanon maken (SM7-wapen)</ATPP_Make_SM7Mech40MMCannon.jobString>
+	<ATPP_Make_SM7MechMastiffGun.label>Maak een Mastiff-jachtgeweer (SM7-wapen)</ATPP_Make_SM7MechMastiffGun.label>
+	<ATPP_Make_SM7MechMastiffGun.description>Maak een Mastiff-jachtgeweer (SM7-wapen)</ATPP_Make_SM7MechMastiffGun.description>
+	<ATPP_Make_SM7MechMastiffGun.jobString>Mastiff-jachtgeweer maken (SM7-wapen)</ATPP_Make_SM7MechMastiffGun.jobString>
+	<ATPP_Make_SM7MechHandCannon.label>Maak een X-5 handkanon (SM7-wapen)</ATPP_Make_SM7MechHandCannon.label>
+	<ATPP_Make_SM7MechHandCannon.description>Maak een X-5 handkanon (SM7-wapen)</ATPP_Make_SM7MechHandCannon.description>
+	<ATPP_Make_SM7MechHandCannon.jobString>X-5 handkanon maken (SM7-wapen)</ATPP_Make_SM7MechHandCannon.jobString>
+	<ATPP_PaintAndroidFrameworkKhaki.label>Verf androidframe in kaki</ATPP_PaintAndroidFrameworkKhaki.label>
+	<ATPP_PaintAndroidFrameworkKhaki.description>Verf androidframe in kaki</ATPP_PaintAndroidFrameworkKhaki.description>
+	<ATPP_PaintAndroidFrameworkKhaki.jobString>Androidframe in kaki verven</ATPP_PaintAndroidFrameworkKhaki.jobString>
+	<ATPP_PaintAndroidFrameworkGreen.label>Verf androidframe in groen</ATPP_PaintAndroidFrameworkGreen.label>
+	<ATPP_PaintAndroidFrameworkGreen.description>Verf androidframe in groen</ATPP_PaintAndroidFrameworkGreen.description>
+	<ATPP_PaintAndroidFrameworkGreen.jobString>Androidframe in groen verven</ATPP_PaintAndroidFrameworkGreen.jobString>
+	<ATPP_PaintAndroidFrameworkBlue.label>Verf androidframe in blauw</ATPP_PaintAndroidFrameworkBlue.label>
+	<ATPP_PaintAndroidFrameworkBlue.description>Verf androidframe in blauw</ATPP_PaintAndroidFrameworkBlue.description>
+	<ATPP_PaintAndroidFrameworkBlue.jobString>Androidframe in blauw verven</ATPP_PaintAndroidFrameworkBlue.jobString>
+	<ATPP_PaintAndroidFrameworkRed.label>Verf androidframe in rood</ATPP_PaintAndroidFrameworkRed.label>
+	<ATPP_PaintAndroidFrameworkRed.description>Verf androidframe in rood</ATPP_PaintAndroidFrameworkRed.description>
+	<ATPP_PaintAndroidFrameworkRed.jobString>Androidframe in rood verven</ATPP_PaintAndroidFrameworkRed.jobString>
+	<ATPP_PaintAndroidFrameworkYellow.label>Verf androidframe in geel</ATPP_PaintAndroidFrameworkYellow.label>
+	<ATPP_PaintAndroidFrameworkYellow.description>Verf androidframe in geel</ATPP_PaintAndroidFrameworkYellow.description>
+	<ATPP_PaintAndroidFrameworkYellow.jobString>Androidframe in geel verven</ATPP_PaintAndroidFrameworkYellow.jobString>
+	<ATPP_PaintAndroidFrameworkOrange.label>Verf androidframe in oranje</ATPP_PaintAndroidFrameworkOrange.label>
+	<ATPP_PaintAndroidFrameworkOrange.description>Verf androidframe in oranje</ATPP_PaintAndroidFrameworkOrange.description>
+	<ATPP_PaintAndroidFrameworkOrange.jobString>Androidframe in oranje verven</ATPP_PaintAndroidFrameworkOrange.jobString>
+	<ATPP_PaintAndroidFrameworkBlack.label>Verf androidframe in zwart</ATPP_PaintAndroidFrameworkBlack.label>
+	<ATPP_PaintAndroidFrameworkBlack.description>Verf androidframe in zwart</ATPP_PaintAndroidFrameworkBlack.description>
+	<ATPP_PaintAndroidFrameworkBlack.jobString>Androidframe in zwart verven</ATPP_PaintAndroidFrameworkBlack.jobString>
+	<ATPP_PaintAndroidFrameworkWhite.label>Verf androidframe in wit</ATPP_PaintAndroidFrameworkWhite.label>
+	<ATPP_PaintAndroidFrameworkWhite.description>Verf androidframe in wit</ATPP_PaintAndroidFrameworkWhite.description>
+	<ATPP_PaintAndroidFrameworkWhite.jobString>Androidframe in wit verven</ATPP_PaintAndroidFrameworkWhite.jobString>
+	<ATPP_PaintAndroidFrameworkGray.label>Verf androidframe in grijs</ATPP_PaintAndroidFrameworkGray.label>
+	<ATPP_PaintAndroidFrameworkGray.description>Verf androidframe in grijs</ATPP_PaintAndroidFrameworkGray.description>
+	<ATPP_PaintAndroidFrameworkGray.jobString>Androidframe in grijs verven</ATPP_PaintAndroidFrameworkGray.jobString>
+	<ATPP_PaintAndroidFrameworkPurple.label>Verf androidframe in paars</ATPP_PaintAndroidFrameworkPurple.label>
+	<ATPP_PaintAndroidFrameworkPurple.description>Verf androidframe in paars</ATPP_PaintAndroidFrameworkPurple.description>
+	<ATPP_PaintAndroidFrameworkPurple.jobString>Androidframe in paars verven</ATPP_PaintAndroidFrameworkPurple.jobString>
+	<ATPP_PaintAndroidFrameworkPink.label>Verf androidframe in roze</ATPP_PaintAndroidFrameworkPink.label>
+	<ATPP_PaintAndroidFrameworkPink.description>Verf androidframe in roze</ATPP_PaintAndroidFrameworkPink.description>
+	<ATPP_PaintAndroidFrameworkPink.jobString>Androidframe in roze verven</ATPP_PaintAndroidFrameworkPink.jobString>
+	<ATPP_PaintAndroidFrameworkCyan.label>Verf androidframe in cyaan</ATPP_PaintAndroidFrameworkCyan.label>
+	<ATPP_PaintAndroidFrameworkCyan.description>Verf androidframe in cyaan</ATPP_PaintAndroidFrameworkCyan.description>
+	<ATPP_PaintAndroidFrameworkCyan.jobString>Androidframe in cyaan verven</ATPP_PaintAndroidFrameworkCyan.jobString>
+	<ATPP_PaintAndroidFrameworkDefault.label>Verf androidframe in standaardkleur</ATPP_PaintAndroidFrameworkDefault.label>
+	<ATPP_PaintAndroidFrameworkDefault.description>Verf androidframe in standaardkleur</ATPP_PaintAndroidFrameworkDefault.description>
+	<ATPP_PaintAndroidFrameworkDefault.jobString>Androidframe in standaardkleur verven</ATPP_PaintAndroidFrameworkDefault.jobString>
+	<ATPP_ApplyHydraulicNaniteBank.label>Dien een hydraulische nanietenbank toe</ATPP_ApplyHydraulicNaniteBank.label>
+	<ATPP_ApplyHydraulicNaniteBank.description>Dien een eenmalige dosis nanieten toe die is afgestemd op het repareren van defecte hydraulische systemen van androids.</ATPP_ApplyHydraulicNaniteBank.description>
+	<ATPP_ApplyHydraulicNaniteBank.jobString>Ouderdomsproblemen van android verhelpen met nanietenserum</ATPP_ApplyHydraulicNaniteBank.jobString>
+	<ATPP_ApplyHealFrameworkSystem.label>Dien een frame-nanietenbank toe</ATPP_ApplyHealFrameworkSystem.label>
+	<ATPP_ApplyHealFrameworkSystem.description>Dien een eenmalige bank nanieten toe die is afgestemd op het repareren van het defecte exoskelet van androids.</ATPP_ApplyHealFrameworkSystem.description>
+	<ATPP_ApplyHealFrameworkSystem.jobString>Ouderdomsproblemen van android verhelpen met nanietenserum</ATPP_ApplyHealFrameworkSystem.jobString>
+	<ATPP_ApplyHealCoolingSystem.label>Dien een koelingsnanietenbank toe</ATPP_ApplyHealCoolingSystem.label>
+	<ATPP_ApplyHealCoolingSystem.description>Dien een eenmalige bank nanieten toe die is afgestemd op het repareren van het defecte koelsysteem van androids bij oververhitting.</ATPP_ApplyHealCoolingSystem.description>
+	<ATPP_ApplyHealCoolingSystem.jobString>Ouderdomsproblemen van android verhelpen met nanietenserum</ATPP_ApplyHealCoolingSystem.jobString>
+	<ATPP_ApplyHealCPUSerum.label>Dien een CPU-nanietenbank toe</ATPP_ApplyHealCPUSerum.label>
+	<ATPP_ApplyHealCPUSerum.description>Dien een eenmalige bank nanieten toe die is afgestemd op het repareren van het defecte kunstmatige brein van androids.</ATPP_ApplyHealCPUSerum.description>
+	<ATPP_ApplyHealCPUSerum.jobString>Ouderdomsproblemen van android verhelpen met nanietenserum</ATPP_ApplyHealCPUSerum.jobString>
+	<ATPP_Make_T1ArtificialBrain.label>Maak een kunstmatig brein T1</ATPP_Make_T1ArtificialBrain.label>
+	<ATPP_Make_T1ArtificialBrain.description>Maak een kunstmatig T1-brein om een surrogaat te transformeren in een android met een blanco neuraal netwerk.</ATPP_Make_T1ArtificialBrain.description>
+	<ATPP_Make_T1ArtificialBrain.jobString>Kunstmatig brein T1 maken.</ATPP_Make_T1ArtificialBrain.jobString>
+	<ATPP_Make_T2ArtificialBrain.label>Maak een kunstmatig brein T2</ATPP_Make_T2ArtificialBrain.label>
+	<ATPP_Make_T2ArtificialBrain.description>Maak een kunstmatig T2-brein om een surrogaat te transformeren in een android met een blanco neuraal netwerk.</ATPP_Make_T2ArtificialBrain.description>
+	<ATPP_Make_T2ArtificialBrain.jobString>Kunstmatig brein T2 maken.</ATPP_Make_T2ArtificialBrain.jobString>
+	<ATPP_Make_T3ArtificialBrain.label>Maak een kunstmatig brein T3</ATPP_Make_T3ArtificialBrain.label>
+	<ATPP_Make_T3ArtificialBrain.description>Maak een kunstmatig T3-brein om een surrogaat te transformeren in een android met een blanco neuraal netwerk.</ATPP_Make_T3ArtificialBrain.description>
+	<ATPP_Make_T3ArtificialBrain.jobString>Kunstmatig brein T3 maken.</ATPP_Make_T3ArtificialBrain.jobString>
+	<ATPP_Make_T4ArtificialBrain.label>Maak een kunstmatig brein T4</ATPP_Make_T4ArtificialBrain.label>
+	<ATPP_Make_T4ArtificialBrain.description>Maak een kunstmatig T4-brein om een surrogaat te transformeren in een android met een blanco neuraal netwerk.</ATPP_Make_T4ArtificialBrain.description>
+	<ATPP_Make_T4ArtificialBrain.jobString>Kunstmatig brein T4 maken.</ATPP_Make_T4ArtificialBrain.jobString>
+	<ATPP_InstallT1ArtificialBrain.label>Installeer een T1 kunstmatig brein</ATPP_InstallT1ArtificialBrain.label>
+	<ATPP_InstallT1ArtificialBrain.description>Installeer een T1 kunstmatig brein, waarmee een T1-surrogaat kan worden getransformeerd in een android met een blanco neuraal netwerk</ATPP_InstallT1ArtificialBrain.description>
+	<ATPP_InstallT1ArtificialBrain.jobString>T1 kunstmatig brein installeren.</ATPP_InstallT1ArtificialBrain.jobString>
+	<ATPP_InstallT2ArtificialBrain.label>Installeer een T2 kunstmatig brein</ATPP_InstallT2ArtificialBrain.label>
+	<ATPP_InstallT2ArtificialBrain.description>Installeer een T2 kunstmatig brein, waarmee een T2-surrogaat kan worden getransformeerd in een android met een blanco neuraal netwerk</ATPP_InstallT2ArtificialBrain.description>
+	<ATPP_InstallT2ArtificialBrain.jobString>T2 kunstmatig brein installeren.</ATPP_InstallT2ArtificialBrain.jobString>
+	<ATPP_InstallT3ArtificialBrain.label>Installeer een T3 kunstmatig brein</ATPP_InstallT3ArtificialBrain.label>
+	<ATPP_InstallT3ArtificialBrain.description>Installeer een T3 kunstmatig brein, waarmee een T3-surrogaat kan worden getransformeerd in een android met een blanco neuraal netwerk</ATPP_InstallT3ArtificialBrain.description>
+	<ATPP_InstallT3ArtificialBrain.jobString>T3 kunstmatig brein installeren.</ATPP_InstallT3ArtificialBrain.jobString>
+	<ATPP_InstallT4ArtificialBrain.label>Installeer een T4 kunstmatig brein</ATPP_InstallT4ArtificialBrain.label>
+	<ATPP_InstallT4ArtificialBrain.description>Installeer een T4 kunstmatig brein, waarmee een T4-surrogaat kan worden getransformeerd in een android met een blanco neuraal netwerk</ATPP_InstallT4ArtificialBrain.description>
+	<ATPP_InstallT4ArtificialBrain.jobString>T4 kunstmatig brein installeren.</ATPP_InstallT4ArtificialBrain.jobString>
+	<ATPP_CreateSX2.label>Maak mannelijke TX2 surrogaat-android (SX2)</ATPP_CreateSX2.label>
+	<ATPP_CreateSX2.description>Maak een blanco mannelijke SX2-android van plastaal en componenten.</ATPP_CreateSX2.description>
+	<ATPP_CreateSX2.jobString>SX2-android maken.</ATPP_CreateSX2.jobString>
+	<ATPP_CreateSX2Female.label>Maak vrouwelijke TX2 surrogaat-android (SX2)</ATPP_CreateSX2Female.label>
+	<ATPP_CreateSX2Female.description>Maak een blanco vrouwelijke SX2-android van plastaal en componenten.</ATPP_CreateSX2Female.description>
+	<ATPP_CreateSX2Female.jobString>SX2-android maken.</ATPP_CreateSX2Female.jobString>
+	<ATPP_CreateSX3.label>Maak mannelijke TX3 surrogaat-android (SX3)</ATPP_CreateSX3.label>
+	<ATPP_CreateSX3.description>Maak een blanco mannelijke SX3-android van plastaal en componenten.</ATPP_CreateSX3.description>
+	<ATPP_CreateSX3.jobString>SX3-android maken.</ATPP_CreateSX3.jobString>
+	<ATPP_CreateSX3Female.label>Maak vrouwelijke TX3 surrogaat-android (SX3)</ATPP_CreateSX3Female.label>
+	<ATPP_CreateSX3Female.description>Maak een blanco vrouwelijke SX3-android van plastaal en componenten.</ATPP_CreateSX3Female.description>
+	<ATPP_CreateSX3Female.jobString>SX3-android maken.</ATPP_CreateSX3Female.jobString>
+	<ATPP_CreateSX4.label>Maak TX4 surrogaat-android (SX4)</ATPP_CreateSX4.label>
+	<ATPP_CreateSX4.description>Maak een blanco SX4-android van plastaal en componenten.</ATPP_CreateSX4.description>
+	<ATPP_CreateSX4.jobString>SX4-android maken.</ATPP_CreateSX4.jobString>
+	<ATPP_CreateSX4Female.label>Maak vrouwelijke TX4 surrogaat-android (SX4)</ATPP_CreateSX4Female.label>
+	<ATPP_CreateSX4Female.description>Maak een blanco vrouwelijke SX4-android van plastaal en componenten.</ATPP_CreateSX4Female.description>
+	<ATPP_CreateSX4Female.jobString>SX4-android maken.</ATPP_CreateSX4Female.jobString>
+	<ATPP_CreateSX2I.label>Maak mannelijke TX2I surrogaat-android (SX2I)</ATPP_CreateSX2I.label>
+	<ATPP_CreateSX2I.description>Maak een blanco mannelijke SX2I-android van plastaal en componenten.</ATPP_CreateSX2I.description>
+	<ATPP_CreateSX2I.jobString>SX2I-android maken.</ATPP_CreateSX2I.jobString>
+	<ATPP_CreateSX2IFemale.label>Maak vrouwelijke TX2I surrogaat-android (SX2I)</ATPP_CreateSX2IFemale.label>
+	<ATPP_CreateSX2IFemale.description>Maak een blanco vrouwelijke SX2I-android van plastaal en componenten.</ATPP_CreateSX2IFemale.description>
+	<ATPP_CreateSX2IFemale.jobString>SX2I-android maken.</ATPP_CreateSX2IFemale.jobString>
+	<ATPP_CreateSX2K.label>Maak mannelijke TX2K surrogaat-android (SX2K)</ATPP_CreateSX2K.label>
+	<ATPP_CreateSX2K.description>Maak een blanco mannelijke SX2K-android van plastaal en componenten.</ATPP_CreateSX2K.description>
+	<ATPP_CreateSX2K.jobString>SX2K-android maken.</ATPP_CreateSX2K.jobString>
+	<ATPP_CreateSX2KFemale.label>Maak vrouwelijke TX2K surrogaat-android (SX2K)</ATPP_CreateSX2KFemale.label>
+	<ATPP_CreateSX2KFemale.description>Maak een blanco vrouwelijke SX2K-android van plastaal en componenten.</ATPP_CreateSX2KFemale.description>
+	<ATPP_CreateSX2KFemale.jobString>SX2K-android maken.</ATPP_CreateSX2KFemale.jobString>
+	<ATPP_CreateSX2KI.label>Maak TX2KI surrogaat-android (SX2KI)</ATPP_CreateSX2KI.label>
+	<ATPP_CreateSX2KI.description>Maak een blanco SX2KI-android van plastaal en componenten.</ATPP_CreateSX2KI.description>
+	<ATPP_CreateSX2KI.jobString>SX2KI-android maken.</ATPP_CreateSX2KI.jobString>
+	<ATPP_CreateSX2KIFemale.label>Maak vrouwelijke TX2KI surrogaat-android (SX2KI)</ATPP_CreateSX2KIFemale.label>
+	<ATPP_CreateSX2KIFemale.description>Maak een blanco vrouwelijke SX2KI-android van plastaal en componenten.</ATPP_CreateSX2KIFemale.description>
+	<ATPP_CreateSX2KIFemale.jobString>Vrouwelijke SX2KI-android maken.</ATPP_CreateSX2KIFemale.jobString>
+	<ATPP_CreateSX3I.label>Maak mannelijke TX3I surrogaat-android (SX3I)</ATPP_CreateSX3I.label>
+	<ATPP_CreateSX3I.description>Maak een blanco mannelijke SX3I-android van plastaal en componenten.</ATPP_CreateSX3I.description>
+	<ATPP_CreateSX3I.jobString>SX3I-android maken.</ATPP_CreateSX3I.jobString>
+	<ATPP_CreateSX3IFemale.label>Maak vrouwelijke TX3I surrogaat-android (SX3I)</ATPP_CreateSX3IFemale.label>
+	<ATPP_CreateSX3IFemale.description>Maak een blanco vrouwelijke SX3I-android van plastaal en componenten.</ATPP_CreateSX3IFemale.description>
+	<ATPP_CreateSX3IFemale.jobString>SX3I-android maken.</ATPP_CreateSX3IFemale.jobString>
+	<ATPP_CreateSX4I.label>Maak TX4I surrogaat-android (SX4I)</ATPP_CreateSX4I.label>
+	<ATPP_CreateSX4I.description>Maak een blanco SX4I-android van plastaal en componenten.</ATPP_CreateSX4I.description>
+	<ATPP_CreateSX4I.jobString>SX4I-android maken.</ATPP_CreateSX4I.jobString>
+	<ATPP_CreateSX4IFemale.label>Maak vrouwelijke TX4I surrogaat-android (SX4I)</ATPP_CreateSX4IFemale.label>
+	<ATPP_CreateSX4IFemale.description>Maak een blanco vrouwelijke SX4I-android van plastaal en componenten.</ATPP_CreateSX4IFemale.description>
+	<ATPP_CreateSX4IFemale.jobString>SX4I-android maken.</ATPP_CreateSX4IFemale.jobString>
+	<ATPP_CreateTX4Android.label>Maak mannelijke TX4-android</ATPP_CreateTX4Android.label>
+	<ATPP_CreateTX4Android.description>Maak een mannelijke TX4-android</ATPP_CreateTX4Android.description>
+	<ATPP_CreateTX4Android.jobString>Een TX4-android maken</ATPP_CreateTX4Android.jobString>
+	<ATPP_CreateTX4FemaleAndroid.label>Maak vrouwelijke TX4-android</ATPP_CreateTX4FemaleAndroid.label>
+	<ATPP_CreateTX4FemaleAndroid.description>Maak een vrouwelijke TX4-android</ATPP_CreateTX4FemaleAndroid.description>
+	<ATPP_CreateTX4FemaleAndroid.jobString>Een TX4-android maken</ATPP_CreateTX4FemaleAndroid.jobString>
+	<ATPP_CreateTX3Android.label>Maak mannelijke TX3-android</ATPP_CreateTX3Android.label>
+	<ATPP_CreateTX3Android.description>Maak een mannelijke TX3-android</ATPP_CreateTX3Android.description>
+	<ATPP_CreateTX3Android.jobString>Een TX3-android maken</ATPP_CreateTX3Android.jobString>
+	<ATPP_CreateTX3FemaleAndroid.label>Maak vrouwelijke TX3-android</ATPP_CreateTX3FemaleAndroid.label>
+	<ATPP_CreateTX3FemaleAndroid.description>Maak een vrouwelijke TX3-android</ATPP_CreateTX3FemaleAndroid.description>
+	<ATPP_CreateTX3FemaleAndroid.jobString>Een TX3-android maken</ATPP_CreateTX3FemaleAndroid.jobString>
+	<ATPP_CreateTX2Android.label>Maak mannelijke TX2-android</ATPP_CreateTX2Android.label>
+	<ATPP_CreateTX2Android.description>Maak een mannelijke TX2-android</ATPP_CreateTX2Android.description>
+	<ATPP_CreateTX2Android.jobString>Een TX2-android maken</ATPP_CreateTX2Android.jobString>
+	<ATPP_CreateTX2FemaleAndroid.label>Maak vrouwelijke TX2-android</ATPP_CreateTX2FemaleAndroid.label>
+	<ATPP_CreateTX2FemaleAndroid.description>Maak een vrouwelijke TX2-android</ATPP_CreateTX2FemaleAndroid.description>
+	<ATPP_CreateTX2FemaleAndroid.jobString>Een TX2-android maken</ATPP_CreateTX2FemaleAndroid.jobString>
+	<ATPP_CreateTX4IAndroid.label>Maak mannelijke TX4I-android</ATPP_CreateTX4IAndroid.label>
+	<ATPP_CreateTX4IAndroid.description>Maak een mannelijke TX4I-android</ATPP_CreateTX4IAndroid.description>
+	<ATPP_CreateTX4IAndroid.jobString>Een TX4I-android maken</ATPP_CreateTX4IAndroid.jobString>
+	<ATPP_CreateTX4IFemaleAndroid.label>Maak vrouwelijke TX4I-android</ATPP_CreateTX4IFemaleAndroid.label>
+	<ATPP_CreateTX4IFemaleAndroid.description>Maak een vrouwelijke TX4I-android</ATPP_CreateTX4IFemaleAndroid.description>
+	<ATPP_CreateTX4IFemaleAndroid.jobString>Een TX4I-android maken</ATPP_CreateTX4IFemaleAndroid.jobString>
+	<ATPP_CreateTX3IAndroid.label>Maak mannelijke TX3I-android</ATPP_CreateTX3IAndroid.label>
+	<ATPP_CreateTX3IAndroid.description>Maak een mannelijke TX3I-android</ATPP_CreateTX3IAndroid.description>
+	<ATPP_CreateTX3IAndroid.jobString>Een TX3I-android maken</ATPP_CreateTX3IAndroid.jobString>
+	<ATPP_CreateTX3IFemaleAndroid.label>Maak vrouwelijke TX3I-android</ATPP_CreateTX3IFemaleAndroid.label>
+	<ATPP_CreateTX3IFemaleAndroid.description>Maak een vrouwelijke TX3I-android</ATPP_CreateTX3IFemaleAndroid.description>
+	<ATPP_CreateTX3IFemaleAndroid.jobString>Een TX3I-android maken</ATPP_CreateTX3IFemaleAndroid.jobString>
+	<ATPP_CreateTX2IAndroid.label>Maak mannelijke TX2I-android</ATPP_CreateTX2IAndroid.label>
+	<ATPP_CreateTX2IAndroid.description>Maak een mannelijke TX2I-android</ATPP_CreateTX2IAndroid.description>
+	<ATPP_CreateTX2IAndroid.jobString>Een TX2I-android maken</ATPP_CreateTX2IAndroid.jobString>
+	<ATPP_CreateTX2IFemaleAndroid.label>Maak vrouwelijke TX2I-android</ATPP_CreateTX2IFemaleAndroid.label>
+	<ATPP_CreateTX2IFemaleAndroid.description>Maak een vrouwelijke TX2I-android</ATPP_CreateTX2IFemaleAndroid.description>
+	<ATPP_CreateTX2IFemaleAndroid.jobString>Een TX2I-android maken</ATPP_CreateTX2IFemaleAndroid.jobString>
+	<ATPP_CreateTX2KAndroid.label>Maak mannelijke TX2K-android</ATPP_CreateTX2KAndroid.label>
+	<ATPP_CreateTX2KAndroid.description>Maak een mannelijke TX2K-android</ATPP_CreateTX2KAndroid.description>
+	<ATPP_CreateTX2KAndroid.jobString>Een TX2K-android maken</ATPP_CreateTX2KAndroid.jobString>
+	<ATPP_CreateTX2KFemaleAndroid.label>Maak vrouwelijke TX2K-android</ATPP_CreateTX2KFemaleAndroid.label>
+	<ATPP_CreateTX2KFemaleAndroid.description>Maak een vrouwelijke TX2K-android</ATPP_CreateTX2KFemaleAndroid.description>
+	<ATPP_CreateTX2KFemaleAndroid.jobString>Een TX2K-android maken</ATPP_CreateTX2KFemaleAndroid.jobString>
+	<ATPP_CreateTX2KIAndroid.label>Maak TX2KI-android</ATPP_CreateTX2KIAndroid.label>
+	<ATPP_CreateTX2KIAndroid.description>Maak een TX2KI-android</ATPP_CreateTX2KIAndroid.description>
+	<ATPP_CreateTX2KIAndroid.jobString>Een TX2KI-android maken</ATPP_CreateTX2KIAndroid.jobString>
+	<ATPP_CreateTX2KIFemaleAndroid.label>Maak vrouwelijke TX2KI-android</ATPP_CreateTX2KIFemaleAndroid.label>
+	<ATPP_CreateTX2KIFemaleAndroid.description>Maak een vrouwelijke TX2KI-android</ATPP_CreateTX2KIFemaleAndroid.description>
+	<ATPP_CreateTX2KIFemaleAndroid.jobString>Een TX2KI-android maken</ATPP_CreateTX2KIFemaleAndroid.jobString>
+	<ATPP_MakeSyntheticSkinGland.label>synthetische huidklier synthetiseren</ATPP_MakeSyntheticSkinGland.label>
+	<ATPP_MakeSyntheticSkinGland.description>Synthetiseer een kunstmatige huidklier met koolwaterstof-chemfuel, een conserverende neutroamine-oplossing, medicijnen en geweven textielsteigers.</ATPP_MakeSyntheticSkinGland.description>
+	<ATPP_MakeSyntheticSkinGland.jobString>Huidklier synthetiseren.</ATPP_MakeSyntheticSkinGland.jobString>
+	<ATPP_GestateSyntheticSkinGland_Biotech.label>synthetische huidklier laten volgroeien</ATPP_GestateSyntheticSkinGland_Biotech.label>
+	<ATPP_GestateSyntheticSkinGland_Biotech.description>Laat met Biotech-hemogene oplossing, cellulaire voedingsstoffen en medische stabilisatoren een levende synthetische huidkliermatrix volgroeien in een Android-productievat voor TX-serie infiltranten.</ATPP_GestateSyntheticSkinGland_Biotech.description>
+	<ATPP_GestateSyntheticSkinGland_Biotech.jobString>Synthetische huidklier laten volgroeien.</ATPP_GestateSyntheticSkinGland_Biotech.jobString>
+	<ATPP_QE_GrowSyntheticSkinGland.label>synthetische huidklier kweken</ATPP_QE_GrowSyntheticSkinGland.label>
+	<ATPP_QE_GrowSyntheticSkinGland.description>Kweek een levende biosynthetische huidkliermatrix in het Questionable Ethics-orgaanvat met organische voedingsstoffen en chemische stabilisatoren.</ATPP_QE_GrowSyntheticSkinGland.description>
+	<ATPP_QE_GrowSyntheticSkinGland.jobString>Synthetische huidklier kweken.</ATPP_QE_GrowSyntheticSkinGland.jobString>
+	<ATPP_ApplySyntheticSkin.label>synthetische huid transplanteren</ATPP_ApplySyntheticSkin.label>
+	<ATPP_ApplySyntheticSkin.description>Transplanteert een synthetische huidmatrix op dit TX-infanteriechassis en bedekt het blootliggende mechanische endoskelet met mensachtige synthetische levende huid. Dit verhoogt sociale acceptatie en thermische isolatie en voorkomt roesten door regen, ten koste van een hogere brandbaarheid.</ATPP_ApplySyntheticSkin.description>
+	<ATPP_ApplySyntheticSkin.jobString>Synthetische huid transplanteren op android.</ATPP_ApplySyntheticSkin.jobString>
+	<ATPP_RemoveSyntheticSkin.label>synthetische huid strippen</ATPP_RemoveSyntheticSkin.label>
+	<ATPP_RemoveSyntheticSkin.description>Verwijdert chirurgisch de synthetische huidlaag van deze TX-infiltrant, waardoor het versterkte infanterie-endoskelet eronder bloot komt te liggen. De android verliest sociale charme maar krijgt vuurimmuniteit en duurzaamheid op het slagveld.</ATPP_RemoveSyntheticSkin.description>
+	<ATPP_RemoveSyntheticSkin.jobString>Synthetische huid strippen van android.</ATPP_RemoveSyntheticSkin.jobString>
+	<ATPP_QE_CreateTX2KMale.label>mannelijk TX2K-frame assembleren (QEE-vat)</ATPP_QE_CreateTX2KMale.label>
+	<ATPP_QE_CreateTX2KMale.description>Assembleer een inactief mannelijk TX2K-exoskeletframe gecodeerd als een genoomsequentie voor incubatie in een orgaanvat.</ATPP_QE_CreateTX2KMale.description>
+	<ATPP_QE_CreateTX2KMale.jobString>Android maken</ATPP_QE_CreateTX2KMale.jobString>
+	<ATPP_QE_CreateTX2KFemale.label>vrouwelijk TX2K-frame assembleren (QEE-vat)</ATPP_QE_CreateTX2KFemale.label>
+	<ATPP_QE_CreateTX2KFemale.description>Assembleer een inactief vrouwelijk TX2K-exoskeletframe gecodeerd als een genoomsequentie voor incubatie in een orgaanvat.</ATPP_QE_CreateTX2KFemale.description>
+	<ATPP_QE_CreateTX2KFemale.jobString>Android maken</ATPP_QE_CreateTX2KFemale.jobString>
+	<ATPP_QE_CreateSX2KMaleSurrogate.label>mannelijk SX2K surrogaatframe assembleren (QEE-vat)</ATPP_QE_CreateSX2KMaleSurrogate.label>
+	<ATPP_QE_CreateSX2KMaleSurrogate.description>Assembleer een inactief mannelijk TX2K surrogaat-exoskeletframe gecodeerd als een genoomsequentie voor incubatie in een orgaanvat.</ATPP_QE_CreateSX2KMaleSurrogate.description>
+	<ATPP_QE_CreateSX2KMaleSurrogate.jobString>Android maken</ATPP_QE_CreateSX2KMaleSurrogate.jobString>
+	<ATPP_QE_CreateSX2KFemaleSurrogate.label>vrouwelijk SX2K surrogaatframe assembleren (QEE-vat)</ATPP_QE_CreateSX2KFemaleSurrogate.label>
+	<ATPP_QE_CreateSX2KFemaleSurrogate.description>Assembleer een inactief vrouwelijk TX2K surrogaat-exoskeletframe gecodeerd als een genoomsequentie voor incubatie in een orgaanvat.</ATPP_QE_CreateSX2KFemaleSurrogate.description>
+	<ATPP_QE_CreateSX2KFemaleSurrogate.jobString>Android maken</ATPP_QE_CreateSX2KFemaleSurrogate.jobString>
+	<ATPP_QE_CreateTX3Male.label>mannelijk TX3-frame assembleren (QEE-vat)</ATPP_QE_CreateTX3Male.label>
+	<ATPP_QE_CreateTX3Male.description>Assembleer een inactief mannelijk TX3-exoskeletframe gecodeerd als een genoomsequentie voor incubatie in een orgaanvat.</ATPP_QE_CreateTX3Male.description>
+	<ATPP_QE_CreateTX3Male.jobString>Android maken</ATPP_QE_CreateTX3Male.jobString>
+	<ATPP_QE_CreateTX3Female.label>vrouwelijk TX3-frame assembleren (QEE-vat)</ATPP_QE_CreateTX3Female.label>
+	<ATPP_QE_CreateTX3Female.description>Assembleer een inactief vrouwelijk TX3-exoskeletframe gecodeerd als een genoomsequentie voor incubatie in een orgaanvat.</ATPP_QE_CreateTX3Female.description>
+	<ATPP_QE_CreateTX3Female.jobString>Android maken</ATPP_QE_CreateTX3Female.jobString>
+	<ATPP_QE_CreateSX3MaleSurrogate.label>mannelijk SX3 surrogaatframe assembleren (QEE-vat)</ATPP_QE_CreateSX3MaleSurrogate.label>
+	<ATPP_QE_CreateSX3MaleSurrogate.description>Assembleer een inactief mannelijk TX3 surrogaat-exoskeletframe gecodeerd als een genoomsequentie voor incubatie in een orgaanvat.</ATPP_QE_CreateSX3MaleSurrogate.description>
+	<ATPP_QE_CreateSX3MaleSurrogate.jobString>Android maken</ATPP_QE_CreateSX3MaleSurrogate.jobString>
+	<ATPP_QE_CreateSX3FemaleSurrogate.label>vrouwelijk SX3 surrogaatframe assembleren (QEE-vat)</ATPP_QE_CreateSX3FemaleSurrogate.label>
+	<ATPP_QE_CreateSX3FemaleSurrogate.description>Assembleer een inactief vrouwelijk TX3 surrogaat-exoskeletframe gecodeerd als een genoomsequentie voor incubatie in een orgaanvat.</ATPP_QE_CreateSX3FemaleSurrogate.description>
+	<ATPP_QE_CreateSX3FemaleSurrogate.jobString>Android maken</ATPP_QE_CreateSX3FemaleSurrogate.jobString>
+	<ATPP_QE_CreateTX4Male.label>mannelijk TX4-frame assembleren (QEE-vat)</ATPP_QE_CreateTX4Male.label>
+	<ATPP_QE_CreateTX4Male.description>Assembleer een inactief mannelijk TX4-exoskeletframe gecodeerd als een genoomsequentie voor incubatie in een orgaanvat.</ATPP_QE_CreateTX4Male.description>
+	<ATPP_QE_CreateTX4Male.jobString>Android maken</ATPP_QE_CreateTX4Male.jobString>
+	<ATPP_QE_CreateTX4Female.label>vrouwelijk TX4-frame assembleren (QEE-vat)</ATPP_QE_CreateTX4Female.label>
+	<ATPP_QE_CreateTX4Female.description>Assembleer een inactief vrouwelijk TX4-exoskeletframe gecodeerd als een genoomsequentie voor incubatie in een orgaanvat.</ATPP_QE_CreateTX4Female.description>
+	<ATPP_QE_CreateTX4Female.jobString>Android maken</ATPP_QE_CreateTX4Female.jobString>
+	<ATPP_QE_CreateSX4MaleSurrogate.label>mannelijk SX4 surrogaatframe assembleren (QEE-vat)</ATPP_QE_CreateSX4MaleSurrogate.label>
+	<ATPP_QE_CreateSX4MaleSurrogate.description>Assembleer een inactief mannelijk TX4 surrogaat-exoskeletframe gecodeerd als een genoomsequentie voor incubatie in een orgaanvat.</ATPP_QE_CreateSX4MaleSurrogate.description>
+	<ATPP_QE_CreateSX4MaleSurrogate.jobString>Android maken</ATPP_QE_CreateSX4MaleSurrogate.jobString>
+	<ATPP_QE_CreateSX4FemaleSurrogate.label>vrouwelijk SX4 surrogaatframe assembleren (QEE-vat)</ATPP_QE_CreateSX4FemaleSurrogate.label>
+	<ATPP_QE_CreateSX4FemaleSurrogate.description>Assembleer een inactief vrouwelijk TX4 surrogaat-exoskeletframe gecodeerd als een genoomsequentie voor incubatie in een orgaanvat.</ATPP_QE_CreateSX4FemaleSurrogate.description>
+	<ATPP_QE_CreateSX4FemaleSurrogate.jobString>Android maken</ATPP_QE_CreateSX4FemaleSurrogate.jobString>
+</LanguageData>

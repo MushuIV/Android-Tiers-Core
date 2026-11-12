@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_T4BlankGeneratorAI.label>Prázdný android T4</ATPP_T4BlankGeneratorAI.label>
+  <ATPP_T4BlankGeneratorAI.description>Vytvoří androida s prázdnou neuronovou sítí.</ATPP_T4BlankGeneratorAI.description>
+  <ATPP_T3BlankGeneratorAI.label>Prázdný android T3</ATPP_T3BlankGeneratorAI.label>
+  <ATPP_T3BlankGeneratorAI.description>Vytvoří androida s prázdnou neuronovou sítí.</ATPP_T3BlankGeneratorAI.description>
+  <ATPP_Android2KTX.label>Android TX2K</ATPP_Android2KTX.label>
+  <ATPP_Android2KTX.description>Prototyp androida navržený výhradně pro bojové nasazení jako těžká pěchota. Je velmi odolný a způsobuje vážné škody v boji na blízko, kvůli svému pancéřování je však poměrně pomalý a nedokáže vykonávat pokročilé úkoly, protože jeho omezený procesor je optimalizován především pro boj.</ATPP_Android2KTX.description>
+  <ATPP_Android2KITX.label>Android TX2KI</ATPP_Android2KITX.label>
+  <ATPP_Android2KITX.description>Prototyp androida (bez kůže) navržený výhradně pro bojové nasazení jako těžká pěchota. Je velmi odolný a způsobuje vážné škody v boji na blízko, kvůli svému pancéřování je však poměrně pomalý a nedokáže vykonávat pokročilé úkoly, protože jeho omezený procesor je optimalizován především pro boj.</ATPP_Android2KITX.description>
+  <ATPP_Android2ITX.label>Android TX2I</ATPP_Android2ITX.label>
+  <ATPP_Android2ITX.description>Série TX2 upravená pro pěchotní nasazení na bojištích namísto T2, především díky strachu, který v organických nepřátelích vyvolává jejich charakteristický vzhled.</ATPP_Android2ITX.description>
+  <ATPP_Android3ITX.label>Android TX3I</ATPP_Android3ITX.label>
+  <ATPP_Android3ITX.description>Série TX3 upravená pro pěchotní nasazení na bojištích namísto T3, především díky strachu, který v organických nepřátelích vyvolává jejich charakteristický vzhled.</ATPP_Android3ITX.description>
+  <ATPP_Android4ITX.label>Android TX4I</ATPP_Android4ITX.label>
+  <ATPP_Android4ITX.description>Série TX4 upravená pro pěchotní nasazení na bojištích namísto T4, především díky strachu, který v organických nepřátelích vyvolává jejich charakteristický vzhled.</ATPP_Android4ITX.description>
+  <ATPP_Android4TX.label>Android TX4</ATPP_Android4TX.label>
+  <ATPP_Android4TX.description>Speciální série T4 navržená pro infiltrační mise. Jeho mírně upravený endoskelet T4 je pokryt živými tkáněmi, které ho chrání před rezivěním, zlepšují jeho sociální působení a poskytují odolnost vůči EMP a slunečním erupcím, je však hořlavější.</ATPP_Android4TX.description>
+  <ATPP_Android3TX.label>Android TX3</ATPP_Android3TX.label>
+  <ATPP_Android3TX.description>Speciální série T3 navržená pro infiltrační mise. Jeho mírně upravený endoskelet T3 je pokryt živými tkáněmi, které ho chránia před rezivěním, zlepšují jeho sociální působení a poskytují odolnost vůči EMP a slunečním erupcím, je však hořlavější.</ATPP_Android3TX.description>
+  <ATPP_Android2TX.label>Android TX2</ATPP_Android2TX.label>
+  <ATPP_Android2TX.description>Speciální série T2 navržená pro infiltrační mise. Jeho mírně upravený endoskelet T2 je pokryt syntetickou pryžovou kůží, která ho chrání před rezivěním, zlepšuje jeho sociální působení a poskytuje odolnost vůči EMP a slunečním erupcím, je však hořlavější.</ATPP_Android2TX.description>
+  <ATPP_Android2TX.tools.right_fist.label>pravá pěst</ATPP_Android2TX.tools.right_fist.label>
+  <ATPP_Android2TX.tools.left_fist.label>levá pěst</ATPP_Android2TX.tools.left_fist.label>
+  <ATPP_Android2ITX.tools.right_fist.label>pravá pěst</ATPP_Android2ITX.tools.right_fist.label>
+  <ATPP_Android2ITX.tools.left_fist.label>levá pěst</ATPP_Android2ITX.tools.left_fist.label>
+  <ATPP_Android2KITX.tools.right_fist.label>pravá pěst</ATPP_Android2KITX.tools.right_fist.label>
+  <ATPP_Android2KITX.tools.left_fist.label>levá pěst</ATPP_Android2KITX.tools.left_fist.label>
+  <ATPP_Android2KTX.tools.right_fist.label>pravá pěst</ATPP_Android2KTX.tools.right_fist.label>
+  <ATPP_Android2KTX.tools.left_fist.label>levá pěst</ATPP_Android2KTX.tools.left_fist.label>
+  <ATPP_Android3TX.tools.right_fist.label>pravá pěst</ATPP_Android3TX.tools.right_fist.label>
+  <ATPP_Android3TX.tools.left_fist.label>levá pěst</ATPP_Android3TX.tools.left_fist.label>
+  <ATPP_Android3ITX.tools.right_fist.label>pravá pěst</ATPP_Android3ITX.tools.right_fist.label>
+  <ATPP_Android3ITX.tools.left_fist.label>levá pěst</ATPP_Android3ITX.tools.left_fist.label>
+  <ATPP_Android4TX.tools.right_fist.label>pravá pěst</ATPP_Android4TX.tools.right_fist.label>
+  <ATPP_Android4TX.tools.left_fist.label>levá pěst</ATPP_Android4TX.tools.left_fist.label>
+  <ATPP_Android4ITX.tools.right_fist.label>pravá pěst</ATPP_Android4ITX.tools.right_fist.label>
+  <ATPP_Android4ITX.tools.left_fist.label>levá pěst</ATPP_Android4ITX.tools.left_fist.label>
+  <ATPP_TX4AndroidGeneratorAI.label>mužský android TX4</ATPP_TX4AndroidGeneratorAI.label>
+  <ATPP_TX4AndroidGeneratorAI.description>Vytvoří TX4, speciální sérii T4 navrženou pro infiltrační mise. Jeho mírně upravený endoskelet T4 je pokryt živými tkáněmi, které ho chrání před rezivěním, zlepšují jeho sociální působení a poskytují odolnost vůči EMP a slunečním erupcím, je však hořlavější.</ATPP_TX4AndroidGeneratorAI.description>
+  <ATPP_TX4FemaleAndroidGeneratorAI.label>ženský android TX4</ATPP_TX4FemaleAndroidGeneratorAI.label>
+  <ATPP_TX4FemaleAndroidGeneratorAI.description>Vytvoří TX4, speciální sérii T4 navrženou pro infiltrační mise. Jeho mírně upravený endoskelet T4 je pokryt živými tkáněmi, které ho chrání před rezivěním, zlepšují jeho sociální působení a poskytují odolnost vůči EMP a slunečním erupcím, je však hořlavější.</ATPP_TX4FemaleAndroidGeneratorAI.description>
+  <ATPP_TX3AndroidGeneratorAI.label>mužský android TX3</ATPP_TX3AndroidGeneratorAI.label>
+  <ATPP_TX3AndroidGeneratorAI.description>Vytvoří TX3, speciální sérii T3 navrženou pro infiltrační mise. Jeho mírně upravený endoskelet T3 je pokryt živými tkáněmi, které ho chrání před rezivěním, zlepšují jeho sociální působení a poskytují odolnost vůči EMP a slunečním erupcím, je však hořlavější.</ATPP_TX3AndroidGeneratorAI.description>
+  <ATPP_TX3FemaleAndroidGeneratorAI.label>ženský android TX3</ATPP_TX3FemaleAndroidGeneratorAI.label>
+  <ATPP_TX3FemaleAndroidGeneratorAI.description>Vytvoří TX3, speciální sérii T3 navrženou pro infiltrační mise. Jeho mírně upravený endoskelet T3 je pokryt živými tkáněmi, které ho chrání před rezivěním, zlepšují jeho sociální působení a poskytují odolnost vůči EMP a slunečním erupcím, je však hořlavější.</ATPP_TX3FemaleAndroidGeneratorAI.description>
+  <ATPP_TX2AndroidGeneratorAI.label>mužský android TX2</ATPP_TX2AndroidGeneratorAI.label>
+  <ATPP_TX2AndroidGeneratorAI.description>Vytvoří TX2, speciální sérii T2 navrženou pro infiltrační mise. Jeho mírně upravený endoskelet T2 je pokryt syntetickou pryžovou kůží, která ho chrání před rezivěním, zlepšuje jeho sociální působení a poskytuje odolnost vůči EMP a slunečním erupcím, je však hořlavější.</ATPP_TX2AndroidGeneratorAI.description>
+  <ATPP_TX2FemaleAndroidGeneratorAI.label>ženský android TX2</ATPP_TX2FemaleAndroidGeneratorAI.label>
+  <ATPP_TX2FemaleAndroidGeneratorAI.description>Vytvoří TX2, speciální sérii T2 navrženou pro infiltrační mise. Jeho mírně upravený endoskelet T2 je pokryt syntetickou pryžovou kůží, která ho chrání před rezivěním, zlepšuje jeho sociální působení a poskytuje odolnost vůči EMP a slunečním erupcím, je však hořlavější.</ATPP_TX2FemaleAndroidGeneratorAI.description>
+  <ATPP_TX2KAndroidGeneratorAI.label>mužský android TX2K</ATPP_TX2KAndroidGeneratorAI.label>
+  <ATPP_TX2KAndroidGeneratorAI.description>Vytvoří TX2K, prototyp androida navržený výhradně pro bojové nasazení jako těžká pěchota. Je velmi odolný a způsobuje vážné škody v boji na blízko, kvůli svému pancéřování je však poměrně pomalý a nedokáže vykonávat pokročilé úkoly, protože jeho omezený procesor je optimalizován především pro boj.</ATPP_TX2KAndroidGeneratorAI.description>
+  <ATPP_TX2KFemaleAndroidGeneratorAI.label>ženský android TX2K</ATPP_TX2KFemaleAndroidGeneratorAI.label>
+  <ATPP_TX2KFemaleAndroidGeneratorAI.description>Vytvoří TX2K, prototyp androida navržený výhradně pro bojové nasazení jako těžká pěchota. Je velmi odolný a způsobuje vážné škody v boji na blízko, kvůli svému pancéřování je však poměrně pomalý a nedokáže vykonávat pokročilé úkoly, protože jeho omezený procesor je optimalizován především pro boj.</ATPP_TX2KFemaleAndroidGeneratorAI.description>
+  <ATPP_TX2KIAndroidGeneratorAI.label>mužský android TX2KI</ATPP_TX2KIAndroidGeneratorAI.label>
+  <ATPP_TX2KIAndroidGeneratorAI.description>Vytvoří TX2KI, prototyp androida navržený výhradně pro bojové nasazení jako těžká pěchota. Je velmi odolný a způsobuje vážné škody v boji na blízko, kvůli svému pancéřování je však poměrně pomalý a nedokáže vykonávat pokročilé úkoly, protože jeho omezený procesor je optimalizován především pro boj.</ATPP_TX2KIAndroidGeneratorAI.description>
+  <ATPP_TX2KIFemaleAndroidGeneratorAI.label>ženský android TX2KI</ATPP_TX2KIFemaleAndroidGeneratorAI.label>
+  <ATPP_TX2KIFemaleAndroidGeneratorAI.description>Vytvoří TX2KI, prototyp androida navržený výhradně pro bojové nasazení jako těžká pěchota. Je velmi odolný a způsobuje vážné škody v boji na blízko, kvůli svému pancéřování je však poměrně pomalý a nedokáže vykonávat pokročilé úkoly, protože jeho omezený procesor je optimalizován především pro boj.</ATPP_TX2KIFemaleAndroidGeneratorAI.description>
+  <ATPP_TX2IAndroidGeneratorAI.label>mužský android TX2I</ATPP_TX2IAndroidGeneratorAI.label>
+  <ATPP_TX2IAndroidGeneratorAI.description>Vytvoří TX2I, sérii TX2 upravenou pro pěchotní nasazení na bojištích namísto T2, především díky strachu, který v nepřátelích vyvolává jejich charakteristický vzhled.</ATPP_TX2IAndroidGeneratorAI.description>
+  <ATPP_TX2IFemaleAndroidGeneratorAI.label>ženský android TX2I</ATPP_TX2IFemaleAndroidGeneratorAI.label>
+  <ATPP_TX2IFemaleAndroidGeneratorAI.description>Vytvoří TX2I, sérii TX2 upravenou pro pěchotní nasazení na bojištích namísto T2, především díky strachu, který v nepřátelích vyvolává jejich charakteristický vzhled.</ATPP_TX2IFemaleAndroidGeneratorAI.description>
+  <ATPP_TX3IAndroidGeneratorAI.label>mužský android TX3I</ATPP_TX3IAndroidGeneratorAI.label>
+  <ATPP_TX3IAndroidGeneratorAI.description>Vytvoří TX3I, sérii TX3 upravenou pro pěchotní nasazení na bojištích namísto T3, především díky strachu, který v nepřátelích vyvolává jejich charakteristický vzhled.</ATPP_TX3IAndroidGeneratorAI.description>
+  <ATPP_TX3IFemaleAndroidGeneratorAI.label>ženský android TX3I</ATPP_TX3IFemaleAndroidGeneratorAI.label>
+  <ATPP_TX3IFemaleAndroidGeneratorAI.description>Vytvoří TX3I, sérii TX3 upravenou pro pěchotní nasazení na bojištích namísto T3, především díky strachu, který v nepřátelích vyvolává jejich charakteristický vzhled.</ATPP_TX3IFemaleAndroidGeneratorAI.description>
+  <ATPP_TX4IAndroidGeneratorAI.label>mužský android TX4I</ATPP_TX4IAndroidGeneratorAI.label>
+  <ATPP_TX4IAndroidGeneratorAI.description>Vytvoří TX4I, sérii TX4 upravenou pro pěchotní nasazení na bojištích namísto T4, především díky strachu, který v nepřátelích vyvolává jejich charakteristický vzhled.</ATPP_TX4IAndroidGeneratorAI.description>
+  <ATPP_TX4IFemaleAndroidGeneratorAI.label>ženský android TX4I</ATPP_TX4IFemaleAndroidGeneratorAI.label>
+  <ATPP_TX4IFemaleAndroidGeneratorAI.description>Vytvoří TX4I, sérii TX4 upravenou pro pěchotní nasazení na bojištích namísto T4, především díky strachu, který v nepřátelích vyvolává jejich charakteristický vzhled.</ATPP_TX4IFemaleAndroidGeneratorAI.description>
+  <ATPP_GSGeneratorTX2KMale.label>Neaktivovaný TX2K (muž)</ATPP_GSGeneratorTX2KMale.label>
+  <ATPP_GSGeneratorTX2KMale.description>Vytvoří surogátního androida.</ATPP_GSGeneratorTX2KMale.description>
+  <ATPP_GSGeneratorTX2KFemale.label>Neaktivovaný TX2K (žena)</ATPP_GSGeneratorTX2KFemale.label>
+  <ATPP_GSGeneratorTX2KFemale.description>Vytvoří surogátního androida.</ATPP_GSGeneratorTX2KFemale.description>
+  <ATPP_GSGeneratorTX2KMaleSurrogate.label>Neaktivovaný TX2K (muž)</ATPP_GSGeneratorTX2KMaleSurrogate.label>
+  <ATPP_GSGeneratorTX2KMaleSurrogate.description>Vytvoří surogátního androida.</ATPP_GSGeneratorTX2KMaleSurrogate.description>
+  <ATPP_GSGeneratorTX2KFemaleSurrogate.label>Neaktivovaný TX2K (žena)</ATPP_GSGeneratorTX2KFemaleSurrogate.label>
+  <ATPP_GSGeneratorTX2KFemaleSurrogate.description>Vytvoří surogátního androida.</ATPP_GSGeneratorTX2KFemaleSurrogate.description>
+  <ATPP_GSGeneratorTX3Male.label>Neaktivovaný TX3 (muž)</ATPP_GSGeneratorTX3Male.label>
+  <ATPP_GSGeneratorTX3Male.description>Vytvoří surogátního androida.</ATPP_GSGeneratorTX3Male.description>
+  <ATPP_GSGeneratorTX3Female.label>Neaktivovaný TX3 (žena)</ATPP_GSGeneratorTX3Female.label>
+  <ATPP_GSGeneratorTX3Female.description>Vytvoří surogátního androida.</ATPP_GSGeneratorTX3Female.description>
+  <ATPP_GSGeneratorTX3MaleSurrogate.label>Neaktivovaný TX3 (muž)</ATPP_GSGeneratorTX3MaleSurrogate.label>
+  <ATPP_GSGeneratorTX3MaleSurrogate.description>Vytvoří surogátního androida.</ATPP_GSGeneratorTX3MaleSurrogate.description>
+  <ATPP_GSGeneratorTX3FemaleSurrogate.label>Neaktivovaný TX3 (žena)</ATPP_GSGeneratorTX3FemaleSurrogate.label>
+  <ATPP_GSGeneratorTX3FemaleSurrogate.description>Vytvoří surogátního androida.</ATPP_GSGeneratorTX3FemaleSurrogate.description>
+  <ATPP_GSGeneratorTX4Male.label>Neaktivovaný TX4 (muž)</ATPP_GSGeneratorTX4Male.label>
+  <ATPP_GSGeneratorTX4Male.description>Vytvoří surogátního androida.</ATPP_GSGeneratorTX4Male.description>
+  <ATPP_GSGeneratorTX4Female.label>Neaktivovaný TX4 (žena)</ATPP_GSGeneratorTX4Female.label>
+  <ATPP_GSGeneratorTX4Female.description>Vytvoří surogátního androida.</ATPP_GSGeneratorTX4Female.description>
+  <ATPP_GSGeneratorTX4MaleSurrogate.label>Neaktivovaný TX4 (muž)</ATPP_GSGeneratorTX4MaleSurrogate.label>
+  <ATPP_GSGeneratorTX4MaleSurrogate.description>Vytvoří surogátního androida.</ATPP_GSGeneratorTX4MaleSurrogate.description>
+  <ATPP_GSGeneratorTX4FemaleSurrogate.label>Neaktivovaný TX4 (žena)</ATPP_GSGeneratorTX4FemaleSurrogate.label>
+  <ATPP_GSGeneratorTX4FemaleSurrogate.description>Vytvoří surogátního androida.</ATPP_GSGeneratorTX4FemaleSurrogate.description>
+  <ATPP_SX2SurrogateGeneratorAI.label>mužský surogátní android SX2</ATPP_SX2SurrogateGeneratorAI.label>
+  <ATPP_SX2SurrogateGeneratorAI.description>Vytvoří surogátního androida.</ATPP_SX2SurrogateGeneratorAI.description>
+  <ATPP_SX2FemaleSurrogateGeneratorAI.label>ženský surogátní android SX2</ATPP_SX2FemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2FemaleSurrogateGeneratorAI.description>Vytvoří surogátního androida.</ATPP_SX2FemaleSurrogateGeneratorAI.description>
+  <ATPP_SX2ISurrogateGeneratorAI.label>mužský surogátní android SX2I</ATPP_SX2ISurrogateGeneratorAI.label>
+  <ATPP_SX2ISurrogateGeneratorAI.description>Vytvoří surogátního androida.</ATPP_SX2ISurrogateGeneratorAI.description>
+  <ATPP_SX2IFemaleSurrogateGeneratorAI.label>ženský surogátní android SX2I</ATPP_SX2IFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2IFemaleSurrogateGeneratorAI.description>Vytvoří surogátního androida.</ATPP_SX2IFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX2KSurrogateGeneratorAI.label>mužský surogátní android SX2K</ATPP_SX2KSurrogateGeneratorAI.label>
+  <ATPP_SX2KSurrogateGeneratorAI.description>Vytvoří surogátního androida.</ATPP_SX2KSurrogateGeneratorAI.description>
+  <ATPP_SX2KFemaleSurrogateGeneratorAI.label>ženský surogátní android SX2K</ATPP_SX2KFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2KFemaleSurrogateGeneratorAI.description>Vytvoří surogátního androida.</ATPP_SX2KFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX2KISurrogateGeneratorAI.label>mužský surogátní android SX2KI</ATPP_SX2KISurrogateGeneratorAI.label>
+  <ATPP_SX2KISurrogateGeneratorAI.description>Vytvoří surogátního androida.</ATPP_SX2KISurrogateGeneratorAI.description>
+  <ATPP_SX2KIFemaleSurrogateGeneratorAI.label>ženský surogátní android SX2KI</ATPP_SX2KIFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2KIFemaleSurrogateGeneratorAI.description>Vytvoří surogátního androida.</ATPP_SX2KIFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX3SurrogateGeneratorAI.label>mužský surogátní android SX3</ATPP_SX3SurrogateGeneratorAI.label>
+  <ATPP_SX3SurrogateGeneratorAI.description>Vytvoří surogátního androida.</ATPP_SX3SurrogateGeneratorAI.description>
+  <ATPP_SX3FemaleSurrogateGeneratorAI.label>ženský surogátní android SX3</ATPP_SX3FemaleSurrogateGeneratorAI.label>
+  <ATPP_SX3FemaleSurrogateGeneratorAI.description>Vytvoří surogátního androida.</ATPP_SX3FemaleSurrogateGeneratorAI.description>
+  <ATPP_SX3ISurrogateGeneratorAI.label>mužský surogátní android SX3I</ATPP_SX3ISurrogateGeneratorAI.label>
+  <ATPP_SX3ISurrogateGeneratorAI.description>Vytvoří surogátního androida.</ATPP_SX3ISurrogateGeneratorAI.description>
+  <ATPP_SX3IFemaleSurrogateGeneratorAI.label>ženský surogátní android SX3I</ATPP_SX3IFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX3IFemaleSurrogateGeneratorAI.description>Vytvoří surogátního androida.</ATPP_SX3IFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX4SurrogateGeneratorAI.label>mužský surogátní android SX4</ATPP_SX4SurrogateGeneratorAI.label>
+  <ATPP_SX4SurrogateGeneratorAI.description>Vytvoří surogátního androida.</ATPP_SX4SurrogateGeneratorAI.description>
+  <ATPP_SX4FemaleSurrogateGeneratorAI.label>ženský surogátní android SX4</ATPP_SX4FemaleSurrogateGeneratorAI.label>
+  <ATPP_SX4FemaleSurrogateGeneratorAI.description>Vytvoří surogátního androida.</ATPP_SX4FemaleSurrogateGeneratorAI.description>
+  <ATPP_SX4ISurrogateGeneratorAI.label>mužský surogátní android SX4I</ATPP_SX4ISurrogateGeneratorAI.label>
+  <ATPP_SX4ISurrogateGeneratorAI.description>Vytvoří surogátního androida.</ATPP_SX4ISurrogateGeneratorAI.description>
+  <ATPP_SX4IFemaleSurrogateGeneratorAI.label>ženský surogátní android SX4I</ATPP_SX4IFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX4IFemaleSurrogateGeneratorAI.description>Vytvoří surogátního androida.</ATPP_SX4IFemaleSurrogateGeneratorAI.description>
+
+</LanguageData>

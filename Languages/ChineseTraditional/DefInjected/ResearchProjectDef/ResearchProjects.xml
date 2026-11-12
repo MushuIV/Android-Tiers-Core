@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATPP_ResearchSM7.label>SM7戰鬥機兵</ATPP_ResearchSM7.label>
+  <ATPP_ResearchSM7.description>研究如何製造SM7戰鬥機兵。</ATPP_ResearchSM7.description>
+  <ATPP_ResearchServerI100Serie.label>I100系列伺服器</ATPP_ResearchServerI100Serie.label>
+  <ATPP_ResearchServerI100Serie.description>研究如何建造I100系列安全、駭客與技能伺服器，造價便宜但吵雜、體積大且效率不高。</ATPP_ResearchServerI100Serie.description>
+  <ATPP_ResearchServerI300Serie.label>I300系列伺服器</ATPP_ResearchServerI300Serie.label>
+  <ATPP_ResearchServerI300Serie.description>研究如何建造I300系列安全、駭客與技能伺服器，雖然吵雜但效率中等。</ATPP_ResearchServerI300Serie.description>
+  <ATPP_ResearchServerI500Serie.label>I500系列伺服器</ATPP_ResearchServerI500Serie.label>
+  <ATPP_ResearchServerI500Serie.description>研究如何建造I500系列安全、駭客與技能伺服器，造價昂貴但效率極高。</ATPP_ResearchServerI500Serie.description>
+  <ATPP_ResearchSkyCloudCore.label>天云核心</ATPP_ResearchSkyCloudCore.label>
+  <ATPP_ResearchSkyCloudCore.description>研究如何建造天云核心伺服器，這是一台強大的超級電腦，可託管多個數位化意識，並讓它們通過連接到天維網路的所有設備與現實世界互動。</ATPP_ResearchSkyCloudCore.description>
+  <ATPP_ResearchBatteryOverload.label>電池過載</ATPP_ResearchBatteryOverload.label>
+  <ATPP_ResearchBatteryOverload.description>研究如何通過讓智能人形的內部電池爆炸，將其變成行走的炸彈。</ATPP_ResearchBatteryOverload.description>
+  <ATPP_ResearchVX0Chip.label>VX0神經晶片</ATPP_ResearchVX0Chip.label>
+  <ATPP_ResearchVX0Chip.description>研究如何製作VX0晶片，一種能將宿主轉化為生物替代體的神經晶片。</ATPP_ResearchVX0Chip.description>
+  <ATPP_ResearchCharchingStation.label>充電站</ATPP_ResearchCharchingStation.label>
+  <ATPP_ResearchCharchingStation.description>允許您最多讓8個智能人形同時直接為內部電池充電，而無需通過生物質發電機。</ATPP_ResearchCharchingStation.description>
+  <ATPP_ResearchCraftBasicNanoKit.label>初級奈米修復套件</ATPP_ResearchCraftBasicNanoKit.label>
+  <ATPP_ResearchCraftBasicNanoKit.description>允許製作修復受傷智能人形所需的初級奈米修復套件。</ATPP_ResearchCraftBasicNanoKit.description>
+  <ATPP_ResearchCraftIntermediateNanoKit.label>中級奈米修復套件</ATPP_ResearchCraftIntermediateNanoKit.label>
+  <ATPP_ResearchCraftIntermediateNanoKit.description>允許製作修復受傷智能人形所需的中級奈米修復套件。</ATPP_ResearchCraftIntermediateNanoKit.description>
+  <ATPP_ResearchCraftAdvancedNanoKit.label>高級奈米修復套件</ATPP_ResearchCraftAdvancedNanoKit.label>
+  <ATPP_ResearchCraftAdvancedNanoKit.description>允許製作修復受傷智能人形所需的高級奈米修復套件。</ATPP_ResearchCraftAdvancedNanoKit.description>
+  <ATPP_ResearchVX1Chip.label>VX1神經晶片</ATPP_ResearchVX1Chip.label>
+  <ATPP_ResearchVX1Chip.description>研究如何製作VX1晶片，一種允許宿主遠程控制任何SX系列智能人形或生物替代體的神經晶片。</ATPP_ResearchVX1Chip.description>
+  <ATPP_ResearchVX2Chip.label>VX2神經晶片</ATPP_ResearchVX2Chip.label>
+  <ATPP_ResearchVX2Chip.description>研究如何製作VX2晶片，一種允許宿主遠程控制任何SX系列智能人形或生物替代體並複製/置換其思維的神經晶片。</ATPP_ResearchVX2Chip.description>
+  <ATPP_ResearchVX3Chip.label>VX3神經晶片</ATPP_ResearchVX3Chip.label>
+  <ATPP_ResearchVX3Chip.description>研究如何製作VX3晶片，一種允許宿主同時遠程控制多個SX系列智能人形或生物替代體並複製/置換其思維的神經晶片。</ATPP_ResearchVX3Chip.description>
+  <ATPP_ResearchSkyMindWAN.label>天維V2天線</ATPP_ResearchSkyMindWAN.label>
+  <ATPP_ResearchSkyMindWAN.description>研究如何建造天維V2天線，作為將一名殖民者意識傳輸給另一名殖民者的基礎，並允許每座V2天線同時連接最多15名殖民者。</ATPP_ResearchSkyMindWAN.description>
+  <ATPP_ResearchSkyMindLAN.label>天維V1天線</ATPP_ResearchSkyMindLAN.label>
+  <ATPP_ResearchSkyMindLAN.description>研究如何建造天維V1天線，作為將一名殖民者意識傳輸給另一名殖民者的基礎，並允許每座V1天線同時連接最多3名殖民者。</ATPP_ResearchSkyMindLAN.description>
+  <ATPP_ResearchSurrogateHost.label>SX智能人形</ATPP_ResearchSurrogateHost.label>
+  <ATPP_ResearchSurrogateHost.description>研究如何製造SX系列智能人形，它們與TX系列相似，但人工大腦被更先進的遠程控制系統所取代。</ATPP_ResearchSurrogateHost.description>
+  <ATPP_ResearchCraftRepairNaniteBanks.label>修復老化故障</ATPP_ResearchCraftRepairNaniteBanks.label>
+  <ATPP_ResearchCraftRepairNaniteBanks.description>允許您製作可治癒智能人形老化故障的奈米修復劑。</ATPP_ResearchCraftRepairNaniteBanks.description>
+</LanguageData>

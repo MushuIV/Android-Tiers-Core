@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATPP_T4BlankGeneratorAI.label>Κενό ανδροειδές T4</ATPP_T4BlankGeneratorAI.label>
+  <ATPP_T4BlankGeneratorAI.description>Δημιουργία ανδροειδούς κενού νευρωνικού δικτύου</ATPP_T4BlankGeneratorAI.description>
+  <ATPP_T3BlankGeneratorAI.label>Κενό ανδροειδές T3</ATPP_T3BlankGeneratorAI.label>
+  <ATPP_T3BlankGeneratorAI.description>Δημιουργία ανδροειδούς κενού νευρωνικού δικτύου</ATPP_T3BlankGeneratorAI.description>
+  <ATPP_Android2KTX.label>Ανδροειδές TX2K</ATPP_Android2KTX.label>
+  <ATPP_Android2KTX.description>Ένα πρωτότυπο ανδροειδές σχεδιασμένο να χρησιμοποιείται αποκλειστικά στο πεδίο μάχης ως βαρύ πεζικό· είναι πολύ ανθεκτικό και προκαλεί σοβαρές ζημιές σώμα με σώμα, ωστόσο είναι αρκετά αργό λόγω της θωράκισής του και αδυνατεί να εκτελέσει προηγμένες εργασίες εξαιτίας του περιορισμένου επεξεργαστή του που έχει βελτιστοποιηθεί ουσιαστικά για μάχη.</ATPP_Android2KTX.description>
+  <ATPP_Android2KITX.label>Ανδροειδές TX2KI</ATPP_Android2KITX.label>
+  <ATPP_Android2KITX.description>Ένα πρωτότυπο ανδροειδές (χωρίς δέρμα) σχεδιασμένο να χρησιμοποιείται αποκλειστικά στο πεδίο μάχης ως βαρύ πεζικό· είναι πολύ ανθεκτικό και προκαλεί σοβαρές ζημιές σώμα με σώμα, ωστόσο είναι αρκετά αργό λόγω της θωράκισής του και αδυνατεί να εκτελέσει προηγμένες εργασίες εξαιτίας του περιορισμένου επεξεργαστή του που έχει βελτιστοποιηθεί ουσιαστικά για μάχη.</ATPP_Android2KITX.description>
+  <ATPP_Android2ITX.label>Ανδροειδές TX2I</ATPP_Android2ITX.label>
+  <ATPP_Android2ITX.description>Μια σειρά TX2 ανακατασκευασμένη για να χρησιμοποιείται ως πεζικό στα πεδία μάχης αντί των T2, κυρίως λόγω του φόβου που προκαλεί στους οργανικούς εχθρούς εξαιτίας της ιδιαίτερης εμφάνισής της.</ATPP_Android2ITX.description>
+  <ATPP_Android3ITX.label>Ανδροειδές TX3I</ATPP_Android3ITX.label>
+  <ATPP_Android3ITX.description>Μια σειρά TX3 ανακατασκευασμένη για να χρησιμοποιείται ως πεζικό στα πεδία μάχης αντί των T3, κυρίως λόγω του φόβου που προκαλεί στους οργανικούς εχθρούς εξαιτίας της ιδιαίτερης εμφάνισής της.</ATPP_Android3ITX.description>
+  <ATPP_Android4ITX.label>Ανδροειδές TX4I</ATPP_Android4ITX.label>
+  <ATPP_Android4ITX.description>Μια σειρά TX4 ανακατασκευασμένη για να χρησιμοποιείται ως πεζικό στα πεδία μάχης αντί των T4, κυρίως λόγω του φόβου που προκαλεί στους οργανικούς εχθρούς εξαιτίας της ιδιαίτερης εμφάνισής της.</ATPP_Android4ITX.description>
+  <ATPP_Android4TX.label>Ανδροειδές TX4</ATPP_Android4TX.label>
+  <ATPP_Android4TX.description>Μια ειδική σειρά T4 σχεδιασμένη για αποστολές διείσδυσης· ο ελαφρώς τροποποιημένος εξωσκελετός T4 της καλύπτεται από ζωντανούς ιστούς που εμποδίζουν τη σκουριά, προσφέρουν καλύτερη κοινωνική εντύπωση και παρέχουν αντοχή σε EMP και ηλιακές εκλάμψεις, ωστόσο είναι πιο εύφλεκτη.</ATPP_Android4TX.description>
+  <ATPP_Android3TX.label>Ανδροειδές TX3</ATPP_Android3TX.label>
+  <ATPP_Android3TX.description>Μια ειδική σειρά T3 σχεδιασμένη για αποστολές διείσδυσης· ο ελαφρώς τροποποιημένος εξωσκελετός T3 της καλύπτεται από ζωντανούς ιστούς που εμποδίζουν τη σκουριά, προσφέρουν καλύτερη κοινωνική εντύπωση και παρέχουν αντοχή σε EMP και ηλιακές εκλάμψεις, ωστόσο είναι πιο εύφλεκτη.</ATPP_Android3TX.description>
+  <ATPP_Android2TX.label>Ανδροειδές TX2</ATPP_Android2TX.label>
+  <ATPP_Android2TX.description>Μια ειδική σειρά T2 σχεδιασμένη για αποστολές διείσδυσης· ο ελαφρώς τροποποιημένος εξωσκελετός T2 της καλύπτεται από ένα συνθετικό ελαστικό δέρμα που εμποδίζει τη σκουριά, προσφέρει καλύτερη κοινωνική εντύπωση και παρέχει αντοχή σε EMP και ηλιακές εκλάμψεις, ωστόσο είναι πιο εύφλεκτη.</ATPP_Android2TX.description>
+  <ATPP_Android2TX.tools.right_fist.label>δεξιά γροθιά</ATPP_Android2TX.tools.right_fist.label>
+  <ATPP_Android2TX.tools.left_fist.label>αριστερή γροθιά</ATPP_Android2TX.tools.left_fist.label>
+  <ATPP_Android2ITX.tools.right_fist.label>δεξιά γροθιά</ATPP_Android2ITX.tools.right_fist.label>
+  <ATPP_Android2ITX.tools.left_fist.label>αριστερή γροθιά</ATPP_Android2ITX.tools.left_fist.label>
+  <ATPP_Android2KITX.tools.right_fist.label>δεξιά γροθιά</ATPP_Android2KITX.tools.right_fist.label>
+  <ATPP_Android2KITX.tools.left_fist.label>αριστερή γροθιά</ATPP_Android2KITX.tools.left_fist.label>
+  <ATPP_Android2KTX.tools.right_fist.label>δεξιά γροθιά</ATPP_Android2KTX.tools.right_fist.label>
+  <ATPP_Android2KTX.tools.left_fist.label>αριστερή γροθιά</ATPP_Android2KTX.tools.left_fist.label>
+  <ATPP_Android3TX.tools.right_fist.label>δεξιά γροθιά</ATPP_Android3TX.tools.right_fist.label>
+  <ATPP_Android3TX.tools.left_fist.label>αριστερή γροθιά</ATPP_Android3TX.tools.left_fist.label>
+  <ATPP_Android3ITX.tools.right_fist.label>δεξιά γροθιά</ATPP_Android3ITX.tools.right_fist.label>
+  <ATPP_Android3ITX.tools.left_fist.label>αριστερή γροθιά</ATPP_Android3ITX.tools.left_fist.label>
+  <ATPP_Android4TX.tools.right_fist.label>δεξιά γροθιά</ATPP_Android4TX.tools.right_fist.label>
+  <ATPP_Android4TX.tools.left_fist.label>αριστερή γροθιά</ATPP_Android4TX.tools.left_fist.label>
+  <ATPP_Android4ITX.tools.right_fist.label>δεξιά γροθιά</ATPP_Android4ITX.tools.right_fist.label>
+  <ATPP_Android4ITX.tools.left_fist.label>αριστερή γροθιά</ATPP_Android4ITX.tools.left_fist.label>
+  <ATPP_TX4AndroidGeneratorAI.label>αρσενικό ανδροειδές TX4</ATPP_TX4AndroidGeneratorAI.label>
+  <ATPP_TX4AndroidGeneratorAI.description>Δημιουργία ενός TX4, μιας ειδικής σειράς T4 σχεδιασμένης για αποστολές διείσδυσης· ο ελαφρώς τροποποιημένος εξωσκελετός T4 του καλύπτεται από ζωντανούς ιστούς που εμποδίζουν τη σκουριά, προσφέρουν καλύτερη κοινωνική εντύπωση και παρέχουν αντοχή σε EMP και ηλιακές εκλάμψεις, ωστόσο είναι πιο εύφλεκτο</ATPP_TX4AndroidGeneratorAI.description>
+  <ATPP_TX4FemaleAndroidGeneratorAI.label>θηλυκό ανδροειδές TX4</ATPP_TX4FemaleAndroidGeneratorAI.label>
+  <ATPP_TX4FemaleAndroidGeneratorAI.description>Δημιουργία ενός TX4, μιας ειδικής σειράς T4 σχεδιασμένης για αποστολές διείσδυσης· ο ελαφρώς τροποποιημένος εξωσκελετός T4 του καλύπτεται από ζωντανούς ιστούς που εμποδίζουν τη σκουριά, προσφέρουν καλύτερη κοινωνική εντύπωση και παρέχουν αντοχή σε EMP και ηλιακές εκλάμψεις, ωστόσο είναι πιο εύφλεκτο</ATPP_TX4FemaleAndroidGeneratorAI.description>
+  <ATPP_TX3AndroidGeneratorAI.label>αρσενικό ανδροειδές TX3</ATPP_TX3AndroidGeneratorAI.label>
+  <ATPP_TX3AndroidGeneratorAI.description>Δημιουργία ενός TX3, μιας ειδικής σειράς T3 σχεδιασμένης για αποστολές διείσδυσης· ο ελαφρώς τροποποιημένος εξωσκελετός T3 του καλύπτεται από ζωντανούς ιστούς που εμποδίζουν τη σκουριά, προσφέρουν καλύτερη κοινωνική εντύπωση και παρέχουν αντοχή σε EMP και ηλιακές εκλάμψεις, ωστόσο είναι πιο εύφλεκτο</ATPP_TX3AndroidGeneratorAI.description>
+  <ATPP_TX3FemaleAndroidGeneratorAI.label>θηλυκό ανδροειδές TX3</ATPP_TX3FemaleAndroidGeneratorAI.label>
+  <ATPP_TX3FemaleAndroidGeneratorAI.description>Δημιουργία ενός TX3, μιας ειδικής σειράς T3 σχεδιασμένης για αποστολές διείσδυσης· ο ελαφρώς τροποποιημένος εξωσκελετός T3 του καλύπτεται από ζωντανούς ιστούς που εμποδίζουν τη σκουριά, προσφέρουν καλύτερη κοινωνική εντύπωση και παρέχουν αντοχή σε EMP και ηλιακές εκλάμψεις, ωστόσο είναι πιο εύφλεκτο</ATPP_TX3FemaleAndroidGeneratorAI.description>
+  <ATPP_TX2AndroidGeneratorAI.label>αρσενικό ανδροειδές TX2</ATPP_TX2AndroidGeneratorAI.label>
+  <ATPP_TX2AndroidGeneratorAI.description>Δημιουργία ενός TX2, μιας ειδικής σειράς T2 σχεδιασμένης για αποστολές διείσδυσης· ο ελαφρώς τροποποιημένος εξωσκελετός T2 του καλύπτεται από ένα συνθετικό ελαστικό δέρμα που εμποδίζει τη σκουριά, προσφέρει καλύτερη κοινωνική εντύπωση και παρέχει αντοχή σε EMP και ηλιακές εκλάμψεις, ωστόσο είναι πιο εύφλεκτο.</ATPP_TX2AndroidGeneratorAI.description>
+  <ATPP_TX2FemaleAndroidGeneratorAI.label>θηλυκό ανδροειδές TX2</ATPP_TX2FemaleAndroidGeneratorAI.label>
+  <ATPP_TX2FemaleAndroidGeneratorAI.description>Δημιουργία ενός TX2, μιας ειδικής σειράς T2 σχεδιασμένης για αποστολές διείσδυσης· ο ελαφρώς τροποποιημένος εξωσκελετός T2 του καλύπτεται από ένα συνθετικό ελαστικό δέρμα που εμποδίζει τη σκουριά, προσφέρει καλύτερη κοινωνική εντύπωση και παρέχει αντοχή σε EMP και ηλιακές εκλάμψεις, ωστόσο είναι πιο εύφλεκτο.</ATPP_TX2FemaleAndroidGeneratorAI.description>
+  <ATPP_TX2KAndroidGeneratorAI.label>αρσενικό ανδροειδές TX2K</ATPP_TX2KAndroidGeneratorAI.label>
+  <ATPP_TX2KAndroidGeneratorAI.description>Δημιουργία ενός TX2K, ενός πρωτότυπου ανδροειδούς σχεδιασμένου να χρησιμοποιείται αποκλειστικά στο πεδίο μάχης ως βαρύ πεζικό· είναι πολύ ανθεκτικό και προκαλεί σοβαρές ζημιές σώμα με σώμα, ωστόσο είναι αρκετά αργό λόγω της θωράκισής του και αδυνατεί να εκτελέσει προηγμένες εργασίες εξαιτίας του περιορισμένου επεξεργαστή του που έχει βελτιστοποιηθεί ουσιαστικά για μάχη.</ATPP_TX2KAndroidGeneratorAI.description>
+  <ATPP_TX2KFemaleAndroidGeneratorAI.label>θηλυκό ανδροειδές TX2K</ATPP_TX2KFemaleAndroidGeneratorAI.label>
+  <ATPP_TX2KFemaleAndroidGeneratorAI.description>Δημιουργία ενός TX2K, ενός πρωτότυπου ανδροειδούς σχεδιασμένου να χρησιμοποιείται αποκλειστικά στο πεδίο μάχης ως βαρύ πεζικό· είναι πολύ ανθεκτικό και προκαλεί σοβαρές ζημιές σώμα με σώμα, ωστόσο είναι αρκετά αργό λόγω της θωράκισής του και αδυνατεί να εκτελέσει προηγμένες εργασίες εξαιτίας του περιορισμένου επεξεργαστή του που έχει βελτιστοποιηθεί ουσιαστικά για μάχη.</ATPP_TX2KFemaleAndroidGeneratorAI.description>
+  <ATPP_TX2KIAndroidGeneratorAI.label>αρσενικό ανδροειδές TX2KI</ATPP_TX2KIAndroidGeneratorAI.label>
+  <ATPP_TX2KIAndroidGeneratorAI.description>Δημιουργία ενός TX2KI, ενός πρωτότυπου ανδροειδούς σχεδιασμένου να χρησιμοποιείται αποκλειστικά στο πεδίο μάχης ως βαρύ πεζικό· είναι πολύ ανθεκτικό και προκαλεί σοβαρές ζημιές σώμα με σώμα, ωστόσο είναι αρκετά αργό λόγω της θωράκισής του και αδυνατεί να εκτελέσει προηγμένες εργασίες εξαιτίας του περιορισμένου επεξεργαστή του που έχει βελτιστοποιηθεί ουσιαστικά για μάχη.</ATPP_TX2KIAndroidGeneratorAI.description>
+  <ATPP_TX2KIFemaleAndroidGeneratorAI.label>θηλυκό ανδροειδές TX2KI</ATPP_TX2KIFemaleAndroidGeneratorAI.label>
+  <ATPP_TX2KIFemaleAndroidGeneratorAI.description>Δημιουργία ενός TX2KI, ενός πρωτότυπου ανδροειδούς σχεδιασμένου να χρησιμοποιείται αποκλειστικά στο πεδίο μάχης ως βαρύ πεζικό· είναι πολύ ανθεκτικό και προκαλεί σοβαρές ζημιές σώμα με σώμα, ωστόσο είναι αρκετά αργό λόγω της θωράκισής του και αδυνατεί να εκτελέσει προηγμένες εργασίες εξαιτίας του περιορισμένου επεξεργαστή του που έχει βελτιστοποιηθεί ουσιαστικά για μάχη.</ATPP_TX2KIFemaleAndroidGeneratorAI.description>
+  <ATPP_TX2IAndroidGeneratorAI.label>αρσενικό ανδροειδές TX2I</ATPP_TX2IAndroidGeneratorAI.label>
+  <ATPP_TX2IAndroidGeneratorAI.description>Δημιουργία ενός TX2I, μιας σειράς TX2 ανακατασκευασμένης για να χρησιμοποιείται ως πεζικό στα πεδία μάχης αντί των T2, κυρίως λόγω του φόβου που προκαλεί στους εχθρούς εξαιτίας της ιδιαίτερης εμφάνισής της.</ATPP_TX2IAndroidGeneratorAI.description>
+  <ATPP_TX2IFemaleAndroidGeneratorAI.label>θηλυκό ανδροειδές TX2I</ATPP_TX2IFemaleAndroidGeneratorAI.label>
+  <ATPP_TX2IFemaleAndroidGeneratorAI.description>Δημιουργία ενός TX2I, μιας σειράς TX2 ανακατασκευασμένης για να χρησιμοποιείται ως πεζικό στα πεδία μάχης αντί των T2, κυρίως λόγω του φόβου που προκαλεί στους εχθρούς εξαιτίας της ιδιαίτερης εμφάνισής της.</ATPP_TX2IFemaleAndroidGeneratorAI.description>
+  <ATPP_TX3IAndroidGeneratorAI.label>αρσενικό ανδροειδές TX3I</ATPP_TX3IAndroidGeneratorAI.label>
+  <ATPP_TX3IAndroidGeneratorAI.description>Δημιουργία ενός TX3I, μιας σειράς TX3 ανακατασκευασμένης για να χρησιμοποιείται ως πεζικό στα πεδία μάχης αντί των T3, κυρίως λόγω του φόβου που προκαλεί στους εχθρούς εξαιτίας της ιδιαίτερης εμφάνισής της.</ATPP_TX3IAndroidGeneratorAI.description>
+  <ATPP_TX3IFemaleAndroidGeneratorAI.label>θηλυκό ανδροειδές TX3I</ATPP_TX3IFemaleAndroidGeneratorAI.label>
+  <ATPP_TX3IFemaleAndroidGeneratorAI.description>Δημιουργία ενός TX3I, μιας σειράς TX3 ανακατασκευασμένης για να χρησιμοποιείται ως πεζικό στα πεδία μάχης αντί των T3, κυρίως λόγω του φόβου που προκαλεί στους εχθρούς εξαιτίας της ιδιαίτερης εμφάνισής της.</ATPP_TX3IFemaleAndroidGeneratorAI.description>
+  <ATPP_TX4IAndroidGeneratorAI.label>αρσενικό ανδροειδές TX4I</ATPP_TX4IAndroidGeneratorAI.label>
+  <ATPP_TX4IAndroidGeneratorAI.description>Δημιουργία ενός TX4I, μιας σειράς TX4 ανακατασκευασμένης για να χρησιμοποιείται ως πεζικό στα πεδία μάχης αντί των T4, κυρίως λόγω του φόβου που προκαλεί στους εχθρούς εξαιτίας της ιδιαίτερης εμφάνισής της.</ATPP_TX4IAndroidGeneratorAI.description>
+  <ATPP_TX4IFemaleAndroidGeneratorAI.label>θηλυκό ανδροειδές TX4I</ATPP_TX4IFemaleAndroidGeneratorAI.label>
+  <ATPP_TX4IFemaleAndroidGeneratorAI.description>Δημιουργία ενός TX4I, μιας σειράς TX4 ανακατασκευασμένης για να χρησιμοποιείται ως πεζικό στα πεδία μάχης αντί των T4, κυρίως λόγω του φόβου που προκαλεί στους εχθρούς εξαιτίας της ιδιαίτερης εμφάνισής της.</ATPP_TX4IFemaleAndroidGeneratorAI.description>
+  <ATPP_GSGeneratorTX2KMale.label>Ανενεργό Αρσενικό TX2K</ATPP_GSGeneratorTX2KMale.label>
+  <ATPP_GSGeneratorTX2KMale.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_GSGeneratorTX2KMale.description>
+  <ATPP_GSGeneratorTX2KFemale.label>Ανενεργό Θηλυκό TX2K</ATPP_GSGeneratorTX2KFemale.label>
+  <ATPP_GSGeneratorTX2KFemale.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_GSGeneratorTX2KFemale.description>
+  <ATPP_GSGeneratorTX2KMaleSurrogate.label>Ανενεργό Αρσενικό TX2K</ATPP_GSGeneratorTX2KMaleSurrogate.label>
+  <ATPP_GSGeneratorTX2KMaleSurrogate.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_GSGeneratorTX2KMaleSurrogate.description>
+  <ATPP_GSGeneratorTX2KFemaleSurrogate.label>Ανενεργό Θηλυκό TX2K</ATPP_GSGeneratorTX2KFemaleSurrogate.label>
+  <ATPP_GSGeneratorTX2KFemaleSurrogate.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_GSGeneratorTX2KFemaleSurrogate.description>
+  <ATPP_GSGeneratorTX3Male.label>Ανενεργό Αρσενικό TX3</ATPP_GSGeneratorTX3Male.label>
+  <ATPP_GSGeneratorTX3Male.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_GSGeneratorTX3Male.description>
+  <ATPP_GSGeneratorTX3Female.label>Ανενεργό Θηλυκό TX3</ATPP_GSGeneratorTX3Female.label>
+  <ATPP_GSGeneratorTX3Female.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_GSGeneratorTX3Female.description>
+  <ATPP_GSGeneratorTX3MaleSurrogate.label>Ανενεργό Αρσενικό TX3</ATPP_GSGeneratorTX3MaleSurrogate.label>
+  <ATPP_GSGeneratorTX3MaleSurrogate.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_GSGeneratorTX3MaleSurrogate.description>
+  <ATPP_GSGeneratorTX3FemaleSurrogate.label>Ανενεργό Θηλυκό TX3</ATPP_GSGeneratorTX3FemaleSurrogate.label>
+  <ATPP_GSGeneratorTX3FemaleSurrogate.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_GSGeneratorTX3FemaleSurrogate.description>
+  <ATPP_GSGeneratorTX4Male.label>Ανενεργό Αρσενικό TX4</ATPP_GSGeneratorTX4Male.label>
+  <ATPP_GSGeneratorTX4Male.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_GSGeneratorTX4Male.description>
+  <ATPP_GSGeneratorTX4Female.label>Ανενεργό Θηλυκό TX4</ATPP_GSGeneratorTX4Female.label>
+  <ATPP_GSGeneratorTX4Female.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_GSGeneratorTX4Female.description>
+  <ATPP_GSGeneratorTX4MaleSurrogate.label>Ανενεργό Αρσενικό TX4</ATPP_GSGeneratorTX4MaleSurrogate.label>
+  <ATPP_GSGeneratorTX4MaleSurrogate.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_GSGeneratorTX4MaleSurrogate.description>
+  <ATPP_GSGeneratorTX4FemaleSurrogate.label>Ανενεργό Θηλυκό TX4</ATPP_GSGeneratorTX4FemaleSurrogate.label>
+  <ATPP_GSGeneratorTX4FemaleSurrogate.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_GSGeneratorTX4FemaleSurrogate.description>
+  <ATPP_SX2SurrogateGeneratorAI.label>Αρσενικό Υποκατάστατο Ανδροειδές SX2</ATPP_SX2SurrogateGeneratorAI.label>
+  <ATPP_SX2SurrogateGeneratorAI.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_SX2SurrogateGeneratorAI.description>
+  <ATPP_SX2FemaleSurrogateGeneratorAI.label>Θηλυκό Υποκατάστατο Ανδροειδές SX2</ATPP_SX2FemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2FemaleSurrogateGeneratorAI.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_SX2FemaleSurrogateGeneratorAI.description>
+  <ATPP_SX2ISurrogateGeneratorAI.label>Αρσενικό Υποκατάστατο Ανδροειδές SX2I</ATPP_SX2ISurrogateGeneratorAI.label>
+  <ATPP_SX2ISurrogateGeneratorAI.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_SX2ISurrogateGeneratorAI.description>
+  <ATPP_SX2IFemaleSurrogateGeneratorAI.label>Θηλυκό Υποκατάστατο Ανδροειδές SX2I</ATPP_SX2IFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2IFemaleSurrogateGeneratorAI.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_SX2IFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX2KSurrogateGeneratorAI.label>Αρσενικό Υποκατάστατο Ανδροειδές SX2K</ATPP_SX2KSurrogateGeneratorAI.label>
+  <ATPP_SX2KSurrogateGeneratorAI.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_SX2KSurrogateGeneratorAI.description>
+  <ATPP_SX2KFemaleSurrogateGeneratorAI.label>Θηλυκό Υποκατάστατο Ανδροειδές SX2K</ATPP_SX2KFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2KFemaleSurrogateGeneratorAI.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_SX2KFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX2KISurrogateGeneratorAI.label>Αρσενικό Υποκατάστατο Ανδροειδές SX2KI</ATPP_SX2KISurrogateGeneratorAI.label>
+  <ATPP_SX2KISurrogateGeneratorAI.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_SX2KISurrogateGeneratorAI.description>
+  <ATPP_SX2KIFemaleSurrogateGeneratorAI.label>Θηλυκό Υποκατάστατο Ανδροειδές SX2KI</ATPP_SX2KIFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2KIFemaleSurrogateGeneratorAI.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_SX2KIFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX3SurrogateGeneratorAI.label>Αρσενικό Υποκατάστατο Ανδροειδές SX3</ATPP_SX3SurrogateGeneratorAI.label>
+  <ATPP_SX3SurrogateGeneratorAI.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_SX3SurrogateGeneratorAI.description>
+  <ATPP_SX3FemaleSurrogateGeneratorAI.label>Θηλυκό Υποκατάστατο Ανδροειδές SX3</ATPP_SX3FemaleSurrogateGeneratorAI.label>
+  <ATPP_SX3FemaleSurrogateGeneratorAI.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_SX3FemaleSurrogateGeneratorAI.description>
+  <ATPP_SX3ISurrogateGeneratorAI.label>Αρσενικό Υποκατάστατο Ανδροειδές SX3I</ATPP_SX3ISurrogateGeneratorAI.label>
+  <ATPP_SX3ISurrogateGeneratorAI.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_SX3ISurrogateGeneratorAI.description>
+  <ATPP_SX3IFemaleSurrogateGeneratorAI.label>Θηλυκό Υποκατάστατο Ανδροειδές SX3I</ATPP_SX3IFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX3IFemaleSurrogateGeneratorAI.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_SX3IFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX4SurrogateGeneratorAI.label>Αρσενικό Υποκατάστατο Ανδροειδές SX4</ATPP_SX4SurrogateGeneratorAI.label>
+  <ATPP_SX4SurrogateGeneratorAI.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_SX4SurrogateGeneratorAI.description>
+  <ATPP_SX4FemaleSurrogateGeneratorAI.label>Θηλυκό Υποκατάστατο Ανδροειδές SX4</ATPP_SX4FemaleSurrogateGeneratorAI.label>
+  <ATPP_SX4FemaleSurrogateGeneratorAI.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_SX4FemaleSurrogateGeneratorAI.description>
+  <ATPP_SX4ISurrogateGeneratorAI.label>Αρσενικό Υποκατάστατο Ανδροειδές SX4I</ATPP_SX4ISurrogateGeneratorAI.label>
+  <ATPP_SX4ISurrogateGeneratorAI.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_SX4ISurrogateGeneratorAI.description>
+  <ATPP_SX4IFemaleSurrogateGeneratorAI.label>Θηλυκό Υποκατάστατο Ανδροειδές SX4I</ATPP_SX4IFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX4IFemaleSurrogateGeneratorAI.description>Δημιουργεί ένα υποκατάστατο ανδροειδές.</ATPP_SX4IFemaleSurrogateGeneratorAI.description>
+</LanguageData>

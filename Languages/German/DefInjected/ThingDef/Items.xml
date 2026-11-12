@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_NanitesHydraulicSerum.label>Nanitenbank (Hydraulik)</ATPP_NanitesHydraulicSerum.label>
+	<ATPP_NanitesHydraulicSerum.description>Eine Einmal-Nanitenbank zur Reparatur beschädigter Hydrauliksysteme bei Androiden (altersbedingt).</ATPP_NanitesHydraulicSerum.description>
+	<ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>Dieses Nanitenserum verwenden, um Altersschäden am Androiden zu beheben</ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>
+	<ATPP_NanitesCPUSerum.label>Nanitenbank (CPU)</ATPP_NanitesCPUSerum.label>
+	<ATPP_NanitesCPUSerum.description>Eine Einmal-Nanitenbank zur Reparatur beschädigter künstlicher Gehirnsysteme bei Androiden (altersbedingt).</ATPP_NanitesCPUSerum.description>
+	<ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>Dieses Nanitenserum verwenden, um Altersschäden am Androiden zu beheben</ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>
+	<ATPP_NanitesCoolingSerum.label>Nanitenbank (Kühlung)</ATPP_NanitesCoolingSerum.label>
+	<ATPP_NanitesCoolingSerum.description>Eine Einmal-Nanitenbank zur Reparatur beschädigter Kühlsysteme bei Androiden im Fall von Überhitzung (altersbedingt).</ATPP_NanitesCoolingSerum.description>
+	<ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>Dieses Nanitenserum verwenden, um Altersschäden am Androiden zu beheben</ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>
+	<ATPP_NanitesFrameSerum.label>Nanitenbank (Grundgerüst)</ATPP_NanitesFrameSerum.label>
+	<ATPP_NanitesFrameSerum.description>Eine Einmal-Nanitenbank zur Reparatur beschädigter Exoskelette bei Androiden (altersbedingt).</ATPP_NanitesFrameSerum.description>
+	<ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>Dieses Nanitenserum verwenden, um Altersschäden am Androiden zu beheben</ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>
+	<ATPP_AndroidNanokitBasic.label>Einfaches Nanokit</ATPP_AndroidNanokitBasic.label>
+	<ATPP_AndroidNanokitBasic.description>Ein Set mit Nanobots zur Behandlung von Schäden an Androiden.</ATPP_AndroidNanokitBasic.description>
+	<ATPP_AndroidNanokitIntermediate.label>Mittleres Nanokit</ATPP_AndroidNanokitIntermediate.label>
+	<ATPP_AndroidNanokitIntermediate.description>Ein Set mit Nanobots zur Behandlung von Schäden an Androiden.</ATPP_AndroidNanokitIntermediate.description>
+	<ATPP_AndroidNanokitAdvanced.label>Hochentwickeltes Nanokit</ATPP_AndroidNanokitAdvanced.label>
+	<ATPP_AndroidNanokitAdvanced.description>Ein Set mit Nanobots zur Behandlung von Schäden an Androiden.</ATPP_AndroidNanokitAdvanced.description>
+	<ATPP_RXChip.label>RX-Neuralchip</ATPP_RXChip.label>
+	<ATPP_RXChip.description>Ein Neuralchip, der als persönliches SkyMind-Relais dient.</ATPP_RXChip.description>
+	<ATPP_VX0Chip.label>VX0-Neuralchip</ATPP_VX0Chip.label>
+	<ATPP_VX0Chip.description>Ein Neuralchip, der seinen Wirt in ein biologisches Surrogat verwandelt.</ATPP_VX0Chip.description>
+	<ATPP_VX1Chip.label>VX1-Neuralchip</ATPP_VX1Chip.label>
+	<ATPP_VX1Chip.description>Ein Neuralchip, der seinem Wirt die Fernsteuerung beliebiger SX-Androiden oder biologischer Surrogate ermöglicht.</ATPP_VX1Chip.description>
+	<ATPP_VX2Chip.label>VX2-Neuralchip</ATPP_VX2Chip.label>
+	<ATPP_VX2Chip.description>Ein Neuralchip, der seinem Wirt die Fernsteuerung beliebiger SX-Androiden oder biologischer Surrogate sowie das Permutieren/Duplizieren seines Bewusstseins ermöglicht.</ATPP_VX2Chip.description>
+	<ATPP_VX3Chip.label>VX3-Neuralchip</ATPP_VX3Chip.label>
+	<ATPP_VX3Chip.description>Ein Neuralchip, der seinem Wirt die gleichzeitige Fernsteuerung mehrerer SX-Androiden oder biologischer Surrogate sowie das Permutieren/Duplizieren seines Bewusstseins ermöglicht.</ATPP_VX3Chip.description>
+	<ATPP_T1ArtificialBrain.label>Künstliches Gehirn T1</ATPP_T1ArtificialBrain.label>
+	<ATPP_T1ArtificialBrain.description>Ein künstliches T1-Gehirn, mit dem ein T1-Surrogat in einen Androiden mit leerem neuronalem Netzwerk verwandelt werden kann.</ATPP_T1ArtificialBrain.description>
+	<ATPP_T2ArtificialBrain.label>Künstliches Gehirn T2</ATPP_T2ArtificialBrain.label>
+	<ATPP_T2ArtificialBrain.description>Ein künstliches T2-Gehirn, mit dem ein T2-Surrogat in einen Androiden mit leerem neuronalem Netzwerk verwandelt werden kann.</ATPP_T2ArtificialBrain.description>
+	<ATPP_T3ArtificialBrain.label>Künstliches Gehirn T3</ATPP_T3ArtificialBrain.label>
+	<ATPP_T3ArtificialBrain.description>Ein künstliches T3-Gehirn, mit dem ein T3-Surrogat in einen Androiden mit leerem neuronalem Netzwerk verwandelt werden kann.</ATPP_T3ArtificialBrain.description>
+	<ATPP_T4ArtificialBrain.label>Künstliches Gehirn T4</ATPP_T4ArtificialBrain.label>
+	<ATPP_T4ArtificialBrain.description>Ein künstliches T4-Gehirn, mit dem ein T4-Surrogat in einen Androiden mit leerem neuronalem Netzwerk verwandelt werden kann.</ATPP_T4ArtificialBrain.description>
+	<ATPP_SyntheticSkinGland.label>synthetische Hautdrüse</ATPP_SyntheticSkinGland.label>
+	<ATPP_SyntheticSkinGland.description>Ein fortschrittliches biosynthetisches Organ, bestehend aus einer ruhenden Epidermismatrix und Nährstoff-Mikrokanälen. Wird es auf ein Kampfchassis der TX-Serie transplantiert oder während der Tankmontage integriert, dehnt es sich aus, verbindet sich mit der subdermalen Hülle und sorgt für menschenähnliche Wärmeisolierung, taktile Sensorik und lebensechte Hauttarnung.</ATPP_SyntheticSkinGland.description>
+	<ATPP_GS_TX2KMale.label>Männliches TX2K-Gerüst</ATPP_GS_TX2KMale.label>
+	<ATPP_GS_TX2KMale.description>Ein inaktives, funktionsfähiges TX2K-Exoskelett, das darauf wartet, in einem Tank aktiviert zu werden, sobald seine Haut gewachsen ist.</ATPP_GS_TX2KMale.description>
+	<ATPP_GS_TX2KFemale.label>Weibliches TX2K-Gerüst</ATPP_GS_TX2KFemale.label>
+	<ATPP_GS_TX2KFemale.description>Ein inaktives, funktionsfähiges TX2K-Exoskelett, das darauf wartet, in einem Tank aktiviert zu werden, sobald seine Haut gewachsen ist.</ATPP_GS_TX2KFemale.description>
+	<ATPP_GS_TX3Male.label>Männliches TX3-Gerüst</ATPP_GS_TX3Male.label>
+	<ATPP_GS_TX3Male.description>Ein inaktives, funktionsfähiges TX3-Exoskelett, das darauf wartet, in einem Tank aktiviert zu werden, sobald seine Haut gewachsen ist.</ATPP_GS_TX3Male.description>
+	<ATPP_GS_TX3Female.label>Weibliches TX3-Gerüst</ATPP_GS_TX3Female.label>
+	<ATPP_GS_TX3Female.description>Ein inaktives, funktionsfähiges TX3-Exoskelett, das darauf wartet, in einem Tank aktiviert zu werden, sobald seine Haut gewachsen ist.</ATPP_GS_TX3Female.description>
+	<ATPP_GS_TX4Male.label>Männliches TX4-Gerüst</ATPP_GS_TX4Male.label>
+	<ATPP_GS_TX4Male.description>Ein inaktives, funktionsfähiges TX4-Exoskelett, das darauf wartet, in einem Tank aktiviert zu werden, sobald seine Haut gewachsen ist.</ATPP_GS_TX4Male.description>
+	<ATPP_GS_TX4Female.label>Weibliches TX4-Gerüst</ATPP_GS_TX4Female.label>
+	<ATPP_GS_TX4Female.description>Ein inaktives, funktionsfähiges TX4-Exoskelett, das darauf wartet, in einem Tank aktiviert zu werden, sobald seine Haut gewachsen ist.</ATPP_GS_TX4Female.description>
+</LanguageData>

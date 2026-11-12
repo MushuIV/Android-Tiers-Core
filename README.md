@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/Atla55/Android-Tiers-Core/releases/">
+	<a href="https://github.com/MushuIV/Android-Tiers-Core/releases/">
 		<img src="https://img.shields.io/badge/release-3.0.0-4BC51D.svg?style=flat" alt="v3.0.0" />
     </a>
 	<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1386412863">
-		<img src="https://img.shields.io/badge/RimWorld-1.3-purple.svg?longCache=true&style=plastic)" alt="Compatible Rimworld 1.3" />
+		<img src="https://img.shields.io/badge/RimWorld-1.7-purple.svg?longCache=true&style=plastic" alt="Compatible RimWorld 1.7" />
     </a>
 	<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1386412863&tscn=1583030222">
 		<img src="https://img.shields.io/badge/documentation-%F0%9F%94%8D-blue?style=flat" />
@@ -17,10 +17,10 @@
 	</a>
 </p>
 <p align="center">
-	<a href="https://ko-fi.com/S6S3CZG9)">
+	<a href="https://ko-fi.com/S6S3CZG9">
 		<img src="https://img.shields.io/badge/Support%20Atlas%20on-Kofi-red.svg?style=flat" alt="Support Atlas on Kofi." />
     </a>
-	<a href="https://ko-fi.com/arandomkiwi)">
+	<a href="https://ko-fi.com/arandomkiwi">
 		<img src="https://img.shields.io/badge/Support%20aRandomKiwi%20on-Kofi-red.svg?style=flat" alt="Support aRandomKiwi on Kofi." />
     </a>
 </p>
@@ -28,15 +28,15 @@
 # Android Tiers
 Android Tiers aims to add several tiers of sentient android colonists, robots, mechs, and advanced technological systems to vastly extend late-game colonies.
 
-See the Change Notes tab in [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/changelog/1386412863) or the [GitHub repository](https://github.com/Atla55/Android-Tiers-Core) for info on the latest updates.
+See the Change Notes tab in [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/changelog/1386412863) or the [GitHub repository](https://github.com/MushuIV/Android-Tiers-Core) for info on the latest updates.
 
 ## Features
 
 * **2 New Android Factions**: Android Insurrection and the Android Collective
-* **70 Android backstories**
+* **Over 120 Android backstories**
 * **5 Tiers of standard android colonists** (T1 through T5)
-* **Integrated TX Series Infiltration Androids** (TX2, TX2K, TX3, TX4 and terror infantry "I" variants)
-* **2 Mechs and 5 Mech Weapons** (M7 Mech assault unit and M8 mobile SkyCloud unit)
+* **Integrated TX Series Infiltration Androids** (TX2, TX2K, TX3, TX4 and terror infantry "I" variants) with a native dermal grafting system
+* **2 Mechs and 5 Heavy/Mech Weapons** (M7 Mech assault unit and M8 mobile SkyCloud unit)
 * **5 Robotic animals** (K-9, M.U.F.F, Phytomining Unit, N.Solution Unit, Chemical Processing Unit)
 * **AI SkyCloud supercomputers**: Digitize, store, transfer, and duplicate colonist consciousnesses
 * **Remote-controlled surrogate androids**: Safely project minds into expendable mechanical frames
@@ -46,6 +46,12 @@ See the Change Notes tab in [Steam Workshop](https://steamcommunity.com/sharedfi
 * **High-end research tree** and robotic production caskets
 * **Custom body layouts & mechanics** (coolant pumps, heat sinks, artificial brains, mechanical organs)
 * **AI Persona fabrication & 4 new incidents**
+* **RimWorld 1.7 & DLC Compatibility**:
+  * **Royalty**: Empire hostility exemptions for android factions and royalty title support
+  * **Ideology**: Precept, conversion, and ritual compatibility patches
+  * **Biotech**: Race-restricted genes/xenotypes, non-reproduction, toxic/pollution immunity, and hemogen-based Synthetic Skin Gland gestation
+  * **Anomaly**: Immunity to Anomaly flesh-parasite (`MetalhorrorImplantation`) and `BloodRage` conditions
+  * **Odyssey**: Full vacuum sealing (`VacuumResistance`) and vacuum/grav-nausea immunity for androids, mechs, and robotic animals
 
 ---
 
@@ -92,16 +98,28 @@ Designed specifically for infiltration, diplomacy, and high-hazard reconnaissanc
 
 These are the same internal mechanical frames as their corresponding infiltration models, but without synthetic skin or living tissues. Refurbished specifically for front-line combat as terror infantry rather than covert operations, their raw, unskinned skeletal appearance inspires dread and strikes fear into enemy forces.
 
+***How do I create or graft skin onto TX Series androids?***
+
+Android Tiers includes a **native dermal grafting system** that works standalone and coexists with both **Biotech** and **Questionable Ethics Enhanced (QEE)**:
+
+1. **Synthesize a Synthetic Skin Gland** (unlocked with `T2 Androids`):
+   * **Base Game**: Craft at a Drug Lab or Fabrication Bench using Cloth/Synthread, Chemfuel, Neutroamine, and Industrial Medicine.
+   * **With Biotech**: Gestate at an Android Production Vat or Fabrication Bench using Hemogen Packs, raw meat/food, and Industrial Medicine (replaces the base workbench recipe).
+   * **With QEE**: Grow inside a QEE Organ Vat (`ATPP_QE_GrowSyntheticSkinGland`, replacing the base workbench recipe).
+2. **Direct Assembly or Surgical Grafting**:
+   * **Production Vat**: Assemble skinned TX androids (`TX2`, `TX2K`, `TX3`, `TX4`) or skinned surrogates directly at the Android Production Vat using a Synthetic Skin Gland.
+   * **Dermal Surgery**: Perform **Graft Synthetic Skin** on an existing unskinned infantry unit (`TX2I`, `TX2KI`, `TX3I`, `TX4I`) to convert it to its skinned infiltrator counterpart, or **Strip Synthetic Skin** to revert a skinned TX unit back to its infantry frame and recover the Synthetic Skin Gland.
+
 ***Is this mod compatible with Questionable Ethics Enhanced (QEE)?***
 
-Yes! When Questionable Ethics Enhanced (QEE) is loaded, TX models with living skin (TX2K, TX3, TX4) can only be created by first manufacturing an inactive mechanical frame at the robotic production casket, then loading that frame into a QEE Cloning/Organ Vat to grow biological tissues over it. This provides a realistic bio-synthetic manufacturing workflow.
+Yes! QEE is an **optional** integration that runs in parallel with native assembly, surgical dermal grafting, and Biotech gestation. When QEE is loaded, you gain Organ Vat cultivation for Synthetic Skin Glands as well as dedicated QEE frame assembly recipes (`assemble TX2K/TX3/TX4 frame (QEE vat)`) to grow living biological tissues over inactive exoskeleton frames inside a QEE Clone Vat.
 
-***How do I put a TX frame into a QEE clone vat?***
+***How do I put a TX frame into a QEE Clone Vat?***
 
-1. Build a TX2K, TX3, or TX4 frame at the robotic production casket.
+1. Build a QEE-encoded TX2K, TX3, or TX4 frame (`assemble TX2K/TX3/TX4 frame (QEE vat)`) at the Android Production Vat.
 2. Select the QEE Clone Vat, click **"Start growing"**, and choose the frame from the float menu list.
-3. **Appearance Customization**: You can customize your TX android's visual appearance (hair style, hair color, and skin tone) directly using the settings on the Clone Vat **BEFORE** clicking "Start growing".
-4. **Developer Mode Note**: If you spawn a TX frame via Dev Mode for testing, spawn an **"Inactivated TX..."** item, rather than directly spawning a "Male/Female TX... frame".
+3. **Appearance Customization**: You can customize your TX android's visual appearance (hair style, hair color, and skin tone) directly using the settings on the Clone Vat **before** clicking "Start growing".
+4. **Developer Mode Note**: If you spawn a QEE TX frame via Dev Mode for testing, spawn an **"Male/Female TX... frame"** genome sequence (`ATPP_GS_TX*`) item rather than directly spawning a finished pawn.
 
 ---
 
@@ -131,6 +149,7 @@ Yes! When Questionable Ethics Enhanced (QEE) is loaded, TX models with living sk
 
 ## Links & Credits
 
+* [RimWorld 1.7 Port Repository (MushuIV)](https://github.com/MushuIV/Android-Tiers-Core)
 * [Original Source Code (Atla55)](https://github.com/Atla55/Android-Tiers-Core)
 * [Steam Workshop Page](https://steamcommunity.com/sharedfiles/filedetails/?id=1386412863)
 * [Android Tiers Tutorial Guide](https://steamcommunity.com/workshop/filedetails/discussion/1386412863/1750150007023602778/)
@@ -140,6 +159,7 @@ Yes! When Questionable Ethics Enhanced (QEE) is loaded, TX models with living sk
 * **Atlas**: Original creator and architect of Android Tiers.
 * **aRandomKiwi**: Lead developer of Android Tiers++ expansion, SkyMind, TX Series integration, and French localization.
 * **CrackaJack**: Creator and artist of all TX Series android models and textures.
+* **MushuIV**: RimWorld 1.7 port, TX Series core integration, native dermal grafting system, and DLC compatibility.
 * **Uplinked**: Author of extensive android colonist backstories.
 * **Trunken**: Creator of workshop artwork, promotional banners, and visual previews.
 

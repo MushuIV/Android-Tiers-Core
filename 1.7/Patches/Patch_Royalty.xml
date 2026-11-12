@@ -11,6 +11,7 @@
         <li>PlayerColonyAndroid</li>
         <li>AndroidFriendliesAtlas</li>
         <li>AndroidTiers_PlayerColonyApocalypse</li>
+        <li>AndroidTiers_PlayerColonyROM</li>
       </value>
     </match>
   </Operation>

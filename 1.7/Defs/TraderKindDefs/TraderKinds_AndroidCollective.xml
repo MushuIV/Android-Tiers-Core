@@ -249,7 +249,7 @@
 					<max>4000</max>
 				</totalPriceRange>
 			</li>
-      <li Class="MOARANDROIDs.StockGenerator_SlaveAndroids">
+      <li Class="MOARANDROIDS.StockGenerator_SlaveAndroids">
         <respectPopulationIntent>false</respectPopulationIntent>
 		<randomisePawnKind>true</randomisePawnKind>
         <countRange>
@@ -257,7 +257,7 @@
           <max>2</max>
         </countRange>
       </li>
-      <li Class="MOARANDROIDs.StockGenerator_SlaveAndroids">
+      <li Class="MOARANDROIDS.StockGenerator_SlaveAndroids">
         <respectPopulationIntent>false</respectPopulationIntent>
 		<randomisePawnKind>true</randomisePawnKind>
         <countRange>
@@ -545,7 +545,7 @@
 					<max>5200</max>
         </countRange>
       </li>
-      <li Class="MOARANDROIDs.StockGenerator_SlaveAndroids">
+      <li Class="MOARANDROIDS.StockGenerator_SlaveAndroids">
         <respectPopulationIntent>false</respectPopulationIntent>
 		<randomisePawnKind>true</randomisePawnKind>
         <countRange>
@@ -553,7 +553,7 @@
           <max>2</max>
         </countRange>
       </li>
-      <li Class="MOARANDROIDs.StockGenerator_SlaveAndroids">
+      <li Class="MOARANDROIDS.StockGenerator_SlaveAndroids">
         <respectPopulationIntent>false</respectPopulationIntent>
 		<randomisePawnKind>false</randomisePawnKind>
 		<pawnKind>AndroidT1ColonistGeneral</pawnKind>

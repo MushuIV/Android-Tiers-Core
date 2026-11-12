@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Atlas_FactionChange>{0} a été reprogrammé avec succès. Il fait désormais partie de la colonie.</Atlas_FactionChange>
+	<LetterLabelAtlas_FactionChange>Nouveau colon</LetterLabelAtlas_FactionChange>
+	<Atlas_LossOfSelfWill>Le libre arbitre de {0} a été étouffé. Il est désormais incapable de penser librement ou d'éprouver des émotions, et n'interagira plus aussi fréquemment avec les autres colons. De plus, il a perdu tous ses traits au cours du processus, devenant une simple machine obéissante.</Atlas_LossOfSelfWill>
+	<LetterLabelAtlas_LossOfSelfWill>Libre arbitre de l'androïde</LetterLabelAtlas_LossOfSelfWill>
+	<Atlas_Mutation>{0} a muté en fractale ! Une abomination de chair torturée causée par la pilule fractale !</Atlas_Mutation>
+	<LetterLabelAtlas_Mutation>Mutation de colon</LetterLabelAtlas_Mutation>
+	<Atlas_TraitReroll>La personnalité de {0} a été modifiée et ses traits ont été relancés.</Atlas_TraitReroll>
+	<LetterLabelAtlas_TraitReroll>Changement de personnalité d'androïde</LetterLabelAtlas_TraitReroll>
+</LanguageData>

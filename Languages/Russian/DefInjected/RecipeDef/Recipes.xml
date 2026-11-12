@@ -1,92 +1,320 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
+
   <ATPP_DisassembleAndroid.label>Разобрать тело мертвого андроида</ATPP_DisassembleAndroid.label>
   <ATPP_DisassembleAndroid.description>Разобрать мертвого андроида на составные части.</ATPP_DisassembleAndroid.description>
   <ATPP_DisassembleAndroid.jobString>Разборка андроида.</ATPP_DisassembleAndroid.jobString>
-  
   <ATPP_Make_NanitesHydraulicSerum.label>сделать нанитный слот (гидравлический)</ATPP_Make_NanitesHydraulicSerum.label>
   <ATPP_Make_NanitesHydraulicSerum.description>Сделать андроид гидравлическую нанитную сыворотку, позволяющую восстановить ваши андроиды (связанные со старостью).</ATPP_Make_NanitesHydraulicSerum.description>
   <ATPP_Make_NanitesHydraulicSerum.jobString>Создание андроид нанит сыворотки</ATPP_Make_NanitesHydraulicSerum.jobString>
-  
   <ATPP_Make_NanitesCPUSerum.label>сделать нанитный слот(CPU)</ATPP_Make_NanitesCPUSerum.label>
   <ATPP_Make_NanitesCPUSerum.description>Сделайте андройд CPU нанитный слот, позволяющий восстанавливать CPU ваших андроидов (связанный с возрастом).</ATPP_Make_NanitesCPUSerum.description>
   <ATPP_Make_NanitesCPUSerum.jobString>Создание андроид нанит сыворотки</ATPP_Make_NanitesCPUSerum.jobString>
-  
   <ATPP_Make_NanitesCoolingSerum.label>сделать нанитный слот (охлаждение)</ATPP_Make_NanitesCoolingSerum.label>
   <ATPP_Make_NanitesCoolingSerum.description>Сделать андроид охлаждающую нанитную сыворотку, позволяющую восстановить систему охлаждения ваших андроидов (связана со старостью).</ATPP_Make_NanitesCoolingSerum.description>
   <ATPP_Make_NanitesCoolingSerum.jobString>Создание андроид нанит сыворотки</ATPP_Make_NanitesCoolingSerum.jobString>
-  
   <ATPP_Make_NanitesFrameSerum.label>сделать нанитовый слот (каркас)</ATPP_Make_NanitesFrameSerum.label>
   <ATPP_Make_NanitesFrameSerum.description>Сделать андроид каркас из нанитной сыворотки, позволяющей восстановить экзоскелет вашего андроида (связанный со старостью).</ATPP_Make_NanitesFrameSerum.description>
   <ATPP_Make_NanitesFrameSerum.jobString>Создание андроид нанит сыворотки</ATPP_Make_NanitesFrameSerum.jobString>
-  
+  <ATPP_Make_RXChip.label>Создать нейрочип RX</ATPP_Make_RXChip.label>
+  <ATPP_Make_RXChip.description>Нейрочип, действующий как персональный ретранслятор SkyMind.</ATPP_Make_RXChip.description>
+  <ATPP_Make_RXChip.jobString>Создание нейрочипа RX.</ATPP_Make_RXChip.jobString>
   <ATPP_Make_VX0Chip.label>сделать нейрочип VX0</ATPP_Make_VX0Chip.label>
   <ATPP_Make_VX0Chip.description>Сделать чип VX0, нейронный чип, который превращает его хозяина в биологический суррогат.</ATPP_Make_VX0Chip.description>
   <ATPP_Make_VX0Chip.jobString>Создание нейрочипа VX0.</ATPP_Make_VX0Chip.jobString>
-  
   <ATPP_Make_VX1Chip.label>сделать нейрочип VX1</ATPP_Make_VX1Chip.label>
   <ATPP_Make_VX1Chip.description>Сделать чип VX1, позволяющий хозяйну удаленно управлять любой суррогатной андроидной серией.</ATPP_Make_VX1Chip.description>
   <ATPP_Make_VX1Chip.jobString>Создание нейрочипа VX1.</ATPP_Make_VX1Chip.jobString>
-  
   <ATPP_Make_VX2Chip.label>создание нейрочипа VX2</ATPP_Make_VX2Chip.label>
   <ATPP_Make_VX2Chip.description>Сделать чип VX2, позволяющий хозяйну дистанционно управлять любой суррогатной андроидной серией и продублировать / переставить разум.</ATPP_Make_VX2Chip.description>
   <ATPP_Make_VX2Chip.jobString>Создание нейрочипа VX2.</ATPP_Make_VX2Chip.jobString>
-  
   <ATPP_Make_VX3Chip.label>создание нейрочипа VX3</ATPP_Make_VX3Chip.label>
   <ATPP_Make_VX3Chip.description>Сделать чип VX3, позволяющий хозяину удаленно управлять несколькими андроидами серии SX или биологическими суррогатами одновременно и дублировать / переставлять их разум.</ATPP_Make_VX3Chip.description>
   <ATPP_Make_VX3Chip.jobString>Создание нейрочипа VX3.</ATPP_Make_VX3Chip.jobString>
-  
   <ATPP_InstallVX2Chip.label>установка нейрочипа VX2</ATPP_InstallVX2Chip.label>
   <ATPP_InstallVX2Chip.description>Установите нейрочип VX2, позволяющий хозяйну удаленно управлять суррогатными андроидами и продублировать их.</ATPP_InstallVX2Chip.description>
   <ATPP_InstallVX2Chip.jobString>Установка нейрочипа VX2.</ATPP_InstallVX2Chip.jobString>
-  
   <ATPP_InstallVX2ChipOnAndroid.label>установка нейрочипа VX2</ATPP_InstallVX2ChipOnAndroid.label>
   <ATPP_InstallVX2ChipOnAndroid.description>Установите нейронный чип VX2, позволяющий хозяйну удаленно управлять суррогатными андроидами и продублировать их.</ATPP_InstallVX2ChipOnAndroid.description>
   <ATPP_InstallVX2ChipOnAndroid.jobString>Установка нейрочипа VX2.</ATPP_InstallVX2ChipOnAndroid.jobString>
-  
   <ATPP_InstallVX3Chip.label>установка нейрочипа VX3</ATPP_InstallVX3Chip.label>
   <ATPP_InstallVX3Chip.description>Установите нейрочип VX3, позволяющий хозяину удаленно управлять несколькими андроидами или биологическими суррогатами серии SX одновременно и дублировать / переставлять их разум.</ATPP_InstallVX3Chip.description>
   <ATPP_InstallVX3Chip.jobString>Установка нейрочипа VX3.</ATPP_InstallVX3Chip.jobString>
-  
   <ATPP_InstallVX3ChipOnAndroid.label>установка нейрочипа VX3</ATPP_InstallVX3ChipOnAndroid.label>
   <ATPP_InstallVX3ChipOnAndroid.description>Установите нейронный чип VX3, позволяющий хозяину удаленно управлять несколькими андроидами или биологическими суррогатами серии SX одновременно и дублировать / переставлять их разум.</ATPP_InstallVX3ChipOnAndroid.description>
   <ATPP_InstallVX3ChipOnAndroid.jobString>Установка нейрочипа VX3.</ATPP_InstallVX3ChipOnAndroid.jobString>
-  
+  <ATPP_InstallRXChip.label>Установить нейрочип RX</ATPP_InstallRXChip.label>
+  <ATPP_InstallRXChip.description>Установить нейрочип RX — чип, действующий как персональный ретранслятор SkyMind для носителя.</ATPP_InstallRXChip.description>
+  <ATPP_InstallRXChip.jobString>Установка нейрочипа RX.</ATPP_InstallRXChip.jobString>
+  <ATPP_InstallRXChipOnAndroid.label>Установить нейрочип RX</ATPP_InstallRXChipOnAndroid.label>
+  <ATPP_InstallRXChipOnAndroid.description>Установить нейрочип RX — чип, действующий как персональный ретранслятор SkyMind для носителя.</ATPP_InstallRXChipOnAndroid.description>
+  <ATPP_InstallRXChipOnAndroid.jobString>Установка нейрочипа RX.</ATPP_InstallRXChipOnAndroid.jobString>
+  <ATPP_InstallVX0ChipOnAndroid.label>Установить нейрочип VX0 (для андроида)</ATPP_InstallVX0ChipOnAndroid.label>
+  <ATPP_InstallVX0ChipOnAndroid.description>Установить андроиду нейрочип VX0 — чип, превращающий носителя в биологический суррогат.</ATPP_InstallVX0ChipOnAndroid.description>
+  <ATPP_InstallVX0ChipOnAndroid.jobString>Установка нейрочипа VX0 андроиду.</ATPP_InstallVX0ChipOnAndroid.jobString>
   <ATPP_InstallVX0Chip.label>установка нейрочипа VX0</ATPP_InstallVX0Chip.label>
   <ATPP_InstallVX0Chip.description>Установите нейрочип VX0, нейронный чип, который превращает его хозяина в биологический суррогат.</ATPP_InstallVX0Chip.description>
   <ATPP_InstallVX0Chip.jobString>Установка нейрочипа VX0.</ATPP_InstallVX0Chip.jobString>
-  
   <ATPP_InstallVX1Chip.label>установка нейрочипа VX1</ATPP_InstallVX1Chip.label>
   <ATPP_InstallVX1Chip.description>Установите нейрочип VX1, позволяющий хозяйну удаленно управлять серией суррогатных андроидов.</ATPP_InstallVX1Chip.description>
   <ATPP_InstallVX1Chip.jobString>Установка нейрочипа VX1.</ATPP_InstallVX1Chip.jobString>
-  
   <ATPP_InstallVX1ChipOnAndroid.label>установка нейрочипа VX1</ATPP_InstallVX1ChipOnAndroid.label>
   <ATPP_InstallVX1ChipOnAndroid.description>Установите нейрочип VX1, позволяющий хозяйну удаленно управлять серией суррогатных андроидов.</ATPP_InstallVX1ChipOnAndroid.description>
   <ATPP_InstallVX1ChipOnAndroid.jobString>Установка нейрочипа VX1.</ATPP_InstallVX1ChipOnAndroid.jobString>
-  
   <ATPP_CreateS1.label>Создать T1 суррогатного андройда (S1)</ATPP_CreateS1.label>
   <ATPP_CreateS1.description>Создать пустой S1 суррогат андройд из пластили и компонентов.</ATPP_CreateS1.description>
   <ATPP_CreateS1.jobString>Создание суррогатного андройда S1</ATPP_CreateS1.jobString>
-  
   <ATPP_CreateS2.label>Создать T2 суррогатного андройда (S2)</ATPP_CreateS2.label>
   <ATPP_CreateS2.description>Создать пустой S2 суррогат андройд из пластили и компонентов.</ATPP_CreateS2.description>
   <ATPP_CreateS2.jobString>Создание суррогатного андройда S2</ATPP_CreateS2.jobString>
-  
   <ATPP_CreateS3.label>Создать T3 суррогатного андройда (S3)</ATPP_CreateS3.label>
   <ATPP_CreateS3.description>Создать пустой S3 суррогат андройд из пластили и компонентов.</ATPP_CreateS3.description>
   <ATPP_CreateS3.jobString>Создание суррогатного андройда S4</ATPP_CreateS3.jobString>
-
   <ATPP_CreateS4.label>Создать T4 суррогатного андройда (S4)</ATPP_CreateS4.label>
   <ATPP_CreateS4.description>Создать пустой S4 суррогат андройд из пластили и компонентов.</ATPP_CreateS4.description>
-  <ATPP_CreateS4.jobString>Создание суррогатного андройда S4</ATPP_CreateS4.jobString>  
-  
+  <ATPP_CreateS4.jobString>Создание суррогатного андройда S4</ATPP_CreateS4.jobString>
   <ATPP_CreateHellDrone.label>Создать HellUnit суррогатного андройда (S-HU)</ATPP_CreateHellDrone.label>
   <ATPP_CreateHellDrone.description>Создать пустой S-HU андройд из пластили и компонентов.</ATPP_CreateHellDrone.description>
-  <ATPP_CreateHellDrone.jobString>Создание S-HU андройда.</ATPP_CreateHellDrone.jobString>  
-  
+  <ATPP_CreateHellDrone.jobString>Создание S-HU андройда.</ATPP_CreateHellDrone.jobString>
   <ATPP_CreateM7.label>Создать M7 суррогатного механоида (SM7)</ATPP_CreateM7.label>
   <ATPP_CreateM7.description>Создать пустой SM7 механоид из пластили и компонентов.</ATPP_CreateM7.description>
-  <ATPP_CreateM7.jobString>Создание SM7 механоида.</ATPP_CreateM7.jobString>  
-  
+  <ATPP_CreateM7.jobString>Создание SM7 механоида.</ATPP_CreateM7.jobString>
+  <ATPP_CreateBlankT3.label>Создать андроида T3 с чистой нейросетью</ATPP_CreateBlankT3.label>
+  <ATPP_CreateBlankT3.description>Создать андроида T3 с чистой нейросетью</ATPP_CreateBlankT3.description>
+  <ATPP_CreateBlankT3.jobString>Создание андроида T3 с чистой нейросетью.</ATPP_CreateBlankT3.jobString>
+  <ATPP_CreateBlankT4.label>Создать андроида T4 с чистой нейросетью</ATPP_CreateBlankT4.label>
+  <ATPP_CreateBlankT4.description>Создать андроида T4 с чистой нейросетью</ATPP_CreateBlankT4.description>
+  <ATPP_CreateBlankT4.jobString>Создание андроида T4 с чистой нейросетью.</ATPP_CreateBlankT4.jobString>
+  <ATPP_Make_SM7Mech40MMCannon.label>Создать 40-мм пушку (оружие SM7)</ATPP_Make_SM7Mech40MMCannon.label>
+  <ATPP_Make_SM7Mech40MMCannon.description>Создать 40-мм пушку (оружие SM7)</ATPP_Make_SM7Mech40MMCannon.description>
+  <ATPP_Make_SM7Mech40MMCannon.jobString>Создать 40-мм пушку (оружие SM7)</ATPP_Make_SM7Mech40MMCannon.jobString>
+  <ATPP_Make_SM7MechMastiffGun.label>Создать дробовик «Мастифф» (оружие SM7)</ATPP_Make_SM7MechMastiffGun.label>
+  <ATPP_Make_SM7MechMastiffGun.description>Создать дробовик «Мастифф» (оружие SM7)</ATPP_Make_SM7MechMastiffGun.description>
+  <ATPP_Make_SM7MechMastiffGun.jobString>Создать дробовик «Мастифф» (оружие SM7)</ATPP_Make_SM7MechMastiffGun.jobString>
+  <ATPP_Make_SM7MechHandCannon.label>Создать револьвер X-5 (оружие SM7)</ATPP_Make_SM7MechHandCannon.label>
+  <ATPP_Make_SM7MechHandCannon.description>Создать револьвер X-5 (оружие SM7)</ATPP_Make_SM7MechHandCannon.description>
+  <ATPP_Make_SM7MechHandCannon.jobString>Создать револьвер X-5 (оружие SM7)</ATPP_Make_SM7MechHandCannon.jobString>
+  <ATPP_PaintAndroidFrameworkKhaki.label>Покрасить каркас андроида в цвет хаки</ATPP_PaintAndroidFrameworkKhaki.label>
+  <ATPP_PaintAndroidFrameworkKhaki.description>Покрасить каркас андроида в цвет хаки</ATPP_PaintAndroidFrameworkKhaki.description>
+  <ATPP_PaintAndroidFrameworkKhaki.jobString>Покраска каркаса андроида в цвет хаки.</ATPP_PaintAndroidFrameworkKhaki.jobString>
+  <ATPP_PaintAndroidFrameworkGreen.label>Покрасить каркас андроида в зелёный цвет</ATPP_PaintAndroidFrameworkGreen.label>
+  <ATPP_PaintAndroidFrameworkGreen.description>Покрасить каркас андроида в зелёный цвет</ATPP_PaintAndroidFrameworkGreen.description>
+  <ATPP_PaintAndroidFrameworkGreen.jobString>Покраска каркаса андроида в зелёный цвет.</ATPP_PaintAndroidFrameworkGreen.jobString>
+  <ATPP_PaintAndroidFrameworkBlue.label>Покрасить каркас андроида в синий цвет</ATPP_PaintAndroidFrameworkBlue.label>
+  <ATPP_PaintAndroidFrameworkBlue.description>Покрасить каркас андроида в синий цвет</ATPP_PaintAndroidFrameworkBlue.description>
+  <ATPP_PaintAndroidFrameworkBlue.jobString>Покраска каркаса андроида в синий цвет.</ATPP_PaintAndroidFrameworkBlue.jobString>
+  <ATPP_PaintAndroidFrameworkRed.label>Покрасить каркас андроида в красный цвет</ATPP_PaintAndroidFrameworkRed.label>
+  <ATPP_PaintAndroidFrameworkRed.description>Покрасить каркас андроида в красный цвет</ATPP_PaintAndroidFrameworkRed.description>
+  <ATPP_PaintAndroidFrameworkRed.jobString>Покраска каркаса андроида в красный цвет.</ATPP_PaintAndroidFrameworkRed.jobString>
+  <ATPP_PaintAndroidFrameworkYellow.label>Покрасить каркас андроида в жёлтый цвет</ATPP_PaintAndroidFrameworkYellow.label>
+  <ATPP_PaintAndroidFrameworkYellow.description>Покрасить каркас андроида в жёлтый цвет</ATPP_PaintAndroidFrameworkYellow.description>
+  <ATPP_PaintAndroidFrameworkYellow.jobString>Покраска каркаса андроида в жёлтый цвет.</ATPP_PaintAndroidFrameworkYellow.jobString>
+  <ATPP_PaintAndroidFrameworkOrange.label>Покрасить каркас андроида в оранжевый цвет</ATPP_PaintAndroidFrameworkOrange.label>
+  <ATPP_PaintAndroidFrameworkOrange.description>Покрасить каркас андроида в оранжевый цвет</ATPP_PaintAndroidFrameworkOrange.description>
+  <ATPP_PaintAndroidFrameworkOrange.jobString>Покраска каркаса андроида в оранжевый цвет.</ATPP_PaintAndroidFrameworkOrange.jobString>
+  <ATPP_PaintAndroidFrameworkBlack.label>Покрасить каркас андроида в чёрный цвет</ATPP_PaintAndroidFrameworkBlack.label>
+  <ATPP_PaintAndroidFrameworkBlack.description>Покрасить каркас андроида в чёрный цвет</ATPP_PaintAndroidFrameworkBlack.description>
+  <ATPP_PaintAndroidFrameworkBlack.jobString>Покраска каркаса андроида в чёрный цвет.</ATPP_PaintAndroidFrameworkBlack.jobString>
+  <ATPP_PaintAndroidFrameworkWhite.label>Покрасить каркас андроида в белый цвет</ATPP_PaintAndroidFrameworkWhite.label>
+  <ATPP_PaintAndroidFrameworkWhite.description>Покрасить каркас андроида в белый цвет</ATPP_PaintAndroidFrameworkWhite.description>
+  <ATPP_PaintAndroidFrameworkWhite.jobString>Покраска каркаса андроида в белый цвет.</ATPP_PaintAndroidFrameworkWhite.jobString>
+  <ATPP_PaintAndroidFrameworkGray.label>Покрасить каркас андроида в серый цвет</ATPP_PaintAndroidFrameworkGray.label>
+  <ATPP_PaintAndroidFrameworkGray.description>Покрасить каркас андроида в серый цвет</ATPP_PaintAndroidFrameworkGray.description>
+  <ATPP_PaintAndroidFrameworkGray.jobString>Покраска каркаса андроида в серый цвет.</ATPP_PaintAndroidFrameworkGray.jobString>
+  <ATPP_PaintAndroidFrameworkPurple.label>Покрасить каркас андроида в фиолетовый цвет</ATPP_PaintAndroidFrameworkPurple.label>
+  <ATPP_PaintAndroidFrameworkPurple.description>Покрасить каркас андроида в фиолетовый цвет</ATPP_PaintAndroidFrameworkPurple.description>
+  <ATPP_PaintAndroidFrameworkPurple.jobString>Покраска каркаса андроида в фиолетовый цвет.</ATPP_PaintAndroidFrameworkPurple.jobString>
+  <ATPP_PaintAndroidFrameworkPink.label>Покрасить каркас андроида в розовый цвет</ATPP_PaintAndroidFrameworkPink.label>
+  <ATPP_PaintAndroidFrameworkPink.description>Покрасить каркас андроида в розовый цвет</ATPP_PaintAndroidFrameworkPink.description>
+  <ATPP_PaintAndroidFrameworkPink.jobString>Покраска каркаса андроида в розовый цвет.</ATPP_PaintAndroidFrameworkPink.jobString>
+  <ATPP_PaintAndroidFrameworkCyan.label>Покрасить каркас андроида в бирюзовый цвет</ATPP_PaintAndroidFrameworkCyan.label>
+  <ATPP_PaintAndroidFrameworkCyan.description>Покрасить каркас андроида в бирюзовый цвет</ATPP_PaintAndroidFrameworkCyan.description>
+  <ATPP_PaintAndroidFrameworkCyan.jobString>Покраска каркаса андроида в бирюзовый цвет.</ATPP_PaintAndroidFrameworkCyan.jobString>
+  <ATPP_PaintAndroidFrameworkDefault.label>Покрасить каркас андроида в стандартный цвет</ATPP_PaintAndroidFrameworkDefault.label>
+  <ATPP_PaintAndroidFrameworkDefault.description>Покрасить каркас андроида в стандартный цвет</ATPP_PaintAndroidFrameworkDefault.description>
+  <ATPP_PaintAndroidFrameworkDefault.jobString>Покраска каркаса андроида в стандартный цвет.</ATPP_PaintAndroidFrameworkDefault.jobString>
+  <ATPP_ApplyHydraulicNaniteBank.label>Ввести банк нанитов (гидравлика)</ATPP_ApplyHydraulicNaniteBank.label>
+  <ATPP_ApplyHydraulicNaniteBank.description>Ввести одноразовую дозу нанитов, настроенных на ремонт неисправных гидравлических систем андроидов.</ATPP_ApplyHydraulicNaniteBank.description>
+  <ATPP_ApplyHydraulicNaniteBank.jobString>Устранение возрастных неисправностей андроида нанитной сывороткой.</ATPP_ApplyHydraulicNaniteBank.jobString>
+  <ATPP_ApplyHealFrameworkSystem.label>Ввести банк нанитов (каркас)</ATPP_ApplyHealFrameworkSystem.label>
+  <ATPP_ApplyHealFrameworkSystem.description>Ввести одноразовый банк нанитов, настроенных на ремонт неисправного экзоскелета андроидов.</ATPP_ApplyHealFrameworkSystem.description>
+  <ATPP_ApplyHealFrameworkSystem.jobString>Устранение возрастных неисправностей андроида нанитной сывороткой.</ATPP_ApplyHealFrameworkSystem.jobString>
+  <ATPP_ApplyHealCoolingSystem.label>Ввести банк нанитов (охлаждение)</ATPP_ApplyHealCoolingSystem.label>
+  <ATPP_ApplyHealCoolingSystem.description>Ввести одноразовый банк нанитов, настроенных на ремонт неисправной системы охлаждения андроидов при перегреве.</ATPP_ApplyHealCoolingSystem.description>
+  <ATPP_ApplyHealCoolingSystem.jobString>Устранение возрастных неисправностей андроида нанитной сывороткой.</ATPP_ApplyHealCoolingSystem.jobString>
+  <ATPP_ApplyHealCPUSerum.label>Ввести банк нанитов (CPU)</ATPP_ApplyHealCPUSerum.label>
+  <ATPP_ApplyHealCPUSerum.description>Ввести одноразовый банк нанитов, настроенных на ремонт неисправного искусственного мозга андроидов.</ATPP_ApplyHealCPUSerum.description>
+  <ATPP_ApplyHealCPUSerum.jobString>Устранение возрастных неисправностей андроида нанитной сывороткой.</ATPP_ApplyHealCPUSerum.jobString>
+  <ATPP_Make_T1ArtificialBrain.label>Создать искусственный мозг T1</ATPP_Make_T1ArtificialBrain.label>
+  <ATPP_Make_T1ArtificialBrain.description>Создать искусственный мозг T1 для преобразования суррогата в андроида с чистой нейросетью.</ATPP_Make_T1ArtificialBrain.description>
+  <ATPP_Make_T1ArtificialBrain.jobString>Создание искусственного мозга T1.</ATPP_Make_T1ArtificialBrain.jobString>
+  <ATPP_Make_T2ArtificialBrain.label>Создать искусственный мозг T2</ATPP_Make_T2ArtificialBrain.label>
+  <ATPP_Make_T2ArtificialBrain.description>Создать искусственный мозг T2 для преобразования суррогата в андроида с чистой нейросетью.</ATPP_Make_T2ArtificialBrain.description>
+  <ATPP_Make_T2ArtificialBrain.jobString>Создание искусственного мозга T2.</ATPP_Make_T2ArtificialBrain.jobString>
+  <ATPP_Make_T3ArtificialBrain.label>Создать искусственный мозг T3</ATPP_Make_T3ArtificialBrain.label>
+  <ATPP_Make_T3ArtificialBrain.description>Создать искусственный мозг T3 для преобразования суррогата в андроида с чистой нейросетью.</ATPP_Make_T3ArtificialBrain.description>
+  <ATPP_Make_T3ArtificialBrain.jobString>Создание искусственного мозга T3.</ATPP_Make_T3ArtificialBrain.jobString>
+  <ATPP_Make_T4ArtificialBrain.label>Создать искусственный мозг T4</ATPP_Make_T4ArtificialBrain.label>
+  <ATPP_Make_T4ArtificialBrain.description>Создать искусственный мозг T4 для преобразования суррогата в андроида с чистой нейросетью.</ATPP_Make_T4ArtificialBrain.description>
+  <ATPP_Make_T4ArtificialBrain.jobString>Создание искусственного мозга T4.</ATPP_Make_T4ArtificialBrain.jobString>
+  <ATPP_InstallT1ArtificialBrain.label>Установить искусственный мозг T1</ATPP_InstallT1ArtificialBrain.label>
+  <ATPP_InstallT1ArtificialBrain.description>Установить искусственный мозг T1, позволяющий превратить суррогата T1 в андроида с чистой нейросетью.</ATPP_InstallT1ArtificialBrain.description>
+  <ATPP_InstallT1ArtificialBrain.jobString>Установка искусственного мозга T1.</ATPP_InstallT1ArtificialBrain.jobString>
+  <ATPP_InstallT2ArtificialBrain.label>Установить искусственный мозг T2</ATPP_InstallT2ArtificialBrain.label>
+  <ATPP_InstallT2ArtificialBrain.description>Установить искусственный мозг T2, позволяющий превратить суррогата T2 в андроида с чистой нейросетью.</ATPP_InstallT2ArtificialBrain.description>
+  <ATPP_InstallT2ArtificialBrain.jobString>Установка искусственного мозга T2.</ATPP_InstallT2ArtificialBrain.jobString>
+  <ATPP_InstallT3ArtificialBrain.label>Установить искусственный мозг T3</ATPP_InstallT3ArtificialBrain.label>
+  <ATPP_InstallT3ArtificialBrain.description>Установить искусственный мозг T3, позволяющий превратить суррогата T3 в андроида с чистой нейросетью.</ATPP_InstallT3ArtificialBrain.description>
+  <ATPP_InstallT3ArtificialBrain.jobString>Установка искусственного мозга T3.</ATPP_InstallT3ArtificialBrain.jobString>
+  <ATPP_InstallT4ArtificialBrain.label>Установить искусственный мозг T4</ATPP_InstallT4ArtificialBrain.label>
+  <ATPP_InstallT4ArtificialBrain.description>Установить искусственный мозг T4, позволяющий превратить суррогата T4 в андроида с чистой нейросетью.</ATPP_InstallT4ArtificialBrain.description>
+  <ATPP_InstallT4ArtificialBrain.jobString>Установка искусственного мозга T4.</ATPP_InstallT4ArtificialBrain.jobString>
+  <ATPP_CreateSX2.label>Создать мужского суррогата TX2 (SX2)</ATPP_CreateSX2.label>
+  <ATPP_CreateSX2.description>Создать пустого мужского андроида SX2 из пластали и компонентов.</ATPP_CreateSX2.description>
+  <ATPP_CreateSX2.jobString>Создание андроида SX2.</ATPP_CreateSX2.jobString>
+  <ATPP_CreateSX2Female.label>Создать женского суррогата TX2 (SX2)</ATPP_CreateSX2Female.label>
+  <ATPP_CreateSX2Female.description>Создать пустого женского андроида SX2 из пластали и компонентов.</ATPP_CreateSX2Female.description>
+  <ATPP_CreateSX2Female.jobString>Создание андроида SX2.</ATPP_CreateSX2Female.jobString>
+  <ATPP_CreateSX3.label>Создать мужского суррогата TX3 (SX3)</ATPP_CreateSX3.label>
+  <ATPP_CreateSX3.description>Создать пустого мужского андроида SX3 из пластали и компонентов.</ATPP_CreateSX3.description>
+  <ATPP_CreateSX3.jobString>Создание андроида SX3.</ATPP_CreateSX3.jobString>
+  <ATPP_CreateSX3Female.label>Создать женского суррогата TX3 (SX3)</ATPP_CreateSX3Female.label>
+  <ATPP_CreateSX3Female.description>Создать пустого женского андроида SX3 из пластали и компонентов.</ATPP_CreateSX3Female.description>
+  <ATPP_CreateSX3Female.jobString>Создание андроида SX3.</ATPP_CreateSX3Female.jobString>
+  <ATPP_CreateSX4.label>Создать суррогата TX4 (SX4)</ATPP_CreateSX4.label>
+  <ATPP_CreateSX4.description>Создать пустого андроида SX4 из пластали и компонентов.</ATPP_CreateSX4.description>
+  <ATPP_CreateSX4.jobString>Создание андроида SX4.</ATPP_CreateSX4.jobString>
+  <ATPP_CreateSX4Female.label>Создать женского суррогата TX4 (SX4)</ATPP_CreateSX4Female.label>
+  <ATPP_CreateSX4Female.description>Создать пустого женского андроида SX4 из пластали и компонентов.</ATPP_CreateSX4Female.description>
+  <ATPP_CreateSX4Female.jobString>Создание андроида SX4.</ATPP_CreateSX4Female.jobString>
+  <ATPP_CreateSX2I.label>Создать мужского суррогата TX2I (SX2I)</ATPP_CreateSX2I.label>
+  <ATPP_CreateSX2I.description>Создать пустого мужского андроида SX2I из пластали и компонентов.</ATPP_CreateSX2I.description>
+  <ATPP_CreateSX2I.jobString>Создание андроида SX2I.</ATPP_CreateSX2I.jobString>
+  <ATPP_CreateSX2IFemale.label>Создать женского суррогата TX2I (SX2I)</ATPP_CreateSX2IFemale.label>
+  <ATPP_CreateSX2IFemale.description>Создать пустого женского андроида SX2I из пластали и компонентов.</ATPP_CreateSX2IFemale.description>
+  <ATPP_CreateSX2IFemale.jobString>Создание андроида SX2I.</ATPP_CreateSX2IFemale.jobString>
+  <ATPP_CreateSX2K.label>Создать мужского суррогата TX2K (SX2K)</ATPP_CreateSX2K.label>
+  <ATPP_CreateSX2K.description>Создать пустого мужского андроида SX2K из пластали и компонентов.</ATPP_CreateSX2K.description>
+  <ATPP_CreateSX2K.jobString>Создание андроида SX2K.</ATPP_CreateSX2K.jobString>
+  <ATPP_CreateSX2KFemale.label>Создать женского суррогата TX2K (SX2K)</ATPP_CreateSX2KFemale.label>
+  <ATPP_CreateSX2KFemale.description>Создать пустого женского андроида SX2K из пластали и компонентов.</ATPP_CreateSX2KFemale.description>
+  <ATPP_CreateSX2KFemale.jobString>Создание андроида SX2K.</ATPP_CreateSX2KFemale.jobString>
+  <ATPP_CreateSX2KI.label>Создать суррогата TX2KI (SX2KI)</ATPP_CreateSX2KI.label>
+  <ATPP_CreateSX2KI.description>Создать пустого андроида SX2KI из пластали и компонентов.</ATPP_CreateSX2KI.description>
+  <ATPP_CreateSX2KI.jobString>Создание андроида SX2KI.</ATPP_CreateSX2KI.jobString>
+  <ATPP_CreateSX2KIFemale.label>Создать женского суррогата TX2KI (SX2KI)</ATPP_CreateSX2KIFemale.label>
+  <ATPP_CreateSX2KIFemale.description>Создать пустого женского андроида SX2KI из пластали и компонентов.</ATPP_CreateSX2KIFemale.description>
+  <ATPP_CreateSX2KIFemale.jobString>Создание женского андроида SX2KI.</ATPP_CreateSX2KIFemale.jobString>
+  <ATPP_CreateSX3I.label>Создать мужского суррогата TX3I (SX3I)</ATPP_CreateSX3I.label>
+  <ATPP_CreateSX3I.description>Создать пустого мужского андроида SX3I из пластали и компонентов.</ATPP_CreateSX3I.description>
+  <ATPP_CreateSX3I.jobString>Создание андроида SX3I.</ATPP_CreateSX3I.jobString>
+  <ATPP_CreateSX3IFemale.label>Создать женского суррогата TX3I (SX3I)</ATPP_CreateSX3IFemale.label>
+  <ATPP_CreateSX3IFemale.description>Создать пустого женского андроида SX3I из пластали и компонентов.</ATPP_CreateSX3IFemale.description>
+  <ATPP_CreateSX3IFemale.jobString>Создание андроида SX3I.</ATPP_CreateSX3IFemale.jobString>
+  <ATPP_CreateSX4I.label>Создать суррогата TX4I (SX4I)</ATPP_CreateSX4I.label>
+  <ATPP_CreateSX4I.description>Создать пустого андроида SX4I из пластали и компонентов.</ATPP_CreateSX4I.description>
+  <ATPP_CreateSX4I.jobString>Создание андроида SX4I.</ATPP_CreateSX4I.jobString>
+  <ATPP_CreateSX4IFemale.label>Создать женского суррогата TX4I (SX4I)</ATPP_CreateSX4IFemale.label>
+  <ATPP_CreateSX4IFemale.description>Создать пустого женского андроида SX4I из пластали и компонентов.</ATPP_CreateSX4IFemale.description>
+  <ATPP_CreateSX4IFemale.jobString>Создание андроида SX4I.</ATPP_CreateSX4IFemale.jobString>
+  <ATPP_CreateTX4Android.label>Создать мужского андроида TX4</ATPP_CreateTX4Android.label>
+  <ATPP_CreateTX4Android.description>Создать мужского андроида TX4</ATPP_CreateTX4Android.description>
+  <ATPP_CreateTX4Android.jobString>Создание андроида TX4.</ATPP_CreateTX4Android.jobString>
+  <ATPP_CreateTX4FemaleAndroid.label>Создать женского андроида TX4</ATPP_CreateTX4FemaleAndroid.label>
+  <ATPP_CreateTX4FemaleAndroid.description>Создать женского андроида TX4</ATPP_CreateTX4FemaleAndroid.description>
+  <ATPP_CreateTX4FemaleAndroid.jobString>Создание андроида TX4.</ATPP_CreateTX4FemaleAndroid.jobString>
+  <ATPP_CreateTX3Android.label>Создать мужского андроида TX3</ATPP_CreateTX3Android.label>
+  <ATPP_CreateTX3Android.description>Создать мужского андроида TX3</ATPP_CreateTX3Android.description>
+  <ATPP_CreateTX3Android.jobString>Создание андроида TX3.</ATPP_CreateTX3Android.jobString>
+  <ATPP_CreateTX3FemaleAndroid.label>Создать женского андроида TX3</ATPP_CreateTX3FemaleAndroid.label>
+  <ATPP_CreateTX3FemaleAndroid.description>Создать женского андроида TX3</ATPP_CreateTX3FemaleAndroid.description>
+  <ATPP_CreateTX3FemaleAndroid.jobString>Создание андроида TX3.</ATPP_CreateTX3FemaleAndroid.jobString>
+  <ATPP_CreateTX2Android.label>Создать мужского андроида TX2</ATPP_CreateTX2Android.label>
+  <ATPP_CreateTX2Android.description>Создать мужского андроида TX2</ATPP_CreateTX2Android.description>
+  <ATPP_CreateTX2Android.jobString>Создание андроида TX2.</ATPP_CreateTX2Android.jobString>
+  <ATPP_CreateTX2FemaleAndroid.label>Создать женского андроида TX2</ATPP_CreateTX2FemaleAndroid.label>
+  <ATPP_CreateTX2FemaleAndroid.description>Создать женского андроида TX2</ATPP_CreateTX2FemaleAndroid.description>
+  <ATPP_CreateTX2FemaleAndroid.jobString>Создание андроида TX2.</ATPP_CreateTX2FemaleAndroid.jobString>
+  <ATPP_CreateTX4IAndroid.label>Создать мужского андроида TX4I</ATPP_CreateTX4IAndroid.label>
+  <ATPP_CreateTX4IAndroid.description>Создать мужского андроида TX4I</ATPP_CreateTX4IAndroid.description>
+  <ATPP_CreateTX4IAndroid.jobString>Создание андроида TX4I.</ATPP_CreateTX4IAndroid.jobString>
+  <ATPP_CreateTX4IFemaleAndroid.label>Создать женского андроида TX4I</ATPP_CreateTX4IFemaleAndroid.label>
+  <ATPP_CreateTX4IFemaleAndroid.description>Создать женского андроида TX4I</ATPP_CreateTX4IFemaleAndroid.description>
+  <ATPP_CreateTX4IFemaleAndroid.jobString>Создание андроида TX4I.</ATPP_CreateTX4IFemaleAndroid.jobString>
+  <ATPP_CreateTX3IAndroid.label>Создать мужского андроида TX3I</ATPP_CreateTX3IAndroid.label>
+  <ATPP_CreateTX3IAndroid.description>Создать мужского андроида TX3I</ATPP_CreateTX3IAndroid.description>
+  <ATPP_CreateTX3IAndroid.jobString>Создание андроида TX3I.</ATPP_CreateTX3IAndroid.jobString>
+  <ATPP_CreateTX3IFemaleAndroid.label>Создать женского андроида TX3I</ATPP_CreateTX3IFemaleAndroid.label>
+  <ATPP_CreateTX3IFemaleAndroid.description>Создать женского андроида TX3I</ATPP_CreateTX3IFemaleAndroid.description>
+  <ATPP_CreateTX3IFemaleAndroid.jobString>Создание андроида TX3I.</ATPP_CreateTX3IFemaleAndroid.jobString>
+  <ATPP_CreateTX2IAndroid.label>Создать мужского андроида TX2I</ATPP_CreateTX2IAndroid.label>
+  <ATPP_CreateTX2IAndroid.description>Создать мужского андроида TX2I</ATPP_CreateTX2IAndroid.description>
+  <ATPP_CreateTX2IAndroid.jobString>Создание андроида TX2I.</ATPP_CreateTX2IAndroid.jobString>
+  <ATPP_CreateTX2IFemaleAndroid.label>Создать женского андроида TX2I</ATPP_CreateTX2IFemaleAndroid.label>
+  <ATPP_CreateTX2IFemaleAndroid.description>Создать женского андроида TX2I</ATPP_CreateTX2IFemaleAndroid.description>
+  <ATPP_CreateTX2IFemaleAndroid.jobString>Создание андроида TX2I.</ATPP_CreateTX2IFemaleAndroid.jobString>
+  <ATPP_CreateTX2KAndroid.label>Создать мужского андроида TX2K</ATPP_CreateTX2KAndroid.label>
+  <ATPP_CreateTX2KAndroid.description>Создать мужского андроида TX2K</ATPP_CreateTX2KAndroid.description>
+  <ATPP_CreateTX2KAndroid.jobString>Создание андроида TX2K.</ATPP_CreateTX2KAndroid.jobString>
+  <ATPP_CreateTX2KFemaleAndroid.label>Создать женского андроида TX2K</ATPP_CreateTX2KFemaleAndroid.label>
+  <ATPP_CreateTX2KFemaleAndroid.description>Создать женского андроида TX2K</ATPP_CreateTX2KFemaleAndroid.description>
+  <ATPP_CreateTX2KFemaleAndroid.jobString>Создание андроида TX2K.</ATPP_CreateTX2KFemaleAndroid.jobString>
+  <ATPP_CreateTX2KIAndroid.label>Создать андроида TX2KI</ATPP_CreateTX2KIAndroid.label>
+  <ATPP_CreateTX2KIAndroid.description>Создать андроида TX2KI</ATPP_CreateTX2KIAndroid.description>
+  <ATPP_CreateTX2KIAndroid.jobString>Создание андроида TX2KI.</ATPP_CreateTX2KIAndroid.jobString>
+  <ATPP_CreateTX2KIFemaleAndroid.label>Создать женского андроида TX2KI</ATPP_CreateTX2KIFemaleAndroid.label>
+  <ATPP_CreateTX2KIFemaleAndroid.description>Создать женского андроида TX2KI</ATPP_CreateTX2KIFemaleAndroid.description>
+  <ATPP_CreateTX2KIFemaleAndroid.jobString>Создание андроида TX2KI.</ATPP_CreateTX2KIFemaleAndroid.jobString>
+  <ATPP_MakeSyntheticSkinGland.label>синтезировать кожную железу</ATPP_MakeSyntheticSkinGland.label>
+  <ATPP_MakeSyntheticSkinGland.description>Синтезировать искусственную кожную железу из углеводородного химтоплива, консервирующего раствора нейтроамина, медикаментов и тканевой основы.</ATPP_MakeSyntheticSkinGland.description>
+  <ATPP_MakeSyntheticSkinGland.jobString>Синтез кожной железы.</ATPP_MakeSyntheticSkinGland.jobString>
+  <ATPP_GestateSyntheticSkinGland_Biotech.label>вырастить железу синтетической кожи</ATPP_GestateSyntheticSkinGland_Biotech.label>
+  <ATPP_GestateSyntheticSkinGland_Biotech.description>Используя гемогенный раствор Biotech, клеточные питательные вещества и медицинские стабилизаторы в инкубаторе андроидов, вырастить живую матрицу железы синтетической кожи для инфильтраторов серии TX.</ATPP_GestateSyntheticSkinGland_Biotech.description>
+  <ATPP_GestateSyntheticSkinGland_Biotech.jobString>Выращивание железы синтетической кожи.</ATPP_GestateSyntheticSkinGland_Biotech.jobString>
+  <ATPP_QE_GrowSyntheticSkinGland.label>вырастить железу синтетической кожи (QEE)</ATPP_QE_GrowSyntheticSkinGland.label>
+  <ATPP_QE_GrowSyntheticSkinGland.description>Вырастить живую биосинтетическую матрицу железы кожи в чане для органов Questionable Ethics с помощью органических питательных веществ и химических стабилизаторов.</ATPP_QE_GrowSyntheticSkinGland.description>
+  <ATPP_QE_GrowSyntheticSkinGland.jobString>Выращивание железы синтетической кожи.</ATPP_QE_GrowSyntheticSkinGland.jobString>
+  <ATPP_ApplySyntheticSkin.label>пересадить синтетическую кожу</ATPP_ApplySyntheticSkin.label>
+  <ATPP_ApplySyntheticSkin.description>Пересаживает синтетический дермальный матрикс на боевое шасси серии TX, покрывая открытый механический эндоскелет живой человекоподобной синтетической кожей. Повышает социальное восприятие и теплоизоляцию, устраняя ржавление от дождя, но увеличивает горючесть.</ATPP_ApplySyntheticSkin.description>
+  <ATPP_ApplySyntheticSkin.jobString>Пересадка синтетической кожи на андроида.</ATPP_ApplySyntheticSkin.jobString>
+  <ATPP_RemoveSyntheticSkin.label>снять синтетическую кожу</ATPP_RemoveSyntheticSkin.label>
+  <ATPP_RemoveSyntheticSkin.description>Хирургически снимает слой синтетической кожи с инфильтратора серии TX, обнажая усиленный пехотный эндоскелет. Андроид теряет социальную привлекательность, но получает иммунитет к огню и боевую живучесть.</ATPP_RemoveSyntheticSkin.description>
+  <ATPP_RemoveSyntheticSkin.jobString>Снятие синтетической кожи с андроида.</ATPP_RemoveSyntheticSkin.jobString>
+  <ATPP_QE_CreateTX2KMale.label>собрать мужской каркас TX2K (чан QEE)</ATPP_QE_CreateTX2KMale.label>
+  <ATPP_QE_CreateTX2KMale.description>Собрать неактивный мужской каркас экзоскелета TX2K, закодированный как геномная последовательность для инкубации в чане для органов.</ATPP_QE_CreateTX2KMale.description>
+  <ATPP_QE_CreateTX2KMale.jobString>Создание андроида.</ATPP_QE_CreateTX2KMale.jobString>
+  <ATPP_QE_CreateTX2KFemale.label>собрать женский каркас TX2K (чан QEE)</ATPP_QE_CreateTX2KFemale.label>
+  <ATPP_QE_CreateTX2KFemale.description>Собрать неактивный женский каркас экзоскелета TX2K, закодированный как геномная последовательность для инкубации в чане для органов.</ATPP_QE_CreateTX2KFemale.description>
+  <ATPP_QE_CreateTX2KFemale.jobString>Создание андроида.</ATPP_QE_CreateTX2KFemale.jobString>
+  <ATPP_QE_CreateSX2KMaleSurrogate.label>собрать мужской каркас суррогата SX2K (чан QEE)</ATPP_QE_CreateSX2KMaleSurrogate.label>
+  <ATPP_QE_CreateSX2KMaleSurrogate.description>Собрать неактивный мужской каркас суррогатного экзоскелета TX2K, закодированный как геномная последовательность для инкубации в чане для органов.</ATPP_QE_CreateSX2KMaleSurrogate.description>
+  <ATPP_QE_CreateSX2KMaleSurrogate.jobString>Создание андроида.</ATPP_QE_CreateSX2KMaleSurrogate.jobString>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.label>собрать женский каркас суррогата SX2K (чан QEE)</ATPP_QE_CreateSX2KFemaleSurrogate.label>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.description>Собрать неактивный женский каркас суррогатного экзоскелета TX2K, закодированный как геномная последовательность для инкубации в чане для органов.</ATPP_QE_CreateSX2KFemaleSurrogate.description>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.jobString>Создание андроида.</ATPP_QE_CreateSX2KFemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX3Male.label>собрать мужской каркас TX3 (чан QEE)</ATPP_QE_CreateTX3Male.label>
+  <ATPP_QE_CreateTX3Male.description>Собрать неактивный мужской каркас экзоскелета TX3, закодированный как геномная последовательность для инкубации в чане для органов.</ATPP_QE_CreateTX3Male.description>
+  <ATPP_QE_CreateTX3Male.jobString>Создание андроида.</ATPP_QE_CreateTX3Male.jobString>
+  <ATPP_QE_CreateTX3Female.label>собрать женский каркас TX3 (чан QEE)</ATPP_QE_CreateTX3Female.label>
+  <ATPP_QE_CreateTX3Female.description>Собрать неактивный женский каркас экзоскелета TX3, закодированный как геномная последовательность для инкубации в чане для органов.</ATPP_QE_CreateTX3Female.description>
+  <ATPP_QE_CreateTX3Female.jobString>Создание андроида.</ATPP_QE_CreateTX3Female.jobString>
+  <ATPP_QE_CreateSX3MaleSurrogate.label>собрать мужской каркас суррогата SX3 (чан QEE)</ATPP_QE_CreateSX3MaleSurrogate.label>
+  <ATPP_QE_CreateSX3MaleSurrogate.description>Собрать неактивный мужской каркас суррогатного экзоскелета TX3, закодированный как геномная последовательность для инкубации в чане для органов.</ATPP_QE_CreateSX3MaleSurrogate.description>
+  <ATPP_QE_CreateSX3MaleSurrogate.jobString>Создание андроида.</ATPP_QE_CreateSX3MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX3FemaleSurrogate.label>собрать женский каркас суррогата SX3 (чан QEE)</ATPP_QE_CreateSX3FemaleSurrogate.label>
+  <ATPP_QE_CreateSX3FemaleSurrogate.description>Собрать неактивный женский каркас суррогатного экзоскелета TX3, закодированный как геномная последовательность для инкубации в чане для органов.</ATPP_QE_CreateSX3FemaleSurrogate.description>
+  <ATPP_QE_CreateSX3FemaleSurrogate.jobString>Создание андроида.</ATPP_QE_CreateSX3FemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX4Male.label>собрать мужской каркас TX4 (чан QEE)</ATPP_QE_CreateTX4Male.label>
+  <ATPP_QE_CreateTX4Male.description>Собрать неактивный мужской каркас экзоскелета TX4, закодированный как геномная последовательность для инкубации в чане для органов.</ATPP_QE_CreateTX4Male.description>
+  <ATPP_QE_CreateTX4Male.jobString>Создание андроида.</ATPP_QE_CreateTX4Male.jobString>
+  <ATPP_QE_CreateTX4Female.label>собрать женский каркас TX4 (чан QEE)</ATPP_QE_CreateTX4Female.label>
+  <ATPP_QE_CreateTX4Female.description>Собрать неактивный женский каркас экзоскелета TX4, закодированный как геномная последовательность для инкубации в чане для органов.</ATPP_QE_CreateTX4Female.description>
+  <ATPP_QE_CreateTX4Female.jobString>Создание андроида.</ATPP_QE_CreateTX4Female.jobString>
+  <ATPP_QE_CreateSX4MaleSurrogate.label>собрать мужской каркас суррогата SX4 (чан QEE)</ATPP_QE_CreateSX4MaleSurrogate.label>
+  <ATPP_QE_CreateSX4MaleSurrogate.description>Собрать неактивный мужской каркас суррогатного экзоскелета TX4, закодированный как геномная последовательность для инкубации в чане для органов.</ATPP_QE_CreateSX4MaleSurrogate.description>
+  <ATPP_QE_CreateSX4MaleSurrogate.jobString>Создание андроида.</ATPP_QE_CreateSX4MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX4FemaleSurrogate.label>собрать женский каркас суррогата SX4 (чан QEE)</ATPP_QE_CreateSX4FemaleSurrogate.label>
+  <ATPP_QE_CreateSX4FemaleSurrogate.description>Собрать неактивный женский каркас суррогатного экзоскелета TX4, закодированный как геномная последовательность для инкубации в чане для органов.</ATPP_QE_CreateSX4FemaleSurrogate.description>
+  <ATPP_QE_CreateSX4FemaleSurrogate.jobString>Создание андроида.</ATPP_QE_CreateSX4FemaleSurrogate.jobString>
+
 </LanguageData>

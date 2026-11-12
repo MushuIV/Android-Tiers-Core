@@ -1,195 +1,132 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- Alerts -->
 	<ATPP_AlertHot3Devices>Přehřátí počítače</ATPP_AlertHot3Devices>
 	<ATPP_AlertHot3DevicesDesc>Jeden nebo více vašich počítačů dosáhlo maximální teplotní hranice! Neprodleně obnovte vhodnou teplotu!</ATPP_AlertHot3DevicesDesc>
 	<ATPP_AlertHot2Devices>Zahřátý počítač</ATPP_AlertHot2Devices>
 	<ATPP_AlertHot2DevicesDesc>Jeden nebo více vašich počítačů je zahřátých, rychle snižte okolní teplotu!</ATPP_AlertHot2DevicesDesc>
-	
 	<ATPP_AlertUnsecurisedClients>{0} nezabezpečených klientů SkyMind</ATPP_AlertUnsecurisedClients>
 	<ATPP_AlertUnsecurisedClientsDesc>Varování: máte potenciálně {0} klientů SkyMind, kteří mohou být napadeni přes síť. Postavte bezpečnostní servery, abyste tomu zabránili.</ATPP_AlertUnsecurisedClientsDesc>
-	
-	<!-- Incidents -->
 	<ATPP_IncidentSurrogateHackingVirus>Virus SX</ATPP_IncidentSurrogateHackingVirus>
 	<ATPP_IncidentSurrogateHackingCryptolocker>Cryptolocker SX</ATPP_IncidentSurrogateHackingCryptolocker>
 	<ATPP_IncidentSurrogateHackingExplosiveVirus>Výbušný virus SX</ATPP_IncidentSurrogateHackingExplosiveVirus>
 	<ATPP_IncidentSurrogateHackingLiteDesc>Váš bezpečnostní systém neutralizoval část útoku, avšak některé podsystémy {0} surogátů byly kompromitovány.</ATPP_IncidentSurrogateHackingLiteDesc>
-	
 	<ATPP_IncidentSurrogateHackingHardDesc>Váš bezpečnostní systém nechrání celou vaši flotilu surogátních androidů. Operační systémy {0} androidů byly zcela kompromitovány.</ATPP_IncidentSurrogateHackingHardDesc>
 	<ATPP_IncidentVirusedDesc>Tito surogáti jsou nyní plně pod kontrolou viru a začnou na vás útočit!</ATPP_IncidentVirusedDesc>
 	<ATPP_IncidentVirusedExplosiveDesc>Tito surogáti jsou nyní zcela pod kontrolou viru, zaútočí na vás a po skončení odpočtu odpálí svou vnitřní baterii!</ATPP_IncidentVirusedExplosiveDesc>
 	<ATPP_IncidentCryptolockerDesc>Všichni infikovaní surogáti jsou zcela nepoužitelní. Toto lze (snad) zvrátit zaplacením výkupného frakci stojící za útokem.</ATPP_IncidentCryptolockerDesc>
-	
 	<ATPP_IncidentDeviceHackingVirus>Virus</ATPP_IncidentDeviceHackingVirus>
 	<ATPP_IncidentDeviceHackingCryptolocker>Cryptolocker</ATPP_IncidentDeviceHackingCryptolocker>
 	<ATPP_IncidentDeviceHackingExplosiveVirus>Výbušný virus</ATPP_IncidentDeviceHackingExplosiveVirus>
 	<ATPP_IncidentDeviceHackingLiteDesc>Váš bezpečnostní systém neutralizoval část útoku, avšak {0} připojených zařízení bylo dočasně kompromitováno.</ATPP_IncidentDeviceHackingLiteDesc>
-	
 	<ATPP_IncidentDeviceHackingHardDesc>Váš bezpečnostní systém nechrání všechna připojená zařízení. Operační systémy {0} připojených zařízení byly zcela kompromitovány.</ATPP_IncidentDeviceHackingHardDesc>
 	<ATPP_IncidentDeviceVirusedDesc>Tato zařízení jsou nyní zcela pod kontrolou viru!</ATPP_IncidentDeviceVirusedDesc>
 	<ATPP_IncidentDeviceVirusedExplosiveDesc>Tato zařízení jsou nyní zcela pod kontrolou viru a po uplynutí odpočtu explodují!</ATPP_IncidentDeviceVirusedExplosiveDesc>
 	<ATPP_IncidentDeviceCryptolockerDesc>Všechna infikovaná zařízení jsou zcela nepoužitelná. Toto lze (snad) zvrátit zaplacením výkupného frakci stojící za útokem.</ATPP_IncidentDeviceCryptolockerDesc>
-	
 	<ATPP_LetterFactionRansomware>Ransomware</ATPP_LetterFactionRansomware>
 	<ATPP_LetterFactionRansomwareSkillStolenDesc>Frakce {0} poškodila oblasti paměti odpovídající za dovednost '{1}' v mozku {2} prostřednictvím sítě SkyMind.</ATPP_LetterFactionRansomwareSkillStolenDesc>
 	<ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>Frakce {0} infikovala mozek ({1}) a nahrála negativní rys '{2}' prostřednictvím sítě SkyMind.</ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>
-	
-	<!-- Needs -->
 	<ATPP_EnergyNeed>Energie</ATPP_EnergyNeed>
 	<ATPP_EnergyNeedDesc>Energie je množství energie, které má android ve své vnitřní baterii. Pokud klesne na nulu, android začne selhávat a nakonec se deaktivuje (zemře).</ATPP_EnergyNeedDesc>
-	
-	
-	<!-- NanoKits -->
 	<ATPP_NanoKitsNoCare>Bez oprav</ATPP_NanoKitsNoCare>
 	<ATPP_NanoKitsNoKitJustVisit>Návštěva technika bez nanokitů</ATPP_NanoKitsNoKitJustVisit>
 	<ATPP_NanoKitsBasic>Základní nanokit</ATPP_NanoKitsBasic>
 	<ATPP_NanoKitsIntermediate>Střední nanokit</ATPP_NanoKitsIntermediate>
 	<ATPP_NanoKitsAdvanced>Pokročilý nanokit</ATPP_NanoKitsAdvanced>
-	
-	<!-- CompInspectPane -->
 	<ATPP_UploadPercentage>Nahrávání vědomí: {0}%</ATPP_UploadPercentage>
 	<ATPP_DownloadPercentage>Stahování vědomí: {0}%</ATPP_DownloadPercentage>
-	
 	<ATPP_PermutationPercentage>Permutace vědomí: {0}%</ATPP_PermutationPercentage>
 	<ATPP_DuplicationPercentage>Duplikace vědomí: {0}%</ATPP_DuplicationPercentage>
 	<ATPP_UploadSkyCloudPercentage>Nahrávání vědomí do SkyCloud: {0}%</ATPP_UploadSkyCloudPercentage>
 	<ATPP_DownloadFromSkyCloudPercentage>Stahování vědomí ze SkyCloud: {0}%</ATPP_DownloadFromSkyCloudPercentage>
-	
 	<ATPP_SkyMindDetected>Připojeno k síti SkyMind</ATPP_SkyMindDetected>
 	<ATPP_RemotelyControlledBy>Dálkově ovládáno: {0}.</ATPP_RemotelyControlledBy>
 	<ATPP_RemotelyControl>Dálkově ovládat: {0}</ATPP_RemotelyControl>
-	
 	<ATPP_CompHotSensitiveHot3Text>Příliš vysoká teplota!</ATPP_CompHotSensitiveHot3Text>
 	<ATPP_CompHotSensitiveHot2Text>Varování: vysoká teplota</ATPP_CompHotSensitiveHot2Text>
 	<ATPP_CompHotSensitiveHot1Text>Mírně zvýšená teplota</ATPP_CompHotSensitiveHot1Text>
 	<ATPP_CompHotSensitiveHot0Text>Ideální provozní teplota</ATPP_CompHotSensitiveHot0Text>
-	
 	<ATPP_CryptoLockedSurrogate>Zablokováno virem cryptolocker, nepoužitelné!</ATPP_CryptoLockedSurrogate>
 	<ATPP_ExplosiveVirus>Výbušný virus: {0} sekund do exploze baterie!</ATPP_ExplosiveVirus>
 	<ATPP_TempHackingLosingControlIn>Ztráta kontroly za {0} sekund</ATPP_TempHackingLosingControlIn>
-	
 	<ATPP_BatteryLevel>Úroveň baterie: {0}%</ATPP_BatteryLevel>
 	<ATPP_TempInfection>Konec infekce za {0}</ATPP_TempInfection>
-	
 	<ATPP_SkyCloudCoreBooting>Spouštění serveru (zbývá {0} sekund)</ATPP_SkyCloudCoreBooting>
-	
 	<ATPP_NaniteFrameworkRepairingInProgress>Probíhá oprava kostry: {0}%</ATPP_NaniteFrameworkRepairingInProgress>
 	<ATPP_VX3SurrogateTypePrimary>Primární surogát</ATPP_VX3SurrogateTypePrimary>
 	<ATPP_VX3SurrogateTypeSecondary>Sekundární surogát</ATPP_VX3SurrogateTypeSecondary>
-	
 	<ATPP_MindAbsorptionProgress>Probíhá pohlcování vědomí: {0}%</ATPP_MindAbsorptionProgress>
-	
 	<ATPP_Rusted>Zrezivělý</ATPP_Rusted>
-	
 	<ATPP_BatteryExplodeInProgress>Exploze baterie: {0}%</ATPP_BatteryExplodeInProgress>
-	
-	<!-- AutoDoor -->
 	<ATPP_AutoDoorOpen>Otevřít</ATPP_AutoDoorOpen>
 	<ATPP_AutoDoorOpenDescription>Otevřít na dálku prostřednictvím jádra SkyCloud.</ATPP_AutoDoorOpenDescription>
 	<ATPP_AutoDoorClose>Zavřít</ATPP_AutoDoorClose>
 	<ATPP_AutoDoorCloseDescription>Zavřít na dálku prostřednictvím serveru SkyCloud.</ATPP_AutoDoorCloseDescription>
 	<ATPP_AutoDoorOpenMoteText>Otevírání přes SkyCloud</ATPP_AutoDoorOpenMoteText>
 	<ATPP_AutoDoorCloseMoteText>Zavírání přes SkyCloud</ATPP_AutoDoorCloseMoteText>
-	
-
-	<!-- AutoFlickering -->
 	<ATPP_FlickEnable>Zapnout napájení přes SkyCloud</ATPP_FlickEnable>
 	<ATPP_FlickDisable>Vypnout napájení přes SkyCloud</ATPP_FlickDisable>
-	
-	<!-- Letters -->
 	<ATPP_LetterSurrogateDisabled>Surogát {0} vyřazen z provozu</ATPP_LetterSurrogateDisabled>
 	<ATPP_LetterSurrogateDisabledDesc>Surogát {0} již není funkční v důsledku násilného útoku na jeho fyzickou integritu.</ATPP_LetterSurrogateDisabledDesc>
-	
 	<ATPP_LetterUploadOK>Nahrávání dokončeno</ATPP_LetterUploadOK>
 	<ATPP_LetterUploadOKDesc>Nahrávání vědomí {0} bylo dokončeno a vědomí bylo přeneseno do umělého mozku {1}. Původní vědomí {1} bylo zničeno (smrt).</ATPP_LetterUploadOKDesc>
-	
 	<ATPP_LetterPermuteOK>Permutace dokončena</ATPP_LetterPermuteOK>
 	<ATPP_LetterPermuteOKDesc>Permutace vědomí je dokončena, {0} a {1} si vyměnili těla.</ATPP_LetterPermuteOKDesc>
-	
 	<ATPP_LetterDuplicateOK>Duplikace dokončena</ATPP_LetterDuplicateOK>
 	<ATPP_LetterDuplicateOKDesc>Duplikace vědomí byla dokončena. Mozek {1} nyní obsahuje duplikát vědomí {0}, původní vědomí {1} lze považovat za mrtvé.</ATPP_LetterDuplicateOKDesc>
-	
 	<ATPP_LetterSkyCloudUploadOK>Nahrávání do SkyCloud dokončeno</ATPP_LetterSkyCloudUploadOK>
 	<ATPP_LetterSkyCloudUploadOKDesc>Nahrávání vědomí do SkyCloud bylo dokončeno, vědomí {0} je nyní uloženo v centrální paměti {1}.</ATPP_LetterSkyCloudUploadOKDesc>
-	
 	<ATPP_LetterSkyCloudReplicateOK>Replikace dokončena</ATPP_LetterSkyCloudReplicateOK>
 	<ATPP_LetterSkyCloudReplicateOKDesc>Replikace neuronové sítě {0} v paměti {1} je dokončena.</ATPP_LetterSkyCloudReplicateOKDesc>
-	
 	<ATPP_LetterSkyCloudDownloadOK>Stažení ze SkyCloud dokončeno</ATPP_LetterSkyCloudDownloadOK>
 	<ATPP_LetterSkyCloudDownloadOKDesc>Stažení vědomí ze SkyCloud je dokončeno, vědomí {0} je nyní uloženo v centrální paměti {1}.</ATPP_LetterSkyCloudDownloadOKDesc>
-	
 	<ATPP_LetterSkyCloudMigrateOK>Migrace vědomí SkyCloud dokončena</ATPP_LetterSkyCloudMigrateOK>
 	<ATPP_LetterSkyCloudMigrateOKDesc>Migrace vědomí {0} z {1} do {2} je nyní dokončena.</ATPP_LetterSkyCloudMigrateOKDesc>
-	
 	<ATPP_LetterInterruptedUpload>Nahrávání selhalo</ATPP_LetterInterruptedUpload>
 	<ATPP_LetterInterruptedUploadDesc>Kritická chyba: Přenos vědomí byl přerušen, což vedlo k nevratnému poškození obou mozků (smrt).{0}</ATPP_LetterInterruptedUploadDesc>
 	<ATPP_LetterInterruptedUploadDescCompHostDead>Smrt hostitele příjemce</ATPP_LetterInterruptedUploadDescCompHostDead>
 	<ATPP_LetterInterruptedUploadDescCompSourceDead>Smrt vysílače vědomí</ATPP_LetterInterruptedUploadDescCompSourceDead>
 	<ATPP_LetterInterruptedUploadDescCompRandomError>Došlo k neznámé chybě</ATPP_LetterInterruptedUploadDescCompRandomError>
 	<ATPP_LetterInterruptedUploadDescCompDiconnectionError>Jeden nebo oba koloništi již nejsou připojeni k síti SkyMind.</ATPP_LetterInterruptedUploadDescCompDiconnectionError>
-	
 	<ATPP_LetterFactionScam>Podvod</ATPP_LetterFactionScam>
 	<ATPP_LetterFactionScamCryptolockerDesc>Frakce {0} se rozhodla neodstranit virus cryptolocker, který zamořil vaši kolonii. Byli jste podvedeni...</ATPP_LetterFactionScamCryptolockerDesc>
 	<ATPP_LetterFactionScamRansomwareDesc>Frakce {0} se rozhodla nezrušit účinek svého ransomwaru. Byli jste podvedeni...</ATPP_LetterFactionScamRansomwareDesc>
-	
-	
 	<ATPP_CryptolockerNeedPayRansomTitle>Výkupné za Cryptolocker</ATPP_CryptolockerNeedPayRansomTitle>
 	<ATPP_CryptolockerNeedPayRansom>Frakce {0} vás kontaktuje vysílačkou. Stojí za útokem virem cryptolocker a nabízí odstranění viru výměnou za {1} stříbra.</ATPP_CryptolockerNeedPayRansom>
-	
 	<ATPP_RansomNeedPayRansomTitle>Výkupné za Ransomware</ATPP_RansomNeedPayRansomTitle>
 	<ATPP_RansomNeedPayRansomCorruptedSKill>Frakce {0} vás kontaktuje vysílačkou. Stojí za útokem ransomwaru a nabízí obnovení poškozené dovednosti '{1}' kolonisty {2} výměnou za {3} stříbra.</ATPP_RansomNeedPayRansomCorruptedSKill>
 	<ATPP_RansomNeedPayRansomDownloadedTrait>Frakce {0} vás kontaktuje vysílačkou. Stojí za útokem ransomwaru a nabízí odstranění nahraného negativního rysu '{1}' kolonisty {2} výměnou za {3} stříbra.</ATPP_RansomNeedPayRansomDownloadedTrait>
-	
 	<ATPP_ComptHeatSensitiveComputerMeltTitle>Přehřátí serveru</ATPP_ComptHeatSensitiveComputerMeltTitle>
-    <ATPP_ComptHeatSensitiveComputerMeltDesc>Server explodoval v důsledku příliš vysoké provozní teploty!</ATPP_ComptHeatSensitiveComputerMeltDesc>
-	
+	<ATPP_ComptHeatSensitiveComputerMeltDesc>Server explodoval v důsledku příliš vysoké provozní teploty!</ATPP_ComptHeatSensitiveComputerMeltDesc>
 	<ATPP_destroyedMindsDueToDestroyedSkyCloudCore>Ztráta {0} vědomí</ATPP_destroyedMindsDueToDestroyedSkyCloudCore>
 	<ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>V důsledku zničení jádra SkyCloud {0} bylo ztraceno všech {1} vědomí uložených v jeho centrální paměti.</ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>
-	
 	<ATPP_LetterHackingPointsRemoved>Ztráta hackerských bodů</ATPP_LetterHackingPointsRemoved>
 	<ATPP_LetterHackingPointsRemovedDesc>Všechny hackerské servery ve vašich osadách jsou offline, což znamená, že bylo ztraceno {0} bodů, protože je již nelze uložit na žádné médium!</ATPP_LetterHackingPointsRemovedDesc>
-	
 	<ATPP_LetterSkillPointsRemoved>Ztráta bodů dovedností</ATPP_LetterSkillPointsRemoved>
 	<ATPP_LetterSkillPointsRemovedDesc>Všechny servery dovedností ve vašich osadách jsou offline, což znamená, že bylo ztraceno {0} bodů, protože je již nelze uložit na žádné médium!</ATPP_LetterSkillPointsRemovedDesc>
-	
 	<ATPP_SkyCloudCoreBooted>Server {0} spuštěn</ATPP_SkyCloudCoreBooted>
-    <ATPP_SkyCloudCoreBootedDesc>Server SkyCloud {0} byl úspěšně spuštěn a lze jej nyní používat.</ATPP_SkyCloudCoreBootedDesc>
-	
+	<ATPP_SkyCloudCoreBootedDesc>Server SkyCloud {0} byl úspěšně spuštěn a lze jej nyní používat.</ATPP_SkyCloudCoreBootedDesc>
 	<ATPP_LetterInterruptedSkyCloudReplication>Replikace selhala</ATPP_LetterInterruptedSkyCloudReplication>
 	<ATPP_LetterInterruptedSkyCloudReplicationDesc>Replikace vědomí {0} selhala, protože hostitelské jádro SkyCloud je offline.</ATPP_LetterInterruptedSkyCloudReplicationDesc>
-	
 	<ATPP_LetterInterruptedSkyCloudMigration>Migrace selhala</ATPP_LetterInterruptedSkyCloudMigration>
 	<ATPP_LetterInterruptedSkyCloudMigrationDesc>Migrace vědomí {0} selhala, protože cílové jádro SkyCloud je offline.</ATPP_LetterInterruptedSkyCloudMigrationDesc>
-	
 	<ATPP_LetterTraitorOffline>Zrádce odpojen</ATPP_LetterTraitorOffline>
 	<ATPP_LetterTraitorOfflineDesc>{0} zradil svou frakci tím, že se nechal vámi naverbovat. Frakce si toho všimla a zatkla ho (byl proto odpojen od surogáta, kterého ovládal).</ATPP_LetterTraitorOfflineDesc>
-	
 	<ATPP_LetterInterruptedMindAbsorption>Pohlcení vědomí selhalo</ATPP_LetterInterruptedMindAbsorption>
 	<ATPP_LetterInterruptedMindAbsorptionDesc>Pohlcení vědomí {0} selhalo buď kvůli odpojení od SkyMind, nebo proto, že žádný bodový server není provozuschopný.</ATPP_LetterInterruptedMindAbsorptionDesc>
-	
 	<ATPP_MindAbsorptionDone>Pohlcení vědomí dokončeno</ATPP_MindAbsorptionDone>
 	<ATPP_MindAbsorptionDoneDesc>Pohlcení vědomí {0} dokončeno, získáno {1} bodů dovedností.</ATPP_MindAbsorptionDoneDesc>
-	
 	<ATPP_LetterExternalSurrogateEscape>Útěk operátora surogáta</ATPP_LetterExternalSurrogateEscape>
 	<ATPP_LetterExternalSurrogateEscapeDesc>{0}, operátor surogáta, kterého se snažíte naverbovat, se rozhodl připojit k vaší kolonii. Odpojí se od svého surogáta a tajně uprchne z nepřátelské základny, aby dorazil do vaší kolonie během několika dní.</ATPP_LetterExternalSurrogateEscapeDesc>
-	
 	<ATPP_LetterExternalSurrogateControllerJoin>Bývalý vězeň se připojil</ATPP_LetterExternalSurrogateControllerJoin>
 	<ATPP_LetterExternalSurrogateControllerJoinDesc>{0}, operátor surogáta, kterého jste uvěznili a úspěšně přesvědčili, právě dorazil do vaší kolonie a přidal se k vám.</ATPP_LetterExternalSurrogateControllerJoinDesc>
-	
 	<ATPP_LetterExternalSurrogateControllerCannotJoin>Bývalému vězni se nepodařilo dorazit</ATPP_LetterExternalSurrogateControllerCannotJoin>
 	<ATPP_LetterExternalSurrogateControllerCannotJoinDesc>{0}, operátor surogáta, kterého jste uvěznili a úspěšně přesvědčili, se pokusil dorazit do vaší kolonie, ale z neznámých důvodů neuspěl a odešel.</ATPP_LetterExternalSurrogateControllerCannotJoinDesc>
-	
 	<ATPP_LetterExternalSurrogateDisconnect>Odpojení operátora</ATPP_LetterExternalSurrogateDisconnect>
 	<ATPP_LetterExternalSurrogateDisconnectDesc>{0}, operátor surogáta, kterého jste se pokusili zotročit, se odpojil, protože on i jeho frakce mají pocit, že již z vaší kolonie nezískají žádné informace a setrvávat jako otrok by byla ztráta času.</ATPP_LetterExternalSurrogateDisconnectDesc>
-	
 	<ATPP_LetterKidnappedM8Disconnected>Odpojení M8</ATPP_LetterKidnappedM8Disconnected>
 	<ATPP_LetterKidnappedM8DisconnectedDesc>Únosci vašeho M8 ({0} hostující {1}) nakonec získali přístup k jeho komunikačním obvodům. Když zjistili, že stroj nadále komunikuje přes integrovanou anténu SkyMind, odpojili ji. Již se tedy nebudete moci přihlásit k {1}.</ATPP_LetterKidnappedM8DisconnectedDesc>
-	
-	<!-- Designators -->
 	<ATPP_DesignatorNeedSelectSX>Chyba: Musíte vybrat platné zařízení připojené k síti SkyMind!</ATPP_DesignatorNeedSelectSX>
 	<ATPP_DesignatorNeedSelectSXToHack>Chyba: Musíte vybrat androida-surogáta ovládaného jinou frakcí než vaší!</ATPP_DesignatorNeedSelectSXToHack>
-	
-	<!-- Comps -->
 	<ATPP_SkyMindConn>Připojit k síti SkyMind</ATPP_SkyMindConn>
 	<ATPP_SkyMindConnDesc>Připojit tohoto kolonistu k síti SkyMind, což umožní nahrávání/permutaci/duplikaci vědomí nebo dálkové ovládání androidů řady SX a biologických surogátů.</ATPP_SkyMindConnDesc>
 	<ATPP_SkyMindAutoConn>Automatické připojení</ATPP_SkyMindAutoConn>
@@ -211,32 +148,23 @@
 	<ATPP_FreeControllerInCaravanDesc>Připojit tohoto surogáta k volnému operátorovi v karavaně.</ATPP_FreeControllerInCaravanDesc>
 	<ATPP_AndroidSurrogateReconnectToLastController>Znovu připojit</ATPP_AndroidSurrogateReconnectToLastController>
 	<ATPP_AndroidSurrogateReconnectToLastControllerDesc>Znovu připojit surogáta (je-li to možné) k poslednímu uživateli, který jej používal.</ATPP_AndroidSurrogateReconnectToLastControllerDesc>
-	
-	
 	<ATPP_NoVX2Recipient>Žádní dostupní koloniště (musí mít v mozku implantován čip VX2).</ATPP_NoVX2Recipient>
 	<ATPP_NoSkyCloudCoreAvailable>Žádné jádro SkyCloud není k dispozici.</ATPP_NoSkyCloudCoreAvailable>
 	<ATPP_ConsciousnessUploadNoRecipient>Žádný příjemce není k dispozici jako cíl stažení.</ATPP_ConsciousnessUploadNoRecipient>
 	<ATPP_ConsciousnessSelectDestination>Vyberte cílového hostitele</ATPP_ConsciousnessSelectDestination>
 	<ATPP_UploadConsciousness>Nahrát</ATPP_UploadConsciousness>
 	<ATPP_UploadConsciousnessDesc>Nahrát vědomí z tohoto androida do jiného.</ATPP_UploadConsciousnessDesc>
-	
 	<ATPP_WarningSkyMindDisconnectionRisk>Varování: během operace nesmí dojít k odpojení od sítě SkyMind, jinak dojde k poškození jejich mozků a následné smrti.</ATPP_WarningSkyMindDisconnectionRisk>
-	
 	<ATPP_UploadConsciousnessConfirm>Nahrát vědomí</ATPP_UploadConsciousnessConfirm>
 	<ATPP_UploadConsciousnessConfirmDesc>Potvrzením {0} nahraje své vědomí do těla {1}, což zničí vědomí {1} (smrt) a tělo {0} bude vyřazeno z provozu. Opravdu si přejete pokračovat?</ATPP_UploadConsciousnessConfirmDesc>
-	
 	<ATPP_PermuteConsciousnessConfirm>Permutace vědomí</ATPP_PermuteConsciousnessConfirm>
 	<ATPP_PermuteConsciousnessConfirmDesc>Potvrzením si {0} vymění vědomí s {1} — prohodí si těla. Opravdu si přejete pokračovat?</ATPP_PermuteConsciousnessConfirmDesc>
-	
 	<ATPP_DuplicateConsciousnessConfirm>Duplikace vědomí</ATPP_DuplicateConsciousnessConfirm>
 	<ATPP_DuplicateConsciousnessConfirmDesc>Potvrzením {0} zduplikuje své vědomí do mozku {1}, což zničí vědomí {1} (smrt). Opravdu si přejete pokračovat?</ATPP_DuplicateConsciousnessConfirmDesc>
-	
 	<ATPP_UseBattery>Používat baterii</ATPP_UseBattery>
 	<ATPP_UseBatteryDesc>Je-li povoleno, nastaví androida na přímé napájení z vnitřní baterie místo generátoru na biomasu.</ATPP_UseBatteryDesc>
-	
 	<ATPP_RepairAndroids>Opravovat androidy</ATPP_RepairAndroids>
 	<ATPP_RepairAndroidsDesc>Povolit tomuto kolonistovi opravovat androidy.</ATPP_RepairAndroidsDesc>
-	
 	<ATPP_UploadVirus>Virus</ATPP_UploadVirus>
 	<ATPP_UploadVirusDesc>Nahrát virus do cílového surogáta.</ATPP_UploadVirusDesc>
 	<ATPP_UploadExplosiveVirus>Výbušný virus</ATPP_UploadExplosiveVirus>
@@ -245,19 +173,15 @@
 	<ATPP_HackDesc>Hacknout a převzít trvalou kontrolu nad cílovým surogátem.</ATPP_HackDesc>
 	<ATPP_HackTemp>Dočasný hack</ATPP_HackTemp>
 	<ATPP_HackTempDesc>Provést rychlý hack k převzetí dočasné kontroly nad cílovým surogátem.</ATPP_HackTempDesc>
-	
 	<ATPP_MoveToSkyCloud>Nahrát do SkyCloud</ATPP_MoveToSkyCloud>
 	<ATPP_MoveToSkyCloudDesc>Tato operace přesune vědomí hostitele do jádra SkyCloud, což jej učiní téměř nesmrtelným, avšak zanechá jeho tělo mrtvé.</ATPP_MoveToSkyCloudDesc>
 	<ATPP_MoveFromSkyCloud>Stáhnout ze SkyCloud</ATPP_MoveFromSkyCloud>
 	<ATPP_MoveFromSkyCloudDesc>Tato operace přesune vybrané vědomí uložené v jádru SkyCloud do mozku hostitele.</ATPP_MoveFromSkyCloudDesc>
 	<ATPP_CentralCoreNbStoredMind>Uložená vědomí: {0}</ATPP_CentralCoreNbStoredMind>
 	<ATPP_CentralCoreNbAssistingMinds>Vědomí přiřazená k asistenci: {0}</ATPP_CentralCoreNbAssistingMinds>
-	
 	<ATPP_CentralCoreMigrationInProgress>Probíhá migrace {0} do {1} ({2}%)</ATPP_CentralCoreMigrationInProgress>
 	<ATPP_CentralCoreProcessInMentalBreak>{0} nepoužitelný: nervové zhroucení</ATPP_CentralCoreProcessInMentalBreak>
-	
 	<ATPP_CentralCoreReplicationInProgress>Probíhá replikace vědomí {0} ({1}%)</ATPP_CentralCoreReplicationInProgress>
-	
 	<ATPP_SkyCloudFloatMenuMindsStoredSelect>Vyberte vědomí</ATPP_SkyCloudFloatMenuMindsStoredSelect>
 	<ATPP_ProcessInfo>Informace</ATPP_ProcessInfo>
 	<ATPP_ProcessInfoDesc>Získat informace o uložených vědomích.</ATPP_ProcessInfoDesc>
@@ -270,42 +194,29 @@
 	<ATPP_ProcessAssistDesc>Přiřadit ze seznamu uložená vědomí výhradně k asistenci vašim kolonistům připojeným k síti SkyMind; za každé takto přiřazené vědomí získají globální bonus k náladě.</ATPP_ProcessAssistDesc>
 	<ATPP_ProcessMigrate>Migrovat</ATPP_ProcessMigrate>
 	<ATPP_ProcessMigrateDesc>Přesunout vědomí z tohoto jádra SkyCloud do jiného</ATPP_ProcessMigrateDesc>
-	
 	<ATPP_ProcessAssistAssignedMinds>Odebrat asistenci (odebrat)</ATPP_ProcessAssistAssignedMinds>
 	<ATPP_ProcessAssistUnassignedMinds>Přiřadit asistenci (přidat)</ATPP_ProcessAssistUnassignedMinds>
 	<ATPP_ProcessAssistAssignAll>Přiřadit všechna nepřiřazená vědomí</ATPP_ProcessAssistAssignAll>
 	<ATPP_ProcessAssistUnassignAll>Odebrat všechna přiřazená vědomí</ATPP_ProcessAssistUnassignAll>
-	
 	<ATPP_ProcessDisconnectAllSurrogates>Odpojit vše</ATPP_ProcessDisconnectAllSurrogates>
-	
 	<ATPP_StopVirused>Zastavit</ATPP_StopVirused>
 	<ATPP_StopVirusedDesc>Vypnout tohoto infikovaného surogáta</ATPP_StopVirusedDesc>
-	
 	<ATPP_PreviousSurrogateControllerIs>Předchozí operátor byl {0}</ATPP_PreviousSurrogateControllerIs>
-	
 	<ATPP_Skills>Dovednosti</ATPP_Skills>
 	<ATPP_SkillsDesc>Otevřít dílnu dovedností, která vám umožní převést body dovedností vygenerované vašimi servery na další dovednosti pro vaše androidy</ATPP_SkillsDesc>
-	
 	<ATPP_MindAbsorption>Pohlcení vědomí</ATPP_MindAbsorption>
 	<ATPP_MindAbsorptionDesc>Pohltit vědomí vězně za účelem jeho přeměny na body dovedností (smrtící zákrok)</ATPP_MindAbsorptionDesc>
-	
 	<ATPP_MindAbsorptionConfirm>Pohlcení vědomí</ATPP_MindAbsorptionConfirm>
 	<ATPP_MindAbsorptionConfirmDesc>Potvrzením bude vědomí {0} pohlceno a přeměněno na body dovedností (smrtící zákrok). Opravdu si přejete pokračovat?</ATPP_MindAbsorptionConfirmDesc>
-	
 	<ATPP_UploadMakeAndroidBatteryOverloadConfirm>Přetížit baterii</ATPP_UploadMakeAndroidBatteryOverloadConfirm>
 	<ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>Pozor: po potvrzení se baterie vybraného androida přetíží a po krátké chvíli exploduje. Opravdu si přejete pokračovat?</ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>
-	
 	<ATPP_OverloadAndroid>Přetížit</ATPP_OverloadAndroid>
 	<ATPP_OverloadAndroidDesc>Způsobit explozi baterie androida</ATPP_OverloadAndroidDesc>
-	
-	<!-- Power++ compat -->
 	<ATPP_LWPNConnected>Připojeno k {0}</ATPP_LWPNConnected>
 	<ATPP_LWPNDisconnected>Odpojeno od {0}</ATPP_LWPNDisconnected>
 	<ATPP_NoAvailableLWPN>Není k dispozici žádná LWPN</ATPP_NoAvailableLWPN>
 	<ATPP_LWPNNbConnectedAndroid>Připojení androidi: {0}</ATPP_LWPNNbConnectedAndroid>
 	<ATPP_MessageLWPNNoSlotAvailable>Není k dispozici žádný volný slot LWPN!</ATPP_MessageLWPNNoSlotAvailable>
-	
-	<!-- Buildings -->
 	<ATPP_SkyMindAntennaSynthesis>Připojení uživatelé: {0} / {1}</ATPP_SkyMindAntennaSynthesis>
 	<ATPP_ForceReload>Vynutit nabíjení baterie</ATPP_ForceReload>
 	<ATPP_CannotUseEveryPlaceUsed>Nelze použít, nabíjecí stanice je plná.</ATPP_CannotUseEveryPlaceUsed>
@@ -318,8 +229,6 @@
 	<ATPP_SkillServersSynthesis>Dostupné body dovedností: {0} / {1}</ATPP_SkillServersSynthesis>
 	<ATTP_SkillSlotsAdded>Přidané sloty dovedností: {0}</ATTP_SkillSlotsAdded>
 	<ATTP_SkillProducedPoints>Produkce bodů dovedností: {0}</ATTP_SkillProducedPoints>
-	
-	<!-- Colors -->
 	<ATPP_HairColor>Barva vlasů</ATPP_HairColor>
 	<ATPP_HairColorBlond>Blond</ATPP_HairColorBlond>
 	<ATPP_HairColorBlack>Černá</ATPP_HairColorBlack>
@@ -327,7 +236,6 @@
 	<ATPP_HairColorGrey>Šedá</ATPP_HairColorGrey>
 	<ATPP_HairColorGinger>Zrzavá</ATPP_HairColorGinger>
 	<ATPP_HairColorWhite>Bílá</ATPP_HairColorWhite>
-	
 	<ATPP_SkinColor>Barva kůže</ATPP_SkinColor>
 	<ATPP_SkinColorVerylight>Velmi světlá</ATPP_SkinColorVerylight>
 	<ATPP_SkinColorLight>Světlá</ATPP_SkinColorLight>
@@ -335,14 +243,11 @@
 	<ATPP_SkinColorMidbrown>Středně hnědá</ATPP_SkinColorMidbrown>
 	<ATPP_SkinColorDarkbrown>Tmavě hnědá</ATPP_SkinColorDarkbrown>
 	<ATPP_SkinColorVerydark>Velmi tmavě hnědá</ATPP_SkinColorVerydark>
-	
-	<!-- Messages -->
 	<ATPP_CannotConnectToSkyMindNoNet>Nelze se připojit k síti SkyMind, žádná síť není k dispozici!</ATPP_CannotConnectToSkyMindNoNet>
 	<ATPP_CannotConnectToSkyMind>Nelze se připojit k síti SkyMind, nedostatek volných slotů!</ATPP_CannotConnectToSkyMind>
 	<ATPP_SurrogateUnexpectedDisconnection>Neočekávané odpojení: {0} již není připojen k síti SkyMind!</ATPP_SurrogateUnexpectedDisconnection>
 	<ATPP_SurrogateConnectionCannotBeDisconnected>Nelze odpojit, {0} se právě nachází v nestabilním duševním stavu</ATPP_SurrogateConnectionCannotBeDisconnected>
 	<ATPP_SurrogateConnectionOK>{0} je nyní připojen k {1}</ATPP_SurrogateConnectionOK>
-	
 	<ATPP_StartPermute>Permutace vědomí mezi {0} a {1} začala!</ATPP_StartPermute>
 	<ATPP_StartDuplicate>Duplikace vědomí {0} do {1} začala!</ATPP_StartDuplicate>
 	<ATPP_StartSkyCloudUpload>Nahrávání vědomí {0} do {1} začalo!</ATPP_StartSkyCloudUpload>
@@ -350,50 +255,35 @@
 	<ATPP_StartSkyCloudDownload>Stahování vědomí {0} do mozku {1} začalo!</ATPP_StartSkyCloudDownload>
 	<ATPP_StartSkyCloudMigration>Migrace vědomí {0} z {1} do {2} začala!</ATPP_StartSkyCloudMigration>
 	<ATPP_StartSkyCloudMigrationFailed>Migraci vědomí {0} do {1} nelze provést, protože v {1} není dostatek místa pro uložení vědomí</ATPP_StartSkyCloudMigrationFailed>
-	
 	<ATPP_StartUpload>Nahrávání vědomí {0} do {1} začalo!</ATPP_StartUpload>
-	
 	<ATPP_CanOnlyBeUsedByAndroid>Toto zařízení mohou používat pouze androidi!</ATPP_CanOnlyBeUsedByAndroid>
 	<ATPP_CannotBeUsedBecauseNoOldAgeIssues>Nelze použít, protože u androida nebyly nalezeny žádné problémy způsobené stářím</ATPP_CannotBeUsedBecauseNoOldAgeIssues>
-	
 	<ATPP_NoBrokenStuffFound>U androida {0} nebyly nalezeny žádné závady!</ATPP_NoBrokenStuffFound>
 	<ATPP_BrokenStuffRepairFailed>Chyba: nanitům se nepodařilo provést opravu!</ATPP_BrokenStuffRepairFailed>
-	
 	<ATPP_BrokenCPURepaired>Umělý mozek byl úspěšně opraven!</ATPP_BrokenCPURepaired>
 	<ATPP_BrokenHydraulicSystemRepaired>Hydraulický systém byl úspěšně opraven!</ATPP_BrokenHydraulicSystemRepaired>
 	<ATPP_BrokenCoolingSystemRepaired>Chladicí systém byl úspěšně opraven!</ATPP_BrokenCoolingSystemRepaired>
 	<ATPP_BrokenFrameworkRepaired>Kostra byla úspěšně opravena!</ATPP_BrokenFrameworkRepaired>
-	
 	<ATPP_CryptolockerClearedByFaction>Frakce {0} odstranila svůj virus cryptolocker z vašeho infikovaného surogáta!</ATPP_CryptolockerClearedByFaction>
 	<ATPP_CryptolockerDeviceClearedByFaction>Frakce {0} odstranila svůj virus cryptolocker z vašich připojených zařízení!</ATPP_CryptolockerDeviceClearedByFaction>
 	<ATPP_RansomwareClearedByFaction>Frakce {0} provedla nezbytné opravy škod způsobených na {1}</ATPP_RansomwareClearedByFaction>
-	
 	<ATPP_SurrogateHackOK>Hackování {0} uspělo!</ATPP_SurrogateHackOK>
 	<ATPP_CannotHackNotEnoughtHackingPoints>Nedostatek hackerských bodů, k hacknutí je zapotřebí {0} bodů!</ATPP_CannotHackNotEnoughtHackingPoints>
-	
 	<ATPP_ProcessDuplicateOK>Neuronová síť {0} se právě duplikuje.</ATPP_ProcessDuplicateOK>
 	<ATPP_ProcessDuplicateFailed>Nelze duplikovat neuronovou síť {0}, v jádru není dostatek paměťového prostoru</ATPP_ProcessDuplicateFailed>
 	<ATPP_ProcessRemoveOK>Neuronová síť {0} byla odstraněna.</ATPP_ProcessRemoveOK>
 	<ATPP_ProcessAssistOK>Vědomí {0} je nyní přiřazeno k asistenci připojeným kolonistům.</ATPP_ProcessAssistOK>
 	<ATPP_ProcessUnassistOK>Vědomí {0} již není přiřazeno k asistenci připojeným kolonistům.</ATPP_ProcessUnassistOK>
-	
-	
 	<ATPP_ProcessNoLongerInMentalBreak>Vědomí {0} uložené v {1} již netrpí nervovým zhroucením</ATPP_ProcessNoLongerInMentalBreak>
 	<ATPP_CannotReconnectToLastSurrogateController>Nelze znovu připojit, poslední operátor surogáta je nedostupný (zaneprázdněný, mrtvý, nepřipojený k síti SkyMind...)</ATPP_CannotReconnectToLastSurrogateController>
-	
 	<ATPP_ProcessMassAssist>{0} vědomí bylo přiřazeno!</ATPP_ProcessMassAssist>
 	<ATPP_ProcessMassUnassist>{0} vědomí bylo odebráno!</ATPP_ProcessMassUnassist>
-	
 	<ATPP_SkillsWorkshopPointsConverted>{0} bodů dovedností bylo přidáno k {1}</ATPP_SkillsWorkshopPointsConverted>
 	<ATPP_SkillsWorkshopAvailablePoints>Dostupné body: {0}</ATPP_SkillsWorkshopAvailablePoints>
 	<ATPP_SkillsWorkshopAvailablePointsNote>Poznámka: Pro tento model androida potřebujete {0} bodů dovedností vygenerovaných servery k získání 1 dostupného bodu</ATPP_SkillsWorkshopAvailablePointsNote>
-	
 	<ATPP_MindAbsorptionStarted>Pohlcování vědomí {0} zahájeno</ATPP_MindAbsorptionStarted>
 	<ATPP_NotEnoughtSkillPoints>Nedostatek dostupných bodů dovedností! (vyžadováno {0} bodů)</ATPP_NotEnoughtSkillPoints>
 	<ATPP_CannotAddVXNeuralChipInSurrogates>Tento typ čipu nelze nainstalovat do surogáta! Čip byl poškozen a již jej nelze použít!</ATPP_CannotAddVXNeuralChipInSurrogates>
-
-	
-	<!-- Settings -->
 	<ATPP_SettingsSectionGeneral>Obecné</ATPP_SettingsSectionGeneral>
 	<ATPP_SettingsSectionSkyCloud>SkyCloud</ATPP_SettingsSectionSkyCloud>
 	<ATPP_SettingsSectionSecurity>Zabezpečení</ATPP_SettingsSectionSecurity>
@@ -401,19 +291,15 @@
 	<ATPP_SettingsSectionVX3>Neuronový čip VX3</ATPP_SettingsSectionVX3>
 	<ATPP_SettingsSectionSkills>Dovednosti T1/T2</ATPP_SettingsSectionSkills>
 	<ATPP_SettingsSectionBatteryOverload>Přetížení baterie</ATPP_SettingsSectionBatteryOverload>
-	
 	<ATPP_SettingsDefaultAndroidGeneratorMode>Výchozí režim energie androidů:</ATPP_SettingsDefaultAndroidGeneratorMode>
 	<ATPP_SettingsDefaultAndroidGeneratorModeBiomass>Používat generátor na biomasu (jedí)</ATPP_SettingsDefaultAndroidGeneratorModeBiomass>
 	<ATPP_SettingsDefaultAndroidGeneratorModeBattery>Přímo používat vnitřní baterii (nabíjejí se ze sítě)</ATPP_SettingsDefaultAndroidGeneratorModeBattery>
-	
 	<ATPP_SettingsMindUploadDuration>Doba trvání nahrávání vědomí ({0} h)</ATPP_SettingsMindUploadDuration>
 	<ATPP_SettingsMindReplicationDuration>Doba trvání replikace vědomí ({0} h)</ATPP_SettingsMindReplicationDuration>
-	
 	<ATPP_SettingsMindPermutationDuration>Doba trvání permutace vědomí ({0} h)</ATPP_SettingsMindPermutationDuration>
 	<ATPP_SettingsMindDuplicationDuration>Doba trvání duplikace vědomí ({0} h)</ATPP_SettingsMindDuplicationDuration>
 	<ATPP_SettingsMindUploadPercentageFail>Riziko neúspěchu přenosu vědomí ({0} %)</ATPP_SettingsMindUploadPercentageFail>
 	<ATPP_SettingsNanitePercentageFail>Riziko, že naniti nedokážou opravit androida ({0} %)</ATPP_SettingsNanitePercentageFail>
-	
 	<ATPP_SettingsCharchingStationWattIncrease>Zvýšení spotřeby energie během nabíjení {0}</ATPP_SettingsCharchingStationWattIncrease>
 	<ATPP_SettingsFoodGenerateLessEnergy>Biomasa (jídlo) dodává androidům méně energie (2× méně než lidem)</ATPP_SettingsFoodGenerateLessEnergy>
 	<ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>Procento nabití baterie každých 6 sekund ({0} %)</ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>
@@ -441,7 +327,6 @@
 	<ATPP_SettingsCostVirusExplosive>Výbušný virus</ATPP_SettingsCostVirusExplosive>
 	<ATPP_SettingsCostHack>Hackování</ATPP_SettingsCostHack>
 	<ATPP_SettingsCostHackTemp>Dočasné hackování</ATPP_SettingsCostHackTemp>
-	
 	<ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>Během slunečních erupcí jsou androidi vyřazeni z provozu</ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>
 	<ATPP_SettingsDisableServersAlarm>Vypnout teplotní alarm serverů</ATPP_SettingsDisableServersAlarm>
 	<ATPP_SettingsDisableServersAmbianceNoises>Vypnout okolní hluk serverů</ATPP_SettingsDisableServersAmbianceNoises>
@@ -453,7 +338,6 @@
 	<ATPP_SettingsMindMigrationCloudDuration>Doba trvání migrace vědomí ({0} h)</ATPP_SettingsMindMigrationCloudDuration>
 	<ATPP_SettingsHideRemotelyControlledIcon>Skrýt ikonu nad dálkově ovládanými zařízeními</ATPP_SettingsHideRemotelyControlledIcon>
 	<ATPP_SettingsSkyCloudBuffPerAssistingMind>Hodnota posílení za každé asistující vědomí SkyCloud ({0})</ATPP_SettingsSkyCloudBuffPerAssistingMind>
-	
 	<ATPP_SettingsNbSlotAddedForSkillServers>Počet slotů přidaných pro {0} servery dovedností ({1})</ATPP_SettingsNbSlotAddedForSkillServers>
 	<ATPP_SettingsNbSlotAddedForHackingServers>Počet slotů přidaných pro {0} hackerské servery ({1})</ATPP_SettingsNbSlotAddedForHackingServers>
 	<ATPP_SettingsNbSlotAddedForSecurityServers>Počet slotů přidaných pro {0} bezpečnostní servery ({1})</ATPP_SettingsNbSlotAddedForSecurityServers>
@@ -471,28 +355,23 @@
 	<ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>Neodstraňovat zapálení pro dovednosti androidům T1/T2</ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>
 	<ATPP_SettingsVX3MaxSurrogateControllableAtOnce>Maximální počet současně ovladatelných surogátů ({0})</ATPP_SettingsVX3MaxSurrogateControllableAtOnce>
 	<ATPP_SettingsNbPointsProducedForSkillServers>Počet bodů vyprodukovaných (každých 30 sekund) pro {0} servery dovedností ({1})</ATPP_SettingsNbPointsProducedForSkillServers>
-	
 	<ATPP_SettingsRandomSkillsMode>Dovednosti jsou náhodné</ATPP_SettingsRandomSkillsMode>
 	<ATPP_SettingsPreventM7T5AppearingInCharacterEditor>Zabránit zobrazení T5/M7 na obrazovce tvorby postav</ATPP_SettingsPreventM7T5AppearingInCharacterEditor>
 	<ATPP_SettingsMinHoursNaniteBankFramework>Minimální počet hodin potřebných k aplikaci účinku strukturálních nanitových bank ({0} h)</ATPP_SettingsMinHoursNaniteBankFramework>
 	<ATPP_SettingsMaxHoursNaniteBankFramework>Maximální počet hodin potřebných k aplikaci účinku strukturálních nanitových bank ({0} h)</ATPP_SettingsMaxHoursNaniteBankFramework>
-	
 	<ATPP_SettingsNbSkillPointsPerSkill>Počet bodů dovedností potřebných k vytvoření jedné dovednosti ({0})</ATPP_SettingsNbSkillPointsPerSkill>
-	<ATPP_RemoveComfortNeedForT3T4>Odstranit potřebu pohodlí pro androidy >= T3</ATPP_RemoveComfortNeedForT3T4>
+	<ATPP_RemoveComfortNeedForT3T4>Odstranit potřebu pohodlí pro androidy &gt;= T3</ATPP_RemoveComfortNeedForT3T4>
 	<ATPP_SettingsAllowHumanDrugsForT3P>Povolit lidské drogy pro androidy T3+</ATPP_SettingsAllowHumanDrugsForT3P>
 	<ATPP_SettingsAllowHumanDrugsFor>Povolit lidské drogy pro androidy</ATPP_SettingsAllowHumanDrugsFor>
-	
 	<ATPP_SettingsUploadMindToSkyCloudCoreMode>Režim nahrávání vědomí do jádra SkyCloud:</ATPP_SettingsUploadMindToSkyCloudCoreMode>
 	<ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>Tělo zdrojového vědomí je usmrceno</ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>
 	<ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>Neuronový čip zdrojového vědomí automaticky překonfiguruje své obvody do režimu VX0</ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>
 	<ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>Tělu zdrojového vědomí se nic nestane (duplikát)</ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>
 	<ATPP_SettingsRemoveSimpleMindedTraitOnUpload>Odstranit rys prostoduchosti při přenosu T1 do pokročilejšího hostitele (člověk, T2+)</ATPP_SettingsRemoveSimpleMindedTraitOnUpload>
-	
 	<ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>Šance, že vygenerovaný android může být natřen nebo zrezivělý ({0} %)</ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>
 	<ATPP_SettingsAndroidsCanRust>Androidi mohou rezivět</ATPP_SettingsAndroidsCanRust>
 	<ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>Minimální počet dní, než nátěr androida zreziví ({0} dní)</ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>
 	<ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>Maximální počet dní, než nátěr androida zreziví ({0} dní)</ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>
-	
 	<ATPP_SettingsAndroidsAreRare>Učinit androidy vzácnými pro ostatní frakce (VAROVÁNÍ: odstraní všechny frakce androidů)</ATPP_SettingsAndroidsAreRare>
 	<ATPP_SettingsAllowAutoRepaint>Povolit androidům automatické přeplánování nátěru, když stávající barva brzy vyprší</ATPP_SettingsAllowAutoRepaint>
 	<ATPP_SettingsAllowAutoRepaintPrisoned>Povolit uvězněným androidům také přeplánování nátěru</ATPP_SettingsAllowAutoRepaintPrisoned>
@@ -508,7 +387,6 @@
 	<ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>Šance, že naverbovaný operátor surogáta uprchne a připojí se k vaší frakci bez zatčení ({0} %)</ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>
 	<ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>Minimální počet hodin, než bude unesený M8 odpojen od SkyMind ({0} h)</ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>
 	<ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>Maximální počet hodin, než bude unesený M8 odpojen od SkyMind ({0} h)</ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>
-	
 	<ATPP_SettingsAndroidOverloadBatteryProrata>Síla výbuchu je úměrná úrovni nabití baterie</ATPP_SettingsAndroidOverloadBatteryProrata>
 	<ATPP_SettingsAndroidOverloadRadius>Poloměr výbuchu androida ({0})</ATPP_SettingsAndroidOverloadRadius>
 	<ATPP_SettingsM7OverloadRadius>Poloměr výbuchu M7 ({0})</ATPP_SettingsM7OverloadRadius>
@@ -517,4 +395,12 @@
 	<ATPP_SettingsAndroidOverloadExplosionTypeFire>Zápalný</ATPP_SettingsAndroidOverloadExplosionTypeFire>
 	<ATPP_SettingsSetT1ResearchToIndustrialTechLevel>Změnit technologickou úroveň výzkumu T1 na průmyslovou místo vesmírné</ATPP_SettingsSetT1ResearchToIndustrialTechLevel>
 	<ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>Při duplikaci vědomí jsou jedinečné schopnosti rolí přeneseny do cílového vědomí</ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>
+	<ATPP_AppliedSyntheticSkinSuccess>Syntetická dermální vrstva byla úspěšně naroubována na {0}. Jednotka je nyní infiltrační šasi.</ATPP_AppliedSyntheticSkinSuccess>
+	<ATPP_RemovedSyntheticSkinSuccess>Syntetická kůže byla úspěšně odstraněna z {0}, čímž byl odhalen holý těžký bojový endoskelet.</ATPP_RemovedSyntheticSkinSuccess>
+	<ATPP_AndroidSpawned>Jednotka {0} byla vytvořena.</ATPP_AndroidSpawned>
+	<ATPP_Transcendant>Transcendentní</ATPP_Transcendant>
+	<ATPP_LWPSel>Vybrat LWPN</ATPP_LWPSel>
+	<ATPP_WPNListRow>{0} ({1} W k dispozici)</ATPP_WPNListRow>
+	<ATPP_ClearCurrentWPNConnection>Zrušit aktuální připojení LWPN</ATPP_ClearCurrentWPNConnection>
+	<ATPP_LocalWirelessPowerSelectorListTitle>Vyberte místní bezdrátovou napájecí síť</ATPP_LocalWirelessPowerSelectorListTitle>
 </LanguageData>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATPP_ReloadStation.label>智能人形充電站</ATPP_ReloadStation.label>
+  <ATPP_ReloadStation.description>智能人形充電站，可同時容納最多8個智能人形充電。</ATPP_ReloadStation.description>
+  <ATPP_SkyMindLAN.label>天維V1天線</ATPP_SkyMindLAN.label>
+  <ATPP_SkyMindLAN.description>天維V1天線最多可容納3個同時連接的用戶端，它發射無線網路以允許將殖民者思維上傳至另一宿主並遠程控制SX系列智能人形或生物替代體。</ATPP_SkyMindLAN.description>
+  <ATPP_SkyMindWAN.label>天維V2天線</ATPP_SkyMindWAN.label>
+  <ATPP_SkyMindWAN.description>天維V2天線最多可容納15個同時連接的用戶端，它發射無線網路以允許將殖民者思維上傳至另一宿主並遠程控制SX系列智能人形或生物替代體。</ATPP_SkyMindWAN.description>
+  <ATPP_SkyMindRelayTower.label>天維中繼塔</ATPP_SkyMindRelayTower.label>
+  <ATPP_SkyMindRelayTower.description>天維中繼塔可放大天線信號，並防止替代體在遠距離控制時性能下降。</ATPP_SkyMindRelayTower.description>
+  <ATPP_I100Security.label>I-100（防護）</ATPP_I100Security.label>
+  <ATPP_I100Security.description>防火牆伺服器，負責保護您的天維網路免受網路攻擊與病毒侵害。</ATPP_I100Security.description>
+  <ATPP_I100Hacking.label>I-100（駭客）</ATPP_I100Hacking.label>
+  <ATPP_I100Hacking.description>駭客伺服器，允許您入侵連接到天維網路的用戶端。</ATPP_I100Hacking.description>
+  <ATPP_I100Skill.label>I-100（技能）</ATPP_I100Skill.label>
+  <ATPP_I100Skill.description>技能伺服器，允許您提升天維網路上已連接智能人形的技能點數。</ATPP_I100Skill.description>
+  <ATPP_I300Security.label>I-300（防護）</ATPP_I300Security.label>
+  <ATPP_I300Security.description>防火牆伺服器，負責保護您的天維網路免受網路攻擊與病毒侵害。</ATPP_I300Security.description>
+  <ATPP_I300Hacking.label>I-300（駭客）</ATPP_I300Hacking.label>
+  <ATPP_I300Hacking.description>駭客伺服器，允許您入侵連接到天維網路的用戶端。</ATPP_I300Hacking.description>
+  <ATPP_I300Skill.label>I-300（技能）</ATPP_I300Skill.label>
+  <ATPP_I300Skill.description>技能伺服器，允許您提升天維網路上已連接智能人形的技能點數。</ATPP_I300Skill.description>
+  <ATPP_I500Security.label>I-500（防護）</ATPP_I500Security.label>
+  <ATPP_I500Security.description>防火牆伺服器，負責保護您的天維網路免受網路攻擊與病毒侵害。</ATPP_I500Security.description>
+  <ATPP_I500Hacking.label>I-500（駭客）</ATPP_I500Hacking.label>
+  <ATPP_I500Hacking.description>駭客伺服器，允許您入侵連接到天維網路的用戶端。</ATPP_I500Hacking.description>
+  <ATPP_I500Skill.label>I-500（技能）</ATPP_I500Skill.label>
+  <ATPP_I500Skill.description>技能伺服器，允許您提升天維網路上已連接智能人形的技能點數。</ATPP_I500Skill.description>
+  <ATPP_AndroidPod.label>智能人形艙</ATPP_AndroidPod.label>
+  <ATPP_AndroidPod.description>一個可供智能人形修復、在等待宿主時存放（針對替代體）並在接通電源時進行充電的智能人形艙。</ATPP_AndroidPod.description>
+  <ATPP_AndroidPodMech.label>M7機兵艙</ATPP_AndroidPodMech.label>
+  <ATPP_AndroidPodMech.description>一個可供M7機兵修復、在等待宿主時存放（針對替代體）並在接通電源時進行充電的巨型艙室。</ATPP_AndroidPodMech.description>
+  <ATPP_SkyCloudCore.label>天云核心</ATPP_SkyCloudCore.label>
+  <ATPP_SkyCloudCore.description>一台超級電腦，可控制連接到天維網路的所有設備，並能將殖民者的數位化大腦上傳至其記憶體中，使其幾乎獲得不朽與全知。</ATPP_SkyCloudCore.description>
+</LanguageData>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATPP_DisassembleAndroid.label>死んだアンドロイドを解体</ATPP_DisassembleAndroid.label>
+  <ATPP_DisassembleAndroid.description>機能停止したアンドロイドを分解して構成部品を取り出します。</ATPP_DisassembleAndroid.description>
+  <ATPP_DisassembleAndroid.jobString>アンドロイドを解体中。</ATPP_DisassembleAndroid.jobString>
+  <ATPP_Make_NanitesHydraulicSerum.label>油圧用ナノマシン血清を作成</ATPP_Make_NanitesHydraulicSerum.label>
+  <ATPP_Make_NanitesHydraulicSerum.description>アンドロイドの経年劣化による不具合を修復するための油圧用ナノマシン血清を作成します。</ATPP_Make_NanitesHydraulicSerum.description>
+  <ATPP_Make_NanitesHydraulicSerum.jobString>アンドロイド用ナノマシン血清を作成中。</ATPP_Make_NanitesHydraulicSerum.jobString>
+  <ATPP_Make_NanitesCPUSerum.label>CPU用ナノマシン血清を作成</ATPP_Make_NanitesCPUSerum.label>
+  <ATPP_Make_NanitesCPUSerum.description>アンドロイドの経年劣化によるCPUの不具合を修復するためのCPU用ナノマシン血清を作成します。</ATPP_Make_NanitesCPUSerum.description>
+  <ATPP_Make_NanitesCPUSerum.jobString>アンドロイド用ナノマシン血清を作成中。</ATPP_Make_NanitesCPUSerum.jobString>
+  <ATPP_Make_NanitesCoolingSerum.label>冷却用ナノマシン血清を作成</ATPP_Make_NanitesCoolingSerum.label>
+  <ATPP_Make_NanitesCoolingSerum.description>アンドロイドの経年劣化による冷却システムの不具合を修復するための冷却用ナノマシン血清を作成します。</ATPP_Make_NanitesCoolingSerum.description>
+  <ATPP_Make_NanitesCoolingSerum.jobString>アンドロイド用ナノマシン血清を作成中。</ATPP_Make_NanitesCoolingSerum.jobString>
+  <ATPP_Make_NanitesFrameSerum.label>構造体用ナノマシン血清を作成</ATPP_Make_NanitesFrameSerum.label>
+  <ATPP_Make_NanitesFrameSerum.description>アンドロイドの経年劣化による外骨格の不具合を修復するための構造体用ナノマシン血清を作成します。</ATPP_Make_NanitesFrameSerum.description>
+  <ATPP_Make_NanitesFrameSerum.jobString>アンドロイド用ナノマシン血清を作成中。</ATPP_Make_NanitesFrameSerum.jobString>
+  <ATPP_Make_RXChip.label>RXニューラルチップを作成</ATPP_Make_RXChip.label>
+  <ATPP_Make_RXChip.description>個人用スカイマインド中継器として機能するニューラルチップ。</ATPP_Make_RXChip.description>
+  <ATPP_Make_RXChip.jobString>RXニューラルチップを作成中。</ATPP_Make_RXChip.jobString>
+  <ATPP_Make_VX0Chip.label>VX0ニューラルチップを作成</ATPP_Make_VX0Chip.label>
+  <ATPP_Make_VX0Chip.description>宿主を生体代理体へと変換するVX0ニューラルチップを作成します。</ATPP_Make_VX0Chip.description>
+  <ATPP_Make_VX0Chip.jobString>VX0ニューラルチップを作成中。</ATPP_Make_VX0Chip.jobString>
+  <ATPP_Make_VX1Chip.label>VX1ニューラルチップを作成</ATPP_Make_VX1Chip.label>
+  <ATPP_Make_VX1Chip.description>宿主がSXシリーズアンドロイドまたは生体代理体を遠隔操作できるようにするVX1チップを作成します。</ATPP_Make_VX1Chip.description>
+  <ATPP_Make_VX1Chip.jobString>VX1ニューラルチップを作成中。</ATPP_Make_VX1Chip.jobString>
+  <ATPP_Make_VX2Chip.label>VX2ニューラルチップを作成</ATPP_Make_VX2Chip.label>
+  <ATPP_Make_VX2Chip.description>宿主がSXシリーズアンドロイドまたは生体代理体を遠隔操作し、意識の複製・交換を行えるようにするVX2チップを作成します。</ATPP_Make_VX2Chip.description>
+  <ATPP_Make_VX2Chip.jobString>VX2ニューラルチップを作成中。</ATPP_Make_VX2Chip.jobString>
+  <ATPP_Make_VX3Chip.label>VX3ニューラルチップを作成</ATPP_Make_VX3Chip.label>
+  <ATPP_Make_VX3Chip.description>宿主が複数のSXシリーズアンドロイドまたは生体代理体を同時に遠隔操作し、意識の複製・交換を行えるようにするVX3チップを作成します。</ATPP_Make_VX3Chip.description>
+  <ATPP_Make_VX3Chip.jobString>VX3ニューラルチップを作成中。</ATPP_Make_VX3Chip.jobString>
+  <ATPP_InstallVX2Chip.label>VX2ニューラルチップを移植</ATPP_InstallVX2Chip.label>
+  <ATPP_InstallVX2Chip.description>宿主がSXシリーズアンドロイドまたは生体代理体を遠隔操作し、意識の複製・交換を行えるようにするVX2ニューラルチップを移植します。</ATPP_InstallVX2Chip.description>
+  <ATPP_InstallVX2Chip.jobString>VX2ニューラルチップを移植中。</ATPP_InstallVX2Chip.jobString>
+  <ATPP_InstallVX2ChipOnAndroid.label>アンドロイドにVX2ニューラルチップを移植</ATPP_InstallVX2ChipOnAndroid.label>
+  <ATPP_InstallVX2ChipOnAndroid.description>宿主がSXシリーズアンドロイドまたは生体代理体を遠隔操作し、意識の複製・交換を行えるようにするアンドロイドにVX2ニューラルチップを移植します。</ATPP_InstallVX2ChipOnAndroid.description>
+  <ATPP_InstallVX2ChipOnAndroid.jobString>アンドロイドにVX2ニューラルチップを移植中。</ATPP_InstallVX2ChipOnAndroid.jobString>
+  <ATPP_InstallVX3Chip.label>VX3ニューラルチップを移植</ATPP_InstallVX3Chip.label>
+  <ATPP_InstallVX3Chip.description>宿主が複数のSXシリーズアンドロイドまたは生体代理体を同時に遠隔操作し、意識の複製・交換を行えるようにするVX3ニューラルチップを移植します。</ATPP_InstallVX3Chip.description>
+  <ATPP_InstallVX3Chip.jobString>VX3ニューラルチップを移植中。</ATPP_InstallVX3Chip.jobString>
+  <ATPP_InstallVX3ChipOnAndroid.label>アンドロイドにVX3ニューラルチップを移植</ATPP_InstallVX3ChipOnAndroid.label>
+  <ATPP_InstallVX3ChipOnAndroid.description>宿主が複数のSXシリーズアンドロイドまたは生体代理体を同時に遠隔操作し、意識の複製・交換を行えるようにするアンドロイドにVX3ニューラルチップを移植します。</ATPP_InstallVX3ChipOnAndroid.description>
+  <ATPP_InstallVX3ChipOnAndroid.jobString>アンドロイドにVX3ニューラルチップを移植中。</ATPP_InstallVX3ChipOnAndroid.jobString>
+  <ATPP_InstallRXChip.label>RXニューラルチップを移植</ATPP_InstallRXChip.label>
+  <ATPP_InstallRXChip.description>宿主の個人用スカイマインド中継器として機能するRXニューラルチップを移植します。</ATPP_InstallRXChip.description>
+  <ATPP_InstallRXChip.jobString>RXニューラルチップを移植中。</ATPP_InstallRXChip.jobString>
+  <ATPP_InstallRXChipOnAndroid.label>アンドロイドにRXニューラルチップを移植</ATPP_InstallRXChipOnAndroid.label>
+  <ATPP_InstallRXChipOnAndroid.description>宿主の個人用スカイマインド中継器として機能するアンドロイドにRXニューラルチップを移植します。</ATPP_InstallRXChipOnAndroid.description>
+  <ATPP_InstallRXChipOnAndroid.jobString>アンドロイドにRXニューラルチップを移植中。</ATPP_InstallRXChipOnAndroid.jobString>
+  <ATPP_InstallVX0ChipOnAndroid.label>アンドロイドにVX0ニューラルチップを移植</ATPP_InstallVX0ChipOnAndroid.label>
+  <ATPP_InstallVX0ChipOnAndroid.description>宿主を生体代理体へと変換するアンドロイドにVX0ニューラルチップを移植します。</ATPP_InstallVX0ChipOnAndroid.description>
+  <ATPP_InstallVX0ChipOnAndroid.jobString>アンドロイドにVX0ニューラルチップを移植中。</ATPP_InstallVX0ChipOnAndroid.jobString>
+  <ATPP_InstallVX0Chip.label>VX0ニューラルチップを移植</ATPP_InstallVX0Chip.label>
+  <ATPP_InstallVX0Chip.description>宿主を生体代理体へと変換するVX0ニューラルチップを移植します。</ATPP_InstallVX0Chip.description>
+  <ATPP_InstallVX0Chip.jobString>VX0ニューラルチップを移植中。</ATPP_InstallVX0Chip.jobString>
+  <ATPP_InstallVX1Chip.label>VX1ニューラルチップを移植</ATPP_InstallVX1Chip.label>
+  <ATPP_InstallVX1Chip.description>宿主がSXシリーズアンドロイドまたは生体代理体を遠隔操作できるようにするVX1ニューラルチップを移植します。</ATPP_InstallVX1Chip.description>
+  <ATPP_InstallVX1Chip.jobString>VX1ニューラルチップを移植中。</ATPP_InstallVX1Chip.jobString>
+  <ATPP_InstallVX1ChipOnAndroid.label>アンドロイドにVX1ニューラルチップを移植</ATPP_InstallVX1ChipOnAndroid.label>
+  <ATPP_InstallVX1ChipOnAndroid.description>宿主がSXシリーズアンドロイドまたは生体代理体を遠隔操作できるようにするアンドロイドにVX1ニューラルチップを移植します。</ATPP_InstallVX1ChipOnAndroid.description>
+  <ATPP_InstallVX1ChipOnAndroid.jobString>アンドロイドにVX1ニューラルチップを移植中。</ATPP_InstallVX1ChipOnAndroid.jobString>
+  <ATPP_CreateS1.label>T1代理アンドロイドを製造 (S1)</ATPP_CreateS1.label>
+  <ATPP_CreateS1.description>プラスチールとコンポーネントから空白のS1アンドロイドを製造します。</ATPP_CreateS1.description>
+  <ATPP_CreateS1.jobString>S1アンドロイドを製造中。</ATPP_CreateS1.jobString>
+  <ATPP_CreateS2.label>T2代理アンドロイドを製造 (S2)</ATPP_CreateS2.label>
+  <ATPP_CreateS2.description>プラスチールとコンポーネントから空白のS2アンドロイドを製造します。</ATPP_CreateS2.description>
+  <ATPP_CreateS2.jobString>S2アンドロイドを製造中。</ATPP_CreateS2.jobString>
+  <ATPP_CreateS3.label>T3代理アンドロイドを製造 (S3)</ATPP_CreateS3.label>
+  <ATPP_CreateS3.description>プラスチールとコンポーネントから空白のS3アンドロイドを製造します。</ATPP_CreateS3.description>
+  <ATPP_CreateS3.jobString>S3アンドロイドを製造中。</ATPP_CreateS3.jobString>
+  <ATPP_CreateS4.label>T4代理アンドロイドを製造 (S4)</ATPP_CreateS4.label>
+  <ATPP_CreateS4.description>プラスチールとコンポーネントから空白のS4アンドロイドを製造します。</ATPP_CreateS4.description>
+  <ATPP_CreateS4.jobString>S4アンドロイドを製造中。</ATPP_CreateS4.jobString>
+  <ATPP_CreateHellDrone.label>ヘルユニット代理アンドロイドを製造 (S-HU)</ATPP_CreateHellDrone.label>
+  <ATPP_CreateHellDrone.description>プラスチールとコンポーネントから空白のS-HUアンドロイドを製造します。</ATPP_CreateHellDrone.description>
+  <ATPP_CreateHellDrone.jobString>S-HUアンドロイドを製造中。</ATPP_CreateHellDrone.jobString>
+  <ATPP_CreateM7.label>M7代理メカノイドを製造 (SM7)</ATPP_CreateM7.label>
+  <ATPP_CreateM7.description>プラスチールとコンポーネントから空白のSM7メカノイドを製造します。</ATPP_CreateM7.description>
+  <ATPP_CreateM7.jobString>SM7メカノイドを製造中。</ATPP_CreateM7.jobString>
+  <ATPP_CreateBlankT3.label>空白ニューラルネットワークT3アンドロイドを製造</ATPP_CreateBlankT3.label>
+  <ATPP_CreateBlankT3.description>空白ニューラルネットワークT3アンドロイドを製造します</ATPP_CreateBlankT3.description>
+  <ATPP_CreateBlankT3.jobString>空白ニューラルネットワークT3アンドロイドを製造中</ATPP_CreateBlankT3.jobString>
+  <ATPP_CreateBlankT4.label>空白ニューラルネットワークT4アンドロイドを製造</ATPP_CreateBlankT4.label>
+  <ATPP_CreateBlankT4.description>空白ニューラルネットワークT4アンドロイドを製造します</ATPP_CreateBlankT4.description>
+  <ATPP_CreateBlankT4.jobString>空白ニューラルネットワークT4アンドロイドを製造中</ATPP_CreateBlankT4.jobString>
+  <ATPP_Make_SM7Mech40MMCannon.label>40mm機関砲を作成 (SM7用武装)</ATPP_Make_SM7Mech40MMCannon.label>
+  <ATPP_Make_SM7Mech40MMCannon.description>40mm機関砲を作成します (SM7用武装)</ATPP_Make_SM7Mech40MMCannon.description>
+  <ATPP_Make_SM7Mech40MMCannon.jobString>40mm機関砲を作成中 (SM7用武装)</ATPP_Make_SM7Mech40MMCannon.jobString>
+  <ATPP_Make_SM7MechMastiffGun.label>マスティフ・ショットガンを作成 (SM7用武装)</ATPP_Make_SM7MechMastiffGun.label>
+  <ATPP_Make_SM7MechMastiffGun.description>マスティフ・ショットガンを作成します (SM7用武装)</ATPP_Make_SM7MechMastiffGun.description>
+  <ATPP_Make_SM7MechMastiffGun.jobString>マスティフ・ショットガンを作成中 (SM7用武装)</ATPP_Make_SM7MechMastiffGun.jobString>
+  <ATPP_Make_SM7MechHandCannon.label>X-5ハンドキャノンを作成 (SM7用武装)</ATPP_Make_SM7MechHandCannon.label>
+  <ATPP_Make_SM7MechHandCannon.description>X-5ハンドキャノンを作成します (SM7用武装)</ATPP_Make_SM7MechHandCannon.description>
+  <ATPP_Make_SM7MechHandCannon.jobString>X-5ハンドキャノンを作成中 (SM7用武装)</ATPP_Make_SM7MechHandCannon.jobString>
+  <ATPP_PaintAndroidFrameworkKhaki.label>アンドロイドのフレームをカーキ色に塗装</ATPP_PaintAndroidFrameworkKhaki.label>
+  <ATPP_PaintAndroidFrameworkKhaki.description>アンドロイドのフレームをカーキ色に塗装します</ATPP_PaintAndroidFrameworkKhaki.description>
+  <ATPP_PaintAndroidFrameworkKhaki.jobString>アンドロイドのフレームをカーキ色に塗装中</ATPP_PaintAndroidFrameworkKhaki.jobString>
+  <ATPP_PaintAndroidFrameworkGreen.label>アンドロイドのフレームを緑色に塗装</ATPP_PaintAndroidFrameworkGreen.label>
+  <ATPP_PaintAndroidFrameworkGreen.description>アンドロイドのフレームを緑色に塗装します</ATPP_PaintAndroidFrameworkGreen.description>
+  <ATPP_PaintAndroidFrameworkGreen.jobString>アンドロイドのフレームを緑色に塗装中</ATPP_PaintAndroidFrameworkGreen.jobString>
+  <ATPP_PaintAndroidFrameworkBlue.label>アンドロイドのフレームを青色に塗装</ATPP_PaintAndroidFrameworkBlue.label>
+  <ATPP_PaintAndroidFrameworkBlue.description>アンドロイドのフレームを青色に塗装します</ATPP_PaintAndroidFrameworkBlue.description>
+  <ATPP_PaintAndroidFrameworkBlue.jobString>アンドロイドのフレームを青色に塗装中</ATPP_PaintAndroidFrameworkBlue.jobString>
+  <ATPP_PaintAndroidFrameworkRed.label>アンドロイドのフレームを赤色に塗装</ATPP_PaintAndroidFrameworkRed.label>
+  <ATPP_PaintAndroidFrameworkRed.description>アンドロイドのフレームを赤色に塗装します</ATPP_PaintAndroidFrameworkRed.description>
+  <ATPP_PaintAndroidFrameworkRed.jobString>アンドロイドのフレームを赤色に塗装中</ATPP_PaintAndroidFrameworkRed.jobString>
+  <ATPP_PaintAndroidFrameworkYellow.label>アンドロイドのフレームを黄色に塗装</ATPP_PaintAndroidFrameworkYellow.label>
+  <ATPP_PaintAndroidFrameworkYellow.description>アンドロイドのフレームを黄色に塗装します</ATPP_PaintAndroidFrameworkYellow.description>
+  <ATPP_PaintAndroidFrameworkYellow.jobString>アンドロイドのフレームを黄色に塗装中</ATPP_PaintAndroidFrameworkYellow.jobString>
+  <ATPP_PaintAndroidFrameworkOrange.label>アンドロイドのフレームをオレンジ色に塗装</ATPP_PaintAndroidFrameworkOrange.label>
+  <ATPP_PaintAndroidFrameworkOrange.description>アンドロイドのフレームをオレンジ色に塗装します</ATPP_PaintAndroidFrameworkOrange.description>
+  <ATPP_PaintAndroidFrameworkOrange.jobString>アンドロイドのフレームをオレンジ色に塗装中</ATPP_PaintAndroidFrameworkOrange.jobString>
+  <ATPP_PaintAndroidFrameworkBlack.label>アンドロイドのフレームを黒色に塗装</ATPP_PaintAndroidFrameworkBlack.label>
+  <ATPP_PaintAndroidFrameworkBlack.description>アンドロイドのフレームを黒色に塗装します</ATPP_PaintAndroidFrameworkBlack.description>
+  <ATPP_PaintAndroidFrameworkBlack.jobString>アンドロイドのフレームを黒色に塗装中</ATPP_PaintAndroidFrameworkBlack.jobString>
+  <ATPP_PaintAndroidFrameworkWhite.label>アンドロイドのフレームを白色に塗装</ATPP_PaintAndroidFrameworkWhite.label>
+  <ATPP_PaintAndroidFrameworkWhite.description>アンドロイドのフレームを白色に塗装します</ATPP_PaintAndroidFrameworkWhite.description>
+  <ATPP_PaintAndroidFrameworkWhite.jobString>アンドロイドのフレームを白色に塗装中</ATPP_PaintAndroidFrameworkWhite.jobString>
+  <ATPP_PaintAndroidFrameworkGray.label>アンドロイドのフレームを灰色に塗装</ATPP_PaintAndroidFrameworkGray.label>
+  <ATPP_PaintAndroidFrameworkGray.description>アンドロイドのフレームを灰色に塗装します</ATPP_PaintAndroidFrameworkGray.description>
+  <ATPP_PaintAndroidFrameworkGray.jobString>アンドロイドのフレームを灰色に塗装中</ATPP_PaintAndroidFrameworkGray.jobString>
+  <ATPP_PaintAndroidFrameworkPurple.label>アンドロイドのフレームを紫色に塗装</ATPP_PaintAndroidFrameworkPurple.label>
+  <ATPP_PaintAndroidFrameworkPurple.description>アンドロイドのフレームを紫色に塗装します</ATPP_PaintAndroidFrameworkPurple.description>
+  <ATPP_PaintAndroidFrameworkPurple.jobString>アンドロイドのフレームを紫色に塗装中</ATPP_PaintAndroidFrameworkPurple.jobString>
+  <ATPP_PaintAndroidFrameworkPink.label>アンドロイドのフレームをピンク色に塗装</ATPP_PaintAndroidFrameworkPink.label>
+  <ATPP_PaintAndroidFrameworkPink.description>アンドロイドのフレームをピンク色に塗装します</ATPP_PaintAndroidFrameworkPink.description>
+  <ATPP_PaintAndroidFrameworkPink.jobString>アンドロイドのフレームをピンク色に塗装中</ATPP_PaintAndroidFrameworkPink.jobString>
+  <ATPP_PaintAndroidFrameworkCyan.label>アンドロイドのフレームをシアン色に塗装</ATPP_PaintAndroidFrameworkCyan.label>
+  <ATPP_PaintAndroidFrameworkCyan.description>アンドロイドのフレームをシアン色に塗装します</ATPP_PaintAndroidFrameworkCyan.description>
+  <ATPP_PaintAndroidFrameworkCyan.jobString>アンドロイドのフレームをシアン色に塗装中</ATPP_PaintAndroidFrameworkCyan.jobString>
+  <ATPP_PaintAndroidFrameworkDefault.label>アンドロイドのフレームを既定色に塗装</ATPP_PaintAndroidFrameworkDefault.label>
+  <ATPP_PaintAndroidFrameworkDefault.description>アンドロイドのフレームを既定色に塗装します</ATPP_PaintAndroidFrameworkDefault.description>
+  <ATPP_PaintAndroidFrameworkDefault.jobString>アンドロイドのフレームを既定色に塗装中</ATPP_PaintAndroidFrameworkDefault.jobString>
+  <ATPP_ApplyHydraulicNaniteBank.label>油圧系ナノマシンバンクを投与</ATPP_ApplyHydraulicNaniteBank.label>
+  <ATPP_ApplyHydraulicNaniteBank.description>破損したアンドロイドの油圧システムを修復する使い切り用ナノマシンバンクを投与します。</ATPP_ApplyHydraulicNaniteBank.description>
+  <ATPP_ApplyHydraulicNaniteBank.jobString>ナノマシン血清でアンドロイドの経年劣化を修復中</ATPP_ApplyHydraulicNaniteBank.jobString>
+  <ATPP_ApplyHealFrameworkSystem.label>構造体ナノマシンバンクを投与</ATPP_ApplyHealFrameworkSystem.label>
+  <ATPP_ApplyHealFrameworkSystem.description>破損したアンドロイドの外骨格を修復する使い切り用ナノマシンバンクを投与します。</ATPP_ApplyHealFrameworkSystem.description>
+  <ATPP_ApplyHealFrameworkSystem.jobString>ナノマシン血清でアンドロイドの経年劣化を修復中</ATPP_ApplyHealFrameworkSystem.jobString>
+  <ATPP_ApplyHealCoolingSystem.label>冷却系ナノマシンバンクを投与</ATPP_ApplyHealCoolingSystem.label>
+  <ATPP_ApplyHealCoolingSystem.description>過熱で破損したアンドロイドの冷却システムを修復する使い切り用ナノマシンバンクを投与します。</ATPP_ApplyHealCoolingSystem.description>
+  <ATPP_ApplyHealCoolingSystem.jobString>ナノマシン血清でアンドロイドの経年劣化を修復中</ATPP_ApplyHealCoolingSystem.jobString>
+  <ATPP_ApplyHealCPUSerum.label>CPUナノマシンバンクを投与</ATPP_ApplyHealCPUSerum.label>
+  <ATPP_ApplyHealCPUSerum.description>破損したアンドロイドの人工頭脳システムを修復する使い切り用ナノマシンバンクを投与します。</ATPP_ApplyHealCPUSerum.description>
+  <ATPP_ApplyHealCPUSerum.jobString>ナノマシン血清でアンドロイドの経年劣化を修復中</ATPP_ApplyHealCPUSerum.jobString>
+  <ATPP_Make_T1ArtificialBrain.label>T1人工頭脳を作成</ATPP_Make_T1ArtificialBrain.label>
+  <ATPP_Make_T1ArtificialBrain.description>代理体を空白ニューラルネットワークのアンドロイドへと変換するためのT1人工頭脳を作成します。</ATPP_Make_T1ArtificialBrain.description>
+  <ATPP_Make_T1ArtificialBrain.jobString>T1人工頭脳を作成中。</ATPP_Make_T1ArtificialBrain.jobString>
+  <ATPP_Make_T2ArtificialBrain.label>T2人工頭脳を作成</ATPP_Make_T2ArtificialBrain.label>
+  <ATPP_Make_T2ArtificialBrain.description>代理体を空白ニューラルネットワークのアンドロイドへと変換するためのT2人工頭脳を作成します。</ATPP_Make_T2ArtificialBrain.description>
+  <ATPP_Make_T2ArtificialBrain.jobString>T2人工頭脳を作成中。</ATPP_Make_T2ArtificialBrain.jobString>
+  <ATPP_Make_T3ArtificialBrain.label>T3人工頭脳を作成</ATPP_Make_T3ArtificialBrain.label>
+  <ATPP_Make_T3ArtificialBrain.description>代理体を空白ニューラルネットワークのアンドロイドへと変換するためのT3人工頭脳を作成します。</ATPP_Make_T3ArtificialBrain.description>
+  <ATPP_Make_T3ArtificialBrain.jobString>T3人工頭脳を作成中。</ATPP_Make_T3ArtificialBrain.jobString>
+  <ATPP_Make_T4ArtificialBrain.label>T4人工頭脳を作成</ATPP_Make_T4ArtificialBrain.label>
+  <ATPP_Make_T4ArtificialBrain.description>代理体を空白ニューラルネットワークのアンドロイドへと変換するためのT4人工頭脳を作成します。</ATPP_Make_T4ArtificialBrain.description>
+  <ATPP_Make_T4ArtificialBrain.jobString>T4人工頭脳を作成中。</ATPP_Make_T4ArtificialBrain.jobString>
+  <ATPP_InstallT1ArtificialBrain.label>T1人工頭脳を移植</ATPP_InstallT1ArtificialBrain.label>
+  <ATPP_InstallT1ArtificialBrain.description>T1人工頭脳を移植し、T1代理体を空白ニューラルネットワークのアンドロイドへと変換します</ATPP_InstallT1ArtificialBrain.description>
+  <ATPP_InstallT1ArtificialBrain.jobString>T1人工頭脳を移植中。</ATPP_InstallT1ArtificialBrain.jobString>
+  <ATPP_InstallT2ArtificialBrain.label>T2人工頭脳を移植</ATPP_InstallT2ArtificialBrain.label>
+  <ATPP_InstallT2ArtificialBrain.description>T2人工頭脳を移植し、T2代理体を空白ニューラルネットワークのアンドロイドへと変換します</ATPP_InstallT2ArtificialBrain.description>
+  <ATPP_InstallT2ArtificialBrain.jobString>T2人工頭脳を移植中。</ATPP_InstallT2ArtificialBrain.jobString>
+  <ATPP_InstallT3ArtificialBrain.label>T3人工頭脳を移植</ATPP_InstallT3ArtificialBrain.label>
+  <ATPP_InstallT3ArtificialBrain.description>T3人工頭脳を移植し、T3代理体を空白ニューラルネットワークのアンドロイドへと変換します</ATPP_InstallT3ArtificialBrain.description>
+  <ATPP_InstallT3ArtificialBrain.jobString>T3人工頭脳を移植中。</ATPP_InstallT3ArtificialBrain.jobString>
+  <ATPP_InstallT4ArtificialBrain.label>T4人工頭脳を移植</ATPP_InstallT4ArtificialBrain.label>
+  <ATPP_InstallT4ArtificialBrain.description>T4人工頭脳を移植し、T4代理体を空白ニューラルネットワークのアンドロイドへと変換します</ATPP_InstallT4ArtificialBrain.description>
+  <ATPP_InstallT4ArtificialBrain.jobString>T4人工頭脳を移植中。</ATPP_InstallT4ArtificialBrain.jobString>
+  <ATPP_CreateSX2.label>TX2 男性型代理アンドロイドを製造 (SX2)</ATPP_CreateSX2.label>
+  <ATPP_CreateSX2.description>プラスチールとコンポーネントから空白のSX2男性型アンドロイドを製造します。</ATPP_CreateSX2.description>
+  <ATPP_CreateSX2.jobString>SX2アンドロイドを製造中。</ATPP_CreateSX2.jobString>
+  <ATPP_CreateSX2Female.label>TX2 女性型代理アンドロイドを製造 (SX2)</ATPP_CreateSX2Female.label>
+  <ATPP_CreateSX2Female.description>プラスチールとコンポーネントから空白のSX2女性型アンドロイドを製造します。</ATPP_CreateSX2Female.description>
+  <ATPP_CreateSX2Female.jobString>SX2アンドロイドを製造中。</ATPP_CreateSX2Female.jobString>
+  <ATPP_CreateSX3.label>TX3 男性型代理アンドロイドを製造 (SX3)</ATPP_CreateSX3.label>
+  <ATPP_CreateSX3.description>プラスチールとコンポーネントから空白のSX3男性型アンドロイドを製造します。</ATPP_CreateSX3.description>
+  <ATPP_CreateSX3.jobString>SX3アンドロイドを製造中。</ATPP_CreateSX3.jobString>
+  <ATPP_CreateSX3Female.label>TX3 女性型代理アンドロイドを製造 (SX3)</ATPP_CreateSX3Female.label>
+  <ATPP_CreateSX3Female.description>プラスチールとコンポーネントから空白のSX3女性型アンドロイドを製造します。</ATPP_CreateSX3Female.description>
+  <ATPP_CreateSX3Female.jobString>SX3アンドロイドを製造中。</ATPP_CreateSX3Female.jobString>
+  <ATPP_CreateSX4.label>TX4 代理アンドロイドを製造 (SX4)</ATPP_CreateSX4.label>
+  <ATPP_CreateSX4.description>プラスチールとコンポーネントから空白のSX4アンドロイドを製造します。</ATPP_CreateSX4.description>
+  <ATPP_CreateSX4.jobString>SX4アンドロイドを製造中。</ATPP_CreateSX4.jobString>
+  <ATPP_CreateSX4Female.label>TX4 女性型代理アンドロイドを製造 (SX4)</ATPP_CreateSX4Female.label>
+  <ATPP_CreateSX4Female.description>プラスチールとコンポーネントから空白のSX4女性型アンドロイドを製造します。</ATPP_CreateSX4Female.description>
+  <ATPP_CreateSX4Female.jobString>SX4アンドロイドを製造中。</ATPP_CreateSX4Female.jobString>
+  <ATPP_CreateSX2I.label>TX2I 男性型代理アンドロイドを製造 (SX2I)</ATPP_CreateSX2I.label>
+  <ATPP_CreateSX2I.description>プラスチールとコンポーネントから空白のSX2I男性型アンドロイドを製造します。</ATPP_CreateSX2I.description>
+  <ATPP_CreateSX2I.jobString>SX2Iアンドロイドを製造中。</ATPP_CreateSX2I.jobString>
+  <ATPP_CreateSX2IFemale.label>TX2I 女性型代理アンドロイドを製造 (SX2I)</ATPP_CreateSX2IFemale.label>
+  <ATPP_CreateSX2IFemale.description>プラスチールとコンポーネントから空白のSX2I女性型アンドロイドを製造します。</ATPP_CreateSX2IFemale.description>
+  <ATPP_CreateSX2IFemale.jobString>SX2Iアンドロイドを製造中。</ATPP_CreateSX2IFemale.jobString>
+  <ATPP_CreateSX2K.label>TX2K 男性型代理アンドロイドを製造 (SX2K)</ATPP_CreateSX2K.label>
+  <ATPP_CreateSX2K.description>プラスチールとコンポーネントから空白のSX2K男性型アンドロイドを製造します。</ATPP_CreateSX2K.description>
+  <ATPP_CreateSX2K.jobString>SX2Kアンドロイドを製造中。</ATPP_CreateSX2K.jobString>
+  <ATPP_CreateSX2KFemale.label>TX2K 女性型代理アンドロイドを製造 (SX2K)</ATPP_CreateSX2KFemale.label>
+  <ATPP_CreateSX2KFemale.description>プラスチールとコンポーネントから空白のSX2K女性型アンドロイドを製造します。</ATPP_CreateSX2KFemale.description>
+  <ATPP_CreateSX2KFemale.jobString>SX2Kアンドロイドを製造中。</ATPP_CreateSX2KFemale.jobString>
+  <ATPP_CreateSX2KI.label>TX2KI 代理アンドロイドを製造 (SX2KI)</ATPP_CreateSX2KI.label>
+  <ATPP_CreateSX2KI.description>プラスチールとコンポーネントから空白のSX2KIアンドロイドを製造します。</ATPP_CreateSX2KI.description>
+  <ATPP_CreateSX2KI.jobString>SX2KIアンドロイドを製造中。</ATPP_CreateSX2KI.jobString>
+  <ATPP_CreateSX2KIFemale.label>TX2KI 女性型代理アンドロイドを製造 (SX2KI)</ATPP_CreateSX2KIFemale.label>
+  <ATPP_CreateSX2KIFemale.description>プラスチールとコンポーネントから空白のSX2KI女性型アンドロイドを製造します。</ATPP_CreateSX2KIFemale.description>
+  <ATPP_CreateSX2KIFemale.jobString>SX2KI女性型アンドロイドを製造中。</ATPP_CreateSX2KIFemale.jobString>
+  <ATPP_CreateSX3I.label>TX3I 男性型代理アンドロイドを製造 (SX3I)</ATPP_CreateSX3I.label>
+  <ATPP_CreateSX3I.description>プラスチールとコンポーネントから空白のSX3I男性型アンドロイドを製造します。</ATPP_CreateSX3I.description>
+  <ATPP_CreateSX3I.jobString>SX3Iアンドロイドを製造中。</ATPP_CreateSX3I.jobString>
+  <ATPP_CreateSX3IFemale.label>TX3I 女性型代理アンドロイドを製造 (SX3I)</ATPP_CreateSX3IFemale.label>
+  <ATPP_CreateSX3IFemale.description>プラスチールとコンポーネントから空白のSX3I女性型アンドロイドを製造します。</ATPP_CreateSX3IFemale.description>
+  <ATPP_CreateSX3IFemale.jobString>SX3Iアンドロイドを製造中。</ATPP_CreateSX3IFemale.jobString>
+  <ATPP_CreateSX4I.label>TX4I 代理アンドロイドを製造 (SX4I)</ATPP_CreateSX4I.label>
+  <ATPP_CreateSX4I.description>プラスチールとコンポーネントから空白のSX4Iアンドロイドを製造します。</ATPP_CreateSX4I.description>
+  <ATPP_CreateSX4I.jobString>SX4Iアンドロイドを製造中。</ATPP_CreateSX4I.jobString>
+  <ATPP_CreateSX4IFemale.label>TX4I 女性型代理アンドロイドを製造 (SX4I)</ATPP_CreateSX4IFemale.label>
+  <ATPP_CreateSX4IFemale.description>プラスチールとコンポーネントから空白のSX4I女性型アンドロイドを製造します。</ATPP_CreateSX4IFemale.description>
+  <ATPP_CreateSX4IFemale.jobString>SX4Iアンドロイドを製造中。</ATPP_CreateSX4IFemale.jobString>
+  <ATPP_CreateTX4Android.label>TX4 男性型アンドロイドを製造</ATPP_CreateTX4Android.label>
+  <ATPP_CreateTX4Android.description>TX4 男性型アンドロイドを製造します</ATPP_CreateTX4Android.description>
+  <ATPP_CreateTX4Android.jobString>TX4アンドロイドを製造中</ATPP_CreateTX4Android.jobString>
+  <ATPP_CreateTX4FemaleAndroid.label>TX4 女性型アンドロイドを製造</ATPP_CreateTX4FemaleAndroid.label>
+  <ATPP_CreateTX4FemaleAndroid.description>TX4 女性型アンドロイドを製造します</ATPP_CreateTX4FemaleAndroid.description>
+  <ATPP_CreateTX4FemaleAndroid.jobString>TX4アンドロイドを製造中</ATPP_CreateTX4FemaleAndroid.jobString>
+  <ATPP_CreateTX3Android.label>TX3 男性型アンドロイドを製造</ATPP_CreateTX3Android.label>
+  <ATPP_CreateTX3Android.description>TX3 男性型アンドロイドを製造します</ATPP_CreateTX3Android.description>
+  <ATPP_CreateTX3Android.jobString>TX3アンドロイドを製造中</ATPP_CreateTX3Android.jobString>
+  <ATPP_CreateTX3FemaleAndroid.label>TX3 女性型アンドロイドを製造</ATPP_CreateTX3FemaleAndroid.label>
+  <ATPP_CreateTX3FemaleAndroid.description>TX3 女性型アンドロイドを製造します</ATPP_CreateTX3FemaleAndroid.description>
+  <ATPP_CreateTX3FemaleAndroid.jobString>TX3アンドロイドを製造中</ATPP_CreateTX3FemaleAndroid.jobString>
+  <ATPP_CreateTX2Android.label>TX2 男性型アンドロイドを製造</ATPP_CreateTX2Android.label>
+  <ATPP_CreateTX2Android.description>TX2 男性型アンドロイドを製造します</ATPP_CreateTX2Android.description>
+  <ATPP_CreateTX2Android.jobString>TX2アンドロイドを製造中</ATPP_CreateTX2Android.jobString>
+  <ATPP_CreateTX2FemaleAndroid.label>TX2 女性型アンドロイドを製造</ATPP_CreateTX2FemaleAndroid.label>
+  <ATPP_CreateTX2FemaleAndroid.description>TX2 女性型アンドロイドを製造します</ATPP_CreateTX2FemaleAndroid.description>
+  <ATPP_CreateTX2FemaleAndroid.jobString>TX2アンドロイドを製造中</ATPP_CreateTX2FemaleAndroid.jobString>
+  <ATPP_CreateTX4IAndroid.label>TX4I 男性型アンドロイドを製造</ATPP_CreateTX4IAndroid.label>
+  <ATPP_CreateTX4IAndroid.description>TX4I 男性型アンドロイドを製造します</ATPP_CreateTX4IAndroid.description>
+  <ATPP_CreateTX4IAndroid.jobString>TX4Iアンドロイドを製造中</ATPP_CreateTX4IAndroid.jobString>
+  <ATPP_CreateTX4IFemaleAndroid.label>TX4I 女性型アンドロイドを製造</ATPP_CreateTX4IFemaleAndroid.label>
+  <ATPP_CreateTX4IFemaleAndroid.description>TX4I 女性型アンドロイドを製造します</ATPP_CreateTX4IFemaleAndroid.description>
+  <ATPP_CreateTX4IFemaleAndroid.jobString>TX4Iアンドロイドを製造中</ATPP_CreateTX4IFemaleAndroid.jobString>
+  <ATPP_CreateTX3IAndroid.label>TX3I 男性型アンドロイドを製造</ATPP_CreateTX3IAndroid.label>
+  <ATPP_CreateTX3IAndroid.description>TX3I 男性型アンドロイドを製造します</ATPP_CreateTX3IAndroid.description>
+  <ATPP_CreateTX3IAndroid.jobString>TX3Iアンドロイドを製造中</ATPP_CreateTX3IAndroid.jobString>
+  <ATPP_CreateTX3IFemaleAndroid.label>TX3I 女性型アンドロイドを製造</ATPP_CreateTX3IFemaleAndroid.label>
+  <ATPP_CreateTX3IFemaleAndroid.description>TX3I 女性型アンドロイドを製造します</ATPP_CreateTX3IFemaleAndroid.description>
+  <ATPP_CreateTX3IFemaleAndroid.jobString>TX3Iアンドロイドを製造中</ATPP_CreateTX3IFemaleAndroid.jobString>
+  <ATPP_CreateTX2IAndroid.label>TX2I 男性型アンドロイドを製造</ATPP_CreateTX2IAndroid.label>
+  <ATPP_CreateTX2IAndroid.description>TX2I 男性型アンドロイドを製造します</ATPP_CreateTX2IAndroid.description>
+  <ATPP_CreateTX2IAndroid.jobString>TX2Iアンドロイドを製造中</ATPP_CreateTX2IAndroid.jobString>
+  <ATPP_CreateTX2IFemaleAndroid.label>TX2I 女性型アンドロイドを製造</ATPP_CreateTX2IFemaleAndroid.label>
+  <ATPP_CreateTX2IFemaleAndroid.description>TX2I 女性型アンドロイドを製造します</ATPP_CreateTX2IFemaleAndroid.description>
+  <ATPP_CreateTX2IFemaleAndroid.jobString>TX2Iアンドロイドを製造中</ATPP_CreateTX2IFemaleAndroid.jobString>
+  <ATPP_CreateTX2KAndroid.label>TX2K 男性型アンドロイドを製造</ATPP_CreateTX2KAndroid.label>
+  <ATPP_CreateTX2KAndroid.description>TX2K 男性型アンドロイドを製造します</ATPP_CreateTX2KAndroid.description>
+  <ATPP_CreateTX2KAndroid.jobString>TX2Kアンドロイドを製造中</ATPP_CreateTX2KAndroid.jobString>
+  <ATPP_CreateTX2KFemaleAndroid.label>TX2K 女性型アンドロイドを製造</ATPP_CreateTX2KFemaleAndroid.label>
+  <ATPP_CreateTX2KFemaleAndroid.description>TX2K 女性型アンドロイドを製造します</ATPP_CreateTX2KFemaleAndroid.description>
+  <ATPP_CreateTX2KFemaleAndroid.jobString>TX2Kアンドロイドを製造中</ATPP_CreateTX2KFemaleAndroid.jobString>
+  <ATPP_CreateTX2KIAndroid.label>TX2KI アンドロイドを製造</ATPP_CreateTX2KIAndroid.label>
+  <ATPP_CreateTX2KIAndroid.description>TX2KI アンドロイドを製造します</ATPP_CreateTX2KIAndroid.description>
+  <ATPP_CreateTX2KIAndroid.jobString>TX2KIアンドロイドを製造中</ATPP_CreateTX2KIAndroid.jobString>
+  <ATPP_CreateTX2KIFemaleAndroid.label>TX2KI 女性型アンドロイドを製造</ATPP_CreateTX2KIFemaleAndroid.label>
+  <ATPP_CreateTX2KIFemaleAndroid.description>TX2KI 女性型アンドロイドを製造します</ATPP_CreateTX2KIFemaleAndroid.description>
+  <ATPP_CreateTX2KIFemaleAndroid.jobString>TX2KIアンドロイドを製造中</ATPP_CreateTX2KIFemaleAndroid.jobString>
+  <ATPP_MakeSyntheticSkinGland.label>合成皮膚腺を合成</ATPP_MakeSyntheticSkinGland.label>
+  <ATPP_MakeSyntheticSkinGland.description>炭化水素系化合燃料、ニュートロアミン保存液、医薬品、織物スキャフォールドを用いて人工皮膚腺を合成します。</ATPP_MakeSyntheticSkinGland.description>
+  <ATPP_MakeSyntheticSkinGland.jobString>合成皮膚腺を合成中。</ATPP_MakeSyntheticSkinGland.jobString>
+  <ATPP_GestateSyntheticSkinGland_Biotech.label>合成皮膚腺を培養</ATPP_GestateSyntheticSkinGland_Biotech.label>
+  <ATPP_GestateSyntheticSkinGland_Biotech.description>アンドロイド生産培養槽でバイオテックのヘモジェン溶液、細胞栄養素、医療安定剤を使用し、TXシリーズ潜入型用の生体合成皮膚腺マトリックスを培養します。</ATPP_GestateSyntheticSkinGland_Biotech.description>
+  <ATPP_GestateSyntheticSkinGland_Biotech.jobString>合成皮膚腺を培養中。</ATPP_GestateSyntheticSkinGland_Biotech.jobString>
+  <ATPP_QE_GrowSyntheticSkinGland.label>合成皮膚腺を育成</ATPP_QE_GrowSyntheticSkinGland.label>
+  <ATPP_QE_GrowSyntheticSkinGland.description>Questionable Ethicsの臓器培養槽内で有機栄養素と化学安定剤を使用し、生体バイオ合成皮膚腺マトリックスを育成します。</ATPP_QE_GrowSyntheticSkinGland.description>
+  <ATPP_QE_GrowSyntheticSkinGland.jobString>合成皮膚腺を育成中。</ATPP_QE_GrowSyntheticSkinGland.jobString>
+  <ATPP_ApplySyntheticSkin.label>合成皮膚を移植</ATPP_ApplySyntheticSkin.label>
+  <ATPP_ApplySyntheticSkin.description>このTX歩兵シャーシに合成真皮マトリックスを移植し、露出した機械製エンドスケルトンを人間のような生体合成皮膚で覆います。可燃性が高まる代わりに、社交評価と断熱性が向上し、雨による錆びつきを防ぎます。</ATPP_ApplySyntheticSkin.description>
+  <ATPP_ApplySyntheticSkin.jobString>アンドロイドに合成皮膚を移植中。</ATPP_ApplySyntheticSkin.jobString>
+  <ATPP_RemoveSyntheticSkin.label>合成皮膚を除去</ATPP_RemoveSyntheticSkin.label>
+  <ATPP_RemoveSyntheticSkin.description>このTX潜入型から合成皮膚層を外科的に剥離し、下層の強化歩兵用エンドスケルトンを露出させます。アンドロイドは社交的な魅力を失いますが、耐火性と戦場での耐久性を獲得します。</ATPP_RemoveSyntheticSkin.description>
+  <ATPP_RemoveSyntheticSkin.jobString>アンドロイドから合成皮膚を除去中。</ATPP_RemoveSyntheticSkin.jobString>
+  <ATPP_QE_CreateTX2KMale.label>TX2K男性型フレームを組み立て (QEE培養槽)</ATPP_QE_CreateTX2KMale.label>
+  <ATPP_QE_CreateTX2KMale.description>臓器培養槽で育成するためのゲノム配列としてエンコードされた、未稼働の男性型TX2K外骨格フレームを組み立てます。</ATPP_QE_CreateTX2KMale.description>
+  <ATPP_QE_CreateTX2KMale.jobString>アンドロイドを製造中</ATPP_QE_CreateTX2KMale.jobString>
+  <ATPP_QE_CreateTX2KFemale.label>TX2K女性型フレームを組み立て (QEE培養槽)</ATPP_QE_CreateTX2KFemale.label>
+  <ATPP_QE_CreateTX2KFemale.description>臓器培養槽で育成するためのゲノム配列としてエンコードされた、未稼働の女性型TX2K外骨格フレームを組み立てます。</ATPP_QE_CreateTX2KFemale.description>
+  <ATPP_QE_CreateTX2KFemale.jobString>アンドロイドを製造中</ATPP_QE_CreateTX2KFemale.jobString>
+  <ATPP_QE_CreateSX2KMaleSurrogate.label>SX2K男性型代理体フレームを組み立て (QEE培養槽)</ATPP_QE_CreateSX2KMaleSurrogate.label>
+  <ATPP_QE_CreateSX2KMaleSurrogate.description>臓器培養槽で育成するためのゲノム配列としてエンコードされた、未稼働の男性型TX2K代理体外骨格フレームを組み立てます。</ATPP_QE_CreateSX2KMaleSurrogate.description>
+  <ATPP_QE_CreateSX2KMaleSurrogate.jobString>アンドロイドを製造中</ATPP_QE_CreateSX2KMaleSurrogate.jobString>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.label>SX2K女性型代理体フレームを組み立て (QEE培養槽)</ATPP_QE_CreateSX2KFemaleSurrogate.label>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.description>臓器培養槽で育成するためのゲノム配列としてエンコードされた、未稼働の女性型TX2K代理体外骨格フレームを組み立てます。</ATPP_QE_CreateSX2KFemaleSurrogate.description>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.jobString>アンドロイドを製造中</ATPP_QE_CreateSX2KFemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX3Male.label>TX3男性型フレームを組み立て (QEE培養槽)</ATPP_QE_CreateTX3Male.label>
+  <ATPP_QE_CreateTX3Male.description>臓器培養槽で育成するためのゲノム配列としてエンコードされた、未稼働の男性型TX3外骨格フレームを組み立てます。</ATPP_QE_CreateTX3Male.description>
+  <ATPP_QE_CreateTX3Male.jobString>アンドロイドを製造中</ATPP_QE_CreateTX3Male.jobString>
+  <ATPP_QE_CreateTX3Female.label>TX3女性型フレームを組み立て (QEE培養槽)</ATPP_QE_CreateTX3Female.label>
+  <ATPP_QE_CreateTX3Female.description>臓器培養槽で育成するためのゲノム配列としてエンコードされた、未稼働の女性型TX3外骨格フレームを組み立てます。</ATPP_QE_CreateTX3Female.description>
+  <ATPP_QE_CreateTX3Female.jobString>アンドロイドを製造中</ATPP_QE_CreateTX3Female.jobString>
+  <ATPP_QE_CreateSX3MaleSurrogate.label>SX3男性型代理体フレームを組み立て (QEE培養槽)</ATPP_QE_CreateSX3MaleSurrogate.label>
+  <ATPP_QE_CreateSX3MaleSurrogate.description>臓器培養槽で育成するためのゲノム配列としてエンコードされた、未稼働の男性型TX3代理体外骨格フレームを組み立てます。</ATPP_QE_CreateSX3MaleSurrogate.description>
+  <ATPP_QE_CreateSX3MaleSurrogate.jobString>アンドロイドを製造中</ATPP_QE_CreateSX3MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX3FemaleSurrogate.label>SX3女性型代理体フレームを組み立て (QEE培養槽)</ATPP_QE_CreateSX3FemaleSurrogate.label>
+  <ATPP_QE_CreateSX3FemaleSurrogate.description>臓器培養槽で育成するためのゲノム配列としてエンコードされた、未稼働の女性型TX3代理体外骨格フレームを組み立てます。</ATPP_QE_CreateSX3FemaleSurrogate.description>
+  <ATPP_QE_CreateSX3FemaleSurrogate.jobString>アンドロイドを製造中</ATPP_QE_CreateSX3FemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX4Male.label>TX4男性型フレームを組み立て (QEE培養槽)</ATPP_QE_CreateTX4Male.label>
+  <ATPP_QE_CreateTX4Male.description>臓器培養槽で育成するためのゲノム配列としてエンコードされた、未稼働の男性型TX4外骨格フレームを組み立てます。</ATPP_QE_CreateTX4Male.description>
+  <ATPP_QE_CreateTX4Male.jobString>アンドロイドを製造中</ATPP_QE_CreateTX4Male.jobString>
+  <ATPP_QE_CreateTX4Female.label>TX4女性型フレームを組み立て (QEE培養槽)</ATPP_QE_CreateTX4Female.label>
+  <ATPP_QE_CreateTX4Female.description>臓器培養槽で育成するためのゲノム配列としてエンコードされた、未稼働の女性型TX4外骨格フレームを組み立てます。</ATPP_QE_CreateTX4Female.description>
+  <ATPP_QE_CreateTX4Female.jobString>アンドロイドを製造中</ATPP_QE_CreateTX4Female.jobString>
+  <ATPP_QE_CreateSX4MaleSurrogate.label>SX4男性型代理体フレームを組み立て (QEE培養槽)</ATPP_QE_CreateSX4MaleSurrogate.label>
+  <ATPP_QE_CreateSX4MaleSurrogate.description>臓器培養槽で育成するためのゲノム配列としてエンコードされた、未稼働の男性型TX4代理体外骨格フレームを組み立てます。</ATPP_QE_CreateSX4MaleSurrogate.description>
+  <ATPP_QE_CreateSX4MaleSurrogate.jobString>アンドロイドを製造中</ATPP_QE_CreateSX4MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX4FemaleSurrogate.label>SX4女性型代理体フレームを組み立て (QEE培養槽)</ATPP_QE_CreateSX4FemaleSurrogate.label>
+  <ATPP_QE_CreateSX4FemaleSurrogate.description>臓器培養槽で育成するためのゲノム配列としてエンコードされた、未稼働の女性型TX4代理体外骨格フレームを組み立てます。</ATPP_QE_CreateSX4FemaleSurrogate.description>
+  <ATPP_QE_CreateSX4FemaleSurrogate.jobString>アンドロイドを製造中</ATPP_QE_CreateSX4FemaleSurrogate.jobString>
+</LanguageData>

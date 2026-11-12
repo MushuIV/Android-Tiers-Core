@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_ConsciousnessUpload.label>Bewusstseins-Upload</ATPP_ConsciousnessUpload.label>
+	<ATPP_ConsciousnessUpload.labelNoun>Bewusstseins-Upload</ATPP_ConsciousnessUpload.labelNoun>
+	<ATPP_NoHost.label>Kein Wirt verbunden</ATPP_NoHost.label>
+	<ATPP_NoHost.labelNoun>Kein Wirt verbunden</ATPP_NoHost.labelNoun>
+	<ATPP_HediffRXChip.label>RX-Neuralchip</ATPP_HediffRXChip.label>
+	<ATPP_HediffRXChip.labelNoun>Ein Neuralchip, der als persönliches SkyMind-Relais dient.</ATPP_HediffRXChip.labelNoun>
+	<ATPP_HediffVX0Chip.label>VX0-Neuralchip</ATPP_HediffVX0Chip.label>
+	<ATPP_HediffVX0Chip.labelNoun>Ein Neuralchip, der den Wirt in ein biologisches Surrogat verwandelt</ATPP_HediffVX0Chip.labelNoun>
+	<ATPP_HediffVX1Chip.label>VX1-Neuralchip</ATPP_HediffVX1Chip.label>
+	<ATPP_HediffVX1Chip.labelNoun>VX1-Neuralchip</ATPP_HediffVX1Chip.labelNoun>
+	<ATPP_HediffVX2Chip.label>VX2-Neuralchip</ATPP_HediffVX2Chip.label>
+	<ATPP_HediffVX2Chip.labelNoun>VX2-Neuralchip</ATPP_HediffVX2Chip.labelNoun>
+	<ATPP_HediffVX3Chip.label>VX3-Neuralchip</ATPP_HediffVX3Chip.label>
+	<ATPP_HediffVX3Chip.labelNoun>VX3-Neuralchip</ATPP_HediffVX3Chip.labelNoun>
+	<ATPP_InRemoteControlMode.label>Fernsteuerungsmodus aktiv</ATPP_InRemoteControlMode.label>
+	<ATPP_InRemoteControlMode.labelNoun>Fernsteuerungsmodus aktiv</ATPP_InRemoteControlMode.labelNoun>
+	<ATPP_RemotelyControlled.label>Ferngesteuert</ATPP_RemotelyControlled.label>
+	<ATPP_RemotelyControlled.labelNoun>Ferngesteuert</ATPP_RemotelyControlled.labelNoun>
+	<ATPP_SolarFlareAndroidImpact.label>Sonnenkorona</ATPP_SolarFlareAndroidImpact.label>
+	<ATPP_SolarFlareAndroidImpact.labelNoun>Sonnenkorona</ATPP_SolarFlareAndroidImpact.labelNoun>
+	<ATPP_LowNetworkSignal.label>Schwaches SkyMind-Netzwerksignal</ATPP_LowNetworkSignal.label>
+	<ATPP_LowNetworkSignal.labelNoun>Schwaches SkyMind-Netzwerksignal</ATPP_LowNetworkSignal.labelNoun>
+	<ATPP_Rusted.label>Verrostet</ATPP_Rusted.label>
+	<ATPP_Rusted.labelNoun>Verrostet</ATPP_Rusted.labelNoun>
+	<ATPP_BlankAndroid.label>Leeres neuronales Netzwerk</ATPP_BlankAndroid.label>
+	<ATPP_BlankAndroid.labelNoun>Leeres neuronales Netzwerk</ATPP_BlankAndroid.labelNoun>
+	<ATPP_SurrogateInit.label>Verbindungsinitialisierung</ATPP_SurrogateInit.label>
+	<ATPP_SurrogateInit.labelNoun>Verbindungsinitialisierung</ATPP_SurrogateInit.labelNoun>
+	<ATPP_AssistingMinds.label>Assistierende Bewusstseine aus SkyCloud-Kernen</ATPP_AssistingMinds.label>
+	<ATPP_AssistingMinds.labelNoun>Assistierende Bewusstseine aus SkyCloud-Kernen</ATPP_AssistingMinds.labelNoun>
+	<DecayedFrame.label>verfallendes Grundgerüst</DecayedFrame.label>
+	<DecayedFrame.labelNoun>ein verfallendes Grundgerüst</DecayedFrame.labelNoun>
+	<CorruptMemory.label>beschädigter Speicher</CorruptMemory.label>
+	<WeakValves.label>schwache Ventile</WeakValves.label>
+	<ExaggeratedHealing.label>hyperaktive Reaktion</ExaggeratedHealing.label>
+	<FaultyPump.label>defekte Pumpe</FaultyPump.label>
+	<FaultyPump.labelNoun>eine defekte Pumpe</FaultyPump.labelNoun>
+	<ShutdownAndroid.label>außer Dienst gestellt</ShutdownAndroid.label>
+	<ShutdownAndroid.description>KI-Kern dauerhaft heruntergefahren und vollständig gelöscht.</ShutdownAndroid.description>
+	<RebootingSequenceAT.label>Neustart</RebootingSequenceAT.label>
+	<RebootingSequenceAT.description>Neustartsequenz im KI-Kern aktiv.</RebootingSequenceAT.description>
+	<NoFreeWillAT.label>gefühllos</NoFreeWillAT.label>
+	<NoFreeWillAT.labelNoun>gefühllos</NoFreeWillAT.labelNoun>
+	<NoFreeWillAT.description>Modifikationen an den Moral- und Emotionszentren des KI-Kerns, die zu einer völlig neutralen Stimmung und dem Fehlen höherer Funktionen führen.</NoFreeWillAT.description>
+	<FreshReprogramming.label>kürzlich umprogrammiert</FreshReprogramming.label>
+	<FreshReprogramming.description>Kürzlich umprogrammierter KI-Kern. Das Kompilieren und automatische Korrigieren der neuen Software kann zu eingeschränkten Fähigkeiten führen.</FreshReprogramming.description>
+	<OverclockedAndroid.label>übertaktet</OverclockedAndroid.label>
+	<OverclockedAndroid.labelNoun>ein Übertaktungs-Upgrade</OverclockedAndroid.labelNoun>
+	<OverclockedAndroid.description>Die Verarbeitungseinheiten des KI-Kerns des Androiden wurden beschleunigt, was schnellere Berechnungen ermöglicht, aber auch die Hardware stärker belastet.</OverclockedAndroid.description>
+	<BatteryChargeMech.label>Batterie</BatteryChargeMech.label>
+	<BatteryChargeMech.description>Verbleibende Batterielaufzeit vor der Abschaltung</BatteryChargeMech.description>
+	<AndroidCoolantLoss.label>Kühlmittelverlust</AndroidCoolantLoss.label>
+	<AndroidCoolantLoss.description>Kühlmittelverlust in den internen Leitungen, der zu verringerter Kühlleistung und Überhitzung der Komponenten führt.</AndroidCoolantLoss.description>
+	<AndroidOverheating.label>überhitzt</AndroidOverheating.label>
+	<AndroidFreezing.label>stark unterkühlt</AndroidFreezing.label>
+	<PlatingSteel.label>Stahlrahmen</PlatingSteel.label>
+	<PlatingSteel.labelNoun>ein einfacher Stahlrahmen</PlatingSteel.labelNoun>
+	<PlatingSteel.description>Ein eingebauter Stahlrahmen.</PlatingSteel.description>
+	<PlatingPlasteel.label>Plastahl-Rahmenverkleidung</PlatingPlasteel.label>
+	<PlatingPlasteel.labelNoun>eine robuste Plastahl-Rahmenverkleidung</PlatingPlasteel.labelNoun>
+	<PlatingPlasteel.description>Eine eingebaute Plastahl-Rahmenverkleidung.</PlatingPlasteel.description>
+	<PlatingComposite.label>Verbund-Rahmenpanzerung</PlatingComposite.label>
+	<PlatingComposite.labelNoun>eine hochfeste Verbundpanzerung</PlatingComposite.labelNoun>
+	<PlatingComposite.description>Eine eingebaute Verbund-Rahmenpanzerung.</PlatingComposite.description>
+	<MiningArm_AT.label>Bergbauarm</MiningArm_AT.label>
+	<MiningArm_AT.labelNoun>ein Bergbauarm</MiningArm_AT.labelNoun>
+	<MiningArm_AT.description>Ein eingebauter Bergbauarm.</MiningArm_AT.description>
+	<HydraulicFrame.label>Hydraulikrahmen</HydraulicFrame.label>
+	<HydraulicFrame.labelNoun>ein Hydraulikrahmen</HydraulicFrame.labelNoun>
+	<HydraulicFrame.description>Ein eingebauter Hydraulikrahmen.</HydraulicFrame.description>
+	<HydraulicLeg.label>Hydraulikbein</HydraulicLeg.label>
+	<HydraulicLeg.labelNoun>ein Hydraulikbein</HydraulicLeg.labelNoun>
+	<HydraulicLeg.description>Ein eingebautes Hydraulikbein.</HydraulicLeg.description>
+	<HydraulicArm.label>Hydraulikarm</HydraulicArm.label>
+	<HydraulicArm.labelNoun>ein Hydraulikarm</HydraulicArm.labelNoun>
+	<HydraulicArm.description>Ein eingebauter Hydraulikarm.</HydraulicArm.description>
+	<MakeshiftRLeg.label>behelfsmäßiges Ersatzbein</MakeshiftRLeg.label>
+	<MakeshiftRLeg.labelNoun>ein behelfsmäßiges Ersatzbein</MakeshiftRLeg.labelNoun>
+	<MakeshiftRLeg.description>Ein eingebautes behelfsmäßiges Ersatzbein.</MakeshiftRLeg.description>
+	<MakeshiftRArm.label>behelfsmäßiger Ersatzarm</MakeshiftRArm.label>
+	<MakeshiftRArm.labelNoun>ein behelfsmäßiger Ersatzarm</MakeshiftRArm.labelNoun>
+	<MakeshiftRArm.description>Ein eingebauter behelfsmäßiger Ersatzarm.</MakeshiftRArm.description>
+	<BRArm.label>einfacher Ersatzarm</BRArm.label>
+	<BRArm.labelNoun>ein einfacher Ersatzarm</BRArm.labelNoun>
+	<BRArm.description>Ein eingebauter einfacher Ersatzarm.</BRArm.description>
+	<BRLeg.label>einfaches Ersatzbein</BRLeg.label>
+	<BRLeg.labelNoun>ein einfaches Ersatzbein</BRLeg.labelNoun>
+	<BRLeg.description>Ein eingebautes einfaches Ersatzbein.</BRLeg.description>
+	<BLReceptor.label>grober Lichtsensor</BLReceptor.label>
+	<BLReceptor.labelNoun>ein grober Lichtsensor</BLReceptor.labelNoun>
+	<BLReceptor.description>Ein eingebauter grober Lichtsensor.</BLReceptor.description>
+	<BHeatsink.label>grober Kühlkörper</BHeatsink.label>
+	<BHeatsink.labelNoun>ein grober Kühlkörper</BHeatsink.labelNoun>
+	<BHeatsink.description>Ein eingebauter grober Kühlkörper.</BHeatsink.description>
+	<BCoolantPump.label>grobe Kühlmittelpumpe</BCoolantPump.label>
+	<BCoolantPump.labelNoun>eine grobe Kühlmittelpumpe</BCoolantPump.labelNoun>
+	<BCoolantPump.description>Eine eingebaute grobe Kühlmittelpumpe.</BCoolantPump.description>
+	<BBattery.label>grobes Batteriepaket</BBattery.label>
+	<BBattery.labelNoun>ein grobes Batteriepaket</BBattery.labelNoun>
+	<BBattery.description>Ein eingebautes grobes Batteriepaket.</BBattery.description>
+	<BMStorage.label>grober Mechanitenspeicher</BMStorage.label>
+	<BMStorage.labelNoun>ein grober Mechanitenspeicher</BMStorage.labelNoun>
+	<BMStorage.description>Ein eingebauter grober Mechanitenspeicher.</BMStorage.description>
+	<BTransformer.label>grober Bioreaktor</BTransformer.label>
+	<BTransformer.labelNoun>ein grober Bioreaktor</BTransformer.labelNoun>
+	<BTransformer.description>Ein eingebauter grober Bioreaktor.</BTransformer.description>
+	<BVAdapter.label>grober Stromwandler</BVAdapter.label>
+	<BVAdapter.labelNoun>ein grober Stromwandler</BVAdapter.labelNoun>
+	<BVAdapter.description>Ein eingebauter grober Stromwandler.</BVAdapter.description>
+	<BasicRearCounterweight.label>einfaches Gegengewicht</BasicRearCounterweight.label>
+	<BasicRearCounterweight.labelNoun>ein einfaches Gegengewicht</BasicRearCounterweight.labelNoun>
+	<BasicRearCounterweight.description>Ein eingebautes einfaches Gegengewicht.</BasicRearCounterweight.description>
+	<CrudeJawAndroid.label>grober Kiefer</CrudeJawAndroid.label>
+	<CrudeJawAndroid.labelNoun>ein grober Kiefer</CrudeJawAndroid.labelNoun>
+	<CrudeJawAndroid.description>Ein eingebauter grober Kiefer.</CrudeJawAndroid.description>
+	<ARArm.label>Hochleistungsarm</ARArm.label>
+	<ARArm.labelNoun>ein Hochleistungsarm</ARArm.labelNoun>
+	<ARArm.description>Ein eingebauter Hochleistungsarm.</ARArm.description>
+	<ARLeg.label>Hochleistungsbein</ARLeg.label>
+	<ARLeg.labelNoun>ein Hochleistungsbein</ARLeg.labelNoun>
+	<ARLeg.description>Ein eingebautes Hochleistungsbein.</ARLeg.description>
+	<ALReceptor.label>fortschrittlicher Lichtsensor</ALReceptor.label>
+	<ALReceptor.labelNoun>ein fortschrittlicher Lichtsensor</ALReceptor.labelNoun>
+	<ALReceptor.description>Ein eingebauter fortschrittlicher Lichtsensor.</ALReceptor.description>
+	<AHeatsink.label>fortschrittlicher Kühlkörper</AHeatsink.label>
+	<AHeatsink.labelNoun>ein fortschrittlicher Kühlkörper</AHeatsink.labelNoun>
+	<AHeatsink.description>Ein eingebauter fortschrittlicher Kühlkörper.</AHeatsink.description>
+	<ACoolantPump.label>fortschrittliche Kühlmittelpumpe</ACoolantPump.label>
+	<ACoolantPump.labelNoun>eine fortschrittliche Kühlmittelpumpe</ACoolantPump.labelNoun>
+	<ACoolantPump.description>Eine eingebaute fortschrittliche Kühlmittelpumpe.</ACoolantPump.description>
+	<ABattery.label>fortschrittliches Batteriepaket</ABattery.label>
+	<ABattery.labelNoun>ein fortschrittliches Batteriepaket</ABattery.labelNoun>
+	<ABattery.description>Ein eingebautes fortschrittliches Batteriepaket.</ABattery.description>
+	<AMStorage.label>fortschrittlicher Mechanitenspeicher</AMStorage.label>
+	<AMStorage.labelNoun>ein fortschrittlicher Mechanitenspeicher</AMStorage.labelNoun>
+	<AMStorage.description>Ein eingebauter fortschrittlicher Mechanitenspeicher.</AMStorage.description>
+	<ATransformer.label>fortschrittlicher Bioreaktor</ATransformer.label>
+	<ATransformer.labelNoun>ein fortschrittlicher Bioreaktor</ATransformer.labelNoun>
+	<ATransformer.description>Ein eingebauter fortschrittlicher Bioreaktor.</ATransformer.description>
+	<AVAdapter.label>fortschrittlicher Stromwandler</AVAdapter.label>
+	<AVAdapter.labelNoun>ein fortschrittlicher Stromwandler</AVAdapter.labelNoun>
+	<AVAdapter.description>Ein eingebauter fortschrittlicher Stromwandler.</AVAdapter.description>
+	<AdvRearCounterweight.label>gyroskopisches Gegengewicht</AdvRearCounterweight.label>
+	<AdvRearCounterweight.labelNoun>ein gyroskopisches Gegengewicht</AdvRearCounterweight.labelNoun>
+	<AdvRearCounterweight.description>Ein eingebautes gyroskopisches Gegengewicht.</AdvRearCounterweight.description>
+	<AdvJawAndroid.label>kybernetischer Kiefer</AdvJawAndroid.label>
+	<AdvJawAndroid.labelNoun>ein kybernetischer Kiefer</AdvJawAndroid.labelNoun>
+	<AdvJawAndroid.description>Ein eingebauter kybernetischer Kiefer.</AdvJawAndroid.description>
+	<PositronMind.label>Positronische Neuverkabelung</PositronMind.label>
+	<PositronMind.labelNoun>eine positronische Neuverkabelung</PositronMind.labelNoun>
+	<PositronMind.description>Eine eingebaute positronische Neuverkabelung.</PositronMind.description>
+	<SoldierMind.label>Soldaten-Upgrade</SoldierMind.label>
+	<SoldierMind.labelNoun>ein Soldaten-Upgrade</SoldierMind.labelNoun>
+	<SoldierMind.description>Ein eingebautes Soldaten-Upgrade.</SoldierMind.description>
+	<BuilderMind.label>Bauplan-Datenbanken</BuilderMind.label>
+	<BuilderMind.labelNoun>eine Bauplan-Datenbank</BuilderMind.labelNoun>
+	<BuilderMind.description>Eine eingebaute Bauplan-Datenbank.</BuilderMind.description>
+	<SurgeonMind.label>Implantierter Tricorder</SurgeonMind.label>
+	<SurgeonMind.labelNoun>ein implantierter Tricorder</SurgeonMind.labelNoun>
+	<SurgeonMind.description>Ein implantierter Tricorder.</SurgeonMind.description>
+	<SpeedMind.label>Neuronale Datenautobahnen</SpeedMind.label>
+	<SpeedMind.labelNoun>Neuronale Datenautobahnen</SpeedMind.labelNoun>
+	<SpeedMind.description>Eingebaute neuronale Datenautobahnen.</SpeedMind.description>
+	<GeoMind.label>Geologische Datenbanken</GeoMind.label>
+	<GeoMind.labelNoun>eine geologische Datenbank</GeoMind.labelNoun>
+	<GeoMind.description>Eine eingebaute geologische Datenbank.</GeoMind.description>
+	<MechanicMind.label>Ingenieur-Implantat</MechanicMind.label>
+	<MechanicMind.labelNoun>ein Ingenieur-Implantat</MechanicMind.labelNoun>
+	<MechanicMind.description>Ein eingebautes Ingenieur-Implantat.</MechanicMind.description>
+	<CookingMind.label>Kochkunst-Implantat</CookingMind.label>
+	<CookingMind.labelNoun>ein Kochkunst-Implantat</CookingMind.labelNoun>
+	<CookingMind.description>Ein eingebautes Kochkunst-Implantat.</CookingMind.description>
+	<CharismaMind.label>Charisma-Implantat</CharismaMind.label>
+	<CharismaMind.labelNoun>ein Charisma-Implantat</CharismaMind.labelNoun>
+	<CharismaMind.description>Ein eingebautes Charisma-Implantat.</CharismaMind.description>
+	<NegotiatorMind.label>Verhandlungs-Implantat</NegotiatorMind.label>
+	<NegotiatorMind.labelNoun>ein Verhandlungs-Implantat</NegotiatorMind.labelNoun>
+	<NegotiatorMind.description>Ein eingebautes Verhandlungs-Implantat.</NegotiatorMind.description>
+	<ZoologyMind.label>Zoologie-Implantat</ZoologyMind.label>
+	<ZoologyMind.labelNoun>ein Zoologie-Implantat</ZoologyMind.labelNoun>
+	<ZoologyMind.description>Ein eingebautes Zoologie-Implantat.</ZoologyMind.description>
+	<AgriculturalMind.label>Agrar-Implantat</AgriculturalMind.label>
+	<AgriculturalMind.labelNoun>ein Agrar-Implantat</AgriculturalMind.labelNoun>
+	<AgriculturalMind.description>Ein eingebautes Agrar-Implantat.</AgriculturalMind.description>
+	<UnskilledMind.label>Einfacher Arbeitschip</UnskilledMind.label>
+	<UnskilledMind.labelNoun>ein einfacher Arbeitschip</UnskilledMind.labelNoun>
+	<UnskilledMind.description>Ein eingebauter einfacher Arbeitschip.</UnskilledMind.description>
+	<AR2Arm.label>Kybernetischer Arm</AR2Arm.label>
+	<AR2Arm.labelNoun>ein kybernetischer Arm</AR2Arm.labelNoun>
+	<AR2Arm.description>Ein eingebauter kybernetischer Arm.</AR2Arm.description>
+	<AR2Leg.label>Kybernetisches Bein</AR2Leg.label>
+	<AR2Leg.labelNoun>ein kybernetisches Bein</AR2Leg.labelNoun>
+	<AR2Leg.description>Ein eingebautes kybernetisches Bein.</AR2Leg.description>
+	<AL2Receptor.label>Archotech-Lichtsensor</AL2Receptor.label>
+	<AL2Receptor.labelNoun>ein Archotech-Lichtsensor</AL2Receptor.labelNoun>
+	<AL2Receptor.description>Ein eingebauter Archotech-Lichtsensor.</AL2Receptor.description>
+	<A2Heatsink.label>Archotech-Kühlkörper</A2Heatsink.label>
+	<A2Heatsink.labelNoun>ein Archotech-Kühlkörper</A2Heatsink.labelNoun>
+	<A2Heatsink.description>Ein eingebauter Archotech-Kühlkörper.</A2Heatsink.description>
+	<A2CoolantPump.label>Archotech-Kühlmittelpumpe</A2CoolantPump.label>
+	<A2CoolantPump.labelNoun>eine Archotech-Kühlmittelpumpe</A2CoolantPump.labelNoun>
+	<A2CoolantPump.description>Eine eingebaute Archotech-Kühlmittelpumpe.</A2CoolantPump.description>
+	<A2Battery.label>Archotech-Batteriepaket</A2Battery.label>
+	<A2Battery.labelNoun>ein Archotech-Batteriepaket</A2Battery.labelNoun>
+	<A2Battery.description>Ein eingebautes Archotech-Batteriepaket.</A2Battery.description>
+	<A2MStorage.label>Archotech-Mechanitenspeicher</A2MStorage.label>
+	<A2MStorage.labelNoun>ein Archotech-Mechanitenspeicher</A2MStorage.labelNoun>
+	<A2MStorage.description>Ein eingebauter Archotech-Mechanitenspeicher.</A2MStorage.description>
+	<A2Transformer.label>Archotech-Bioreaktor</A2Transformer.label>
+	<A2Transformer.labelNoun>ein Archotech-Bioreaktor</A2Transformer.labelNoun>
+	<A2Transformer.description>Ein eingebauter Archotech-Bioreaktor.</A2Transformer.description>
+	<A2VAdapter.label>Archotech-Stromwandler</A2VAdapter.label>
+	<A2VAdapter.labelNoun>ein Archotech-Stromwandler</A2VAdapter.labelNoun>
+	<A2VAdapter.description>Ein eingebauter Archotech-Stromwandler.</A2VAdapter.description>
+	<HearingSensorCrude.label>grober Hörsensor</HearingSensorCrude.label>
+	<HearingSensorCrude.labelNoun>ein grober Hörsensor</HearingSensorCrude.labelNoun>
+	<HearingSensorCrude.description>Ein eingebauter grober Hörsensor.</HearingSensorCrude.description>
+	<HearingSensorAdv.label>fortschrittlicher Hörsensor</HearingSensorAdv.label>
+	<HearingSensorAdv.labelNoun>ein fortschrittlicher Hörsensor</HearingSensorAdv.labelNoun>
+	<HearingSensorAdv.description>Ein eingebauter fortschrittlicher Hörsensor.</HearingSensorAdv.description>
+	<HearingSensorArch.label>Archotech-Hörsensor</HearingSensorArch.label>
+	<HearingSensorArch.labelNoun>ein Archotech-Hörsensor</HearingSensorArch.labelNoun>
+	<HearingSensorArch.description>Ein eingebauter Archotech-Hörsensor.</HearingSensorArch.description>
+	<SmellSensorAdv.label>fortschrittlicher Geruchssensor</SmellSensorAdv.label>
+	<SmellSensorAdv.labelNoun>ein fortschrittlicher Geruchssensor</SmellSensorAdv.labelNoun>
+	<SmellSensorAdv.description>Ein eingebauter fortschrittlicher Geruchssensor.</SmellSensorAdv.description>
+	<SmellingSensorCrude.label>grober Geruchssensor</SmellingSensorCrude.label>
+	<SmellingSensorCrude.labelNoun>ein grober Geruchssensor</SmellingSensorCrude.labelNoun>
+	<SmellingSensorCrude.description>Ein eingebauter grober Geruchssensor.</SmellingSensorCrude.description>
+	<SmellingSensorArch.label>Archotech-Geruchssensor</SmellingSensorArch.label>
+	<SmellingSensorArch.labelNoun>ein Archotech-Geruchssensor</SmellingSensorArch.labelNoun>
+	<SmellingSensorArch.description>Ein eingebauter Archotech-Geruchssensor.</SmellingSensorArch.description>
+	<EvolvingMind.label>Evolvierende KI</EvolvingMind.label>
+	<EvolvingMind.labelNoun>eine evolvierende KI</EvolvingMind.labelNoun>
+	<EvolvingMind.description>Eine eingebaute evolvierende KI.</EvolvingMind.description>
+	<AndroidTiers_EmotionlessCard.label>Deaktivierte soziale Interaktionen</AndroidTiers_EmotionlessCard.label>
+	<AndroidTiers_EmotionlessCard.labelNoun>Deaktivierte soziale Interaktionen</AndroidTiers_EmotionlessCard.labelNoun>
+	<Backstory_PitFighterUpgrade.label>Grubenkampf-Panzerhandschuhe</Backstory_PitFighterUpgrade.label>
+	<Backstory_PitFighterUpgrade.labelNoun>ein Grubenkampf-Panzerhandschuh</Backstory_PitFighterUpgrade.labelNoun>
+	<Backstory_PitFighterUpgrade.description>Ein eingebauter Panzerhandschuh.</Backstory_PitFighterUpgrade.description>
+	<Backstory_TranscendantAssimilatorUpgrade.label>Plasma-Panzerhandschuh</Backstory_TranscendantAssimilatorUpgrade.label>
+	<Backstory_TranscendantAssimilatorUpgrade.labelNoun>ein Plasma-Panzerhandschuh</Backstory_TranscendantAssimilatorUpgrade.labelNoun>
+	<Backstory_TranscendantAssimilatorUpgrade.description>Ein eingebauter Panzerhandschuh.</Backstory_TranscendantAssimilatorUpgrade.description>
+	<Backstory_HighCouncilUpgrade.label>Quantenverarbeitung</Backstory_HighCouncilUpgrade.label>
+	<Backstory_HighCouncilUpgrade.labelNoun>ein Quantenbewusstsein</Backstory_HighCouncilUpgrade.labelNoun>
+	<Backstory_HighCouncilUpgrade.description>Ein eingebautes Quantenbewusstsein.</Backstory_HighCouncilUpgrade.description>
+	<SGelhuman.label>Strukturgel</SGelhuman.label>
+	<SGelhuman.description>Eine Mischung aus Aminosäuren und Mechaniten, die durch den Blutkreislauf fließt; hochgiftig und kann Krampfanfälle auslösen.</SGelhuman.description>
+	<SGelandroid.label>Strukturgel</SGelandroid.label>
+	<SGelandroid.description>Eine Mischung aus Aminosäuren und Mechaniten, die durch die Kühlmittelleitungen fließt und die internen Systeme für bessere Leistung instand hält.</SGelandroid.description>
+	<Toxicated.label>Vergiftet</Toxicated.label>
+	<Toxicated.description>Giftige Verbindungen im Blutkreislauf verursachen Atembeschwerden und Erbrechen.</Toxicated.description>
+	<AFreezeandroid.label>Polymer-Frostschutzmittel</AFreezeandroid.label>
+	<AFreezeandroid.description>Polymerbasiertes Frostschutzmittel in den Kühlmittelleitungen. Hilft bei der Temperaturregulierung sowohl in heißen als auch in kalten Umgebungen.</AFreezeandroid.description>
+	<MechSwarmandroid.label>Mechanitenschwarm</MechSwarmandroid.label>
+	<MechSwarmandroid.description>Nanomechaniten, die durch die Kühlmittelleitungen fließen. Halten die internen Systeme auf Höchstleistung.</MechSwarmandroid.description>
+	<Conversion.label>???</Conversion.label>
+	<Conversion.description>Fraktalverbindungen im Blutkreislauf. Verursachen Krampfanfälle, starkes Erbrechen und ein gewaltsames Aufreißen der Haut durch schwere Gewebeentzündungen.</Conversion.description>
+	<FractalPillAndroid.label>Fraktal-Verstärkung</FractalPillAndroid.label>
+	<FractalPillAndroid.description>Fraktalverbindungen in den Kühlmittelleitungen. Verbessern Effizienz und Leistung aller Aktionen erheblich.</FractalPillAndroid.description>
+	<RegenHumanoid.label>Mono-Salbe</RegenHumanoid.label>
+	<RegenHumanoid.description>Aktive regenerative Lösungsmittel im Blutkreislauf. Fördern die grundlegende Zellregeneration.</RegenHumanoid.description>
+	<RegenAndroid.label>Mono-Salbe</RegenAndroid.label>
+	<RegenAndroid.description>Aktive regenerative Lösungsmittel in den Kühlmittelleitungen. Unterstützen die Selbstreparatur von Mechanismen.</RegenAndroid.description>
+	<ATPP_DummyHediff.label>Platzhalter-Zustand</ATPP_DummyHediff.label>
+	<ATPP_DummyHediff.labelNoun>Platzhalter-Zustand</ATPP_DummyHediff.labelNoun>
+</LanguageData>

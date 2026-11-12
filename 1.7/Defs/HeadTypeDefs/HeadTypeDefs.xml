@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>ATPP_Male_Average_Hurted</defName>
+    <graphicPath>Things/Droids/TX2/head/Male_Average_Hurted</graphicPath>
+    <gender>Male</gender>
+    <eyeOffsetEastWest>(0.18, 0, 0.17)</eyeOffsetEastWest>
+    <randomChosen>false</randomChosen>
+    <selectionWeight>0</selectionWeight>
+  </HeadTypeDef>
+
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>ATPP_Female_Average_Hurted</defName>
+    <graphicPath>Things/Droids/TX2/head/Female_Average_Hurted</graphicPath>
+    <gender>Female</gender>
+    <eyeOffsetEastWest>(0.13, 0, 0.17)</eyeOffsetEastWest>
+    <randomChosen>false</randomChosen>
+    <selectionWeight>0</selectionWeight>
+  </HeadTypeDef>
+
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>ATPP_Male_Average_Hurted2</defName>
+    <graphicPath>Things/Droids/TX2/head/Male_Average_Hurted2</graphicPath>
+    <gender>Male</gender>
+    <eyeOffsetEastWest>(0.18, 0, 0.17)</eyeOffsetEastWest>
+    <randomChosen>false</randomChosen>
+    <selectionWeight>0</selectionWeight>
+  </HeadTypeDef>
+
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>ATPP_Female_Average_Hurted2</defName>
+    <graphicPath>Things/Droids/TX2/head/Female_Average_Hurted2</graphicPath>
+    <gender>Female</gender>
+    <eyeOffsetEastWest>(0.13, 0, 0.17)</eyeOffsetEastWest>
+    <randomChosen>false</randomChosen>
+    <selectionWeight>0</selectionWeight>
+  </HeadTypeDef>
+
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>ATPP_Male_AndroidPaintJob_1</defName>
+    <graphicPath>Things/Droids/tier5/head/Male_AndroidPaintJob_1</graphicPath>
+    <gender>Male</gender>
+    <eyeOffsetEastWest>(0.18, 0, 0.17)</eyeOffsetEastWest>
+  </HeadTypeDef>
+
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>ATPP_Male_AndroidPaintJob_2</defName>
+    <graphicPath>Things/Droids/tier5/head/Male_AndroidPaintJob_2</graphicPath>
+    <gender>Male</gender>
+    <eyeOffsetEastWest>(0.18, 0, 0.17)</eyeOffsetEastWest>
+  </HeadTypeDef>
+
+</Defs>

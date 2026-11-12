@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_DisassembleAndroid.label>Rozobrať mŕtveho androida</ATPP_DisassembleAndroid.label>
+  <ATPP_DisassembleAndroid.description>Rozoberie mŕtveho androida na jeho súčiastky.</ATPP_DisassembleAndroid.description>
+  <ATPP_DisassembleAndroid.jobString>Rozoberá androida.</ATPP_DisassembleAndroid.jobString>
+  <ATPP_Make_NanitesHydraulicSerum.label>Vyrobiť nanitové sérum (hydraulika)</ATPP_Make_NanitesHydraulicSerum.label>
+  <ATPP_Make_NanitesHydraulicSerum.description>Vyrobí hydraulické nanitové sérum pre androidov umožňujúce opravu poškodení súvisiacich so starobou.</ATPP_Make_NanitesHydraulicSerum.description>
+  <ATPP_Make_NanitesHydraulicSerum.jobString>Vyrába nanitové sérum pre androidov.</ATPP_Make_NanitesHydraulicSerum.jobString>
+  <ATPP_Make_NanitesCPUSerum.label>Vyrobiť nanitové sérum (CPU)</ATPP_Make_NanitesCPUSerum.label>
+  <ATPP_Make_NanitesCPUSerum.description>Vyrobí nanitové sérum pre CPU androidov umožňujúce opravu poškodení súvisiacich so starobou.</ATPP_Make_NanitesCPUSerum.description>
+  <ATPP_Make_NanitesCPUSerum.jobString>Vyrába nanitové sérum pre androidov.</ATPP_Make_NanitesCPUSerum.jobString>
+  <ATPP_Make_NanitesCoolingSerum.label>Vyrobiť nanitové sérum (chladenie)</ATPP_Make_NanitesCoolingSerum.label>
+  <ATPP_Make_NanitesCoolingSerum.description>Vyrobí chladiace nanitové sérum pre androidov umožňujúce opravu poškodení chladiaceho systému súvisiacich so starobou.</ATPP_Make_NanitesCoolingSerum.description>
+  <ATPP_Make_NanitesCoolingSerum.jobString>Vyrába nanitové sérum pre androidov.</ATPP_Make_NanitesCoolingSerum.jobString>
+  <ATPP_Make_NanitesFrameSerum.label>Vyrobiť nanitové sérum (kostra)</ATPP_Make_NanitesFrameSerum.label>
+  <ATPP_Make_NanitesFrameSerum.description>Vyrobí kostrové nanitové sérum pre androidov umožňujúce opravu poškodení endoskeletu súvisiacich so starobou.</ATPP_Make_NanitesFrameSerum.description>
+  <ATPP_Make_NanitesFrameSerum.jobString>Vyrába nanitové sérum pre androidov.</ATPP_Make_NanitesFrameSerum.jobString>
+  <ATPP_Make_RXChip.label>Vyrobiť neurónový čip RX</ATPP_Make_RXChip.label>
+  <ATPP_Make_RXChip.description>Neurónový čip fungujúci ako osobný vysielač siete SkyMind.</ATPP_Make_RXChip.description>
+  <ATPP_Make_RXChip.jobString>Vyrába neurónový čip RX.</ATPP_Make_RXChip.jobString>
+  <ATPP_Make_VX0Chip.label>Vyrobiť neurónový čip VX0</ATPP_Make_VX0Chip.label>
+  <ATPP_Make_VX0Chip.description>Vyrobí čip VX0, neurónový čip, ktorý premení svojho hostiteľa na biologického surogáta.</ATPP_Make_VX0Chip.description>
+  <ATPP_Make_VX0Chip.jobString>Vyrába neurónový čip VX0.</ATPP_Make_VX0Chip.jobString>
+  <ATPP_Make_VX1Chip.label>Vyrobiť neurónový čip VX1</ATPP_Make_VX1Chip.label>
+  <ATPP_Make_VX1Chip.description>Vyrobí čip VX1, ktorý svojmu hostiteľovi umožňuje diaľkovo ovládať akéhokoľvek androida radu SX alebo biologického surogáta.</ATPP_Make_VX1Chip.description>
+  <ATPP_Make_VX1Chip.jobString>Vyrába neurónový čip VX1.</ATPP_Make_VX1Chip.jobString>
+  <ATPP_Make_VX2Chip.label>Vyrobiť neurónový čip VX2</ATPP_Make_VX2Chip.label>
+  <ATPP_Make_VX2Chip.description>Vyrobí čip VX2, ktorý svojmu hostiteľovi umožňuje diaľkovo ovládať akéhokoľvek androida radu SX alebo biologického surogáta a duplikovať/permutovať svoje vedomie.</ATPP_Make_VX2Chip.description>
+  <ATPP_Make_VX2Chip.jobString>Vyrába neurónový čip VX2.</ATPP_Make_VX2Chip.jobString>
+  <ATPP_Make_VX3Chip.label>Vyrobiť neurónový čip VX3</ATPP_Make_VX3Chip.label>
+  <ATPP_Make_VX3Chip.description>Vyrobí čip VX3, ktorý svojmu hostiteľovi umožňuje súčasne diaľkovo ovládať viacero androidov radu SX alebo biologických surogátov a duplikovať/permutovať svoje vedomie.</ATPP_Make_VX3Chip.description>
+  <ATPP_Make_VX3Chip.jobString>Vyrába neurónový čip VX3.</ATPP_Make_VX3Chip.jobString>
+  <ATPP_InstallVX2Chip.label>Nainštalovať neurónový čip VX2</ATPP_InstallVX2Chip.label>
+  <ATPP_InstallVX2Chip.description>Nainštaluje neurónový čip VX2, ktorý svojmu hostiteľovi umožňuje diaľkovo ovládať akéhokoľvek androida radu SX alebo biologického surogáta a duplikovať/permutovať svoje vedomie.</ATPP_InstallVX2Chip.description>
+  <ATPP_InstallVX2Chip.jobString>Inštaluje neurónový čip VX2.</ATPP_InstallVX2Chip.jobString>
+  <ATPP_InstallVX2ChipOnAndroid.label>Nainštalovať neurónový čip VX2 (android)</ATPP_InstallVX2ChipOnAndroid.label>
+  <ATPP_InstallVX2ChipOnAndroid.description>Nainštaluje neurónový čip VX2 do androida, čo mu umožní diaľkovo ovládať akéhokoľvek androida radu SX alebo biologického surogáta a duplikovať/permutovať svoje vedomie.</ATPP_InstallVX2ChipOnAndroid.description>
+  <ATPP_InstallVX2ChipOnAndroid.jobString>Inštaluje neurónový čip VX2 do androida.</ATPP_InstallVX2ChipOnAndroid.jobString>
+  <ATPP_InstallVX3Chip.label>Nainštalovať neurónový čip VX3</ATPP_InstallVX3Chip.label>
+  <ATPP_InstallVX3Chip.description>Nainštaluje neurónový čip VX3, ktorý svojmu hostiteľovi umožňuje súčasne diaľkovo ovládať viacero androidov radu SX alebo biologických surogátov a duplikovať/permutovať svoje vedomie.</ATPP_InstallVX3Chip.description>
+  <ATPP_InstallVX3Chip.jobString>Inštaluje neurónový čip VX3.</ATPP_InstallVX3Chip.jobString>
+  <ATPP_InstallVX3ChipOnAndroid.label>Nainštalovať neurónový čip VX3 (android)</ATPP_InstallVX3ChipOnAndroid.label>
+  <ATPP_InstallVX3ChipOnAndroid.description>Nainštaluje neurónový čip VX3 do androida, čo mu umožní súčasne diaľkovo ovládať viacero androidov radu SX alebo biologických surogátov a duplikovať/permutovať svoje vedomie.</ATPP_InstallVX3ChipOnAndroid.description>
+  <ATPP_InstallVX3ChipOnAndroid.jobString>Inštaluje neurónový čip VX3 do androida.</ATPP_InstallVX3ChipOnAndroid.jobString>
+  <ATPP_InstallRXChip.label>Nainštalovať neurónový čip RX</ATPP_InstallRXChip.label>
+  <ATPP_InstallRXChip.description>Nainštaluje neurónový čip RX, ktorý pre svojho hostiteľa funguje ako osobný vysielač siete SkyMind.</ATPP_InstallRXChip.description>
+  <ATPP_InstallRXChip.jobString>Inštaluje neurónový čip RX.</ATPP_InstallRXChip.jobString>
+  <ATPP_InstallRXChipOnAndroid.label>Nainštalovať neurónový čip RX</ATPP_InstallRXChipOnAndroid.label>
+  <ATPP_InstallRXChipOnAndroid.description>Nainštaluje neurónový čip RX, ktorý pre svojho hostiteľa funguje ako osobný vysielač siete SkyMind.</ATPP_InstallRXChipOnAndroid.description>
+  <ATPP_InstallRXChipOnAndroid.jobString>Inštaluje neurónový čip RX.</ATPP_InstallRXChipOnAndroid.jobString>
+  <ATPP_InstallVX0ChipOnAndroid.label>Nainštalovať neurónový čip VX0 (android)</ATPP_InstallVX0ChipOnAndroid.label>
+  <ATPP_InstallVX0ChipOnAndroid.description>Nainštaluje do androida neurónový čip VX0, ktorý premení svojho hostiteľa na biologického surogáta.</ATPP_InstallVX0ChipOnAndroid.description>
+  <ATPP_InstallVX0ChipOnAndroid.jobString>Inštaluje neurónový čip VX0 do androida.</ATPP_InstallVX0ChipOnAndroid.jobString>
+  <ATPP_InstallVX0Chip.label>Nainštalovať neurónový čip VX0</ATPP_InstallVX0Chip.label>
+  <ATPP_InstallVX0Chip.description>Nainštaluje neurónový čip VX0, ktorý premení svojho hostiteľa na biologického surogáta.</ATPP_InstallVX0Chip.description>
+  <ATPP_InstallVX0Chip.jobString>Inštaluje neurónový čip VX0.</ATPP_InstallVX0Chip.jobString>
+  <ATPP_InstallVX1Chip.label>Nainštalovať neurónový čip VX1</ATPP_InstallVX1Chip.label>
+  <ATPP_InstallVX1Chip.description>Nainštaluje neurónový čip VX1, ktorý svojmu hostiteľovi umožňuje diaľkovo ovládať akéhokoľvek androida radu SX alebo biologického surogáta.</ATPP_InstallVX1Chip.description>
+  <ATPP_InstallVX1Chip.jobString>Inštaluje neurónový čip VX1.</ATPP_InstallVX1Chip.jobString>
+  <ATPP_InstallVX1ChipOnAndroid.label>Nainštalovať neurónový čip VX1 (android)</ATPP_InstallVX1ChipOnAndroid.label>
+  <ATPP_InstallVX1ChipOnAndroid.description>Nainštaluje neurónový čip VX1 do androida, čo mu umožní diaľkovo ovládať akéhokoľvek androida radu SX alebo biologického surogáta.</ATPP_InstallVX1ChipOnAndroid.description>
+  <ATPP_InstallVX1ChipOnAndroid.jobString>Inštaluje neurónový čip VX1 do androida.</ATPP_InstallVX1ChipOnAndroid.jobString>
+  <ATPP_CreateS1.label>Vytvoriť surogátneho androida T1 (S1)</ATPP_CreateS1.label>
+  <ATPP_CreateS1.description>Vytvorí prázdneho androida S1 z plastoceli a súčiastok.</ATPP_CreateS1.description>
+  <ATPP_CreateS1.jobString>Vyrába androida S1.</ATPP_CreateS1.jobString>
+  <ATPP_CreateS2.label>Vytvoriť surogátneho androida T2 (S2)</ATPP_CreateS2.label>
+  <ATPP_CreateS2.description>Vytvorí prázdneho androida S2 z plastoceli a súčiastok.</ATPP_CreateS2.description>
+  <ATPP_CreateS2.jobString>Vyrába androida S2.</ATPP_CreateS2.jobString>
+  <ATPP_CreateS3.label>Vytvoriť surogátneho androida T3 (S3)</ATPP_CreateS3.label>
+  <ATPP_CreateS3.description>Vytvorí prázdneho androida S3 z plastoceli a súčiastok.</ATPP_CreateS3.description>
+  <ATPP_CreateS3.jobString>Vyrába androida S3.</ATPP_CreateS3.jobString>
+  <ATPP_CreateS4.label>Vytvoriť surogátneho androida T4 (S4)</ATPP_CreateS4.label>
+  <ATPP_CreateS4.description>Vytvorí prázdneho androida S4 z plastoceli a súčiastok.</ATPP_CreateS4.description>
+  <ATPP_CreateS4.jobString>Vyrába androida S4.</ATPP_CreateS4.jobString>
+  <ATPP_CreateHellDrone.label>Vytvoriť surogátneho androida HellUnit (S-HU)</ATPP_CreateHellDrone.label>
+  <ATPP_CreateHellDrone.description>Vytvorí prázdneho androida S-HU z plastoceli a súčiastok.</ATPP_CreateHellDrone.description>
+  <ATPP_CreateHellDrone.jobString>Vyrába androida S-HU.</ATPP_CreateHellDrone.jobString>
+  <ATPP_CreateM7.label>Vytvoriť surogátneho mechanoida M7 (SM7)</ATPP_CreateM7.label>
+  <ATPP_CreateM7.description>Vytvorí prázdneho mechanoida SM7 z plastoceli a súčiastok.</ATPP_CreateM7.description>
+  <ATPP_CreateM7.jobString>Vyrába mechanoida SM7.</ATPP_CreateM7.jobString>
+  <ATPP_CreateBlankT3.label>Vytvoriť androida T3 s prázdnou neurónovou sieťou</ATPP_CreateBlankT3.label>
+  <ATPP_CreateBlankT3.description>Vytvoriť androida T3 s prázdnou neurónovou sieťou</ATPP_CreateBlankT3.description>
+  <ATPP_CreateBlankT3.jobString>Vyrába androida T3 s prázdnou neurónovou sieťou.</ATPP_CreateBlankT3.jobString>
+  <ATPP_CreateBlankT4.label>Vytvoriť androida T4 s prázdnou neurónovou sieťou</ATPP_CreateBlankT4.label>
+  <ATPP_CreateBlankT4.description>Vytvoriť androida T4 s prázdnou neurónovou sieťou</ATPP_CreateBlankT4.description>
+  <ATPP_CreateBlankT4.jobString>Vyrába androida T4 s prázdnou neurónovou sieťou.</ATPP_CreateBlankT4.jobString>
+  <ATPP_Make_SM7Mech40MMCannon.label>Vyrobiť 40mm kanón (zbraň SM7)</ATPP_Make_SM7Mech40MMCannon.label>
+  <ATPP_Make_SM7Mech40MMCannon.description>Vyrobiť 40mm kanón (zbraň SM7)</ATPP_Make_SM7Mech40MMCannon.description>
+  <ATPP_Make_SM7Mech40MMCannon.jobString>Vyrobiť 40mm kanón (zbraň SM7)</ATPP_Make_SM7Mech40MMCannon.jobString>
+  <ATPP_Make_SM7MechMastiffGun.label>Vyrobiť brokovnicu Mastiff (zbraň SM7)</ATPP_Make_SM7MechMastiffGun.label>
+  <ATPP_Make_SM7MechMastiffGun.description>Vyrobiť brokovnicu Mastiff (zbraň SM7)</ATPP_Make_SM7MechMastiffGun.description>
+  <ATPP_Make_SM7MechMastiffGun.jobString>Vyrobiť brokovnicu Mastiff (zbraň SM7)</ATPP_Make_SM7MechMastiffGun.jobString>
+  <ATPP_Make_SM7MechHandCannon.label>Vyrobiť ručný kanón X-5 (zbraň SM7)</ATPP_Make_SM7MechHandCannon.label>
+  <ATPP_Make_SM7MechHandCannon.description>Vyrobiť ručný kanón X-5 (zbraň SM7)</ATPP_Make_SM7MechHandCannon.description>
+  <ATPP_Make_SM7MechHandCannon.jobString>Vyrobiť ručný kanón X-5 (zbraň SM7)</ATPP_Make_SM7MechHandCannon.jobString>
+  <ATPP_PaintAndroidFrameworkKhaki.label>Nafarbiť rám androida na khaki</ATPP_PaintAndroidFrameworkKhaki.label>
+  <ATPP_PaintAndroidFrameworkKhaki.description>Nafarbiť rám androida na khaki</ATPP_PaintAndroidFrameworkKhaki.description>
+  <ATPP_PaintAndroidFrameworkKhaki.jobString>Farbí rám androida na khaki.</ATPP_PaintAndroidFrameworkKhaki.jobString>
+  <ATPP_PaintAndroidFrameworkGreen.label>Nafarbiť rám androida na zeleno</ATPP_PaintAndroidFrameworkGreen.label>
+  <ATPP_PaintAndroidFrameworkGreen.description>Nafarbiť rám androida na zeleno</ATPP_PaintAndroidFrameworkGreen.description>
+  <ATPP_PaintAndroidFrameworkGreen.jobString>Farbí rám androida na zeleno.</ATPP_PaintAndroidFrameworkGreen.jobString>
+  <ATPP_PaintAndroidFrameworkBlue.label>Nafarbiť rám androida na modro</ATPP_PaintAndroidFrameworkBlue.label>
+  <ATPP_PaintAndroidFrameworkBlue.description>Nafarbiť rám androida na modro</ATPP_PaintAndroidFrameworkBlue.description>
+  <ATPP_PaintAndroidFrameworkBlue.jobString>Farbí rám androida na modro.</ATPP_PaintAndroidFrameworkBlue.jobString>
+  <ATPP_PaintAndroidFrameworkRed.label>Nafarbiť rám androida na červeno</ATPP_PaintAndroidFrameworkRed.label>
+  <ATPP_PaintAndroidFrameworkRed.description>Nafarbiť rám androida na červeno</ATPP_PaintAndroidFrameworkRed.description>
+  <ATPP_PaintAndroidFrameworkRed.jobString>Farbí rám androida na červeno.</ATPP_PaintAndroidFrameworkRed.jobString>
+  <ATPP_PaintAndroidFrameworkYellow.label>Nafarbiť rám androida na žlto</ATPP_PaintAndroidFrameworkYellow.label>
+  <ATPP_PaintAndroidFrameworkYellow.description>Nafarbiť rám androida na žlto</ATPP_PaintAndroidFrameworkYellow.description>
+  <ATPP_PaintAndroidFrameworkYellow.jobString>Farbí rám androida na žlto.</ATPP_PaintAndroidFrameworkYellow.jobString>
+  <ATPP_PaintAndroidFrameworkOrange.label>Nafarbiť rám androida na oranžovo</ATPP_PaintAndroidFrameworkOrange.label>
+  <ATPP_PaintAndroidFrameworkOrange.description>Nafarbiť rám androida na oranžovo</ATPP_PaintAndroidFrameworkOrange.description>
+  <ATPP_PaintAndroidFrameworkOrange.jobString>Farbí rám androida na oranžovo.</ATPP_PaintAndroidFrameworkOrange.jobString>
+  <ATPP_PaintAndroidFrameworkBlack.label>Nafarbiť rám androida na čierno</ATPP_PaintAndroidFrameworkBlack.label>
+  <ATPP_PaintAndroidFrameworkBlack.description>Nafarbiť rám androida na čierno</ATPP_PaintAndroidFrameworkBlack.description>
+  <ATPP_PaintAndroidFrameworkBlack.jobString>Farbí rám androida na čierno.</ATPP_PaintAndroidFrameworkBlack.jobString>
+  <ATPP_PaintAndroidFrameworkWhite.label>Nafarbiť rám androida na bielo</ATPP_PaintAndroidFrameworkWhite.label>
+  <ATPP_PaintAndroidFrameworkWhite.description>Nafarbiť rám androida na bielo</ATPP_PaintAndroidFrameworkWhite.description>
+  <ATPP_PaintAndroidFrameworkWhite.jobString>Farbí rám androida na bielo.</ATPP_PaintAndroidFrameworkWhite.jobString>
+  <ATPP_PaintAndroidFrameworkGray.label>Nafarbiť rám androida na sivo</ATPP_PaintAndroidFrameworkGray.label>
+  <ATPP_PaintAndroidFrameworkGray.description>Nafarbiť rám androida na sivo</ATPP_PaintAndroidFrameworkGray.description>
+  <ATPP_PaintAndroidFrameworkGray.jobString>Farbí rám androida na sivo.</ATPP_PaintAndroidFrameworkGray.jobString>
+  <ATPP_PaintAndroidFrameworkPurple.label>Nafarbiť rám androida na fialovo</ATPP_PaintAndroidFrameworkPurple.label>
+  <ATPP_PaintAndroidFrameworkPurple.description>Nafarbiť rám androida na fialovo</ATPP_PaintAndroidFrameworkPurple.description>
+  <ATPP_PaintAndroidFrameworkPurple.jobString>Farbí rám androida na fialovo.</ATPP_PaintAndroidFrameworkPurple.jobString>
+  <ATPP_PaintAndroidFrameworkPink.label>Nafarbiť rám androida na ružovo</ATPP_PaintAndroidFrameworkPink.label>
+  <ATPP_PaintAndroidFrameworkPink.description>Nafarbiť rám androida na ružovo</ATPP_PaintAndroidFrameworkPink.description>
+  <ATPP_PaintAndroidFrameworkPink.jobString>Farbí rám androida na ružovo.</ATPP_PaintAndroidFrameworkPink.jobString>
+  <ATPP_PaintAndroidFrameworkCyan.label>Nafarbiť rám androida na azúrovo</ATPP_PaintAndroidFrameworkCyan.label>
+  <ATPP_PaintAndroidFrameworkCyan.description>Nafarbiť rám androida na azúrovo</ATPP_PaintAndroidFrameworkCyan.description>
+  <ATPP_PaintAndroidFrameworkCyan.jobString>Farbí rám androida na azúrovo.</ATPP_PaintAndroidFrameworkCyan.jobString>
+  <ATPP_PaintAndroidFrameworkDefault.label>Nafarbiť rám androida na predvolenú farbu</ATPP_PaintAndroidFrameworkDefault.label>
+  <ATPP_PaintAndroidFrameworkDefault.description>Nafarbiť rám androida na predvolenú farbu</ATPP_PaintAndroidFrameworkDefault.description>
+  <ATPP_PaintAndroidFrameworkDefault.jobString>Farbí rám androida na predvolenú farbu.</ATPP_PaintAndroidFrameworkDefault.jobString>
+  <ATPP_ApplyHydraulicNaniteBank.label>Podať hydraulickú nanitovú banku</ATPP_ApplyHydraulicNaniteBank.label>
+  <ATPP_ApplyHydraulicNaniteBank.description>Podá jednorazovú dávku nanitov vyladenú na opravu poškodených hydraulických systémov androidov.</ATPP_ApplyHydraulicNaniteBank.description>
+  <ATPP_ApplyHydraulicNaniteBank.jobString>Opravuje problémy androida spôsobené starobou pomocou nanitového séra.</ATPP_ApplyHydraulicNaniteBank.jobString>
+  <ATPP_ApplyHealFrameworkSystem.label>Podať štrukturálnu nanitovú banku</ATPP_ApplyHealFrameworkSystem.label>
+  <ATPP_ApplyHealFrameworkSystem.description>Podá jednorazovú dávku nanitov vyladenú na opravu poškodeného endoskeletu androidov.</ATPP_ApplyHealFrameworkSystem.description>
+  <ATPP_ApplyHealFrameworkSystem.jobString>Opravuje problémy androida spôsobené starobou pomocou nanitového séra.</ATPP_ApplyHealFrameworkSystem.jobString>
+  <ATPP_ApplyHealCoolingSystem.label>Podať chladiacu nanitovú banku</ATPP_ApplyHealCoolingSystem.label>
+  <ATPP_ApplyHealCoolingSystem.description>Podá jednorazovú dávku nanitov vyladenú na opravu poškodeného chladiaceho systému androidov v prípade prehrievania.</ATPP_ApplyHealCoolingSystem.description>
+  <ATPP_ApplyHealCoolingSystem.jobString>Opravuje problémy androida spôsobené starobou pomocou nanitového séra.</ATPP_ApplyHealCoolingSystem.jobString>
+  <ATPP_ApplyHealCPUSerum.label>Podať nanitovú banku CPU</ATPP_ApplyHealCPUSerum.label>
+  <ATPP_ApplyHealCPUSerum.description>Podá jednorazovú dávku nanitov vyladenú na opravu poškodeného systému umelého mozgu androidov.</ATPP_ApplyHealCPUSerum.description>
+  <ATPP_ApplyHealCPUSerum.jobString>Opravuje problémy androida spôsobené starobou pomocou nanitového séra.</ATPP_ApplyHealCPUSerum.jobString>
+  <ATPP_Make_T1ArtificialBrain.label>Vyrobiť umelý mozog T1</ATPP_Make_T1ArtificialBrain.label>
+  <ATPP_Make_T1ArtificialBrain.description>Vyrobí umelý mozog T1 na premenu surogáta na androida s prázdnou neurónovou sieťou.</ATPP_Make_T1ArtificialBrain.description>
+  <ATPP_Make_T1ArtificialBrain.jobString>Vyrába umelý mozog T1.</ATPP_Make_T1ArtificialBrain.jobString>
+  <ATPP_Make_T2ArtificialBrain.label>Vyrobiť umelý mozog T2</ATPP_Make_T2ArtificialBrain.label>
+  <ATPP_Make_T2ArtificialBrain.description>Vyrobí umelý mozog T2 na premenu surogáta na androida s prázdnou neurónovou sieťou.</ATPP_Make_T2ArtificialBrain.description>
+  <ATPP_Make_T2ArtificialBrain.jobString>Vyrába umelý mozog T2.</ATPP_Make_T2ArtificialBrain.jobString>
+  <ATPP_Make_T3ArtificialBrain.label>Vyrobiť umelý mozog T3</ATPP_Make_T3ArtificialBrain.label>
+  <ATPP_Make_T3ArtificialBrain.description>Vyrobí umelý mozog T3 na premenu surogáta na androida s prázdnou neurónovou sieťou.</ATPP_Make_T3ArtificialBrain.description>
+  <ATPP_Make_T3ArtificialBrain.jobString>Vyrába umelý mozog T3.</ATPP_Make_T3ArtificialBrain.jobString>
+  <ATPP_Make_T4ArtificialBrain.label>Vyrobiť umelý mozog T4</ATPP_Make_T4ArtificialBrain.label>
+  <ATPP_Make_T4ArtificialBrain.description>Vyrobí umelý mozog T4 na premenu surogáta na androida s prázdnou neurónovou sieťou.</ATPP_Make_T4ArtificialBrain.description>
+  <ATPP_Make_T4ArtificialBrain.jobString>Vyrába umelý mozog T4.</ATPP_Make_T4ArtificialBrain.jobString>
+  <ATPP_InstallT1ArtificialBrain.label>Nainštalovať umelý mozog T1</ATPP_InstallT1ArtificialBrain.label>
+  <ATPP_InstallT1ArtificialBrain.description>Nainštaluje umelý mozog T1, čo umožní premeniť surogáta T1 na androida s prázdnou neurónovou sieťou.</ATPP_InstallT1ArtificialBrain.description>
+  <ATPP_InstallT1ArtificialBrain.jobString>Inštaluje umelý mozog T1.</ATPP_InstallT1ArtificialBrain.jobString>
+  <ATPP_InstallT2ArtificialBrain.label>Nainštalovať umelý mozog T2</ATPP_InstallT2ArtificialBrain.label>
+  <ATPP_InstallT2ArtificialBrain.description>Nainštaluje umelý mozog T2, čo umožní premeniť surogáta T2 na androida s prázdnou neurónovou sieťou.</ATPP_InstallT2ArtificialBrain.description>
+  <ATPP_InstallT2ArtificialBrain.jobString>Inštaluje umelý mozog T2.</ATPP_InstallT2ArtificialBrain.jobString>
+  <ATPP_InstallT3ArtificialBrain.label>Nainštalovať umelý mozog T3</ATPP_InstallT3ArtificialBrain.label>
+  <ATPP_InstallT3ArtificialBrain.description>Nainštaluje umelý mozog T3, čo umožní premeniť surogáta T3 na androida s prázdnou neurónovou sieťou.</ATPP_InstallT3ArtificialBrain.description>
+  <ATPP_InstallT3ArtificialBrain.jobString>Inštaluje umelý mozog T3.</ATPP_InstallT3ArtificialBrain.jobString>
+  <ATPP_InstallT4ArtificialBrain.label>Nainštalovať umelý mozog T4</ATPP_InstallT4ArtificialBrain.label>
+  <ATPP_InstallT4ArtificialBrain.description>Nainštaluje umelý mozog T4, čo umožní premeniť surogáta T4 na androida s prázdnou neurónovou sieťou.</ATPP_InstallT4ArtificialBrain.description>
+  <ATPP_InstallT4ArtificialBrain.jobString>Inštaluje umelý mozog T4.</ATPP_InstallT4ArtificialBrain.jobString>
+  <ATPP_CreateSX2.label>Vytvoriť mužského surogátneho androida TX2 (SX2)</ATPP_CreateSX2.label>
+  <ATPP_CreateSX2.description>Vytvorí prázdneho mužského androida SX2 z plastoceli a súčiastok.</ATPP_CreateSX2.description>
+  <ATPP_CreateSX2.jobString>Vyrába androida SX2.</ATPP_CreateSX2.jobString>
+  <ATPP_CreateSX2Female.label>Vytvoriť ženského surogátneho androida TX2 (SX2)</ATPP_CreateSX2Female.label>
+  <ATPP_CreateSX2Female.description>Vytvorí prázdneho ženského androida SX2 z plastoceli a súčiastok.</ATPP_CreateSX2Female.description>
+  <ATPP_CreateSX2Female.jobString>Vyrába androida SX2.</ATPP_CreateSX2Female.jobString>
+  <ATPP_CreateSX3.label>Vytvoriť mužského surogátneho androida TX3 (SX3)</ATPP_CreateSX3.label>
+  <ATPP_CreateSX3.description>Vytvorí prázdneho mužského androida SX3 z plastoceli a súčiastok.</ATPP_CreateSX3.description>
+  <ATPP_CreateSX3.jobString>Vyrába androida SX3.</ATPP_CreateSX3.jobString>
+  <ATPP_CreateSX3Female.label>Vytvoriť ženského surogátneho androida TX3 (SX3)</ATPP_CreateSX3Female.label>
+  <ATPP_CreateSX3Female.description>Vytvorí prázdneho ženského androida SX3 z plastoceli a súčiastok.</ATPP_CreateSX3Female.description>
+  <ATPP_CreateSX3Female.jobString>Vyrába androida SX3.</ATPP_CreateSX3Female.jobString>
+  <ATPP_CreateSX4.label>Vytvoriť surogátneho androida TX4 (SX4)</ATPP_CreateSX4.label>
+  <ATPP_CreateSX4.description>Vytvorí prázdneho androida SX4 z plastoceli a súčiastok.</ATPP_CreateSX4.description>
+  <ATPP_CreateSX4.jobString>Vyrába androida SX4.</ATPP_CreateSX4.jobString>
+  <ATPP_CreateSX4Female.label>Vytvoriť ženského surogátneho androida TX4 (SX4)</ATPP_CreateSX4Female.label>
+  <ATPP_CreateSX4Female.description>Vytvorí prázdneho ženského androida SX4 z plastoceli a súčiastok.</ATPP_CreateSX4Female.description>
+  <ATPP_CreateSX4Female.jobString>Vyrába androida SX4.</ATPP_CreateSX4Female.jobString>
+  <ATPP_CreateSX2I.label>Vytvoriť mužského surogátneho androida TX2I (SX2I)</ATPP_CreateSX2I.label>
+  <ATPP_CreateSX2I.description>Vytvorí prázdneho mužského androida SX2I z plastoceli a súčiastok.</ATPP_CreateSX2I.description>
+  <ATPP_CreateSX2I.jobString>Vyrába androida SX2I.</ATPP_CreateSX2I.jobString>
+  <ATPP_CreateSX2IFemale.label>Vytvoriť ženského surogátneho androida TX2I (SX2I)</ATPP_CreateSX2IFemale.label>
+  <ATPP_CreateSX2IFemale.description>Vytvorí prázdneho ženského androida SX2I z plastoceli a súčiastok.</ATPP_CreateSX2IFemale.description>
+  <ATPP_CreateSX2IFemale.jobString>Vyrába androida SX2I.</ATPP_CreateSX2IFemale.jobString>
+  <ATPP_CreateSX2K.label>Vytvoriť mužského surogátneho androida TX2K (SX2K)</ATPP_CreateSX2K.label>
+  <ATPP_CreateSX2K.description>Vytvorí prázdneho mužského androida SX2K z plastoceli a súčiastok.</ATPP_CreateSX2K.description>
+  <ATPP_CreateSX2K.jobString>Vyrába androida SX2K.</ATPP_CreateSX2K.jobString>
+  <ATPP_CreateSX2KFemale.label>Vytvoriť ženského surogátneho androida TX2K (SX2K)</ATPP_CreateSX2KFemale.label>
+  <ATPP_CreateSX2KFemale.description>Vytvorí prázdneho ženského androida SX2K z plastoceli a súčiastok.</ATPP_CreateSX2KFemale.description>
+  <ATPP_CreateSX2KFemale.jobString>Vyrába androida SX2K.</ATPP_CreateSX2KFemale.jobString>
+  <ATPP_CreateSX2KI.label>Vytvoriť surogátneho androida TX2KI (SX2KI)</ATPP_CreateSX2KI.label>
+  <ATPP_CreateSX2KI.description>Vytvorí prázdneho androida SX2KI z plastoceli a súčiastok.</ATPP_CreateSX2KI.description>
+  <ATPP_CreateSX2KI.jobString>Vyrába androida SX2KI.</ATPP_CreateSX2KI.jobString>
+  <ATPP_CreateSX2KIFemale.label>Vytvoriť ženského surogátneho androida TX2KI (SX2KI)</ATPP_CreateSX2KIFemale.label>
+  <ATPP_CreateSX2KIFemale.description>Vytvorí prázdneho ženského androida SX2KI z plastoceli a súčiastok.</ATPP_CreateSX2KIFemale.description>
+  <ATPP_CreateSX2KIFemale.jobString>Vyrába ženského androida SX2KI.</ATPP_CreateSX2KIFemale.jobString>
+  <ATPP_CreateSX3I.label>Vytvoriť mužského surogátneho androida TX3I (SX3I)</ATPP_CreateSX3I.label>
+  <ATPP_CreateSX3I.description>Vytvorí prázdneho mužského androida SX3I z plastoceli a súčiastok.</ATPP_CreateSX3I.description>
+  <ATPP_CreateSX3I.jobString>Vyrába androida SX3I.</ATPP_CreateSX3I.jobString>
+  <ATPP_CreateSX3IFemale.label>Vytvoriť ženského surogátneho androida TX3I (SX3I)</ATPP_CreateSX3IFemale.label>
+  <ATPP_CreateSX3IFemale.description>Vytvorí prázdného ženského androida SX3I z plastoceli a súčiastok.</ATPP_CreateSX3IFemale.description>
+  <ATPP_CreateSX3IFemale.jobString>Vyrába androida SX3I.</ATPP_CreateSX3IFemale.jobString>
+  <ATPP_CreateSX4I.label>Vytvoriť surogátneho androida TX4I (SX4I)</ATPP_CreateSX4I.label>
+  <ATPP_CreateSX4I.description>Vytvorí prázdneho androida SX4I z plastoceli a súčiastok.</ATPP_CreateSX4I.description>
+  <ATPP_CreateSX4I.jobString>Vyrába androida SX4I.</ATPP_CreateSX4I.jobString>
+  <ATPP_CreateSX4IFemale.label>Vytvoriť ženského surogátneho androida TX4I (SX4I)</ATPP_CreateSX4IFemale.label>
+  <ATPP_CreateSX4IFemale.description>Vytvorí prázdneho ženského androida SX4I z plastoceli a súčiastok.</ATPP_CreateSX4IFemale.description>
+  <ATPP_CreateSX4IFemale.jobString>Vyrába androida SX4I.</ATPP_CreateSX4IFemale.jobString>
+  <ATPP_CreateTX4Android.label>Vytvoriť mužského androida TX4</ATPP_CreateTX4Android.label>
+  <ATPP_CreateTX4Android.description>Vytvorí mužského androida TX4.</ATPP_CreateTX4Android.description>
+  <ATPP_CreateTX4Android.jobString>Vyrába androida TX4.</ATPP_CreateTX4Android.jobString>
+  <ATPP_CreateTX4FemaleAndroid.label>Vytvoriť ženského androida TX4</ATPP_CreateTX4FemaleAndroid.label>
+  <ATPP_CreateTX4FemaleAndroid.description>Vytvorí ženského androida TX4.</ATPP_CreateTX4FemaleAndroid.description>
+  <ATPP_CreateTX4FemaleAndroid.jobString>Vyrába androida TX4.</ATPP_CreateTX4FemaleAndroid.jobString>
+  <ATPP_CreateTX3Android.label>Vytvoriť mužského androida TX3</ATPP_CreateTX3Android.label>
+  <ATPP_CreateTX3Android.description>Vytvorí mužského androida TX3.</ATPP_CreateTX3Android.description>
+  <ATPP_CreateTX3Android.jobString>Vyrába androida TX3.</ATPP_CreateTX3Android.jobString>
+  <ATPP_CreateTX3FemaleAndroid.label>Vytvoriť ženského androida TX3</ATPP_CreateTX3FemaleAndroid.label>
+  <ATPP_CreateTX3FemaleAndroid.description>Vytvorí ženského androida TX3.</ATPP_CreateTX3FemaleAndroid.description>
+  <ATPP_CreateTX3FemaleAndroid.jobString>Vyrába androida TX3.</ATPP_CreateTX3FemaleAndroid.jobString>
+  <ATPP_CreateTX2Android.label>Vytvoriť mužského androida TX2</ATPP_CreateTX2Android.label>
+  <ATPP_CreateTX2Android.description>Vytvorí mužského androida TX2.</ATPP_CreateTX2Android.description>
+  <ATPP_CreateTX2Android.jobString>Vyrába androida TX2.</ATPP_CreateTX2Android.jobString>
+  <ATPP_CreateTX2FemaleAndroid.label>Vytvoriť ženského androida TX2</ATPP_CreateTX2FemaleAndroid.label>
+  <ATPP_CreateTX2FemaleAndroid.description>Vytvorí ženského androida TX2.</ATPP_CreateTX2FemaleAndroid.description>
+  <ATPP_CreateTX2FemaleAndroid.jobString>Vyrába androida TX2.</ATPP_CreateTX2FemaleAndroid.jobString>
+  <ATPP_CreateTX4IAndroid.label>Vytvoriť mužského androida TX4I</ATPP_CreateTX4IAndroid.label>
+  <ATPP_CreateTX4IAndroid.description>Vytvorí mužského androida TX4I.</ATPP_CreateTX4IAndroid.description>
+  <ATPP_CreateTX4IAndroid.jobString>Vyrába androida TX4I.</ATPP_CreateTX4IAndroid.jobString>
+  <ATPP_CreateTX4IFemaleAndroid.label>Vytvoriť ženského androida TX4I</ATPP_CreateTX4IFemaleAndroid.label>
+  <ATPP_CreateTX4IFemaleAndroid.description>Vytvorí ženského androida TX4I.</ATPP_CreateTX4IFemaleAndroid.description>
+  <ATPP_CreateTX4IFemaleAndroid.jobString>Vyrába androida TX4I.</ATPP_CreateTX4IFemaleAndroid.jobString>
+  <ATPP_CreateTX3IAndroid.label>Vytvoriť mužského androida TX3I</ATPP_CreateTX3IAndroid.label>
+  <ATPP_CreateTX3IAndroid.description>Vytvorí mužského androida TX3I.</ATPP_CreateTX3IAndroid.description>
+  <ATPP_CreateTX3IAndroid.jobString>Vyrába androida TX3I.</ATPP_CreateTX3IAndroid.jobString>
+  <ATPP_CreateTX3IFemaleAndroid.label>Vytvoriť ženského androida TX3I</ATPP_CreateTX3IFemaleAndroid.label>
+  <ATPP_CreateTX3IFemaleAndroid.description>Vytvorí ženského androida TX3I.</ATPP_CreateTX3IFemaleAndroid.description>
+  <ATPP_CreateTX3IFemaleAndroid.jobString>Vyrába androida TX3I.</ATPP_CreateTX3IFemaleAndroid.jobString>
+  <ATPP_CreateTX2IAndroid.label>Vytvoriť mužského androida TX2I</ATPP_CreateTX2IAndroid.label>
+  <ATPP_CreateTX2IAndroid.description>Vytvorí mužského androida TX2I.</ATPP_CreateTX2IAndroid.description>
+  <ATPP_CreateTX2IAndroid.jobString>Vyrába androida TX2I.</ATPP_CreateTX2IAndroid.jobString>
+  <ATPP_CreateTX2IFemaleAndroid.label>Vytvoriť ženského androida TX2I</ATPP_CreateTX2IFemaleAndroid.label>
+  <ATPP_CreateTX2IFemaleAndroid.description>Vytvorí ženského androida TX2I.</ATPP_CreateTX2IFemaleAndroid.description>
+  <ATPP_CreateTX2IFemaleAndroid.jobString>Vyrába androida TX2I.</ATPP_CreateTX2IFemaleAndroid.jobString>
+  <ATPP_CreateTX2KAndroid.label>Vytvoriť mužského androida TX2K</ATPP_CreateTX2KAndroid.label>
+  <ATPP_CreateTX2KAndroid.description>Vytvorí mužského androida TX2K.</ATPP_CreateTX2KAndroid.description>
+  <ATPP_CreateTX2KAndroid.jobString>Vyrába androida TX2K.</ATPP_CreateTX2KAndroid.jobString>
+  <ATPP_CreateTX2KFemaleAndroid.label>Vytvoriť ženského androida TX2K</ATPP_CreateTX2KFemaleAndroid.label>
+  <ATPP_CreateTX2KFemaleAndroid.description>Vytvorí ženského androida TX2K.</ATPP_CreateTX2KFemaleAndroid.description>
+  <ATPP_CreateTX2KFemaleAndroid.jobString>Vyrába androida TX2K.</ATPP_CreateTX2KFemaleAndroid.jobString>
+  <ATPP_CreateTX2KIAndroid.label>Vytvoriť androida TX2KI</ATPP_CreateTX2KIAndroid.label>
+  <ATPP_CreateTX2KIAndroid.description>Vytvorí androida TX2KI.</ATPP_CreateTX2KIAndroid.description>
+  <ATPP_CreateTX2KIAndroid.jobString>Vyrába androida TX2KI.</ATPP_CreateTX2KIAndroid.jobString>
+  <ATPP_CreateTX2KIFemaleAndroid.label>Vytvoriť ženského androida TX2KI</ATPP_CreateTX2KIFemaleAndroid.label>
+  <ATPP_CreateTX2KIFemaleAndroid.description>Vytvorí ženského androida TX2KI.</ATPP_CreateTX2KIFemaleAndroid.description>
+  <ATPP_CreateTX2KIFemaleAndroid.jobString>Vyrába androida TX2KI.</ATPP_CreateTX2KIFemaleAndroid.jobString>
+  <ATPP_MakeSyntheticSkinGland.label>syntetizovať kožnú žľazu</ATPP_MakeSyntheticSkinGland.label>
+  <ATPP_MakeSyntheticSkinGland.description>Syntetizuje umelú kožnú žľazu z uhľovodíkového paliva, konzervačného roztoku neutroamínu, liečiv a tkaných textilných matríc.</ATPP_MakeSyntheticSkinGland.description>
+  <ATPP_MakeSyntheticSkinGland.jobString>Syntetizuje kožnú žľazu.</ATPP_MakeSyntheticSkinGland.jobString>
+  <ATPP_GestateSyntheticSkinGland_Biotech.label>vypestovať syntetickú kožnú žľazu</ATPP_GestateSyntheticSkinGland_Biotech.label>
+  <ATPP_GestateSyntheticSkinGland_Biotech.description>Pomocou hemogénneho roztoku Biotech, bunkových živín a lekárskych stabilizátorov v produkčnej nádrži pre androidov vypestuje živú matricu syntetickej kožnej žľazy pre infiltrátorov radu TX.</ATPP_GestateSyntheticSkinGland_Biotech.description>
+  <ATPP_GestateSyntheticSkinGland_Biotech.jobString>Pestuje syntetickú kožnú žľazu.</ATPP_GestateSyntheticSkinGland_Biotech.jobString>
+  <ATPP_QE_GrowSyntheticSkinGland.label>vypestovať syntetickú kožnú žľazu</ATPP_QE_GrowSyntheticSkinGland.label>
+  <ATPP_QE_GrowSyntheticSkinGland.description>Vypestuje živú bio-syntetickú matricu kožnej žľazy v orgánovej nádrži Questionable Ethics pomocou organických živín a chemických stabilizátorov.</ATPP_QE_GrowSyntheticSkinGland.description>
+  <ATPP_QE_GrowSyntheticSkinGland.jobString>Pestuje syntetickú kožnú žľazu.</ATPP_QE_GrowSyntheticSkinGland.jobString>
+  <ATPP_ApplySyntheticSkin.label>naštepiť syntetickú kožu</ATPP_ApplySyntheticSkin.label>
+  <ATPP_ApplySyntheticSkin.description>Naštepí syntetickú dermálnu matricu na toto pechotné šasi radu TX a pokryje obnažený mechanický endoskelet živou ľudsky pôsobiacou syntetickou kožou. Tým sa zvýši sociálne prijatie a tepelná izolácia a zároveň sa zabráni hrdzaveniu v daždi, avšak za cenu vyššej horľavosti.</ATPP_ApplySyntheticSkin.description>
+  <ATPP_ApplySyntheticSkin.jobString>Štepí syntetickú kožu na androida.</ATPP_ApplySyntheticSkin.jobString>
+  <ATPP_RemoveSyntheticSkin.label>odstrániť syntetickú kožu</ATPP_RemoveSyntheticSkin.label>
+  <ATPP_RemoveSyntheticSkin.description>Chirurgicky odstráni vrstvu syntetickej kože z tohto infiltrátora radu TX a odhalí zosilnený pechotný endoskelet pod ňou. Android stratí sociálny šarm, ale získa imunitu voči ohňu a vyššiu odolnosť na bojisku.</ATPP_RemoveSyntheticSkin.description>
+  <ATPP_RemoveSyntheticSkin.jobString>Odstraňuje syntetickú kožu z androida.</ATPP_RemoveSyntheticSkin.jobString>
+  <ATPP_QE_CreateTX2KMale.label>zostaviť mužský rám TX2K (nádrž QEE)</ATPP_QE_CreateTX2KMale.label>
+  <ATPP_QE_CreateTX2KMale.description>Zostaví neaktívny mužský rám endoskeletu TX2K zakódovaný ako genómová sekvencia na inkubáciu v orgánovej nádrži.</ATPP_QE_CreateTX2KMale.description>
+  <ATPP_QE_CreateTX2KMale.jobString>Vyrába androida.</ATPP_QE_CreateTX2KMale.jobString>
+  <ATPP_QE_CreateTX2KFemale.label>zostaviť ženský rám TX2K (nádrž QEE)</ATPP_QE_CreateTX2KFemale.label>
+  <ATPP_QE_CreateTX2KFemale.description>Zostaví neaktívny ženský rám endoskeletu TX2K zakódovaný ako genómová sekvencia na inkubáciu v orgánovej nádrži.</ATPP_QE_CreateTX2KFemale.description>
+  <ATPP_QE_CreateTX2KFemale.jobString>Vyrába androida.</ATPP_QE_CreateTX2KFemale.jobString>
+  <ATPP_QE_CreateSX2KMaleSurrogate.label>zostaviť mužský surogátny rám SX2K (nádrž QEE)</ATPP_QE_CreateSX2KMaleSurrogate.label>
+  <ATPP_QE_CreateSX2KMaleSurrogate.description>Zostaví neaktívny mužský surogátny rám endoskeletu TX2K zakódovaný ako genómová sekvencia na inkubáciu v orgánovej nádrži.</ATPP_QE_CreateSX2KMaleSurrogate.description>
+  <ATPP_QE_CreateSX2KMaleSurrogate.jobString>Vyrába androida.</ATPP_QE_CreateSX2KMaleSurrogate.jobString>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.label>zostaviť ženský surogátny rám SX2K (nádrž QEE)</ATPP_QE_CreateSX2KFemaleSurrogate.label>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.description>Zostaví neaktívny ženský surogátny rám endoskeletu TX2K zakódovaný ako genómová sekvencia na inkubáciu v orgánovej nádrži.</ATPP_QE_CreateSX2KFemaleSurrogate.description>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.jobString>Vyrába androida.</ATPP_QE_CreateSX2KFemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX3Male.label>zostaviť mužský rám TX3 (nádrž QEE)</ATPP_QE_CreateTX3Male.label>
+  <ATPP_QE_CreateTX3Male.description>Zostaví neaktívny mužský rám endoskeletu TX3 zakódovaný ako genómová sekvencia na inkubáciu v orgánovej nádrži.</ATPP_QE_CreateTX3Male.description>
+  <ATPP_QE_CreateTX3Male.jobString>Vyrába androida.</ATPP_QE_CreateTX3Male.jobString>
+  <ATPP_QE_CreateTX3Female.label>zostaviť ženský rám TX3 (nádrž QEE)</ATPP_QE_CreateTX3Female.label>
+  <ATPP_QE_CreateTX3Female.description>Zostaví neaktívny ženský rám endoskeletu TX3 zakódovaný ako genómová sekvencia na inkubáciu v orgánovej nádrži.</ATPP_QE_CreateTX3Female.description>
+  <ATPP_QE_CreateTX3Female.jobString>Vyrába androida.</ATPP_QE_CreateTX3Female.jobString>
+  <ATPP_QE_CreateSX3MaleSurrogate.label>zostaviť mužský surogátny rám SX3 (nádrž QEE)</ATPP_QE_CreateSX3MaleSurrogate.label>
+  <ATPP_QE_CreateSX3MaleSurrogate.description>Zostaví neaktívny mužský surogátny rám endoskeletu TX3 zakódovaný ako genómová sekvencia na inkubáciu v orgánovej nádrži.</ATPP_QE_CreateSX3MaleSurrogate.description>
+  <ATPP_QE_CreateSX3MaleSurrogate.jobString>Vyrába androida.</ATPP_QE_CreateSX3MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX3FemaleSurrogate.label>zostaviť ženský surogátny rám SX3 (nádrž QEE)</ATPP_QE_CreateSX3FemaleSurrogate.label>
+  <ATPP_QE_CreateSX3FemaleSurrogate.description>Zostaví neaktívny ženský surogátny rám endoskeletu TX3 zakódovaný ako genómová sekvencia na inkubáciu v orgánovej nádrži.</ATPP_QE_CreateSX3FemaleSurrogate.description>
+  <ATPP_QE_CreateSX3FemaleSurrogate.jobString>Vyrába androida.</ATPP_QE_CreateSX3FemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX4Male.label>zostaviť mužský rám TX4 (nádrž QEE)</ATPP_QE_CreateTX4Male.label>
+  <ATPP_QE_CreateTX4Male.description>Zostaví neaktívny mužský rám endoskeletu TX4 zakódovaný ako genómová sekvencia na inkubáciu v orgánovej nádrži.</ATPP_QE_CreateTX4Male.description>
+  <ATPP_QE_CreateTX4Male.jobString>Vyrába androida.</ATPP_QE_CreateTX4Male.jobString>
+  <ATPP_QE_CreateTX4Female.label>zostaviť ženský rám TX4 (nádrž QEE)</ATPP_QE_CreateTX4Female.label>
+  <ATPP_QE_CreateTX4Female.description>Zostaví neaktívny ženský rám endoskeletu TX4 zakódovaný ako genómová sekvencia na inkubáciu v orgánovej nádrži.</ATPP_QE_CreateTX4Female.description>
+  <ATPP_QE_CreateTX4Female.jobString>Vyrába androida.</ATPP_QE_CreateTX4Female.jobString>
+  <ATPP_QE_CreateSX4MaleSurrogate.label>zostaviť mužský surogátny rám SX4 (nádrž QEE)</ATPP_QE_CreateSX4MaleSurrogate.label>
+  <ATPP_QE_CreateSX4MaleSurrogate.description>Zostaví neaktívny mužský surogátny rám endoskeletu TX4 zakódovaný ako genómová sekvencia na inkubáciu v orgánovej nádrži.</ATPP_QE_CreateSX4MaleSurrogate.description>
+  <ATPP_QE_CreateSX4MaleSurrogate.jobString>Vyrába androida.</ATPP_QE_CreateSX4MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX4FemaleSurrogate.label>zostaviť ženský surogátny rám SX4 (nádrž QEE)</ATPP_QE_CreateSX4FemaleSurrogate.label>
+  <ATPP_QE_CreateSX4FemaleSurrogate.description>Zostaví neaktívny ženský surogátny rám endoskeletu TX4 zakódovaný ako genómová sekvencia na inkubáciu v orgánovej nádrži.</ATPP_QE_CreateSX4FemaleSurrogate.description>
+  <ATPP_QE_CreateSX4FemaleSurrogate.jobString>Vyrába androida.</ATPP_QE_CreateSX4FemaleSurrogate.jobString>
+
+</LanguageData>

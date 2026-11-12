@@ -1,34 +1,271 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
+
   <ATPP_ConsciousnessUpload.label>Загрузка разума</ATPP_ConsciousnessUpload.label>
   <ATPP_ConsciousnessUpload.labelNoun>Загрузка разума</ATPP_ConsciousnessUpload.labelNoun>
-  
   <ATPP_NoHost.label>Нет соединения</ATPP_NoHost.label>
   <ATPP_NoHost.labelNoun>Нет соединения</ATPP_NoHost.labelNoun>
-  
+  <ATPP_HediffRXChip.label>Нейрочип RX</ATPP_HediffRXChip.label>
+  <ATPP_HediffRXChip.labelNoun>Нейрочип, действующий как персональный ретранслятор SkyMind.</ATPP_HediffRXChip.labelNoun>
   <ATPP_HediffVX0Chip.label>Нейрочип VX0</ATPP_HediffVX0Chip.label>
   <ATPP_HediffVX0Chip.labelNoun>Нейронный чип для превращения хозяина в биологического суррогата</ATPP_HediffVX0Chip.labelNoun>
-  
   <ATPP_HediffVX1Chip.label>Нейрочип VX1</ATPP_HediffVX1Chip.label>
   <ATPP_HediffVX1Chip.labelNoun>Нейрочип VX1</ATPP_HediffVX1Chip.labelNoun>
-  
   <ATPP_HediffVX2Chip.label>Нейрочип VX2</ATPP_HediffVX2Chip.label>
   <ATPP_HediffVX2Chip.labelNoun>Нейрочип VX2</ATPP_HediffVX2Chip.labelNoun>
-  
   <ATPP_HediffVX3Chip.label>Нейрочип VX3</ATPP_HediffVX3Chip.label>
   <ATPP_HediffVX3Chip.labelNoun>Нейрочип VX3</ATPP_HediffVX3Chip.labelNoun>
-  
   <ATPP_InRemoteControlMode.label>Включен режим дистанционного управления</ATPP_InRemoteControlMode.label>
   <ATPP_InRemoteControlMode.labelNoun>Включен режим дистанционного управления</ATPP_InRemoteControlMode.labelNoun>
-  
   <ATPP_RemotelyControlled.label>Дистанционно управляемый</ATPP_RemotelyControlled.label>
   <ATPP_RemotelyControlled.labelNoun>Дистанционно управляемый</ATPP_RemotelyControlled.labelNoun>
-  
   <ATPP_SolarFlareAndroidImpact.label>Солнечная вспышка</ATPP_SolarFlareAndroidImpact.label>
-  <ATPP_SolarFlareAndroidImpact.Noun>Солнечная вспышка</ATPP_SolarFlareAndroidImpact.Noun>
-  
-  <ATPP_LowNetworkSignal.label>Низкий сишнал сети SkyMind</ATPP_LowNetworkSignal.label>
-  <ATPP_LowNetworkSignal.LabelNoun>Низкий сигнал сети SkyMind</ATPP_LowNetworkSignal.LabelNoun>
-  
+  <ATPP_SolarFlareAndroidImpact.labelNoun>Солнечная вспышка</ATPP_SolarFlareAndroidImpact.labelNoun>
+  <ATPP_LowNetworkSignal.label>Низкий сигнал сети SkyMind</ATPP_LowNetworkSignal.label>
+  <ATPP_LowNetworkSignal.labelNoun>Низкий сигнал сети SkyMind</ATPP_LowNetworkSignal.labelNoun>
+  <ATPP_Rusted.label>Ржавый</ATPP_Rusted.label>
+  <ATPP_Rusted.labelNoun>Ржавый</ATPP_Rusted.labelNoun>
+  <ATPP_BlankAndroid.label>Чистая нейросеть</ATPP_BlankAndroid.label>
+  <ATPP_BlankAndroid.labelNoun>Чистая нейросеть</ATPP_BlankAndroid.labelNoun>
+  <ATPP_SurrogateInit.label>Инициализация подключения</ATPP_SurrogateInit.label>
+  <ATPP_SurrogateInit.labelNoun>Инициализация подключения</ATPP_SurrogateInit.labelNoun>
+  <ATPP_AssistingMinds.label>Помощь разумов из ядер SkyCloud</ATPP_AssistingMinds.label>
+  <ATPP_AssistingMinds.labelNoun>Помощь разумов из ядер SkyCloud</ATPP_AssistingMinds.labelNoun>
+  <DecayedFrame.label>разрушающийся мейнфрейм</DecayedFrame.label>
+  <DecayedFrame.labelNoun>разрушающийся мейнфрейм</DecayedFrame.labelNoun>
+  <CorruptMemory.label>повреждённая память</CorruptMemory.label>
+  <WeakValves.label>слабые клапаны</WeakValves.label>
+  <ExaggeratedHealing.label>гиперактивная реакция</ExaggeratedHealing.label>
+  <FaultyPump.label>неисправный насос</FaultyPump.label>
+  <FaultyPump.labelNoun>неисправный насос</FaultyPump.labelNoun>
+  <ShutdownAndroid.label>списан</ShutdownAndroid.label>
+  <ShutdownAndroid.description>Ядро ИИ навсегда отключено и полностью очищено.</ShutdownAndroid.description>
+  <RebootingSequenceAT.label>Перезагрузка</RebootingSequenceAT.label>
+  <RebootingSequenceAT.description>В ядре ИИ выполняется последовательность перезагрузки.</RebootingSequenceAT.description>
+  <NoFreeWillAT.label>бесчувственный</NoFreeWillAT.label>
+  <NoFreeWillAT.labelNoun>бесчувственный</NoFreeWillAT.labelNoun>
+  <NoFreeWillAT.description>Модификация секторов морали и эмоциональных реакций ядра ИИ, приводящая к полностью нейтральному настроению и отсутствию высших функций.</NoFreeWillAT.description>
+  <FreshReprogramming.label>недавно перепрограммирован</FreshReprogramming.label>
+  <FreshReprogramming.description>Недавно перепрограммированное ядро ИИ. Компиляция и автокоррекция нового ПО могут временно снижать способности.</FreshReprogramming.description>
+  <OverclockedAndroid.label>разогнан</OverclockedAndroid.label>
+  <OverclockedAndroid.labelNoun>модернизация разгона</OverclockedAndroid.labelNoun>
+  <OverclockedAndroid.description>Вычислительные секторы ядра ИИ андроида ускорены, что повышает скорость обработки задач, но увеличивает нагрузку на оборудование.</OverclockedAndroid.description>
+  <BatteryChargeMech.label>Батарея</BatteryChargeMech.label>
+  <BatteryChargeMech.description>Оставшийся заряд батареи до отключения</BatteryChargeMech.description>
+  <AndroidCoolantLoss.label>утечка хладагента</AndroidCoolantLoss.label>
+  <AndroidCoolantLoss.description>Потеря хладагента во внутренних трубках, приводящая к снижению охлаждения и перегреву внутренних узлов.</AndroidCoolantLoss.description>
+  <AndroidOverheating.label>перегрев</AndroidOverheating.label>
+  <AndroidFreezing.label>Замерзание</AndroidFreezing.label>
+  <PlatingSteel.label>Стальной каркас</PlatingSteel.label>
+  <PlatingSteel.labelNoun>базовый стальной каркас</PlatingSteel.labelNoun>
+  <PlatingSteel.description>Установленный стальной каркас.</PlatingSteel.description>
+  <PlatingPlasteel.label>пласталевая обшивка каркаса</PlatingPlasteel.label>
+  <PlatingPlasteel.labelNoun>прочная пласталевая обшивка каркаса</PlatingPlasteel.labelNoun>
+  <PlatingPlasteel.description>Установленная пласталевая обшивка каркаса.</PlatingPlasteel.description>
+  <PlatingComposite.label>композитная бронеобшивка каркаса</PlatingComposite.label>
+  <PlatingComposite.labelNoun>высокопрочная композитная обшивка</PlatingComposite.labelNoun>
+  <PlatingComposite.description>Установленная композитная обшивка каркаса.</PlatingComposite.description>
+  <MiningArm_AT.label>горнодобывающая рука</MiningArm_AT.label>
+  <MiningArm_AT.labelNoun>горнодобывающая рука</MiningArm_AT.labelNoun>
+  <MiningArm_AT.description>Установленная горнодобывающая рука.</MiningArm_AT.description>
+  <HydraulicFrame.label>гидравлический каркас</HydraulicFrame.label>
+  <HydraulicFrame.labelNoun>гидравлический каркас</HydraulicFrame.labelNoun>
+  <HydraulicFrame.description>Установленный гидравлический каркас.</HydraulicFrame.description>
+  <HydraulicLeg.label>гидравлическая нога</HydraulicLeg.label>
+  <HydraulicLeg.labelNoun>гидравлическая нога</HydraulicLeg.labelNoun>
+  <HydraulicLeg.description>Установленная гидравлическая нога.</HydraulicLeg.description>
+  <HydraulicArm.label>гидравлическая рука</HydraulicArm.label>
+  <HydraulicArm.labelNoun>гидравлическая рука</HydraulicArm.labelNoun>
+  <HydraulicArm.description>Установленная гидравлическая рука.</HydraulicArm.description>
+  <MakeshiftRLeg.label>кустарная сменная нога</MakeshiftRLeg.label>
+  <MakeshiftRLeg.labelNoun>кустарная сменная нога</MakeshiftRLeg.labelNoun>
+  <MakeshiftRLeg.description>Установленная кустарная сменная нога.</MakeshiftRLeg.description>
+  <MakeshiftRArm.label>кустарная сменная рука</MakeshiftRArm.label>
+  <MakeshiftRArm.labelNoun>кустарная сменная рука</MakeshiftRArm.labelNoun>
+  <MakeshiftRArm.description>Установленная кустарная сменная рука.</MakeshiftRArm.description>
+  <BRArm.label>базовая сменная рука</BRArm.label>
+  <BRArm.labelNoun>базовая сменная рука</BRArm.labelNoun>
+  <BRArm.description>Установленная базовая сменная рука.</BRArm.description>
+  <BRLeg.label>базовая сменная нога</BRLeg.label>
+  <BRLeg.labelNoun>базовая сменная нога</BRLeg.labelNoun>
+  <BRLeg.description>Установленная базовая сменная нога.</BRLeg.description>
+  <BLReceptor.label>примитивный датчик света</BLReceptor.label>
+  <BLReceptor.labelNoun>примитивный датчик света</BLReceptor.labelNoun>
+  <BLReceptor.description>Установленный примитивный датчик света.</BLReceptor.description>
+  <BHeatsink.label>примитивный теплоотвод</BHeatsink.label>
+  <BHeatsink.labelNoun>примитивный теплоотвод</BHeatsink.labelNoun>
+  <BHeatsink.description>Установленный примитивный теплоотвод.</BHeatsink.description>
+  <BCoolantPump.label>примитивный насос хладагента</BCoolantPump.label>
+  <BCoolantPump.labelNoun>примитивный насос хладагента</BCoolantPump.labelNoun>
+  <BCoolantPump.description>Установленный примитивный насос хладагента.</BCoolantPump.description>
+  <BBattery.label>примитивный блок батарей</BBattery.label>
+  <BBattery.labelNoun>примитивный блок батарей</BBattery.labelNoun>
+  <BBattery.description>Установленный примитивный блок батарей.</BBattery.description>
+  <BMStorage.label>примитивный накопитель механитов</BMStorage.label>
+  <BMStorage.labelNoun>примитивный накопитель механитов</BMStorage.labelNoun>
+  <BMStorage.description>Установленный примитивный накопитель механитов.</BMStorage.description>
+  <BTransformer.label>примитивный биореактор</BTransformer.label>
+  <BTransformer.labelNoun>примитивный биореактор</BTransformer.labelNoun>
+  <BTransformer.description>Установленный примитивный биореактор.</BTransformer.description>
+  <BVAdapter.label>примитивный преобразователь энергии</BVAdapter.label>
+  <BVAdapter.labelNoun>примитивный преобразователь энергии</BVAdapter.labelNoun>
+  <BVAdapter.description>Установленный примитивный преобразователь энергии.</BVAdapter.description>
+  <BasicRearCounterweight.label>базовый противовес</BasicRearCounterweight.label>
+  <BasicRearCounterweight.labelNoun>базовый противовес</BasicRearCounterweight.labelNoun>
+  <BasicRearCounterweight.description>Установленный базовый противовес.</BasicRearCounterweight.description>
+  <CrudeJawAndroid.label>примитивная челюсть</CrudeJawAndroid.label>
+  <CrudeJawAndroid.labelNoun>примитивная челюсть</CrudeJawAndroid.labelNoun>
+  <CrudeJawAndroid.description>Установленная примитивная челюсть.</CrudeJawAndroid.description>
+  <ARArm.label>высокомощная рука</ARArm.label>
+  <ARArm.labelNoun>высокомощная рука</ARArm.labelNoun>
+  <ARArm.description>Установленная высокомощная рука.</ARArm.description>
+  <ARLeg.label>высокомощная нога</ARLeg.label>
+  <ARLeg.labelNoun>высокомощная нога</ARLeg.labelNoun>
+  <ARLeg.description>Установленная высокомощная нога.</ARLeg.description>
+  <ALReceptor.label>продвинутый датчик света</ALReceptor.label>
+  <ALReceptor.labelNoun>продвинутый датчик света</ALReceptor.labelNoun>
+  <ALReceptor.description>Установленный продвинутый датчик света.</ALReceptor.description>
+  <AHeatsink.label>продвинутый теплоотвод</AHeatsink.label>
+  <AHeatsink.labelNoun>продвинутый теплоотвод</AHeatsink.labelNoun>
+  <AHeatsink.description>Установленный продвинутый теплоотвод.</AHeatsink.description>
+  <ACoolantPump.label>продвинутый насос хладагента</ACoolantPump.label>
+  <ACoolantPump.labelNoun>продвинутый насос хладагента</ACoolantPump.labelNoun>
+  <ACoolantPump.description>Установленный продвинутый насос хладагента.</ACoolantPump.description>
+  <ABattery.label>продвинутый блок батарей</ABattery.label>
+  <ABattery.labelNoun>продвинутый блок батарей</ABattery.labelNoun>
+  <ABattery.description>Установленный продвинутый блок батарей.</ABattery.description>
+  <AMStorage.label>продвинутый накопитель механитов</AMStorage.label>
+  <AMStorage.labelNoun>продвинутый накопитель механитов</AMStorage.labelNoun>
+  <AMStorage.description>Установленный продвинутый накопитель механитов.</AMStorage.description>
+  <ATransformer.label>продвинутый биореактор</ATransformer.label>
+  <ATransformer.labelNoun>продвинутый биореактор</ATransformer.labelNoun>
+  <ATransformer.description>Установленный продвинутый биореактор.</ATransformer.description>
+  <AVAdapter.label>продвинутый преобразователь энергии</AVAdapter.label>
+  <AVAdapter.labelNoun>продвинутый преобразователь энергии</AVAdapter.labelNoun>
+  <AVAdapter.description>Установленный продвинутый преобразователь энергии.</AVAdapter.description>
+  <AdvRearCounterweight.label>гироскопический противовес</AdvRearCounterweight.label>
+  <AdvRearCounterweight.labelNoun>гироскопический противовес</AdvRearCounterweight.labelNoun>
+  <AdvRearCounterweight.description>Установленный гироскопический противовес.</AdvRearCounterweight.description>
+  <AdvJawAndroid.label>кибернетическая челюсть</AdvJawAndroid.label>
+  <AdvJawAndroid.labelNoun>кибернетическая челюсть</AdvJawAndroid.labelNoun>
+  <AdvJawAndroid.description>Установленная кибернетическая челюсть.</AdvJawAndroid.description>
+  <PositronMind.label>Позитронная перепрошивка</PositronMind.label>
+  <PositronMind.labelNoun>позитронная перепрошивка</PositronMind.labelNoun>
+  <PositronMind.description>Установленная позитронная перепрошивка.</PositronMind.description>
+  <SoldierMind.label>Боевое улучшение</SoldierMind.label>
+  <SoldierMind.labelNoun>боевое улучшение</SoldierMind.labelNoun>
+  <SoldierMind.description>Установленное боевое улучшение.</SoldierMind.description>
+  <BuilderMind.label>Банки чертежей</BuilderMind.label>
+  <BuilderMind.labelNoun>банк чертежей</BuilderMind.labelNoun>
+  <BuilderMind.description>Установленный банк чертежей.</BuilderMind.description>
+  <SurgeonMind.label>Имплантированный трикодер</SurgeonMind.label>
+  <SurgeonMind.labelNoun>имплантированный трикодер</SurgeonMind.labelNoun>
+  <SurgeonMind.description>Имплантированный трикодер.</SurgeonMind.description>
+  <SpeedMind.label>Нейромагистрали</SpeedMind.label>
+  <SpeedMind.labelNoun>Нейромагистрали</SpeedMind.labelNoun>
+  <SpeedMind.description>Установленные нейромагистрали.</SpeedMind.description>
+  <GeoMind.label>Геологические банки</GeoMind.label>
+  <GeoMind.labelNoun>геологический банк</GeoMind.labelNoun>
+  <GeoMind.description>Установленный геологический банк.</GeoMind.description>
+  <MechanicMind.label>Инженерный имплант</MechanicMind.label>
+  <MechanicMind.labelNoun>инженерный имплант</MechanicMind.labelNoun>
+  <MechanicMind.description>Установленный инженерный имплант.</MechanicMind.description>
+  <CookingMind.label>Кулинарный имплант</CookingMind.label>
+  <CookingMind.labelNoun>кулинарный имплант</CookingMind.labelNoun>
+  <CookingMind.description>Установленный кулинарный имплант.</CookingMind.description>
+  <CharismaMind.label>Имплант харизмы</CharismaMind.label>
+  <CharismaMind.labelNoun>имплант харизмы</CharismaMind.labelNoun>
+  <CharismaMind.description>Установленный имплант харизмы.</CharismaMind.description>
+  <NegotiatorMind.label>Имплант переговорщика</NegotiatorMind.label>
+  <NegotiatorMind.labelNoun>имплант переговорщика</NegotiatorMind.labelNoun>
+  <NegotiatorMind.description>Установленный имплант переговорщика.</NegotiatorMind.description>
+  <ZoologyMind.label>Зоологический имплант</ZoologyMind.label>
+  <ZoologyMind.labelNoun>зоологический имплант</ZoologyMind.labelNoun>
+  <ZoologyMind.description>Установленный зоологический имплант.</ZoologyMind.description>
+  <AgriculturalMind.label>Сельскохозяйственный имплант</AgriculturalMind.label>
+  <AgriculturalMind.labelNoun>сельскохозяйственный имплант</AgriculturalMind.labelNoun>
+  <AgriculturalMind.description>Установленный сельскохозяйственный имплант.</AgriculturalMind.description>
+  <UnskilledMind.label>Базовый трудовой чип</UnskilledMind.label>
+  <UnskilledMind.labelNoun>базовый трудовой чип</UnskilledMind.labelNoun>
+  <UnskilledMind.description>Установленный базовый трудовой чип.</UnskilledMind.description>
+  <AR2Arm.label>Кибернетическая рука</AR2Arm.label>
+  <AR2Arm.labelNoun>кибернетическая рука</AR2Arm.labelNoun>
+  <AR2Arm.description>Установленная кибернетическая рука.</AR2Arm.description>
+  <AR2Leg.label>Кибернетическая нога</AR2Leg.label>
+  <AR2Leg.labelNoun>кибернетическая нога</AR2Leg.labelNoun>
+  <AR2Leg.description>Установленная кибернетическая нога.</AR2Leg.description>
+  <AL2Receptor.label>архотек-датчик света</AL2Receptor.label>
+  <AL2Receptor.labelNoun>архотек-датчик света</AL2Receptor.labelNoun>
+  <AL2Receptor.description>Установленный архотек-датчик света.</AL2Receptor.description>
+  <A2Heatsink.label>архотек-теплоотвод</A2Heatsink.label>
+  <A2Heatsink.labelNoun>архотек-теплоотвод</A2Heatsink.labelNoun>
+  <A2Heatsink.description>Установленный архотек-теплоотвод.</A2Heatsink.description>
+  <A2CoolantPump.label>архотек-насос хладагента</A2CoolantPump.label>
+  <A2CoolantPump.labelNoun>архотек-насос хладагента</A2CoolantPump.labelNoun>
+  <A2CoolantPump.description>Установленный архотек-насос хладагента.</A2CoolantPump.description>
+  <A2Battery.label>архотек-блок батарей</A2Battery.label>
+  <A2Battery.labelNoun>архотек-блок батарей</A2Battery.labelNoun>
+  <A2Battery.description>Установленный архотек-блок батарей.</A2Battery.description>
+  <A2MStorage.label>архотек-накопитель механитов</A2MStorage.label>
+  <A2MStorage.labelNoun>архотек-накопитель механитов</A2MStorage.labelNoun>
+  <A2MStorage.description>Установленный архотек-накопитель механитов.</A2MStorage.description>
+  <A2Transformer.label>архотек-биореактор</A2Transformer.label>
+  <A2Transformer.labelNoun>архотек-биореактор</A2Transformer.labelNoun>
+  <A2Transformer.description>Установленный архотек-биореактор.</A2Transformer.description>
+  <A2VAdapter.label>архотек-преобразователь энергии</A2VAdapter.label>
+  <A2VAdapter.labelNoun>архотек-преобразователь энергии</A2VAdapter.labelNoun>
+  <A2VAdapter.description>Установленный архотек-преобразователь энергии.</A2VAdapter.description>
+  <HearingSensorCrude.label>примитивный датчик слуха</HearingSensorCrude.label>
+  <HearingSensorCrude.labelNoun>примитивный датчик слуха</HearingSensorCrude.labelNoun>
+  <HearingSensorCrude.description>Установленный примитивный датчик слуха.</HearingSensorCrude.description>
+  <HearingSensorAdv.label>продвинутый датчик слуха</HearingSensorAdv.label>
+  <HearingSensorAdv.labelNoun>продвинутый датчик слуха</HearingSensorAdv.labelNoun>
+  <HearingSensorAdv.description>Установленный продвинутый датчик слуха.</HearingSensorAdv.description>
+  <HearingSensorArch.label>архотек-датчик слуха</HearingSensorArch.label>
+  <HearingSensorArch.labelNoun>архотек-датчик слуха</HearingSensorArch.labelNoun>
+  <HearingSensorArch.description>Установленный архотек-датчик слуха.</HearingSensorArch.description>
+  <SmellSensorAdv.label>продвинутый датчик обоняния</SmellSensorAdv.label>
+  <SmellSensorAdv.labelNoun>продвинутый датчик обоняния</SmellSensorAdv.labelNoun>
+  <SmellSensorAdv.description>Установленный продвинутый датчик обоняния.</SmellSensorAdv.description>
+  <SmellingSensorCrude.label>примитивный датчик обоняния</SmellingSensorCrude.label>
+  <SmellingSensorCrude.labelNoun>примитивный датчик обоняния</SmellingSensorCrude.labelNoun>
+  <SmellingSensorCrude.description>Установленный примитивный датчик обоняния.</SmellingSensorCrude.description>
+  <SmellingSensorArch.label>архотек-датчик обоняния</SmellingSensorArch.label>
+  <SmellingSensorArch.labelNoun>архотек-датчик обоняния</SmellingSensorArch.labelNoun>
+  <SmellingSensorArch.description>Установленный архотек-датчик обоняния.</SmellingSensorArch.description>
+  <EvolvingMind.label>Эволюционирующий ИИ</EvolvingMind.label>
+  <EvolvingMind.labelNoun>эволюционирующий ИИ</EvolvingMind.labelNoun>
+  <EvolvingMind.description>Установленный эволюционирующий ИИ.</EvolvingMind.description>
+  <AndroidTiers_EmotionlessCard.label>Отключённые социальные взаимодействия</AndroidTiers_EmotionlessCard.label>
+  <AndroidTiers_EmotionlessCard.labelNoun>Отключённые социальные взаимодействия</AndroidTiers_EmotionlessCard.labelNoun>
+  <Backstory_PitFighterUpgrade.label>боевые рукавицы арены</Backstory_PitFighterUpgrade.label>
+  <Backstory_PitFighterUpgrade.labelNoun>боевая рукавица арены</Backstory_PitFighterUpgrade.labelNoun>
+  <Backstory_PitFighterUpgrade.description>Установленная боевая рукавица.</Backstory_PitFighterUpgrade.description>
+  <Backstory_TranscendantAssimilatorUpgrade.label>Плазменная рукавица</Backstory_TranscendantAssimilatorUpgrade.label>
+  <Backstory_TranscendantAssimilatorUpgrade.labelNoun>плазменная рукавица</Backstory_TranscendantAssimilatorUpgrade.labelNoun>
+  <Backstory_TranscendantAssimilatorUpgrade.description>Установленная боевая рукавица.</Backstory_TranscendantAssimilatorUpgrade.description>
+  <Backstory_HighCouncilUpgrade.label>Квантовая обработка</Backstory_HighCouncilUpgrade.label>
+  <Backstory_HighCouncilUpgrade.labelNoun>квантовый разум</Backstory_HighCouncilUpgrade.labelNoun>
+  <Backstory_HighCouncilUpgrade.description>Установленный квантовый разум.</Backstory_HighCouncilUpgrade.description>
+  <SGelhuman.label>Структурный гель</SGelhuman.label>
+  <SGelhuman.description>Смесь аминокислот и механитов в кровотоке; крайне токсична и может вызывать судороги.</SGelhuman.description>
+  <SGelandroid.label>Структурный гель</SGelandroid.label>
+  <SGelandroid.description>Смесь аминокислот и механитов, циркулирующая в системе охлаждения; поддерживает внутренние узлы для повышенной производительности.</SGelandroid.description>
+  <Toxicated.label>Интоксикация</Toxicated.label>
+  <Toxicated.description>Токсичные соединения в кровотоке; вызывают затруднённое дыхание и рвоту.</Toxicated.description>
+  <AFreezeandroid.label>Полимерный антифриз</AFreezeandroid.label>
+  <AFreezeandroid.description>Полимерный антифриз в трубках охлаждения. Помогает терморегуляции как в жарких, так и в холодных условиях.</AFreezeandroid.description>
+  <MechSwarmandroid.label>Рой механитов</MechSwarmandroid.label>
+  <MechSwarmandroid.description>Наномеханиты, циркулирующие в трубках охлаждения. Поддерживают внутренние узлы на пике производительности.</MechSwarmandroid.description>
+  <Conversion.label>???</Conversion.label>
+  <Conversion.description>Фрактальные соединения в кровотоке. Вызывают судороги, обильную рвоту и разрывы кожи из-за тяжёлого воспаления тканей.</Conversion.description>
+  <FractalPillAndroid.label>Фрактальное усиление</FractalPillAndroid.label>
+  <FractalPillAndroid.description>Фрактальные соединения в трубках охлаждения. Существенно повышают эффективность и мощь всех действий.</FractalPillAndroid.description>
+  <RegenHumanoid.label>Моно-бальзам</RegenHumanoid.label>
+  <RegenHumanoid.description>Активные регенеративные растворители в кровотоке. Стимулируют базовую регенерацию клеток.</RegenHumanoid.description>
+  <RegenAndroid.label>Моно-бальзам</RegenAndroid.label>
+  <RegenAndroid.description>Активные регенеративные растворители в трубках охлаждения. Способствуют самовосстановлению механизмов.</RegenAndroid.description>
+  <ATPP_DummyHediff.label>Заглушка (DummyHediff)</ATPP_DummyHediff.label>
+  <ATPP_DummyHediff.labelNoun>Заглушка (DummyHediff)</ATPP_DummyHediff.labelNoun>
+
 </LanguageData>

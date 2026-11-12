@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_ReloadStation.label>Androidide laadimisjaam</ATPP_ReloadStation.label>
+	<ATPP_ReloadStation.description>Laadimisjaam androididele, mis mahutab korraga kuni 8 androidi.</ATPP_ReloadStation.description>
+	<ATPP_SkyMindLAN.label>SkyMind V1 antenn</ATPP_SkyMindLAN.label>
+	<ATPP_SkyMindLAN.description>SkyMind V1 antenn toetab kuni 3 samaaegset klienti; see loob traadita võrgu, mis võimaldab kolonisti meele teise üle kanda ning kaugelt juhtida mis tahes SX-seeria androidi või bioloogilist surrogaati.</ATPP_SkyMindLAN.description>
+	<ATPP_SkyMindWAN.label>SkyMind V2 antenn</ATPP_SkyMindWAN.label>
+	<ATPP_SkyMindWAN.description>SkyMind V2 antenn toetab kuni 15 samaaegset klienti; see loob traadita võrgu, mis võimaldab kolonisti meele teise üle kanda ning kaugelt juhtida mis tahes SX-seeria androidi või bioloogilist surrogaati.</ATPP_SkyMindWAN.description>
+	<ATPP_SkyMindRelayTower.label>SkyMind releetorn</ATPP_SkyMindRelayTower.label>
+	<ATPP_SkyMindRelayTower.description>SkyMind releetorn võimendab antennide signaali ja takistab surrogaadi juhtimise halvenemist pikkadel vahemaadel.</ATPP_SkyMindRelayTower.description>
+	<ATPP_I100Security.label>I-100 (Turvalisus)</ATPP_I100Security.label>
+	<ATPP_I100Security.description>Tulemüüriserver, mis kaitseb teie SkyMind-võrku küberrünnakute ja viiruste eest.</ATPP_I100Security.description>
+	<ATPP_I100Hacking.label>I-100 (Häkkimine)</ATPP_I100Hacking.label>
+	<ATPP_I100Hacking.description>Häkkimisserver, mis võimaldab teil häkkida SkyMind-võrku ühendatud kliente.</ATPP_I100Hacking.description>
+	<ATPP_I100Skill.label>I-100 (Oskus)</ATPP_I100Skill.label>
+	<ATPP_I100Skill.description>Oskuste server, mis võimaldab teil suurendada SkyMind-võrku ühendatud androidide oskuste punkte.</ATPP_I100Skill.description>
+	<ATPP_I300Security.label>I-300 (Turvalisus)</ATPP_I300Security.label>
+	<ATPP_I300Security.description>Tulemüüriserver, mis kaitseb teie SkyMind-võrku küberrünnakute ja viiruste eest.</ATPP_I300Security.description>
+	<ATPP_I300Hacking.label>I-300 (Häkkimine)</ATPP_I300Hacking.label>
+	<ATPP_I300Hacking.description>Häkkimisserver, mis võimaldab teil häkkida SkyMind-võrku ühendatud kliente.</ATPP_I300Hacking.description>
+	<ATPP_I300Skill.label>I-300 (Oskus)</ATPP_I300Skill.label>
+	<ATPP_I300Skill.description>Oskuste server, mis võimaldab teil suurendada SkyMind-võrku ühendatud androidide oskuste punkte.</ATPP_I300Skill.description>
+	<ATPP_I500Security.label>I-500 (Turvalisus)</ATPP_I500Security.label>
+	<ATPP_I500Security.description>Tulemüüriserver, mis kaitseb teie SkyMind-võrku küberrünnakute ja viiruste eest.</ATPP_I500Security.description>
+	<ATPP_I500Hacking.label>I-500 (Häkkimine)</ATPP_I500Hacking.label>
+	<ATPP_I500Hacking.description>Häkkimisserver, mis võimaldab teil häkkida SkyMind-võrku ühendatud kliente.</ATPP_I500Hacking.description>
+	<ATPP_I500Skill.label>I-500 (Oskus)</ATPP_I500Skill.label>
+	<ATPP_I500Skill.description>Oskuste server, mis võimaldab teil suurendada SkyMind-võrku ühendatud androidide oskuste punkte.</ATPP_I500Skill.description>
+	<ATPP_AndroidPod.label>Androidikapsel</ATPP_AndroidPod.label>
+	<ATPP_AndroidPod.description>Androidikapsel, kus saab androide parandada, hoiustada hosti ootamise ajal (surrogaatide puhul) ning elektrivõrku ühendatuna laadida.</ATPP_AndroidPod.description>
+	<ATPP_AndroidPodMech.label>M7 kapsel</ATPP_AndroidPodMech.label>
+	<ATPP_AndroidPodMech.description>Hiiglaslik kapsel, kus saab M7 mehhanoide parandada, neid hosti ootamise ajal hoiustada (surrogaatide puhul) ning elektrivõrku ühendatuna laadida.</ATPP_AndroidPodMech.description>
+	<ATPP_SkyCloudCore.label>SkyCloud-tuum</ATPP_SkyCloudCore.label>
+	<ATPP_SkyCloudCore.description>Superarvuti, mis võimaldab juhtida kõiki SkyMind-võrku ühendatud seadmeid ning laadida selle mällu teie kolonistide digiteeritud ajud, muutes nad peaaegu surematuks ja kõiketeadvaks.</ATPP_SkyCloudCore.description>
+</LanguageData>

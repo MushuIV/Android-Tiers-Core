@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_Android2TXKind.label>Colonist android TX2</ATPP_Android2TXKind.label>
+  <ATPP_Android2TXKind.labelPlural>Coloniști androizi TX2</ATPP_Android2TXKind.labelPlural>
+  <ATPP_Android3TXKind.label>Colonist android TX3</ATPP_Android3TXKind.label>
+  <ATPP_Android3TXKind.labelPlural>Coloniști androizi TX3</ATPP_Android3TXKind.labelPlural>
+  <ATPP_Android4TXKind.label>Colonist android TX4</ATPP_Android4TXKind.label>
+  <ATPP_Android4TXKind.labelPlural>Coloniști androizi TX4</ATPP_Android4TXKind.labelPlural>
+  <ATPP_Android2KTXKind.label>Colonist android TX2K</ATPP_Android2KTXKind.label>
+  <ATPP_Android2KTXKind.labelPlural>Coloniști androizi TX2K</ATPP_Android2KTXKind.labelPlural>
+  <ATPP_Android2KITXKind.label>Colonist android TX2KI</ATPP_Android2KITXKind.label>
+  <ATPP_Android2KITXKind.labelPlural>Coloniști androizi TX2KI</ATPP_Android2KITXKind.labelPlural>
+  <ATPP_Android3ITXKind.label>Colonist android TX3I</ATPP_Android3ITXKind.label>
+  <ATPP_Android3ITXKind.labelPlural>Coloniști androizi TX3I</ATPP_Android3ITXKind.labelPlural>
+  <ATPP_Android4ITXKind.label>Colonist android TX4I</ATPP_Android4ITXKind.label>
+  <ATPP_Android4ITXKind.labelPlural>Coloniști androizi TX4I</ATPP_Android4ITXKind.labelPlural>
+  <ATPP_Android2ITXKind.label>Colonist android TX2I</ATPP_Android2ITXKind.label>
+  <ATPP_Android2ITXKind.labelPlural>Coloniști androizi TX2I</ATPP_Android2ITXKind.labelPlural>
+  <ATPP_AndroidTX2RaiderFactionSpecific.label>Jefuitor android TX2</ATPP_AndroidTX2RaiderFactionSpecific.label>
+  <ATPP_AndroidTX2RaiderFactionSpecific.labelPlural>Jefuitori androizi TX2</ATPP_AndroidTX2RaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX2IRaiderFactionSpecific.label>Jefuitor android TX2I</ATPP_AndroidTX2IRaiderFactionSpecific.label>
+  <ATPP_AndroidTX2IRaiderFactionSpecific.labelPlural>Jefuitori androizi TX2I</ATPP_AndroidTX2IRaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX2KRaiderFactionSpecific.label>Jefuitor android TX2K</ATPP_AndroidTX2KRaiderFactionSpecific.label>
+  <ATPP_AndroidTX2KRaiderFactionSpecific.labelPlural>Jefuitori androizi TX2K</ATPP_AndroidTX2KRaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX2KIRaiderFactionSpecific.label>Jefuitor android TX2KI</ATPP_AndroidTX2KIRaiderFactionSpecific.label>
+  <ATPP_AndroidTX2KIRaiderFactionSpecific.labelPlural>Jefuitori androizi TX2KI</ATPP_AndroidTX2KIRaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX3RaiderFactionSpecific.label>Jefuitor android TX3</ATPP_AndroidTX3RaiderFactionSpecific.label>
+  <ATPP_AndroidTX3RaiderFactionSpecific.labelPlural>Jefuitori androizi TX3</ATPP_AndroidTX3RaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX3IRaiderFactionSpecific.label>Jefuitor android TX3I</ATPP_AndroidTX3IRaiderFactionSpecific.label>
+  <ATPP_AndroidTX3IRaiderFactionSpecific.labelPlural>Jefuitori androizi TX3I</ATPP_AndroidTX3IRaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX4RaiderFactionSpecific.label>Jefuitor android TX4</ATPP_AndroidTX4RaiderFactionSpecific.label>
+  <ATPP_AndroidTX4RaiderFactionSpecific.labelPlural>Jefuitori androizi TX4</ATPP_AndroidTX4RaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX4IRaiderFactionSpecific.label>Jefuitor android TX4I</ATPP_AndroidTX4IRaiderFactionSpecific.label>
+  <ATPP_AndroidTX4IRaiderFactionSpecific.labelPlural>Jefuitori androizi TX4I</ATPP_AndroidTX4IRaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX2CollectiveSoldier.label>Soldat android TX2</ATPP_AndroidTX2CollectiveSoldier.label>
+  <ATPP_AndroidTX2CollectiveSoldier.labelPlural>Soldați androizi TX2</ATPP_AndroidTX2CollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX2ICollectiveSoldier.label>Soldat android TX2I</ATPP_AndroidTX2ICollectiveSoldier.label>
+  <ATPP_AndroidTX2ICollectiveSoldier.labelPlural>Soldați androizi TX2I</ATPP_AndroidTX2ICollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX2KCollectiveSoldier.label>Soldat android TX2K</ATPP_AndroidTX2KCollectiveSoldier.label>
+  <ATPP_AndroidTX2KCollectiveSoldier.labelPlural>Soldați androizi TX2K</ATPP_AndroidTX2KCollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX2KICollectiveSoldier.label>Soldat android TX2KI</ATPP_AndroidTX2KICollectiveSoldier.label>
+  <ATPP_AndroidTX2KICollectiveSoldier.labelPlural>Soldați androizi TX2KI</ATPP_AndroidTX2KICollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX3CollectiveSoldier.label>Soldat android TX3</ATPP_AndroidTX3CollectiveSoldier.label>
+  <ATPP_AndroidTX3CollectiveSoldier.labelPlural>Soldați androizi TX3</ATPP_AndroidTX3CollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX3ICollectiveSoldier.label>Soldat android TX3I</ATPP_AndroidTX3ICollectiveSoldier.label>
+  <ATPP_AndroidTX3ICollectiveSoldier.labelPlural>Soldați androizi TX3I</ATPP_AndroidTX3ICollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX4CollectiveSoldier.label>Soldat android TX4</ATPP_AndroidTX4CollectiveSoldier.label>
+  <ATPP_AndroidTX4CollectiveSoldier.labelPlural>Soldați androizi TX4</ATPP_AndroidTX4CollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX4ICollectiveSoldier.label>Soldat android TX4I</ATPP_AndroidTX4ICollectiveSoldier.label>
+  <ATPP_AndroidTX4ICollectiveSoldier.labelPlural>Soldați androizi TX4I</ATPP_AndroidTX4ICollectiveSoldier.labelPlural>
+
+</LanguageData>

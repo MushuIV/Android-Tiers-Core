@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATPP_ReloadStation.label>Android Şarj İstasyonu</ATPP_ReloadStation.label>
+  <ATPP_ReloadStation.description>Androidler için bir şarj istasyonu; aynı anda en fazla 8 androidi barındırabilir.</ATPP_ReloadStation.description>
+  <ATPP_SkyMindLAN.label>SkyMind V1 Anteni</ATPP_SkyMindLAN.label>
+  <ATPP_SkyMindLAN.description>SkyMind V1 Anteni aynı anda en fazla 3 istemciyi kabul eder; bir kolonistin zihnini diğerine yüklemeye ve herhangi bir SX serisi androidi veya biyolojik vekili uzaktan kontrol etmeye olanak tanıyan kablosuz bir ağ yayar.</ATPP_SkyMindLAN.description>
+  <ATPP_SkyMindWAN.label>SkyMind V2 Anteni</ATPP_SkyMindWAN.label>
+  <ATPP_SkyMindWAN.description>SkyMind V2 Anteni aynı anda en fazla 15 istemciyi kabul eder; bir kolonistin zihnini diğerine yüklemeye ve herhangi bir SX serisi androidi veya biyolojik vekili uzaktan kontrol etmeye olanak tanıyan kablosuz bir ağ yayar.</ATPP_SkyMindWAN.description>
+  <ATPP_SkyMindRelayTower.label>SkyMind Aktarım Kulesi</ATPP_SkyMindRelayTower.label>
+  <ATPP_SkyMindRelayTower.description>SkyMind Aktarım Kulesi antenlerin sinyalini güçlendirir ve uzun mesafelerde vekil kontrolünün bozulmasını önler.</ATPP_SkyMindRelayTower.description>
+  <ATPP_I100Security.label>I-100 (Güvenlik)</ATPP_I100Security.label>
+  <ATPP_I100Security.description>SkyMind ağınızı siber saldırılara ve virüslere karşı korumaktan sorumlu güvenlik duvarı sunucusu.</ATPP_I100Security.description>
+  <ATPP_I100Hacking.label>I-100 (Hackleme)</ATPP_I100Hacking.label>
+  <ATPP_I100Hacking.description>Bir SkyMind ağına bağlı istemcileri hacklemenizi sağlayan hackleme sunucusu.</ATPP_I100Hacking.description>
+  <ATPP_I100Skill.label>I-100 (Yetenek)</ATPP_I100Skill.label>
+  <ATPP_I100Skill.description>Bir SkyMind ağına bağlı androidlerin yetenek puanlarını artırmanızı sağlayan yetenek sunucusu.</ATPP_I100Skill.description>
+  <ATPP_I300Security.label>I-300 (Güvenlik)</ATPP_I300Security.label>
+  <ATPP_I300Security.description>SkyMind ağınızı siber saldırılara ve virüslere karşı korumaktan sorumlu güvenlik duvarı sunucusu.</ATPP_I300Security.description>
+  <ATPP_I300Hacking.label>I-300 (Hackleme)</ATPP_I300Hacking.label>
+  <ATPP_I300Hacking.description>Bir SkyMind ağına bağlı istemcileri hacklemenizi sağlayan hackleme sunucusu.</ATPP_I300Hacking.description>
+  <ATPP_I300Skill.label>I-300 (Yetenek)</ATPP_I300Skill.label>
+  <ATPP_I300Skill.description>Bir SkyMind ağına bağlı androidlerin yetenek puanlarını artırmanızı sağlayan yetenek sunucusu.</ATPP_I300Skill.description>
+  <ATPP_I500Security.label>I-500 (Güvenlik)</ATPP_I500Security.label>
+  <ATPP_I500Security.description>SkyMind ağınızı siber saldırılara ve virüslere karşı korumaktan sorumlu güvenlik duvarı sunucusu.</ATPP_I500Security.description>
+  <ATPP_I500Hacking.label>I-500 (Hackleme)</ATPP_I500Hacking.label>
+  <ATPP_I500Hacking.description>Bir SkyMind ağına bağlı istemcileri hacklemenizi sağlayan hackleme sunucusu.</ATPP_I500Hacking.description>
+  <ATPP_I500Skill.label>I-500 (Yetenek)</ATPP_I500Skill.label>
+  <ATPP_I500Skill.description>Bir SkyMind ağına bağlı androidlerin yetenek puanlarını artırmanızı sağlayan yetenek sunucusu.</ATPP_I500Skill.description>
+  <ATPP_AndroidPod.label>Android Kapsülü</ATPP_AndroidPod.label>
+  <ATPP_AndroidPod.description>Androidlerin onarılabildiği, (vekiller söz konusu olduğunda) bir konak beklerken depolanabildiği ve güce bağlıysa şarj edilebildiği bir android kapsülü.</ATPP_AndroidPod.description>
+  <ATPP_AndroidPodMech.label>M7 Kapsülü</ATPP_AndroidPodMech.label>
+  <ATPP_AndroidPodMech.description>M7 mekanoidlerinin onarılabildiği, (vekiller söz konusu olduğunda) bir konak beklerken depolanabildiği ve güce bağlıysa şarj edilebildiği dev bir kapsül.</ATPP_AndroidPodMech.description>
+  <ATPP_SkyCloudCore.label>SkyCloud Çekirdeği</ATPP_SkyCloudCore.label>
+  <ATPP_SkyCloudCore.description>SkyMind ağına bağlı tüm cihazları kontrol etmenin yanı sıra kolonistlerinizin dijitalleştirilmiş beyinlerini neredeyse ölümsüz ve her şeyi bilen hale getirmek için belleğine yüklemenizi sağlayan bir süper bilgisayar.</ATPP_SkyCloudCore.description>
+</LanguageData>

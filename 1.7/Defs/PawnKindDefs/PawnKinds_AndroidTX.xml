@@ -165,7 +165,6 @@
 		</categories>
 	  </li>
 	</backstoryFiltersOverride>
-	    <baseRecruitDifficulty>0.90</baseRecruitDifficulty>
     <combatPower>120</combatPower>
 	<maxGenerationAge>17</maxGenerationAge>
 			<defaultFactionType>AndroidRebellionAtlas</defaultFactionType>
@@ -227,7 +226,6 @@
 		</categories>
 	  </li>
 	</backstoryFiltersOverride>
-	    <baseRecruitDifficulty>0.92</baseRecruitDifficulty>
     <combatPower>180</combatPower>
 	<maxGenerationAge>17</maxGenerationAge>
 			<defaultFactionType>AndroidRebellionAtlas</defaultFactionType>
@@ -297,7 +295,6 @@
 		</categories>
 	  </li>
 	</backstoryFiltersOverride>
-	    <baseRecruitDifficulty>0.92</baseRecruitDifficulty>
     <combatPower>170</combatPower>
 	<maxGenerationAge>17</maxGenerationAge>
 			<defaultFactionType>AndroidRebellionAtlas</defaultFactionType>
@@ -360,7 +357,6 @@
 		</categories>
 	  </li>
 	</backstoryFiltersOverride>
-	    <baseRecruitDifficulty>0.92</baseRecruitDifficulty>
     <combatPower>220</combatPower>
 	<maxGenerationAge>17</maxGenerationAge>
 			<defaultFactionType>AndroidRebellionAtlas</defaultFactionType>
@@ -425,7 +421,6 @@
 			</categories>
 		  </li>
 		</backstoryFiltersOverride>
-		<baseRecruitDifficulty>0.70</baseRecruitDifficulty>
 		<combatPower>120</combatPower>
 		<maxGenerationAge>17</maxGenerationAge>
 		<defaultFactionType>AndroidFriendliesAtlas</defaultFactionType>
@@ -487,7 +482,6 @@
 			</categories>
 		  </li>
 		</backstoryFiltersOverride>
-		<baseRecruitDifficulty>0.80</baseRecruitDifficulty>
 		<combatPower>190</combatPower>
 		<maxGenerationAge>17</maxGenerationAge>
 		<defaultFactionType>AndroidFriendliesAtlas</defaultFactionType>
@@ -555,7 +549,6 @@
 			</categories>
 		  </li>
 		</backstoryFiltersOverride>
-		<baseRecruitDifficulty>0.80</baseRecruitDifficulty>
 		<combatPower>180</combatPower>
 		<maxGenerationAge>17</maxGenerationAge>
 		<defaultFactionType>AndroidFriendliesAtlas</defaultFactionType>
@@ -619,7 +612,6 @@
 			</categories>
 		  </li>
 		</backstoryFiltersOverride>
-		<baseRecruitDifficulty>0.90</baseRecruitDifficulty>
 		<combatPower>230</combatPower>
 		<maxGenerationAge>17</maxGenerationAge>
 		<defaultFactionType>AndroidFriendliesAtlas</defaultFactionType>

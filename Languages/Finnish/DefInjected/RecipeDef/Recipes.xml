@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_DisassembleAndroid.label>Pura kuollut androidi</ATPP_DisassembleAndroid.label>
+	<ATPP_DisassembleAndroid.description>Pura kuollut androidi osikseen.</ATPP_DisassembleAndroid.description>
+	<ATPP_DisassembleAndroid.jobString>Purkaa androidia.</ATPP_DisassembleAndroid.jobString>
+	<ATPP_Make_NanitesHydraulicSerum.label>Valmista naniittipankki (hydrauliikka)</ATPP_Make_NanitesHydraulicSerum.label>
+	<ATPP_Make_NanitesHydraulicSerum.description>Valmista androidien hydrauliikkananiittiseerumi, joka mahdollistaa androidien vanhuusvikojen korjaamisen.</ATPP_Make_NanitesHydraulicSerum.description>
+	<ATPP_Make_NanitesHydraulicSerum.jobString>Valmistaa androidien naniittiseerumia.</ATPP_Make_NanitesHydraulicSerum.jobString>
+	<ATPP_Make_NanitesCPUSerum.label>Valmista naniittipankki (prosessori)</ATPP_Make_NanitesCPUSerum.label>
+	<ATPP_Make_NanitesCPUSerum.description>Valmista androidien prosessorinaniittiseerumi, joka mahdollistaa androidin prosessorin (vanhuuteen liittyvien) vikojen korjaamisen.</ATPP_Make_NanitesCPUSerum.description>
+	<ATPP_Make_NanitesCPUSerum.jobString>Valmistaa androidien naniittiseerumia.</ATPP_Make_NanitesCPUSerum.jobString>
+	<ATPP_Make_NanitesCoolingSerum.label>Valmista naniittipankki (jäähdytys)</ATPP_Make_NanitesCoolingSerum.label>
+	<ATPP_Make_NanitesCoolingSerum.description>Valmista androidien jäähdytysnaniittiseerumi, joka mahdollistaa androidin jäähdytysjärjestelmän (vanhuuteen liittyvien) vikojen korjaamisen.</ATPP_Make_NanitesCoolingSerum.description>
+	<ATPP_Make_NanitesCoolingSerum.jobString>Valmistaa androidien naniittiseerumia.</ATPP_Make_NanitesCoolingSerum.jobString>
+	<ATPP_Make_NanitesFrameSerum.label>Valmista naniittipankki (runko)</ATPP_Make_NanitesFrameSerum.label>
+	<ATPP_Make_NanitesFrameSerum.description>Valmista androidien runkonaniittiseerumi, joka mahdollistaa androidin ulkorungon (vanhuuteen liittyvien) vikojen korjaamisen.</ATPP_Make_NanitesFrameSerum.description>
+	<ATPP_Make_NanitesFrameSerum.jobString>Valmistaa androidien naniittiseerumia.</ATPP_Make_NanitesFrameSerum.jobString>
+	<ATPP_Make_RXChip.label>Valmista RX-neurosiru</ATPP_Make_RXChip.label>
+	<ATPP_Make_RXChip.description>Neurosiru, joka toimii henkilökohtaisena SkyMind-vahvistimena.</ATPP_Make_RXChip.description>
+	<ATPP_Make_RXChip.jobString>Valmistaa RX-neurosirua.</ATPP_Make_RXChip.jobString>
+	<ATPP_Make_VX0Chip.label>Valmista VX0-neurosiru</ATPP_Make_VX0Chip.label>
+	<ATPP_Make_VX0Chip.description>Valmista VX0-siru, neurosiru joka muuttaa isäntänsä biologiseksi surrogaatiksi.</ATPP_Make_VX0Chip.description>
+	<ATPP_Make_VX0Chip.jobString>Valmistaa VX0-neurosirua.</ATPP_Make_VX0Chip.jobString>
+	<ATPP_Make_VX1Chip.label>Valmista VX1-neurosiru</ATPP_Make_VX1Chip.label>
+	<ATPP_Make_VX1Chip.description>Valmista VX1-siru, jonka avulla isäntä voi etäohjata mitä tahansa SX-sarjan androidia tai biologista surrogaattia.</ATPP_Make_VX1Chip.description>
+	<ATPP_Make_VX1Chip.jobString>Valmistaa VX1-neurosirua.</ATPP_Make_VX1Chip.jobString>
+	<ATPP_Make_VX2Chip.label>Valmista VX2-neurosiru</ATPP_Make_VX2Chip.label>
+	<ATPP_Make_VX2Chip.description>Valmista VX2-siru, jonka avulla isäntä voi etäohjata mitä tahansa SX-sarjan androidia tai biologista surrogaattia sekä monistaa/vaihtaa mielensä.</ATPP_Make_VX2Chip.description>
+	<ATPP_Make_VX2Chip.jobString>Valmistaa VX2-neurosirua.</ATPP_Make_VX2Chip.jobString>
+	<ATPP_Make_VX3Chip.label>Valmista VX3-neurosiru</ATPP_Make_VX3Chip.label>
+	<ATPP_Make_VX3Chip.description>Valmista VX3-siru, jonka avulla isäntä voi etäohjata useita SX-sarjan androideja tai biologisia surrogaatteja samanaikaisesti sekä monistaa/vaihtaa mielensä.</ATPP_Make_VX3Chip.description>
+	<ATPP_Make_VX3Chip.jobString>Valmistaa VX3-neurosirua.</ATPP_Make_VX3Chip.jobString>
+	<ATPP_InstallVX2Chip.label>Asenna VX2-neurosiru</ATPP_InstallVX2Chip.label>
+	<ATPP_InstallVX2Chip.description>Asenna VX2-neurosiru, jonka avulla isäntä voi etäohjata mitä tahansa SX-sarjan androidia tai biologista surrogaattia sekä monistaa/vaihtaa mielensä.</ATPP_InstallVX2Chip.description>
+	<ATPP_InstallVX2Chip.jobString>Asentaa VX2-neurosirua.</ATPP_InstallVX2Chip.jobString>
+	<ATPP_InstallVX2ChipOnAndroid.label>Asenna VX2-neurosiru androidiin</ATPP_InstallVX2ChipOnAndroid.label>
+	<ATPP_InstallVX2ChipOnAndroid.description>Asenna VX2-neurosiru androidiin, jonka avulla isäntä voi etäohjata mitä tahansa SX-sarjan androidia tai biologista surrogaattia sekä monistaa/vaihtaa mielensä.</ATPP_InstallVX2ChipOnAndroid.description>
+	<ATPP_InstallVX2ChipOnAndroid.jobString>Asentaa VX2-neurosirua androidiin.</ATPP_InstallVX2ChipOnAndroid.jobString>
+	<ATPP_InstallVX3Chip.label>Asenna VX3-neurosiru</ATPP_InstallVX3Chip.label>
+	<ATPP_InstallVX3Chip.description>Asenna VX3-neurosiru, jonka avulla isäntä voi etäohjata useita SX-sarjan androideja tai biologisia surrogaatteja samanaikaisesti sekä monistaa/vaihtaa mielensä.</ATPP_InstallVX3Chip.description>
+	<ATPP_InstallVX3Chip.jobString>Asentaa VX3-neurosirua.</ATPP_InstallVX3Chip.jobString>
+	<ATPP_InstallVX3ChipOnAndroid.label>Asenna VX3-neurosiru androidiin</ATPP_InstallVX3ChipOnAndroid.label>
+	<ATPP_InstallVX3ChipOnAndroid.description>Asenna VX3-neurosiru androidiin, jonka avulla isäntä voi etäohjata useita SX-sarjan androideja tai biologisia surrogaatteja samanaikaisesti sekä monistaa/vaihtaa mielensä.</ATPP_InstallVX3ChipOnAndroid.description>
+	<ATPP_InstallVX3ChipOnAndroid.jobString>Asentaa VX3-neurosirua androidiin.</ATPP_InstallVX3ChipOnAndroid.jobString>
+	<ATPP_InstallRXChip.label>Asenna RX-neurosiru</ATPP_InstallRXChip.label>
+	<ATPP_InstallRXChip.description>Asenna RX-neurosiru, joka toimii henkilökohtaisena SkyMind-vahvistimena isännälleen.</ATPP_InstallRXChip.description>
+	<ATPP_InstallRXChip.jobString>Asentaa RX-neurosirua.</ATPP_InstallRXChip.jobString>
+	<ATPP_InstallRXChipOnAndroid.label>Asenna RX-neurosiru</ATPP_InstallRXChipOnAndroid.label>
+	<ATPP_InstallRXChipOnAndroid.description>Asenna RX-neurosiru, joka toimii henkilökohtaisena SkyMind-vahvistimena isännälleen.</ATPP_InstallRXChipOnAndroid.description>
+	<ATPP_InstallRXChipOnAndroid.jobString>Asentaa RX-neurosirua.</ATPP_InstallRXChipOnAndroid.jobString>
+	<ATPP_InstallVX0ChipOnAndroid.label>Asenna VX0-neurosiru androidiin</ATPP_InstallVX0ChipOnAndroid.label>
+	<ATPP_InstallVX0ChipOnAndroid.description>Asenna VX0-neurosiru androidiin; neurosiru muuttaa isäntänsä biologiseksi surrogaatiksi.</ATPP_InstallVX0ChipOnAndroid.description>
+	<ATPP_InstallVX0ChipOnAndroid.jobString>Asentaa VX0-neurosirua androidiin.</ATPP_InstallVX0ChipOnAndroid.jobString>
+	<ATPP_InstallVX0Chip.label>Asenna VX0-neurosiru</ATPP_InstallVX0Chip.label>
+	<ATPP_InstallVX0Chip.description>Asenna VX0-neurosiru, joka muuttaa isäntänsä biologiseksi surrogaatiksi.</ATPP_InstallVX0Chip.description>
+	<ATPP_InstallVX0Chip.jobString>Asentaa VX0-neurosirua.</ATPP_InstallVX0Chip.jobString>
+	<ATPP_InstallVX1Chip.label>Asenna VX1-neurosiru</ATPP_InstallVX1Chip.label>
+	<ATPP_InstallVX1Chip.description>Asenna VX1-neurosiru, jonka avulla isäntä voi etäohjata mitä tahansa SX-sarjan androidia tai biologista surrogaattia.</ATPP_InstallVX1Chip.description>
+	<ATPP_InstallVX1Chip.jobString>Asentaa VX1-neurosirua.</ATPP_InstallVX1Chip.jobString>
+	<ATPP_InstallVX1ChipOnAndroid.label>Asenna VX1-neurosiru androidiin</ATPP_InstallVX1ChipOnAndroid.label>
+	<ATPP_InstallVX1ChipOnAndroid.description>Asenna VX1-neurosiru androidiin, jonka avulla isäntä voi etäohjata mitä tahansa SX-sarjan androidia tai biologista surrogaattia.</ATPP_InstallVX1ChipOnAndroid.description>
+	<ATPP_InstallVX1ChipOnAndroid.jobString>Asentaa VX1-neurosirua androidiin.</ATPP_InstallVX1ChipOnAndroid.jobString>
+	<ATPP_CreateS1.label>Luo T1-surrogaattiandroidi (S1)</ATPP_CreateS1.label>
+	<ATPP_CreateS1.description>Luo tyhjä S1-androidi plastiteräksestä ja komponenteista.</ATPP_CreateS1.description>
+	<ATPP_CreateS1.jobString>Valmistaa S1-androidia.</ATPP_CreateS1.jobString>
+	<ATPP_CreateS2.label>Luo T2-surrogaattiandroidi (S2)</ATPP_CreateS2.label>
+	<ATPP_CreateS2.description>Luo tyhjä S2-androidi plastiteräksestä ja komponenteista.</ATPP_CreateS2.description>
+	<ATPP_CreateS2.jobString>Valmistaa S2-androidia.</ATPP_CreateS2.jobString>
+	<ATPP_CreateS3.label>Luo T3-surrogaattiandroidi (S3)</ATPP_CreateS3.label>
+	<ATPP_CreateS3.description>Luo tyhjä S3-androidi plastiteräksestä ja komponenteista.</ATPP_CreateS3.description>
+	<ATPP_CreateS3.jobString>Valmistaa S3-androidia.</ATPP_CreateS3.jobString>
+	<ATPP_CreateS4.label>Luo T4-surrogaattiandroidi (S4)</ATPP_CreateS4.label>
+	<ATPP_CreateS4.description>Luo tyhjä S4-androidi plastiteräksestä ja komponenteista.</ATPP_CreateS4.description>
+	<ATPP_CreateS4.jobString>Valmistaa S4-androidia.</ATPP_CreateS4.jobString>
+	<ATPP_CreateHellDrone.label>Luo HellUnit-surrogaattiandroidi (S-HU)</ATPP_CreateHellDrone.label>
+	<ATPP_CreateHellDrone.description>Luo tyhjä S-HU-androidi plastiteräksestä ja komponenteista.</ATPP_CreateHellDrone.description>
+	<ATPP_CreateHellDrone.jobString>Valmistaa S-HU-androidia.</ATPP_CreateHellDrone.jobString>
+	<ATPP_CreateM7.label>Luo M7-surrogaattimekanoidi (SM7)</ATPP_CreateM7.label>
+	<ATPP_CreateM7.description>Luo tyhjä SM7-mekanoidi plastiteräksestä ja komponenteista.</ATPP_CreateM7.description>
+	<ATPP_CreateM7.jobString>Valmistaa SM7-mekanoidia.</ATPP_CreateM7.jobString>
+	<ATPP_CreateBlankT3.label>Luo tyhjän neuroverkon T3-androidi</ATPP_CreateBlankT3.label>
+	<ATPP_CreateBlankT3.description>Luo tyhjän neuroverkon T3-androidi</ATPP_CreateBlankT3.description>
+	<ATPP_CreateBlankT3.jobString>Luo tyhjän neuroverkon T3-androidia</ATPP_CreateBlankT3.jobString>
+	<ATPP_CreateBlankT4.label>Luo tyhjän neuroverkon T4-androidi</ATPP_CreateBlankT4.label>
+	<ATPP_CreateBlankT4.description>Luo tyhjän neuroverkon T4-androidi</ATPP_CreateBlankT4.description>
+	<ATPP_CreateBlankT4.jobString>Luo tyhjän neuroverkon T4-androidia</ATPP_CreateBlankT4.jobString>
+	<ATPP_Make_SM7Mech40MMCannon.label>Valmista 40 mm kanuuna (SM7-ase)</ATPP_Make_SM7Mech40MMCannon.label>
+	<ATPP_Make_SM7Mech40MMCannon.description>Valmista 40 mm kanuuna (SM7-ase)</ATPP_Make_SM7Mech40MMCannon.description>
+	<ATPP_Make_SM7Mech40MMCannon.jobString>Valmistaa 40 mm kanuunaa (SM7-ase)</ATPP_Make_SM7Mech40MMCannon.jobString>
+	<ATPP_Make_SM7MechMastiffGun.label>Valmista Mastiff-haulikko (SM7-ase)</ATPP_Make_SM7MechMastiffGun.label>
+	<ATPP_Make_SM7MechMastiffGun.description>Valmista Mastiff-haulikko (SM7-ase)</ATPP_Make_SM7MechMastiffGun.description>
+	<ATPP_Make_SM7MechMastiffGun.jobString>Valmistaa Mastiff-haulikkoa (SM7-ase)</ATPP_Make_SM7MechMastiffGun.jobString>
+	<ATPP_Make_SM7MechHandCannon.label>Valmista X-5-käsikanuuna (SM7-ase)</ATPP_Make_SM7MechHandCannon.label>
+	<ATPP_Make_SM7MechHandCannon.description>Valmista X-5-käsikanuuna (SM7-ase)</ATPP_Make_SM7MechHandCannon.description>
+	<ATPP_Make_SM7MechHandCannon.jobString>Valmistaa X-5-käsikanuunaa (SM7-ase)</ATPP_Make_SM7MechHandCannon.jobString>
+	<ATPP_PaintAndroidFrameworkKhaki.label>Maalaa androidin runko khakiksi</ATPP_PaintAndroidFrameworkKhaki.label>
+	<ATPP_PaintAndroidFrameworkKhaki.description>Maalaa androidin runko khakiksi</ATPP_PaintAndroidFrameworkKhaki.description>
+	<ATPP_PaintAndroidFrameworkKhaki.jobString>Maalaa androidin runkoa khakiksi</ATPP_PaintAndroidFrameworkKhaki.jobString>
+	<ATPP_PaintAndroidFrameworkGreen.label>Maalaa androidin runko vihreäksi</ATPP_PaintAndroidFrameworkGreen.label>
+	<ATPP_PaintAndroidFrameworkGreen.description>Maalaa androidin runko vihreäksi</ATPP_PaintAndroidFrameworkGreen.description>
+	<ATPP_PaintAndroidFrameworkGreen.jobString>Maalaa androidin runkoa vihreäksi</ATPP_PaintAndroidFrameworkGreen.jobString>
+	<ATPP_PaintAndroidFrameworkBlue.label>Maalaa androidin runko siniseksi</ATPP_PaintAndroidFrameworkBlue.label>
+	<ATPP_PaintAndroidFrameworkBlue.description>Maalaa androidin runko siniseksi</ATPP_PaintAndroidFrameworkBlue.description>
+	<ATPP_PaintAndroidFrameworkBlue.jobString>Maalaa androidin runkoa siniseksi</ATPP_PaintAndroidFrameworkBlue.jobString>
+	<ATPP_PaintAndroidFrameworkRed.label>Maalaa androidin runko punaiseksi</ATPP_PaintAndroidFrameworkRed.label>
+	<ATPP_PaintAndroidFrameworkRed.description>Maalaa androidin runko punaiseksi</ATPP_PaintAndroidFrameworkRed.description>
+	<ATPP_PaintAndroidFrameworkRed.jobString>Maalaa androidin runkoa punaiseksi</ATPP_PaintAndroidFrameworkRed.jobString>
+	<ATPP_PaintAndroidFrameworkYellow.label>Maalaa androidin runko keltaiseksi</ATPP_PaintAndroidFrameworkYellow.label>
+	<ATPP_PaintAndroidFrameworkYellow.description>Maalaa androidin runko keltaiseksi</ATPP_PaintAndroidFrameworkYellow.description>
+	<ATPP_PaintAndroidFrameworkYellow.jobString>Maalaa androidin runkoa keltaiseksi</ATPP_PaintAndroidFrameworkYellow.jobString>
+	<ATPP_PaintAndroidFrameworkOrange.label>Maalaa androidin runko oranssiksi</ATPP_PaintAndroidFrameworkOrange.label>
+	<ATPP_PaintAndroidFrameworkOrange.description>Maalaa androidin runko oranssiksi</ATPP_PaintAndroidFrameworkOrange.description>
+	<ATPP_PaintAndroidFrameworkOrange.jobString>Maalaa androidin runkoa oranssiksi</ATPP_PaintAndroidFrameworkOrange.jobString>
+	<ATPP_PaintAndroidFrameworkBlack.label>Maalaa androidin runko mustaksi</ATPP_PaintAndroidFrameworkBlack.label>
+	<ATPP_PaintAndroidFrameworkBlack.description>Maalaa androidin runko mustaksi</ATPP_PaintAndroidFrameworkBlack.description>
+	<ATPP_PaintAndroidFrameworkBlack.jobString>Maalaa androidin runkoa mustaksi</ATPP_PaintAndroidFrameworkBlack.jobString>
+	<ATPP_PaintAndroidFrameworkWhite.label>Maalaa androidin runko valkoiseksi</ATPP_PaintAndroidFrameworkWhite.label>
+	<ATPP_PaintAndroidFrameworkWhite.description>Maalaa androidin runko valkoiseksi</ATPP_PaintAndroidFrameworkWhite.description>
+	<ATPP_PaintAndroidFrameworkWhite.jobString>Maalaa androidin runkoa valkoiseksi</ATPP_PaintAndroidFrameworkWhite.jobString>
+	<ATPP_PaintAndroidFrameworkGray.label>Maalaa androidin runko harmaaksi</ATPP_PaintAndroidFrameworkGray.label>
+	<ATPP_PaintAndroidFrameworkGray.description>Maalaa androidin runko harmaaksi</ATPP_PaintAndroidFrameworkGray.description>
+	<ATPP_PaintAndroidFrameworkGray.jobString>Maalaa androidin runkoa harmaaksi</ATPP_PaintAndroidFrameworkGray.jobString>
+	<ATPP_PaintAndroidFrameworkPurple.label>Maalaa androidin runko violetiksi</ATPP_PaintAndroidFrameworkPurple.label>
+	<ATPP_PaintAndroidFrameworkPurple.description>Maalaa androidin runko violetiksi</ATPP_PaintAndroidFrameworkPurple.description>
+	<ATPP_PaintAndroidFrameworkPurple.jobString>Maalaa androidin runkoa violetiksi</ATPP_PaintAndroidFrameworkPurple.jobString>
+	<ATPP_PaintAndroidFrameworkPink.label>Maalaa androidin runko vaaleanpunaiseksi</ATPP_PaintAndroidFrameworkPink.label>
+	<ATPP_PaintAndroidFrameworkPink.description>Maalaa androidin runko vaaleanpunaiseksi</ATPP_PaintAndroidFrameworkPink.description>
+	<ATPP_PaintAndroidFrameworkPink.jobString>Maalaa androidin runkoa vaaleanpunaiseksi</ATPP_PaintAndroidFrameworkPink.jobString>
+	<ATPP_PaintAndroidFrameworkCyan.label>Maalaa androidin runko syaaniksi</ATPP_PaintAndroidFrameworkCyan.label>
+	<ATPP_PaintAndroidFrameworkCyan.description>Maalaa androidin runko syaaniksi</ATPP_PaintAndroidFrameworkCyan.description>
+	<ATPP_PaintAndroidFrameworkCyan.jobString>Maalaa androidin runkoa syaaniksi</ATPP_PaintAndroidFrameworkCyan.jobString>
+	<ATPP_PaintAndroidFrameworkDefault.label>Maalaa androidin runko oletusväriin</ATPP_PaintAndroidFrameworkDefault.label>
+	<ATPP_PaintAndroidFrameworkDefault.description>Maalaa androidin runko oletusväriin</ATPP_PaintAndroidFrameworkDefault.description>
+	<ATPP_PaintAndroidFrameworkDefault.jobString>Maalaa androidin runkoa oletusväriin</ATPP_PaintAndroidFrameworkDefault.jobString>
+	<ATPP_ApplyHydraulicNaniteBank.label>Anna hydrauliikkananiittipankki</ATPP_ApplyHydraulicNaniteBank.label>
+	<ATPP_ApplyHydraulicNaniteBank.description>Anna kertakäyttöinen annos naniitteja, jotka on viritetty korjaamaan androidien vaurioituneita hydraulijärjestelmiä.</ATPP_ApplyHydraulicNaniteBank.description>
+	<ATPP_ApplyHydraulicNaniteBank.jobString>Korjaa androidin ikävammoja naniittiseerumilla</ATPP_ApplyHydraulicNaniteBank.jobString>
+	<ATPP_ApplyHealFrameworkSystem.label>Anna runkonaniittipankki</ATPP_ApplyHealFrameworkSystem.label>
+	<ATPP_ApplyHealFrameworkSystem.description>Anna kertakäyttöinen pankki naniitteja, jotka on viritetty korjaamaan androidien vaurioituneita ulkorunkoja.</ATPP_ApplyHealFrameworkSystem.description>
+	<ATPP_ApplyHealFrameworkSystem.jobString>Korjaa androidin ikävammoja naniittiseerumilla</ATPP_ApplyHealFrameworkSystem.jobString>
+	<ATPP_ApplyHealCoolingSystem.label>Anna jäähdytysnaniittipankki</ATPP_ApplyHealCoolingSystem.label>
+	<ATPP_ApplyHealCoolingSystem.description>Anna kertakäyttöinen pankki naniitteja, jotka on viritetty korjaamaan androidien vaurioituneita jäähdytysjärjestelmiä ylikuumenemistapauksissa.</ATPP_ApplyHealCoolingSystem.description>
+	<ATPP_ApplyHealCoolingSystem.jobString>Korjaa androidin ikävammoja naniittiseerumilla</ATPP_ApplyHealCoolingSystem.jobString>
+	<ATPP_ApplyHealCPUSerum.label>Anna prosessorinaniittipankki</ATPP_ApplyHealCPUSerum.label>
+	<ATPP_ApplyHealCPUSerum.description>Anna kertakäyttöinen pankki naniitteja, jotka on viritetty korjaamaan androidien vaurioituneita keinotekoisia aivoja.</ATPP_ApplyHealCPUSerum.description>
+	<ATPP_ApplyHealCPUSerum.jobString>Korjaa androidin ikävammoja naniittiseerumilla</ATPP_ApplyHealCPUSerum.jobString>
+	<ATPP_Make_T1ArtificialBrain.label>Valmista keinotekoiset T1-aivot</ATPP_Make_T1ArtificialBrain.label>
+	<ATPP_Make_T1ArtificialBrain.description>Valmista keinotekoiset T1-aivot muuttaaksesi surrogaatin tyhjän neuroverkon androidiksi.</ATPP_Make_T1ArtificialBrain.description>
+	<ATPP_Make_T1ArtificialBrain.jobString>Valmistaa keinotekoisia T1-aivoja.</ATPP_Make_T1ArtificialBrain.jobString>
+	<ATPP_Make_T2ArtificialBrain.label>Valmista keinotekoiset T2-aivot</ATPP_Make_T2ArtificialBrain.label>
+	<ATPP_Make_T2ArtificialBrain.description>Valmista keinotekoiset T2-aivot muuttaaksesi surrogaatin tyhjän neuroverkon androidiksi.</ATPP_Make_T2ArtificialBrain.description>
+	<ATPP_Make_T2ArtificialBrain.jobString>Valmistaa keinotekoisia T2-aivoja.</ATPP_Make_T2ArtificialBrain.jobString>
+	<ATPP_Make_T3ArtificialBrain.label>Valmista keinotekoiset T3-aivot</ATPP_Make_T3ArtificialBrain.label>
+	<ATPP_Make_T3ArtificialBrain.description>Valmista keinotekoiset T3-aivot muuttaaksesi surrogaatin tyhjän neuroverkon androidiksi.</ATPP_Make_T3ArtificialBrain.description>
+	<ATPP_Make_T3ArtificialBrain.jobString>Valmistaa keinotekoisia T3-aivoja.</ATPP_Make_T3ArtificialBrain.jobString>
+	<ATPP_Make_T4ArtificialBrain.label>Valmista keinotekoiset T4-aivot</ATPP_Make_T4ArtificialBrain.label>
+	<ATPP_Make_T4ArtificialBrain.description>Valmista keinotekoiset T4-aivot muuttaaksesi surrogaatin tyhjän neuroverkon androidiksi.</ATPP_Make_T4ArtificialBrain.description>
+	<ATPP_Make_T4ArtificialBrain.jobString>Valmistaa keinotekoisia T4-aivoja.</ATPP_Make_T4ArtificialBrain.jobString>
+	<ATPP_InstallT1ArtificialBrain.label>Asenna keinotekoiset T1-aivot</ATPP_InstallT1ArtificialBrain.label>
+	<ATPP_InstallT1ArtificialBrain.description>Asenna keinotekoiset T1-aivot, joilla T1-surrogaatti voidaan muuttaa tyhjän neuroverkon androidiksi</ATPP_InstallT1ArtificialBrain.description>
+	<ATPP_InstallT1ArtificialBrain.jobString>Asentaa keinotekoisia T1-aivoja.</ATPP_InstallT1ArtificialBrain.jobString>
+	<ATPP_InstallT2ArtificialBrain.label>Asenna keinotekoiset T2-aivot</ATPP_InstallT2ArtificialBrain.label>
+	<ATPP_InstallT2ArtificialBrain.description>Asenna keinotekoiset T2-aivot, joilla T2-surrogaatti voidaan muuttaa tyhjän neuroverkon androidiksi</ATPP_InstallT2ArtificialBrain.description>
+	<ATPP_InstallT2ArtificialBrain.jobString>Asentaa keinotekoisia T2-aivoja.</ATPP_InstallT2ArtificialBrain.jobString>
+	<ATPP_InstallT3ArtificialBrain.label>Asenna keinotekoiset T3-aivot</ATPP_InstallT3ArtificialBrain.label>
+	<ATPP_InstallT3ArtificialBrain.description>Asenna keinotekoiset T3-aivot, joilla T3-surrogaatti voidaan muuttaa tyhjän neuroverkon androidiksi</ATPP_InstallT3ArtificialBrain.description>
+	<ATPP_InstallT3ArtificialBrain.jobString>Asentaa keinotekoisia T3-aivoja.</ATPP_InstallT3ArtificialBrain.jobString>
+	<ATPP_InstallT4ArtificialBrain.label>Asenna keinotekoiset T4-aivot</ATPP_InstallT4ArtificialBrain.label>
+	<ATPP_InstallT4ArtificialBrain.description>Asenna keinotekoiset T4-aivot, joilla T4-surrogaatti voidaan muuttaa tyhjän neuroverkon androidiksi</ATPP_InstallT4ArtificialBrain.description>
+	<ATPP_InstallT4ArtificialBrain.jobString>Asentaa keinotekoisia T4-aivoja.</ATPP_InstallT4ArtificialBrain.jobString>
+	<ATPP_CreateSX2.label>Luo miespuolinen TX2-surrogaattiandroidi (SX2)</ATPP_CreateSX2.label>
+	<ATPP_CreateSX2.description>Luo tyhjä miespuolinen SX2-androidi plastiteräksestä ja komponenteista.</ATPP_CreateSX2.description>
+	<ATPP_CreateSX2.jobString>Valmistaa SX2-androidia.</ATPP_CreateSX2.jobString>
+	<ATPP_CreateSX2Female.label>Luo naispuolinen TX2-surrogaattiandroidi (SX2)</ATPP_CreateSX2Female.label>
+	<ATPP_CreateSX2Female.description>Luo tyhjä naispuolinen SX2-androidi plastiteräksestä ja komponenteista.</ATPP_CreateSX2Female.description>
+	<ATPP_CreateSX2Female.jobString>Valmistaa SX2-androidia.</ATPP_CreateSX2Female.jobString>
+	<ATPP_CreateSX3.label>Luo miespuolinen TX3-surrogaattiandroidi (SX3)</ATPP_CreateSX3.label>
+	<ATPP_CreateSX3.description>Luo tyhjä miespuolinen SX3-androidi plastiteräksestä ja komponenteista.</ATPP_CreateSX3.description>
+	<ATPP_CreateSX3.jobString>Valmistaa SX3-androidia.</ATPP_CreateSX3.jobString>
+	<ATPP_CreateSX3Female.label>Luo naispuolinen TX3-surrogaattiandroidi (SX3)</ATPP_CreateSX3Female.label>
+	<ATPP_CreateSX3Female.description>Luo tyhjä naispuolinen SX3-androidi plastiteräksestä ja komponenteista.</ATPP_CreateSX3Female.description>
+	<ATPP_CreateSX3Female.jobString>Valmistaa SX3-androidia.</ATPP_CreateSX3Female.jobString>
+	<ATPP_CreateSX4.label>Luo TX4-surrogaattiandroidi (SX4)</ATPP_CreateSX4.label>
+	<ATPP_CreateSX4.description>Luo tyhjä SX4-androidi plastiteräksestä ja komponenteista.</ATPP_CreateSX4.description>
+	<ATPP_CreateSX4.jobString>Valmistaa SX4-androidia.</ATPP_CreateSX4.jobString>
+	<ATPP_CreateSX4Female.label>Luo naispuolinen TX4-surrogaattiandroidi (SX4)</ATPP_CreateSX4Female.label>
+	<ATPP_CreateSX4Female.description>Luo tyhjä naispuolinen SX4-androidi plastiteräksestä ja komponenteista.</ATPP_CreateSX4Female.description>
+	<ATPP_CreateSX4Female.jobString>Valmistaa SX4-androidia.</ATPP_CreateSX4Female.jobString>
+	<ATPP_CreateSX2I.label>Luo miespuolinen TX2I-surrogaattiandroidi (SX2I)</ATPP_CreateSX2I.label>
+	<ATPP_CreateSX2I.description>Luo tyhjä miespuolinen SX2I-androidi plastiteräksestä ja komponenteista.</ATPP_CreateSX2I.description>
+	<ATPP_CreateSX2I.jobString>Valmistaa SX2I-androidia.</ATPP_CreateSX2I.jobString>
+	<ATPP_CreateSX2IFemale.label>Luo naispuolinen TX2I-surrogaattiandroidi (SX2I)</ATPP_CreateSX2IFemale.label>
+	<ATPP_CreateSX2IFemale.description>Luo tyhjä naispuolinen SX2I-androidi plastiteräksestä ja komponenteista.</ATPP_CreateSX2IFemale.description>
+	<ATPP_CreateSX2IFemale.jobString>Valmistaa SX2I-androidia.</ATPP_CreateSX2IFemale.jobString>
+	<ATPP_CreateSX2K.label>Luo miespuolinen TX2K-surrogaattiandroidi (SX2K)</ATPP_CreateSX2K.label>
+	<ATPP_CreateSX2K.description>Luo tyhjä miespuolinen SX2K-androidi plastiteräksestä ja komponenteista.</ATPP_CreateSX2K.description>
+	<ATPP_CreateSX2K.jobString>Valmistaa SX2K-androidia.</ATPP_CreateSX2K.jobString>
+	<ATPP_CreateSX2KFemale.label>Luo naispuolinen TX2K-surrogaattiandroidi (SX2K)</ATPP_CreateSX2KFemale.label>
+	<ATPP_CreateSX2KFemale.description>Luo tyhjä naispuolinen SX2K-androidi plastiteräksestä ja komponenteista.</ATPP_CreateSX2KFemale.description>
+	<ATPP_CreateSX2KFemale.jobString>Valmistaa SX2K-androidia.</ATPP_CreateSX2KFemale.jobString>
+	<ATPP_CreateSX2KI.label>Luo TX2KI-surrogaattiandroidi (SX2KI)</ATPP_CreateSX2KI.label>
+	<ATPP_CreateSX2KI.description>Luo tyhjä SX2KI-androidi plastiteräksestä ja komponenteista.</ATPP_CreateSX2KI.description>
+	<ATPP_CreateSX2KI.jobString>Valmistaa SX2KI-androidia.</ATPP_CreateSX2KI.jobString>
+	<ATPP_CreateSX2KIFemale.label>Luo naispuolinen TX2KI-surrogaattiandroidi (SX2KI)</ATPP_CreateSX2KIFemale.label>
+	<ATPP_CreateSX2KIFemale.description>Luo tyhjä naispuolinen SX2KI-androidi plastiteräksestä ja komponenteista.</ATPP_CreateSX2KIFemale.description>
+	<ATPP_CreateSX2KIFemale.jobString>Valmistaa naispuolista SX2KI-androidia.</ATPP_CreateSX2KIFemale.jobString>
+	<ATPP_CreateSX3I.label>Luo miespuolinen TX3I-surrogaattiandroidi (SX3I)</ATPP_CreateSX3I.label>
+	<ATPP_CreateSX3I.description>Luo tyhjä miespuolinen SX3I-androidi plastiteräksestä ja komponenteista.</ATPP_CreateSX3I.description>
+	<ATPP_CreateSX3I.jobString>Valmistaa SX3I-androidia.</ATPP_CreateSX3I.jobString>
+	<ATPP_CreateSX3IFemale.label>Luo naispuolinen TX3I-surrogaattiandroidi (SX3I)</ATPP_CreateSX3IFemale.label>
+	<ATPP_CreateSX3IFemale.description>Luo tyhjä naispuolinen SX3I-androidi plastiteräksestä ja komponenteista.</ATPP_CreateSX3IFemale.description>
+	<ATPP_CreateSX3IFemale.jobString>Valmistaa SX3I-androidia.</ATPP_CreateSX3IFemale.jobString>
+	<ATPP_CreateSX4I.label>Luo TX4I-surrogaattiandroidi (SX4I)</ATPP_CreateSX4I.label>
+	<ATPP_CreateSX4I.description>Luo tyhjä SX4I-androidi plastiteräksestä ja komponenteista.</ATPP_CreateSX4I.description>
+	<ATPP_CreateSX4I.jobString>Valmistaa SX4I-androidia.</ATPP_CreateSX4I.jobString>
+	<ATPP_CreateSX4IFemale.label>Luo naispuolinen TX4I-surrogaattiandroidi (SX4I)</ATPP_CreateSX4IFemale.label>
+	<ATPP_CreateSX4IFemale.description>Luo tyhjä naispuolinen SX4I-androidi plastiteräksestä ja komponenteista.</ATPP_CreateSX4IFemale.description>
+	<ATPP_CreateSX4IFemale.jobString>Valmistaa SX4I-androidia.</ATPP_CreateSX4IFemale.jobString>
+	<ATPP_CreateTX4Android.label>Luo miespuolinen TX4-androidi</ATPP_CreateTX4Android.label>
+	<ATPP_CreateTX4Android.description>Luo miespuolinen TX4-androidi</ATPP_CreateTX4Android.description>
+	<ATPP_CreateTX4Android.jobString>Luo TX4-androidia</ATPP_CreateTX4Android.jobString>
+	<ATPP_CreateTX4FemaleAndroid.label>Luo naispuolinen TX4-androidi</ATPP_CreateTX4FemaleAndroid.label>
+	<ATPP_CreateTX4FemaleAndroid.description>Luo naispuolinen TX4-androidi</ATPP_CreateTX4FemaleAndroid.description>
+	<ATPP_CreateTX4FemaleAndroid.jobString>Luo TX4-androidia</ATPP_CreateTX4FemaleAndroid.jobString>
+	<ATPP_CreateTX3Android.label>Luo miespuolinen TX3-androidi</ATPP_CreateTX3Android.label>
+	<ATPP_CreateTX3Android.description>Luo miespuolinen TX3-androidi</ATPP_CreateTX3Android.description>
+	<ATPP_CreateTX3Android.jobString>Luo TX3-androidia</ATPP_CreateTX3Android.jobString>
+	<ATPP_CreateTX3FemaleAndroid.label>Luo naispuolinen TX3-androidi</ATPP_CreateTX3FemaleAndroid.label>
+	<ATPP_CreateTX3FemaleAndroid.description>Luo naispuolinen TX3-androidi</ATPP_CreateTX3FemaleAndroid.description>
+	<ATPP_CreateTX3FemaleAndroid.jobString>Luo TX3-androidia</ATPP_CreateTX3FemaleAndroid.jobString>
+	<ATPP_CreateTX2Android.label>Luo miespuolinen TX2-androidi</ATPP_CreateTX2Android.label>
+	<ATPP_CreateTX2Android.description>Luo miespuolinen TX2-androidi</ATPP_CreateTX2Android.description>
+	<ATPP_CreateTX2Android.jobString>Luo TX2-androidia</ATPP_CreateTX2Android.jobString>
+	<ATPP_CreateTX2FemaleAndroid.label>Luo naispuolinen TX2-androidi</ATPP_CreateTX2FemaleAndroid.label>
+	<ATPP_CreateTX2FemaleAndroid.description>Luo naispuolinen TX2-androidi</ATPP_CreateTX2FemaleAndroid.description>
+	<ATPP_CreateTX2FemaleAndroid.jobString>Luo TX2-androidia</ATPP_CreateTX2FemaleAndroid.jobString>
+	<ATPP_CreateTX4IAndroid.label>Luo miespuolinen TX4I-androidi</ATPP_CreateTX4IAndroid.label>
+	<ATPP_CreateTX4IAndroid.description>Luo miespuolinen TX4I-androidi</ATPP_CreateTX4IAndroid.description>
+	<ATPP_CreateTX4IAndroid.jobString>Luo TX4I-androidia</ATPP_CreateTX4IAndroid.jobString>
+	<ATPP_CreateTX4IFemaleAndroid.label>Luo naispuolinen TX4I-androidi</ATPP_CreateTX4IFemaleAndroid.label>
+	<ATPP_CreateTX4IFemaleAndroid.description>Luo naispuolinen TX4I-androidi</ATPP_CreateTX4IFemaleAndroid.description>
+	<ATPP_CreateTX4IFemaleAndroid.jobString>Luo TX4I-androidia</ATPP_CreateTX4IFemaleAndroid.jobString>
+	<ATPP_CreateTX3IAndroid.label>Luo miespuolinen TX3I-androidi</ATPP_CreateTX3IAndroid.label>
+	<ATPP_CreateTX3IAndroid.description>Luo miespuolinen TX3I-androidi</ATPP_CreateTX3IAndroid.description>
+	<ATPP_CreateTX3IAndroid.jobString>Luo TX3I-androidia</ATPP_CreateTX3IAndroid.jobString>
+	<ATPP_CreateTX3IFemaleAndroid.label>Luo naispuolinen TX3I-androidi</ATPP_CreateTX3IFemaleAndroid.label>
+	<ATPP_CreateTX3IFemaleAndroid.description>Luo naispuolinen TX3I-androidi</ATPP_CreateTX3IFemaleAndroid.description>
+	<ATPP_CreateTX3IFemaleAndroid.jobString>Luo TX3I-androidia</ATPP_CreateTX3IFemaleAndroid.jobString>
+	<ATPP_CreateTX2IAndroid.label>Luo miespuolinen TX2I-androidi</ATPP_CreateTX2IAndroid.label>
+	<ATPP_CreateTX2IAndroid.description>Luo miespuolinen TX2I-androidi</ATPP_CreateTX2IAndroid.description>
+	<ATPP_CreateTX2IAndroid.jobString>Luo TX2I-androidia</ATPP_CreateTX2IAndroid.jobString>
+	<ATPP_CreateTX2IFemaleAndroid.label>Luo naispuolinen TX2I-androidi</ATPP_CreateTX2IFemaleAndroid.label>
+	<ATPP_CreateTX2IFemaleAndroid.description>Luo naispuolinen TX2I-androidi</ATPP_CreateTX2IFemaleAndroid.description>
+	<ATPP_CreateTX2IFemaleAndroid.jobString>Luo TX2I-androidia</ATPP_CreateTX2IFemaleAndroid.jobString>
+	<ATPP_CreateTX2KAndroid.label>Luo miespuolinen TX2K-androidi</ATPP_CreateTX2KAndroid.label>
+	<ATPP_CreateTX2KAndroid.description>Luo miespuolinen TX2K-androidi</ATPP_CreateTX2KAndroid.description>
+	<ATPP_CreateTX2KAndroid.jobString>Luo TX2K-androidia</ATPP_CreateTX2KAndroid.jobString>
+	<ATPP_CreateTX2KFemaleAndroid.label>Luo naispuolinen TX2K-androidi</ATPP_CreateTX2KFemaleAndroid.label>
+	<ATPP_CreateTX2KFemaleAndroid.description>Luo naispuolinen TX2K-androidi</ATPP_CreateTX2KFemaleAndroid.description>
+	<ATPP_CreateTX2KFemaleAndroid.jobString>Luo TX2K-androidia</ATPP_CreateTX2KFemaleAndroid.jobString>
+	<ATPP_CreateTX2KIAndroid.label>Luo TX2KI-androidi</ATPP_CreateTX2KIAndroid.label>
+	<ATPP_CreateTX2KIAndroid.description>Luo TX2KI-androidi</ATPP_CreateTX2KIAndroid.description>
+	<ATPP_CreateTX2KIAndroid.jobString>Luo TX2KI-androidia</ATPP_CreateTX2KIAndroid.jobString>
+	<ATPP_CreateTX2KIFemaleAndroid.label>Luo naispuolinen TX2KI-androidi</ATPP_CreateTX2KIFemaleAndroid.label>
+	<ATPP_CreateTX2KIFemaleAndroid.description>Luo naispuolinen TX2KI-androidi</ATPP_CreateTX2KIFemaleAndroid.description>
+	<ATPP_CreateTX2KIFemaleAndroid.jobString>Luo TX2KI-androidia</ATPP_CreateTX2KIFemaleAndroid.jobString>
+	<ATPP_MakeSyntheticSkinGland.label>syntetisoi ihorauhanen</ATPP_MakeSyntheticSkinGland.label>
+	<ATPP_MakeSyntheticSkinGland.description>Syntetisoi keinotekoinen ihorauhanen käyttäen hiilivety-kemopolttoainetta, neutroamiini-säilöntäliuosta, lääkkeitä ja kudottuja tekstiilitukirakenteita.</ATPP_MakeSyntheticSkinGland.description>
+	<ATPP_MakeSyntheticSkinGland.jobString>Syntetisoi ihorauhasta.</ATPP_MakeSyntheticSkinGland.jobString>
+	<ATPP_GestateSyntheticSkinGland_Biotech.label>kypsytä synteettinen ihorauhanen</ATPP_GestateSyntheticSkinGland_Biotech.label>
+	<ATPP_GestateSyntheticSkinGland_Biotech.description>Kypsytä elävä synteettinen ihorauhasmatriisi TX-sarjan soluttautujille Androidituotantoaltaassa käyttämällä Biotechin hemogeeniliuosta, soluravinteita ja lääkinnällisiä stabilointiaineita.</ATPP_GestateSyntheticSkinGland_Biotech.description>
+	<ATPP_GestateSyntheticSkinGland_Biotech.jobString>Kypsyttää synteettistä ihorauhasta.</ATPP_GestateSyntheticSkinGland_Biotech.jobString>
+	<ATPP_QE_GrowSyntheticSkinGland.label>kasvata synteettinen ihorauhanen</ATPP_QE_GrowSyntheticSkinGland.label>
+	<ATPP_QE_GrowSyntheticSkinGland.description>Kasvata elävä biosynteettinen ihorauhasmatriisi Questionable Ethics -elinaltaassa käyttämällä orgaanisia ravinteita ja kemiallisia stabilointiaineita.</ATPP_QE_GrowSyntheticSkinGland.description>
+	<ATPP_QE_GrowSyntheticSkinGland.jobString>Kasvattaa synteettistä ihorauhasta.</ATPP_QE_GrowSyntheticSkinGland.jobString>
+	<ATPP_ApplySyntheticSkin.label>istuta synteettinen iho</ATPP_ApplySyntheticSkin.label>
+	<ATPP_ApplySyntheticSkin.description>Istuttaa synteettisen ihomatriisin tähän TX-jalkaväkirunkoon peittäen paljaan mekaanisen sisärungon ihmisenkaltaisella synteettisellä elävällä iholla. Tämä parantaa sosiaalista vastaanottoa ja lämpöeristystä sekä poistaa sateen aiheuttaman ruostumisen suuremman syttyvyyden kustannuksella.</ATPP_ApplySyntheticSkin.description>
+	<ATPP_ApplySyntheticSkin.jobString>Istuttaa synteettistä ihoa androidiin.</ATPP_ApplySyntheticSkin.jobString>
+	<ATPP_RemoveSyntheticSkin.label>poista synteettinen iho</ATPP_RemoveSyntheticSkin.label>
+	<ATPP_RemoveSyntheticSkin.description>Poistaa kirurgisesti synteettisen ihokerroksen tästä TX-soluttautujasta paljastaen sen alla olevan vahvistetun jalkaväkisisärungon. Androidi menettää sosiaalista viehätystä, mutta saa palonkestävyyden ja kestävyyttä taistelukentällä.</ATPP_RemoveSyntheticSkin.description>
+	<ATPP_RemoveSyntheticSkin.jobString>Poistaa synteettistä ihoa androidista.</ATPP_RemoveSyntheticSkin.jobString>
+	<ATPP_QE_CreateTX2KMale.label>kokoa miespuolinen TX2K-runko (QEE-allas)</ATPP_QE_CreateTX2KMale.label>
+	<ATPP_QE_CreateTX2KMale.description>Kokoa toimimaton miespuolinen TX2K-ulkorunko, joka on koodattu genomisekvenssiksi elinaltaassa kypsyttämistä varten.</ATPP_QE_CreateTX2KMale.description>
+	<ATPP_QE_CreateTX2KMale.jobString>Valmistaa androidia</ATPP_QE_CreateTX2KMale.jobString>
+	<ATPP_QE_CreateTX2KFemale.label>kokoa naispuolinen TX2K-runko (QEE-allas)</ATPP_QE_CreateTX2KFemale.label>
+	<ATPP_QE_CreateTX2KFemale.description>Kokoa toimimaton naispuolinen TX2K-ulkorunko, joka on koodattu genomisekvenssiksi elinaltaassa kypsyttämistä varten.</ATPP_QE_CreateTX2KFemale.description>
+	<ATPP_QE_CreateTX2KFemale.jobString>Valmistaa androidia</ATPP_QE_CreateTX2KFemale.jobString>
+	<ATPP_QE_CreateSX2KMaleSurrogate.label>kokoa miespuolinen SX2K-surrogaattirunko (QEE-allas)</ATPP_QE_CreateSX2KMaleSurrogate.label>
+	<ATPP_QE_CreateSX2KMaleSurrogate.description>Kokoa toimimaton miespuolinen TX2K-surrogaatin ulkorunko, joka on koodattu genomisekvenssiksi elinaltaassa kypsyttämistä varten.</ATPP_QE_CreateSX2KMaleSurrogate.description>
+	<ATPP_QE_CreateSX2KMaleSurrogate.jobString>Valmistaa androidia</ATPP_QE_CreateSX2KMaleSurrogate.jobString>
+	<ATPP_QE_CreateSX2KFemaleSurrogate.label>kokoa naispuolinen SX2K-surrogaattirunko (QEE-allas)</ATPP_QE_CreateSX2KFemaleSurrogate.label>
+	<ATPP_QE_CreateSX2KFemaleSurrogate.description>Kokoa toimimaton naispuolinen TX2K-surrogaatin ulkorunko, joka on koodattu genomisekvenssiksi elinaltaassa kypsyttämistä varten.</ATPP_QE_CreateSX2KFemaleSurrogate.description>
+	<ATPP_QE_CreateSX2KFemaleSurrogate.jobString>Valmistaa androidia</ATPP_QE_CreateSX2KFemaleSurrogate.jobString>
+	<ATPP_QE_CreateTX3Male.label>kokoa miespuolinen TX3-runko (QEE-allas)</ATPP_QE_CreateTX3Male.label>
+	<ATPP_QE_CreateTX3Male.description>Kokoa toimimaton miespuolinen TX3-ulkorunko, joka on koodattu genomisekvenssiksi elinaltaassa kypsyttämistä varten.</ATPP_QE_CreateTX3Male.description>
+	<ATPP_QE_CreateTX3Male.jobString>Valmistaa androidia</ATPP_QE_CreateTX3Male.jobString>
+	<ATPP_QE_CreateTX3Female.label>kokoa naispuolinen TX3-runko (QEE-allas)</ATPP_QE_CreateTX3Female.label>
+	<ATPP_QE_CreateTX3Female.description>Kokoa toimimaton naispuolinen TX3-ulkorunko, joka on koodattu genomisekvenssiksi elinaltaassa kypsyttämistä varten.</ATPP_QE_CreateTX3Female.description>
+	<ATPP_QE_CreateTX3Female.jobString>Valmistaa androidia</ATPP_QE_CreateTX3Female.jobString>
+	<ATPP_QE_CreateSX3MaleSurrogate.label>kokoa miespuolinen SX3-surrogaattirunko (QEE-allas)</ATPP_QE_CreateSX3MaleSurrogate.label>
+	<ATPP_QE_CreateSX3MaleSurrogate.description>Kokoa toimimaton miespuolinen TX3-surrogaatin ulkorunko, joka on koodattu genomisekvenssiksi elinaltaassa kypsyttämistä varten.</ATPP_QE_CreateSX3MaleSurrogate.description>
+	<ATPP_QE_CreateSX3MaleSurrogate.jobString>Valmistaa androidia</ATPP_QE_CreateSX3MaleSurrogate.jobString>
+	<ATPP_QE_CreateSX3FemaleSurrogate.label>kokoa naispuolinen SX3-surrogaattirunko (QEE-allas)</ATPP_QE_CreateSX3FemaleSurrogate.label>
+	<ATPP_QE_CreateSX3FemaleSurrogate.description>Kokoa toimimaton naispuolinen TX3-surrogaatin ulkorunko, joka on koodattu genomisekvenssiksi elinaltaassa kypsyttämistä varten.</ATPP_QE_CreateSX3FemaleSurrogate.description>
+	<ATPP_QE_CreateSX3FemaleSurrogate.jobString>Valmistaa androidia</ATPP_QE_CreateSX3FemaleSurrogate.jobString>
+	<ATPP_QE_CreateTX4Male.label>kokoa miespuolinen TX4-runko (QEE-allas)</ATPP_QE_CreateTX4Male.label>
+	<ATPP_QE_CreateTX4Male.description>Kokoa toimimaton miespuolinen TX4-ulkorunko, joka on koodattu genomisekvenssiksi elinaltaassa kypsyttämistä varten.</ATPP_QE_CreateTX4Male.description>
+	<ATPP_QE_CreateTX4Male.jobString>Valmistaa androidia</ATPP_QE_CreateTX4Male.jobString>
+	<ATPP_QE_CreateTX4Female.label>kokoa naispuolinen TX4-runko (QEE-allas)</ATPP_QE_CreateTX4Female.label>
+	<ATPP_QE_CreateTX4Female.description>Kokoa toimimaton naispuolinen TX4-ulkorunko, joka on koodattu genomisekvenssiksi elinaltaassa kypsyttämistä varten.</ATPP_QE_CreateTX4Female.description>
+	<ATPP_QE_CreateTX4Female.jobString>Valmistaa androidia</ATPP_QE_CreateTX4Female.jobString>
+	<ATPP_QE_CreateSX4MaleSurrogate.label>kokoa miespuolinen SX4-surrogaattirunko (QEE-allas)</ATPP_QE_CreateSX4MaleSurrogate.label>
+	<ATPP_QE_CreateSX4MaleSurrogate.description>Kokoa toimimaton miespuolinen TX4-surrogaatin ulkorunko, joka on koodattu genomisekvenssiksi elinaltaassa kypsyttämistä varten.</ATPP_QE_CreateSX4MaleSurrogate.description>
+	<ATPP_QE_CreateSX4MaleSurrogate.jobString>Valmistaa androidia</ATPP_QE_CreateSX4MaleSurrogate.jobString>
+	<ATPP_QE_CreateSX4FemaleSurrogate.label>kokoa naispuolinen SX4-surrogaattirunko (QEE-allas)</ATPP_QE_CreateSX4FemaleSurrogate.label>
+	<ATPP_QE_CreateSX4FemaleSurrogate.description>Kokoa toimimaton naispuolinen TX4-surrogaatin ulkorunko, joka on koodattu genomisekvenssiksi elinaltaassa kypsyttämistä varten.</ATPP_QE_CreateSX4FemaleSurrogate.description>
+	<ATPP_QE_CreateSX4FemaleSurrogate.jobString>Valmistaa androidia</ATPP_QE_CreateSX4FemaleSurrogate.jobString>
+</LanguageData>

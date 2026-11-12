@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_DisassembleAndroid.label>Dezasamblează android mort</ATPP_DisassembleAndroid.label>
+  <ATPP_DisassembleAndroid.description>Dezasamblează un android mort în părțile sale componente.</ATPP_DisassembleAndroid.description>
+  <ATPP_DisassembleAndroid.jobString>Dezasamblează androidul.</ATPP_DisassembleAndroid.jobString>
+  <ATPP_Make_NanitesHydraulicSerum.label>Fabrică o doză de nanite (hidraulic)</ATPP_Make_NanitesHydraulicSerum.label>
+  <ATPP_Make_NanitesHydraulicSerum.description>Fabrică ser de nanite pentru sistemul hidraulic al androizilor, permițând repararea problemelor de bătrânețe.</ATPP_Make_NanitesHydraulicSerum.description>
+  <ATPP_Make_NanitesHydraulicSerum.jobString>Fabrică ser de nanite pentru androizi.</ATPP_Make_NanitesHydraulicSerum.jobString>
+  <ATPP_Make_NanitesCPUSerum.label>Fabrică o doză de nanite (procesor)</ATPP_Make_NanitesCPUSerum.label>
+  <ATPP_Make_NanitesCPUSerum.description>Fabrică ser de nanite pentru procesorul androizilor, permițând repararea problemelor de bătrânețe.</ATPP_Make_NanitesCPUSerum.description>
+  <ATPP_Make_NanitesCPUSerum.jobString>Fabrică ser de nanite pentru androizi.</ATPP_Make_NanitesCPUSerum.jobString>
+  <ATPP_Make_NanitesCoolingSerum.label>Fabrică o doză de nanite (răcire)</ATPP_Make_NanitesCoolingSerum.label>
+  <ATPP_Make_NanitesCoolingSerum.description>Fabrică ser de nanite pentru sistemul de răcire al androizilor, permițând repararea problemelor de bătrânețe.</ATPP_Make_NanitesCoolingSerum.description>
+  <ATPP_Make_NanitesCoolingSerum.jobString>Fabrică ser de nanite pentru androizi.</ATPP_Make_NanitesCoolingSerum.jobString>
+  <ATPP_Make_NanitesFrameSerum.label>Fabrică o doză de nanite (structură)</ATPP_Make_NanitesFrameSerum.label>
+  <ATPP_Make_NanitesFrameSerum.description>Fabrică ser de nanite pentru structura androizilor, permițând repararea endoscheletului (probleme de bătrânețe).</ATPP_Make_NanitesFrameSerum.description>
+  <ATPP_Make_NanitesFrameSerum.jobString>Fabrică ser de nanite pentru androizi.</ATPP_Make_NanitesFrameSerum.jobString>
+  <ATPP_Make_RXChip.label>Fabrică un cip neural RX</ATPP_Make_RXChip.label>
+  <ATPP_Make_RXChip.description>Un cip neural care acționează ca un releu SkyMind personal.</ATPP_Make_RXChip.description>
+  <ATPP_Make_RXChip.jobString>Fabrică cip neural RX.</ATPP_Make_RXChip.jobString>
+  <ATPP_Make_VX0Chip.label>Fabrică un cip neural VX0</ATPP_Make_VX0Chip.label>
+  <ATPP_Make_VX0Chip.description>Fabrică un cip VX0, un cip neural care transformă gazda într-un surogat biologic.</ATPP_Make_VX0Chip.description>
+  <ATPP_Make_VX0Chip.jobString>Fabrică cip neural VX0.</ATPP_Make_VX0Chip.jobString>
+  <ATPP_Make_VX1Chip.label>Fabrică un cip neural VX1</ATPP_Make_VX1Chip.label>
+  <ATPP_Make_VX1Chip.description>Fabrică un cip VX1, care permite gazdei să controleze de la distanță orice android din seria SX sau surogat biologic.</ATPP_Make_VX1Chip.description>
+  <ATPP_Make_VX1Chip.jobString>Fabrică cip neural VX1.</ATPP_Make_VX1Chip.jobString>
+  <ATPP_Make_VX2Chip.label>Fabrică un cip neural VX2</ATPP_Make_VX2Chip.label>
+  <ATPP_Make_VX2Chip.description>Fabrică un cip VX2, care permite gazdei să controleze de la distanță orice android din seria SX sau surogat biologic și să își duplice/permute mintea.</ATPP_Make_VX2Chip.description>
+  <ATPP_Make_VX2Chip.jobString>Fabrică cip neural VX2.</ATPP_Make_VX2Chip.jobString>
+  <ATPP_Make_VX3Chip.label>Fabrică un cip neural VX3</ATPP_Make_VX3Chip.label>
+  <ATPP_Make_VX3Chip.description>Fabrică un cip VX3, care permite gazdei să controleze de la distanță mai mulți androizi din seria SX sau surogați biologici simultan și să își duplice/permute mintea.</ATPP_Make_VX3Chip.description>
+  <ATPP_Make_VX3Chip.jobString>Fabrică cip neural VX3.</ATPP_Make_VX3Chip.jobString>
+  <ATPP_InstallVX2Chip.label>Instalează un cip neural VX2</ATPP_InstallVX2Chip.label>
+  <ATPP_InstallVX2Chip.description>Instalează un cip neural VX2, care permite gazdei să controleze de la distanță orice android din seria SX sau surogat biologic și să își duplice/permute mintea.</ATPP_InstallVX2Chip.description>
+  <ATPP_InstallVX2Chip.jobString>Instalează un cip neural VX2.</ATPP_InstallVX2Chip.jobString>
+  <ATPP_InstallVX2ChipOnAndroid.label>Instalează un cip neural VX2 pentru android</ATPP_InstallVX2ChipOnAndroid.label>
+  <ATPP_InstallVX2ChipOnAndroid.description>Instalează un cip neural VX2 pentru android, care permite gazdei să controleze de la distanță orice android din seria SX sau surogat biologic și să își duplice/permute mintea.</ATPP_InstallVX2ChipOnAndroid.description>
+  <ATPP_InstallVX2ChipOnAndroid.jobString>Instalează un cip neural VX2 pentru android.</ATPP_InstallVX2ChipOnAndroid.jobString>
+  <ATPP_InstallVX3Chip.label>Instalează un cip neural VX3</ATPP_InstallVX3Chip.label>
+  <ATPP_InstallVX3Chip.description>Instalează un cip neural VX3, care permite gazdei să controleze de la distanță mai mulți androizi din seria SX sau surogați biologici simultan și să își duplice/permute mintea.</ATPP_InstallVX3Chip.description>
+  <ATPP_InstallVX3Chip.jobString>Instalează un cip neural VX3.</ATPP_InstallVX3Chip.jobString>
+  <ATPP_InstallVX3ChipOnAndroid.label>Instalează un cip neural VX3 pentru android</ATPP_InstallVX3ChipOnAndroid.label>
+  <ATPP_InstallVX3ChipOnAndroid.description>Instalează un cip neural VX3 pentru android, care permite gazdei să controleze de la distanță mai mulți androizi din seria SX sau surogați biologici simultan și să își duplice/permute mintea.</ATPP_InstallVX3ChipOnAndroid.description>
+  <ATPP_InstallVX3ChipOnAndroid.jobString>Instalează un cip neural VX3 pentru android.</ATPP_InstallVX3ChipOnAndroid.jobString>
+  <ATPP_InstallRXChip.label>Instalează un cip neural RX</ATPP_InstallRXChip.label>
+  <ATPP_InstallRXChip.description>Instalează un cip neural RX, un cip care acționează ca un releu SkyMind personal pentru gazda sa.</ATPP_InstallRXChip.description>
+  <ATPP_InstallRXChip.jobString>Instalează un cip neural RX.</ATPP_InstallRXChip.jobString>
+  <ATPP_InstallRXChipOnAndroid.label>Instalează un cip neural RX</ATPP_InstallRXChipOnAndroid.label>
+  <ATPP_InstallRXChipOnAndroid.description>Instalează un cip neural RX, un cip care acționează ca un releu SkyMind personal pentru gazda sa.</ATPP_InstallRXChipOnAndroid.description>
+  <ATPP_InstallRXChipOnAndroid.jobString>Instalează un cip neural RX.</ATPP_InstallRXChipOnAndroid.jobString>
+  <ATPP_InstallVX0ChipOnAndroid.label>Instalează un cip neural VX0 pentru android</ATPP_InstallVX0ChipOnAndroid.label>
+  <ATPP_InstallVX0ChipOnAndroid.description>Instalează un cip neural VX0 pentru android, un cip neural care transformă gazda într-un surogat biologic.</ATPP_InstallVX0ChipOnAndroid.description>
+  <ATPP_InstallVX0ChipOnAndroid.jobString>Instalează un cip neural VX0 pentru android.</ATPP_InstallVX0ChipOnAndroid.jobString>
+  <ATPP_InstallVX0Chip.label>Instalează un cip neural VX0</ATPP_InstallVX0Chip.label>
+  <ATPP_InstallVX0Chip.description>Instalează un cip neural VX0, un cip neural care transformă gazda într-un surogat biologic.</ATPP_InstallVX0Chip.description>
+  <ATPP_InstallVX0Chip.jobString>Instalează un cip neural VX0.</ATPP_InstallVX0Chip.jobString>
+  <ATPP_InstallVX1Chip.label>Instalează un cip neural VX1</ATPP_InstallVX1Chip.label>
+  <ATPP_InstallVX1Chip.description>Instalează un cip neural VX1, care permite gazdei să controleze de la distanță orice android din seria SX sau surogat biologic.</ATPP_InstallVX1Chip.description>
+  <ATPP_InstallVX1Chip.jobString>Instalează un cip neural VX1.</ATPP_InstallVX1Chip.jobString>
+  <ATPP_InstallVX1ChipOnAndroid.label>Instalează un cip neural VX1 pentru android</ATPP_InstallVX1ChipOnAndroid.label>
+  <ATPP_InstallVX1ChipOnAndroid.description>Instalează un cip neural VX1 pentru android, care permite gazdei să controleze de la distanță orice android din seria SX sau surogat biologic.</ATPP_InstallVX1ChipOnAndroid.description>
+  <ATPP_InstallVX1ChipOnAndroid.jobString>Instalează un cip neural VX1 pentru android.</ATPP_InstallVX1ChipOnAndroid.jobString>
+  <ATPP_CreateS1.label>Creează android surogat T1 (S1)</ATPP_CreateS1.label>
+  <ATPP_CreateS1.description>Creează un android S1 cu rețea neurală goală din plastoțel și componente.</ATPP_CreateS1.description>
+  <ATPP_CreateS1.jobString>Fabrică un android S1.</ATPP_CreateS1.jobString>
+  <ATPP_CreateS2.label>Creează android surogat T2 (S2)</ATPP_CreateS2.label>
+  <ATPP_CreateS2.description>Creează un android S2 cu rețea neurală goală din plastoțel și componente.</ATPP_CreateS2.description>
+  <ATPP_CreateS2.jobString>Fabrică un android S2.</ATPP_CreateS2.jobString>
+  <ATPP_CreateS3.label>Creează android surogat T3 (S3)</ATPP_CreateS3.label>
+  <ATPP_CreateS3.description>Creează un android S3 cu rețea neurală goală din plastoțel și componente.</ATPP_CreateS3.description>
+  <ATPP_CreateS3.jobString>Fabrică un android S3.</ATPP_CreateS3.jobString>
+  <ATPP_CreateS4.label>Creează android surogat T4 (S4)</ATPP_CreateS4.label>
+  <ATPP_CreateS4.description>Creează un android S4 cu rețea neurală goală din plastoțel și componente.</ATPP_CreateS4.description>
+  <ATPP_CreateS4.jobString>Fabrică un android S4.</ATPP_CreateS4.jobString>
+  <ATPP_CreateHellDrone.label>Creează android surogat HellUnit (S-HU)</ATPP_CreateHellDrone.label>
+  <ATPP_CreateHellDrone.description>Creează un android S-HU cu rețea neurală goală din plastoțel și componente.</ATPP_CreateHellDrone.description>
+  <ATPP_CreateHellDrone.jobString>Fabrică un android S-HU.</ATPP_CreateHellDrone.jobString>
+  <ATPP_CreateM7.label>Creează mecanoid surogat M7 (SM7)</ATPP_CreateM7.label>
+  <ATPP_CreateM7.description>Creează un mecanoid SM7 cu rețea neurală goală din plastoțel și componente.</ATPP_CreateM7.description>
+  <ATPP_CreateM7.jobString>Fabrică un mecanoid SM7.</ATPP_CreateM7.jobString>
+  <ATPP_CreateBlankT3.label>Creează android T3 cu rețea neurală goală</ATPP_CreateBlankT3.label>
+  <ATPP_CreateBlankT3.description>Creează android T3 cu rețea neurală goală</ATPP_CreateBlankT3.description>
+  <ATPP_CreateBlankT3.jobString>Creează un android T3 cu rețea neurală goală</ATPP_CreateBlankT3.jobString>
+  <ATPP_CreateBlankT4.label>Creează android T4 cu rețea neurală goală</ATPP_CreateBlankT4.label>
+  <ATPP_CreateBlankT4.description>Creează android T4 cu rețea neurală goală</ATPP_CreateBlankT4.description>
+  <ATPP_CreateBlankT4.jobString>Creează un android T4 cu rețea neurală goală</ATPP_CreateBlankT4.jobString>
+  <ATPP_Make_SM7Mech40MMCannon.label>Fabrică un tun de 40mm (armă SM7)</ATPP_Make_SM7Mech40MMCannon.label>
+  <ATPP_Make_SM7Mech40MMCannon.description>Fabrică un tun de 40mm (armă SM7)</ATPP_Make_SM7Mech40MMCannon.description>
+  <ATPP_Make_SM7Mech40MMCannon.jobString>Fabrică un tun de 40mm (armă SM7)</ATPP_Make_SM7Mech40MMCannon.jobString>
+  <ATPP_Make_SM7MechMastiffGun.label>Fabrică o pușcă Mastiff (armă SM7)</ATPP_Make_SM7MechMastiffGun.label>
+  <ATPP_Make_SM7MechMastiffGun.description>Fabrică o pușcă Mastiff (armă SM7)</ATPP_Make_SM7MechMastiffGun.description>
+  <ATPP_Make_SM7MechMastiffGun.jobString>Fabrică o pușcă Mastiff (armă SM7)</ATPP_Make_SM7MechMastiffGun.jobString>
+  <ATPP_Make_SM7MechHandCannon.label>Fabrică un pistol greu X-5 (armă SM7)</ATPP_Make_SM7MechHandCannon.label>
+  <ATPP_Make_SM7MechHandCannon.description>Fabrică un pistol greu X-5 (armă SM7)</ATPP_Make_SM7MechHandCannon.description>
+  <ATPP_Make_SM7MechHandCannon.jobString>Fabrică un pistol greu X-5 (armă SM7)</ATPP_Make_SM7MechHandCannon.jobString>
+  <ATPP_PaintAndroidFrameworkKhaki.label>Vopsește cadrul androidului în kaki</ATPP_PaintAndroidFrameworkKhaki.label>
+  <ATPP_PaintAndroidFrameworkKhaki.description>Vopsește cadrul androidului în kaki</ATPP_PaintAndroidFrameworkKhaki.description>
+  <ATPP_PaintAndroidFrameworkKhaki.jobString>Vopsește cadrul androidului în kaki</ATPP_PaintAndroidFrameworkKhaki.jobString>
+  <ATPP_PaintAndroidFrameworkGreen.label>Vopsește cadrul androidului în verde</ATPP_PaintAndroidFrameworkGreen.label>
+  <ATPP_PaintAndroidFrameworkGreen.description>Vopsește cadrul androidului în verde</ATPP_PaintAndroidFrameworkGreen.description>
+  <ATPP_PaintAndroidFrameworkGreen.jobString>Vopsește cadrul androidului în verde</ATPP_PaintAndroidFrameworkGreen.jobString>
+  <ATPP_PaintAndroidFrameworkBlue.label>Vopsește cadrul androidului în albastru</ATPP_PaintAndroidFrameworkBlue.label>
+  <ATPP_PaintAndroidFrameworkBlue.description>Vopsește cadrul androidului în albastru</ATPP_PaintAndroidFrameworkBlue.description>
+  <ATPP_PaintAndroidFrameworkBlue.jobString>Vopsește cadrul androidului în albastru</ATPP_PaintAndroidFrameworkBlue.jobString>
+  <ATPP_PaintAndroidFrameworkRed.label>Vopsește cadrul androidului în roșu</ATPP_PaintAndroidFrameworkRed.label>
+  <ATPP_PaintAndroidFrameworkRed.description>Vopsește cadrul androidului în roșu</ATPP_PaintAndroidFrameworkRed.description>
+  <ATPP_PaintAndroidFrameworkRed.jobString>Vopsește cadrul androidului în roșu</ATPP_PaintAndroidFrameworkRed.jobString>
+  <ATPP_PaintAndroidFrameworkYellow.label>Vopsește cadrul androidului în galben</ATPP_PaintAndroidFrameworkYellow.label>
+  <ATPP_PaintAndroidFrameworkYellow.description>Vopsește cadrul androidului în galben</ATPP_PaintAndroidFrameworkYellow.description>
+  <ATPP_PaintAndroidFrameworkYellow.jobString>Vopsește cadrul androidului în galben</ATPP_PaintAndroidFrameworkYellow.jobString>
+  <ATPP_PaintAndroidFrameworkOrange.label>Vopsește cadrul androidului în portocaliu</ATPP_PaintAndroidFrameworkOrange.label>
+  <ATPP_PaintAndroidFrameworkOrange.description>Vopsește cadrul androidului în portocaliu</ATPP_PaintAndroidFrameworkOrange.description>
+  <ATPP_PaintAndroidFrameworkOrange.jobString>Vopsește cadrul androidului în portocaliu</ATPP_PaintAndroidFrameworkOrange.jobString>
+  <ATPP_PaintAndroidFrameworkBlack.label>Vopsește cadrul androidului în negru</ATPP_PaintAndroidFrameworkBlack.label>
+  <ATPP_PaintAndroidFrameworkBlack.description>Vopsește cadrul androidului în negru</ATPP_PaintAndroidFrameworkBlack.description>
+  <ATPP_PaintAndroidFrameworkBlack.jobString>Vopsește cadrul androidului în negru</ATPP_PaintAndroidFrameworkBlack.jobString>
+  <ATPP_PaintAndroidFrameworkWhite.label>Vopsește cadrul androidului în alb</ATPP_PaintAndroidFrameworkWhite.label>
+  <ATPP_PaintAndroidFrameworkWhite.description>Vopsește cadrul androidului în alb</ATPP_PaintAndroidFrameworkWhite.description>
+  <ATPP_PaintAndroidFrameworkWhite.jobString>Vopsește cadrul androidului în alb</ATPP_PaintAndroidFrameworkWhite.jobString>
+  <ATPP_PaintAndroidFrameworkGray.label>Vopsește cadrul androidului în gri</ATPP_PaintAndroidFrameworkGray.label>
+  <ATPP_PaintAndroidFrameworkGray.description>Vopsește cadrul androidului în gri</ATPP_PaintAndroidFrameworkGray.description>
+  <ATPP_PaintAndroidFrameworkGray.jobString>Vopsește cadrul androidului în gri</ATPP_PaintAndroidFrameworkGray.jobString>
+  <ATPP_PaintAndroidFrameworkPurple.label>Vopsește cadrul androidului în mov</ATPP_PaintAndroidFrameworkPurple.label>
+  <ATPP_PaintAndroidFrameworkPurple.description>Vopsește cadrul androidului în mov</ATPP_PaintAndroidFrameworkPurple.description>
+  <ATPP_PaintAndroidFrameworkPurple.jobString>Vopsește cadrul androidului în mov</ATPP_PaintAndroidFrameworkPurple.jobString>
+  <ATPP_PaintAndroidFrameworkPink.label>Vopsește cadrul androidului în roz</ATPP_PaintAndroidFrameworkPink.label>
+  <ATPP_PaintAndroidFrameworkPink.description>Vopsește cadrul androidului în roz</ATPP_PaintAndroidFrameworkPink.description>
+  <ATPP_PaintAndroidFrameworkPink.jobString>Vopsește cadrul androidului în roz</ATPP_PaintAndroidFrameworkPink.jobString>
+  <ATPP_PaintAndroidFrameworkCyan.label>Vopsește cadrul androidului în cyan</ATPP_PaintAndroidFrameworkCyan.label>
+  <ATPP_PaintAndroidFrameworkCyan.description>Vopsește cadrul androidului în cyan</ATPP_PaintAndroidFrameworkCyan.description>
+  <ATPP_PaintAndroidFrameworkCyan.jobString>Vopsește cadrul androidului în cyan</ATPP_PaintAndroidFrameworkCyan.jobString>
+  <ATPP_PaintAndroidFrameworkDefault.label>Vopsește cadrul androidului în culoarea implicită</ATPP_PaintAndroidFrameworkDefault.label>
+  <ATPP_PaintAndroidFrameworkDefault.description>Vopsește cadrul androidului în culoarea implicită</ATPP_PaintAndroidFrameworkDefault.description>
+  <ATPP_PaintAndroidFrameworkDefault.jobString>Vopsește cadrul androidului în culoarea implicită</ATPP_PaintAndroidFrameworkDefault.jobString>
+  <ATPP_ApplyHydraulicNaniteBank.label>Administrează o bancă de nanite hidraulice</ATPP_ApplyHydraulicNaniteBank.label>
+  <ATPP_ApplyHydraulicNaniteBank.description>Administrează o doză de unică folosință de nanite calibrate pentru a repara sistemele hidraulice defecte ale androizilor.</ATPP_ApplyHydraulicNaniteBank.description>
+  <ATPP_ApplyHydraulicNaniteBank.jobString>Repară problemele de bătrânețe ale androidului cu un ser de nanite</ATPP_ApplyHydraulicNaniteBank.jobString>
+  <ATPP_ApplyHealFrameworkSystem.label>Administrează o bancă de nanite pentru structură</ATPP_ApplyHealFrameworkSystem.label>
+  <ATPP_ApplyHealFrameworkSystem.description>Administrează o bancă de unică folosință de nanite calibrate pentru a repara endoscheletul defect al androizilor.</ATPP_ApplyHealFrameworkSystem.description>
+  <ATPP_ApplyHealFrameworkSystem.jobString>Repară problemele de bătrânețe ale androidului cu un ser de nanite</ATPP_ApplyHealFrameworkSystem.jobString>
+  <ATPP_ApplyHealCoolingSystem.label>Administrează o bancă de nanite pentru răcire</ATPP_ApplyHealCoolingSystem.label>
+  <ATPP_ApplyHealCoolingSystem.description>Administrează o bancă de unică folosință de nanite calibrate pentru a repara sistemul de răcire defect al androizilor în caz de supraîncălzire.</ATPP_ApplyHealCoolingSystem.description>
+  <ATPP_ApplyHealCoolingSystem.jobString>Repară problemele de bătrânețe ale androidului cu un ser de nanite</ATPP_ApplyHealCoolingSystem.jobString>
+  <ATPP_ApplyHealCPUSerum.label>Administrează o bancă de nanite pentru procesor</ATPP_ApplyHealCPUSerum.label>
+  <ATPP_ApplyHealCPUSerum.description>Administrează o bancă de unică folosință de nanite calibrate pentru a repara creierul artificial defect al androizilor.</ATPP_ApplyHealCPUSerum.description>
+  <ATPP_ApplyHealCPUSerum.jobString>Repară problemele de bătrânețe ale androidului cu un ser de nanite</ATPP_ApplyHealCPUSerum.jobString>
+  <ATPP_Make_T1ArtificialBrain.label>Fabrică un creier artificial T1</ATPP_Make_T1ArtificialBrain.label>
+  <ATPP_Make_T1ArtificialBrain.description>Fabrică un creier artificial T1 pentru a transforma un surogat într-un android cu rețea neurală goală.</ATPP_Make_T1ArtificialBrain.description>
+  <ATPP_Make_T1ArtificialBrain.jobString>Fabrică un creier artificial T1.</ATPP_Make_T1ArtificialBrain.jobString>
+  <ATPP_Make_T2ArtificialBrain.label>Fabrică un creier artificial T2</ATPP_Make_T2ArtificialBrain.label>
+  <ATPP_Make_T2ArtificialBrain.description>Fabrică un creier artificial T2 pentru a transforma un surogat într-un android cu rețea neurală goală.</ATPP_Make_T2ArtificialBrain.description>
+  <ATPP_Make_T2ArtificialBrain.jobString>Fabrică un creier artificial T2.</ATPP_Make_T2ArtificialBrain.jobString>
+  <ATPP_Make_T3ArtificialBrain.label>Fabrică un creier artificial T3</ATPP_Make_T3ArtificialBrain.label>
+  <ATPP_Make_T3ArtificialBrain.description>Fabrică un creier artificial T3 pentru a transforma un surogat într-un android cu rețea neurală goală.</ATPP_Make_T3ArtificialBrain.description>
+  <ATPP_Make_T3ArtificialBrain.jobString>Fabrică un creier artificial T3.</ATPP_Make_T3ArtificialBrain.jobString>
+  <ATPP_Make_T4ArtificialBrain.label>Fabrică un creier artificial T4</ATPP_Make_T4ArtificialBrain.label>
+  <ATPP_Make_T4ArtificialBrain.description>Fabrică un creier artificial T4 pentru a transforma un surogat într-un android cu rețea neurală goală.</ATPP_Make_T4ArtificialBrain.description>
+  <ATPP_Make_T4ArtificialBrain.jobString>Fabrică un creier artificial T4.</ATPP_Make_T4ArtificialBrain.jobString>
+  <ATPP_InstallT1ArtificialBrain.label>Instalează un creier artificial T1</ATPP_InstallT1ArtificialBrain.label>
+  <ATPP_InstallT1ArtificialBrain.description>Instalează un creier artificial T1, permițând transformarea unui surogat T1 într-un android cu rețea neurală goală</ATPP_InstallT1ArtificialBrain.description>
+  <ATPP_InstallT1ArtificialBrain.jobString>Instalează un creier artificial T1.</ATPP_InstallT1ArtificialBrain.jobString>
+  <ATPP_InstallT2ArtificialBrain.label>Instalează un creier artificial T2</ATPP_InstallT2ArtificialBrain.label>
+  <ATPP_InstallT2ArtificialBrain.description>Instalează un creier artificial T2, permițând transformarea unui surogat T2 într-un android cu rețea neurală goală</ATPP_InstallT2ArtificialBrain.description>
+  <ATPP_InstallT2ArtificialBrain.jobString>Instalează un creier artificial T2.</ATPP_InstallT2ArtificialBrain.jobString>
+  <ATPP_InstallT3ArtificialBrain.label>Instalează un creier artificial T3</ATPP_InstallT3ArtificialBrain.label>
+  <ATPP_InstallT3ArtificialBrain.description>Instalează un creier artificial T3, permițând transformarea unui surogat T3 într-un android cu rețea neurală goală</ATPP_InstallT3ArtificialBrain.description>
+  <ATPP_InstallT3ArtificialBrain.jobString>Instalează un creier artificial T3.</ATPP_InstallT3ArtificialBrain.jobString>
+  <ATPP_InstallT4ArtificialBrain.label>Instalează un creier artificial T4</ATPP_InstallT4ArtificialBrain.label>
+  <ATPP_InstallT4ArtificialBrain.description>Instalează un creier artificial T4, permițând transformarea unui surogat T4 într-un android cu rețea neurală goală</ATPP_InstallT4ArtificialBrain.description>
+  <ATPP_InstallT4ArtificialBrain.jobString>Instalează un creier artificial T4.</ATPP_InstallT4ArtificialBrain.jobString>
+  <ATPP_CreateSX2.label>Creează android surogat TX2 masculin (SX2)</ATPP_CreateSX2.label>
+  <ATPP_CreateSX2.description>Creează un android SX2 masculin cu rețea neurală goală din plastoțel și componente.</ATPP_CreateSX2.description>
+  <ATPP_CreateSX2.jobString>Fabrică un android SX2.</ATPP_CreateSX2.jobString>
+  <ATPP_CreateSX2Female.label>Creează android surogat TX2 feminin (SX2)</ATPP_CreateSX2Female.label>
+  <ATPP_CreateSX2Female.description>Creează un android SX2 feminin cu rețea neurală goală din plastoțel și componente.</ATPP_CreateSX2Female.description>
+  <ATPP_CreateSX2Female.jobString>Fabrică un android SX2.</ATPP_CreateSX2Female.jobString>
+  <ATPP_CreateSX3.label>Creează android surogat TX3 masculin (SX3)</ATPP_CreateSX3.label>
+  <ATPP_CreateSX3.description>Creează un android SX3 masculin cu rețea neurală goală din plastoțel și componente.</ATPP_CreateSX3.description>
+  <ATPP_CreateSX3.jobString>Fabrică un android SX3.</ATPP_CreateSX3.jobString>
+  <ATPP_CreateSX3Female.label>Creează android surogat TX3 feminin (SX3)</ATPP_CreateSX3Female.label>
+  <ATPP_CreateSX3Female.description>Creează un android SX3 feminin cu rețea neurală goală din plastoțel și componente.</ATPP_CreateSX3Female.description>
+  <ATPP_CreateSX3Female.jobString>Fabrică un android SX3.</ATPP_CreateSX3Female.jobString>
+  <ATPP_CreateSX4.label>Creează android surogat TX4 (SX4)</ATPP_CreateSX4.label>
+  <ATPP_CreateSX4.description>Creează un android SX4 cu rețea neurală goală din plastoțel și componente.</ATPP_CreateSX4.description>
+  <ATPP_CreateSX4.jobString>Fabrică un android SX4.</ATPP_CreateSX4.jobString>
+  <ATPP_CreateSX4Female.label>Creează android surogat TX4 feminin (SX4)</ATPP_CreateSX4Female.label>
+  <ATPP_CreateSX4Female.description>Creează un android SX4 feminin cu rețea neurală goală din plastoțel și componente.</ATPP_CreateSX4Female.description>
+  <ATPP_CreateSX4Female.jobString>Fabrică un android SX4.</ATPP_CreateSX4Female.jobString>
+  <ATPP_CreateSX2I.label>Creează android surogat TX2I masculin (SX2I)</ATPP_CreateSX2I.label>
+  <ATPP_CreateSX2I.description>Creează un android SX2I masculin cu rețea neurală goală din plastoțel și componente.</ATPP_CreateSX2I.description>
+  <ATPP_CreateSX2I.jobString>Fabrică un android SX2I.</ATPP_CreateSX2I.jobString>
+  <ATPP_CreateSX2IFemale.label>Creează android surogat TX2I feminin (SX2I)</ATPP_CreateSX2IFemale.label>
+  <ATPP_CreateSX2IFemale.description>Creează un android SX2I feminin cu rețea neurală goală din plastoțel și componente.</ATPP_CreateSX2IFemale.description>
+  <ATPP_CreateSX2IFemale.jobString>Fabrică un android SX2I.</ATPP_CreateSX2IFemale.jobString>
+  <ATPP_CreateSX2K.label>Creează android surogat TX2K masculin (SX2K)</ATPP_CreateSX2K.label>
+  <ATPP_CreateSX2K.description>Creează un android SX2K masculin cu rețea neurală goală din plastoțel și componente.</ATPP_CreateSX2K.description>
+  <ATPP_CreateSX2K.jobString>Fabrică un android SX2K.</ATPP_CreateSX2K.jobString>
+  <ATPP_CreateSX2KFemale.label>Creează android surogat TX2K feminin (SX2K)</ATPP_CreateSX2KFemale.label>
+  <ATPP_CreateSX2KFemale.description>Creează un android SX2K feminin cu rețea neurală goală din plastoțel și componente.</ATPP_CreateSX2KFemale.description>
+  <ATPP_CreateSX2KFemale.jobString>Fabrică un android SX2K.</ATPP_CreateSX2KFemale.jobString>
+  <ATPP_CreateSX2KI.label>Creează android surogat TX2KI (SX2KI)</ATPP_CreateSX2KI.label>
+  <ATPP_CreateSX2KI.description>Creează un android SX2KI cu rețea neurală goală din plastoțel și componente.</ATPP_CreateSX2KI.description>
+  <ATPP_CreateSX2KI.jobString>Fabrică un android SX2KI.</ATPP_CreateSX2KI.jobString>
+  <ATPP_CreateSX2KIFemale.label>Creează android surogat TX2KI feminin (SX2KI)</ATPP_CreateSX2KIFemale.label>
+  <ATPP_CreateSX2KIFemale.description>Creează un android SX2KI feminin cu rețea neurală goală din plastoțel și componente.</ATPP_CreateSX2KIFemale.description>
+  <ATPP_CreateSX2KIFemale.jobString>Fabrică un android SX2KI feminin.</ATPP_CreateSX2KIFemale.jobString>
+  <ATPP_CreateSX3I.label>Creează android surogat TX3I masculin (SX3I)</ATPP_CreateSX3I.label>
+  <ATPP_CreateSX3I.description>Creează un android SX3I masculin cu rețea neurală goală din plastoțel și componente.</ATPP_CreateSX3I.description>
+  <ATPP_CreateSX3I.jobString>Fabrică un android SX3I.</ATPP_CreateSX3I.jobString>
+  <ATPP_CreateSX3IFemale.label>Creează android surogat TX3I feminin (SX3I)</ATPP_CreateSX3IFemale.label>
+  <ATPP_CreateSX3IFemale.description>Creează un android SX3I feminin cu rețea neurală goală din plastoțel și componente.</ATPP_CreateSX3IFemale.description>
+  <ATPP_CreateSX3IFemale.jobString>Fabrică un android SX3I.</ATPP_CreateSX3IFemale.jobString>
+  <ATPP_CreateSX4I.label>Creează android surogat TX4I (SX4I)</ATPP_CreateSX4I.label>
+  <ATPP_CreateSX4I.description>Creează un android SX4I cu rețea neurală goală din plastoțel și componente.</ATPP_CreateSX4I.description>
+  <ATPP_CreateSX4I.jobString>Fabrică un android SX4I.</ATPP_CreateSX4I.jobString>
+  <ATPP_CreateSX4IFemale.label>Creează android surogat TX4I feminin (SX4I)</ATPP_CreateSX4IFemale.label>
+  <ATPP_CreateSX4IFemale.description>Creează un android SX4I feminin cu rețea neurală goală din plastoțel și componente.</ATPP_CreateSX4IFemale.description>
+  <ATPP_CreateSX4IFemale.jobString>Fabrică un android SX4I.</ATPP_CreateSX4IFemale.jobString>
+  <ATPP_CreateTX4Android.label>Creează android TX4 masculin</ATPP_CreateTX4Android.label>
+  <ATPP_CreateTX4Android.description>Creează un android TX4 masculin</ATPP_CreateTX4Android.description>
+  <ATPP_CreateTX4Android.jobString>Creează un android TX4</ATPP_CreateTX4Android.jobString>
+  <ATPP_CreateTX4FemaleAndroid.label>Creează android TX4 feminin</ATPP_CreateTX4FemaleAndroid.label>
+  <ATPP_CreateTX4FemaleAndroid.description>Creează un android TX4 feminin</ATPP_CreateTX4FemaleAndroid.description>
+  <ATPP_CreateTX4FemaleAndroid.jobString>Creează un android TX4</ATPP_CreateTX4FemaleAndroid.jobString>
+  <ATPP_CreateTX3Android.label>Creează android TX3 masculin</ATPP_CreateTX3Android.label>
+  <ATPP_CreateTX3Android.description>Creează un android TX3 masculin</ATPP_CreateTX3Android.description>
+  <ATPP_CreateTX3Android.jobString>Creează un android TX3</ATPP_CreateTX3Android.jobString>
+  <ATPP_CreateTX3FemaleAndroid.label>Creează android TX3 feminin</ATPP_CreateTX3FemaleAndroid.label>
+  <ATPP_CreateTX3FemaleAndroid.description>Creează un android TX3 feminin</ATPP_CreateTX3FemaleAndroid.description>
+  <ATPP_CreateTX3FemaleAndroid.jobString>Creează un android TX3</ATPP_CreateTX3FemaleAndroid.jobString>
+  <ATPP_CreateTX2Android.label>Creează android TX2 masculin</ATPP_CreateTX2Android.label>
+  <ATPP_CreateTX2Android.description>Creează un android TX2 masculin</ATPP_CreateTX2Android.description>
+  <ATPP_CreateTX2Android.jobString>Creează un android TX2</ATPP_CreateTX2Android.jobString>
+  <ATPP_CreateTX2FemaleAndroid.label>Creează android TX2 feminin</ATPP_CreateTX2FemaleAndroid.label>
+  <ATPP_CreateTX2FemaleAndroid.description>Creează un android TX2 feminin</ATPP_CreateTX2FemaleAndroid.description>
+  <ATPP_CreateTX2FemaleAndroid.jobString>Creează un android TX2</ATPP_CreateTX2FemaleAndroid.jobString>
+  <ATPP_CreateTX4IAndroid.label>Creează android TX4I masculin</ATPP_CreateTX4IAndroid.label>
+  <ATPP_CreateTX4IAndroid.description>Creează un android TX4I masculin</ATPP_CreateTX4IAndroid.description>
+  <ATPP_CreateTX4IAndroid.jobString>Creează un android TX4I</ATPP_CreateTX4IAndroid.jobString>
+  <ATPP_CreateTX4IFemaleAndroid.label>Creează android TX4I feminin</ATPP_CreateTX4IFemaleAndroid.label>
+  <ATPP_CreateTX4IFemaleAndroid.description>Creează un android TX4I feminin</ATPP_CreateTX4IFemaleAndroid.description>
+  <ATPP_CreateTX4IFemaleAndroid.jobString>Creează un android TX4I</ATPP_CreateTX4IFemaleAndroid.jobString>
+  <ATPP_CreateTX3IAndroid.label>Creează android TX3I masculin</ATPP_CreateTX3IAndroid.label>
+  <ATPP_CreateTX3IAndroid.description>Creează un android TX3I masculin</ATPP_CreateTX3IAndroid.description>
+  <ATPP_CreateTX3IAndroid.jobString>Creează un android TX3I</ATPP_CreateTX3IAndroid.jobString>
+  <ATPP_CreateTX3IFemaleAndroid.label>Creează android TX3I feminin</ATPP_CreateTX3IFemaleAndroid.label>
+  <ATPP_CreateTX3IFemaleAndroid.description>Creează un android TX3I feminin</ATPP_CreateTX3IFemaleAndroid.description>
+  <ATPP_CreateTX3IFemaleAndroid.jobString>Creează un android TX3I</ATPP_CreateTX3IFemaleAndroid.jobString>
+  <ATPP_CreateTX2IAndroid.label>Creează android TX2I masculin</ATPP_CreateTX2IAndroid.label>
+  <ATPP_CreateTX2IAndroid.description>Creează un android TX2I masculin</ATPP_CreateTX2IAndroid.description>
+  <ATPP_CreateTX2IAndroid.jobString>Creează un android TX2I</ATPP_CreateTX2IAndroid.jobString>
+  <ATPP_CreateTX2IFemaleAndroid.label>Creează android TX2I feminin</ATPP_CreateTX2IFemaleAndroid.label>
+  <ATPP_CreateTX2IFemaleAndroid.description>Creează un android TX2I feminin</ATPP_CreateTX2IFemaleAndroid.description>
+  <ATPP_CreateTX2IFemaleAndroid.jobString>Creează un android TX2I</ATPP_CreateTX2IFemaleAndroid.jobString>
+  <ATPP_CreateTX2KAndroid.label>Creează android TX2K masculin</ATPP_CreateTX2KAndroid.label>
+  <ATPP_CreateTX2KAndroid.description>Creează un android TX2K masculin</ATPP_CreateTX2KAndroid.description>
+  <ATPP_CreateTX2KAndroid.jobString>Creează un android TX2K</ATPP_CreateTX2KAndroid.jobString>
+  <ATPP_CreateTX2KFemaleAndroid.label>Creează android TX2K feminin</ATPP_CreateTX2KFemaleAndroid.label>
+  <ATPP_CreateTX2KFemaleAndroid.description>Creează un android TX2K feminin</ATPP_CreateTX2KFemaleAndroid.description>
+  <ATPP_CreateTX2KFemaleAndroid.jobString>Creează un android TX2K</ATPP_CreateTX2KFemaleAndroid.jobString>
+  <ATPP_CreateTX2KIAndroid.label>Creează android TX2KI</ATPP_CreateTX2KIAndroid.label>
+  <ATPP_CreateTX2KIAndroid.description>Creează un android TX2KI</ATPP_CreateTX2KIAndroid.description>
+  <ATPP_CreateTX2KIAndroid.jobString>Creează un android TX2KI</ATPP_CreateTX2KIAndroid.jobString>
+  <ATPP_CreateTX2KIFemaleAndroid.label>Creează android TX2KI feminin</ATPP_CreateTX2KIFemaleAndroid.label>
+  <ATPP_CreateTX2KIFemaleAndroid.description>Creează un android TX2KI feminin</ATPP_CreateTX2KIFemaleAndroid.description>
+  <ATPP_CreateTX2KIFemaleAndroid.jobString>Creează un android TX2KI</ATPP_CreateTX2KIFemaleAndroid.jobString>
+  <ATPP_MakeSyntheticSkinGland.label>sintetizează glandă de piele</ATPP_MakeSyntheticSkinGland.label>
+  <ATPP_MakeSyntheticSkinGland.description>Sintetizează o glandă de piele artificială folosind combustibil chimic hidrocarbonat, soluție conservantă de neutroamină, medicină și schele textile țesute.</ATPP_MakeSyntheticSkinGland.description>
+  <ATPP_MakeSyntheticSkinGland.jobString>Sintetizează glandă de piele.</ATPP_MakeSyntheticSkinGland.jobString>
+  <ATPP_GestateSyntheticSkinGland_Biotech.label>gestează glandă de piele sintetică</ATPP_GestateSyntheticSkinGland_Biotech.label>
+  <ATPP_GestateSyntheticSkinGland_Biotech.description>Folosind soluție hemogenică Biotech, nutrienți celulari și stabilizatori medicali într-o cuvă de producție de androizi, gestează o matrice vie a glandei de piele sintetică pentru infiltratorii din seria TX.</ATPP_GestateSyntheticSkinGland_Biotech.description>
+  <ATPP_GestateSyntheticSkinGland_Biotech.jobString>Gestează glandă de piele sintetică.</ATPP_GestateSyntheticSkinGland_Biotech.jobString>
+  <ATPP_QE_GrowSyntheticSkinGland.label>cultivă glandă de piele sintetică</ATPP_QE_GrowSyntheticSkinGland.label>
+  <ATPP_QE_GrowSyntheticSkinGland.description>Cultivă o matrice vie bio-sintetică a glandei de piele în interiorul cuvei de organe Questionable Ethics folosind nutrienți organici și stabilizatori chimici.</ATPP_QE_GrowSyntheticSkinGland.description>
+  <ATPP_QE_GrowSyntheticSkinGland.jobString>Cultivă glandă de piele sintetică.</ATPP_QE_GrowSyntheticSkinGland.jobString>
+  <ATPP_ApplySyntheticSkin.label>grefează piele sintetică</ATPP_ApplySyntheticSkin.label>
+  <ATPP_ApplySyntheticSkin.description>Grefează o matrice dermică sintetică pe acest șasiu de infanterie TX, acoperind endoscheletul mecanic expus cu o piele sintetică vie asemănătoare celei umane. Aceasta crește recepția socială și izolația termică, eliminând ruginirea la ploaie, cu prețul unei inflamabilități mai mari.</ATPP_ApplySyntheticSkin.description>
+  <ATPP_ApplySyntheticSkin.jobString>Grefează piele sintetică pe android.</ATPP_ApplySyntheticSkin.jobString>
+  <ATPP_RemoveSyntheticSkin.label>îndepărtează pielea sintetică</ATPP_RemoveSyntheticSkin.label>
+  <ATPP_RemoveSyntheticSkin.description>Îndepărtează chirurgical stratul de piele sintetică de pe acest infiltrator TX, expunând endoscheletul de infanterie ranforsat de dedesubt. Androidul își pierde farmecul social, dar câștigă imunitate la foc și durabilitate pe câmpul de luptă.</ATPP_RemoveSyntheticSkin.description>
+  <ATPP_RemoveSyntheticSkin.jobString>Îndepărtează pielea sintetică de pe android.</ATPP_RemoveSyntheticSkin.jobString>
+  <ATPP_QE_CreateTX2KMale.label>asamblează cadru TX2K masculin (cuvă QEE)</ATPP_QE_CreateTX2KMale.label>
+  <ATPP_QE_CreateTX2KMale.description>Asamblează un cadru de endoschelet TX2K masculin inactiv, codificat ca secvență genomică pentru incubare în cuva de organe.</ATPP_QE_CreateTX2KMale.description>
+  <ATPP_QE_CreateTX2KMale.jobString>Fabrică android</ATPP_QE_CreateTX2KMale.jobString>
+  <ATPP_QE_CreateTX2KFemale.label>asamblează cadru TX2K feminin (cuvă QEE)</ATPP_QE_CreateTX2KFemale.label>
+  <ATPP_QE_CreateTX2KFemale.description>Asamblează un cadru de endoschelet TX2K feminin inactiv, codificat ca secvență genomică pentru incubare în cuva de organe.</ATPP_QE_CreateTX2KFemale.description>
+  <ATPP_QE_CreateTX2KFemale.jobString>Fabrică android</ATPP_QE_CreateTX2KFemale.jobString>
+  <ATPP_QE_CreateSX2KMaleSurrogate.label>asamblează cadru surogat SX2K masculin (cuvă QEE)</ATPP_QE_CreateSX2KMaleSurrogate.label>
+  <ATPP_QE_CreateSX2KMaleSurrogate.description>Asamblează un cadru de endoschelet surogat TX2K masculin inactiv, codificat ca secvență genomică pentru incubare în cuva de organe.</ATPP_QE_CreateSX2KMaleSurrogate.description>
+  <ATPP_QE_CreateSX2KMaleSurrogate.jobString>Fabrică android</ATPP_QE_CreateSX2KMaleSurrogate.jobString>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.label>asamblează cadru surogat SX2K feminin (cuvă QEE)</ATPP_QE_CreateSX2KFemaleSurrogate.label>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.description>Asamblează un cadru de endoschelet surogat TX2K feminin inactiv, codificat ca secvență genomică pentru incubare în cuva de organe.</ATPP_QE_CreateSX2KFemaleSurrogate.description>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.jobString>Fabrică android</ATPP_QE_CreateSX2KFemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX3Male.label>asamblează cadru TX3 masculin (cuvă QEE)</ATPP_QE_CreateTX3Male.label>
+  <ATPP_QE_CreateTX3Male.description>Asamblează un cadru de endoschelet TX3 masculin inactiv, codificat ca secvență genomică pentru incubare în cuva de organe.</ATPP_QE_CreateTX3Male.description>
+  <ATPP_QE_CreateTX3Male.jobString>Fabrică android</ATPP_QE_CreateTX3Male.jobString>
+  <ATPP_QE_CreateTX3Female.label>asamblează cadru TX3 feminin (cuvă QEE)</ATPP_QE_CreateTX3Female.label>
+  <ATPP_QE_CreateTX3Female.description>Asamblează un cadru de endoschelet TX3 feminin inactiv, codificat ca secvență genomică pentru incubare în cuva de organe.</ATPP_QE_CreateTX3Female.description>
+  <ATPP_QE_CreateTX3Female.jobString>Fabrică android</ATPP_QE_CreateTX3Female.jobString>
+  <ATPP_QE_CreateSX3MaleSurrogate.label>asamblează cadru surogat SX3 masculin (cuvă QEE)</ATPP_QE_CreateSX3MaleSurrogate.label>
+  <ATPP_QE_CreateSX3MaleSurrogate.description>Asamblează un cadru de endoschelet surogat TX3 masculin inactiv, codificat ca secvență genomică pentru incubare în cuva de organe.</ATPP_QE_CreateSX3MaleSurrogate.description>
+  <ATPP_QE_CreateSX3MaleSurrogate.jobString>Fabrică android</ATPP_QE_CreateSX3MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX3FemaleSurrogate.label>asamblează cadru surogat SX3 feminin (cuvă QEE)</ATPP_QE_CreateSX3FemaleSurrogate.label>
+  <ATPP_QE_CreateSX3FemaleSurrogate.description>Asamblează un cadru de endoschelet surogat TX3 feminin inactiv, codificat ca secvență genomică pentru incubare în cuva de organe.</ATPP_QE_CreateSX3FemaleSurrogate.description>
+  <ATPP_QE_CreateSX3FemaleSurrogate.jobString>Fabrică android</ATPP_QE_CreateSX3FemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX4Male.label>asamblează cadru TX4 masculin (cuvă QEE)</ATPP_QE_CreateTX4Male.label>
+  <ATPP_QE_CreateTX4Male.description>Asamblează un cadru de endoschelet TX4 masculin inactiv, codificat ca secvență genomică pentru incubare în cuva de organe.</ATPP_QE_CreateTX4Male.description>
+  <ATPP_QE_CreateTX4Male.jobString>Fabrică android</ATPP_QE_CreateTX4Male.jobString>
+  <ATPP_QE_CreateTX4Female.label>asamblează cadru TX4 feminin (cuvă QEE)</ATPP_QE_CreateTX4Female.label>
+  <ATPP_QE_CreateTX4Female.description>Asamblează un cadru de endoschelet TX4 feminin inactiv, codificat ca secvență genomică pentru incubare în cuva de organe.</ATPP_QE_CreateTX4Female.description>
+  <ATPP_QE_CreateTX4Female.jobString>Fabrică android</ATPP_QE_CreateTX4Female.jobString>
+  <ATPP_QE_CreateSX4MaleSurrogate.label>asamblează cadru surogat SX4 masculin (cuvă QEE)</ATPP_QE_CreateSX4MaleSurrogate.label>
+  <ATPP_QE_CreateSX4MaleSurrogate.description>Asamblează un cadru de endoschelet surogat TX4 masculin inactiv, codificat ca secvență genomică pentru incubare în cuva de organe.</ATPP_QE_CreateSX4MaleSurrogate.description>
+  <ATPP_QE_CreateSX4MaleSurrogate.jobString>Fabrică android</ATPP_QE_CreateSX4MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX4FemaleSurrogate.label>asamblează cadru surogat SX4 feminin (cuvă QEE)</ATPP_QE_CreateSX4FemaleSurrogate.label>
+  <ATPP_QE_CreateSX4FemaleSurrogate.description>Asamblează un cadru de endoschelet surogat TX4 feminin inactiv, codificat ca secvență genomică pentru incubare în cuva de organe.</ATPP_QE_CreateSX4FemaleSurrogate.description>
+  <ATPP_QE_CreateSX4FemaleSurrogate.jobString>Fabrică android</ATPP_QE_CreateSX4FemaleSurrogate.jobString>
+
+</LanguageData>

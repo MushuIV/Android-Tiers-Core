@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATPP_ReloadStation.label>アンドロイド充電ステーション</ATPP_ReloadStation.label>
+  <ATPP_ReloadStation.description>アンドロイド用の充電ステーション。最大8体のアンドロイドを同時に収容して充電できます。</ATPP_ReloadStation.description>
+  <ATPP_SkyMindLAN.label>スカイマインド V1アンテナ</ATPP_SkyMindLAN.label>
+  <ATPP_SkyMindLAN.description>スカイマインドV1アンテナは最大3台のクライアントを同時接続でき、入植者の意識アップロードやSXシリーズアンドロイド・生体代理体の遠隔操作を可能にする無線ネットワークを展開します。</ATPP_SkyMindLAN.description>
+  <ATPP_SkyMindWAN.label>スカイマインド V2アンテナ</ATPP_SkyMindWAN.label>
+  <ATPP_SkyMindWAN.description>スカイマインドV2アンテナは最大15台のクライアントを同時接続でき、入植者の意識アップロードやSXシリーズアンドロイド・生体代理体の遠隔操作を可能にする無線ネットワークを展開します。</ATPP_SkyMindWAN.description>
+  <ATPP_SkyMindRelayTower.label>スカイマインド中継タワー</ATPP_SkyMindRelayTower.label>
+  <ATPP_SkyMindRelayTower.description>スカイマインド中継タワーはアンテナの信号を増幅し、遠距離での代理体制御の劣化を防ぎます。</ATPP_SkyMindRelayTower.description>
+  <ATPP_I100Security.label>I-100（セキュリティ）</ATPP_I100Security.label>
+  <ATPP_I100Security.description>サイバー攻撃やウイルスからスカイマインドネットワークを保護するファイアウォールサーバー。</ATPP_I100Security.description>
+  <ATPP_I100Hacking.label>I-100（ハッキング）</ATPP_I100Hacking.label>
+  <ATPP_I100Hacking.description>スカイマインドネットワークに接続されたクライアントをハッキングできるハッキングサーバー。</ATPP_I100Hacking.description>
+  <ATPP_I100Skill.label>I-100（スキル）</ATPP_I100Skill.label>
+  <ATPP_I100Skill.description>スカイマインドネットワーク上の接続済みアンドロイドのスキルポイントを増加させるスキルサーバー。</ATPP_I100Skill.description>
+  <ATPP_I300Security.label>I-300（セキュリティ）</ATPP_I300Security.label>
+  <ATPP_I300Security.description>サイバー攻撃やウイルスからスカイマインドネットワークを保護するファイアウォールサーバー。</ATPP_I300Security.description>
+  <ATPP_I300Hacking.label>I-300（ハッキング）</ATPP_I300Hacking.label>
+  <ATPP_I300Hacking.description>スカイマインドネットワークに接続されたクライアントをハッキングできるハッキングサーバー。</ATPP_I300Hacking.description>
+  <ATPP_I300Skill.label>I-300（スキル）</ATPP_I300Skill.label>
+  <ATPP_I300Skill.description>スカイマインドネットワーク上の接続済みアンドロイドのスキルポイントを増加させるスキルサーバー。</ATPP_I300Skill.description>
+  <ATPP_I500Security.label>I-500（セキュリティ）</ATPP_I500Security.label>
+  <ATPP_I500Security.description>サイバー攻撃やウイルスからスカイマインドネットワークを保護するファイアウォールサーバー。</ATPP_I500Security.description>
+  <ATPP_I500Hacking.label>I-500（ハッキング）</ATPP_I500Hacking.label>
+  <ATPP_I500Hacking.description>スカイマインドネットワークに接続されたクライアントをハッキングできるハッキングサーバー。</ATPP_I500Hacking.description>
+  <ATPP_I500Skill.label>I-500（スキル）</ATPP_I500Skill.label>
+  <ATPP_I500Skill.description>スカイマインドネットワーク上の接続済みアンドロイドのスキルポイントを増加させるスキルサーバー。</ATPP_I500Skill.description>
+  <ATPP_AndroidPod.label>アンドロイドポッド</ATPP_AndroidPod.label>
+  <ATPP_AndroidPod.description>アンドロイドの修復や、宿主待機中（代理体の場合）の保管ができ、通電時には充電も行えるアンドロイドポッドです。</ATPP_AndroidPod.description>
+  <ATPP_AndroidPodMech.label>M7ポッド</ATPP_AndroidPodMech.label>
+  <ATPP_AndroidPodMech.description>M7メカノイドの修復や、宿主待機中（代理体の場合）の保管ができ、通電時には充電も行える大型ポッドです。</ATPP_AndroidPodMech.description>
+  <ATPP_SkyCloudCore.label>スカイクラウドコア</ATPP_SkyCloudCore.label>
+  <ATPP_SkyCloudCore.description>スカイマインドネットワークに接続されたすべてのデバイスを制御し、入植者のデジタル化された頭脳をメモリにアップロードすることで、ほぼ不死かつ全知の存在にできるスーパーコンピューターです。</ATPP_SkyCloudCore.description>
+</LanguageData>

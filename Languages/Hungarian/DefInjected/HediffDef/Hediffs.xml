@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_ConsciousnessUpload.label>Tudatfeltöltés</ATPP_ConsciousnessUpload.label>
+  <ATPP_ConsciousnessUpload.labelNoun>tudatfeltöltés</ATPP_ConsciousnessUpload.labelNoun>
+  <ATPP_NoHost.label>Nincs csatlakoztatott gazdatest</ATPP_NoHost.label>
+  <ATPP_NoHost.labelNoun>Nincs csatlakoztatott gazdatest</ATPP_NoHost.labelNoun>
+  <ATPP_HediffRXChip.label>RX neurális csip</ATPP_HediffRXChip.label>
+  <ATPP_HediffRXChip.labelNoun>Egy neurális csip, amely személyes SkyMind átjátszóként működik.</ATPP_HediffRXChip.labelNoun>
+  <ATPP_HediffVX0Chip.label>VX0 neurális csip</ATPP_HediffVX0Chip.label>
+  <ATPP_HediffVX0Chip.labelNoun>Egy neurális csip, amely biológiai helyettessé alakítja a gazdatestet</ATPP_HediffVX0Chip.labelNoun>
+  <ATPP_HediffVX1Chip.label>VX1 neurális csip</ATPP_HediffVX1Chip.label>
+  <ATPP_HediffVX1Chip.labelNoun>VX1 neurális csip</ATPP_HediffVX1Chip.labelNoun>
+  <ATPP_HediffVX2Chip.label>VX2 neurális csip</ATPP_HediffVX2Chip.label>
+  <ATPP_HediffVX2Chip.labelNoun>VX2 neurális csip</ATPP_HediffVX2Chip.labelNoun>
+  <ATPP_HediffVX3Chip.label>VX3 neurális csip</ATPP_HediffVX3Chip.label>
+  <ATPP_HediffVX3Chip.labelNoun>VX3 neurális csip</ATPP_HediffVX3Chip.labelNoun>
+  <ATPP_InRemoteControlMode.label>Távirányítási mód engedélyezve</ATPP_InRemoteControlMode.label>
+  <ATPP_InRemoteControlMode.labelNoun>Távirányítási mód engedélyezve</ATPP_InRemoteControlMode.labelNoun>
+  <ATPP_RemotelyControlled.label>Távolról irányított</ATPP_RemotelyControlled.label>
+  <ATPP_RemotelyControlled.labelNoun>Távolról irányított</ATPP_RemotelyControlled.labelNoun>
+  <ATPP_SolarFlareAndroidImpact.label>Napkitörés</ATPP_SolarFlareAndroidImpact.label>
+  <ATPP_SolarFlareAndroidImpact.labelNoun>Napkitörés</ATPP_SolarFlareAndroidImpact.labelNoun>
+  <ATPP_LowNetworkSignal.label>Gyenge SkyMind hálózati jel</ATPP_LowNetworkSignal.label>
+  <ATPP_LowNetworkSignal.labelNoun>Gyenge SkyMind hálózati jel</ATPP_LowNetworkSignal.labelNoun>
+  <ATPP_Rusted.label>Rozsdás</ATPP_Rusted.label>
+  <ATPP_Rusted.labelNoun>Rozsdás</ATPP_Rusted.labelNoun>
+  <ATPP_BlankAndroid.label>Üres neurális hálózat</ATPP_BlankAndroid.label>
+  <ATPP_BlankAndroid.labelNoun>Üres neurális hálózat</ATPP_BlankAndroid.labelNoun>
+  <ATPP_SurrogateInit.label>Kapcsolat inicializálása</ATPP_SurrogateInit.label>
+  <ATPP_SurrogateInit.labelNoun>Kapcsolat inicializálása</ATPP_SurrogateInit.labelNoun>
+  <ATPP_AssistingMinds.label>Segédkező tudatok a SkyCloud magokból</ATPP_AssistingMinds.label>
+  <ATPP_AssistingMinds.labelNoun>Segédkező tudatok a SkyCloud magokból</ATPP_AssistingMinds.labelNoun>
+  <DecayedFrame.label>pusztuló központi egység</DecayedFrame.label>
+  <DecayedFrame.labelNoun>egy pusztuló központi egység</DecayedFrame.labelNoun>
+  <CorruptMemory.label>sérült memória</CorruptMemory.label>
+  <WeakValves.label>gyenge szelepek</WeakValves.label>
+  <ExaggeratedHealing.label>hiperaktív reakció</ExaggeratedHealing.label>
+  <FaultyPump.label>hibás pumpa</FaultyPump.label>
+  <FaultyPump.labelNoun>egy hibás pumpa</FaultyPump.labelNoun>
+  <ShutdownAndroid.label>leszerelt</ShutdownAndroid.label>
+  <ShutdownAndroid.description>Az MI mag végleg leállítva és törölve.</ShutdownAndroid.description>
+  <RebootingSequenceAT.label>Újraindítás</RebootingSequenceAT.label>
+  <RebootingSequenceAT.description>Újraindítási folyamat aktív az MI magban.</RebootingSequenceAT.description>
+  <NoFreeWillAT.label>érzéketlen</NoFreeWillAT.label>
+  <NoFreeWillAT.labelNoun>érzéketlen</NoFreeWillAT.labelNoun>
+  <NoFreeWillAT.description>Az MI mag moralitási és érzelmi válaszszektorainak módosítása, amely teljesen semleges hangulatot és a magasabb funkciók hiányát eredményezi.</NoFreeWillAT.description>
+  <FreshReprogramming.label>nemrég újraprogramozva</FreshReprogramming.label>
+  <FreshReprogramming.description>Nemrég újraprogramozott MI mag. Az új szoftver fordítása és automatikus javítása csökkent képességeket okozhat.</FreshReprogramming.description>
+  <OverclockedAndroid.label>túlhajtva</OverclockedAndroid.label>
+  <OverclockedAndroid.labelNoun>egy túlhajtási fejlesztés</OverclockedAndroid.labelNoun>
+  <OverclockedAndroid.description>Az android MI magjának feldolgozószektorai felgyorsítva, ami gyorsabb számítást eredményez, de növeli a hardver terhelését is.</OverclockedAndroid.description>
+  <BatteryChargeMech.label>Akkumulátor</BatteryChargeMech.label>
+  <BatteryChargeMech.description>Leállásig hátralévő akkumulátor-üzemidő</BatteryChargeMech.description>
+  <AndroidCoolantLoss.label>hűtőfolyadék-veszteség</AndroidCoolantLoss.label>
+  <AndroidCoolantLoss.description>Hűtőfolyadék-szivárgás a belső csövekben, amely csökkent hűtőkapacitást és a belső alkatrészek túlmelegedését okozza.</AndroidCoolantLoss.description>
+  <AndroidOverheating.label>túlmelegedés</AndroidOverheating.label>
+  <AndroidFreezing.label>Fagyás</AndroidFreezing.label>
+  <PlatingSteel.label>Acél váz</PlatingSteel.label>
+  <PlatingSteel.labelNoun>egy alapvető acél vázszerkezet</PlatingSteel.labelNoun>
+  <PlatingSteel.description>Beépített acél váz.</PlatingSteel.description>
+  <PlatingPlasteel.label>plasztacél vázburkolat</PlatingPlasteel.label>
+  <PlatingPlasteel.labelNoun>erős plasztacél vázburkolat</PlatingPlasteel.labelNoun>
+  <PlatingPlasteel.description>Beépített plasztacél vázburkolat.</PlatingPlasteel.description>
+  <PlatingComposite.label>kompozit vázpáncélzat</PlatingComposite.label>
+  <PlatingComposite.labelNoun>nagy szakítószilárdságú kompozit páncélzat</PlatingComposite.labelNoun>
+  <PlatingComposite.description>Beépített kompozit vázpáncélzat.</PlatingComposite.description>
+  <MiningArm_AT.label>bányászkar</MiningArm_AT.label>
+  <MiningArm_AT.labelNoun>egy bányászkar</MiningArm_AT.labelNoun>
+  <MiningArm_AT.description>Beépített bányászkar.</MiningArm_AT.description>
+  <HydraulicFrame.label>hidraulikus váz</HydraulicFrame.label>
+  <HydraulicFrame.labelNoun>egy hidraulikus váz</HydraulicFrame.labelNoun>
+  <HydraulicFrame.description>Beépített hidraulikus váz.</HydraulicFrame.description>
+  <HydraulicLeg.label>hidraulikus láb</HydraulicLeg.label>
+  <HydraulicLeg.labelNoun>egy hidraulikus láb</HydraulicLeg.labelNoun>
+  <HydraulicLeg.description>Beépített hidraulikus láb.</HydraulicLeg.description>
+  <HydraulicArm.label>hidraulikus kar</HydraulicArm.label>
+  <HydraulicArm.labelNoun>egy hidraulikus kar</HydraulicArm.labelNoun>
+  <HydraulicArm.description>Beépített hidraulikus kar.</HydraulicArm.description>
+  <MakeshiftRLeg.label>rögtönzött pótláb</MakeshiftRLeg.label>
+  <MakeshiftRLeg.labelNoun>egy rögtönzött pótláb</MakeshiftRLeg.labelNoun>
+  <MakeshiftRLeg.description>Beépített rögtönzött pótláb.</MakeshiftRLeg.description>
+  <MakeshiftRArm.label>rögtönzött pótkar</MakeshiftRArm.label>
+  <MakeshiftRArm.labelNoun>egy rögtönzött pótkar</MakeshiftRArm.labelNoun>
+  <MakeshiftRArm.description>Beépített rögtönzött pótkar.</MakeshiftRArm.description>
+  <BRArm.label>alap pótkar</BRArm.label>
+  <BRArm.labelNoun>egy alap pótkar</BRArm.labelNoun>
+  <BRArm.description>Beépített alap pótkar.</BRArm.description>
+  <BRLeg.label>alap pótláb</BRLeg.label>
+  <BRLeg.labelNoun>egy alap pótláb</BRLeg.labelNoun>
+  <BRLeg.description>Beépített alap pótláb.</BRLeg.description>
+  <BLReceptor.label>kezdetleges fényérzékelő</BLReceptor.label>
+  <BLReceptor.labelNoun>egy kezdetleges fényérzékelő</BLReceptor.labelNoun>
+  <BLReceptor.description>Beépített kezdetleges fényérzékelő.</BLReceptor.description>
+  <BHeatsink.label>kezdetleges hűtőborda</BHeatsink.label>
+  <BHeatsink.labelNoun>egy kezdetleges hűtőborda</BHeatsink.labelNoun>
+  <BHeatsink.description>Beépített kezdetleges hűtőborda.</BHeatsink.description>
+  <BCoolantPump.label>kezdetleges hűtőpumpa</BCoolantPump.label>
+  <BCoolantPump.labelNoun>egy kezdetleges hűtőpumpa</BCoolantPump.labelNoun>
+  <BCoolantPump.description>Beépített kezdetleges hűtőpumpa.</BCoolantPump.description>
+  <BBattery.label>kezdetleges akkumulátorcsomag</BBattery.label>
+  <BBattery.labelNoun>egy kezdetleges akkumulátorcsomag</BBattery.labelNoun>
+  <BBattery.description>Beépített kezdetleges akkumulátorcsomag.</BBattery.description>
+  <BMStorage.label>kezdetleges mechanit tároló</BMStorage.label>
+  <BMStorage.labelNoun>kezdetleges mechanit tároló</BMStorage.labelNoun>
+  <BMStorage.description>Beépített kezdetleges mechanit tároló.</BMStorage.description>
+  <BTransformer.label>kezdetleges bioreaktor</BTransformer.label>
+  <BTransformer.labelNoun>egy kezdetleges bioreaktor</BTransformer.labelNoun>
+  <BTransformer.description>Beépített kezdetleges bioreaktor.</BTransformer.description>
+  <BVAdapter.label>kezdetleges áramátalakító</BVAdapter.label>
+  <BVAdapter.labelNoun>egy kezdetleges áramátalakító</BVAdapter.labelNoun>
+  <BVAdapter.description>Beépített kezdetleges áramátalakító.</BVAdapter.description>
+  <BasicRearCounterweight.label>alap ellensúly</BasicRearCounterweight.label>
+  <BasicRearCounterweight.labelNoun>egy alap ellensúly</BasicRearCounterweight.labelNoun>
+  <BasicRearCounterweight.description>Beépített alap ellensúly.</BasicRearCounterweight.description>
+  <CrudeJawAndroid.label>kezdetleges állkapocs</CrudeJawAndroid.label>
+  <CrudeJawAndroid.labelNoun>egy kezdetleges állkapocs</CrudeJawAndroid.labelNoun>
+  <CrudeJawAndroid.description>Beépített kezdetleges állkapocs.</CrudeJawAndroid.description>
+  <ARArm.label>nagy teljesítményű kar</ARArm.label>
+  <ARArm.labelNoun>egy nagy teljesítményű kar</ARArm.labelNoun>
+  <ARArm.description>Beépített nagy teljesítményű kar.</ARArm.description>
+  <ARLeg.label>nagy teljesítményű láb</ARLeg.label>
+  <ARLeg.labelNoun>egy nagy teljesítményű láb</ARLeg.labelNoun>
+  <ARLeg.description>Beépített nagy teljesítményű láb.</ARLeg.description>
+  <ALReceptor.label>fejlett fényérzékelő</ALReceptor.label>
+  <ALReceptor.labelNoun>egy fejlett fényérzékelő</ALReceptor.labelNoun>
+  <ALReceptor.description>Beépített fejlett fényérzékelő.</ALReceptor.description>
+  <AHeatsink.label>fejlett hűtőborda</AHeatsink.label>
+  <AHeatsink.labelNoun>egy fejlett hűtőborda</AHeatsink.labelNoun>
+  <AHeatsink.description>Beépített fejlett hűtőborda.</AHeatsink.description>
+  <ACoolantPump.label>fejlett hűtőpumpa</ACoolantPump.label>
+  <ACoolantPump.labelNoun>egy fejlett hűtőpumpa</ACoolantPump.labelNoun>
+  <ACoolantPump.description>Beépített fejlett hűtőpumpa.</ACoolantPump.description>
+  <ABattery.label>fejlett akkumulátorcsomag</ABattery.label>
+  <ABattery.labelNoun>egy fejlett akkumulátorcsomag</ABattery.labelNoun>
+  <ABattery.description>Beépített fejlett akkumulátorcsomag.</ABattery.description>
+  <AMStorage.label>fejlett mechanit tároló</AMStorage.label>
+  <AMStorage.labelNoun>fejlett mechanit tároló</AMStorage.labelNoun>
+  <AMStorage.description>Beépített fejlett mechanit tároló.</AMStorage.description>
+  <ATransformer.label>fejlett bioreaktor</ATransformer.label>
+  <ATransformer.labelNoun>egy fejlett bioreaktor</ATransformer.labelNoun>
+  <ATransformer.description>Beépített fejlett bioreaktor.</ATransformer.description>
+  <AVAdapter.label>fejlett áramátalakító</AVAdapter.label>
+  <AVAdapter.labelNoun>egy fejlett áramátalakító</AVAdapter.labelNoun>
+  <AVAdapter.description>Beépített fejlett áramátalakító.</AVAdapter.description>
+  <AdvRearCounterweight.label>giroszkópos ellensúly</AdvRearCounterweight.label>
+  <AdvRearCounterweight.labelNoun>egy giroszkópos ellensúly</AdvRearCounterweight.labelNoun>
+  <AdvRearCounterweight.description>Beépített giroszkópos ellensúly.</AdvRearCounterweight.description>
+  <AdvJawAndroid.label>kibernetikus állkapocs</AdvJawAndroid.label>
+  <AdvJawAndroid.labelNoun>egy kibernetikus állkapocs</AdvJawAndroid.labelNoun>
+  <AdvJawAndroid.description>Beépített kibernetikus állkapocs.</AdvJawAndroid.description>
+  <PositronMind.label>Pozitronikus áthuzalozás</PositronMind.label>
+  <PositronMind.labelNoun>egy pozitronikus áthuzalozás</PositronMind.labelNoun>
+  <PositronMind.description>Beépített pozitronikus áthuzalozás.</PositronMind.description>
+  <SoldierMind.label>Katonai fejlesztés</SoldierMind.label>
+  <SoldierMind.labelNoun>egy katonai fejlesztés</SoldierMind.labelNoun>
+  <SoldierMind.description>Beépített katonai fejlesztés.</SoldierMind.description>
+  <BuilderMind.label>Tervrajzbankok</BuilderMind.label>
+  <BuilderMind.labelNoun>egy tervrajzbank</BuilderMind.labelNoun>
+  <BuilderMind.description>Beépített tervrajzbank.</BuilderMind.description>
+  <SurgeonMind.label>Beültetett trikorder</SurgeonMind.label>
+  <SurgeonMind.labelNoun>egy beültetett trikorder</SurgeonMind.labelNoun>
+  <SurgeonMind.description>Egy beültetett trikorder.</SurgeonMind.description>
+  <SpeedMind.label>Neurális szupersztrádák</SpeedMind.label>
+  <SpeedMind.labelNoun>Neurális szupersztrádák</SpeedMind.labelNoun>
+  <SpeedMind.description>Beépített neurális szupersztrádák.</SpeedMind.description>
+  <GeoMind.label>Geológiai bankok</GeoMind.label>
+  <GeoMind.labelNoun>egy geológiai bank</GeoMind.labelNoun>
+  <GeoMind.description>Beépített geológiai bank.</GeoMind.description>
+  <MechanicMind.label>Mérnöki implantátum</MechanicMind.label>
+  <MechanicMind.labelNoun>egy mérnöki implantátum</MechanicMind.labelNoun>
+  <MechanicMind.description>Beültetett mérnöki implantátum.</MechanicMind.description>
+  <CookingMind.label>Kulináris implantátum</CookingMind.label>
+  <CookingMind.labelNoun>egy kulináris implantátum</CookingMind.labelNoun>
+  <CookingMind.description>Beültetett kulináris implantátum.</CookingMind.description>
+  <CharismaMind.label>Karizma implantátum</CharismaMind.label>
+  <CharismaMind.labelNoun>egy karizma implantátum</CharismaMind.labelNoun>
+  <CharismaMind.description>Beültetett karizma implantátum.</CharismaMind.description>
+  <NegotiatorMind.label>Tárgyalói implantátum</NegotiatorMind.label>
+  <NegotiatorMind.labelNoun>egy tárgyalói implantátum</NegotiatorMind.labelNoun>
+  <NegotiatorMind.description>Beültetett tárgyalói implantátum.</NegotiatorMind.description>
+  <ZoologyMind.label>Állattani implantátum</ZoologyMind.label>
+  <ZoologyMind.labelNoun>egy állattani implantátum</ZoologyMind.labelNoun>
+  <ZoologyMind.description>Beültetett állattani implantátum.</ZoologyMind.description>
+  <AgriculturalMind.label>Mezőgazdasági implantátum</AgriculturalMind.label>
+  <AgriculturalMind.labelNoun>egy mezőgazdasági implantátum</AgriculturalMind.labelNoun>
+  <AgriculturalMind.description>Beültetett mezőgazdasági implantátum.</AgriculturalMind.description>
+  <UnskilledMind.label>Alap munkacsip</UnskilledMind.label>
+  <UnskilledMind.labelNoun>egy alap munkacsip</UnskilledMind.labelNoun>
+  <UnskilledMind.description>Beültetett alap munkacsip.</UnskilledMind.description>
+  <AR2Arm.label>Kibernetikus kar</AR2Arm.label>
+  <AR2Arm.labelNoun>egy kibernetikus kar</AR2Arm.labelNoun>
+  <AR2Arm.description>Beépített kibernetikus kar.</AR2Arm.description>
+  <AR2Leg.label>Kibernetikus láb</AR2Leg.label>
+  <AR2Leg.labelNoun>egy kibernetikus láb</AR2Leg.labelNoun>
+  <AR2Leg.description>Beépített kibernetikus láb.</AR2Leg.description>
+  <AL2Receptor.label>archotech fényérzékelő</AL2Receptor.label>
+  <AL2Receptor.labelNoun>egy archotech fényérzékelő</AL2Receptor.labelNoun>
+  <AL2Receptor.description>Beépített archotech fényérzékelő.</AL2Receptor.description>
+  <A2Heatsink.label>archotech hűtőborda</A2Heatsink.label>
+  <A2Heatsink.labelNoun>egy archotech hűtőborda</A2Heatsink.labelNoun>
+  <A2Heatsink.description>Beépített archotech hűtőborda.</A2Heatsink.description>
+  <A2CoolantPump.label>archotech hűtőpumpa</A2CoolantPump.label>
+  <A2CoolantPump.labelNoun>egy archotech hűtőpumpa</A2CoolantPump.labelNoun>
+  <A2CoolantPump.description>Beépített archotech hűtőpumpa.</A2CoolantPump.description>
+  <A2Battery.label>archotech akkumulátorcsomag</A2Battery.label>
+  <A2Battery.labelNoun>egy archotech akkumulátorcsomag</A2Battery.labelNoun>
+  <A2Battery.description>Beépített archotech akkumulátorcsomag.</A2Battery.description>
+  <A2MStorage.label>archotech mechanit tároló</A2MStorage.label>
+  <A2MStorage.labelNoun>archotech mechanit tároló</A2MStorage.labelNoun>
+  <A2MStorage.description>Beépített archotech mechanit tároló.</A2MStorage.description>
+  <A2Transformer.label>archotech bioreaktor</A2Transformer.label>
+  <A2Transformer.labelNoun>egy archotech bioreaktor</A2Transformer.labelNoun>
+  <A2Transformer.description>Beépített archotech bioreaktor.</A2Transformer.description>
+  <A2VAdapter.label>archotech áramátalakító</A2VAdapter.label>
+  <A2VAdapter.labelNoun>egy archotech áramátalakító</A2VAdapter.labelNoun>
+  <A2VAdapter.description>Beépített archotech áramátalakító.</A2VAdapter.description>
+  <HearingSensorCrude.label>kezdetleges hallásérzékelő</HearingSensorCrude.label>
+  <HearingSensorCrude.labelNoun>egy kezdetleges hallásérzékelő</HearingSensorCrude.labelNoun>
+  <HearingSensorCrude.description>Beépített kezdetleges hallásérzékelő.</HearingSensorCrude.description>
+  <HearingSensorAdv.label>fejlett hallásérzékelő</HearingSensorAdv.label>
+  <HearingSensorAdv.labelNoun>egy fejlett hallásérzékelő</HearingSensorAdv.labelNoun>
+  <HearingSensorAdv.description>Beépített fejlett hallásérzékelő.</HearingSensorAdv.description>
+  <HearingSensorArch.label>archotech hallásérzékelő</HearingSensorArch.label>
+  <HearingSensorArch.labelNoun>egy archotech hallásérzékelő</HearingSensorArch.labelNoun>
+  <HearingSensorArch.description>Beépített archotech hallásérzékelő.</HearingSensorArch.description>
+  <SmellSensorAdv.label>fejlett szagérzékelő</SmellSensorAdv.label>
+  <SmellSensorAdv.labelNoun>egy fejlett szagérzékelő</SmellSensorAdv.labelNoun>
+  <SmellSensorAdv.description>Beépített fejlett szagérzékelő.</SmellSensorAdv.description>
+  <SmellingSensorCrude.label>kezdetleges szagérzékelő</SmellingSensorCrude.label>
+  <SmellingSensorCrude.labelNoun>egy kezdetleges szagérzékelő</SmellingSensorCrude.labelNoun>
+  <SmellingSensorCrude.description>Beépített kezdetleges szagérzékelő.</SmellingSensorCrude.description>
+  <SmellingSensorArch.label>archotech szagérzékelő</SmellingSensorArch.label>
+  <SmellingSensorArch.labelNoun>egy archotech szagérzékelő</SmellingSensorArch.labelNoun>
+  <SmellingSensorArch.description>Beépített archotech szagérzékelő.</SmellingSensorArch.description>
+  <EvolvingMind.label>Fejlődő MI</EvolvingMind.label>
+  <EvolvingMind.labelNoun>egy fejlődő MI</EvolvingMind.labelNoun>
+  <EvolvingMind.description>Beépített fejlődő MI.</EvolvingMind.description>
+  <AndroidTiers_EmotionlessCard.label>Letiltott társas interakciók</AndroidTiers_EmotionlessCard.label>
+  <AndroidTiers_EmotionlessCard.labelNoun>Letiltott társas interakciók</AndroidTiers_EmotionlessCard.labelNoun>
+  <Backstory_PitFighterUpgrade.label>küzdőverem-kesztyűk</Backstory_PitFighterUpgrade.label>
+  <Backstory_PitFighterUpgrade.labelNoun>egy küzdőverem-kesztyű</Backstory_PitFighterUpgrade.labelNoun>
+  <Backstory_PitFighterUpgrade.description>Beépített páncélkesztyű.</Backstory_PitFighterUpgrade.description>
+  <Backstory_TranscendantAssimilatorUpgrade.label>Plazmakesztyű</Backstory_TranscendantAssimilatorUpgrade.label>
+  <Backstory_TranscendantAssimilatorUpgrade.labelNoun>egy plazmakesztyű</Backstory_TranscendantAssimilatorUpgrade.labelNoun>
+  <Backstory_TranscendantAssimilatorUpgrade.description>Beépített páncélkesztyű.</Backstory_TranscendantAssimilatorUpgrade.description>
+  <Backstory_HighCouncilUpgrade.label>Kvantumfeldolgozás</Backstory_HighCouncilUpgrade.label>
+  <Backstory_HighCouncilUpgrade.labelNoun>egy kvantumtudat</Backstory_HighCouncilUpgrade.labelNoun>
+  <Backstory_HighCouncilUpgrade.description>Beépített kvantumtudat.</Backstory_HighCouncilUpgrade.description>
+  <SGelhuman.label>Szerkezeti gél</SGelhuman.label>
+  <SGelhuman.description>A véráramban keringő aminosav- és mechanit-keverék, rendkívül mérgező és rohamokat okozhat.</SGelhuman.description>
+  <SGelandroid.label>Szerkezeti gél</SGelandroid.label>
+  <SGelandroid.description>A hűtőcsövekben keringő aminosav- és mechanit-keverék, amely segít karbantartani a belső alkatrészeket a jobb teljesítmény érdekében.</SGelandroid.description>
+  <Toxicated.label>Mérgezett</Toxicated.label>
+  <Toxicated.description>Mérgező vegyületek a véráramban, légzési nehézséget és hányást okoznak.</Toxicated.description>
+  <AFreezeandroid.label>Polimer fagyálló</AFreezeandroid.label>
+  <AFreezeandroid.description>Polimer alapú fagyálló a hűtőcsövekben. Segíti a hőszabályozást mind meleg, mind hideg környezetben.</AFreezeandroid.description>
+  <MechSwarmandroid.label>Mechanit raj</MechSwarmandroid.label>
+  <MechSwarmandroid.description>A hűtőcsövekben keringő nanomechanitok. Csúcsteljesítményen tartják a belső alkatrészeket.</MechSwarmandroid.description>
+  <Conversion.label>???</Conversion.label>
+  <Conversion.description>Fraktál vegyületek a véráramban. Rohamokat, heves hányást és a szövetek súlyos gyulladása miatti bőrszakadást okoznak.</Conversion.description>
+  <FractalPillAndroid.label>Fraktál fejlesztés</FractalPillAndroid.label>
+  <FractalPillAndroid.description>Fraktál vegyületek a hűtőcsövekben. Jelentősen javítják minden művelet hatékonyságát és erejét.</FractalPillAndroid.description>
+  <RegenHumanoid.label>Mono-kenőcs</RegenHumanoid.label>
+  <RegenHumanoid.description>Aktív regeneráló oldószerek a véráramban. Elősegítik az alapvető sejtmegújulást.</RegenHumanoid.description>
+  <RegenAndroid.label>Mono-kenőcs</RegenAndroid.label>
+  <RegenAndroid.description>Aktív regeneráló oldószerek a hűtőcsövekben. Segítik a mechanizmusok önjavítását.</RegenAndroid.description>
+  <ATPP_DummyHediff.label>Helyőrző hediff</ATPP_DummyHediff.label>
+  <ATPP_DummyHediff.labelNoun>Helyőrző hediff</ATPP_DummyHediff.labelNoun>
+
+</LanguageData>

@@ -57,22 +57,7 @@ namespace MOARANDROIDS
                 ThingDef targetDef = DefDatabase<ThingDef>.GetNamed(targetDefName, false);
                 if (targetDef != null)
                 {
-                    pawn.def = targetDef;
-
-                    if (targetKindDefName != null && pawn.kindDef != null && pawn.kindDef.defName.Contains("TX"))
-                    {
-                        PawnKindDef pk = DefDatabase<PawnKindDef>.GetNamed(targetKindDefName, false);
-                        if (pk != null)
-                        {
-                            pawn.kindDef = pk;
-                        }
-                    }
-
-                    base.applyFrameworkColor(pawn);
-
-                    pawn.Drawer?.renderer?.SetAllGraphicsDirty();
-                    PortraitsCache.SetDirty(pawn);
-                    GlobalTextureAtlasManager.TryMarkPawnFrameSetDirty(pawn);
+                    base.syncPawnAfterSyntheticSkinChange(pawn, targetDef, targetKindDefName, true);
 
                     Messages.Message("ATPP_AppliedSyntheticSkinSuccess".Translate(pawn.LabelShortCap), pawn, MessageTypeDefOf.PositiveEvent);
                 }

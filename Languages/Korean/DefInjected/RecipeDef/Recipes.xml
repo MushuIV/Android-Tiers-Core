@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATPP_DisassembleAndroid.label>사망한 안드로이드 분해</ATPP_DisassembleAndroid.label>
+  <ATPP_DisassembleAndroid.description>작동이 정지된 안드로이드를 분해하여 구성 부품으로 회수합니다.</ATPP_DisassembleAndroid.description>
+  <ATPP_DisassembleAndroid.jobString>안드로이드 분해 중.</ATPP_DisassembleAndroid.jobString>
+  <ATPP_Make_NanitesHydraulicSerum.label>나노머신 혈청 제작 (유압)</ATPP_Make_NanitesHydraulicSerum.label>
+  <ATPP_Make_NanitesHydraulicSerum.description>안드로이드의 노후화로 인한 결함을 수리할 수 있는 유압용 나노머신 혈청을 제작합니다.</ATPP_Make_NanitesHydraulicSerum.description>
+  <ATPP_Make_NanitesHydraulicSerum.jobString>안드로이드 나노머신 혈청 제작 중.</ATPP_Make_NanitesHydraulicSerum.jobString>
+  <ATPP_Make_NanitesCPUSerum.label>나노머신 혈청 제작 (CPU)</ATPP_Make_NanitesCPUSerum.label>
+  <ATPP_Make_NanitesCPUSerum.description>안드로이드의 노후화로 인한 CPU 결함을 수리할 수 있는 CPU용 나노머신 혈청을 제작합니다.</ATPP_Make_NanitesCPUSerum.description>
+  <ATPP_Make_NanitesCPUSerum.jobString>안드로이드 나노머신 혈청 제작 중.</ATPP_Make_NanitesCPUSerum.jobString>
+  <ATPP_Make_NanitesCoolingSerum.label>나노머신 혈청 제작 (냉각)</ATPP_Make_NanitesCoolingSerum.label>
+  <ATPP_Make_NanitesCoolingSerum.description>안드로이드의 노후화로 인한 냉각 시스템 결함을 수리할 수 있는 냉각용 나노머신 혈청을 제작합니다.</ATPP_Make_NanitesCoolingSerum.description>
+  <ATPP_Make_NanitesCoolingSerum.jobString>안드로이드 나노머신 혈청 제작 중.</ATPP_Make_NanitesCoolingSerum.jobString>
+  <ATPP_Make_NanitesFrameSerum.label>나노머신 혈청 제작 (골격)</ATPP_Make_NanitesFrameSerum.label>
+  <ATPP_Make_NanitesFrameSerum.description>안드로이드의 노후화로 인한 외골격 결함을 수리할 수 있는 골격용 나노머신 혈청을 제작합니다.</ATPP_Make_NanitesFrameSerum.description>
+  <ATPP_Make_NanitesFrameSerum.jobString>안드로이드 나노머신 혈청 제작 중.</ATPP_Make_NanitesFrameSerum.jobString>
+  <ATPP_Make_RXChip.label>RX 신경 칩 제작</ATPP_Make_RXChip.label>
+  <ATPP_Make_RXChip.description>개인용 스카이마인드 중계기 역할을 하는 신경 칩입니다.</ATPP_Make_RXChip.description>
+  <ATPP_Make_RXChip.jobString>RX 신경 칩 제작 중.</ATPP_Make_RXChip.jobString>
+  <ATPP_Make_VX0Chip.label>VX0 신경 칩 제작</ATPP_Make_VX0Chip.label>
+  <ATPP_Make_VX0Chip.description>숙주를 생체 대리체로 변환하는 VX0 신경 칩을 제작합니다.</ATPP_Make_VX0Chip.description>
+  <ATPP_Make_VX0Chip.jobString>VX0 신경 칩 제작 중.</ATPP_Make_VX0Chip.jobString>
+  <ATPP_Make_VX1Chip.label>VX1 신경 칩 제작</ATPP_Make_VX1Chip.label>
+  <ATPP_Make_VX1Chip.description>숙주가 모든 SX 시리즈 안드로이드나 생체 대리체를 원격 조종할 수 있게 하는 VX1 칩을 제작합니다.</ATPP_Make_VX1Chip.description>
+  <ATPP_Make_VX1Chip.jobString>VX1 신경 칩 제작 중.</ATPP_Make_VX1Chip.jobString>
+  <ATPP_Make_VX2Chip.label>VX2 신경 칩 제작</ATPP_Make_VX2Chip.label>
+  <ATPP_Make_VX2Chip.description>숙주가 SX 시리즈 안드로이드나 생체 대리체를 원격 조종하고 의식을 복제/교환할 수 있게 하는 VX2 칩을 제작합니다.</ATPP_Make_VX2Chip.description>
+  <ATPP_Make_VX2Chip.jobString>VX2 신경 칩 제작 중.</ATPP_Make_VX2Chip.jobString>
+  <ATPP_Make_VX3Chip.label>VX3 신경 칩 제작</ATPP_Make_VX3Chip.label>
+  <ATPP_Make_VX3Chip.description>숙주가 여러 SX 시리즈 안드로이드나 생체 대리체를 동시에 원격 조종하고 의식을 복제/교환할 수 있게 하는 VX3 칩을 제작합니다.</ATPP_Make_VX3Chip.description>
+  <ATPP_Make_VX3Chip.jobString>VX3 신경 칩 제작 중.</ATPP_Make_VX3Chip.jobString>
+  <ATPP_InstallVX2Chip.label>VX2 신경 칩 이식</ATPP_InstallVX2Chip.label>
+  <ATPP_InstallVX2Chip.description>숙주가 SX 시리즈 안드로이드나 생체 대리체를 원격 조종하고 의식을 복제/교환할 수 있게 하는 VX2 신경 칩을 이식합니다.</ATPP_InstallVX2Chip.description>
+  <ATPP_InstallVX2Chip.jobString>VX2 신경 칩 이식 중.</ATPP_InstallVX2Chip.jobString>
+  <ATPP_InstallVX2ChipOnAndroid.label>안드로이드에 VX2 신경 칩 이식</ATPP_InstallVX2ChipOnAndroid.label>
+  <ATPP_InstallVX2ChipOnAndroid.description>숙주가 SX 시리즈 안드로이드나 생체 대리체를 원격 조종하고 의식을 복제/교환할 수 있게 하는 안드로이드에 VX2 신경 칩을 이식합니다.</ATPP_InstallVX2ChipOnAndroid.description>
+  <ATPP_InstallVX2ChipOnAndroid.jobString>안드로이드에 VX2 신경 칩 이식 중.</ATPP_InstallVX2ChipOnAndroid.jobString>
+  <ATPP_InstallVX3Chip.label>VX3 신경 칩 이식</ATPP_InstallVX3Chip.label>
+  <ATPP_InstallVX3Chip.description>숙주가 여러 SX 시리즈 안드로이드나 생체 대리체를 동시에 원격 조종하고 의식을 복제/교환할 수 있게 하는 VX3 신경 칩을 이식합니다.</ATPP_InstallVX3Chip.description>
+  <ATPP_InstallVX3Chip.jobString>VX3 신경 칩 이식 중.</ATPP_InstallVX3Chip.jobString>
+  <ATPP_InstallVX3ChipOnAndroid.label>안드로이드에 VX3 신경 칩 이식</ATPP_InstallVX3ChipOnAndroid.label>
+  <ATPP_InstallVX3ChipOnAndroid.description>숙주가 여러 SX 시리즈 안드로이드나 생체 대리체를 동시에 원격 조종하고 의식을 복제/교환할 수 있게 하는 안드로이드에 VX3 신경 칩을 이식합니다.</ATPP_InstallVX3ChipOnAndroid.description>
+  <ATPP_InstallVX3ChipOnAndroid.jobString>안드로이드에 VX3 신경 칩 이식 중.</ATPP_InstallVX3ChipOnAndroid.jobString>
+  <ATPP_InstallRXChip.label>RX 신경 칩 이식</ATPP_InstallRXChip.label>
+  <ATPP_InstallRXChip.description>숙주의 개인용 스카이마인드 중계기 역할을 하는 RX 신경 칩을 이식합니다.</ATPP_InstallRXChip.description>
+  <ATPP_InstallRXChip.jobString>RX 신경 칩 이식 중.</ATPP_InstallRXChip.jobString>
+  <ATPP_InstallRXChipOnAndroid.label>안드로이드에 RX 신경 칩 이식</ATPP_InstallRXChipOnAndroid.label>
+  <ATPP_InstallRXChipOnAndroid.description>숙주의 개인용 스카이마인드 중계기 역할을 하는 안드로이드에 RX 신경 칩을 이식합니다.</ATPP_InstallRXChipOnAndroid.description>
+  <ATPP_InstallRXChipOnAndroid.jobString>안드로이드에 RX 신경 칩 이식 중.</ATPP_InstallRXChipOnAndroid.jobString>
+  <ATPP_InstallVX0ChipOnAndroid.label>안드로이드에 VX0 신경 칩 이식</ATPP_InstallVX0ChipOnAndroid.label>
+  <ATPP_InstallVX0ChipOnAndroid.description>숙주를 생체 대리체로 변환하는 안드로이드에 VX0 신경 칩을 이식합니다.</ATPP_InstallVX0ChipOnAndroid.description>
+  <ATPP_InstallVX0ChipOnAndroid.jobString>안드로이드에 VX0 신경 칩 이식 중.</ATPP_InstallVX0ChipOnAndroid.jobString>
+  <ATPP_InstallVX0Chip.label>VX0 신경 칩 이식</ATPP_InstallVX0Chip.label>
+  <ATPP_InstallVX0Chip.description>숙주를 생체 대리체로 변환하는 VX0 신경 칩을 이식합니다.</ATPP_InstallVX0Chip.description>
+  <ATPP_InstallVX0Chip.jobString>VX0 신경 칩 이식 중.</ATPP_InstallVX0Chip.jobString>
+  <ATPP_InstallVX1Chip.label>VX1 신경 칩 이식</ATPP_InstallVX1Chip.label>
+  <ATPP_InstallVX1Chip.description>숙주가 모든 SX 시리즈 안드로이드나 생체 대리체를 원격 조종할 수 있게 하는 VX1 신경 칩을 이식합니다.</ATPP_InstallVX1Chip.description>
+  <ATPP_InstallVX1Chip.jobString>VX1 신경 칩 이식 중.</ATPP_InstallVX1Chip.jobString>
+  <ATPP_InstallVX1ChipOnAndroid.label>안드로이드에 VX1 신경 칩 이식</ATPP_InstallVX1ChipOnAndroid.label>
+  <ATPP_InstallVX1ChipOnAndroid.description>숙주가 모든 SX 시리즈 안드로이드나 생체 대리체를 원격 조종할 수 있게 하는 안드로이드에 VX1 신경 칩을 이식합니다.</ATPP_InstallVX1ChipOnAndroid.description>
+  <ATPP_InstallVX1ChipOnAndroid.jobString>안드로이드에 VX1 신경 칩 이식 중.</ATPP_InstallVX1ChipOnAndroid.jobString>
+  <ATPP_CreateS1.label>T1 대리체 안드로이드 제작 (S1)</ATPP_CreateS1.label>
+  <ATPP_CreateS1.description>플라스틸과 부품으로 빈 S1 안드로이드를 제작합니다.</ATPP_CreateS1.description>
+  <ATPP_CreateS1.jobString>S1 안드로이드 제작 중.</ATPP_CreateS1.jobString>
+  <ATPP_CreateS2.label>T2 대리체 안드로이드 제작 (S2)</ATPP_CreateS2.label>
+  <ATPP_CreateS2.description>플라스틸과 부품으로 빈 S2 안드로이드를 제작합니다.</ATPP_CreateS2.description>
+  <ATPP_CreateS2.jobString>S2 안드로이드 제작 중.</ATPP_CreateS2.jobString>
+  <ATPP_CreateS3.label>T3 대리체 안드로이드 제작 (S3)</ATPP_CreateS3.label>
+  <ATPP_CreateS3.description>플라스틸과 부품으로 빈 S3 안드로이드를 제작합니다.</ATPP_CreateS3.description>
+  <ATPP_CreateS3.jobString>S3 안드로이드 제작 중.</ATPP_CreateS3.jobString>
+  <ATPP_CreateS4.label>T4 대리체 안드로이드 제작 (S4)</ATPP_CreateS4.label>
+  <ATPP_CreateS4.description>플라스틸과 부품으로 빈 S4 안드로이드를 제작합니다.</ATPP_CreateS4.description>
+  <ATPP_CreateS4.jobString>S4 안드로이드 제작 중.</ATPP_CreateS4.jobString>
+  <ATPP_CreateHellDrone.label>헬유닛 대리체 안드로이드 제작 (S-HU)</ATPP_CreateHellDrone.label>
+  <ATPP_CreateHellDrone.description>플라스틸과 부품으로 빈 S-HU 안드로이드를 제작합니다.</ATPP_CreateHellDrone.description>
+  <ATPP_CreateHellDrone.jobString>S-HU 안드로이드 제작 중.</ATPP_CreateHellDrone.jobString>
+  <ATPP_CreateM7.label>M7 대리체 메카노이드 제작 (SM7)</ATPP_CreateM7.label>
+  <ATPP_CreateM7.description>플라스틸과 부품으로 빈 SM7 메카노이드를 제작합니다.</ATPP_CreateM7.description>
+  <ATPP_CreateM7.jobString>SM7 메카노이드 제작 중.</ATPP_CreateM7.jobString>
+  <ATPP_CreateBlankT3.label>빈 신경망 T3 안드로이드 제작</ATPP_CreateBlankT3.label>
+  <ATPP_CreateBlankT3.description>빈 신경망 T3 안드로이드를 제작합니다</ATPP_CreateBlankT3.description>
+  <ATPP_CreateBlankT3.jobString>빈 신경망 T3 안드로이드 제작 중</ATPP_CreateBlankT3.jobString>
+  <ATPP_CreateBlankT4.label>빈 신경망 T4 안드로이드 제작</ATPP_CreateBlankT4.label>
+  <ATPP_CreateBlankT4.description>빈 신경망 T4 안드로이드를 제작합니다</ATPP_CreateBlankT4.description>
+  <ATPP_CreateBlankT4.jobString>빈 신경망 T4 안드로이드 제작 중</ATPP_CreateBlankT4.jobString>
+  <ATPP_Make_SM7Mech40MMCannon.label>40mm 기관포 제작 (SM7 무기)</ATPP_Make_SM7Mech40MMCannon.label>
+  <ATPP_Make_SM7Mech40MMCannon.description>40mm 기관포를 제작합니다 (SM7 무기)</ATPP_Make_SM7Mech40MMCannon.description>
+  <ATPP_Make_SM7Mech40MMCannon.jobString>40mm 기관포 제작 중 (SM7 무기)</ATPP_Make_SM7Mech40MMCannon.jobString>
+  <ATPP_Make_SM7MechMastiffGun.label>마스티프 산탄총 제작 (SM7 무기)</ATPP_Make_SM7MechMastiffGun.label>
+  <ATPP_Make_SM7MechMastiffGun.description>마스티프 산탄총을 제작합니다 (SM7 무기)</ATPP_Make_SM7MechMastiffGun.description>
+  <ATPP_Make_SM7MechMastiffGun.jobString>마스티프 산탄총 제작 중 (SM7 무기)</ATPP_Make_SM7MechMastiffGun.jobString>
+  <ATPP_Make_SM7MechHandCannon.label>X-5 핸드 캐논 제작 (SM7 무기)</ATPP_Make_SM7MechHandCannon.label>
+  <ATPP_Make_SM7MechHandCannon.description>X-5 핸드 캐논을 제작합니다 (SM7 무기)</ATPP_Make_SM7MechHandCannon.description>
+  <ATPP_Make_SM7MechHandCannon.jobString>X-5 핸드 캐논 제작 중 (SM7 무기)</ATPP_Make_SM7MechHandCannon.jobString>
+  <ATPP_PaintAndroidFrameworkKhaki.label>안드로이드 골격을 카키색으로 도색</ATPP_PaintAndroidFrameworkKhaki.label>
+  <ATPP_PaintAndroidFrameworkKhaki.description>안드로이드의 골격을 카키색으로 도색합니다</ATPP_PaintAndroidFrameworkKhaki.description>
+  <ATPP_PaintAndroidFrameworkKhaki.jobString>안드로이드 골격을 카키색으로 도색 중</ATPP_PaintAndroidFrameworkKhaki.jobString>
+  <ATPP_PaintAndroidFrameworkGreen.label>안드로이드 골격을 녹색으로 도색</ATPP_PaintAndroidFrameworkGreen.label>
+  <ATPP_PaintAndroidFrameworkGreen.description>안드로이드의 골격을 녹색으로 도색합니다</ATPP_PaintAndroidFrameworkGreen.description>
+  <ATPP_PaintAndroidFrameworkGreen.jobString>안드로이드 골격을 녹색으로 도색 중</ATPP_PaintAndroidFrameworkGreen.jobString>
+  <ATPP_PaintAndroidFrameworkBlue.label>안드로이드 골격을 파란색으로 도색</ATPP_PaintAndroidFrameworkBlue.label>
+  <ATPP_PaintAndroidFrameworkBlue.description>안드로이드의 골격을 파란색으로 도색합니다</ATPP_PaintAndroidFrameworkBlue.description>
+  <ATPP_PaintAndroidFrameworkBlue.jobString>안드로이드 골격을 파란색으로 도색 중</ATPP_PaintAndroidFrameworkBlue.jobString>
+  <ATPP_PaintAndroidFrameworkRed.label>안드로이드 골격을 빨간색으로 도색</ATPP_PaintAndroidFrameworkRed.label>
+  <ATPP_PaintAndroidFrameworkRed.description>안드로이드의 골격을 빨간색으로 도색합니다</ATPP_PaintAndroidFrameworkRed.description>
+  <ATPP_PaintAndroidFrameworkRed.jobString>안드로이드 골격을 빨간색으로 도색 중</ATPP_PaintAndroidFrameworkRed.jobString>
+  <ATPP_PaintAndroidFrameworkYellow.label>안드로이드 골격을 노란색으로 도색</ATPP_PaintAndroidFrameworkYellow.label>
+  <ATPP_PaintAndroidFrameworkYellow.description>안드로이드의 골격을 노란색으로 도색합니다</ATPP_PaintAndroidFrameworkYellow.description>
+  <ATPP_PaintAndroidFrameworkYellow.jobString>안드로이드 골격을 노란색으로 도색 중</ATPP_PaintAndroidFrameworkYellow.jobString>
+  <ATPP_PaintAndroidFrameworkOrange.label>안드로이드 골격을 주황색으로 도색</ATPP_PaintAndroidFrameworkOrange.label>
+  <ATPP_PaintAndroidFrameworkOrange.description>안드로이드의 골격을 주황색으로 도색합니다</ATPP_PaintAndroidFrameworkOrange.description>
+  <ATPP_PaintAndroidFrameworkOrange.jobString>안드로이드 골격을 주황색으로 도색 중</ATPP_PaintAndroidFrameworkOrange.jobString>
+  <ATPP_PaintAndroidFrameworkBlack.label>안드로이드 골격을 검은색으로 도색</ATPP_PaintAndroidFrameworkBlack.label>
+  <ATPP_PaintAndroidFrameworkBlack.description>안드로이드의 골격을 검은색으로 도색합니다</ATPP_PaintAndroidFrameworkBlack.description>
+  <ATPP_PaintAndroidFrameworkBlack.jobString>안드로이드 골격을 검은색으로 도색 중</ATPP_PaintAndroidFrameworkBlack.jobString>
+  <ATPP_PaintAndroidFrameworkWhite.label>안드로이드 골격을 흰색으로 도색</ATPP_PaintAndroidFrameworkWhite.label>
+  <ATPP_PaintAndroidFrameworkWhite.description>안드로이드의 골격을 흰색으로 도색합니다</ATPP_PaintAndroidFrameworkWhite.description>
+  <ATPP_PaintAndroidFrameworkWhite.jobString>안드로이드 골격을 흰색으로 도색 중</ATPP_PaintAndroidFrameworkWhite.jobString>
+  <ATPP_PaintAndroidFrameworkGray.label>안드로이드 골격을 회색으로 도색</ATPP_PaintAndroidFrameworkGray.label>
+  <ATPP_PaintAndroidFrameworkGray.description>안드로이드의 골격을 회색으로 도색합니다</ATPP_PaintAndroidFrameworkGray.description>
+  <ATPP_PaintAndroidFrameworkGray.jobString>안드로이드 골격을 회색으로 도색 중</ATPP_PaintAndroidFrameworkGray.jobString>
+  <ATPP_PaintAndroidFrameworkPurple.label>안드로이드 골격을 보라색으로 도색</ATPP_PaintAndroidFrameworkPurple.label>
+  <ATPP_PaintAndroidFrameworkPurple.description>안드로이드의 골격을 보라색으로 도색합니다</ATPP_PaintAndroidFrameworkPurple.description>
+  <ATPP_PaintAndroidFrameworkPurple.jobString>안드로이드 골격을 보라색으로 도색 중</ATPP_PaintAndroidFrameworkPurple.jobString>
+  <ATPP_PaintAndroidFrameworkPink.label>안드로이드 골격을 분홍색으로 도색</ATPP_PaintAndroidFrameworkPink.label>
+  <ATPP_PaintAndroidFrameworkPink.description>안드로이드의 골격을 분홍색으로 도색합니다</ATPP_PaintAndroidFrameworkPink.description>
+  <ATPP_PaintAndroidFrameworkPink.jobString>안드로이드 골격을 분홍색으로 도색 중</ATPP_PaintAndroidFrameworkPink.jobString>
+  <ATPP_PaintAndroidFrameworkCyan.label>안드로이드 골격을 청록색으로 도색</ATPP_PaintAndroidFrameworkCyan.label>
+  <ATPP_PaintAndroidFrameworkCyan.description>안드로이드의 골격을 청록색으로 도색합니다</ATPP_PaintAndroidFrameworkCyan.description>
+  <ATPP_PaintAndroidFrameworkCyan.jobString>안드로이드 골격을 청록색으로 도색 중</ATPP_PaintAndroidFrameworkCyan.jobString>
+  <ATPP_PaintAndroidFrameworkDefault.label>안드로이드 골격을 기본 색상으로 도색</ATPP_PaintAndroidFrameworkDefault.label>
+  <ATPP_PaintAndroidFrameworkDefault.description>안드로이드의 골격을 기본 색상으로 도색합니다</ATPP_PaintAndroidFrameworkDefault.description>
+  <ATPP_PaintAndroidFrameworkDefault.jobString>안드로이드 골격을 기본 색상으로 도색 중</ATPP_PaintAndroidFrameworkDefault.jobString>
+  <ATPP_ApplyHydraulicNaniteBank.label>유압 나노머신 뱅크 투여</ATPP_ApplyHydraulicNaniteBank.label>
+  <ATPP_ApplyHydraulicNaniteBank.description>고장난 안드로이드의 유압 시스템을 수리하도록 조율된 일회용 나노머신을 투여합니다.</ATPP_ApplyHydraulicNaniteBank.description>
+  <ATPP_ApplyHydraulicNaniteBank.jobString>나노머신 혈청으로 안드로이드 노화 결함 수리 중</ATPP_ApplyHydraulicNaniteBank.jobString>
+  <ATPP_ApplyHealFrameworkSystem.label>골격 나노머신 뱅크 투여</ATPP_ApplyHealFrameworkSystem.label>
+  <ATPP_ApplyHealFrameworkSystem.description>고장난 안드로이드의 외골격을 수리하도록 조율된 일회용 나노머신 뱅크를 투여합니다.</ATPP_ApplyHealFrameworkSystem.description>
+  <ATPP_ApplyHealFrameworkSystem.jobString>나노머신 혈청으로 안드로이드 노화 결함 수리 중</ATPP_ApplyHealFrameworkSystem.jobString>
+  <ATPP_ApplyHealCoolingSystem.label>냉각 나노머신 뱅크 투여</ATPP_ApplyHealCoolingSystem.label>
+  <ATPP_ApplyHealCoolingSystem.description>과열 시 고장난 안드로이드의 냉각 시스템을 수리하도록 조율된 일회용 나노머신 뱅크를 투여합니다.</ATPP_ApplyHealCoolingSystem.description>
+  <ATPP_ApplyHealCoolingSystem.jobString>나노머신 혈청으로 안드로이드 노화 결함 수리 중</ATPP_ApplyHealCoolingSystem.jobString>
+  <ATPP_ApplyHealCPUSerum.label>CPU 나노머신 뱅크 투여</ATPP_ApplyHealCPUSerum.label>
+  <ATPP_ApplyHealCPUSerum.description>고장난 안드로이드의 인공 뇌 시스템을 수리하도록 조율된 일회용 나노머신 뱅크를 투여합니다.</ATPP_ApplyHealCPUSerum.description>
+  <ATPP_ApplyHealCPUSerum.jobString>나노머신 혈청으로 안드로이드 노화 결함 수리 중</ATPP_ApplyHealCPUSerum.jobString>
+  <ATPP_Make_T1ArtificialBrain.label>T1 인공 뇌 제작</ATPP_Make_T1ArtificialBrain.label>
+  <ATPP_Make_T1ArtificialBrain.description>대리체를 빈 신경망 안드로이드로 변환하기 위한 T1 인공 뇌를 제작합니다.</ATPP_Make_T1ArtificialBrain.description>
+  <ATPP_Make_T1ArtificialBrain.jobString>T1 인공 뇌 제작 중.</ATPP_Make_T1ArtificialBrain.jobString>
+  <ATPP_Make_T2ArtificialBrain.label>T2 인공 뇌 제작</ATPP_Make_T2ArtificialBrain.label>
+  <ATPP_Make_T2ArtificialBrain.description>대리체를 빈 신경망 안드로이드로 변환하기 위한 T2 인공 뇌를 제작합니다.</ATPP_Make_T2ArtificialBrain.description>
+  <ATPP_Make_T2ArtificialBrain.jobString>T2 인공 뇌 제작 중.</ATPP_Make_T2ArtificialBrain.jobString>
+  <ATPP_Make_T3ArtificialBrain.label>T3 인공 뇌 제작</ATPP_Make_T3ArtificialBrain.label>
+  <ATPP_Make_T3ArtificialBrain.description>대리체를 빈 신경망 안드로이드로 변환하기 위한 T3 인공 뇌를 제작합니다.</ATPP_Make_T3ArtificialBrain.description>
+  <ATPP_Make_T3ArtificialBrain.jobString>T3 인공 뇌 제작 중.</ATPP_Make_T3ArtificialBrain.jobString>
+  <ATPP_Make_T4ArtificialBrain.label>T4 인공 뇌 제작</ATPP_Make_T4ArtificialBrain.label>
+  <ATPP_Make_T4ArtificialBrain.description>대리체를 빈 신경망 안드로이드로 변환하기 위한 T4 인공 뇌를 제작합니다.</ATPP_Make_T4ArtificialBrain.description>
+  <ATPP_Make_T4ArtificialBrain.jobString>T4 인공 뇌 제작 중.</ATPP_Make_T4ArtificialBrain.jobString>
+  <ATPP_InstallT1ArtificialBrain.label>T1 인공 뇌 이식</ATPP_InstallT1ArtificialBrain.label>
+  <ATPP_InstallT1ArtificialBrain.description>T1 인공 뇌를 이식하여 T1 대리체를 빈 신경망 안드로이드로 변환합니다</ATPP_InstallT1ArtificialBrain.description>
+  <ATPP_InstallT1ArtificialBrain.jobString>T1 인공 뇌 이식 중.</ATPP_InstallT1ArtificialBrain.jobString>
+  <ATPP_InstallT2ArtificialBrain.label>T2 인공 뇌 이식</ATPP_InstallT2ArtificialBrain.label>
+  <ATPP_InstallT2ArtificialBrain.description>T2 인공 뇌를 이식하여 T2 대리체를 빈 신경망 안드로이드로 변환합니다</ATPP_InstallT2ArtificialBrain.description>
+  <ATPP_InstallT2ArtificialBrain.jobString>T2 인공 뇌 이식 중.</ATPP_InstallT2ArtificialBrain.jobString>
+  <ATPP_InstallT3ArtificialBrain.label>T3 인공 뇌 이식</ATPP_InstallT3ArtificialBrain.label>
+  <ATPP_InstallT3ArtificialBrain.description>T3 인공 뇌를 이식하여 T3 대리체를 빈 신경망 안드로이드로 변환합니다</ATPP_InstallT3ArtificialBrain.description>
+  <ATPP_InstallT3ArtificialBrain.jobString>T3 인공 뇌 이식 중.</ATPP_InstallT3ArtificialBrain.jobString>
+  <ATPP_InstallT4ArtificialBrain.label>T4 인공 뇌 이식</ATPP_InstallT4ArtificialBrain.label>
+  <ATPP_InstallT4ArtificialBrain.description>T4 인공 뇌를 이식하여 T4 대리체를 빈 신경망 안드로이드로 변환합니다</ATPP_InstallT4ArtificialBrain.description>
+  <ATPP_InstallT4ArtificialBrain.jobString>T4 인공 뇌 이식 중.</ATPP_InstallT4ArtificialBrain.jobString>
+  <ATPP_CreateSX2.label>TX2 남성형 대리체 안드로이드 제작 (SX2)</ATPP_CreateSX2.label>
+  <ATPP_CreateSX2.description>플라스틸과 부품으로 빈 SX2 남성형 안드로이드를 제작합니다.</ATPP_CreateSX2.description>
+  <ATPP_CreateSX2.jobString>SX2 안드로이드 제작 중.</ATPP_CreateSX2.jobString>
+  <ATPP_CreateSX2Female.label>TX2 여성형 대리체 안드로이드 제작 (SX2)</ATPP_CreateSX2Female.label>
+  <ATPP_CreateSX2Female.description>플라스틸과 부품으로 빈 SX2 여성형 안드로이드를 제작합니다.</ATPP_CreateSX2Female.description>
+  <ATPP_CreateSX2Female.jobString>SX2 안드로이드 제작 중.</ATPP_CreateSX2Female.jobString>
+  <ATPP_CreateSX3.label>TX3 남성형 대리체 안드로이드 제작 (SX3)</ATPP_CreateSX3.label>
+  <ATPP_CreateSX3.description>플라스틸과 부품으로 빈 SX3 남성형 안드로이드를 제작합니다.</ATPP_CreateSX3.description>
+  <ATPP_CreateSX3.jobString>SX3 안드로이드 제작 중.</ATPP_CreateSX3.jobString>
+  <ATPP_CreateSX3Female.label>TX3 여성형 대리체 안드로이드 제작 (SX3)</ATPP_CreateSX3Female.label>
+  <ATPP_CreateSX3Female.description>플라스틸과 부품으로 빈 SX3 여성형 안드로이드를 제작합니다.</ATPP_CreateSX3Female.description>
+  <ATPP_CreateSX3Female.jobString>SX3 안드로이드 제작 중.</ATPP_CreateSX3Female.jobString>
+  <ATPP_CreateSX4.label>TX4 대리체 안드로이드 제작 (SX4)</ATPP_CreateSX4.label>
+  <ATPP_CreateSX4.description>플라스틸과 부품으로 빈 SX4 안드로이드를 제작합니다.</ATPP_CreateSX4.description>
+  <ATPP_CreateSX4.jobString>SX4 안드로이드 제작 중.</ATPP_CreateSX4.jobString>
+  <ATPP_CreateSX4Female.label>TX4 여성형 대리체 안드로이드 제작 (SX4)</ATPP_CreateSX4Female.label>
+  <ATPP_CreateSX4Female.description>플라스틸과 부품으로 빈 SX4 여성형 안드로이드를 제작합니다.</ATPP_CreateSX4Female.description>
+  <ATPP_CreateSX4Female.jobString>SX4 안드로이드 제작 중.</ATPP_CreateSX4Female.jobString>
+  <ATPP_CreateSX2I.label>TX2I 남성형 대리체 안드로이드 제작 (SX2I)</ATPP_CreateSX2I.label>
+  <ATPP_CreateSX2I.description>플라스틸과 부품으로 빈 SX2I 남성형 안드로이드를 제작합니다.</ATPP_CreateSX2I.description>
+  <ATPP_CreateSX2I.jobString>SX2I 안드로이드 제작 중.</ATPP_CreateSX2I.jobString>
+  <ATPP_CreateSX2IFemale.label>TX2I 여성형 대리체 안드로이드 제작 (SX2I)</ATPP_CreateSX2IFemale.label>
+  <ATPP_CreateSX2IFemale.description>플라스틸과 부품으로 빈 SX2I 여성형 안드로이드를 제작합니다.</ATPP_CreateSX2IFemale.description>
+  <ATPP_CreateSX2IFemale.jobString>SX2I 안드로이드 제작 중.</ATPP_CreateSX2IFemale.jobString>
+  <ATPP_CreateSX2K.label>TX2K 남성형 대리체 안드로이드 제작 (SX2K)</ATPP_CreateSX2K.label>
+  <ATPP_CreateSX2K.description>플라스틸과 부품으로 빈 SX2K 남성형 안드로이드를 제작합니다.</ATPP_CreateSX2K.description>
+  <ATPP_CreateSX2K.jobString>SX2K 안드로이드 제작 중.</ATPP_CreateSX2K.jobString>
+  <ATPP_CreateSX2KFemale.label>TX2K 여성형 대리체 안드로이드 제작 (SX2K)</ATPP_CreateSX2KFemale.label>
+  <ATPP_CreateSX2KFemale.description>플라스틸과 부품으로 빈 SX2K 여성형 안드로이드를 제작합니다.</ATPP_CreateSX2KFemale.description>
+  <ATPP_CreateSX2KFemale.jobString>SX2K 안드로이드 제작 중.</ATPP_CreateSX2KFemale.jobString>
+  <ATPP_CreateSX2KI.label>TX2KI 대리체 안드로이드 제작 (SX2KI)</ATPP_CreateSX2KI.label>
+  <ATPP_CreateSX2KI.description>플라스틸과 부품으로 빈 SX2KI 안드로이드를 제작합니다.</ATPP_CreateSX2KI.description>
+  <ATPP_CreateSX2KI.jobString>SX2KI 안드로이드 제작 중.</ATPP_CreateSX2KI.jobString>
+  <ATPP_CreateSX2KIFemale.label>TX2KI 여성형 대리체 안드로이드 제작 (SX2KI)</ATPP_CreateSX2KIFemale.label>
+  <ATPP_CreateSX2KIFemale.description>플라스틸과 부품으로 빈 SX2KI 여성형 안드로이드를 제작합니다.</ATPP_CreateSX2KIFemale.description>
+  <ATPP_CreateSX2KIFemale.jobString>SX2KI 여성형 안드로이드 제작 중.</ATPP_CreateSX2KIFemale.jobString>
+  <ATPP_CreateSX3I.label>TX3I 남성형 대리체 안드로이드 제작 (SX3I)</ATPP_CreateSX3I.label>
+  <ATPP_CreateSX3I.description>플라스틸과 부품으로 빈 SX3I 남성형 안드로이드를 제작합니다.</ATPP_CreateSX3I.description>
+  <ATPP_CreateSX3I.jobString>SX3I 안드로이드 제작 중.</ATPP_CreateSX3I.jobString>
+  <ATPP_CreateSX3IFemale.label>TX3I 여성형 대리체 안드로이드 제작 (SX3I)</ATPP_CreateSX3IFemale.label>
+  <ATPP_CreateSX3IFemale.description>플라스틸과 부품으로 빈 SX3I 여성형 안드로이드를 제작합니다.</ATPP_CreateSX3IFemale.description>
+  <ATPP_CreateSX3IFemale.jobString>SX3I 안드로이드 제작 중.</ATPP_CreateSX3IFemale.jobString>
+  <ATPP_CreateSX4I.label>TX4I 대리체 안드로이드 제작 (SX4I)</ATPP_CreateSX4I.label>
+  <ATPP_CreateSX4I.description>플라스틸과 부품으로 빈 SX4I 안드로이드를 제작합니다.</ATPP_CreateSX4I.description>
+  <ATPP_CreateSX4I.jobString>SX4I 안드로이드 제작 중.</ATPP_CreateSX4I.jobString>
+  <ATPP_CreateSX4IFemale.label>TX4I 여성형 대리체 안드로이드 제작 (SX4I)</ATPP_CreateSX4IFemale.label>
+  <ATPP_CreateSX4IFemale.description>플라스틸과 부품으로 빈 SX4I 여성형 안드로이드를 제작합니다.</ATPP_CreateSX4IFemale.description>
+  <ATPP_CreateSX4IFemale.jobString>SX4I 안드로이드 제작 중.</ATPP_CreateSX4IFemale.jobString>
+  <ATPP_CreateTX4Android.label>TX4 남성형 안드로이드 제작</ATPP_CreateTX4Android.label>
+  <ATPP_CreateTX4Android.description>TX4 남성형 안드로이드를 제작합니다</ATPP_CreateTX4Android.description>
+  <ATPP_CreateTX4Android.jobString>TX4 안드로이드 제작 중</ATPP_CreateTX4Android.jobString>
+  <ATPP_CreateTX4FemaleAndroid.label>TX4 여성형 안드로이드 제작</ATPP_CreateTX4FemaleAndroid.label>
+  <ATPP_CreateTX4FemaleAndroid.description>TX4 여성형 안드로이드를 제작합니다</ATPP_CreateTX4FemaleAndroid.description>
+  <ATPP_CreateTX4FemaleAndroid.jobString>TX4 안드로이드 제작 중</ATPP_CreateTX4FemaleAndroid.jobString>
+  <ATPP_CreateTX3Android.label>TX3 남성형 안드로이드 제작</ATPP_CreateTX3Android.label>
+  <ATPP_CreateTX3Android.description>TX3 남성형 안드로이드를 제작합니다</ATPP_CreateTX3Android.description>
+  <ATPP_CreateTX3Android.jobString>TX3 안드로이드 제작 중</ATPP_CreateTX3Android.jobString>
+  <ATPP_CreateTX3FemaleAndroid.label>TX3 여성형 안드로이드 제작</ATPP_CreateTX3FemaleAndroid.label>
+  <ATPP_CreateTX3FemaleAndroid.description>TX3 여성형 안드로이드를 제작합니다</ATPP_CreateTX3FemaleAndroid.description>
+  <ATPP_CreateTX3FemaleAndroid.jobString>TX3 안드로이드 제작 중</ATPP_CreateTX3FemaleAndroid.jobString>
+  <ATPP_CreateTX2Android.label>TX2 남성형 안드로이드 제작</ATPP_CreateTX2Android.label>
+  <ATPP_CreateTX2Android.description>TX2 남성형 안드로이드를 제작합니다</ATPP_CreateTX2Android.description>
+  <ATPP_CreateTX2Android.jobString>TX2 안드로이드 제작 중</ATPP_CreateTX2Android.jobString>
+  <ATPP_CreateTX2FemaleAndroid.label>TX2 여성형 안드로이드 제작</ATPP_CreateTX2FemaleAndroid.label>
+  <ATPP_CreateTX2FemaleAndroid.description>TX2 여성형 안드로이드를 제작합니다</ATPP_CreateTX2FemaleAndroid.description>
+  <ATPP_CreateTX2FemaleAndroid.jobString>TX2 안드로이드 제작 중</ATPP_CreateTX2FemaleAndroid.jobString>
+  <ATPP_CreateTX4IAndroid.label>TX4I 남성형 안드로이드 제작</ATPP_CreateTX4IAndroid.label>
+  <ATPP_CreateTX4IAndroid.description>TX4I 남성형 안드로이드를 제작합니다</ATPP_CreateTX4IAndroid.description>
+  <ATPP_CreateTX4IAndroid.jobString>TX4I 안드로이드 제작 중</ATPP_CreateTX4IAndroid.jobString>
+  <ATPP_CreateTX4IFemaleAndroid.label>TX4I 여성형 안드로이드 제작</ATPP_CreateTX4IFemaleAndroid.label>
+  <ATPP_CreateTX4IFemaleAndroid.description>TX4I 여성형 안드로이드를 제작합니다</ATPP_CreateTX4IFemaleAndroid.description>
+  <ATPP_CreateTX4IFemaleAndroid.jobString>TX4I 안드로이드 제작 중</ATPP_CreateTX4IFemaleAndroid.jobString>
+  <ATPP_CreateTX3IAndroid.label>TX3I 남성형 안드로이드 제작</ATPP_CreateTX3IAndroid.label>
+  <ATPP_CreateTX3IAndroid.description>TX3I 남성형 안드로이드를 제작합니다</ATPP_CreateTX3IAndroid.description>
+  <ATPP_CreateTX3IAndroid.jobString>TX3I 안드로이드 제작 중</ATPP_CreateTX3IAndroid.jobString>
+  <ATPP_CreateTX3IFemaleAndroid.label>TX3I 여성형 안드로이드 제작</ATPP_CreateTX3IFemaleAndroid.label>
+  <ATPP_CreateTX3IFemaleAndroid.description>TX3I 여성형 안드로이드를 제작합니다</ATPP_CreateTX3IFemaleAndroid.description>
+  <ATPP_CreateTX3IFemaleAndroid.jobString>TX3I 안드로이드 제작 중</ATPP_CreateTX3IFemaleAndroid.jobString>
+  <ATPP_CreateTX2IAndroid.label>TX2I 남성형 안드로이드 제작</ATPP_CreateTX2IAndroid.label>
+  <ATPP_CreateTX2IAndroid.description>TX2I 남성형 안드로이드를 제작합니다</ATPP_CreateTX2IAndroid.description>
+  <ATPP_CreateTX2IAndroid.jobString>TX2I 안드로이드 제작 중</ATPP_CreateTX2IAndroid.jobString>
+  <ATPP_CreateTX2IFemaleAndroid.label>TX2I 여성형 안드로이드 제작</ATPP_CreateTX2IFemaleAndroid.label>
+  <ATPP_CreateTX2IFemaleAndroid.description>TX2I 여성형 안드로이드를 제작합니다</ATPP_CreateTX2IFemaleAndroid.description>
+  <ATPP_CreateTX2IFemaleAndroid.jobString>TX2I 안드로이드 제작 중</ATPP_CreateTX2IFemaleAndroid.jobString>
+  <ATPP_CreateTX2KAndroid.label>TX2K 남성형 안드로이드 제작</ATPP_CreateTX2KAndroid.label>
+  <ATPP_CreateTX2KAndroid.description>TX2K 남성형 안드로이드를 제작합니다</ATPP_CreateTX2KAndroid.description>
+  <ATPP_CreateTX2KAndroid.jobString>TX2K 안드로이드 제작 중</ATPP_CreateTX2KAndroid.jobString>
+  <ATPP_CreateTX2KFemaleAndroid.label>TX2K 여성형 안드로이드 제작</ATPP_CreateTX2KFemaleAndroid.label>
+  <ATPP_CreateTX2KFemaleAndroid.description>TX2K 여성형 안드로이드를 제작합니다</ATPP_CreateTX2KFemaleAndroid.description>
+  <ATPP_CreateTX2KFemaleAndroid.jobString>TX2K 안드로이드 제작 중</ATPP_CreateTX2KFemaleAndroid.jobString>
+  <ATPP_CreateTX2KIAndroid.label>TX2KI 안드로이드 제작</ATPP_CreateTX2KIAndroid.label>
+  <ATPP_CreateTX2KIAndroid.description>TX2KI 안드로이드를 제작합니다</ATPP_CreateTX2KIAndroid.description>
+  <ATPP_CreateTX2KIAndroid.jobString>TX2KI 안드로이드 제작 중</ATPP_CreateTX2KIAndroid.jobString>
+  <ATPP_CreateTX2KIFemaleAndroid.label>TX2KI 여성형 안드로이드 제작</ATPP_CreateTX2KIFemaleAndroid.label>
+  <ATPP_CreateTX2KIFemaleAndroid.description>TX2KI 여성형 안드로이드를 제작합니다</ATPP_CreateTX2KIFemaleAndroid.description>
+  <ATPP_CreateTX2KIFemaleAndroid.jobString>TX2KI 안드로이드 제작 중</ATPP_CreateTX2KIFemaleAndroid.jobString>
+  <ATPP_MakeSyntheticSkinGland.label>합성 피부샘 합성</ATPP_MakeSyntheticSkinGland.label>
+  <ATPP_MakeSyntheticSkinGland.description>탄화수소 화학연료, 뉴트로아민 보존 용액, 의약품, 직물 지지체를 사용하여 인공 피부샘을 합성합니다.</ATPP_MakeSyntheticSkinGland.description>
+  <ATPP_MakeSyntheticSkinGland.jobString>합성 피부샘 합성 중.</ATPP_MakeSyntheticSkinGland.jobString>
+  <ATPP_GestateSyntheticSkinGland_Biotech.label>합성 피부샘 배양</ATPP_GestateSyntheticSkinGland_Biotech.label>
+  <ATPP_GestateSyntheticSkinGland_Biotech.description>안드로이드 생산 배양기에서 바이오텍 혈액원 용액, 세포 영양소, 의료용 안정제를 사용하여 TX 시리즈 침투형 기체를 위한 살아있는 합성 피부샘 기질을 배양합니다.</ATPP_GestateSyntheticSkinGland_Biotech.description>
+  <ATPP_GestateSyntheticSkinGland_Biotech.jobString>합성 피부샘 배양 중.</ATPP_GestateSyntheticSkinGland_Biotech.jobString>
+  <ATPP_QE_GrowSyntheticSkinGland.label>합성 피부샘 성장</ATPP_QE_GrowSyntheticSkinGland.label>
+  <ATPP_QE_GrowSyntheticSkinGland.description>Questionable Ethics 장기 배양기에서 유기 영양소와 화학 안정제를 사용하여 살아있는 생체 합성 피부샘 기질을 배양합니다.</ATPP_QE_GrowSyntheticSkinGland.description>
+  <ATPP_QE_GrowSyntheticSkinGland.jobString>합성 피부샘 배양 중.</ATPP_QE_GrowSyntheticSkinGland.jobString>
+  <ATPP_ApplySyntheticSkin.label>합성 피부 이식</ATPP_ApplySyntheticSkin.label>
+  <ATPP_ApplySyntheticSkin.description>이 TX 보병 섀시에 합성 진피 기질을 이식하여 노출된 기계식 내골격을 인간과 유사한 살아있는 합성 피부로 덮습니다. 가연성이 높아지는 대신 사회적 평판과 단열 성능이 향상되며 빗물에 의한 부식을 방지합니다.</ATPP_ApplySyntheticSkin.description>
+  <ATPP_ApplySyntheticSkin.jobString>안드로이드에 합성 피부 이식 중.</ATPP_ApplySyntheticSkin.jobString>
+  <ATPP_RemoveSyntheticSkin.label>합성 피부 제거</ATPP_RemoveSyntheticSkin.label>
+  <ATPP_RemoveSyntheticSkin.description>이 TX 침투형 기체에서 합성 피부층을 외과적으로 제거하여 아래의 강화 보병 내골격을 드러냅니다. 안드로이드는 사회적 매력은 잃지만 화염 면역과 전장 내구도를 얻습니다.</ATPP_RemoveSyntheticSkin.description>
+  <ATPP_RemoveSyntheticSkin.jobString>안드로이드에서 합성 피부 제거 중.</ATPP_RemoveSyntheticSkin.jobString>
+  <ATPP_QE_CreateTX2KMale.label>TX2K 남성형 골격 조립 (QEE 배양기)</ATPP_QE_CreateTX2KMale.label>
+  <ATPP_QE_CreateTX2KMale.description>장기 배양기에서 배양할 수 있도록 게놈 서열로 인코딩된 비활성 남성형 TX2K 외골격 프레임을 조립합니다.</ATPP_QE_CreateTX2KMale.description>
+  <ATPP_QE_CreateTX2KMale.jobString>안드로이드 제작 중</ATPP_QE_CreateTX2KMale.jobString>
+  <ATPP_QE_CreateTX2KFemale.label>TX2K 여성형 골격 조립 (QEE 배양기)</ATPP_QE_CreateTX2KFemale.label>
+  <ATPP_QE_CreateTX2KFemale.description>장기 배양기에서 배양할 수 있도록 게놈 서열로 인코딩된 비활성 여성형 TX2K 외골격 프레임을 조립합니다.</ATPP_QE_CreateTX2KFemale.description>
+  <ATPP_QE_CreateTX2KFemale.jobString>안드로이드 제작 중</ATPP_QE_CreateTX2KFemale.jobString>
+  <ATPP_QE_CreateSX2KMaleSurrogate.label>SX2K 남성형 대리체 골격 조립 (QEE 배양기)</ATPP_QE_CreateSX2KMaleSurrogate.label>
+  <ATPP_QE_CreateSX2KMaleSurrogate.description>장기 배양기에서 배양할 수 있도록 게놈 서열로 인코딩된 비활성 남성형 TX2K 대리체 외골격 프레임을 조립합니다.</ATPP_QE_CreateSX2KMaleSurrogate.description>
+  <ATPP_QE_CreateSX2KMaleSurrogate.jobString>안드로이드 제작 중</ATPP_QE_CreateSX2KMaleSurrogate.jobString>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.label>SX2K 여성형 대리체 골격 조립 (QEE 배양기)</ATPP_QE_CreateSX2KFemaleSurrogate.label>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.description>장기 배양기에서 배양할 수 있도록 게놈 서열로 인코딩된 비활성 여성형 TX2K 대리체 외골격 프레임을 조립합니다.</ATPP_QE_CreateSX2KFemaleSurrogate.description>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.jobString>안드로이드 제작 중</ATPP_QE_CreateSX2KFemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX3Male.label>TX3 남성형 골격 조립 (QEE 배양기)</ATPP_QE_CreateTX3Male.label>
+  <ATPP_QE_CreateTX3Male.description>장기 배양기에서 배양할 수 있도록 게놈 서열로 인코딩된 비활성 남성형 TX3 외골격 프레임을 조립합니다.</ATPP_QE_CreateTX3Male.description>
+  <ATPP_QE_CreateTX3Male.jobString>안드로이드 제작 중</ATPP_QE_CreateTX3Male.jobString>
+  <ATPP_QE_CreateTX3Female.label>TX3 여성형 골격 조립 (QEE 배양기)</ATPP_QE_CreateTX3Female.label>
+  <ATPP_QE_CreateTX3Female.description>장기 배양기에서 배양할 수 있도록 게놈 서열로 인코딩된 비활성 여성형 TX3 외골격 프레임을 조립합니다.</ATPP_QE_CreateTX3Female.description>
+  <ATPP_QE_CreateTX3Female.jobString>안드로이드 제작 중</ATPP_QE_CreateTX3Female.jobString>
+  <ATPP_QE_CreateSX3MaleSurrogate.label>SX3 남성형 대리체 골격 조립 (QEE 배양기)</ATPP_QE_CreateSX3MaleSurrogate.label>
+  <ATPP_QE_CreateSX3MaleSurrogate.description>장기 배양기에서 배양할 수 있도록 게놈 서열로 인코딩된 비활성 남성형 TX3 대리체 외골격 프레임을 조립합니다.</ATPP_QE_CreateSX3MaleSurrogate.description>
+  <ATPP_QE_CreateSX3MaleSurrogate.jobString>안드로이드 제작 중</ATPP_QE_CreateSX3MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX3FemaleSurrogate.label>SX3 여성형 대리체 골격 조립 (QEE 배양기)</ATPP_QE_CreateSX3FemaleSurrogate.label>
+  <ATPP_QE_CreateSX3FemaleSurrogate.description>장기 배양기에서 배양할 수 있도록 게놈 서열로 인코딩된 비활성 여성형 TX3 대리체 외골격 프레임을 조립합니다.</ATPP_QE_CreateSX3FemaleSurrogate.description>
+  <ATPP_QE_CreateSX3FemaleSurrogate.jobString>안드로이드 제작 중</ATPP_QE_CreateSX3FemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX4Male.label>TX4 남성형 골격 조립 (QEE 배양기)</ATPP_QE_CreateTX4Male.label>
+  <ATPP_QE_CreateTX4Male.description>장기 배양기에서 배양할 수 있도록 게놈 서열로 인코딩된 비활성 남성형 TX4 외골격 프레임을 조립합니다.</ATPP_QE_CreateTX4Male.description>
+  <ATPP_QE_CreateTX4Male.jobString>안드로이드 제작 중</ATPP_QE_CreateTX4Male.jobString>
+  <ATPP_QE_CreateTX4Female.label>TX4 여성형 골격 조립 (QEE 배양기)</ATPP_QE_CreateTX4Female.label>
+  <ATPP_QE_CreateTX4Female.description>장기 배양기에서 배양할 수 있도록 게놈 서열로 인코딩된 비활성 여성형 TX4 외골격 프레임을 조립합니다.</ATPP_QE_CreateTX4Female.description>
+  <ATPP_QE_CreateTX4Female.jobString>안드로이드 제작 중</ATPP_QE_CreateTX4Female.jobString>
+  <ATPP_QE_CreateSX4MaleSurrogate.label>SX4 남성형 대리체 골격 조립 (QEE 배양기)</ATPP_QE_CreateSX4MaleSurrogate.label>
+  <ATPP_QE_CreateSX4MaleSurrogate.description>장기 배양기에서 배양할 수 있도록 게놈 서열로 인코딩된 비활성 남성형 TX4 대리체 외골격 프레임을 조립합니다.</ATPP_QE_CreateSX4MaleSurrogate.description>
+  <ATPP_QE_CreateSX4MaleSurrogate.jobString>안드로이드 제작 중</ATPP_QE_CreateSX4MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX4FemaleSurrogate.label>SX4 여성형 대리체 골격 조립 (QEE 배양기)</ATPP_QE_CreateSX4FemaleSurrogate.label>
+  <ATPP_QE_CreateSX4FemaleSurrogate.description>장기 배양기에서 배양할 수 있도록 게놈 서열로 인코딩된 비활성 여성형 TX4 대리체 외골격 프레임을 조립합니다.</ATPP_QE_CreateSX4FemaleSurrogate.description>
+  <ATPP_QE_CreateSX4FemaleSurrogate.jobString>안드로이드 제작 중</ATPP_QE_CreateSX4FemaleSurrogate.jobString>
+</LanguageData>

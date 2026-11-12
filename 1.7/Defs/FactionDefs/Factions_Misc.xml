@@ -52,6 +52,14 @@
         <li>Cloth</li>
       </thingDefs>
     </apparelStuffFilter>
+      <allowedCultures>
+      <li>Astropolitan</li>
+    </allowedCultures>
+    <xenotypeSet MayRequire="Ludeon.RimWorld.Biotech">
+      <xenotypeChances>
+        <Baseliner>1.0</Baseliner>
+      </xenotypeChances>
+    </xenotypeSet>
   </FactionDef>
   <FactionDef ParentName="PlayerFactionBase">
     <defName>AndroidTiers_PlayerColonyROM</defName>
@@ -81,6 +89,14 @@
         <li>Cloth</li>
       </thingDefs>
     </apparelStuffFilter>
+      <allowedCultures>
+      <li>Astropolitan</li>
+    </allowedCultures>
+    <xenotypeSet MayRequire="Ludeon.RimWorld.Biotech">
+      <xenotypeChances>
+        <Baseliner>1.0</Baseliner>
+      </xenotypeChances>
+    </xenotypeSet>
   </FactionDef>
   <FactionDef ParentName="PlayerFactionBase">
     <defName>AndroidTiers_PlayerColonyApocalypse</defName>
@@ -110,6 +126,14 @@
         <li>Cloth</li>
       </thingDefs>
     </apparelStuffFilter>
+      <allowedCultures>
+      <li>Astropolitan</li>
+    </allowedCultures>
+    <xenotypeSet MayRequire="Ludeon.RimWorld.Biotech">
+      <xenotypeChances>
+        <Baseliner>1.0</Baseliner>
+      </xenotypeChances>
+    </xenotypeSet>
   </FactionDef>
   <FactionDef>
     <defName>AndroidRebellionAtlas</defName>
@@ -233,6 +257,14 @@
         </options>
       </li>
     </pawnGroupMakers>
+      <allowedCultures>
+      <li>Astropolitan</li>
+    </allowedCultures>
+    <xenotypeSet MayRequire="Ludeon.RimWorld.Biotech">
+      <xenotypeChances>
+        <Baseliner>1.0</Baseliner>
+      </xenotypeChances>
+    </xenotypeSet>
   </FactionDef>
   <FactionDef ParentName="FactionBase">
     <defName>AndroidFriendliesAtlas</defName>
@@ -359,5 +391,13 @@
         </options>
       </li>
     </pawnGroupMakers>
+      <allowedCultures>
+      <li>Astropolitan</li>
+    </allowedCultures>
+    <xenotypeSet MayRequire="Ludeon.RimWorld.Biotech">
+      <xenotypeChances>
+        <Baseliner>1.0</Baseliner>
+      </xenotypeChances>
+    </xenotypeSet>
   </FactionDef>
 </Defs>

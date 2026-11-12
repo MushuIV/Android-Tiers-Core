@@ -1,194 +1,132 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- Alerts -->
 	<ATPP_AlertHot3Devices>Υπερθέρμανση υπολογιστή</ATPP_AlertHot3Devices>
 	<ATPP_AlertHot3DevicesDesc>Ένας ή περισσότεροι από τους υπολογιστές σας έχουν φτάσει στο μέγιστο όριο θερμοκρασίας! Παρακαλούμε επαναφέρετε γρήγορα μια κατάλληλη θερμοκρασία!</ATPP_AlertHot3DevicesDesc>
 	<ATPP_AlertHot2Devices>Ζεστός υπολογιστής</ATPP_AlertHot2Devices>
 	<ATPP_AlertHot2DevicesDesc>Ένας ή περισσότεροι από τους υπολογιστές σας είναι ζεστοί, παρακαλούμε μειώστε γρήγορα τη θερμοκρασία περιβάλλοντος!</ATPP_AlertHot2DevicesDesc>
-	
 	<ATPP_AlertUnsecurisedClients>{0} μη ασφαλείς πελάτες SkyMind</ATPP_AlertUnsecurisedClients>
 	<ATPP_AlertUnsecurisedClientsDesc>Προειδοποίηση: έχετε ενδεχομένως {0} πελάτες SkyMind που μπορούν να παραβιαστούν μέσω του δικτύου, κατασκευάστε διακομιστές ασφαλείας για να το αποφύγετε.</ATPP_AlertUnsecurisedClientsDesc>
-	
-	<!-- Incidents -->
 	<ATPP_IncidentSurrogateHackingVirus>Ιός SX</ATPP_IncidentSurrogateHackingVirus>
 	<ATPP_IncidentSurrogateHackingCryptolocker>SX Cryptolocker</ATPP_IncidentSurrogateHackingCryptolocker>
 	<ATPP_IncidentSurrogateHackingExplosiveVirus>Εκρηκτικός ιός SX</ATPP_IncidentSurrogateHackingExplosiveVirus>
 	<ATPP_IncidentSurrogateHackingLiteDesc>Το σύστημα ασφαλείας σας εξουδετέρωσε μέρος της επίθεσης, ωστόσο ορισμένα υποσυστήματα {0} υποκατάστατων έχουν παραβιαστεί.</ATPP_IncidentSurrogateHackingLiteDesc>
-	
-	<ATPP_IncidentSurrogateHackingHardDesc>Το σύστημα ασφαλείας σας δεν προστατεύει ολόκληρο τον στόλο των υποκατάστατων ανδροειδών σας, τα λειτουργικά συστήματα {0} ανδροειδών έχουν παραβιαστεί πλήρως.</ATPP_IncidentSurrogateHackingHardDesc>	
+	<ATPP_IncidentSurrogateHackingHardDesc>Το σύστημα ασφαλείας σας δεν προστατεύει ολόκληρο τον στόλο των υποκατάστατων ανδροειδών σας, τα λειτουργικά συστήματα {0} ανδροειδών έχουν παραβιαστεί πλήρως.</ATPP_IncidentSurrogateHackingHardDesc>
 	<ATPP_IncidentVirusedDesc>Αυτά τα υποκατάστατα βρίσκονται πλέον πλήρως υπό τον έλεγχο του ιού και θα σας επιτεθούν!</ATPP_IncidentVirusedDesc>
 	<ATPP_IncidentVirusedExplosiveDesc>Αυτά τα υποκατάστατα βρίσκονται πλέον πλήρως υπό τον έλεγχο του ιού, θα σας επιτεθούν και θα προκαλέσουν έκρηξη της εσωτερικής μπαταρίας του υποκατάστατου στο τέλος μιας αντίστροφης μέτρησης!</ATPP_IncidentVirusedExplosiveDesc>
 	<ATPP_IncidentCryptolockerDesc>Όλα τα μολυσμένα υποκατάστατα είναι εντελώς άχρηστα, αυτό μπορεί να ακυρωθεί (ελπίζουμε) πληρώνοντας λύτρα στην παράταξη πίσω από αυτήν την επίθεση.</ATPP_IncidentCryptolockerDesc>
-	
 	<ATPP_IncidentDeviceHackingVirus>Ιός</ATPP_IncidentDeviceHackingVirus>
 	<ATPP_IncidentDeviceHackingCryptolocker>Cryptolocker</ATPP_IncidentDeviceHackingCryptolocker>
 	<ATPP_IncidentDeviceHackingExplosiveVirus>Εκρηκτικός ιός</ATPP_IncidentDeviceHackingExplosiveVirus>
 	<ATPP_IncidentDeviceHackingLiteDesc>Το σύστημα ασφαλείας σας εξουδετέρωσε μέρος της επίθεσης, ωστόσο {0} συνδεδεμένες συσκευές έχουν προσωρινά παραβιαστεί.</ATPP_IncidentDeviceHackingLiteDesc>
-	
-	<ATPP_IncidentDeviceHackingHardDesc>Το σύστημα ασφαλείας σας δεν προστατεύει όλες τις συνδεδεμένες συσκευές, τα λειτουργικά συστήματα {0} συνδεδεμένων συσκευών έχουν παραβιαστεί πλήρως.</ATPP_IncidentDeviceHackingHardDesc>	
+	<ATPP_IncidentDeviceHackingHardDesc>Το σύστημα ασφαλείας σας δεν προστατεύει όλες τις συνδεδεμένες συσκευές, τα λειτουργικά συστήματα {0} συνδεδεμένων συσκευών έχουν παραβιαστεί πλήρως.</ATPP_IncidentDeviceHackingHardDesc>
 	<ATPP_IncidentDeviceVirusedDesc>Αυτές οι συσκευές βρίσκονται πλέον πλήρως υπό τον έλεγχο του ιού!</ATPP_IncidentDeviceVirusedDesc>
 	<ATPP_IncidentDeviceVirusedExplosiveDesc>Αυτές οι συσκευές βρίσκονται πλέον πλήρως υπό τον έλεγχο του ιού και θα εκραγούν στο τέλος μιας αντίστροφης μέτρησης!</ATPP_IncidentDeviceVirusedExplosiveDesc>
 	<ATPP_IncidentDeviceCryptolockerDesc>Όλες οι μολυσμένες συσκευές είναι εντελώς άχρηστες, αυτό μπορεί να ακυρωθεί (ελπίζουμε) πληρώνοντας λύτρα στην παράταξη πίσω από αυτήν την επίθεση.</ATPP_IncidentDeviceCryptolockerDesc>
-	
 	<ATPP_LetterFactionRansomware>Ransomware</ATPP_LetterFactionRansomware>
 	<ATPP_LetterFactionRansomwareSkillStolenDesc>Η παράταξη {0} κατέστρεψε τομείς μνήμης που αντιστοιχούν στην δεξιότητα '{1}' του εγκεφάλου του/της {2}, μέσω του δικτύου SkyMind.</ATPP_LetterFactionRansomwareSkillStolenDesc>
 	<ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>Η παράταξη {0} μόλυνε τον εγκέφαλο του/της {1} και εγκατέστησε το αρνητικό χαρακτηριστικό '{2}', μέσω του δικτύου SkyMind.</ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>
-	
-	<!-- Needs -->
 	<ATPP_EnergyNeed>Ενέργεια</ATPP_EnergyNeed>
 	<ATPP_EnergyNeedDesc>Η ενέργεια είναι η ποσότητα ισχύος που διαθέτει ένα ανδροειδές στην εσωτερική του μπαταρία. Εάν φτάσει στο μηδέν, το ανδροειδές θα δυσλειτουργεί όλο και περισσότερο και τελικά θα απενεργοποιηθεί (θάνατος).</ATPP_EnergyNeedDesc>
-	
-	
-	<!-- NanoKits -->
 	<ATPP_NanoKitsNoCare>Χωρίς επισκευή</ATPP_NanoKitsNoCare>
 	<ATPP_NanoKitsNoKitJustVisit>Επίσκεψη τεχνικού χωρίς νανοκιτ</ATPP_NanoKitsNoKitJustVisit>
 	<ATPP_NanoKitsBasic>Βασικό νανοκιτ</ATPP_NanoKitsBasic>
 	<ATPP_NanoKitsIntermediate>Ενδιάμεσο νανοκιτ</ATPP_NanoKitsIntermediate>
 	<ATPP_NanoKitsAdvanced>Προηγμένο νανοκιτ</ATPP_NanoKitsAdvanced>
-	
-	<!-- CompInspectPane -->
 	<ATPP_UploadPercentage>Μεταφόρτωση νου: {0}%</ATPP_UploadPercentage>
 	<ATPP_DownloadPercentage>Λήψη νου: {0}%</ATPP_DownloadPercentage>
-	
 	<ATPP_PermutationPercentage>Αντιμετάθεση νου: {0}%</ATPP_PermutationPercentage>
 	<ATPP_DuplicationPercentage>Αντιγραφή νου: {0}%</ATPP_DuplicationPercentage>
 	<ATPP_UploadSkyCloudPercentage>Μεταφόρτωση νου στο SkyCloud: {0}%</ATPP_UploadSkyCloudPercentage>
 	<ATPP_DownloadFromSkyCloudPercentage>Λήψη νου από το SkyCloud: {0}%</ATPP_DownloadFromSkyCloudPercentage>
-	
 	<ATPP_SkyMindDetected>Συνδεδεμένο στο SkyMind</ATPP_SkyMindDetected>
 	<ATPP_RemotelyControlledBy>Ελέγχεται εξ αποστάσεως από {0}.</ATPP_RemotelyControlledBy>
 	<ATPP_RemotelyControl>Έλεγχος εξ αποστάσεως του {0}</ATPP_RemotelyControl>
-	
 	<ATPP_CompHotSensitiveHot3Text>Πολύ υψηλή θερμοκρασία!</ATPP_CompHotSensitiveHot3Text>
 	<ATPP_CompHotSensitiveHot2Text>Προειδοποίηση υψηλής θερμοκρασίας</ATPP_CompHotSensitiveHot2Text>
 	<ATPP_CompHotSensitiveHot1Text>Η θερμοκρασία είναι λίγο υψηλή</ATPP_CompHotSensitiveHot1Text>
 	<ATPP_CompHotSensitiveHot0Text>Ιδανική θερμοκρασία λειτουργίας</ATPP_CompHotSensitiveHot0Text>
-	
 	<ATPP_CryptoLockedSurrogate>Κλειδωμένο από cryptolocker, άχρηστο!</ATPP_CryptoLockedSurrogate>
 	<ATPP_ExplosiveVirus>Εκρηκτικός ιός: {0} δευτερόλεπτα πριν την έκρηξη της μπαταρίας!</ATPP_ExplosiveVirus>
 	<ATPP_TempHackingLosingControlIn>Απώλεια ελέγχου σε {0} δευτερόλεπτα</ATPP_TempHackingLosingControlIn>
-	
 	<ATPP_BatteryLevel>Επίπεδο μπαταρίας: {0}%</ATPP_BatteryLevel>
 	<ATPP_TempInfection>Τέλος μόλυνσης σε {0}</ATPP_TempInfection>
-	
 	<ATPP_SkyCloudCoreBooting>Εκκίνηση διακομιστή (απομένουν {0} δευτερόλεπτα)</ATPP_SkyCloudCoreBooting>
-	
 	<ATPP_NaniteFrameworkRepairingInProgress>Επισκευή σκελετού σε εξέλιξη {0}%</ATPP_NaniteFrameworkRepairingInProgress>
 	<ATPP_VX3SurrogateTypePrimary>Κύριο υποκατάστατο</ATPP_VX3SurrogateTypePrimary>
 	<ATPP_VX3SurrogateTypeSecondary>Δευτερεύον υποκατάστατο</ATPP_VX3SurrogateTypeSecondary>
-	
 	<ATPP_MindAbsorptionProgress>Απορρόφηση συνείδησης σε εξέλιξη {0}%</ATPP_MindAbsorptionProgress>
-	
 	<ATPP_Rusted>Σκουριασμένο</ATPP_Rusted>
-	
 	<ATPP_BatteryExplodeInProgress>Έκρηξη μπαταρίας {0}%</ATPP_BatteryExplodeInProgress>
-	
-	<!-- AutoDoor -->
 	<ATPP_AutoDoorOpen>Άνοιγμα</ATPP_AutoDoorOpen>
 	<ATPP_AutoDoorOpenDescription>Άνοιγμα εξ αποστάσεως μέσω ενός πυρήνα SkyCloud.</ATPP_AutoDoorOpenDescription>
 	<ATPP_AutoDoorClose>Κλείσιμο</ATPP_AutoDoorClose>
 	<ATPP_AutoDoorCloseDescription>Κλείσιμο εξ αποστάσεως μέσω ενός διακομιστή SkyCloud.</ATPP_AutoDoorCloseDescription>
 	<ATPP_AutoDoorOpenMoteText>Άνοιγμα μέσω SkyCloud</ATPP_AutoDoorOpenMoteText>
 	<ATPP_AutoDoorCloseMoteText>Κλείσιμο μέσω SkyCloud</ATPP_AutoDoorCloseMoteText>
-	
-
-	<!-- AutoFlickering -->
 	<ATPP_FlickEnable>Ενεργοποίηση μέσω SkyCloud</ATPP_FlickEnable>
 	<ATPP_FlickDisable>Απενεργοποίηση μέσω SkyCloud</ATPP_FlickDisable>
-	
-	<!-- Letters -->
 	<ATPP_LetterSurrogateDisabled>Υποκατάστατο {0} απενεργοποιήθηκε</ATPP_LetterSurrogateDisabled>
 	<ATPP_LetterSurrogateDisabledDesc>Το υποκατάστατο {0} δεν είναι πλέον λειτουργικό μετά από βίαιη επίθεση στη φυσική του ακεραιότητα.</ATPP_LetterSurrogateDisabledDesc>
-	
 	<ATPP_LetterUploadOK>Η μεταφόρτωση ολοκληρώθηκε</ATPP_LetterUploadOK>
 	<ATPP_LetterUploadOKDesc>Η μεταφόρτωση του νου του {0} ολοκληρώθηκε και μεταφέρθηκε στον τεχνητό εγκέφαλο του {1}, το {1} είναι πλέον νεκρό (ο νους συνετρίβη).</ATPP_LetterUploadOKDesc>
-	
 	<ATPP_LetterPermuteOK>Η αντιμετάθεση ολοκληρώθηκε</ATPP_LetterPermuteOK>
 	<ATPP_LetterPermuteOKDesc>Η αντιμετάθεση νου ολοκληρώθηκε, οι {0} και {1} έχουν πλέον ανταλλάξει σώματα.</ATPP_LetterPermuteOKDesc>
-	
 	<ATPP_LetterDuplicateOK>Η αντιγραφή ολοκληρώθηκε</ATPP_LetterDuplicateOK>
 	<ATPP_LetterDuplicateOKDesc>Η αντιγραφή του νου ολοκληρώθηκε, ο εγκέφαλος του {1} περιέχει τώρα ένα αντίγραφο του εγκεφάλου του {0}, το {1} μπορεί πλέον να θεωρηθεί νεκρό.</ATPP_LetterDuplicateOKDesc>
-	
 	<ATPP_LetterSkyCloudUploadOK>Η μεταφόρτωση στο SkyCloud ολοκληρώθηκε</ATPP_LetterSkyCloudUploadOK>
 	<ATPP_LetterSkyCloudUploadOKDesc>Η μεταφόρτωση του νου στο SkyCloud ολοκληρώθηκε, η συνείδηση του {0} είναι τώρα αποθηκευμένη στην κεντρική μνήμη του {1}.</ATPP_LetterSkyCloudUploadOKDesc>
-	
 	<ATPP_LetterSkyCloudReplicateOK>Η αναπαραγωγή ολοκληρώθηκε</ATPP_LetterSkyCloudReplicateOK>
 	<ATPP_LetterSkyCloudReplicateOKDesc>Η αναπαραγωγή του νευρωνικού δικτύου του {0} στη μνήμη του {1} ολοκληρώθηκε.</ATPP_LetterSkyCloudReplicateOKDesc>
-	
 	<ATPP_LetterSkyCloudDownloadOK>Η λήψη από το SkyCloud ολοκληρώθηκε</ATPP_LetterSkyCloudDownloadOK>
 	<ATPP_LetterSkyCloudDownloadOKDesc>Η λήψη του νου από το SkyCloud ολοκληρώθηκε, η συνείδηση του {0} είναι τώρα αποθηκευμένη στην κεντρική μνήμη του {1}.</ATPP_LetterSkyCloudDownloadOKDesc>
-	
 	<ATPP_LetterSkyCloudMigrateOK>Η μετανάστευση νου SkyCloud ολοκληρώθηκε</ATPP_LetterSkyCloudMigrateOK>
 	<ATPP_LetterSkyCloudMigrateOKDesc>Η μετανάστευση νου του {0} από το {1} στο {2} έχει πλέον ολοκληρωθεί.</ATPP_LetterSkyCloudMigrateOKDesc>
-	
 	<ATPP_LetterInterruptedUpload>Η μεταφόρτωση απέτυχε</ATPP_LetterInterruptedUpload>
 	<ATPP_LetterInterruptedUploadDesc>Κρίσιμο Σφάλμα: Η μεταφορά συνείδησης διακόπηκε, οδηγώντας σε οριστική καταστροφή και των δύο εγκεφάλων (θάνατος).{0}</ATPP_LetterInterruptedUploadDesc>
 	<ATPP_LetterInterruptedUploadDescCompHostDead>Θάνατος του σώματος υποδοχής</ATPP_LetterInterruptedUploadDescCompHostDead>
 	<ATPP_LetterInterruptedUploadDescCompSourceDead>Θάνατος του πομπού του νου</ATPP_LetterInterruptedUploadDescCompSourceDead>
 	<ATPP_LetterInterruptedUploadDescCompRandomError>Παρουσιάστηκε άγνωστο σφάλμα</ATPP_LetterInterruptedUploadDescCompRandomError>
 	<ATPP_LetterInterruptedUploadDescCompDiconnectionError>Ένας ή και οι δύο άποικοι δεν είναι πλέον συνδεδεμένοι στο SkyMind.</ATPP_LetterInterruptedUploadDescCompDiconnectionError>
-	
 	<ATPP_LetterFactionScam>Εξαπάτηση</ATPP_LetterFactionScam>
 	<ATPP_LetterFactionScamCryptolockerDesc>Η παράταξη {0} αποφάσισε να μην διαγράψει τον ιό cryptolocker που μόλυνε την αποικία σας, σας εξαπάτησαν...</ATPP_LetterFactionScamCryptolockerDesc>
 	<ATPP_LetterFactionScamRansomwareDesc>Η παράταξη {0} αποφάσισε να μην ακυρώσει τις επιπτώσεις του ransomware τους, σας εξαπάτησαν...</ATPP_LetterFactionScamRansomwareDesc>
-	
-	
 	<ATPP_CryptolockerNeedPayRansomTitle>Λύτρα Cryptolocker</ATPP_CryptolockerNeedPayRansomTitle>
 	<ATPP_CryptolockerNeedPayRansom>Η παράταξη {0} επικοινωνεί μαζί σας μέσω ασυρμάτου. Βρίσκονται πίσω από την επίθεση με τον ιό cryptolocker, θα αφαιρέσουν τον ιό τους με αντάλλαγμα {1} ασήμι.</ATPP_CryptolockerNeedPayRansom>
-	
 	<ATPP_RansomNeedPayRansomTitle>Λύτρα Ransomware</ATPP_RansomNeedPayRansomTitle>
 	<ATPP_RansomNeedPayRansomCorruptedSKill>Η παράταξη {0} επικοινωνεί μαζί σας μέσω ασυρμάτου. Βρίσκονται πίσω από την επίθεση ransomware, θα αποκαταστήσουν την κατεστραμμένη δεξιότητα '{1}' του {2} με αντάλλαγμα {3} ασήμι.</ATPP_RansomNeedPayRansomCorruptedSKill>
 	<ATPP_RansomNeedPayRansomDownloadedTrait>Η παράταξη {0} επικοινωνεί μαζί σας μέσω ασυρμάτου. Βρίσκονται πίσω από την επίθεση ransomware, θα αφαιρέσουν το εγκατεστημένο αρνητικό χαρακτηριστικό '{1}' του {2} με αντάλλαγμα {3} ασήμι.</ATPP_RansomNeedPayRansomDownloadedTrait>
-	
 	<ATPP_ComptHeatSensitiveComputerMeltTitle>Υπερθέρμανση διακομιστή</ATPP_ComptHeatSensitiveComputerMeltTitle>
-    <ATPP_ComptHeatSensitiveComputerMeltDesc>Ένας διακομιστής εξερράγη λόγω της υψηλής θερμοκρασίας λειτουργίας του!</ATPP_ComptHeatSensitiveComputerMeltDesc>
-	
+	<ATPP_ComptHeatSensitiveComputerMeltDesc>Ένας διακομιστής εξερράγη λόγω της υψηλής θερμοκρασίας λειτουργίας του!</ATPP_ComptHeatSensitiveComputerMeltDesc>
 	<ATPP_destroyedMindsDueToDestroyedSkyCloudCore>Χάθηκαν {0} Συνειδήσεις</ATPP_destroyedMindsDueToDestroyedSkyCloudCore>
 	<ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>Μετά την καταστροφή του Πυρήνα SkyCloud {0}, όλες οι {1} συνειδήσεις που ήταν αποθηκευμένες στην κεντρική του μνήμη χάθηκαν.</ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>
-	
 	<ATPP_LetterHackingPointsRemoved>Χάθηκαν Πόντοι Χακαρίσματος</ATPP_LetterHackingPointsRemoved>
 	<ATPP_LetterHackingPointsRemovedDesc>Όλοι οι διακομιστές χακαρίσματος στον/στους οικισμό/ούς σας είναι εκτός σύνδεσης, πράγμα που σημαίνει ότι {0} πόντοι χάθηκαν αφού δεν μπορούν πλέον να αποθηκευτούν σε κανένα μέσο!</ATPP_LetterHackingPointsRemovedDesc>
-	
 	<ATPP_LetterSkillPointsRemoved>Χάθηκαν Πόντοι Δεξιοτήτων</ATPP_LetterSkillPointsRemoved>
 	<ATPP_LetterSkillPointsRemovedDesc>Όλοι οι διακομιστές δεξιοτήτων στον/στους οικισμό/ούς σας είναι εκτός σύνδεσης, πράγμα που σημαίνει ότι {0} πόντοι χάθηκαν αφού δεν μπορούν πλέον να αποθηκευτούν σε κανένα μέσο!</ATPP_LetterSkillPointsRemovedDesc>
-	
 	<ATPP_SkyCloudCoreBooted>Το {0} εκκινήθηκε</ATPP_SkyCloudCoreBooted>
-    <ATPP_SkyCloudCoreBootedDesc>Ο διακομιστής SkyCloud {0} ξεκίνησε με επιτυχία και μπορεί πλέον να χρησιμοποιηθεί.</ATPP_SkyCloudCoreBootedDesc>
-	
+	<ATPP_SkyCloudCoreBootedDesc>Ο διακομιστής SkyCloud {0} ξεκίνησε με επιτυχία και μπορεί πλέον να χρησιμοποιηθεί.</ATPP_SkyCloudCoreBootedDesc>
 	<ATPP_LetterInterruptedSkyCloudReplication>Η αναπαραγωγή απέτυχε</ATPP_LetterInterruptedSkyCloudReplication>
 	<ATPP_LetterInterruptedSkyCloudReplicationDesc>Η αναπαραγωγή της συνείδησης του {0} απέτυχε, επειδή ο κεντρικός πυρήνας SkyCloud είναι εκτός σύνδεσης.</ATPP_LetterInterruptedSkyCloudReplicationDesc>
-	
 	<ATPP_LetterInterruptedSkyCloudMigration>Η μετανάστευση απέτυχε</ATPP_LetterInterruptedSkyCloudMigration>
 	<ATPP_LetterInterruptedSkyCloudMigrationDesc>Η μετανάστευση της συνείδησης του {0} απέτυχε, επειδή ο πυρήνας προορισμού SkyCloud είναι εκτός σύνδεσης.</ATPP_LetterInterruptedSkyCloudMigrationDesc>
-	
 	<ATPP_LetterTraitorOffline>Προδότης εκτός σύνδεσης</ATPP_LetterTraitorOffline>
 	<ATPP_LetterTraitorOfflineDesc>Ο/Η {0} πρόδωσε την παράταξή του/της επιτρέποντας να στρατολογηθεί από εσάς, η παράταξη το παρατήρησε και συνελήφθη (επομένως αποσυνδέθηκε από το υποκατάστατο που έλεγχε).</ATPP_LetterTraitorOfflineDesc>
-	
 	<ATPP_LetterInterruptedMindAbsorption>Η απορρόφηση νου απέτυχε</ATPP_LetterInterruptedMindAbsorption>
 	<ATPP_LetterInterruptedMindAbsorptionDesc>Η απορρόφηση νου του {0} απέτυχε είτε λόγω αποσύνδεσης από το SkyMind είτε επειδή κανένας διακομιστής πόντων δεν είναι λειτουργικός.</ATPP_LetterInterruptedMindAbsorptionDesc>
-	
 	<ATPP_MindAbsorptionDone>Η απορρόφηση νου ολοκληρώθηκε</ATPP_MindAbsorptionDone>
 	<ATPP_MindAbsorptionDoneDesc>Η απορρόφηση νου του {0} ολοκληρώθηκε, αποκτήθηκαν {1} πόντοι δεξιοτήτων</ATPP_MindAbsorptionDoneDesc>
-	
 	<ATPP_LetterExternalSurrogateEscape>Διαφυγή χειριστή υποκατάστατου</ATPP_LetterExternalSurrogateEscape>
 	<ATPP_LetterExternalSurrogateEscapeDesc>Ο/Η {0}, ο χειριστής του υποκατάστατου που προσπαθείτε να στρατολογήσετε, αποφάσισε να ενταχθεί στην αποικία σας, θα αποσυνδεθεί από το υποκατάστατό του και θα διαφύγει διακριτικά από την εχθρική βάση όπου βρίσκεται για να φτάσει στην αποικία σας εντός λίγων ημερών χωρίς να γνωρίζετε ακριβώς πότε.</ATPP_LetterExternalSurrogateEscapeDesc>
-	
 	<ATPP_LetterExternalSurrogateControllerJoin>Πρώην κρατούμενος εντάχθηκε</ATPP_LetterExternalSurrogateControllerJoin>
 	<ATPP_LetterExternalSurrogateControllerJoinDesc>Ο/Η {0}, ένας χειριστής υποκατάστατου που φυλακίσατε και προσηλυτίσατε επιτυχώς, μόλις έφτασε στην αποικία σας και ενώθηκε μαζί σας.</ATPP_LetterExternalSurrogateControllerJoinDesc>
-	
 	<ATPP_LetterExternalSurrogateControllerCannotJoin>Αποτυχία ένταξης πρώην κρατουμένου</ATPP_LetterExternalSurrogateControllerCannotJoin>
 	<ATPP_LetterExternalSurrogateControllerCannotJoinDesc>Ο/Η {0}, ένας χειριστής υποκατάστατου που φυλακίσατε και προσηλυτίσατε επιτυχώς, προσπάθησε να φτάσει στην αποικία σας, αλλά για άγνωστο λόγο δεν τα κατάφερε και επομένως έφυγε.</ATPP_LetterExternalSurrogateControllerCannotJoinDesc>
-	
 	<ATPP_LetterExternalSurrogateDisconnect>Αποσύνδεση χειριστή</ATPP_LetterExternalSurrogateDisconnect>
 	<ATPP_LetterExternalSurrogateDisconnectDesc>Ο/Η {0}, ο χειριστής του υποκατάστατου που προσπαθήσατε να υποδουλώσετε, αποσυνδέθηκε επειδή αυτός και η παράταξή του θεωρούν ότι δεν θα μπορούν πλέον να λάβουν πληροφορίες από την αποικία σας και η συνέχιση ως σκλάβος θα ήταν χάσιμο χρόνου.</ATPP_LetterExternalSurrogateDisconnectDesc>
-	
 	<ATPP_LetterKidnappedM8Disconnected>Αποσύνδεση M8</ATPP_LetterKidnappedM8Disconnected>
 	<ATPP_LetterKidnappedM8DisconnectedDesc>Οι απαγωγείς του M8 σας ({0} που φιλοξενεί το {1}) κατάφεραν τελικά να αποκτήσουν πρόσβαση στα κυκλώματα επικοινωνιών του, και συνειδητοποιώντας ότι το μηχάνημα συνέχιζε να επικοινωνεί μέσω της ενσωματωμένης κεραίας SkyMind, το αποσύνδεσαν. Επομένως, δεν θα μπορείτε πλέον να συνδεθείτε στο {1}.</ATPP_LetterKidnappedM8DisconnectedDesc>
-	<!-- Designators -->
 	<ATPP_DesignatorNeedSelectSX>Σφάλμα: Πρέπει να επιλέξετε μια έγκυρη συσκευή συνδεδεμένη στο δίκτυο SkyMind!</ATPP_DesignatorNeedSelectSX>
 	<ATPP_DesignatorNeedSelectSXToHack>Σφάλμα: Πρέπει να επιλέξετε ένα ανδροειδές-υποκατάστατο που ελέγχεται από άλλη παράταξη!</ATPP_DesignatorNeedSelectSXToHack>
-	
-	<!-- Comps -->
 	<ATPP_SkyMindConn>Σύνδεση στο SkyMind</ATPP_SkyMindConn>
 	<ATPP_SkyMindConnDesc>Συνδέστε αυτόν τον άποικο στο δίκτυο SkyMind για να επιτρέψετε τη μεταφόρτωση/αντιμετάθεση/αντιγραφή νου ή τον εξ αποστάσεως έλεγχο ανδροειδών της σειράς SX ή βιολογικών υποκατάστατων.</ATPP_SkyMindConnDesc>
 	<ATPP_SkyMindAutoConn>Αυτόματη σύνδεση</ATPP_SkyMindAutoConn>
@@ -210,32 +148,23 @@
 	<ATPP_FreeControllerInCaravanDesc>Σύνδεση αυτού του υποκατάστατου με έναν ελεύθερο χειριστή σε ένα καραβάνι</ATPP_FreeControllerInCaravanDesc>
 	<ATPP_AndroidSurrogateReconnectToLastController>Επανασύνδεση</ATPP_AndroidSurrogateReconnectToLastController>
 	<ATPP_AndroidSurrogateReconnectToLastControllerDesc>Επανασύνδεση του υποκατάστατου (αν είναι δυνατόν) στον τελευταίο χρήστη που το χρησιμοποίησε</ATPP_AndroidSurrogateReconnectToLastControllerDesc>
-	
-	
 	<ATPP_NoVX2Recipient>Δεν υπάρχουν διαθέσιμοι άποικοι (πρέπει να έχουν το εγκεφαλικό εμφύτευμα τσιπ VX2).</ATPP_NoVX2Recipient>
 	<ATPP_NoSkyCloudCoreAvailable>Κανένας διαθέσιμος Πυρήνας SkyCloud</ATPP_NoSkyCloudCoreAvailable>
 	<ATPP_ConsciousnessUploadNoRecipient>Δεν υπάρχει διαθέσιμος αποδέκτης ως προορισμός λήψης.</ATPP_ConsciousnessUploadNoRecipient>
 	<ATPP_ConsciousnessSelectDestination>Επιλέξτε ένα σώμα προορισμού</ATPP_ConsciousnessSelectDestination>
 	<ATPP_UploadConsciousness>Μεταφόρτωση</ATPP_UploadConsciousness>
 	<ATPP_UploadConsciousnessDesc>Μεταφόρτωση νου από αυτό το ανδροειδές σε άλλο.</ATPP_UploadConsciousnessDesc>
-	
 	<ATPP_WarningSkyMindDisconnectionRisk>Προειδοποίηση: δεν πρέπει να υπάρξει αποσύνδεση από το δίκτυο SkyMind κατά τη διάρκεια της επέμβασης γιατί θα καταστρέψει τους εγκεφάλους τους και άρα θα τους σκοτώσει</ATPP_WarningSkyMindDisconnectionRisk>
-	
 	<ATPP_UploadConsciousnessConfirm>Μεταφόρτωση νου</ATPP_UploadConsciousnessConfirm>
 	<ATPP_UploadConsciousnessConfirmDesc>Με την επικύρωση, ο/η {0} θα μεταφορτώσει τον νου του στο σώμα του {1}, πράγμα που θα συντρίψει τον νου του {1} (θα τον σκοτώσει) και το σώμα του {0} θα απενεργοποιηθεί. Είστε βέβαιοι ότι θέλετε να συνεχίσετε;</ATPP_UploadConsciousnessConfirmDesc>
-	
 	<ATPP_PermuteConsciousnessConfirm>Αντιμετάθεση νου</ATPP_PermuteConsciousnessConfirm>
 	<ATPP_PermuteConsciousnessConfirmDesc>Με την επικύρωση, ο/η {0} θα ανταλλάξει τον νου του με τον/την {1}, θα ανταλλάξουν τα σώματά τους. Είστε βέβαιοι ότι θέλετε να συνεχίσετε;</ATPP_PermuteConsciousnessConfirmDesc>
-	
 	<ATPP_DuplicateConsciousnessConfirm>Αντιγραφή νου</ATPP_DuplicateConsciousnessConfirm>
 	<ATPP_DuplicateConsciousnessConfirmDesc>Με την επικύρωση, ο/η {0} θα αντιγράψει τον νου του στον εγκέφαλο του {1}, πράγμα που θα συντρίψει τον νου του {1} (θα τον σκοτώσει). Είστε βέβαιοι ότι θέλετε να συνεχίσετε;</ATPP_DuplicateConsciousnessConfirmDesc>
-	
 	<ATPP_UseBattery>Χρήση μπαταρίας</ATPP_UseBattery>
 	<ATPP_UseBatteryDesc>Εάν ενεργοποιηθεί, αυτό θα ρυθμίσει το ανδροειδές να χρησιμοποιεί απευθείας την εσωτερική του μπαταρία αντί για τη γεννήτρια βιομάζας.</ATPP_UseBatteryDesc>
-	
 	<ATPP_RepairAndroids>Επισκευή ανδροειδών</ATPP_RepairAndroids>
 	<ATPP_RepairAndroidsDesc>Επιτρέπει σε αυτόν τον άποικο να επισκευάζει ανδροειδή.</ATPP_RepairAndroidsDesc>
-	
 	<ATPP_UploadVirus>Ιός</ATPP_UploadVirus>
 	<ATPP_UploadVirusDesc>Μεταφόρτωση ιού στο στοχευμένο υποκατάστατο.</ATPP_UploadVirusDesc>
 	<ATPP_UploadExplosiveVirus>Εκρηκτικός ιός</ATPP_UploadExplosiveVirus>
@@ -244,19 +173,15 @@
 	<ATPP_HackDesc>Χακάρετε και αποκτήστε τον έλεγχο του στοχευμένου υποκατάστατου.</ATPP_HackDesc>
 	<ATPP_HackTemp>Προσωρινό χακάρισμα</ATPP_HackTemp>
 	<ATPP_HackTempDesc>Εκτελέστε ένα γρήγορο χακάρισμα για να πάρετε προσωρινό έλεγχο του στοχευμένου υποκατάστατου.</ATPP_HackTempDesc>
-	
 	<ATPP_MoveToSkyCloud>Μεταφόρτωση στο SkyCloud</ATPP_MoveToSkyCloud>
 	<ATPP_MoveToSkyCloudDesc>Αυτή η διαδικασία θα μεταφέρει τον νου του ξενιστή σε έναν πυρήνα SkyCloud, καθιστώντας τον σχεδόν αθάνατο, αφήνοντας όμως το σώμα του νεκρό.</ATPP_MoveToSkyCloudDesc>
 	<ATPP_MoveFromSkyCloud>Λήψη από το SkyCloud</ATPP_MoveFromSkyCloud>
 	<ATPP_MoveFromSkyCloudDesc>Αυτή η λειτουργία θα μεταφέρει τον επιλεγμένο νου που είναι αποθηκευμένος σε έναν πυρήνα SkyCloud στον εγκέφαλο του ξενιστή.</ATPP_MoveFromSkyCloudDesc>
 	<ATPP_CentralCoreNbStoredMind>{0} αποθηκευμένες συνειδήσεις</ATPP_CentralCoreNbStoredMind>
 	<ATPP_CentralCoreNbAssistingMinds>{0} συνειδήσεις ανατεθειμένες σε υποβοήθηση</ATPP_CentralCoreNbAssistingMinds>
-	
-	<ATPP_CentralCoreMigrationInProgress>Μετανάστευση του {0} στο {1} σε εξέλιξη ({2}%}</ATPP_CentralCoreMigrationInProgress>
+	<ATPP_CentralCoreMigrationInProgress>Μετανάστευση του {0} στο {1} σε εξέλιξη ({2}%)</ATPP_CentralCoreMigrationInProgress>
 	<ATPP_CentralCoreProcessInMentalBreak>{0} μη χρησιμοποιήσιμο: σε ψυχική κατάρρευση</ATPP_CentralCoreProcessInMentalBreak>
-	
 	<ATPP_CentralCoreReplicationInProgress>Αναπαραγωγή συνείδησης του {0} σε εξέλιξη ({1}%)</ATPP_CentralCoreReplicationInProgress>
-	
 	<ATPP_SkyCloudFloatMenuMindsStoredSelect>Επιλέξτε μια συνείδηση</ATPP_SkyCloudFloatMenuMindsStoredSelect>
 	<ATPP_ProcessInfo>Πληροφορίες</ATPP_ProcessInfo>
 	<ATPP_ProcessInfoDesc>Λήψη πληροφοριών σχετικά με τους αποθηκευμένους νόες.</ATPP_ProcessInfoDesc>
@@ -269,41 +194,29 @@
 	<ATPP_ProcessAssistDesc>Ορίστε τη λίστα των αποθηκευμένων νοών που χρησιμοποιούνται αποκλειστικά για την υποβοήθηση των αποίκων σας που είναι συνδεδεμένοι στο δίκτυο SkyMind. Θα λάβουν γενική ενίσχυση διάθεσης για κάθε νου που ανατίθεται εδώ.</ATPP_ProcessAssistDesc>
 	<ATPP_ProcessMigrate>Μετανάστευση</ATPP_ProcessMigrate>
 	<ATPP_ProcessMigrateDesc>Μετανάστευση μιας συνείδησης από αυτόν τον πυρήνα SkyCloud σε άλλον</ATPP_ProcessMigrateDesc>
-	
 	<ATPP_ProcessAssistAssignedMinds>Αποδέσμευση νου (αφαίρεση)</ATPP_ProcessAssistAssignedMinds>
 	<ATPP_ProcessAssistUnassignedMinds>Ανάθεση νου (προσθήκη)</ATPP_ProcessAssistUnassignedMinds>
 	<ATPP_ProcessAssistAssignAll>Ανάθεση όλων των μη ανατεθειμένων νοών</ATPP_ProcessAssistAssignAll>
 	<ATPP_ProcessAssistUnassignAll>Αποδέσμευση όλων των ανατεθειμένων νοών</ATPP_ProcessAssistUnassignAll>
-	
 	<ATPP_ProcessDisconnectAllSurrogates>Αποσύνδεση όλων</ATPP_ProcessDisconnectAllSurrogates>
-	
 	<ATPP_StopVirused>Διακοπή</ATPP_StopVirused>
 	<ATPP_StopVirusedDesc>Τερματισμός λειτουργίας αυτού του μολυσμένου υποκατάστατου</ATPP_StopVirusedDesc>
-	
 	<ATPP_PreviousSurrogateControllerIs>Ο προηγούμενος χειριστής ήταν ο/η {0}</ATPP_PreviousSurrogateControllerIs>
-	
 	<ATPP_Skills>Δεξιότητες</ATPP_Skills>
 	<ATPP_SkillsDesc>Άνοιγμα του εργαστηρίου δεξιοτήτων, το οποίο θα σας επιτρέψει να μετατρέψετε τους πόντους δεξιοτήτων που παράγονται από τους διακομιστές σας σε πρόσθετες δεξιότητες για τα ανδροειδή σας</ATPP_SkillsDesc>
-	
 	<ATPP_MindAbsorption>Απορρόφηση νου</ATPP_MindAbsorption>
 	<ATPP_MindAbsorptionDesc>Απορροφήστε τον νου ενός κρατουμένου για να τον μετατρέψετε σε πόντους δεξιοτήτων (θανατηφόρα επέμβαση)</ATPP_MindAbsorptionDesc>
-	
 	<ATPP_MindAbsorptionConfirm>Απορρόφηση νου</ATPP_MindAbsorptionConfirm>
 	<ATPP_MindAbsorptionConfirmDesc>Με την επιβεβαίωση, η συνείδηση του {0} θα απορροφηθεί και θα μετατραπεί σε πόντους δεξιοτήτων (θανατηφόρα επέμβαση). Είστε βέβαιοι ότι θέλετε να συνεχίσετε;</ATPP_MindAbsorptionConfirmDesc>
-	
 	<ATPP_UploadMakeAndroidBatteryOverloadConfirm>Υπερφόρτωση μπαταρίας</ATPP_UploadMakeAndroidBatteryOverloadConfirm>
 	<ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>Προσοχή: με την επικύρωση η μπαταρία του επιλεγμένου ανδροειδούς θα υπερφορτωθεί και θα εκραγεί μετά από σύντομο χρονικό διάστημα. Θέλετε πραγματικά να συνεχίσετε;</ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>
-	
 	<ATPP_OverloadAndroid>Υπερφόρτωση</ATPP_OverloadAndroid>
 	<ATPP_OverloadAndroidDesc>Προκαλέστε έκρηξη της μπαταρίας του ανδροειδούς</ATPP_OverloadAndroidDesc>
-	<!-- Power++ compat -->
 	<ATPP_LWPNConnected>Συνδεδεμένο σε {0}</ATPP_LWPNConnected>
 	<ATPP_LWPNDisconnected>Αποσυνδεδεμένο από {0}</ATPP_LWPNDisconnected>
 	<ATPP_NoAvailableLWPN>Κανένα διαθέσιμο LWPN</ATPP_NoAvailableLWPN>
 	<ATPP_LWPNNbConnectedAndroid>Συνδεδεμένα ανδροειδή : {0}</ATPP_LWPNNbConnectedAndroid>
 	<ATPP_MessageLWPNNoSlotAvailable>Δεν υπάρχει διαθέσιμη ελεύθερη θέση LWPN !</ATPP_MessageLWPNNoSlotAvailable>
-	
-	<!-- Buildings -->
 	<ATPP_SkyMindAntennaSynthesis>Συνδεδεμένοι χρήστες: {0} / {1}</ATPP_SkyMindAntennaSynthesis>
 	<ATPP_ForceReload>Αναγκαστική φόρτιση μπαταρίας</ATPP_ForceReload>
 	<ATPP_CannotUseEveryPlaceUsed>Αδυναμία χρήσης, ο σταθμός φόρτισης είναι πλήρης.</ATPP_CannotUseEveryPlaceUsed>
@@ -316,8 +229,6 @@
 	<ATPP_SkillServersSynthesis>Διαθέσιμοι πόντοι δεξιοτήτων: {0} / {1}</ATPP_SkillServersSynthesis>
 	<ATTP_SkillSlotsAdded>Προστέθηκαν θέσεις δεξιοτήτων: {0}</ATTP_SkillSlotsAdded>
 	<ATTP_SkillProducedPoints>Παραγωγή πόντων δεξιοτήτων: {0}</ATTP_SkillProducedPoints>
-	
-	<!-- Colors -->
 	<ATPP_HairColor>Χρώμα μαλλιών</ATPP_HairColor>
 	<ATPP_HairColorBlond>Ξανθό</ATPP_HairColorBlond>
 	<ATPP_HairColorBlack>Μαύρο</ATPP_HairColorBlack>
@@ -325,7 +236,6 @@
 	<ATPP_HairColorGrey>Γκρίζο</ATPP_HairColorGrey>
 	<ATPP_HairColorGinger>Κοκκινόξανθο</ATPP_HairColorGinger>
 	<ATPP_HairColorWhite>Λευκό</ATPP_HairColorWhite>
-	
 	<ATPP_SkinColor>Χρώμα δέρματος</ATPP_SkinColor>
 	<ATPP_SkinColorVerylight>Πολύ ανοιχτό</ATPP_SkinColorVerylight>
 	<ATPP_SkinColorLight>Ανοιχτό</ATPP_SkinColorLight>
@@ -333,14 +243,11 @@
 	<ATPP_SkinColorMidbrown>Μεσαίο καστανό</ATPP_SkinColorMidbrown>
 	<ATPP_SkinColorDarkbrown>Σκούρο καστανό</ATPP_SkinColorDarkbrown>
 	<ATPP_SkinColorVerydark>Πολύ σκούρο καστανό</ATPP_SkinColorVerydark>
-	
-	<!-- Messages -->
 	<ATPP_CannotConnectToSkyMindNoNet>Αδυναμία σύνδεσης στο SkyMind, δεν υπάρχει διαθέσιμο δίκτυο!</ATPP_CannotConnectToSkyMindNoNet>
 	<ATPP_CannotConnectToSkyMind>Αδυναμία σύνδεσης στο SkyMind, δεν υπάρχουν αρκετές διαθέσιμες θέσεις!</ATPP_CannotConnectToSkyMind>
 	<ATPP_SurrogateUnexpectedDisconnection>Μη αναμενόμενη αποσύνδεση: το {0} δεν είναι πλέον συνδεδεμένο στο δίκτυο SkyMind!</ATPP_SurrogateUnexpectedDisconnection>
 	<ATPP_SurrogateConnectionCannotBeDisconnected>Αδυναμία αποσύνδεσης, το {0} βρίσκεται αυτή τη στιγμή σε ασταθή ψυχική κατάσταση</ATPP_SurrogateConnectionCannotBeDisconnected>
 	<ATPP_SurrogateConnectionOK>Το {0} είναι τώρα συνδεδεμένο στο {1}</ATPP_SurrogateConnectionOK>
-	
 	<ATPP_StartPermute>Η αντιμετάθεση συνειδήσεων μεταξύ {0} και {1} ξεκίνησε!</ATPP_StartPermute>
 	<ATPP_StartDuplicate>Η αντιγραφή της συνείδησης του {0} στο {1} ξεκίνησε!</ATPP_StartDuplicate>
 	<ATPP_StartSkyCloudUpload>Η μεταφόρτωση της συνείδησης του {0} στο {1} ξεκίνησε!</ATPP_StartSkyCloudUpload>
@@ -348,50 +255,35 @@
 	<ATPP_StartSkyCloudDownload>Η λήψη της συνείδησης του {0} στον εγκέφαλο του {1} ξεκίνησε!</ATPP_StartSkyCloudDownload>
 	<ATPP_StartSkyCloudMigration>Η μετανάστευση της συνείδησης του {0} από το {1} στο {2} ξεκίνησε!</ATPP_StartSkyCloudMigration>
 	<ATPP_StartSkyCloudMigrationFailed>Η μετανάστευση της συνείδησης του {0} στο {1} δεν μπορεί να πραγματοποιηθεί, επειδή δεν υπάρχει αρκετός χώρος αποθήκευσης συνείδησης στο {1}</ATPP_StartSkyCloudMigrationFailed>
-	
 	<ATPP_StartUpload>Η μεταφόρτωση της συνείδησης του {0} στο {1} ξεκίνησε!</ATPP_StartUpload>
-	
 	<ATPP_CanOnlyBeUsedByAndroid>Αυτή η συσκευή μπορεί να χρησιμοποιηθεί μόνο από ανδροειδή!</ATPP_CanOnlyBeUsedByAndroid>
 	<ATPP_CannotBeUsedBecauseNoOldAgeIssues>Δεν μπορεί να χρησιμοποιηθεί επειδή δεν βρέθηκαν προβλήματα γήρατος ανδροειδούς</ATPP_CannotBeUsedBecauseNoOldAgeIssues>
-	
 	<ATPP_NoBrokenStuffFound>Δεν βρέθηκαν προβλήματα για το ανδροειδές {0}!</ATPP_NoBrokenStuffFound>
 	<ATPP_BrokenStuffRepairFailed>Σφάλμα: οι νανίτες απέτυχαν να επισκευάσουν!</ATPP_BrokenStuffRepairFailed>
-	
-	<ATPP_BrokenCPURepaired>Ο τεχνητός εγκέφαλος επισκευάστηκε με επιτυχία!</ATPP_BrokenCPURepaired> 
-	<ATPP_BrokenHydraulicSystemRepaired>Το υδραυλικό σύστημα επισκευάστηκε με επιτυχία!</ATPP_BrokenHydraulicSystemRepaired> 
-	<ATPP_BrokenCoolingSystemRepaired>Το σύστημα ψύξης επισκευάστηκε με επιτυχία!</ATPP_BrokenCoolingSystemRepaired> 
+	<ATPP_BrokenCPURepaired>Ο τεχνητός εγκέφαλος επισκευάστηκε με επιτυχία!</ATPP_BrokenCPURepaired>
+	<ATPP_BrokenHydraulicSystemRepaired>Το υδραυλικό σύστημα επισκευάστηκε με επιτυχία!</ATPP_BrokenHydraulicSystemRepaired>
+	<ATPP_BrokenCoolingSystemRepaired>Το σύστημα ψύξης επισκευάστηκε με επιτυχία!</ATPP_BrokenCoolingSystemRepaired>
 	<ATPP_BrokenFrameworkRepaired>Ο σκελετός επισκευάστηκε με επιτυχία!</ATPP_BrokenFrameworkRepaired>
-	
 	<ATPP_CryptolockerClearedByFaction>Η παράταξη {0} εκκαθάρισε τον ιό cryptolocker από το μολυσμένο υποκατάστατό σας!</ATPP_CryptolockerClearedByFaction>
 	<ATPP_CryptolockerDeviceClearedByFaction>Η παράταξη {0} εκκαθάρισε τον ιό cryptolocker από τις συνδεδεμένες συσκευές σας!</ATPP_CryptolockerDeviceClearedByFaction>
 	<ATPP_RansomwareClearedByFaction>Η παράταξη {0} πραγματοποίησε τις απαραίτητες επισκευές για τη ζημιά που προκλήθηκε στο {1}</ATPP_RansomwareClearedByFaction>
-	
 	<ATPP_SurrogateHackOK>Το χακάρισμα του {0} πέτυχε!</ATPP_SurrogateHackOK>
 	<ATPP_CannotHackNotEnoughtHackingPoints>Δεν υπάρχουν αρκετοί πόντοι χακαρίσματος, απαιτούνται {0} για χακάρισμα!</ATPP_CannotHackNotEnoughtHackingPoints>
-	
 	<ATPP_ProcessDuplicateOK>Το νευρωνικό δίκτυο του {0} αναπαράγεται.</ATPP_ProcessDuplicateOK>
 	<ATPP_ProcessDuplicateFailed>Αδυναμία αναπαραγωγής νευρωνικού δικτύου του {0}, δεν υπάρχει αρκετός χώρος αποθήκευσης συνείδησης στον πυρήνα</ATPP_ProcessDuplicateFailed>
 	<ATPP_ProcessRemoveOK>Το νευρωνικό δίκτυο του {0} αφαιρέθηκε.</ATPP_ProcessRemoveOK>
 	<ATPP_ProcessAssistOK>Η συνείδηση του {0} έχει πλέον ανατεθεί για την υποβοήθηση συνδεδεμένων αποίκων.</ATPP_ProcessAssistOK>
 	<ATPP_ProcessUnassistOK>Η συνείδηση του {0} δεν είναι πλέον ανατεθειμένη για την υποβοήθηση συνδεδεμένων αποίκων.</ATPP_ProcessUnassistOK>
-	
-	
 	<ATPP_ProcessNoLongerInMentalBreak>Η συνείδηση του {0} που είναι αποθηκευμένη στο {1} δεν βρίσκεται πλέον σε ψυχική κατάρρευση</ATPP_ProcessNoLongerInMentalBreak>
 	<ATPP_CannotReconnectToLastSurrogateController>Αδυναμία επανασύνδεσης, ο τελευταίος χειριστής του υποκατάστατου δεν είναι διαθέσιμος (απασχολημένος, νεκρός, μη συνδεδεμένος στο SkyMind...)</ATPP_CannotReconnectToLastSurrogateController>
-	
 	<ATPP_ProcessMassAssist>{0} νόες έχουν ανατεθεί !</ATPP_ProcessMassAssist>
 	<ATPP_ProcessMassUnassist>{0} νόες έχουν αποδεσμευτεί !</ATPP_ProcessMassUnassist>
-	
 	<ATPP_SkillsWorkshopPointsConverted>{0} πόντοι δεξιοτήτων προστέθηκαν στο {1}</ATPP_SkillsWorkshopPointsConverted>
 	<ATPP_SkillsWorkshopAvailablePoints>Διαθέσιμοι πόντοι : {0}</ATPP_SkillsWorkshopAvailablePoints>
 	<ATPP_SkillsWorkshopAvailablePointsNote>Σημείωση : Για αυτό το μοντέλο ανδροειδούς χρειάζεστε {0} πόντους δεξιοτήτων που παράγονται από τους διακομιστές σας για να παραχθεί 1 διαθέσιμος πόντος</ATPP_SkillsWorkshopAvailablePointsNote>
-	
 	<ATPP_MindAbsorptionStarted>Η απορρόφηση νου του {0} ξεκίνησε</ATPP_MindAbsorptionStarted>
 	<ATPP_NotEnoughtSkillPoints>Δεν υπάρχουν αρκετοί διαθέσιμοι πόντοι δεξιοτήτων ! (Απαιτούνται {0} πόντοι)</ATPP_NotEnoughtSkillPoints>
 	<ATPP_CannotAddVXNeuralChipInSurrogates>Δεν μπορεί να προστεθεί αυτό το είδος τσιπ σε υποκατάστατο! Το τσιπ έχει υποστεί ζημιά και δεν μπορεί πλέον να χρησιμοποιηθεί!</ATPP_CannotAddVXNeuralChipInSurrogates>
-
-	
-	<!-- Settings -->
 	<ATPP_SettingsSectionGeneral>Γενικά</ATPP_SettingsSectionGeneral>
 	<ATPP_SettingsSectionSkyCloud>SkyCloud</ATPP_SettingsSectionSkyCloud>
 	<ATPP_SettingsSectionSecurity>Ασφάλεια</ATPP_SettingsSectionSecurity>
@@ -399,19 +291,15 @@
 	<ATPP_SettingsSectionVX3>Νευρωνικό Τσιπ VX3</ATPP_SettingsSectionVX3>
 	<ATPP_SettingsSectionSkills>Δεξιότητες T1/T2</ATPP_SettingsSectionSkills>
 	<ATPP_SettingsSectionBatteryOverload>Υπερφόρτωση μπαταρίας</ATPP_SettingsSectionBatteryOverload>
-	
 	<ATPP_SettingsDefaultAndroidGeneratorMode>Προεπιλεγμένη λειτουργία ενέργειας ανδροειδών:</ATPP_SettingsDefaultAndroidGeneratorMode>
 	<ATPP_SettingsDefaultAndroidGeneratorModeBiomass>Χρήση γεννήτριας βιομάζας (τρώνε)</ATPP_SettingsDefaultAndroidGeneratorModeBiomass>
 	<ATPP_SettingsDefaultAndroidGeneratorModeBattery>Απευθείας χρήση εσωτερικής μπαταρίας (φορτίζουν μέσω του δικτύου ηλεκτροδότησης)</ATPP_SettingsDefaultAndroidGeneratorModeBattery>
-	
 	<ATPP_SettingsMindUploadDuration>Διάρκεια μεταφόρτωσης νου ({0}h)</ATPP_SettingsMindUploadDuration>
 	<ATPP_SettingsMindReplicationDuration>Διάρκεια αναπαραγωγής νου ({0}h)</ATPP_SettingsMindReplicationDuration>
-	
 	<ATPP_SettingsMindPermutationDuration>Διάρκεια αντιμετάθεσης νου ({0}h)</ATPP_SettingsMindPermutationDuration>
 	<ATPP_SettingsMindDuplicationDuration>Διάρκεια αντιγραφής νου ({0}h)</ATPP_SettingsMindDuplicationDuration>
 	<ATPP_SettingsMindUploadPercentageFail>Κίνδυνος αποτυχίας της μεταφοράς συνείδησης ({0}%)</ATPP_SettingsMindUploadPercentageFail>
 	<ATPP_SettingsNanitePercentageFail>Κίνδυνος αποτυχίας επισκευής ανδροειδών από νανίτες ({0}%)</ATPP_SettingsNanitePercentageFail>
-	
 	<ATPP_SettingsCharchingStationWattIncrease>Αύξηση της ισχύος που καταναλώνεται όταν φορτίζει ένα {0}</ATPP_SettingsCharchingStationWattIncrease>
 	<ATPP_SettingsFoodGenerateLessEnergy>Η βιομάζα (τροφή) παρέχει λιγότερη ενέργεια στα ανδροειδή (2 φορές λιγότερη από ό,τι στους ανθρώπους)</ATPP_SettingsFoodGenerateLessEnergy>
 	<ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>Ποσοστό επαναφόρτισης μπαταρίας κάθε 6 δευτερόλεπτα ({0}%)</ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>
@@ -439,7 +327,6 @@
 	<ATPP_SettingsCostVirusExplosive>Εκρηκτικός ιός</ATPP_SettingsCostVirusExplosive>
 	<ATPP_SettingsCostHack>Χακάρισμα</ATPP_SettingsCostHack>
 	<ATPP_SettingsCostHackTemp>Προσωρινό χακάρισμα</ATPP_SettingsCostHackTemp>
-	
 	<ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>Κατά τη διάρκεια ηλιακών εκλάμψεων τα ανδροειδή καταρρέουν</ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>
 	<ATPP_SettingsDisableServersAlarm>Απενεργοποίηση συναγερμού θερμότητας διακομιστών</ATPP_SettingsDisableServersAlarm>
 	<ATPP_SettingsDisableServersAmbianceNoises>Απενεργοποίηση ήχων περιβάλλοντος διακομιστών</ATPP_SettingsDisableServersAmbianceNoises>
@@ -451,7 +338,6 @@
 	<ATPP_SettingsMindMigrationCloudDuration>Διάρκεια μετανάστευσης νου ({0}h)</ATPP_SettingsMindMigrationCloudDuration>
 	<ATPP_SettingsHideRemotelyControlledIcon>Απόκρυψη εικονιδίου πάνω από εξ αποστάσεως ελεγχόμενες συσκευές</ATPP_SettingsHideRemotelyControlledIcon>
 	<ATPP_SettingsSkyCloudBuffPerAssistingMind>Αριθμός πόντων ενίσχυσης ανά νου υποβοήθησης SkyCloud ({0})</ATPP_SettingsSkyCloudBuffPerAssistingMind>
-	
 	<ATPP_SettingsNbSlotAddedForSkillServers>Αριθμός θέσεων που προστίθενται για {0} διακομιστές δεξιοτήτων ({1})</ATPP_SettingsNbSlotAddedForSkillServers>
 	<ATPP_SettingsNbSlotAddedForHackingServers>Αριθμός θέσεων που προστίθενται για {0} διακομιστές χακαρίσματος ({1})</ATPP_SettingsNbSlotAddedForHackingServers>
 	<ATPP_SettingsNbSlotAddedForSecurityServers>Αριθμός θέσεων που προστίθενται για {0} διακομιστές ασφαλείας ({1})</ATPP_SettingsNbSlotAddedForSecurityServers>
@@ -469,28 +355,23 @@
 	<ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>Να μην αφαιρούνται τα πάθη δεξιοτήτων για ανδροειδή T1/T2</ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>
 	<ATPP_SettingsVX3MaxSurrogateControllableAtOnce>Μέγιστος αριθμός ταυτόχρονα ελεγχόμενων υποκατάστατων ({0})</ATPP_SettingsVX3MaxSurrogateControllableAtOnce>
 	<ATPP_SettingsNbPointsProducedForSkillServers>Αριθμός παραγόμενων πόντων (κάθε 30 δευτερόλεπτα) για {0} διακομιστές δεξιοτήτων ({1})</ATPP_SettingsNbPointsProducedForSkillServers>
-	
 	<ATPP_SettingsRandomSkillsMode>Οι δεξιότητες είναι τυχαίες</ATPP_SettingsRandomSkillsMode>
 	<ATPP_SettingsPreventM7T5AppearingInCharacterEditor>Αποτροπή εμφάνισης των T5/M7 στην οθόνη δημιουργίας χαρακτήρων</ATPP_SettingsPreventM7T5AppearingInCharacterEditor>
 	<ATPP_SettingsMinHoursNaniteBankFramework>Ελάχιστες απαιτούμενες ώρες για εφαρμογή της επίδρασης τραπεζών δομικών νανιτών ({0}h)</ATPP_SettingsMinHoursNaniteBankFramework>
 	<ATPP_SettingsMaxHoursNaniteBankFramework>Μέγιστες απαιτούμενες ώρες για εφαρμογή της επίδρασης τραπεζών δομικών νανιτών ({0}h)</ATPP_SettingsMaxHoursNaniteBankFramework>
-	
 	<ATPP_SettingsNbSkillPointsPerSkill>Αριθμός απαιτούμενων πόντων δεξιοτήτων για παραγωγή μιας δεξιότητας ({0})</ATPP_SettingsNbSkillPointsPerSkill>
-	<ATPP_RemoveComfortNeedForT3T4>Αφαίρεση ανάγκης άνεσης για ανδροειδή >= T3</ATPP_RemoveComfortNeedForT3T4>
+	<ATPP_RemoveComfortNeedForT3T4>Αφαίρεση ανάγκης άνεσης για ανδροειδή &gt;= T3</ATPP_RemoveComfortNeedForT3T4>
 	<ATPP_SettingsAllowHumanDrugsForT3P>Επιτρέπονται ανθρώπινα φάρμακα/ναρκωτικά για ανδροειδή T3+</ATPP_SettingsAllowHumanDrugsForT3P>
 	<ATPP_SettingsAllowHumanDrugsFor>Επιτρέπονται ανθρώπινα φάρμακα/ναρκωτικά για ανδροειδή</ATPP_SettingsAllowHumanDrugsFor>
-	
 	<ATPP_SettingsUploadMindToSkyCloudCoreMode>Λειτουργία μεταφόρτωσης νου σε Πυρήνα SkyCloud :</ATPP_SettingsUploadMindToSkyCloudCoreMode>
 	<ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>Το σώμα του αρχικού νου εξοντώνεται</ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>
 	<ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>Το νευρωνικό τσιπ του αρχικού νου αναδιαμορφώνει αυτόματα τα κυκλώματά του σε λειτουργία VX0</ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>
 	<ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>Τίποτα δεν συμβαίνει στο σώμα του αρχικού νου (αντιγραφή)</ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>
 	<ATPP_SettingsRemoveSimpleMindedTraitOnUpload>Αφαίρεση του χαρακτηριστικού απλοϊκότητας όταν ένα T1 μεταφέρεται σε πιο προηγμένο ξενιστή (άνθρωπος, T2+)</ATPP_SettingsRemoveSimpleMindedTraitOnUpload>
-	
 	<ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>Πιθανότητα τα παραγόμενα ανδροειδή να μπορούν να βαφτούν ή να σκουριάσουν ({0}%)</ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>
 	<ATPP_SettingsAndroidsCanRust>Τα ανδροειδή μπορούν να σκουριάσουν</ATPP_SettingsAndroidsCanRust>
 	<ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>Ελάχιστος αριθμός ημερών πριν σκουριάσει η βαφή των ανδροειδών ({0} days)</ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>
 	<ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>Μέγιστος αριθμός ημερών πριν σκουριάσει η βαφή των ανδροειδών ({0} days)</ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>
-	
 	<ATPP_SettingsAndroidsAreRare>Κάντε τα ανδροειδή σπάνια για άλλες παρατάξεις (ΠΡΟΣΟΧΗ θα αφαιρέσει όλες τις παρατάξεις ανδροειδών)</ATPP_SettingsAndroidsAreRare>
 	<ATPP_SettingsAllowAutoRepaint>Επιτρέψτε στα ανδροειδή να προγραμματίζουν αυτόματα μια επαναβαφή όταν η τρέχουσα βαφή λήξει σύντομα</ATPP_SettingsAllowAutoRepaint>
 	<ATPP_SettingsAllowAutoRepaintPrisoned>Επιτρέψτε και στα φυλακισμένα ανδροειδή να επαναπρογραμματίζουν εργασία βαφής</ATPP_SettingsAllowAutoRepaintPrisoned>
@@ -506,7 +387,6 @@
 	<ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>Πιθανότητα ο στρατολογημένος χειριστής υποκατάστατου να διαφύγει και να ενταχθεί στην παράταξή σας χωρίς να συλληφθεί ({0}%)</ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>
 	<ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>Ελάχιστος αριθμός ωρών πριν οι απαγωγείς αποσυνδέσουν το M8 από το SkyMind ({0}h)</ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>
 	<ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>Μέγιστος αριθμός ωρών πριν οι απαγωγείς αποσυνδέσουν το M8 από το SkyMind ({0}h)</ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>
-	
 	<ATPP_SettingsAndroidOverloadBatteryProrata>Η ισχύς της έκρηξης είναι ανάλογη με το επίπεδο της μπαταρίας</ATPP_SettingsAndroidOverloadBatteryProrata>
 	<ATPP_SettingsAndroidOverloadRadius>Ακτίνα έκρηξης ανδροειδούς ({0})</ATPP_SettingsAndroidOverloadRadius>
 	<ATPP_SettingsM7OverloadRadius>Ακτίνα έκρηξης M7 ({0})</ATPP_SettingsM7OverloadRadius>
@@ -515,4 +395,12 @@
 	<ATPP_SettingsAndroidOverloadExplosionTypeFire>Εμπρηστική</ATPP_SettingsAndroidOverloadExplosionTypeFire>
 	<ATPP_SettingsSetT1ResearchToIndustrialTechLevel>Αλλαγή της έρευνας T1 σε βιομηχανικό τεχνολογικό επίπεδο αντί για διαστημικό</ATPP_SettingsSetT1ResearchToIndustrialTechLevel>
 	<ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>Κατά την αντιγραφή νου, οι ικανότητες μοναδικών ρόλων μεταφέρονται στον νου προορισμού</ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>
+	<ATPP_AppliedSyntheticSkinSuccess>Επιτυχής μεταμόσχευση συνθετικού δερματικού στρώματος στο {0}. Η μονάδα είναι πλέον κατάλληλη για διείσδυση.</ATPP_AppliedSyntheticSkinSuccess>
+	<ATPP_RemovedSyntheticSkinSuccess>Επιτυχής αφαίρεση συνθετικού δέρματος από το {0}, αποκαλύπτοντας τον βαρύ ενδοσκελετό μάχης.</ATPP_RemovedSyntheticSkinSuccess>
+	<ATPP_AndroidSpawned>Το {0} δημιουργήθηκε.</ATPP_AndroidSpawned>
+	<ATPP_Transcendant>Υπερβατικός</ATPP_Transcendant>
+	<ATPP_LWPSel>Επιλογή LWPN</ATPP_LWPSel>
+	<ATPP_WPNListRow>{0} ({1} W διαθέσιμα)</ATPP_WPNListRow>
+	<ATPP_ClearCurrentWPNConnection>Εκκαθάριση τρέχουσας σύνδεσης LWPN</ATPP_ClearCurrentWPNConnection>
+	<ATPP_LocalWirelessPowerSelectorListTitle>Επιλογή τοπικού ασύρματου δικτύου ισχύος</ATPP_LocalWirelessPowerSelectorListTitle>
 </LanguageData>

@@ -79,9 +79,12 @@
           <li>Android2Tier</li>
         </notXenophobistTowards>
         <alienPartGenerator>
-          <alienbodytypes>
+          <bodyTypes>
             <li>Male</li>
-          </alienbodytypes>
+          </bodyTypes>
+          <headTypes>
+            <li>Male_AverageNormal</li>
+          </headTypes>
           <colorChannels>
             <li>
               <name>skin</name>

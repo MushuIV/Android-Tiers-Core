@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATPP_NanitesHydraulicSerum.label>나노머신 뱅크 (유압)</ATPP_NanitesHydraulicSerum.label>
+  <ATPP_NanitesHydraulicSerum.description>노화로 손상된 안드로이드의 유압 시스템을 수리하도록 조율된 일회용 나노머신 뱅크입니다.</ATPP_NanitesHydraulicSerum.description>
+  <ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>이 나노머신 혈청을 사용하여 안드로이드의 노화 결함 수리</ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesCPUSerum.label>나노머신 뱅크 (CPU)</ATPP_NanitesCPUSerum.label>
+  <ATPP_NanitesCPUSerum.description>노화로 손상된 안드로이드의 인공 뇌 시스템을 수리하도록 조율된 일회용 나노머신 뱅크입니다.</ATPP_NanitesCPUSerum.description>
+  <ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>이 나노머신 혈청을 사용하여 안드로이드의 노화 결함 수리</ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesCoolingSerum.label>나노머신 뱅크 (냉각)</ATPP_NanitesCoolingSerum.label>
+  <ATPP_NanitesCoolingSerum.description>과열 및 노화로 손상된 안드로이드의 냉각 시스템을 수리하도록 조율된 일회용 나노머신 뱅크입니다.</ATPP_NanitesCoolingSerum.description>
+  <ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>이 나노머신 혈청을 사용하여 안드로이드의 노화 결함 수리</ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesFrameSerum.label>나노머신 뱅크 (골격)</ATPP_NanitesFrameSerum.label>
+  <ATPP_NanitesFrameSerum.description>노화로 손상된 안드로이드의 외골격을 수리하도록 조율된 일회용 나노머신 뱅크입니다.</ATPP_NanitesFrameSerum.description>
+  <ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>이 나노머신 혈청을 사용하여 안드로이드의 노화 결함 수리</ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>
+  <ATPP_AndroidNanokitBasic.label>기본 나노키트</ATPP_AndroidNanokitBasic.label>
+  <ATPP_AndroidNanokitBasic.description>안드로이드의 부상을 치료하기 위한 나노봇이 들어있는 키트입니다.</ATPP_AndroidNanokitBasic.description>
+  <ATPP_AndroidNanokitIntermediate.label>중급 나노키트</ATPP_AndroidNanokitIntermediate.label>
+  <ATPP_AndroidNanokitIntermediate.description>안드로이드의 부상을 치료하기 위한 나노봇이 들어있는 키트입니다.</ATPP_AndroidNanokitIntermediate.description>
+  <ATPP_AndroidNanokitAdvanced.label>고급 나노키트</ATPP_AndroidNanokitAdvanced.label>
+  <ATPP_AndroidNanokitAdvanced.description>안드로이드의 부상을 치료하기 위한 나노봇이 들어있는 키트입니다.</ATPP_AndroidNanokitAdvanced.description>
+  <ATPP_RXChip.label>RX 신경 칩</ATPP_RXChip.label>
+  <ATPP_RXChip.description>개인용 스카이마인드 중계기 역할을 하는 신경 칩입니다.</ATPP_RXChip.description>
+  <ATPP_VX0Chip.label>VX0 신경 칩</ATPP_VX0Chip.label>
+  <ATPP_VX0Chip.description>숙주를 생체 대리체로 변환하는 신경 칩입니다.</ATPP_VX0Chip.description>
+  <ATPP_VX1Chip.label>VX1 신경 칩</ATPP_VX1Chip.label>
+  <ATPP_VX1Chip.description>숙주가 모든 SX 시리즈 안드로이드나 생체 대리체를 원격 조종할 수 있게 하는 신경 칩입니다.</ATPP_VX1Chip.description>
+  <ATPP_VX2Chip.label>VX2 신경 칩</ATPP_VX2Chip.label>
+  <ATPP_VX2Chip.description>숙주가 SX 시리즈 안드로이드나 생체 대리체를 원격 조종하고 의식을 교환/복제할 수 있게 하는 신경 칩입니다.</ATPP_VX2Chip.description>
+  <ATPP_VX3Chip.label>VX3 신경 칩</ATPP_VX3Chip.label>
+  <ATPP_VX3Chip.description>숙주가 여러 SX 시리즈 안드로이드나 생체 대리체를 동시에 원격 조종하고 의식을 교환/복제할 수 있게 하는 신경 칩입니다.</ATPP_VX3Chip.description>
+  <ATPP_T1ArtificialBrain.label>T1 인공 뇌</ATPP_T1ArtificialBrain.label>
+  <ATPP_T1ArtificialBrain.description>T1 대리체를 빈 신경망 안드로이드로 변환할 수 있는 T1 인공 뇌</ATPP_T1ArtificialBrain.description>
+  <ATPP_T2ArtificialBrain.label>T2 인공 뇌</ATPP_T2ArtificialBrain.label>
+  <ATPP_T2ArtificialBrain.description>T2 대리체를 빈 신경망 안드로이드로 변환할 수 있는 T2 인공 뇌</ATPP_T2ArtificialBrain.description>
+  <ATPP_T3ArtificialBrain.label>T3 인공 뇌</ATPP_T3ArtificialBrain.label>
+  <ATPP_T3ArtificialBrain.description>T3 대리체를 빈 신경망 안드로이드로 변환할 수 있는 T3 인공 뇌</ATPP_T3ArtificialBrain.description>
+  <ATPP_T4ArtificialBrain.label>T4 인공 뇌</ATPP_T4ArtificialBrain.label>
+  <ATPP_T4ArtificialBrain.description>T4 대리체를 빈 신경망 안드로이드로 변환할 수 있는 T4 인공 뇌</ATPP_T4ArtificialBrain.description>
+  <ATPP_SyntheticSkinGland.label>합성 피부샘</ATPP_SyntheticSkinGland.label>
+  <ATPP_SyntheticSkinGland.description>휴면 상태의 표피 기질과 영양 미세관으로 구성된 첨단 생체 합성 기관입니다. TX 시리즈 전투 섀시에 이식하거나 배양기 조립 중 통합하면 피하 외피와 결합하여 확장되며, 인간과 같은 단열성, 촉각 반응, 정교한 피부 위장을 제공합니다.</ATPP_SyntheticSkinGland.description>
+  <ATPP_GS_TX2KMale.label>남성형 TX2K 골격</ATPP_GS_TX2KMale.label>
+  <ATPP_GS_TX2KMale.description>피부 성장이 완료된 후 배양기에서 활성화되기를 기다리고 있는 비활성 기능성 TX2K 외골격</ATPP_GS_TX2KMale.description>
+  <ATPP_GS_TX2KFemale.label>여성형 TX2K 골격</ATPP_GS_TX2KFemale.label>
+  <ATPP_GS_TX2KFemale.description>피부 성장이 완료된 후 배양기에서 활성화되기를 기다리고 있는 비활성 기능성 TX2K 외골격</ATPP_GS_TX2KFemale.description>
+  <ATPP_GS_TX3Male.label>남성형 TX3 골격</ATPP_GS_TX3Male.label>
+  <ATPP_GS_TX3Male.description>피부 성장이 완료된 후 배양기에서 활성화되기를 기다리고 있는 비활성 기능성 TX3 외골격</ATPP_GS_TX3Male.description>
+  <ATPP_GS_TX3Female.label>여성형 TX3 골격</ATPP_GS_TX3Female.label>
+  <ATPP_GS_TX3Female.description>피부 성장이 완료된 후 배양기에서 활성화되기를 기다리고 있는 비활성 기능성 TX3 외골격</ATPP_GS_TX3Female.description>
+  <ATPP_GS_TX4Male.label>남성형 TX4 골격</ATPP_GS_TX4Male.label>
+  <ATPP_GS_TX4Male.description>피부 성장이 완료된 후 배양기에서 활성화되기를 기다리고 있는 비활성 기능성 TX4 외골격</ATPP_GS_TX4Male.description>
+  <ATPP_GS_TX4Female.label>여성형 TX4 골격</ATPP_GS_TX4Female.label>
+  <ATPP_GS_TX4Female.description>피부 성장이 완료된 후 배양기에서 활성화되기를 기다리고 있는 비활성 기능성 TX4 외골격</ATPP_GS_TX4Female.description>
+</LanguageData>

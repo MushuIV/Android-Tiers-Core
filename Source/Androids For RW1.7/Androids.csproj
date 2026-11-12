@@ -10,7 +10,6 @@
     <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
     <LangVersion>latest</LangVersion>
     <Nullable>disable</Nullable>
-    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <GenerateDependencyFile>false</GenerateDependencyFile>
   </PropertyGroup>

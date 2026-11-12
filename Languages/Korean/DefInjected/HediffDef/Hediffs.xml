@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATPP_ConsciousnessUpload.label>의식 업로드</ATPP_ConsciousnessUpload.label>
+  <ATPP_ConsciousnessUpload.labelNoun>의식 업로드 중</ATPP_ConsciousnessUpload.labelNoun>
+  <ATPP_NoHost.label>연결된 호스트 없음</ATPP_NoHost.label>
+  <ATPP_NoHost.labelNoun>연결된 호스트 없음</ATPP_NoHost.labelNoun>
+  <ATPP_HediffRXChip.label>RX 신경 칩</ATPP_HediffRXChip.label>
+  <ATPP_HediffRXChip.labelNoun>개인용 스카이마인드 중계기 역할을 하는 신경 칩입니다.</ATPP_HediffRXChip.labelNoun>
+  <ATPP_HediffVX0Chip.label>VX0 신경 칩</ATPP_HediffVX0Chip.label>
+  <ATPP_HediffVX0Chip.labelNoun>숙주를 생체 대리체로 변환하는 신경 칩</ATPP_HediffVX0Chip.labelNoun>
+  <ATPP_HediffVX1Chip.label>VX1 신경 칩</ATPP_HediffVX1Chip.label>
+  <ATPP_HediffVX1Chip.labelNoun>VX1 신경 칩</ATPP_HediffVX1Chip.labelNoun>
+  <ATPP_HediffVX2Chip.label>VX2 신경 칩</ATPP_HediffVX2Chip.label>
+  <ATPP_HediffVX2Chip.labelNoun>VX2 신경 칩</ATPP_HediffVX2Chip.labelNoun>
+  <ATPP_HediffVX3Chip.label>VX3 신경 칩</ATPP_HediffVX3Chip.label>
+  <ATPP_HediffVX3Chip.labelNoun>VX3 신경 칩</ATPP_HediffVX3Chip.labelNoun>
+  <ATPP_InRemoteControlMode.label>원격 조종 모드 활성화됨</ATPP_InRemoteControlMode.label>
+  <ATPP_InRemoteControlMode.labelNoun>원격 조종 모드 활성화됨</ATPP_InRemoteControlMode.labelNoun>
+  <ATPP_RemotelyControlled.label>원격 조종 중</ATPP_RemotelyControlled.label>
+  <ATPP_RemotelyControlled.labelNoun>원격 조종 중</ATPP_RemotelyControlled.labelNoun>
+  <ATPP_SolarFlareAndroidImpact.label>태양 플레어</ATPP_SolarFlareAndroidImpact.label>
+  <ATPP_SolarFlareAndroidImpact.labelNoun>태양 플레어</ATPP_SolarFlareAndroidImpact.labelNoun>
+  <ATPP_LowNetworkSignal.label>스카이마인드 네트워크 신호 미약</ATPP_LowNetworkSignal.label>
+  <ATPP_LowNetworkSignal.labelNoun>스카이마인드 네트워크 신호 미약</ATPP_LowNetworkSignal.labelNoun>
+  <ATPP_Rusted.label>녹슬음</ATPP_Rusted.label>
+  <ATPP_Rusted.labelNoun>녹슬음</ATPP_Rusted.labelNoun>
+  <ATPP_BlankAndroid.label>빈 신경망</ATPP_BlankAndroid.label>
+  <ATPP_BlankAndroid.labelNoun>빈 신경망</ATPP_BlankAndroid.labelNoun>
+  <ATPP_SurrogateInit.label>연결 초기화</ATPP_SurrogateInit.label>
+  <ATPP_SurrogateInit.labelNoun>연결 초기화</ATPP_SurrogateInit.labelNoun>
+  <ATPP_AssistingMinds.label>스카이크라우드 코어의 보조 의식</ATPP_AssistingMinds.label>
+  <ATPP_AssistingMinds.labelNoun>스카이크라우드 코어의 보조 의식</ATPP_AssistingMinds.labelNoun>
+  <DecayedFrame.label>노후화된 메인프레임</DecayedFrame.label>
+  <DecayedFrame.labelNoun>노후화된 메인프레임</DecayedFrame.labelNoun>
+  <CorruptMemory.label>손상된 메모리</CorruptMemory.label>
+  <WeakValves.label>약화된 밸브</WeakValves.label>
+  <ExaggeratedHealing.label>과민 반응</ExaggeratedHealing.label>
+  <FaultyPump.label>고장난 펌프</FaultyPump.label>
+  <FaultyPump.labelNoun>고장난 펌프</FaultyPump.labelNoun>
+  <ShutdownAndroid.label>폐기됨</ShutdownAndroid.label>
+  <ShutdownAndroid.description>AI 코어가 영구적으로 정지되고 완전히 초기화되었습니다.</ShutdownAndroid.description>
+  <RebootingSequenceAT.label>재부팅 중</RebootingSequenceAT.label>
+  <RebootingSequenceAT.description>AI 코어에서 재부팅 시퀀스가 실행 중입니다.</RebootingSequenceAT.description>
+  <NoFreeWillAT.label>무감정</NoFreeWillAT.label>
+  <NoFreeWillAT.labelNoun>무감정</NoFreeWillAT.labelNoun>
+  <NoFreeWillAT.description>AI 코어의 도덕 및 감정 반응 구역이 개조되어 기분이 완전히 중립적이며 고차원적 기능이 결여되어 있습니다.</NoFreeWillAT.description>
+  <FreshReprogramming.label>최근 재프로그래밍됨</FreshReprogramming.label>
+  <FreshReprogramming.description>최근 재프로그래밍된 AI 코어입니다. 모든 새 소프트웨어를 컴파일하고 자동 교정하는 동안 능력이 저하될 수 있습니다.</FreshReprogramming.description>
+  <OverclockedAndroid.label>오버클럭됨</OverclockedAndroid.label>
+  <OverclockedAndroid.labelNoun>오버클럭 업그레이드</OverclockedAndroid.labelNoun>
+  <OverclockedAndroid.description>안드로이드 AI 코어의 연산 구역이 가속되어 기능 처리 속도가 빨라지지만 하드웨어 부하도 증가합니다.</OverclockedAndroid.description>
+  <BatteryChargeMech.label>배터리</BatteryChargeMech.label>
+  <BatteryChargeMech.description>작동 정지까지 남은 배터리 수명</BatteryChargeMech.description>
+  <AndroidCoolantLoss.label>냉각수 손실</AndroidCoolantLoss.label>
+  <AndroidCoolantLoss.description>내부 배관의 냉각수가 손실되어 냉각 능력이 저하되고 내부 부품이 과열됩니다.</AndroidCoolantLoss.description>
+  <AndroidOverheating.label>과열</AndroidOverheating.label>
+  <AndroidFreezing.label>동결</AndroidFreezing.label>
+  <PlatingSteel.label>강철 골격</PlatingSteel.label>
+  <PlatingSteel.labelNoun>기본 강철 골격</PlatingSteel.labelNoun>
+  <PlatingSteel.description>장착된 강철 골격입니다.</PlatingSteel.description>
+  <PlatingPlasteel.label>플라스틸 골격 외장</PlatingPlasteel.label>
+  <PlatingPlasteel.labelNoun>튼튼한 플라스틸 골격 외장</PlatingPlasteel.labelNoun>
+  <PlatingPlasteel.description>장착된 플라스틸 골격 외장입니다.</PlatingPlasteel.description>
+  <PlatingComposite.label>복합재 골격 장갑</PlatingComposite.label>
+  <PlatingComposite.labelNoun>고장력 복합재 장갑</PlatingComposite.labelNoun>
+  <PlatingComposite.description>장착된 복합재 골격 장갑입니다.</PlatingComposite.description>
+  <MiningArm_AT.label>채굴 팔</MiningArm_AT.label>
+  <MiningArm_AT.labelNoun>채굴 팔</MiningArm_AT.labelNoun>
+  <MiningArm_AT.description>장착된 채굴 팔입니다.</MiningArm_AT.description>
+  <HydraulicFrame.label>유압 골격</HydraulicFrame.label>
+  <HydraulicFrame.labelNoun>유압 골격</HydraulicFrame.labelNoun>
+  <HydraulicFrame.description>장착된 유압 골격입니다.</HydraulicFrame.description>
+  <HydraulicLeg.label>유압 다리</HydraulicLeg.label>
+  <HydraulicLeg.labelNoun>유압 다리</HydraulicLeg.labelNoun>
+  <HydraulicLeg.description>장착된 유압 다리입니다.</HydraulicLeg.description>
+  <HydraulicArm.label>유압 팔</HydraulicArm.label>
+  <HydraulicArm.labelNoun>유압 팔</HydraulicArm.labelNoun>
+  <HydraulicArm.description>장착된 유압 팔입니다.</HydraulicArm.description>
+  <MakeshiftRLeg.label>임시 대체 다리</MakeshiftRLeg.label>
+  <MakeshiftRLeg.labelNoun>임시 대체 다리</MakeshiftRLeg.labelNoun>
+  <MakeshiftRLeg.description>장착된 임시 대체 다리입니다.</MakeshiftRLeg.description>
+  <MakeshiftRArm.label>임시 대체 팔</MakeshiftRArm.label>
+  <MakeshiftRArm.labelNoun>임시 대체 팔</MakeshiftRArm.labelNoun>
+  <MakeshiftRArm.description>장착된 임시 대체 팔입니다.</MakeshiftRArm.description>
+  <BRArm.label>기본 대체 팔</BRArm.label>
+  <BRArm.labelNoun>기본 대체 팔</BRArm.labelNoun>
+  <BRArm.description>장착된 기본 대체 팔입니다.</BRArm.description>
+  <BRLeg.label>기본 대체 다리</BRLeg.label>
+  <BRLeg.labelNoun>기본 대체 다리</BRLeg.labelNoun>
+  <BRLeg.description>장착된 기본 대체 다리입니다.</BRLeg.description>
+  <BLReceptor.label>조잡한 광학 센서</BLReceptor.label>
+  <BLReceptor.labelNoun>조잡한 광학 센서</BLReceptor.labelNoun>
+  <BLReceptor.description>장착된 조잡한 광학 센서입니다.</BLReceptor.description>
+  <BHeatsink.label>조잡한 방열판</BHeatsink.label>
+  <BHeatsink.labelNoun>조잡한 방열판</BHeatsink.labelNoun>
+  <BHeatsink.description>장착된 조잡한 방열판입니다.</BHeatsink.description>
+  <BCoolantPump.label>조잡한 냉각 펌프</BCoolantPump.label>
+  <BCoolantPump.labelNoun>조잡한 냉각 펌프</BCoolantPump.labelNoun>
+  <BCoolantPump.description>장착된 조잡한 냉각 펌프입니다.</BCoolantPump.description>
+  <BBattery.label>조잡한 배터리 팩</BBattery.label>
+  <BBattery.labelNoun>조잡한 배터리 팩</BBattery.labelNoun>
+  <BBattery.description>장착된 조잡한 배터리 팩입니다.</BBattery.description>
+  <BMStorage.label>조잡한 메카나이트 저장고</BMStorage.label>
+  <BMStorage.labelNoun>조잡한 메카나이트 저장고</BMStorage.labelNoun>
+  <BMStorage.description>장착된 조잡한 메카나이트 저장고입니다.</BMStorage.description>
+  <BTransformer.label>조잡한 생체 반응로</BTransformer.label>
+  <BTransformer.labelNoun>조잡한 생체 반응로</BTransformer.labelNoun>
+  <BTransformer.description>장착된 조잡한 생체 반응로입니다.</BTransformer.description>
+  <BVAdapter.label>조잡한 전력 변환기</BVAdapter.label>
+  <BVAdapter.labelNoun>조잡한 전력 변환기</BVAdapter.labelNoun>
+  <BVAdapter.description>장착된 조잡한 전력 변환기입니다.</BVAdapter.description>
+  <BasicRearCounterweight.label>기본 균형추</BasicRearCounterweight.label>
+  <BasicRearCounterweight.labelNoun>기본 균형추</BasicRearCounterweight.labelNoun>
+  <BasicRearCounterweight.description>장착된 기본 균형추입니다.</BasicRearCounterweight.description>
+  <CrudeJawAndroid.label>조잡한 턱</CrudeJawAndroid.label>
+  <CrudeJawAndroid.labelNoun>조잡한 턱</CrudeJawAndroid.labelNoun>
+  <CrudeJawAndroid.description>장착된 조잡한 턱입니다.</CrudeJawAndroid.description>
+  <ARArm.label>고출력 팔</ARArm.label>
+  <ARArm.labelNoun>고출력 팔</ARArm.labelNoun>
+  <ARArm.description>장착된 고출력 팔입니다.</ARArm.description>
+  <ARLeg.label>고출력 다리</ARLeg.label>
+  <ARLeg.labelNoun>고출력 다리</ARLeg.labelNoun>
+  <ARLeg.description>장착된 고출력 다리입니다.</ARLeg.description>
+  <ALReceptor.label>고급 광학 센서</ALReceptor.label>
+  <ALReceptor.labelNoun>고급 광학 센서</ALReceptor.labelNoun>
+  <ALReceptor.description>장착된 고급 광학 센서입니다.</ALReceptor.description>
+  <AHeatsink.label>고급 방열판</AHeatsink.label>
+  <AHeatsink.labelNoun>고급 방열판</AHeatsink.labelNoun>
+  <AHeatsink.description>장착된 고급 방열판입니다.</AHeatsink.description>
+  <ACoolantPump.label>고급 냉각 펌프</ACoolantPump.label>
+  <ACoolantPump.labelNoun>고급 냉각 펌프</ACoolantPump.labelNoun>
+  <ACoolantPump.description>장착된 고급 냉각 펌프입니다.</ACoolantPump.description>
+  <ABattery.label>고급 배터리 팩</ABattery.label>
+  <ABattery.labelNoun>고급 배터리 팩</ABattery.labelNoun>
+  <ABattery.description>장착된 고급 배터리 팩입니다.</ABattery.description>
+  <AMStorage.label>고급 메카나이트 저장고</AMStorage.label>
+  <AMStorage.labelNoun>고급 메카나이트 저장고</AMStorage.labelNoun>
+  <AMStorage.description>장착된 고급 메카나이트 저장고입니다.</AMStorage.description>
+  <ATransformer.label>고급 생체 반응로</ATransformer.label>
+  <ATransformer.labelNoun>고급 생체 반응로</ATransformer.labelNoun>
+  <ATransformer.description>장착된 고급 생체 반응로입니다.</ATransformer.description>
+  <AVAdapter.label>고급 전력 변환기</AVAdapter.label>
+  <AVAdapter.labelNoun>고급 전력 변환기</AVAdapter.labelNoun>
+  <AVAdapter.description>장착된 고급 전력 변환기입니다.</AVAdapter.description>
+  <AdvRearCounterweight.label>자이로 균형추</AdvRearCounterweight.label>
+  <AdvRearCounterweight.labelNoun>자이로 균형추</AdvRearCounterweight.labelNoun>
+  <AdvRearCounterweight.description>장착된 자이로 균형추입니다.</AdvRearCounterweight.description>
+  <AdvJawAndroid.label>사이버네틱 턱</AdvJawAndroid.label>
+  <AdvJawAndroid.labelNoun>사이버네틱 턱</AdvJawAndroid.labelNoun>
+  <AdvJawAndroid.description>장착된 사이버네틱 턱입니다.</AdvJawAndroid.description>
+  <PositronMind.label>양전자 재배선</PositronMind.label>
+  <PositronMind.labelNoun>양전자 재배선</PositronMind.labelNoun>
+  <PositronMind.description>장착된 양전자 재배선입니다.</PositronMind.description>
+  <SoldierMind.label>병사 업그레이드</SoldierMind.label>
+  <SoldierMind.labelNoun>병사 업그레이드</SoldierMind.labelNoun>
+  <SoldierMind.description>장착된 병사 업그레이드입니다.</SoldierMind.description>
+  <BuilderMind.label>청사진 뱅크</BuilderMind.label>
+  <BuilderMind.labelNoun>청사진 뱅크</BuilderMind.labelNoun>
+  <BuilderMind.description>장착된 청사진 뱅크입니다.</BuilderMind.description>
+  <SurgeonMind.label>이식형 트라이코더</SurgeonMind.label>
+  <SurgeonMind.labelNoun>이식형 트라이코더</SurgeonMind.labelNoun>
+  <SurgeonMind.description>이식된 트라이코더입니다.</SurgeonMind.description>
+  <SpeedMind.label>신경 고속도로</SpeedMind.label>
+  <SpeedMind.labelNoun>신경 고속도로</SpeedMind.labelNoun>
+  <SpeedMind.description>장착된 신경 고속도로입니다.</SpeedMind.description>
+  <GeoMind.label>지질 뱅크</GeoMind.label>
+  <GeoMind.labelNoun>지질 뱅크</GeoMind.labelNoun>
+  <GeoMind.description>장착된 지질 뱅크입니다.</GeoMind.description>
+  <MechanicMind.label>공학 임플란트</MechanicMind.label>
+  <MechanicMind.labelNoun>공학 임플란트</MechanicMind.labelNoun>
+  <MechanicMind.description>장착된 공학 임플란트입니다.</MechanicMind.description>
+  <CookingMind.label>요리 임플란트</CookingMind.label>
+  <CookingMind.labelNoun>요리 임플란트</CookingMind.labelNoun>
+  <CookingMind.description>장착된 요리 임플란트입니다.</CookingMind.description>
+  <CharismaMind.label>카리스마 임플란트</CharismaMind.label>
+  <CharismaMind.labelNoun>카리스마 임플란트</CharismaMind.labelNoun>
+  <CharismaMind.description>장착된 카리스마 임플란트입니다.</CharismaMind.description>
+  <NegotiatorMind.label>협상가 임플란트</NegotiatorMind.label>
+  <NegotiatorMind.labelNoun>협상가 임플란트</NegotiatorMind.labelNoun>
+  <NegotiatorMind.description>장착된 협상가 임플란트입니다.</NegotiatorMind.description>
+  <ZoologyMind.label>동물학 임플란트</ZoologyMind.label>
+  <ZoologyMind.labelNoun>동물학 임플란트</ZoologyMind.labelNoun>
+  <ZoologyMind.description>장착된 동물학 임플란트입니다.</ZoologyMind.description>
+  <AgriculturalMind.label>농업 임플란트</AgriculturalMind.label>
+  <AgriculturalMind.labelNoun>농업 임플란트</AgriculturalMind.labelNoun>
+  <AgriculturalMind.description>장착된 농업 임플란트입니다.</AgriculturalMind.description>
+  <UnskilledMind.label>기본 노동 칩</UnskilledMind.label>
+  <UnskilledMind.labelNoun>기본 노동 칩</UnskilledMind.labelNoun>
+  <UnskilledMind.description>장착된 기본 노동 칩입니다.</UnskilledMind.description>
+  <AR2Arm.label>사이버네틱 팔</AR2Arm.label>
+  <AR2Arm.labelNoun>사이버네틱 팔</AR2Arm.labelNoun>
+  <AR2Arm.description>장착된 사이버네틱 팔입니다.</AR2Arm.description>
+  <AR2Leg.label>사이버네틱 다리</AR2Leg.label>
+  <AR2Leg.labelNoun>사이버네틱 다리</AR2Leg.labelNoun>
+  <AR2Leg.description>장착된 사이버네틱 다리입니다.</AR2Leg.description>
+  <AL2Receptor.label>아르코테크 광학 센서</AL2Receptor.label>
+  <AL2Receptor.labelNoun>아르코테크 광학 센서</AL2Receptor.labelNoun>
+  <AL2Receptor.description>장착된 아르코테크 광학 센서입니다.</AL2Receptor.description>
+  <A2Heatsink.label>아르코테크 방열판</A2Heatsink.label>
+  <A2Heatsink.labelNoun>아르코테크 방열판</A2Heatsink.labelNoun>
+  <A2Heatsink.description>장착된 아르코테크 방열판입니다.</A2Heatsink.description>
+  <A2CoolantPump.label>아르코테크 냉각 펌프</A2CoolantPump.label>
+  <A2CoolantPump.labelNoun>아르코테크 냉각 펌프</A2CoolantPump.labelNoun>
+  <A2CoolantPump.description>장착된 아르코테크 냉각 펌프입니다.</A2CoolantPump.description>
+  <A2Battery.label>아르코테크 배터리 팩</A2Battery.label>
+  <A2Battery.labelNoun>아르코테크 배터리 팩</A2Battery.labelNoun>
+  <A2Battery.description>장착된 아르코테크 배터리 팩입니다.</A2Battery.description>
+  <A2MStorage.label>아르코테크 메카나이트 저장고</A2MStorage.label>
+  <A2MStorage.labelNoun>아르코테크 메카나이트 저장고</A2MStorage.labelNoun>
+  <A2MStorage.description>장착된 아르코테크 메카나이트 저장고입니다.</A2MStorage.description>
+  <A2Transformer.label>아르코테크 생체 반응로</A2Transformer.label>
+  <A2Transformer.labelNoun>아르코테크 생체 반응로</A2Transformer.labelNoun>
+  <A2Transformer.description>장착된 아르코테크 생체 반응로입니다.</A2Transformer.description>
+  <A2VAdapter.label>아르코테크 전력 변환기</A2VAdapter.label>
+  <A2VAdapter.labelNoun>아르코테크 전력 변환기</A2VAdapter.labelNoun>
+  <A2VAdapter.description>장착된 아르코테크 전력 변환기입니다.</A2VAdapter.description>
+  <HearingSensorCrude.label>조잡한 청각 센서</HearingSensorCrude.label>
+  <HearingSensorCrude.labelNoun>조잡한 청각 센서</HearingSensorCrude.labelNoun>
+  <HearingSensorCrude.description>장착된 조잡한 청각 센서입니다.</HearingSensorCrude.description>
+  <HearingSensorAdv.label>고급 청각 센서</HearingSensorAdv.label>
+  <HearingSensorAdv.labelNoun>고급 청각 센서</HearingSensorAdv.labelNoun>
+  <HearingSensorAdv.description>장착된 고급 청각 센서입니다.</HearingSensorAdv.description>
+  <HearingSensorArch.label>아르코테크 청각 센서</HearingSensorArch.label>
+  <HearingSensorArch.labelNoun>아르코테크 청각 센서</HearingSensorArch.labelNoun>
+  <HearingSensorArch.description>장착된 아르코테크 청각 센서입니다.</HearingSensorArch.description>
+  <SmellSensorAdv.label>고급 후각 센서</SmellSensorAdv.label>
+  <SmellSensorAdv.labelNoun>고급 후각 센서</SmellSensorAdv.labelNoun>
+  <SmellSensorAdv.description>장착된 고급 후각 센서입니다.</SmellSensorAdv.description>
+  <SmellingSensorCrude.label>조잡한 후각 센서</SmellingSensorCrude.label>
+  <SmellingSensorCrude.labelNoun>조잡한 후각 센서</SmellingSensorCrude.labelNoun>
+  <SmellingSensorCrude.description>장착된 조잡한 후각 센서입니다.</SmellingSensorCrude.description>
+  <SmellingSensorArch.label>아르코테크 후각 센서</SmellingSensorArch.label>
+  <SmellingSensorArch.labelNoun>아르코테크 후각 센서</SmellingSensorArch.labelNoun>
+  <SmellingSensorArch.description>장착된 아르코테크 후각 센서입니다.</SmellingSensorArch.description>
+  <EvolvingMind.label>진화형 AI</EvolvingMind.label>
+  <EvolvingMind.labelNoun>진화형 AI</EvolvingMind.labelNoun>
+  <EvolvingMind.description>장착된 진화형 AI입니다.</EvolvingMind.description>
+  <AndroidTiers_EmotionlessCard.label>사회적 상호작용 비활성화됨</AndroidTiers_EmotionlessCard.label>
+  <AndroidTiers_EmotionlessCard.labelNoun>사회적 상호작용 비활성화됨</AndroidTiers_EmotionlessCard.labelNoun>
+  <Backstory_PitFighterUpgrade.label>투기장 건틀릿</Backstory_PitFighterUpgrade.label>
+  <Backstory_PitFighterUpgrade.labelNoun>투기장 건틀릿</Backstory_PitFighterUpgrade.labelNoun>
+  <Backstory_PitFighterUpgrade.description>장착된 건틀릿입니다.</Backstory_PitFighterUpgrade.description>
+  <Backstory_TranscendantAssimilatorUpgrade.label>플라즈마 건틀릿</Backstory_TranscendantAssimilatorUpgrade.label>
+  <Backstory_TranscendantAssimilatorUpgrade.labelNoun>플라즈마 건틀릿</Backstory_TranscendantAssimilatorUpgrade.labelNoun>
+  <Backstory_TranscendantAssimilatorUpgrade.description>장착된 건틀릿입니다.</Backstory_TranscendantAssimilatorUpgrade.description>
+  <Backstory_HighCouncilUpgrade.label>양자 연산</Backstory_HighCouncilUpgrade.label>
+  <Backstory_HighCouncilUpgrade.labelNoun>양자 정신</Backstory_HighCouncilUpgrade.labelNoun>
+  <Backstory_HighCouncilUpgrade.description>장착된 양자 정신입니다.</Backstory_HighCouncilUpgrade.description>
+  <SGelhuman.label>구조 젤</SGelhuman.label>
+  <SGelhuman.description>혈류를 타고 흐르는 아미노산과 메카나이트 혼합물로, 독성이 매우 강하며 발작을 일으킬 수 있습니다.</SGelhuman.description>
+  <SGelandroid.label>구조 젤</SGelandroid.label>
+  <SGelandroid.description>냉각 배관을 흐르는 아미노산과 메카나이트 혼합물로, 내부 부품을 유지보수하여 성능을 향상시킵니다.</SGelandroid.description>
+  <Toxicated.label>중독</Toxicated.label>
+  <Toxicated.description>혈류 내 독성 화합물로 인해 호흡 곤란과 구토를 유발합니다.</Toxicated.description>
+  <AFreezeandroid.label>폴리머 부동액</AFreezeandroid.label>
+  <AFreezeandroid.description>냉각 배관 내의 폴리머 기반 부동액입니다. 고온 및 저온 환경 모두에서 온도 조절을 돕습니다.</AFreezeandroid.description>
+  <MechSwarmandroid.label>메카 스웜</MechSwarmandroid.label>
+  <MechSwarmandroid.description>냉각 배관을 흐르는 나노 메카나이트입니다. 내부 부품을 최상의 성능으로 유지하도록 돕습니다.</MechSwarmandroid.description>
+  <Conversion.label>???</Conversion.label>
+  <Conversion.description>혈류 내 프랙탈 화합물이 퍼져 있습니다. 발작, 심한 구토, 그리고 조직의 심각한 염증으로 인한 극심한 피부 파열을 유발합니다.</Conversion.description>
+  <FractalPillAndroid.label>프랙탈 강화</FractalPillAndroid.label>
+  <FractalPillAndroid.description>냉각 배관 내의 프랙탈 화합물입니다. 모든 행동의 효율성과 위력을 대폭 향상시킵니다.</FractalPillAndroid.description>
+  <RegenHumanoid.label>모노 살브</RegenHumanoid.label>
+  <RegenHumanoid.description>혈류 속의 활성 재생 용매입니다. 기본적인 세포 재생을 촉진합니다.</RegenHumanoid.description>
+  <RegenAndroid.label>모노 살브</RegenAndroid.label>
+  <RegenAndroid.description>냉각 배관 속의 활성 재생 용매입니다. 기계 장치의 자동 수리를 돕습니다.</RegenAndroid.description>
+  <ATPP_DummyHediff.label>더미 상태</ATPP_DummyHediff.label>
+  <ATPP_DummyHediff.labelNoun>더미 상태</ATPP_DummyHediff.labelNoun>
+</LanguageData>

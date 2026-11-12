@@ -13,6 +13,7 @@ namespace MOARANDROIDS
     {
 
         [HarmonyPatch(typeof(MemoryThoughtHandler), "TryGainMemoryFast")]
+        [HarmonyPatch(new Type[] { typeof(ThoughtDef), typeof(Precept) })]
         public class TryGainMemoryFast
         {
             [HarmonyPrefix]
@@ -29,6 +30,29 @@ namespace MOARANDROIDS
                 catch (Exception e)
                 {
                     Log.Message("[ATPP] MemoryThoughtHandler.TryGainMemoryFast : " + e.Message + " - " + e.StackTrace);
+                    return true;
+                }
+            }
+        }
+
+        [HarmonyPatch(typeof(MemoryThoughtHandler), "TryGainMemoryFast")]
+        [HarmonyPatch(new Type[] { typeof(ThoughtDef), typeof(int), typeof(Precept) })]
+        public class TryGainMemoryFastWithStage
+        {
+            [HarmonyPrefix]
+            public static bool Listener(ThoughtDef mem, MemoryThoughtHandler __instance)
+            {
+                try
+                {
+                    if (shouldSkipCurrentMemory(mem, __instance))
+                    {
+                        return false;
+                    }
+                    return true;
+                }
+                catch (Exception e)
+                {
+                    Log.Message("[ATPP] MemoryThoughtHandler.TryGainMemoryFast(stage) : " + e.Message + " - " + e.StackTrace);
                     return true;
                 }
             }

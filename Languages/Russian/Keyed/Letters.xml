@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Atlas_FactionChange>{0} успешно перепрограммирован(а) и теперь является частью поселения.</Atlas_FactionChange>
+	<LetterLabelAtlas_FactionChange>Новый поселенец</LetterLabelAtlas_FactionChange>
+	<Atlas_LossOfSelfWill>Свободная воля {0} была подавлена. Теперь этот андроид не способен мыслить самостоятельно или испытывать эмоции и будет реже взаимодействовать с другими поселенцами. Кроме того, в процессе он утратил все черты характера, превратившись в покорную машину.</Atlas_LossOfSelfWill>
+	<LetterLabelAtlas_LossOfSelfWill>Свобода воли андроида</LetterLabelAtlas_LossOfSelfWill>
+	<Atlas_Mutation>{0} мутировал(а) во фрактала — чудовище из искажённой плоти, порождённое фрактальной пилюлей!</Atlas_Mutation>
+	<LetterLabelAtlas_Mutation>Мутация поселенца</LetterLabelAtlas_Mutation>
+	<Atlas_TraitReroll>Личность {0} была изменена, а черты характера — перераспределены.</Atlas_TraitReroll>
+	<LetterLabelAtlas_TraitReroll>Изменение личности андроида</LetterLabelAtlas_TraitReroll>
+</LanguageData>

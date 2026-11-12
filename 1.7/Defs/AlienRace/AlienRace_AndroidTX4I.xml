@@ -3,7 +3,7 @@
   <AlienRace.ThingDef_AlienRace ParentName="BasePawn">
     <defName>ATPP_Android4ITX</defName>
     <label>TX4I Android</label>
-    <description>A serie of TX3 refurbished to be used as infantry on battlefields rather than T3, mainly due to the fear inspired on their enemies due to their particular appearance.</description>
+    <description>A serie of TX4 refurbished to be used as infantry on battlefields rather than T3, mainly due to the fear inspired on their enemies due to their particular appearance.</description>
     <alienRace>
       <raceRestriction>
         <traitList>
@@ -77,13 +77,14 @@
           <li>ATPP_Android2KTX</li>
         </notXenophobistTowards>
         <alienPartGenerator>
-          <alienbodytypes>
+          <bodyTypes>
             <li>Male</li>
             <li>Female</li>
-          </alienbodytypes>
-          <aliencrowntypes>
-            <li>Average_Normal</li>
-          </aliencrowntypes>
+          </bodyTypes>
+          <headTypes>
+            <li>Male_AverageNormal</li>
+            <li>Female_AverageNormal</li>
+          </headTypes>
           <colorChannels>
             <li>
               <name>skin</name>
@@ -148,6 +149,9 @@
         <relationChanceModifierSibling>0</relationChanceModifierSibling>
         <relationChanceModifierSpouse>0</relationChanceModifierSpouse>
       </relationSettings>
+      <compatibility>
+        <isFlesh>false</isFlesh>
+      </compatibility>
     </alienRace>
     <statBases>
       <MarketValue>7000</MarketValue>
@@ -262,8 +266,8 @@
       <ageGenerationCurve>
         <points>
           <li>(0,0)</li>
-          <li>(10,100)</li>
-          <li>(2,0)</li>
+        <li>(2,100)</li>
+        <li>(10,0)</li>
         </points>
       </ageGenerationCurve>
       <hediffGiverSets>

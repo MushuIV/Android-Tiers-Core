@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_NanitesHydraulicSerum.label>Nanitbank (Hydraulik)</ATPP_NanitesHydraulicSerum.label>
+	<ATPP_NanitesHydraulicSerum.description>En engångsbank naniter anpassad för att reparera trasiga hydraulsystem hos androider (relaterat till hög ålder).</ATPP_NanitesHydraulicSerum.description>
+	<ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>Använd detta nanitserum för att åtgärda åldersproblem hos androider</ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>
+	<ATPP_NanitesCPUSerum.label>Nanitbank (CPU)</ATPP_NanitesCPUSerum.label>
+	<ATPP_NanitesCPUSerum.description>En engångsbank naniter anpassad för att reparera trasiga konstgjorda hjärnsystem hos androider (relaterat till hög ålder).</ATPP_NanitesCPUSerum.description>
+	<ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>Använd detta nanitserum för att åtgärda åldersproblem hos androider</ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>
+	<ATPP_NanitesCoolingSerum.label>Nanitbank (Kylning)</ATPP_NanitesCoolingSerum.label>
+	<ATPP_NanitesCoolingSerum.description>En engångsbank naniter anpassad för att reparera trasiga kylsystem hos androider vid överhettning (relaterat till hög ålder).</ATPP_NanitesCoolingSerum.description>
+	<ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>Använd detta nanitserum för att åtgärda åldersproblem hos androider</ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>
+	<ATPP_NanitesFrameSerum.label>Nanitbank (Ramverk)</ATPP_NanitesFrameSerum.label>
+	<ATPP_NanitesFrameSerum.description>En engångsbank naniter anpassad för att reparera trasiga exoskelett hos androider (relaterat till hög ålder).</ATPP_NanitesFrameSerum.description>
+	<ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>Använd detta nanitserum för att åtgärda åldersproblem hos androider</ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>
+	<ATPP_AndroidNanokitBasic.label>Enkelt nanokit</ATPP_AndroidNanokitBasic.label>
+	<ATPP_AndroidNanokitBasic.description>Ett kit med nanobotar för att behandla skador på androider</ATPP_AndroidNanokitBasic.description>
+	<ATPP_AndroidNanokitIntermediate.label>Mellanklass nanokit</ATPP_AndroidNanokitIntermediate.label>
+	<ATPP_AndroidNanokitIntermediate.description>Ett kit med nanobotar för att behandla skador på androider</ATPP_AndroidNanokitIntermediate.description>
+	<ATPP_AndroidNanokitAdvanced.label>Avancerat nanokit</ATPP_AndroidNanokitAdvanced.label>
+	<ATPP_AndroidNanokitAdvanced.description>Ett kit med nanobotar för att behandla skador på androider</ATPP_AndroidNanokitAdvanced.description>
+	<ATPP_RXChip.label>RX-neuralkrets</ATPP_RXChip.label>
+	<ATPP_RXChip.description>En neuralkrets som fungerar som ett personligt SkyMind-relä.</ATPP_RXChip.description>
+	<ATPP_VX0Chip.label>VX0-neuralkrets</ATPP_VX0Chip.label>
+	<ATPP_VX0Chip.description>En neuralkrets som förvandlar värden till ett biologiskt surrogat.</ATPP_VX0Chip.description>
+	<ATPP_VX1Chip.label>VX1-neuralkrets</ATPP_VX1Chip.label>
+	<ATPP_VX1Chip.description>En neuralkrets som låter värden fjärrstyra valfri SX-serieandroid eller biologiskt surrogat.</ATPP_VX1Chip.description>
+	<ATPP_VX2Chip.label>VX2-neuralkrets</ATPP_VX2Chip.label>
+	<ATPP_VX2Chip.description>En neuralkrets som låter värden fjärrstyra valfri SX-serieandroid eller biologiskt surrogat samt byta/duplicera medvetande.</ATPP_VX2Chip.description>
+	<ATPP_VX3Chip.label>VX3-neuralkrets</ATPP_VX3Chip.label>
+	<ATPP_VX3Chip.description>En neuralkrets som låter värden fjärrstyra flera SX-serieandroider eller biologiska surrogat samtidigt samt byta/duplicera medvetande.</ATPP_VX3Chip.description>
+	<ATPP_T1ArtificialBrain.label>Konstgjord hjärna T1</ATPP_T1ArtificialBrain.label>
+	<ATPP_T1ArtificialBrain.description>En konstgjord T1-hjärna som gör det möjligt att omvandla ett T1-surrogat till en android med tomt neuralt nätverk</ATPP_T1ArtificialBrain.description>
+	<ATPP_T2ArtificialBrain.label>Konstgjord hjärna T2</ATPP_T2ArtificialBrain.label>
+	<ATPP_T2ArtificialBrain.description>En konstgjord T2-hjärna som gör det möjligt att omvandla ett T2-surrogat till en android med tomt neuralt nätverk</ATPP_T2ArtificialBrain.description>
+	<ATPP_T3ArtificialBrain.label>Konstgjord hjärna T3</ATPP_T3ArtificialBrain.label>
+	<ATPP_T3ArtificialBrain.description>En konstgjord T3-hjärna som gör det möjligt att omvandla ett T3-surrogat till en android med tomt neuralt nätverk</ATPP_T3ArtificialBrain.description>
+	<ATPP_T4ArtificialBrain.label>Konstgjord hjärna T4</ATPP_T4ArtificialBrain.label>
+	<ATPP_T4ArtificialBrain.description>En konstgjord T4-hjärna som gör det möjligt att omvandla ett T4-surrogat till en android med tomt neuralt nätverk</ATPP_T4ArtificialBrain.description>
+	<ATPP_SyntheticSkinGland.label>syntetisk hudkörtel</ATPP_SyntheticSkinGland.label>
+	<ATPP_SyntheticSkinGland.description>Ett avancerat biosyntetiskt organ bestående av en vilande epidermal matris och näringsmikrokanaler. När det transplanteras på ett stridschassi i TX-serien eller integreras under montering i kar, expanderar det och binds till det subdermala höljet, vilket ger människoliknande värmeisolering, taktil känselrespons och en naturtrogen hudförklädnad.</ATPP_SyntheticSkinGland.description>
+	<ATPP_GS_TX2KMale.label>Manlig TX2K-ram</ATPP_GS_TX2KMale.label>
+	<ATPP_GS_TX2KMale.description>Ett inaktivt funktionellt TX2K-exoskelett som väntar på att aktiveras i ett kar när dess hud har vuxit ut</ATPP_GS_TX2KMale.description>
+	<ATPP_GS_TX2KFemale.label>Kvinnlig TX2K-ram</ATPP_GS_TX2KFemale.label>
+	<ATPP_GS_TX2KFemale.description>Ett inaktivt funktionellt TX2K-exoskelett som väntar på att aktiveras i ett kar när dess hud har vuxit ut</ATPP_GS_TX2KFemale.description>
+	<ATPP_GS_TX3Male.label>Manlig TX3-ram</ATPP_GS_TX3Male.label>
+	<ATPP_GS_TX3Male.description>Ett inaktivt funktionellt TX3-exoskelett som väntar på att aktiveras i ett kar när dess hud har vuxit ut</ATPP_GS_TX3Male.description>
+	<ATPP_GS_TX3Female.label>Kvinnlig TX3-ram</ATPP_GS_TX3Female.label>
+	<ATPP_GS_TX3Female.description>Ett inaktivt funktionellt TX3-exoskelett som väntar på att aktiveras i ett kar när dess hud har vuxit ut</ATPP_GS_TX3Female.description>
+	<ATPP_GS_TX4Male.label>Manlig TX4-ram</ATPP_GS_TX4Male.label>
+	<ATPP_GS_TX4Male.description>Ett inaktivt funktionellt TX4-exoskelett som väntar på att aktiveras i ett kar när dess hud har vuxit ut</ATPP_GS_TX4Male.description>
+	<ATPP_GS_TX4Female.label>Kvinnlig TX4-ram</ATPP_GS_TX4Female.label>
+	<ATPP_GS_TX4Female.description>Ett inaktivt funktionellt TX4-exoskelett som väntar på att aktiveras i ett kar när dess hud har vuxit ut</ATPP_GS_TX4Female.description>
+</LanguageData>

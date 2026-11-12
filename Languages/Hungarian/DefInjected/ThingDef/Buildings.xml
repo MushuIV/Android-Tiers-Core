@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_ReloadStation.label>Android töltőállomás</ATPP_ReloadStation.label>
+  <ATPP_ReloadStation.description>Egy töltőállomás androidok számára, amely egyszerre akár 8 androidot is képes fogadni.</ATPP_ReloadStation.description>
+  <ATPP_SkyMindLAN.label>SkyMind V1 antenna</ATPP_SkyMindLAN.label>
+  <ATPP_SkyMindLAN.description>A SkyMind V1 antenna legfeljebb 3 egyidejű klienst fogad el; vezeték nélküli hálózatot sugároz, amely lehetővé teszi egy telepes tudatának feltöltését egy másikba, valamint bármely SX sorozatú android vagy biológiai helyettes távvezérlését.</ATPP_SkyMindLAN.description>
+  <ATPP_SkyMindWAN.label>SkyMind V2 antenna</ATPP_SkyMindWAN.label>
+  <ATPP_SkyMindWAN.description>A SkyMind V2 antenna legfeljebb 15 egyidejű klienst fogad el; vezeték nélküli hálózatot sugároz, amely lehetővé teszi egy telepes tudatának feltöltését egy másikba, valamint bármely SX sorozatú android vagy biológiai helyettes távvezérlését.</ATPP_SkyMindWAN.description>
+  <ATPP_SkyMindRelayTower.label>SkyMind jeltovábbító torony</ATPP_SkyMindRelayTower.label>
+  <ATPP_SkyMindRelayTower.description>A SkyMind jeltovábbító torony felerősíti az antennák jelét, és megakadályozza a helyettesek irányításának romlását nagy távolságokon.</ATPP_SkyMindRelayTower.description>
+  <ATPP_I100Security.label>I-100 (Biztonság)</ATPP_I100Security.label>
+  <ATPP_I100Security.description>Tűzfalszerver, amely a SkyMind hálózat kibertámadások és vírusok elleni védelméért felelős.</ATPP_I100Security.description>
+  <ATPP_I100Hacking.label>I-100 (Hackelés)</ATPP_I100Hacking.label>
+  <ATPP_I100Hacking.description>Hackelőszerver, amely lehetővé teszi a SkyMind hálózathoz csatlakozó kliensek feltörését.</ATPP_I100Hacking.description>
+  <ATPP_I100Skill.label>I-100 (Jártasság)</ATPP_I100Skill.label>
+  <ATPP_I100Skill.description>Jártasságszerver, amely lehetővé teszi a SkyMind hálózatra csatlakoztatott androidok jártasságpontjainak növelését.</ATPP_I100Skill.description>
+  <ATPP_I300Security.label>I-300 (Biztonság)</ATPP_I300Security.label>
+  <ATPP_I300Security.description>Tűzfalszerver, amely a SkyMind hálózat kibertámadások és vírusok elleni védelméért felelős.</ATPP_I300Security.description>
+  <ATPP_I300Hacking.label>I-300 (Hackelés)</ATPP_I300Hacking.label>
+  <ATPP_I300Hacking.description>Hackelőszerver, amely lehetővé teszi a SkyMind hálózathoz csatlakozó kliensek feltörését.</ATPP_I300Hacking.description>
+  <ATPP_I300Skill.label>I-300 (Jártasság)</ATPP_I300Skill.label>
+  <ATPP_I300Skill.description>Jártasságszerver, amely lehetővé teszi a SkyMind hálózatra csatlakoztatott androidok jártasságpontjainak növelését.</ATPP_I300Skill.description>
+  <ATPP_I500Security.label>I-500 (Biztonság)</ATPP_I500Security.label>
+  <ATPP_I500Security.description>Tűzfalszerver, amely a SkyMind hálózat kibertámadások és vírusok elleni védelméért felelős.</ATPP_I500Security.description>
+  <ATPP_I500Hacking.label>I-500 (Hackelés)</ATPP_I500Hacking.label>
+  <ATPP_I500Hacking.description>Hackelőszerver, amely lehetővé teszi a SkyMind hálózathoz csatlakozó kliensek feltörését.</ATPP_I500Hacking.description>
+  <ATPP_I500Skill.label>I-500 (Jártasság)</ATPP_I500Skill.label>
+  <ATPP_I500Skill.description>Jártasságszerver, amely lehetővé teszi a SkyMind hálózatra csatlakoztatott androidok jártasságpontjainak növelését.</ATPP_I500Skill.description>
+  <ATPP_AndroidPod.label>Android kapszula</ATPP_AndroidPod.label>
+  <ATPP_AndroidPod.description>Egy android kapszula, ahol az androidok javíthatók, tárolhatók gazdatestre várva (helyettesek esetén), és tölthetők, ha áramforráshoz van csatlakoztatva.</ATPP_AndroidPod.description>
+  <ATPP_AndroidPodMech.label>M7 kapszula</ATPP_AndroidPodMech.label>
+  <ATPP_AndroidPodMech.description>Egy óriási kapszula, ahol az M7 mechanoidok javíthatók, tárolhatók gazdatestre várva (helyettesek esetén), és tölthetők, ha áramforráshoz van csatlakoztatva.</ATPP_AndroidPodMech.description>
+  <ATPP_SkyCloudCore.label>SkyCloud mag</ATPP_SkyCloudCore.label>
+  <ATPP_SkyCloudCore.description>Egy szuperszámítógép, amely lehetővé teszi a SkyMind hálózathoz csatlakozó összes eszköz irányítását, valamint a telepesek digitalizált agyának feltöltését a memóriájába, hogy szinte halhatatlanná és mindentudóvá váljanak</ATPP_SkyCloudCore.description>
+
+</LanguageData>

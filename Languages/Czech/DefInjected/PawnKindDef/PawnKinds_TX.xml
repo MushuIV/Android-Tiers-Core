@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_Android2TXKind.label>Android kolonista TX2</ATPP_Android2TXKind.label>
+  <ATPP_Android2TXKind.labelPlural>Androidi kolonisté TX2</ATPP_Android2TXKind.labelPlural>
+  <ATPP_Android3TXKind.label>Android kolonista TX3</ATPP_Android3TXKind.label>
+  <ATPP_Android3TXKind.labelPlural>Androidi kolonisté TX3</ATPP_Android3TXKind.labelPlural>
+  <ATPP_Android4TXKind.label>Android kolonista TX4</ATPP_Android4TXKind.label>
+  <ATPP_Android4TXKind.labelPlural>Androidi kolonisté TX4</ATPP_Android4TXKind.labelPlural>
+  <ATPP_Android2KTXKind.label>Android kolonista TX2K</ATPP_Android2KTXKind.label>
+  <ATPP_Android2KTXKind.labelPlural>Androidi kolonisté TX2K</ATPP_Android2KTXKind.labelPlural>
+  <ATPP_Android2KITXKind.label>Android kolonista TX2KI</ATPP_Android2KITXKind.label>
+  <ATPP_Android2KITXKind.labelPlural>Androidi kolonisté TX2KI</ATPP_Android2KITXKind.labelPlural>
+  <ATPP_Android3ITXKind.label>Android kolonista TX3I</ATPP_Android3ITXKind.label>
+  <ATPP_Android3ITXKind.labelPlural>Androidi kolonisté TX3I</ATPP_Android3ITXKind.labelPlural>
+  <ATPP_Android4ITXKind.label>Android kolonista TX4I</ATPP_Android4ITXKind.label>
+  <ATPP_Android4ITXKind.labelPlural>Androidi kolonisté TX4I</ATPP_Android4ITXKind.labelPlural>
+  <ATPP_Android2ITXKind.label>Android kolonista TX2I</ATPP_Android2ITXKind.label>
+  <ATPP_Android2ITXKind.labelPlural>Androidi kolonisté TX2I</ATPP_Android2ITXKind.labelPlural>
+  <ATPP_AndroidTX2RaiderFactionSpecific.label>Android nájezdník TX2</ATPP_AndroidTX2RaiderFactionSpecific.label>
+  <ATPP_AndroidTX2RaiderFactionSpecific.labelPlural>Androidi nájezdníci TX2</ATPP_AndroidTX2RaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX2IRaiderFactionSpecific.label>Android nájezdník TX2I</ATPP_AndroidTX2IRaiderFactionSpecific.label>
+  <ATPP_AndroidTX2IRaiderFactionSpecific.labelPlural>Androidi nájezdníci TX2I</ATPP_AndroidTX2IRaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX2KRaiderFactionSpecific.label>Android nájezdník TX2K</ATPP_AndroidTX2KRaiderFactionSpecific.label>
+  <ATPP_AndroidTX2KRaiderFactionSpecific.labelPlural>Androidi nájezdníci TX2K</ATPP_AndroidTX2KRaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX2KIRaiderFactionSpecific.label>Android nájezdník TX2KI</ATPP_AndroidTX2KIRaiderFactionSpecific.label>
+  <ATPP_AndroidTX2KIRaiderFactionSpecific.labelPlural>Androidi nájezdníci TX2KI</ATPP_AndroidTX2KIRaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX3RaiderFactionSpecific.label>Android nájezdník TX3</ATPP_AndroidTX3RaiderFactionSpecific.label>
+  <ATPP_AndroidTX3RaiderFactionSpecific.labelPlural>Androidi nájezdníci TX3</ATPP_AndroidTX3RaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX3IRaiderFactionSpecific.label>Android nájezdník TX3I</ATPP_AndroidTX3IRaiderFactionSpecific.label>
+  <ATPP_AndroidTX3IRaiderFactionSpecific.labelPlural>Androidi nájezdníci TX3I</ATPP_AndroidTX3IRaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX4RaiderFactionSpecific.label>Android nájezdník TX4</ATPP_AndroidTX4RaiderFactionSpecific.label>
+  <ATPP_AndroidTX4RaiderFactionSpecific.labelPlural>Androidi nájezdníci TX4</ATPP_AndroidTX4RaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX4IRaiderFactionSpecific.label>Android nájezdník TX4I</ATPP_AndroidTX4IRaiderFactionSpecific.label>
+  <ATPP_AndroidTX4IRaiderFactionSpecific.labelPlural>Androidi nájezdníci TX4I</ATPP_AndroidTX4IRaiderFactionSpecific.labelPlural>
+  <ATPP_AndroidTX2CollectiveSoldier.label>Android voják TX2</ATPP_AndroidTX2CollectiveSoldier.label>
+  <ATPP_AndroidTX2CollectiveSoldier.labelPlural>Androidi vojáci TX2</ATPP_AndroidTX2CollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX2ICollectiveSoldier.label>Android voják TX2I</ATPP_AndroidTX2ICollectiveSoldier.label>
+  <ATPP_AndroidTX2ICollectiveSoldier.labelPlural>Androidi vojáci TX2I</ATPP_AndroidTX2ICollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX2KCollectiveSoldier.label>Android voják TX2K</ATPP_AndroidTX2KCollectiveSoldier.label>
+  <ATPP_AndroidTX2KCollectiveSoldier.labelPlural>Androidi vojáci TX2K</ATPP_AndroidTX2KCollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX2KICollectiveSoldier.label>Android voják TX2KI</ATPP_AndroidTX2KICollectiveSoldier.label>
+  <ATPP_AndroidTX2KICollectiveSoldier.labelPlural>Androidi vojáci TX2KI</ATPP_AndroidTX2KICollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX3CollectiveSoldier.label>Android voják TX3</ATPP_AndroidTX3CollectiveSoldier.label>
+  <ATPP_AndroidTX3CollectiveSoldier.labelPlural>Androidi vojáci TX3</ATPP_AndroidTX3CollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX3ICollectiveSoldier.label>Android voják TX3I</ATPP_AndroidTX3ICollectiveSoldier.label>
+  <ATPP_AndroidTX3ICollectiveSoldier.labelPlural>Androidi vojáci TX3I</ATPP_AndroidTX3ICollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX4CollectiveSoldier.label>Android voják TX4</ATPP_AndroidTX4CollectiveSoldier.label>
+  <ATPP_AndroidTX4CollectiveSoldier.labelPlural>Androidi vojáci TX4</ATPP_AndroidTX4CollectiveSoldier.labelPlural>
+  <ATPP_AndroidTX4ICollectiveSoldier.label>Android voják TX4I</ATPP_AndroidTX4ICollectiveSoldier.label>
+  <ATPP_AndroidTX4ICollectiveSoldier.labelPlural>Androidi vojáci TX4I</ATPP_AndroidTX4ICollectiveSoldier.labelPlural>
+
+</LanguageData>

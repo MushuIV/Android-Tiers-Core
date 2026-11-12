@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATPP_ReloadStation.label>Σταθμός Φόρτισης Ανδροειδών</ATPP_ReloadStation.label>
+  <ATPP_ReloadStation.description>Ένας σταθμός φόρτισης για ανδροειδή, μπορεί να φιλοξενήσει ταυτόχρονα έως και 8 ανδροειδή.</ATPP_ReloadStation.description>
+  <ATPP_SkyMindLAN.label>Κεραία SkyMind V1</ATPP_SkyMindLAN.label>
+  <ATPP_SkyMindLAN.description>Η Κεραία SkyMind V1 δέχεται έως 3 ταυτόχρονους πελάτες· εκπέμπει ένα ασύρματο δίκτυο που επιτρέπει τη μεταφόρτωση του νου ενός αποίκου σε άλλον και τον τηλεχειρισμό οποιουδήποτε ανδροειδούς σειράς SX ή βιολογικού υποκατάστατου.</ATPP_SkyMindLAN.description>
+  <ATPP_SkyMindWAN.label>Κεραία SkyMind V2</ATPP_SkyMindWAN.label>
+  <ATPP_SkyMindWAN.description>Η Κεραία SkyMind V2 δέχεται έως 15 ταυτόχρονους πελάτες· εκπέμπει ένα ασύρματο δίκτυο που επιτρέπει τη μεταφόρτωση του νου ενός αποίκου σε άλλον και τον τηλεχειρισμό οποιουδήποτε ανδροειδούς σειράς SX ή βιολογικού υποκατάστατου.</ATPP_SkyMindWAN.description>
+  <ATPP_SkyMindRelayTower.label>Πύργος Αναμετάδοσης SkyMind</ATPP_SkyMindRelayTower.label>
+  <ATPP_SkyMindRelayTower.description>Ο Πύργος Αναμετάδοσης SkyMind ενισχύει το σήμα των κεραιών και αποτρέπει την υποβάθμιση του ελέγχου υποκατάστατων σε μεγάλες αποστάσεις.</ATPP_SkyMindRelayTower.description>
+  <ATPP_I100Security.label>I-100 (Ασφάλεια)</ATPP_I100Security.label>
+  <ATPP_I100Security.description>Διακομιστής τείχους προστασίας υπεύθυνος για την ασφάλεια του δικτύου SkyMind έναντι κυβερνοεπιθέσεων και ιών.</ATPP_I100Security.description>
+  <ATPP_I100Hacking.label>I-100 (Χακάρισμα)</ATPP_I100Hacking.label>
+  <ATPP_I100Hacking.description>Διακομιστής χακαρίσματος που σας επιτρέπει να χακάρετε πελάτες συνδεδεμένους σε δίκτυο SkyMind.</ATPP_I100Hacking.description>
+  <ATPP_I100Skill.label>I-100 (Δεξιότητες)</ATPP_I100Skill.label>
+  <ATPP_I100Skill.description>Διακομιστής δεξιοτήτων που σας επιτρέπει να αυξάνετε τους πόντους δεξιοτήτων των συνδεδεμένων ανδροειδών σε δίκτυο SkyMind.</ATPP_I100Skill.description>
+  <ATPP_I300Security.label>I-300 (Ασφάλεια)</ATPP_I300Security.label>
+  <ATPP_I300Security.description>Διακομιστής τείχους προστασίας υπεύθυνος για την ασφάλεια του δικτύου SkyMind έναντι κυβερνοεπιθέσεων και ιών.</ATPP_I300Security.description>
+  <ATPP_I300Hacking.label>I-300 (Χακάρισμα)</ATPP_I300Hacking.label>
+  <ATPP_I300Hacking.description>Διακομιστής χακαρίσματος που σας επιτρέπει να χακάρετε πελάτες συνδεδεμένους σε δίκτυο SkyMind.</ATPP_I300Hacking.description>
+  <ATPP_I300Skill.label>I-300 (Δεξιότητες)</ATPP_I300Skill.label>
+  <ATPP_I300Skill.description>Διακομιστής δεξιοτήτων που σας επιτρέπει να αυξάνετε τους πόντους δεξιοτήτων των συνδεδεμένων ανδροειδών σε δίκτυο SkyMind.</ATPP_I300Skill.description>
+  <ATPP_I500Security.label>I-500 (Ασφάλεια)</ATPP_I500Security.label>
+  <ATPP_I500Security.description>Διακομιστής τείχους προστασίας υπεύθυνος για την ασφάλεια του δικτύου SkyMind έναντι κυβερνοεπιθέσεων και ιών.</ATPP_I500Security.description>
+  <ATPP_I500Hacking.label>I-500 (Χακάρισμα)</ATPP_I500Hacking.label>
+  <ATPP_I500Hacking.description>Διακομιστής χακαρίσματος που σας επιτρέπει να χακάρετε πελάτες συνδεδεμένους σε δίκτυο SkyMind.</ATPP_I500Hacking.description>
+  <ATPP_I500Skill.label>I-500 (Δεξιότητες)</ATPP_I500Skill.label>
+  <ATPP_I500Skill.description>Διακομιστής δεξιοτήτων που σας επιτρέπει να αυξάνετε τους πόντους δεξιοτήτων των συνδεδεμένων ανδροειδών σε δίκτυο SkyMind.</ATPP_I500Skill.description>
+  <ATPP_AndroidPod.label>Κάψουλα Ανδροειδούς</ATPP_AndroidPod.label>
+  <ATPP_AndroidPod.description>Μια κάψουλα ανδροειδούς όπου τα ανδροειδή μπορούν να επισκευαστούν, να αποθηκευτούν όσο περιμένουν έναν ξενιστή (στην περίπτωση υποκατάστατων) και να φορτιστούν εάν είναι συνδεδεμένη στο ρεύμα.</ATPP_AndroidPod.description>
+  <ATPP_AndroidPodMech.label>Κάψουλα M7</ATPP_AndroidPodMech.label>
+  <ATPP_AndroidPodMech.description>Μια γιγάντια κάψουλα όπου τα μηχανοειδή M7 μπορούν να επισκευαστούν, να αποθηκευτούν όσο περιμένουν έναν ξενιστή (στην περίπτωση υποκατάστατων) και να φορτιστούν εάν είναι συνδεδεμένη στο ρεύμα.</ATPP_AndroidPodMech.description>
+  <ATPP_SkyCloudCore.label>Πυρήνας SkyCloud</ATPP_SkyCloudCore.label>
+  <ATPP_SkyCloudCore.description>Ένας υπερυπολογιστής που επιτρέπει τον έλεγχο όλων των συσκευών που είναι συνδεδεμένες στο δίκτυο SkyMind, καθώς και τη μεταφόρτωση ψηφιοποιημένων εγκεφάλων των αποίκων σας στη μνήμη του ώστε να γίνουν σχεδόν αθάνατοι και παντογνώστες</ATPP_SkyCloudCore.description>
+</LanguageData>

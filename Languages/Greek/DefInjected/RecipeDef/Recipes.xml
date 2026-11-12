@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATPP_DisassembleAndroid.label>Αποσυναρμολόγηση νεκρού ανδροειδούς</ATPP_DisassembleAndroid.label>
+  <ATPP_DisassembleAndroid.description>Αποσυναρμολογήστε ένα νεκρό ανδροειδές στα επιμέρους εξαρτήματά του.</ATPP_DisassembleAndroid.description>
+  <ATPP_DisassembleAndroid.jobString>Αποσυναρμολόγηση ανδροειδούς.</ATPP_DisassembleAndroid.jobString>
+  <ATPP_Make_NanitesHydraulicSerum.label>Κατασκευή υποδοχής νανοϊτών (υδραυλική)</ATPP_Make_NanitesHydraulicSerum.label>
+  <ATPP_Make_NanitesHydraulicSerum.description>Κατασκευή υδραυλικού ορού νανοϊτών ανδροειδών που επιτρέπει την επισκευή ανδροειδών (λόγω γήρανσης).</ATPP_Make_NanitesHydraulicSerum.description>
+  <ATPP_Make_NanitesHydraulicSerum.jobString>Κατασκευή ορού νανοϊτών ανδροειδών.</ATPP_Make_NanitesHydraulicSerum.jobString>
+  <ATPP_Make_NanitesCPUSerum.label>Κατασκευή υποδοχής νανοϊτών (CPU)</ATPP_Make_NanitesCPUSerum.label>
+  <ATPP_Make_NanitesCPUSerum.description>Κατασκευή ορού νανοϊτών CPU ανδροειδών που επιτρέπει την επισκευή της CPU ενός ανδροειδούς (λόγω γήρανσης).</ATPP_Make_NanitesCPUSerum.description>
+  <ATPP_Make_NanitesCPUSerum.jobString>Κατασκευή ορού νανοϊτών ανδροειδών.</ATPP_Make_NanitesCPUSerum.jobString>
+  <ATPP_Make_NanitesCoolingSerum.label>Κατασκευή υποδοχής νανοϊτών (ψύξη)</ATPP_Make_NanitesCoolingSerum.label>
+  <ATPP_Make_NanitesCoolingSerum.description>Κατασκευή ορού νανοϊτών ψύξης ανδροειδών που επιτρέπει την επισκευή του συστήματος ψύξης ενός ανδροειδούς (λόγω γήρανσης).</ATPP_Make_NanitesCoolingSerum.description>
+  <ATPP_Make_NanitesCoolingSerum.jobString>Κατασκευή ορού νανοϊτών ανδροειδών.</ATPP_Make_NanitesCoolingSerum.jobString>
+  <ATPP_Make_NanitesFrameSerum.label>Κατασκευή υποδοχής νανοϊτών (πλαίσιο)</ATPP_Make_NanitesFrameSerum.label>
+  <ATPP_Make_NanitesFrameSerum.description>Κατασκευή ορού νανοϊτών πλαισίου ανδροειδών που επιτρέπει την επισκευή του εξωσκελετού ενός ανδροειδούς (λόγω γήρανσης).</ATPP_Make_NanitesFrameSerum.description>
+  <ATPP_Make_NanitesFrameSerum.jobString>Κατασκευή ορού νανοϊτών ανδροειδών.</ATPP_Make_NanitesFrameSerum.jobString>
+  <ATPP_Make_RXChip.label>Κατασκευή νευρωνικού τσιπ RX</ATPP_Make_RXChip.label>
+  <ATPP_Make_RXChip.description>Ένα νευρωνικό τσιπ που λειτουργεί ως προσωπικός αναμεταδότης SkyMind.</ATPP_Make_RXChip.description>
+  <ATPP_Make_RXChip.jobString>Κατασκευή νευρωνικού τσιπ RX.</ATPP_Make_RXChip.jobString>
+  <ATPP_Make_VX0Chip.label>Κατασκευή νευρωνικού τσιπ VX0</ATPP_Make_VX0Chip.label>
+  <ATPP_Make_VX0Chip.description>Κατασκευή τσιπ VX0, ενός νευρωνικού τσιπ που μετατρέπει τον ξενιστή του σε βιολογικό υποκατάστατο.</ATPP_Make_VX0Chip.description>
+  <ATPP_Make_VX0Chip.jobString>Κατασκευή νευρωνικού τσιπ VX0.</ATPP_Make_VX0Chip.jobString>
+  <ATPP_Make_VX1Chip.label>Κατασκευή νευρωνικού τσιπ VX1</ATPP_Make_VX1Chip.label>
+  <ATPP_Make_VX1Chip.description>Κατασκευή τσιπ VX1, που επιτρέπει στον ξενιστή του να ελέγχει εξ αποστάσεως οποιοδήποτε ανδροειδές σειράς SX ή βιολογικό υποκατάστατο.</ATPP_Make_VX1Chip.description>
+  <ATPP_Make_VX1Chip.jobString>Κατασκευή νευρωνικού τσιπ VX1.</ATPP_Make_VX1Chip.jobString>
+  <ATPP_Make_VX2Chip.label>Κατασκευή νευρωνικού τσιπ VX2</ATPP_Make_VX2Chip.label>
+  <ATPP_Make_VX2Chip.description>Κατασκευή τσιπ VX2, που επιτρέπει στον ξενιστή του να ελέγχει εξ αποστάσεως οποιοδήποτε ανδροειδές σειράς SX ή βιολογικό υποκατάστατο και να αντιγράφει/αντιμεταθέτει τον νου του.</ATPP_Make_VX2Chip.description>
+  <ATPP_Make_VX2Chip.jobString>Κατασκευή νευρωνικού τσιπ VX2.</ATPP_Make_VX2Chip.jobString>
+  <ATPP_Make_VX3Chip.label>Κατασκευή νευρωνικού τσιπ VX3</ATPP_Make_VX3Chip.label>
+  <ATPP_Make_VX3Chip.description>Κατασκευή τσιπ VX3, που επιτρέπει στον ξενιστή του να ελέγχει εξ αποστάσεως πολλαπλά ανδροειδή σειράς SX ή βιολογικά υποκατάστατα ταυτόχρονα και να αντιγράφει/αντιμεταθέτει τον νου του.</ATPP_Make_VX3Chip.description>
+  <ATPP_Make_VX3Chip.jobString>Κατασκευή νευρωνικού τσιπ VX3.</ATPP_Make_VX3Chip.jobString>
+  <ATPP_InstallVX2Chip.label>Εγκατάσταση νευρωνικού τσιπ VX2</ATPP_InstallVX2Chip.label>
+  <ATPP_InstallVX2Chip.description>Εγκατάσταση νευρωνικού τσιπ VX2, που επιτρέπει στον ξενιστή του να ελέγχει εξ αποστάσεως οποιοδήποτε ανδροειδές σειράς SX ή βιολογικό υποκατάστατο και να αντιγράφει/αντιμεταθέτει τον νου του.</ATPP_InstallVX2Chip.description>
+  <ATPP_InstallVX2Chip.jobString>Εγκατάσταση νευρωνικού τσιπ VX2.</ATPP_InstallVX2Chip.jobString>
+  <ATPP_InstallVX2ChipOnAndroid.label>Εγκατάσταση νευρωνικού τσιπ VX2 σε ανδροειδές</ATPP_InstallVX2ChipOnAndroid.label>
+  <ATPP_InstallVX2ChipOnAndroid.description>Εγκατάσταση νευρωνικού τσιπ VX2 σε ανδροειδές, που επιτρέπει στον ξενιστή του να ελέγχει εξ αποστάσεως οποιοδήποτε ανδροειδές σειράς SX ή βιολογικό υποκατάστατο και να αντιγράφει/αντιμεταθέτει τον νου του.</ATPP_InstallVX2ChipOnAndroid.description>
+  <ATPP_InstallVX2ChipOnAndroid.jobString>Εγκατάσταση νευρωνικού τσιπ VX2 σε ανδροειδές.</ATPP_InstallVX2ChipOnAndroid.jobString>
+  <ATPP_InstallVX3Chip.label>Εγκατάσταση νευρωνικού τσιπ VX3</ATPP_InstallVX3Chip.label>
+  <ATPP_InstallVX3Chip.description>Εγκατάσταση νευρωνικού τσιπ VX3, που επιτρέπει στον ξενιστή του να ελέγχει εξ αποστάσεως πολλαπλά ανδροειδή σειράς SX ή βιολογικά υποκατάστατα ταυτόχρονα και να αντιγράφει/αντιμεταθέτει τον νου του.</ATPP_InstallVX3Chip.description>
+  <ATPP_InstallVX3Chip.jobString>Εγκατάσταση νευρωνικού τσιπ VX3.</ATPP_InstallVX3Chip.jobString>
+  <ATPP_InstallVX3ChipOnAndroid.label>Εγκατάσταση νευρωνικού τσιπ VX3 σε ανδροειδές</ATPP_InstallVX3ChipOnAndroid.label>
+  <ATPP_InstallVX3ChipOnAndroid.description>Εγκατάσταση νευρωνικού τσιπ VX3 σε ανδροειδές, που επιτρέπει στον ξενιστή του να ελέγχει εξ αποστάσεως πολλαπλά ανδροειδή σειράς SX ή βιολογικά υποκατάστατα ταυτόχρονα και να αντιγράφει/αντιμεταθέτει τον νου του.</ATPP_InstallVX3ChipOnAndroid.description>
+  <ATPP_InstallVX3ChipOnAndroid.jobString>Εγκατάσταση νευρωνικού τσιπ VX3 σε ανδροειδές.</ATPP_InstallVX3ChipOnAndroid.jobString>
+  <ATPP_InstallRXChip.label>Εγκατάσταση νευρωνικού τσιπ RX</ATPP_InstallRXChip.label>
+  <ATPP_InstallRXChip.description>Εγκατάσταση νευρωνικού τσιπ RX, ενός τσιπ που λειτουργεί ως προσωπικός αναμεταδότης SkyMind για τον ξενιστή του.</ATPP_InstallRXChip.description>
+  <ATPP_InstallRXChip.jobString>Εγκατάσταση νευρωνικού τσιπ RX.</ATPP_InstallRXChip.jobString>
+  <ATPP_InstallRXChipOnAndroid.label>Εγκατάσταση νευρωνικού τσιπ RX</ATPP_InstallRXChipOnAndroid.label>
+  <ATPP_InstallRXChipOnAndroid.description>Εγκατάσταση νευρωνικού τσιπ RX, ενός τσιπ που λειτουργεί ως προσωπικός αναμεταδότης SkyMind για τον ξενιστή του.</ATPP_InstallRXChipOnAndroid.description>
+  <ATPP_InstallRXChipOnAndroid.jobString>Εγκατάσταση νευρωνικού τσιπ RX.</ATPP_InstallRXChipOnAndroid.jobString>
+  <ATPP_InstallVX0ChipOnAndroid.label>Εγκατάσταση νευρωνικού τσιπ VX0 σε ανδροειδές</ATPP_InstallVX0ChipOnAndroid.label>
+  <ATPP_InstallVX0ChipOnAndroid.description>Εγκατάσταση νευρωνικού τσιπ VX0 σε ανδροειδές, ενός νευρωνικού τσιπ που μετατρέπει τον ξενιστή του σε βιολογικό υποκατάστατο.</ATPP_InstallVX0ChipOnAndroid.description>
+  <ATPP_InstallVX0ChipOnAndroid.jobString>Εγκατάσταση νευρωνικού τσιπ VX0 σε ανδροειδές.</ATPP_InstallVX0ChipOnAndroid.jobString>
+  <ATPP_InstallVX0Chip.label>Εγκατάσταση νευρωνικού τσιπ VX0</ATPP_InstallVX0Chip.label>
+  <ATPP_InstallVX0Chip.description>Εγκατάσταση νευρωνικού τσιπ VX0, ενός νευρωνικού τσιπ που μετατρέπει τον ξενιστή του σε βιολογικό υποκατάστατο.</ATPP_InstallVX0Chip.description>
+  <ATPP_InstallVX0Chip.jobString>Εγκατάσταση νευρωνικού τσιπ VX0.</ATPP_InstallVX0Chip.jobString>
+  <ATPP_InstallVX1Chip.label>Εγκατάσταση νευρωνικού τσιπ VX1</ATPP_InstallVX1Chip.label>
+  <ATPP_InstallVX1Chip.description>Εγκατάσταση νευρωνικού τσιπ VX1, που επιτρέπει στον ξενιστή του να ελέγχει εξ αποστάσεως οποιοδήποτε ανδροειδές σειράς SX ή βιολογικό υποκατάστατο.</ATPP_InstallVX1Chip.description>
+  <ATPP_InstallVX1Chip.jobString>Εγκατάσταση νευρωνικού τσιπ VX1.</ATPP_InstallVX1Chip.jobString>
+  <ATPP_InstallVX1ChipOnAndroid.label>Εγκατάσταση νευρωνικού τσιπ VX1 σε ανδροειδές</ATPP_InstallVX1ChipOnAndroid.label>
+  <ATPP_InstallVX1ChipOnAndroid.description>Εγκατάσταση νευρωνικού τσιπ VX1 σε ανδροειδές, που επιτρέπει στον ξενιστή του να ελέγχει εξ αποστάσεως οποιοδήποτε ανδροειδές σειράς SX ή βιολογικό υποκατάστατο.</ATPP_InstallVX1ChipOnAndroid.description>
+  <ATPP_InstallVX1ChipOnAndroid.jobString>Εγκατάσταση νευρωνικού τσιπ VX1 σε ανδροειδές.</ATPP_InstallVX1ChipOnAndroid.jobString>
+  <ATPP_CreateS1.label>Δημιουργία Υποκατάστατου Ανδροειδούς T1 (S1)</ATPP_CreateS1.label>
+  <ATPP_CreateS1.description>Δημιουργία κενού ανδροειδούς S1 από πλαστατσάλι και εξαρτήματα.</ATPP_CreateS1.description>
+  <ATPP_CreateS1.jobString>Κατασκευή Ανδροειδούς S1.</ATPP_CreateS1.jobString>
+  <ATPP_CreateS2.label>Δημιουργία Υποκατάστατου Ανδροειδούς T2 (S2)</ATPP_CreateS2.label>
+  <ATPP_CreateS2.description>Δημιουργία κενού ανδροειδούς S2 από πλαστατσάλι και εξαρτήματα.</ATPP_CreateS2.description>
+  <ATPP_CreateS2.jobString>Κατασκευή Ανδροειδούς S2.</ATPP_CreateS2.jobString>
+  <ATPP_CreateS3.label>Δημιουργία Υποκατάστατου Ανδροειδούς T3 (S3)</ATPP_CreateS3.label>
+  <ATPP_CreateS3.description>Δημιουργία κενού ανδροειδούς S3 από πλαστατσάλι και εξαρτήματα.</ATPP_CreateS3.description>
+  <ATPP_CreateS3.jobString>Κατασκευή Ανδροειδούς S3.</ATPP_CreateS3.jobString>
+  <ATPP_CreateS4.label>Δημιουργία Υποκατάστατου Ανδροειδούς T4 (S4)</ATPP_CreateS4.label>
+  <ATPP_CreateS4.description>Δημιουργία κενού ανδροειδούς S4 από πλαστατσάλι και εξαρτήματα.</ATPP_CreateS4.description>
+  <ATPP_CreateS4.jobString>Κατασκευή Ανδροειδούς S4.</ATPP_CreateS4.jobString>
+  <ATPP_CreateHellDrone.label>Δημιουργία Υποκατάστατου Ανδροειδούς HellUnit (S-HU)</ATPP_CreateHellDrone.label>
+  <ATPP_CreateHellDrone.description>Δημιουργία κενού ανδροειδούς S-HU από πλαστατσάλι και εξαρτήματα.</ATPP_CreateHellDrone.description>
+  <ATPP_CreateHellDrone.jobString>Κατασκευή Ανδροειδούς S-HU.</ATPP_CreateHellDrone.jobString>
+  <ATPP_CreateM7.label>Δημιουργία Υποκατάστατου Μηχανοειδούς M7 (SM7)</ATPP_CreateM7.label>
+  <ATPP_CreateM7.description>Δημιουργία κενού μηχανοειδούς SM7 από πλαστατσάλι και εξαρτήματα.</ATPP_CreateM7.description>
+  <ATPP_CreateM7.jobString>Κατασκευή Μηχανοειδούς SM7.</ATPP_CreateM7.jobString>
+  <ATPP_CreateBlankT3.label>Δημιουργία ανδροειδούς T3 κενού νευρωνικού δικτύου</ATPP_CreateBlankT3.label>
+  <ATPP_CreateBlankT3.description>Δημιουργία ανδροειδούς T3 κενού νευρωνικού δικτύου</ATPP_CreateBlankT3.description>
+  <ATPP_CreateBlankT3.jobString>Δημιουργία ανδροειδούς T3 κενού νευρωνικού δικτύου</ATPP_CreateBlankT3.jobString>
+  <ATPP_CreateBlankT4.label>Δημιουργία ανδροειδούς T4 κενού νευρωνικού δικτύου</ATPP_CreateBlankT4.label>
+  <ATPP_CreateBlankT4.description>Δημιουργία ανδροειδούς T4 κενού νευρωνικού δικτύου</ATPP_CreateBlankT4.description>
+  <ATPP_CreateBlankT4.jobString>Δημιουργία ανδροειδούς T4 κενού νευρωνικού δικτύου</ATPP_CreateBlankT4.jobString>
+  <ATPP_Make_SM7Mech40MMCannon.label>Κατασκευή Πυροβόλου 40mm (Όπλο SM7)</ATPP_Make_SM7Mech40MMCannon.label>
+  <ATPP_Make_SM7Mech40MMCannon.description>Κατασκευή Πυροβόλου 40mm (Όπλο SM7)</ATPP_Make_SM7Mech40MMCannon.description>
+  <ATPP_Make_SM7Mech40MMCannon.jobString>Κατασκευή Πυροβόλου 40mm (Όπλο SM7)</ATPP_Make_SM7Mech40MMCannon.jobString>
+  <ATPP_Make_SM7MechMastiffGun.label>Κατασκευή Καραμπίνας Mastiff (Όπλο SM7)</ATPP_Make_SM7MechMastiffGun.label>
+  <ATPP_Make_SM7MechMastiffGun.description>Κατασκευή Καραμπίνας Mastiff (Όπλο SM7)</ATPP_Make_SM7MechMastiffGun.description>
+  <ATPP_Make_SM7MechMastiffGun.jobString>Κατασκευή Καραμπίνας Mastiff (Όπλο SM7)</ATPP_Make_SM7MechMastiffGun.jobString>
+  <ATPP_Make_SM7MechHandCannon.label>Κατασκευή Χειροπυροβόλου X-5 (Όπλο SM7)</ATPP_Make_SM7MechHandCannon.label>
+  <ATPP_Make_SM7MechHandCannon.description>Κατασκευή Χειροπυροβόλου X-5 (Όπλο SM7)</ATPP_Make_SM7MechHandCannon.description>
+  <ATPP_Make_SM7MechHandCannon.jobString>Κατασκευή Χειροπυροβόλου X-5 (Όπλο SM7)</ATPP_Make_SM7MechHandCannon.jobString>
+  <ATPP_PaintAndroidFrameworkKhaki.label>Βαφή πλαισίου ανδροειδούς σε χακί</ATPP_PaintAndroidFrameworkKhaki.label>
+  <ATPP_PaintAndroidFrameworkKhaki.description>Βαφή πλαισίου ανδροειδούς σε χακί</ATPP_PaintAndroidFrameworkKhaki.description>
+  <ATPP_PaintAndroidFrameworkKhaki.jobString>Βαφή πλαισίου ανδροειδούς σε χακί</ATPP_PaintAndroidFrameworkKhaki.jobString>
+  <ATPP_PaintAndroidFrameworkGreen.label>Βαφή πλαισίου ανδροειδούς σε πράσινο</ATPP_PaintAndroidFrameworkGreen.label>
+  <ATPP_PaintAndroidFrameworkGreen.description>Βαφή πλαισίου ανδροειδούς σε πράσινο</ATPP_PaintAndroidFrameworkGreen.description>
+  <ATPP_PaintAndroidFrameworkGreen.jobString>Βαφή πλαισίου ανδροειδούς σε πράσινο</ATPP_PaintAndroidFrameworkGreen.jobString>
+  <ATPP_PaintAndroidFrameworkBlue.label>Βαφή πλαισίου ανδροειδούς σε μπλε</ATPP_PaintAndroidFrameworkBlue.label>
+  <ATPP_PaintAndroidFrameworkBlue.description>Βαφή πλαισίου ανδροειδούς σε μπλε</ATPP_PaintAndroidFrameworkBlue.description>
+  <ATPP_PaintAndroidFrameworkBlue.jobString>Βαφή πλαισίου ανδροειδούς σε μπλε</ATPP_PaintAndroidFrameworkBlue.jobString>
+  <ATPP_PaintAndroidFrameworkRed.label>Βαφή πλαισίου ανδροειδούς σε κόκκινο</ATPP_PaintAndroidFrameworkRed.label>
+  <ATPP_PaintAndroidFrameworkRed.description>Βαφή πλαισίου ανδροειδούς σε κόκκινο</ATPP_PaintAndroidFrameworkRed.description>
+  <ATPP_PaintAndroidFrameworkRed.jobString>Βαφή πλαισίου ανδροειδούς σε κόκκινο</ATPP_PaintAndroidFrameworkRed.jobString>
+  <ATPP_PaintAndroidFrameworkYellow.label>Βαφή πλαισίου ανδροειδούς σε κίτρινο</ATPP_PaintAndroidFrameworkYellow.label>
+  <ATPP_PaintAndroidFrameworkYellow.description>Βαφή πλαισίου ανδροειδούς σε κίτρινο</ATPP_PaintAndroidFrameworkYellow.description>
+  <ATPP_PaintAndroidFrameworkYellow.jobString>Βαφή πλαισίου ανδροειδούς σε κίτρινο</ATPP_PaintAndroidFrameworkYellow.jobString>
+  <ATPP_PaintAndroidFrameworkOrange.label>Βαφή πλαισίου ανδροειδούς σε πορτοκαλί</ATPP_PaintAndroidFrameworkOrange.label>
+  <ATPP_PaintAndroidFrameworkOrange.description>Βαφή πλαισίου ανδροειδούς σε πορτοκαλί</ATPP_PaintAndroidFrameworkOrange.description>
+  <ATPP_PaintAndroidFrameworkOrange.jobString>Βαφή πλαισίου ανδροειδούς σε πορτοκαλί</ATPP_PaintAndroidFrameworkOrange.jobString>
+  <ATPP_PaintAndroidFrameworkBlack.label>Βαφή πλαισίου ανδροειδούς σε μαύρο</ATPP_PaintAndroidFrameworkBlack.label>
+  <ATPP_PaintAndroidFrameworkBlack.description>Βαφή πλαισίου ανδροειδούς σε μαύρο</ATPP_PaintAndroidFrameworkBlack.description>
+  <ATPP_PaintAndroidFrameworkBlack.jobString>Βαφή πλαισίου ανδροειδούς σε μαύρο</ATPP_PaintAndroidFrameworkBlack.jobString>
+  <ATPP_PaintAndroidFrameworkWhite.label>Βαφή πλαισίου ανδροειδούς σε λευκό</ATPP_PaintAndroidFrameworkWhite.label>
+  <ATPP_PaintAndroidFrameworkWhite.description>Βαφή πλαισίου ανδροειδούς σε λευκό</ATPP_PaintAndroidFrameworkWhite.description>
+  <ATPP_PaintAndroidFrameworkWhite.jobString>Βαφή πλαισίου ανδροειδούς σε λευκό</ATPP_PaintAndroidFrameworkWhite.jobString>
+  <ATPP_PaintAndroidFrameworkGray.label>Βαφή πλαισίου ανδροειδούς σε γκρι</ATPP_PaintAndroidFrameworkGray.label>
+  <ATPP_PaintAndroidFrameworkGray.description>Βαφή πλαισίου ανδροειδούς σε γκρι</ATPP_PaintAndroidFrameworkGray.description>
+  <ATPP_PaintAndroidFrameworkGray.jobString>Βαφή πλαισίου ανδροειδούς σε γκρι</ATPP_PaintAndroidFrameworkGray.jobString>
+  <ATPP_PaintAndroidFrameworkPurple.label>Βαφή πλαισίου ανδροειδούς σε μοβ</ATPP_PaintAndroidFrameworkPurple.label>
+  <ATPP_PaintAndroidFrameworkPurple.description>Βαφή πλαισίου ανδροειδούς σε μοβ</ATPP_PaintAndroidFrameworkPurple.description>
+  <ATPP_PaintAndroidFrameworkPurple.jobString>Βαφή πλαισίου ανδροειδούς σε μοβ</ATPP_PaintAndroidFrameworkPurple.jobString>
+  <ATPP_PaintAndroidFrameworkPink.label>Βαφή πλαισίου ανδροειδούς σε ροζ</ATPP_PaintAndroidFrameworkPink.label>
+  <ATPP_PaintAndroidFrameworkPink.description>Βαφή πλαισίου ανδροειδούς σε ροζ</ATPP_PaintAndroidFrameworkPink.description>
+  <ATPP_PaintAndroidFrameworkPink.jobString>Βαφή πλαισίου ανδροειδούς σε ροζ</ATPP_PaintAndroidFrameworkPink.jobString>
+  <ATPP_PaintAndroidFrameworkCyan.label>Βαφή πλαισίου ανδροειδούς σε κυανό</ATPP_PaintAndroidFrameworkCyan.label>
+  <ATPP_PaintAndroidFrameworkCyan.description>Βαφή πλαισίου ανδροειδούς σε κυανό</ATPP_PaintAndroidFrameworkCyan.description>
+  <ATPP_PaintAndroidFrameworkCyan.jobString>Βαφή πλαισίου ανδροειδούς σε κυανό</ATPP_PaintAndroidFrameworkCyan.jobString>
+  <ATPP_PaintAndroidFrameworkDefault.label>Βαφή πλαισίου ανδροειδούς στο προεπιλεγμένο χρώμα</ATPP_PaintAndroidFrameworkDefault.label>
+  <ATPP_PaintAndroidFrameworkDefault.description>Βαφή πλαισίου ανδροειδούς στο προεπιλεγμένο χρώμα</ATPP_PaintAndroidFrameworkDefault.description>
+  <ATPP_PaintAndroidFrameworkDefault.jobString>Βαφή πλαισίου ανδροειδούς στο προεπιλεγμένο χρώμα</ATPP_PaintAndroidFrameworkDefault.jobString>
+  <ATPP_ApplyHydraulicNaniteBank.label>Χορήγηση τράπεζας υδραυλικών νανοϊτών</ATPP_ApplyHydraulicNaniteBank.label>
+  <ATPP_ApplyHydraulicNaniteBank.description>Χορήγηση μίας δόσης νανοϊτών ρυθμισμένης να επισκευάζει χαλασμένα υδραυλικά συστήματα ανδροειδών.</ATPP_ApplyHydraulicNaniteBank.description>
+  <ATPP_ApplyHydraulicNaniteBank.jobString>Επιδιόρθωση προβλημάτων γήρανσης ανδροειδούς με ορό νανοϊτών</ATPP_ApplyHydraulicNaniteBank.jobString>
+  <ATPP_ApplyHealFrameworkSystem.label>Χορήγηση τράπεζας νανοϊτών πλαισίου</ATPP_ApplyHealFrameworkSystem.label>
+  <ATPP_ApplyHealFrameworkSystem.description>Χορήγηση μίας τράπεζας νανοϊτών ρυθμισμένης να επισκευάζει χαλασμένο εξωσκελετό ανδροειδών.</ATPP_ApplyHealFrameworkSystem.description>
+  <ATPP_ApplyHealFrameworkSystem.jobString>Επιδιόρθωση προβλημάτων γήρανσης ανδροειδούς με ορό νανοϊτών</ATPP_ApplyHealFrameworkSystem.jobString>
+  <ATPP_ApplyHealCoolingSystem.label>Χορήγηση τράπεζας νανοϊτών ψύξης</ATPP_ApplyHealCoolingSystem.label>
+  <ATPP_ApplyHealCoolingSystem.description>Χορήγηση μίας τράπεζας νανοϊτών ρυθμισμένης να επισκευάζει χαλασμένο σύστημα ψύξης ανδροειδών σε περίπτωση υπερθέρμανσης.</ATPP_ApplyHealCoolingSystem.description>
+  <ATPP_ApplyHealCoolingSystem.jobString>Επιδιόρθωση προβλημάτων γήρανσης ανδροειδούς με ορό νανοϊτών</ATPP_ApplyHealCoolingSystem.jobString>
+  <ATPP_ApplyHealCPUSerum.label>Χορήγηση τράπεζας νανοϊτών CPU</ATPP_ApplyHealCPUSerum.label>
+  <ATPP_ApplyHealCPUSerum.description>Χορήγηση μίας τράπεζας νανοϊτών ρυθμισμένης να επισκευάζει χαλασμένο σύστημα τεχνητού εγκεφάλου ανδροειδών.</ATPP_ApplyHealCPUSerum.description>
+  <ATPP_ApplyHealCPUSerum.jobString>Επιδιόρθωση προβλημάτων γήρανσης ανδροειδούς με ορό νανοϊτών</ATPP_ApplyHealCPUSerum.jobString>
+  <ATPP_Make_T1ArtificialBrain.label>Κατασκευή τεχνητού εγκεφάλου T1</ATPP_Make_T1ArtificialBrain.label>
+  <ATPP_Make_T1ArtificialBrain.description>Κατασκευή τεχνητού εγκεφάλου T1 για τη μετατροπή ενός υποκατάστατου σε ανδροειδές κενού νευρωνικού δικτύου.</ATPP_Make_T1ArtificialBrain.description>
+  <ATPP_Make_T1ArtificialBrain.jobString>Κατασκευή τεχνητού εγκεφάλου T1.</ATPP_Make_T1ArtificialBrain.jobString>
+  <ATPP_Make_T2ArtificialBrain.label>Κατασκευή τεχνητού εγκεφάλου T2</ATPP_Make_T2ArtificialBrain.label>
+  <ATPP_Make_T2ArtificialBrain.description>Κατασκευή τεχνητού εγκεφάλου T2 για τη μετατροπή ενός υποκατάστατου σε ανδροειδές κενού νευρωνικού δικτύου.</ATPP_Make_T2ArtificialBrain.description>
+  <ATPP_Make_T2ArtificialBrain.jobString>Κατασκευή τεχνητού εγκεφάλου T2.</ATPP_Make_T2ArtificialBrain.jobString>
+  <ATPP_Make_T3ArtificialBrain.label>Κατασκευή τεχνητού εγκεφάλου T3</ATPP_Make_T3ArtificialBrain.label>
+  <ATPP_Make_T3ArtificialBrain.description>Κατασκευή τεχνητού εγκεφάλου T3 για τη μετατροπή ενός υποκατάστατου σε ανδροειδές κενού νευρωνικού δικτύου.</ATPP_Make_T3ArtificialBrain.description>
+  <ATPP_Make_T3ArtificialBrain.jobString>Κατασκευή τεχνητού εγκεφάλου T3.</ATPP_Make_T3ArtificialBrain.jobString>
+  <ATPP_Make_T4ArtificialBrain.label>Κατασκευή τεχνητού εγκεφάλου T4</ATPP_Make_T4ArtificialBrain.label>
+  <ATPP_Make_T4ArtificialBrain.description>Κατασκευή τεχνητού εγκεφάλου T4 για τη μετατροπή ενός υποκατάστατου σε ανδροειδές κενού νευρωνικού δικτύου.</ATPP_Make_T4ArtificialBrain.description>
+  <ATPP_Make_T4ArtificialBrain.jobString>Κατασκευή τεχνητού εγκεφάλου T4.</ATPP_Make_T4ArtificialBrain.jobString>
+  <ATPP_InstallT1ArtificialBrain.label>Εγκατάσταση τεχνητού εγκεφάλου T1</ATPP_InstallT1ArtificialBrain.label>
+  <ATPP_InstallT1ArtificialBrain.description>Εγκατάσταση τεχνητού εγκεφάλου T1, που επιτρέπει τη μετατροπή ενός υποκατάστατου T1 σε ανδροειδές κενού νευρωνικού δικτύου</ATPP_InstallT1ArtificialBrain.description>
+  <ATPP_InstallT1ArtificialBrain.jobString>Εγκατάσταση τεχνητού εγκεφάλου T1.</ATPP_InstallT1ArtificialBrain.jobString>
+  <ATPP_InstallT2ArtificialBrain.label>Εγκατάσταση τεχνητού εγκεφάλου T2</ATPP_InstallT2ArtificialBrain.label>
+  <ATPP_InstallT2ArtificialBrain.description>Εγκατάσταση τεχνητού εγκεφάλου T2, που επιτρέπει τη μετατροπή ενός υποκατάστατου T2 σε ανδροειδές κενού νευρωνικού δικτύου</ATPP_InstallT2ArtificialBrain.description>
+  <ATPP_InstallT2ArtificialBrain.jobString>Εγκατάσταση τεχνητού εγκεφάλου T2.</ATPP_InstallT2ArtificialBrain.jobString>
+  <ATPP_InstallT3ArtificialBrain.label>Εγκατάσταση τεχνητού εγκεφάλου T3</ATPP_InstallT3ArtificialBrain.label>
+  <ATPP_InstallT3ArtificialBrain.description>Εγκατάσταση τεχνητού εγκεφάλου T3, που επιτρέπει τη μετατροπή ενός υποκατάστατου T3 σε ανδροειδές κενού νευρωνικού δικτύου</ATPP_InstallT3ArtificialBrain.description>
+  <ATPP_InstallT3ArtificialBrain.jobString>Εγκατάσταση τεχνητού εγκεφάλου T3.</ATPP_InstallT3ArtificialBrain.jobString>
+  <ATPP_InstallT4ArtificialBrain.label>Εγκατάσταση τεχνητού εγκεφάλου T4</ATPP_InstallT4ArtificialBrain.label>
+  <ATPP_InstallT4ArtificialBrain.description>Εγκατάσταση τεχνητού εγκεφάλου T4, που επιτρέπει τη μετατροπή ενός υποκατάστατου T4 σε ανδροειδές κενού νευρωνικού δικτύου</ATPP_InstallT4ArtificialBrain.description>
+  <ATPP_InstallT4ArtificialBrain.jobString>Εγκατάσταση τεχνητού εγκεφάλου T4.</ATPP_InstallT4ArtificialBrain.jobString>
+  <ATPP_CreateSX2.label>Δημιουργία αρσενικού Υποκατάστατου Ανδροειδούς TX2 (SX2)</ATPP_CreateSX2.label>
+  <ATPP_CreateSX2.description>Δημιουργία κενού αρσενικού ανδροειδούς SX2 από πλαστατσάλι και εξαρτήματα.</ATPP_CreateSX2.description>
+  <ATPP_CreateSX2.jobString>Κατασκευή Ανδροειδούς SX2.</ATPP_CreateSX2.jobString>
+  <ATPP_CreateSX2Female.label>Δημιουργία θηλυκού Υποκατάστατου Ανδροειδούς TX2 (SX2)</ATPP_CreateSX2Female.label>
+  <ATPP_CreateSX2Female.description>Δημιουργία κενού θηλυκού ανδροειδούς SX2 από πλαστατσάλι και εξαρτήματα.</ATPP_CreateSX2Female.description>
+  <ATPP_CreateSX2Female.jobString>Κατασκευή Ανδροειδούς SX2.</ATPP_CreateSX2Female.jobString>
+  <ATPP_CreateSX3.label>Δημιουργία αρσενικού Υποκατάστατου Ανδροειδούς TX3 (SX3)</ATPP_CreateSX3.label>
+  <ATPP_CreateSX3.description>Δημιουργία κενού αρσενικού ανδροειδούς SX3 από πλαστατσάλι και εξαρτήματα.</ATPP_CreateSX3.description>
+  <ATPP_CreateSX3.jobString>Κατασκευή Ανδροειδούς SX3.</ATPP_CreateSX3.jobString>
+  <ATPP_CreateSX3Female.label>Δημιουργία θηλυκού Υποκατάστατου Ανδροειδούς TX3 (SX3)</ATPP_CreateSX3Female.label>
+  <ATPP_CreateSX3Female.description>Δημιουργία κενού θηλυκού ανδροειδούς SX3 από πλαστατσάλι και εξαρτήματα.</ATPP_CreateSX3Female.description>
+  <ATPP_CreateSX3Female.jobString>Κατασκευή Ανδροειδούς SX3.</ATPP_CreateSX3Female.jobString>
+  <ATPP_CreateSX4.label>Δημιουργία Υποκατάστατου Ανδροειδούς TX4 (SX4)</ATPP_CreateSX4.label>
+  <ATPP_CreateSX4.description>Δημιουργία κενού ανδροειδούς SX4 από πλαστατσάλι και εξαρτήματα.</ATPP_CreateSX4.description>
+  <ATPP_CreateSX4.jobString>Κατασκευή Ανδροειδούς SX4.</ATPP_CreateSX4.jobString>
+  <ATPP_CreateSX4Female.label>Δημιουργία θηλυκού Υποκατάστατου Ανδροειδούς TX4 (SX4)</ATPP_CreateSX4Female.label>
+  <ATPP_CreateSX4Female.description>Δημιουργία κενού θηλυκού ανδροειδούς SX4 από πλαστατσάλι και εξαρτήματα.</ATPP_CreateSX4Female.description>
+  <ATPP_CreateSX4Female.jobString>Κατασκευή Ανδροειδούς SX4.</ATPP_CreateSX4Female.jobString>
+  <ATPP_CreateSX2I.label>Δημιουργία αρσενικού Υποκατάστατου Ανδροειδούς TX2I (SX2I)</ATPP_CreateSX2I.label>
+  <ATPP_CreateSX2I.description>Δημιουργία κενού αρσενικού ανδροειδούς SX2I από πλαστατσάλι και εξαρτήματα.</ATPP_CreateSX2I.description>
+  <ATPP_CreateSX2I.jobString>Κατασκευή Ανδροειδούς SX2I.</ATPP_CreateSX2I.jobString>
+  <ATPP_CreateSX2IFemale.label>Δημιουργία θηλυκού Υποκατάστατου Ανδροειδούς TX2I (SX2I)</ATPP_CreateSX2IFemale.label>
+  <ATPP_CreateSX2IFemale.description>Δημιουργία κενού θηλυκού ανδροειδούς SX2I από πλαστατσάλι και εξαρτήματα.</ATPP_CreateSX2IFemale.description>
+  <ATPP_CreateSX2IFemale.jobString>Κατασκευή Ανδροειδούς SX2I.</ATPP_CreateSX2IFemale.jobString>
+  <ATPP_CreateSX2K.label>Δημιουργία αρσενικού Υποκατάστατου Ανδροειδούς TX2K (SX2K)</ATPP_CreateSX2K.label>
+  <ATPP_CreateSX2K.description>Δημιουργία κενού αρσενικού ανδροειδούς SX2K από πλαστατσάλι και εξαρτήματα.</ATPP_CreateSX2K.description>
+  <ATPP_CreateSX2K.jobString>Κατασκευή Ανδροειδούς SX2K.</ATPP_CreateSX2K.jobString>
+  <ATPP_CreateSX2KFemale.label>Δημιουργία θηλυκού Υποκατάστατου Ανδροειδούς TX2K (SX2K)</ATPP_CreateSX2KFemale.label>
+  <ATPP_CreateSX2KFemale.description>Δημιουργία κενού θηλυκού ανδροειδούς SX2K από πλαστατσάλι και εξαρτήματα.</ATPP_CreateSX2KFemale.description>
+  <ATPP_CreateSX2KFemale.jobString>Κατασκευή Ανδροειδούς SX2K.</ATPP_CreateSX2KFemale.jobString>
+  <ATPP_CreateSX2KI.label>Δημιουργία Υποκατάστατου Ανδροειδούς TX2KI (SX2KI)</ATPP_CreateSX2KI.label>
+  <ATPP_CreateSX2KI.description>Δημιουργία κενού ανδροειδούς SX2KI από πλαστατσάλι και εξαρτήματα.</ATPP_CreateSX2KI.description>
+  <ATPP_CreateSX2KI.jobString>Κατασκευή Ανδροειδούς SX2KI.</ATPP_CreateSX2KI.jobString>
+  <ATPP_CreateSX2KIFemale.label>Δημιουργία θηλυκού Υποκατάστατου Ανδροειδούς TX2KI (SX2KI)</ATPP_CreateSX2KIFemale.label>
+  <ATPP_CreateSX2KIFemale.description>Δημιουργία κενού θηλυκού ανδροειδούς SX2KI από πλαστατσάλι και εξαρτήματα.</ATPP_CreateSX2KIFemale.description>
+  <ATPP_CreateSX2KIFemale.jobString>Κατασκευή θηλυκού Ανδροειδούς SX2KI.</ATPP_CreateSX2KIFemale.jobString>
+  <ATPP_CreateSX3I.label>Δημιουργία αρσενικού Υποκατάστατου Ανδροειδούς TX3I (SX3I)</ATPP_CreateSX3I.label>
+  <ATPP_CreateSX3I.description>Δημιουργία κενού αρσενικού ανδροειδούς SX3I από πλαστατσάλι και εξαρτήματα.</ATPP_CreateSX3I.description>
+  <ATPP_CreateSX3I.jobString>Κατασκευή Ανδροειδούς SX3I.</ATPP_CreateSX3I.jobString>
+  <ATPP_CreateSX3IFemale.label>Δημιουργία θηλυκού Υποκατάστατου Ανδροειδούς TX3I (SX3I)</ATPP_CreateSX3IFemale.label>
+  <ATPP_CreateSX3IFemale.description>Δημιουργία κενού θηλυκού ανδροειδούς SX3I από πλαστατσάλι και εξαρτήματα.</ATPP_CreateSX3IFemale.description>
+  <ATPP_CreateSX3IFemale.jobString>Κατασκευή Ανδροειδούς SX3I.</ATPP_CreateSX3IFemale.jobString>
+  <ATPP_CreateSX4I.label>Δημιουργία Υποκατάστατου Ανδροειδούς TX4I (SX4I)</ATPP_CreateSX4I.label>
+  <ATPP_CreateSX4I.description>Δημιουργία κενού ανδροειδούς SX4I από πλαστατσάλι και εξαρτήματα.</ATPP_CreateSX4I.description>
+  <ATPP_CreateSX4I.jobString>Κατασκευή Ανδροειδούς SX4I.</ATPP_CreateSX4I.jobString>
+  <ATPP_CreateSX4IFemale.label>Δημιουργία θηλυκού Υποκατάστατου Ανδροειδούς TX4I (SX4I)</ATPP_CreateSX4IFemale.label>
+  <ATPP_CreateSX4IFemale.description>Δημιουργία κενού θηλυκού ανδροειδούς SX4I από πλαστατσάλι και εξαρτήματα.</ATPP_CreateSX4IFemale.description>
+  <ATPP_CreateSX4IFemale.jobString>Κατασκευή Ανδροειδούς SX4I.</ATPP_CreateSX4IFemale.jobString>
+  <ATPP_CreateTX4Android.label>Δημιουργία αρσενικού Ανδροειδούς TX4</ATPP_CreateTX4Android.label>
+  <ATPP_CreateTX4Android.description>Δημιουργία αρσενικού Ανδροειδούς TX4</ATPP_CreateTX4Android.description>
+  <ATPP_CreateTX4Android.jobString>Δημιουργία Ανδροειδούς TX4</ATPP_CreateTX4Android.jobString>
+  <ATPP_CreateTX4FemaleAndroid.label>Δημιουργία θηλυκού Ανδροειδούς TX4</ATPP_CreateTX4FemaleAndroid.label>
+  <ATPP_CreateTX4FemaleAndroid.description>Δημιουργία θηλυκού Ανδροειδούς TX4</ATPP_CreateTX4FemaleAndroid.description>
+  <ATPP_CreateTX4FemaleAndroid.jobString>Δημιουργία Ανδροειδούς TX4</ATPP_CreateTX4FemaleAndroid.jobString>
+  <ATPP_CreateTX3Android.label>Δημιουργία αρσενικού Ανδροειδούς TX3</ATPP_CreateTX3Android.label>
+  <ATPP_CreateTX3Android.description>Δημιουργία αρσενικού Ανδροειδούς TX3</ATPP_CreateTX3Android.description>
+  <ATPP_CreateTX3Android.jobString>Δημιουργία Ανδροειδούς TX3</ATPP_CreateTX3Android.jobString>
+  <ATPP_CreateTX3FemaleAndroid.label>Δημιουργία θηλυκού Ανδροειδούς TX3</ATPP_CreateTX3FemaleAndroid.label>
+  <ATPP_CreateTX3FemaleAndroid.description>Δημιουργία θηλυκού Ανδροειδούς TX3</ATPP_CreateTX3FemaleAndroid.description>
+  <ATPP_CreateTX3FemaleAndroid.jobString>Δημιουργία Ανδροειδούς TX3</ATPP_CreateTX3FemaleAndroid.jobString>
+  <ATPP_CreateTX2Android.label>Δημιουργία αρσενικού Ανδροειδούς TX2</ATPP_CreateTX2Android.label>
+  <ATPP_CreateTX2Android.description>Δημιουργία αρσενικού Ανδροειδούς TX2</ATPP_CreateTX2Android.description>
+  <ATPP_CreateTX2Android.jobString>Δημιουργία Ανδροειδούς TX2</ATPP_CreateTX2Android.jobString>
+  <ATPP_CreateTX2FemaleAndroid.label>Δημιουργία θηλυκού Ανδροειδούς TX2</ATPP_CreateTX2FemaleAndroid.label>
+  <ATPP_CreateTX2FemaleAndroid.description>Δημιουργία θηλυκού Ανδροειδούς TX2</ATPP_CreateTX2FemaleAndroid.description>
+  <ATPP_CreateTX2FemaleAndroid.jobString>Δημιουργία Ανδροειδούς TX2</ATPP_CreateTX2FemaleAndroid.jobString>
+  <ATPP_CreateTX4IAndroid.label>Δημιουργία αρσενικού Ανδροειδούς TX4I</ATPP_CreateTX4IAndroid.label>
+  <ATPP_CreateTX4IAndroid.description>Δημιουργία αρσενικού Ανδροειδούς TX4I</ATPP_CreateTX4IAndroid.description>
+  <ATPP_CreateTX4IAndroid.jobString>Δημιουργία Ανδροειδούς TX4I</ATPP_CreateTX4IAndroid.jobString>
+  <ATPP_CreateTX4IFemaleAndroid.label>Δημιουργία θηλυκού Ανδροειδούς TX4I</ATPP_CreateTX4IFemaleAndroid.label>
+  <ATPP_CreateTX4IFemaleAndroid.description>Δημιουργία θηλυκού Ανδροειδούς TX4I</ATPP_CreateTX4IFemaleAndroid.description>
+  <ATPP_CreateTX4IFemaleAndroid.jobString>Δημιουργία Ανδροειδούς TX4I</ATPP_CreateTX4IFemaleAndroid.jobString>
+  <ATPP_CreateTX3IAndroid.label>Δημιουργία αρσενικού Ανδροειδούς TX3I</ATPP_CreateTX3IAndroid.label>
+  <ATPP_CreateTX3IAndroid.description>Δημιουργία αρσενικού Ανδροειδούς TX3I</ATPP_CreateTX3IAndroid.description>
+  <ATPP_CreateTX3IAndroid.jobString>Δημιουργία Ανδροειδούς TX3I</ATPP_CreateTX3IAndroid.jobString>
+  <ATPP_CreateTX3IFemaleAndroid.label>Δημιουργία θηλυκού Ανδροειδούς TX3I</ATPP_CreateTX3IFemaleAndroid.label>
+  <ATPP_CreateTX3IFemaleAndroid.description>Δημιουργία θηλυκού Ανδροειδούς TX3I</ATPP_CreateTX3IFemaleAndroid.description>
+  <ATPP_CreateTX3IFemaleAndroid.jobString>Δημιουργία Ανδροειδούς TX3I</ATPP_CreateTX3IFemaleAndroid.jobString>
+  <ATPP_CreateTX2IAndroid.label>Δημιουργία αρσενικού Ανδροειδούς TX2I</ATPP_CreateTX2IAndroid.label>
+  <ATPP_CreateTX2IAndroid.description>Δημιουργία αρσενικού Ανδροειδούς TX2I</ATPP_CreateTX2IAndroid.description>
+  <ATPP_CreateTX2IAndroid.jobString>Δημιουργία Ανδροειδούς TX2I</ATPP_CreateTX2IAndroid.jobString>
+  <ATPP_CreateTX2IFemaleAndroid.label>Δημιουργία θηλυκού Ανδροειδούς TX2I</ATPP_CreateTX2IFemaleAndroid.label>
+  <ATPP_CreateTX2IFemaleAndroid.description>Δημιουργία θηλυκού Ανδροειδούς TX2I</ATPP_CreateTX2IFemaleAndroid.description>
+  <ATPP_CreateTX2IFemaleAndroid.jobString>Δημιουργία Ανδροειδούς TX2I</ATPP_CreateTX2IFemaleAndroid.jobString>
+  <ATPP_CreateTX2KAndroid.label>Δημιουργία αρσενικού Ανδροειδούς TX2K</ATPP_CreateTX2KAndroid.label>
+  <ATPP_CreateTX2KAndroid.description>Δημιουργία αρσενικού Ανδροειδούς TX2K</ATPP_CreateTX2KAndroid.description>
+  <ATPP_CreateTX2KAndroid.jobString>Δημιουργία Ανδροειδούς TX2K</ATPP_CreateTX2KAndroid.jobString>
+  <ATPP_CreateTX2KFemaleAndroid.label>Δημιουργία θηλυκού Ανδροειδούς TX2K</ATPP_CreateTX2KFemaleAndroid.label>
+  <ATPP_CreateTX2KFemaleAndroid.description>Δημιουργία θηλυκού Ανδροειδούς TX2K</ATPP_CreateTX2KFemaleAndroid.description>
+  <ATPP_CreateTX2KFemaleAndroid.jobString>Δημιουργία Ανδροειδούς TX2K</ATPP_CreateTX2KFemaleAndroid.jobString>
+  <ATPP_CreateTX2KIAndroid.label>Δημιουργία Ανδροειδούς TX2KI</ATPP_CreateTX2KIAndroid.label>
+  <ATPP_CreateTX2KIAndroid.description>Δημιουργία Ανδροειδούς TX2KI</ATPP_CreateTX2KIAndroid.description>
+  <ATPP_CreateTX2KIAndroid.jobString>Δημιουργία Ανδροειδούς TX2KI</ATPP_CreateTX2KIAndroid.jobString>
+  <ATPP_CreateTX2KIFemaleAndroid.label>Δημιουργία θηλυκού Ανδροειδούς TX2KI</ATPP_CreateTX2KIFemaleAndroid.label>
+  <ATPP_CreateTX2KIFemaleAndroid.description>Δημιουργία θηλυκού Ανδροειδούς TX2KI</ATPP_CreateTX2KIFemaleAndroid.description>
+  <ATPP_CreateTX2KIFemaleAndroid.jobString>Δημιουργία Ανδροειδούς TX2KI</ATPP_CreateTX2KIFemaleAndroid.jobString>
+  <ATPP_MakeSyntheticSkinGland.label>σύνθεση δερματικού αδένα</ATPP_MakeSyntheticSkinGland.label>
+  <ATPP_MakeSyntheticSkinGland.description>Σύνθεση τεχνητού δερματικού αδένα με χρήση υδρογονανθρακικού χημικού καυσίμου, συντηρητικού διαλύματος νουτροαμίνης, φαρμάκων και υφαντών υφασμάτινων ικριωμάτων.</ATPP_MakeSyntheticSkinGland.description>
+  <ATPP_MakeSyntheticSkinGland.jobString>Σύνθεση δερματικού αδένα.</ATPP_MakeSyntheticSkinGland.jobString>
+  <ATPP_GestateSyntheticSkinGland_Biotech.label>κύηση αδένα συνθετικού δέρματος</ATPP_GestateSyntheticSkinGland_Biotech.label>
+  <ATPP_GestateSyntheticSkinGland_Biotech.description>Με χρήση αιμογενούς διαλύματος Biotech, κυτταρικών θρεπτικών συστατικών και ιατρικών σταθεροποιητών σε Δεξαμενή Παραγωγής Ανδροειδών, κύηση ζωντανής μήτρας αδένα συνθετικού δέρματος για διεισδυτές της σειράς TX.</ATPP_GestateSyntheticSkinGland_Biotech.description>
+  <ATPP_GestateSyntheticSkinGland_Biotech.jobString>Κύηση αδένα συνθετικού δέρματος.</ATPP_GestateSyntheticSkinGland_Biotech.jobString>
+  <ATPP_QE_GrowSyntheticSkinGland.label>καλλιέργεια αδένα συνθετικού δέρματος</ATPP_QE_GrowSyntheticSkinGland.label>
+  <ATPP_QE_GrowSyntheticSkinGland.description>Καλλιέργεια ζωντανής βιο-συνθετικής μήτρας αδένα δέρματος μέσα στη δεξαμενή οργάνων Questionable Ethics με χρήση οργανικών θρεπτικών συστατικών και χημικών σταθεροποιητών.</ATPP_QE_GrowSyntheticSkinGland.description>
+  <ATPP_QE_GrowSyntheticSkinGland.jobString>Καλλιέργεια αδένα συνθετικού δέρματος.</ATPP_QE_GrowSyntheticSkinGland.jobString>
+  <ATPP_ApplySyntheticSkin.label>μεταμόσχευση συνθετικού δέρματος</ATPP_ApplySyntheticSkin.label>
+  <ATPP_ApplySyntheticSkin.description>Μεταμοσχεύει μια συνθετική δερματική μήτρα σε αυτό το πλαίσιο πεζικού TX, καλύπτοντας τον εκτεθειμένο μηχανικό ενδοσκελετό με ανθρωπόμορφο ζωντανό συνθετικό δέρμα. Αυτό αυξάνει την κοινωνική αποδοχή και τη θερμομόνωση ενώ εξαλείφει τη σκουριά από τη βροχή, εις βάρος της αυξημένης ευφλεκτότητας.</ATPP_ApplySyntheticSkin.description>
+  <ATPP_ApplySyntheticSkin.jobString>Μεταμόσχευση συνθετικού δέρματος στο ανδροειδές.</ATPP_ApplySyntheticSkin.jobString>
+  <ATPP_RemoveSyntheticSkin.label>αφαίρεση συνθετικού δέρματος</ATPP_RemoveSyntheticSkin.label>
+  <ATPP_RemoveSyntheticSkin.description>Αφαιρεί χειρουργικά το στρώμα συνθετικού δέρματος από αυτόν τον διεισδυτή TX, αποκαλύπτοντας τον ενισχυμένο ενδοσκελετό πεζικού από κάτω. Το ανδροειδές χάνει κοινωνική γοητεία, αλλά αποκτά ανοσία στη φωτιά και ανθεκτικότητα στο πεδίο μάχης.</ATPP_RemoveSyntheticSkin.description>
+  <ATPP_RemoveSyntheticSkin.jobString>Αφαίρεση συνθετικού δέρματος από το ανδροειδές.</ATPP_RemoveSyntheticSkin.jobString>
+  <ATPP_QE_CreateTX2KMale.label>συναρμολόγηση αρσενικού πλαισίου TX2K (δεξαμενή QEE)</ATPP_QE_CreateTX2KMale.label>
+  <ATPP_QE_CreateTX2KMale.description>Συναρμολόγηση ενός ανενεργού αρσενικού εξωσκελετού TX2K κωδικοποιημένου ως αλληλουχία γονιδιώματος για επώαση σε δεξαμενή οργάνων.</ATPP_QE_CreateTX2KMale.description>
+  <ATPP_QE_CreateTX2KMale.jobString>Κατασκευή Ανδροειδούς</ATPP_QE_CreateTX2KMale.jobString>
+  <ATPP_QE_CreateTX2KFemale.label>συναρμολόγηση θηλυκού πλαισίου TX2K (δεξαμενή QEE)</ATPP_QE_CreateTX2KFemale.label>
+  <ATPP_QE_CreateTX2KFemale.description>Συναρμολόγηση ενός ανενεργού θηλυκού εξωσκελετού TX2K κωδικοποιημένου ως αλληλουχία γονιδιώματος για επώαση σε δεξαμενή οργάνων.</ATPP_QE_CreateTX2KFemale.description>
+  <ATPP_QE_CreateTX2KFemale.jobString>Κατασκευή Ανδροειδούς</ATPP_QE_CreateTX2KFemale.jobString>
+  <ATPP_QE_CreateSX2KMaleSurrogate.label>συναρμολόγηση αρσενικού υποκατάστατου πλαισίου SX2K (δεξαμενή QEE)</ATPP_QE_CreateSX2KMaleSurrogate.label>
+  <ATPP_QE_CreateSX2KMaleSurrogate.description>Συναρμολόγηση ενός ανενεργού αρσενικού εξωσκελετού υποκατάστατου TX2K κωδικοποιημένου ως αλληλουχία γονιδιώματος για επώαση σε δεξαμενή οργάνων.</ATPP_QE_CreateSX2KMaleSurrogate.description>
+  <ATPP_QE_CreateSX2KMaleSurrogate.jobString>Κατασκευή Ανδροειδούς</ATPP_QE_CreateSX2KMaleSurrogate.jobString>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.label>συναρμολόγηση θηλυκού υποκατάστατου πλαισίου SX2K (δεξαμενή QEE)</ATPP_QE_CreateSX2KFemaleSurrogate.label>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.description>Συναρμολόγηση ενός ανενεργού θηλυκού εξωσκελετού υποκατάστατου TX2K κωδικοποιημένου ως αλληλουχία γονιδιώματος για επώαση σε δεξαμενή οργάνων.</ATPP_QE_CreateSX2KFemaleSurrogate.description>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.jobString>Κατασκευή Ανδροειδούς</ATPP_QE_CreateSX2KFemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX3Male.label>συναρμολόγηση αρσενικού πλαισίου TX3 (δεξαμενή QEE)</ATPP_QE_CreateTX3Male.label>
+  <ATPP_QE_CreateTX3Male.description>Συναρμολόγηση ενός ανενεργού αρσενικού εξωσκελετού TX3 κωδικοποιημένου ως αλληλουχία γονιδιώματος για επώαση σε δεξαμενή οργάνων.</ATPP_QE_CreateTX3Male.description>
+  <ATPP_QE_CreateTX3Male.jobString>Κατασκευή Ανδροειδούς</ATPP_QE_CreateTX3Male.jobString>
+  <ATPP_QE_CreateTX3Female.label>συναρμολόγηση θηλυκού πλαισίου TX3 (δεξαμενή QEE)</ATPP_QE_CreateTX3Female.label>
+  <ATPP_QE_CreateTX3Female.description>Συναρμολόγηση ενός ανενεργού θηλυκού εξωσκελετού TX3 κωδικοποιημένου ως αλληλουχία γονιδιώματος για επώαση σε δεξαμενή οργάνων.</ATPP_QE_CreateTX3Female.description>
+  <ATPP_QE_CreateTX3Female.jobString>Κατασκευή Ανδροειδούς</ATPP_QE_CreateTX3Female.jobString>
+  <ATPP_QE_CreateSX3MaleSurrogate.label>συναρμολόγηση αρσενικού υποκατάστατου πλαισίου SX3 (δεξαμενή QEE)</ATPP_QE_CreateSX3MaleSurrogate.label>
+  <ATPP_QE_CreateSX3MaleSurrogate.description>Συναρμολόγηση ενός ανενεργού αρσενικού εξωσκελετού υποκατάστατου TX3 κωδικοποιημένου ως αλληλουχία γονιδιώματος για επώαση σε δεξαμενή οργάνων.</ATPP_QE_CreateSX3MaleSurrogate.description>
+  <ATPP_QE_CreateSX3MaleSurrogate.jobString>Κατασκευή Ανδροειδούς</ATPP_QE_CreateSX3MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX3FemaleSurrogate.label>συναρμολόγηση θηλυκού υποκατάστατου πλαισίου SX3 (δεξαμενή QEE)</ATPP_QE_CreateSX3FemaleSurrogate.label>
+  <ATPP_QE_CreateSX3FemaleSurrogate.description>Συναρμολόγηση ενός ανενεργού θηλυκού εξωσκελετού υποκατάστατου TX3 κωδικοποιημένου ως αλληλουχία γονιδιώματος για επώαση σε δεξαμενή οργάνων.</ATPP_QE_CreateSX3FemaleSurrogate.description>
+  <ATPP_QE_CreateSX3FemaleSurrogate.jobString>Κατασκευή Ανδροειδούς</ATPP_QE_CreateSX3FemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX4Male.label>συναρμολόγηση αρσενικού πλαισίου TX4 (δεξαμενή QEE)</ATPP_QE_CreateTX4Male.label>
+  <ATPP_QE_CreateTX4Male.description>Συναρμολόγηση ενός ανενεργού αρσενικού εξωσκελετού TX4 κωδικοποιημένου ως αλληλουχία γονιδιώματος για επώαση σε δεξαμενή οργάνων.</ATPP_QE_CreateTX4Male.description>
+  <ATPP_QE_CreateTX4Male.jobString>Κατασκευή Ανδροειδούς</ATPP_QE_CreateTX4Male.jobString>
+  <ATPP_QE_CreateTX4Female.label>συναρμολόγηση θηλυκού πλαισίου TX4 (δεξαμενή QEE)</ATPP_QE_CreateTX4Female.label>
+  <ATPP_QE_CreateTX4Female.description>Συναρμολόγηση ενός ανενεργού θηλυκού εξωσκελετού TX4 κωδικοποιημένου ως αλληλουχία γονιδιώματος για επώαση σε δεξαμενή οργάνων.</ATPP_QE_CreateTX4Female.description>
+  <ATPP_QE_CreateTX4Female.jobString>Κατασκευή Ανδροειδούς</ATPP_QE_CreateTX4Female.jobString>
+  <ATPP_QE_CreateSX4MaleSurrogate.label>συναρμολόγηση αρσενικού υποκατάστατου πλαισίου SX4 (δεξαμενή QEE)</ATPP_QE_CreateSX4MaleSurrogate.label>
+  <ATPP_QE_CreateSX4MaleSurrogate.description>Συναρμολόγηση ενός ανενεργού αρσενικού εξωσκελετού υποκατάστατου TX4 κωδικοποιημένου ως αλληλουχία γονιδιώματος για επώαση σε δεξαμενή οργάνων.</ATPP_QE_CreateSX4MaleSurrogate.description>
+  <ATPP_QE_CreateSX4MaleSurrogate.jobString>Κατασκευή Ανδροειδούς</ATPP_QE_CreateSX4MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX4FemaleSurrogate.label>συναρμολόγηση θηλυκού υποκατάστατου πλαισίου SX4 (δεξαμενή QEE)</ATPP_QE_CreateSX4FemaleSurrogate.label>
+  <ATPP_QE_CreateSX4FemaleSurrogate.description>Συναρμολόγηση ενός ανενεργού θηλυκού εξωσκελετού υποκατάστατου TX4 κωδικοποιημένου ως αλληλουχία γονιδιώματος για επώαση σε δεξαμενή οργάνων.</ATPP_QE_CreateSX4FemaleSurrogate.description>
+  <ATPP_QE_CreateSX4FemaleSurrogate.jobString>Κατασκευή Ανδροειδούς</ATPP_QE_CreateSX4FemaleSurrogate.jobString>
+</LanguageData>

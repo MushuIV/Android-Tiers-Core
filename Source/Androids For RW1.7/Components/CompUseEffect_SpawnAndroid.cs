@@ -39,7 +39,7 @@ namespace MOARANDROIDS
                 bool sendMessage = this.SpawnerProps.sendMessage;
                 if (sendMessage)
                 {
-                    Messages.Message("AndroidSpawnedt".Translate(pawn.Name.ToStringFull), MessageTypeDefOf.NeutralEvent);
+                    Messages.Message("ATPP_AndroidSpawned".Translate(pawn.Name.ToStringFull), MessageTypeDefOf.NeutralEvent);
                 }
             }
         }

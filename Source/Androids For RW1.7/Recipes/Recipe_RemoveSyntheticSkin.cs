@@ -57,16 +57,7 @@ namespace MOARANDROIDS
                 ThingDef targetDef = DefDatabase<ThingDef>.GetNamed(targetDefName, false);
                 if (targetDef != null)
                 {
-                    pawn.def = targetDef;
-
-                    if (targetKindDefName != null && pawn.kindDef != null && pawn.kindDef.defName.Contains("TX"))
-                    {
-                        PawnKindDef pk = DefDatabase<PawnKindDef>.GetNamed(targetKindDefName, false);
-                        if (pk != null)
-                        {
-                            pawn.kindDef = pk;
-                        }
-                    }
+                    base.syncPawnAfterSyntheticSkinChange(pawn, targetDef, targetKindDefName, false);
 
                     // Recover synthetic skin gland if pawn is on map
                     if (pawn.Map != null)
@@ -78,10 +69,6 @@ namespace MOARANDROIDS
                             GenPlace.TryPlaceThing(gland, pawn.Position, pawn.Map, ThingPlaceMode.Near);
                         }
                     }
-
-                    pawn.Drawer?.renderer?.SetAllGraphicsDirty();
-                    PortraitsCache.SetDirty(pawn);
-                    GlobalTextureAtlasManager.TryMarkPawnFrameSetDirty(pawn);
 
                     Messages.Message("ATPP_RemovedSyntheticSkinSuccess".Translate(pawn.LabelShortCap), pawn, MessageTypeDefOf.NeutralEvent);
                 }

@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- Alerts -->
 	<ATPP_AlertHot3Devices>Ordenador sobrecalentado</ATPP_AlertHot3Devices>
 	<ATPP_AlertHot3DevicesDesc>¡Uno o más de tus ordenadores han alcanzado el umbral máximo de temperatura! ¡Por favor, restablece rápidamente una temperatura adecuada!</ATPP_AlertHot3DevicesDesc>
 	<ATPP_AlertHot2Devices>Ordenador caliente</ATPP_AlertHot2Devices>
 	<ATPP_AlertHot2DevicesDesc>¡Uno o más de tus ordenadores están calientes, por favor baja rápidamente la temperatura ambiente!</ATPP_AlertHot2DevicesDesc>
 	<ATPP_AlertUnsecurisedClients>{0} clientes SkyMind no protegidos</ATPP_AlertUnsecurisedClients>
 	<ATPP_AlertUnsecurisedClientsDesc>Aviso: tienes potencialmente {0} clientes SkyMind que pueden ser hackeados a través de la red; construye servidores de seguridad para evitarlo.</ATPP_AlertUnsecurisedClientsDesc>
-	<!-- Incidents -->
 	<ATPP_IncidentSurrogateHackingVirus>Virus SX</ATPP_IncidentSurrogateHackingVirus>
 	<ATPP_IncidentSurrogateHackingCryptolocker>Cryptolocker SX</ATPP_IncidentSurrogateHackingCryptolocker>
 	<ATPP_IncidentSurrogateHackingExplosiveVirus>Virus explosivo SX</ATPP_IncidentSurrogateHackingExplosiveVirus>
@@ -27,16 +25,13 @@
 	<ATPP_LetterFactionRansomware>Ransomware</ATPP_LetterFactionRansomware>
 	<ATPP_LetterFactionRansomwareSkillStolenDesc>{0} ha corrompido áreas de memoria correspondientes a la habilidad '{1}' del cerebro de {2}, a través de la red SkyMind.</ATPP_LetterFactionRansomwareSkillStolenDesc>
 	<ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>{0} ha infectado el cerebro de {1} e instalado el rasgo negativo '{2}', a través de la red SkyMind.</ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>
-	<!-- Needs -->
 	<ATPP_EnergyNeed>Energía</ATPP_EnergyNeed>
 	<ATPP_EnergyNeedDesc>La energía es la cantidad de carga que tiene un androide en su batería interna. Si está a cero, el androide fallará cada vez más y finalmente se desactivará (morirá).</ATPP_EnergyNeedDesc>
-	<!-- NanoKits -->
 	<ATPP_NanoKitsNoCare>Sin reparación</ATPP_NanoKitsNoCare>
 	<ATPP_NanoKitsNoKitJustVisit>Visita del técnico sin nanokits</ATPP_NanoKitsNoKitJustVisit>
 	<ATPP_NanoKitsBasic>Nanokit básico</ATPP_NanoKitsBasic>
 	<ATPP_NanoKitsIntermediate>Nanokit intermedio</ATPP_NanoKitsIntermediate>
 	<ATPP_NanoKitsAdvanced>Nanokit avanzado</ATPP_NanoKitsAdvanced>
-	<!-- CompInspectPane -->
 	<ATPP_UploadPercentage>Subida de mente: {0}%</ATPP_UploadPercentage>
 	<ATPP_DownloadPercentage>Descarga de mente: {0}%</ATPP_DownloadPercentage>
 	<ATPP_PermutationPercentage>Permutación de mente: {0}%</ATPP_PermutationPercentage>
@@ -62,17 +57,14 @@
 	<ATPP_MindAbsorptionProgress>Absorción de conciencia en progreso {0}%</ATPP_MindAbsorptionProgress>
 	<ATPP_Rusted>Oxidado</ATPP_Rusted>
 	<ATPP_BatteryExplodeInProgress>Explosión de batería {0}%</ATPP_BatteryExplodeInProgress>
-	<!-- AutoDoor -->
 	<ATPP_AutoDoorOpen>Abrir</ATPP_AutoDoorOpen>
 	<ATPP_AutoDoorOpenDescription>Abrir remotamente mediante un núcleo SkyCloud.</ATPP_AutoDoorOpenDescription>
 	<ATPP_AutoDoorClose>Cerrar</ATPP_AutoDoorClose>
 	<ATPP_AutoDoorCloseDescription>Cerrar remotamente mediante un servidor SkyCloud.</ATPP_AutoDoorCloseDescription>
 	<ATPP_AutoDoorOpenMoteText>Abriendo vía SkyCloud</ATPP_AutoDoorOpenMoteText>
 	<ATPP_AutoDoorCloseMoteText>Cerrando vía SkyCloud</ATPP_AutoDoorCloseMoteText>
-	<!-- AutoFlickering -->
 	<ATPP_FlickEnable>Encender vía SkyCloud</ATPP_FlickEnable>
 	<ATPP_FlickDisable>Apagar vía SkyCloud</ATPP_FlickDisable>
-	<!-- Letters -->
 	<ATPP_LetterSurrogateDisabled>Sustituto {0} desactivado</ATPP_LetterSurrogateDisabled>
 	<ATPP_LetterSurrogateDisabledDesc>El sustituto {0} ya no está operativo tras un ataque violento a su integridad física.</ATPP_LetterSurrogateDisabledDesc>
 	<ATPP_LetterUploadOK>Subida completada</ATPP_LetterUploadOK>
@@ -133,10 +125,8 @@
 	<ATPP_LetterExternalSurrogateDisconnectDesc>{0}, el controlador del sustituto que intentaste esclavizar, se ha desconectado porque él y su facción consideran que ya no podrán obtener información de tu colonia y continuar como esclavo sería una pérdida de tiempo.</ATPP_LetterExternalSurrogateDisconnectDesc>
 	<ATPP_LetterKidnappedM8Disconnected>Desconexión de M8</ATPP_LetterKidnappedM8Disconnected>
 	<ATPP_LetterKidnappedM8DisconnectedDesc>Los secuestradores de tu M8 ({0} albergando a {1}) consiguieron acceder a sus circuitos de comunicación. Al darse cuenta de que la máquina seguía comunicándose a través de su antena SkyMind integrada, la desconectaron. Ya no podrás conectarte a {1}.</ATPP_LetterKidnappedM8DisconnectedDesc>
-	<!-- Designators -->
 	<ATPP_DesignatorNeedSelectSX>Error: ¡Debes seleccionar un dispositivo válido conectado a la red SkyMind!</ATPP_DesignatorNeedSelectSX>
 	<ATPP_DesignatorNeedSelectSXToHack>Error: ¡Debes seleccionar un androide sustituto controlado por una facción distinta a la tuya!</ATPP_DesignatorNeedSelectSXToHack>
-	<!-- Comps -->
 	<ATPP_SkyMindConn>Conectar a SkyMind</ATPP_SkyMindConn>
 	<ATPP_SkyMindConnDesc>Conectar este colono a la red SkyMind para permitir la subida/permutación/duplicación mental o controlar remotamente androides de la serie SX o sustitutos biológicos.</ATPP_SkyMindConnDesc>
 	<ATPP_SkyMindAutoConn>Conexión automática</ATPP_SkyMindAutoConn>
@@ -222,13 +212,11 @@
 	<ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>Ten cuidado: al confirmar, la batería del androide seleccionado se sobrecargará y explotará tras un breve periodo. ¿Realmente deseas continuar?</ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>
 	<ATPP_OverloadAndroid>Sobrecargar</ATPP_OverloadAndroid>
 	<ATPP_OverloadAndroidDesc>Hacer que la batería del androide explote</ATPP_OverloadAndroidDesc>
-	<!-- Power++ compat -->
 	<ATPP_LWPNConnected>Conectado a {0}</ATPP_LWPNConnected>
 	<ATPP_LWPNDisconnected>Desconectado de {0}</ATPP_LWPNDisconnected>
 	<ATPP_NoAvailableLWPN>No hay LWPN disponible</ATPP_NoAvailableLWPN>
 	<ATPP_LWPNNbConnectedAndroid>Androides conectados: {0}</ATPP_LWPNNbConnectedAndroid>
 	<ATPP_MessageLWPNNoSlotAvailable>¡No hay ranuras LWPN libres disponibles!</ATPP_MessageLWPNNoSlotAvailable>
-	<!-- Buildings -->
 	<ATPP_SkyMindAntennaSynthesis>Usuarios conectados: {0} / {1}</ATPP_SkyMindAntennaSynthesis>
 	<ATPP_ForceReload>Forzar carga de batería</ATPP_ForceReload>
 	<ATPP_CannotUseEveryPlaceUsed>No se puede usar, la estación de carga está llena.</ATPP_CannotUseEveryPlaceUsed>
@@ -241,7 +229,6 @@
 	<ATPP_SkillServersSynthesis>Puntos de habilidad disponibles: {0} / {1}</ATPP_SkillServersSynthesis>
 	<ATTP_SkillSlotsAdded>Ranuras de habilidad añadidas: {0}</ATTP_SkillSlotsAdded>
 	<ATTP_SkillProducedPoints>Puntos de habilidad produciendo: {0}</ATTP_SkillProducedPoints>
-	<!-- Colors -->
 	<ATPP_HairColor>Color de pelo</ATPP_HairColor>
 	<ATPP_HairColorBlond>Rubio</ATPP_HairColorBlond>
 	<ATPP_HairColorBlack>Negro</ATPP_HairColorBlack>
@@ -256,7 +243,6 @@
 	<ATPP_SkinColorMidbrown>Marrón medio</ATPP_SkinColorMidbrown>
 	<ATPP_SkinColorDarkbrown>Marrón oscuro</ATPP_SkinColorDarkbrown>
 	<ATPP_SkinColorVerydark>Marrón muy oscuro</ATPP_SkinColorVerydark>
-	<!-- Messages -->
 	<ATPP_CannotConnectToSkyMindNoNet>¡No se puede conectar a SkyMind, no hay red disponible!</ATPP_CannotConnectToSkyMindNoNet>
 	<ATPP_CannotConnectToSkyMind>¡No se puede conectar a SkyMind, no hay suficientes ranuras disponibles!</ATPP_CannotConnectToSkyMind>
 	<ATPP_SurrogateUnexpectedDisconnection>Desconexión inesperada: ¡{0} ya no está conectado a la red SkyMind!</ATPP_SurrogateUnexpectedDisconnection>
@@ -298,7 +284,6 @@
 	<ATPP_MindAbsorptionStarted>Absorción de mente de {0} iniciada</ATPP_MindAbsorptionStarted>
 	<ATPP_NotEnoughtSkillPoints>¡No hay suficientes puntos de habilidad disponibles! (se requieren {0} puntos)</ATPP_NotEnoughtSkillPoints>
 	<ATPP_CannotAddVXNeuralChipInSurrogates>¡No se puede añadir este tipo de chip en un sustituto! ¡El chip se ha dañado y ya no se puede utilizar!</ATPP_CannotAddVXNeuralChipInSurrogates>
-	<!-- Settings -->
 	<ATPP_SettingsSectionGeneral>General</ATPP_SettingsSectionGeneral>
 	<ATPP_SettingsSectionSkyCloud>SkyCloud</ATPP_SettingsSectionSkyCloud>
 	<ATPP_SettingsSectionSecurity>Seguridad</ATPP_SettingsSectionSecurity>
@@ -410,4 +395,12 @@
 	<ATPP_SettingsAndroidOverloadExplosionTypeFire>Incendiaria</ATPP_SettingsAndroidOverloadExplosionTypeFire>
 	<ATPP_SettingsSetT1ResearchToIndustrialTechLevel>Cambiar la investigación de T1 a nivel tecnológico industrial en lugar de espacial</ATPP_SettingsSetT1ResearchToIndustrialTechLevel>
 	<ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>Al duplicar la mente, las habilidades de rol único se transfieren a la mente de destino</ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>
+	<ATPP_AppliedSyntheticSkinSuccess>Capa dérmica sintética injertada con éxito en {0}. La unidad es ahora un chasis apto para infiltración.</ATPP_AppliedSyntheticSkinSuccess>
+	<ATPP_RemovedSyntheticSkinSuccess>Piel sintética retirada con éxito de {0}, exponiendo el endoesqueleto de combate pesado.</ATPP_RemovedSyntheticSkinSuccess>
+	<ATPP_AndroidSpawned>{0} ha sido generado.</ATPP_AndroidSpawned>
+	<ATPP_Transcendant>Trascendente</ATPP_Transcendant>
+	<ATPP_LWPSel>Seleccionar LWPN</ATPP_LWPSel>
+	<ATPP_WPNListRow>{0} ({1} W disponibles)</ATPP_WPNListRow>
+	<ATPP_ClearCurrentWPNConnection>Borrar conexión LWPN actual</ATPP_ClearCurrentWPNConnection>
+	<ATPP_LocalWirelessPowerSelectorListTitle>Seleccionar red eléctrica inalámbrica local</ATPP_LocalWirelessPowerSelectorListTitle>
 </LanguageData>

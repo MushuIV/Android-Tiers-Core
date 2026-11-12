@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_ReloadStation.label>Android-ladestation</ATPP_ReloadStation.label>
+  <ATPP_ReloadStation.description>En ladestation til androider; den kan rumme op til 8 androider samtidigt.</ATPP_ReloadStation.description>
+  <ATPP_SkyMindLAN.label>SkyMind V1-antenne</ATPP_SkyMindLAN.label>
+  <ATPP_SkyMindLAN.description>SkyMind V1-antennen accepterer op til 3 samtidige klienter; den udsender et trådløst netværk, som muliggør upload af en kolonists bevidsthed til en anden samt fjernstyring af enhver android i SX-serien eller ethvert biologisk surrogat.</ATPP_SkyMindLAN.description>
+  <ATPP_SkyMindWAN.label>SkyMind V2-antenne</ATPP_SkyMindWAN.label>
+  <ATPP_SkyMindWAN.description>SkyMind V2-antennen accepterer op til 15 samtidige klienter; den udsender et trådløst netværk, som muliggør upload af en kolonists bevidsthed til en anden samt fjernstyring af enhver android i SX-serien eller ethvert biologisk surrogat.</ATPP_SkyMindWAN.description>
+  <ATPP_SkyMindRelayTower.label>SkyMind-relætårn</ATPP_SkyMindRelayTower.label>
+  <ATPP_SkyMindRelayTower.description>SkyMind-relætårnet forstærker antennernes signal og forhindrer forringelse af surrogatstyring over lange afstande.</ATPP_SkyMindRelayTower.description>
+  <ATPP_I100Security.label>I-100 (Sikkerhed)</ATPP_I100Security.label>
+  <ATPP_I100Security.description>Firewall-server med ansvar for at sikre dit SkyMind-netværk mod cyberangreb og virus.</ATPP_I100Security.description>
+  <ATPP_I100Hacking.label>I-100 (Hacking)</ATPP_I100Hacking.label>
+  <ATPP_I100Hacking.description>Hackingserver, der gør det muligt at hacke klienter forbundet til et SkyMind-netværk.</ATPP_I100Hacking.description>
+  <ATPP_I100Skill.label>I-100 (Færdighed)</ATPP_I100Skill.label>
+  <ATPP_I100Skill.description>Færdighedsserver, der gør det muligt at øge færdighedspoint for forbundne androider på et SkyMind-netværk.</ATPP_I100Skill.description>
+  <ATPP_I300Security.label>I-300 (Sikkerhed)</ATPP_I300Security.label>
+  <ATPP_I300Security.description>Firewall-server med ansvar for at sikre dit SkyMind-netværk mod cyberangreb og virus.</ATPP_I300Security.description>
+  <ATPP_I300Hacking.label>I-300 (Hacking)</ATPP_I300Hacking.label>
+  <ATPP_I300Hacking.description>Hackingserver, der gør det muligt at hacke klienter forbundet til et SkyMind-netværk.</ATPP_I300Hacking.description>
+  <ATPP_I300Skill.label>I-300 (Færdighed)</ATPP_I300Skill.label>
+  <ATPP_I300Skill.description>Færdighedsserver, der gør det muligt at øge færdighedspoint for forbundne androider på et SkyMind-netværk.</ATPP_I300Skill.description>
+  <ATPP_I500Security.label>I-500 (Sikkerhed)</ATPP_I500Security.label>
+  <ATPP_I500Security.description>Firewall-server med ansvar for at sikre dit SkyMind-netværk mod cyberangreb og virus.</ATPP_I500Security.description>
+  <ATPP_I500Hacking.label>I-500 (Hacking)</ATPP_I500Hacking.label>
+  <ATPP_I500Hacking.description>Hackingserver, der gør det muligt at hacke klienter forbundet til et SkyMind-netværk.</ATPP_I500Hacking.description>
+  <ATPP_I500Skill.label>I-500 (Færdighed)</ATPP_I500Skill.label>
+  <ATPP_I500Skill.description>Færdighedsserver, der gør det muligt at øge færdighedspoint for forbundne androider på et SkyMind-netværk.</ATPP_I500Skill.description>
+  <ATPP_AndroidPod.label>Android-kapsel</ATPP_AndroidPod.label>
+  <ATPP_AndroidPod.description>En android-kapsel, hvor androider kan repareres, opbevares mens de venter på en vært (i tilfælde af surrogater) og oplades, hvis den er tilsluttet strøm.</ATPP_AndroidPod.description>
+  <ATPP_AndroidPodMech.label>M7-kapsel</ATPP_AndroidPodMech.label>
+  <ATPP_AndroidPodMech.description>En gigantisk kapsel, hvor M7-mekanoider kan repareres, opbevares mens de venter på en vært (i tilfælde af surrogater) og oplades, hvis den er tilsluttet strøm.</ATPP_AndroidPodMech.description>
+  <ATPP_SkyCloudCore.label>SkyCloud-kerne</ATPP_SkyCloudCore.label>
+  <ATPP_SkyCloudCore.description>En supercomputer, der gør det muligt at styre alle enheder forbundet til SkyMind-netværket samt uploade dine kolonisters digitaliserede hjerner til dens hukommelse for at gøre dem næsten udødelige og alvidende.</ATPP_SkyCloudCore.description>
+
+</LanguageData>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_NanitesHydraulicSerum.label>Nanitová banka (hydraulická)</ATPP_NanitesHydraulicSerum.label>
+  <ATPP_NanitesHydraulicSerum.description>Jednorázová banka nanitů vyladěná k opravě poškozených hydraulických systémů androidů (souvisejících se stářím).</ATPP_NanitesHydraulicSerum.description>
+  <ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>Použít toto nanitové sérum k opravě potíží androida způsobených stářím</ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesCPUSerum.label>Nanitová banka (CPU)</ATPP_NanitesCPUSerum.label>
+  <ATPP_NanitesCPUSerum.description>Jednorázová banka nanitů vyladěná k opravě poškozených systémů umělého mozku androidů (souvisejících se stářím).</ATPP_NanitesCPUSerum.description>
+  <ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>Použít toto nanitové sérum k opravě potíží androida způsobených stářím</ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesCoolingSerum.label>Nanitová banka (chladicí)</ATPP_NanitesCoolingSerum.label>
+  <ATPP_NanitesCoolingSerum.description>Jednorázová banka nanitů vyladená k opravě poškozených chladicích systémů androidů při přehřívání (souvisejícím se stářím).</ATPP_NanitesCoolingSerum.description>
+  <ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>Použít toto nanitové sérum k opravě potíží androida způsobených stářím</ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesFrameSerum.label>Nanitová banka (strukturální)</ATPP_NanitesFrameSerum.label>
+  <ATPP_NanitesFrameSerum.description>Jednorázová banka nanitů vyladěná k opravě poškozených endoskeletů androidů (souvisejících se stářím).</ATPP_NanitesFrameSerum.description>
+  <ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>Použít toto nanitové sérum k opravě potíží androida způsobených stářím</ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>
+  <ATPP_AndroidNanokitBasic.label>Základní nanokit</ATPP_AndroidNanokitBasic.label>
+  <ATPP_AndroidNanokitBasic.description>Sada obsahující nanoboty k ošetření poškození androidů.</ATPP_AndroidNanokitBasic.description>
+  <ATPP_AndroidNanokitIntermediate.label>Střední nanokit</ATPP_AndroidNanokitIntermediate.label>
+  <ATPP_AndroidNanokitIntermediate.description>Sada obsahující nanoboty k ošetření poškození androidů.</ATPP_AndroidNanokitIntermediate.description>
+  <ATPP_AndroidNanokitAdvanced.label>Pokročilý nanokit</ATPP_AndroidNanokitAdvanced.label>
+  <ATPP_AndroidNanokitAdvanced.description>Sada obsahující nanoboty k ošetření poškození androidů.</ATPP_AndroidNanokitAdvanced.description>
+  <ATPP_RXChip.label>Neuronový čip RX</ATPP_RXChip.label>
+  <ATPP_RXChip.description>Neuronový čip fungující jako osobní vysílač sítě SkyMind.</ATPP_RXChip.description>
+  <ATPP_VX0Chip.label>Neuronový čip VX0</ATPP_VX0Chip.label>
+  <ATPP_VX0Chip.description>Neuronový čip, který přemění svého hostitele v biologického surogáta.</ATPP_VX0Chip.description>
+  <ATPP_VX1Chip.label>Neuronový čip VX1</ATPP_VX1Chip.label>
+  <ATPP_VX1Chip.description>Neuronový čip umožňující svému hostiteli dálkově ovládat jakéhokoli androida řady SX nebo biologického surogáta.</ATPP_VX1Chip.description>
+  <ATPP_VX2Chip.label>Neuronový čip VX2</ATPP_VX2Chip.label>
+  <ATPP_VX2Chip.description>Neuronový čip umožňující svému hostiteli dálkově ovládat jakéhokoli androida řady SX nebo biologického surogáta a permutovat/duplikovat své vědomí.</ATPP_VX2Chip.description>
+  <ATPP_VX3Chip.label>Neuronový čip VX3</ATPP_VX3Chip.label>
+  <ATPP_VX3Chip.description>Neuronový čip umožňující svému hostiteli současně dálkově ovládat více androidů řady SX nebo biologických surogátů a permutovat/duplikovat své vědomí.</ATPP_VX3Chip.description>
+  <ATPP_T1ArtificialBrain.label>Umělý mozek T1</ATPP_T1ArtificialBrain.label>
+  <ATPP_T1ArtificialBrain.description>Umělý mozek T1 umožňující přeměnit surogáta T1 na androida s prázdnou neuronovou sítí.</ATPP_T1ArtificialBrain.description>
+  <ATPP_T2ArtificialBrain.label>Umělý mozek T2</ATPP_T2ArtificialBrain.label>
+  <ATPP_T2ArtificialBrain.description>Umělý mozek T2 umožňující přeměnit surogáta T2 na androida s prázdnou neuronovou sítí.</ATPP_T2ArtificialBrain.description>
+  <ATPP_T3ArtificialBrain.label>Umělý mozek T3</ATPP_T3ArtificialBrain.label>
+  <ATPP_T3ArtificialBrain.description>Umělý mozek T3 umožňující přeměnit surogáta T3 na androida s prázdnou neuronovou sítí.</ATPP_T3ArtificialBrain.description>
+  <ATPP_T4ArtificialBrain.label>Umělý mozek T4</ATPP_T4ArtificialBrain.label>
+  <ATPP_T4ArtificialBrain.description>Umělý mozek T4 umožňující přeměnit surogáta T4 na androida s prázdnou neuronovou sítí.</ATPP_T4ArtificialBrain.description>
+  <ATPP_SyntheticSkinGland.label>žláza syntetické kůže</ATPP_SyntheticSkinGland.label>
+  <ATPP_SyntheticSkinGland.description>Pokročilý bio-syntetický orgán tvořený spící epidermální matricí a výživovými mikrokanálky. Po naštepění na bojové šasi řady TX nebo začlenění během sestavování v nádrži se rozroste a spojí s podkožním pláštěm, čímž zajistí lidem podobnou tepelnou izolaci, hmatovou odezvu a realistické kožní maskování.</ATPP_SyntheticSkinGland.description>
+  <ATPP_GS_TX2KMale.label>Mužský rám TX2K</ATPP_GS_TX2KMale.label>
+  <ATPP_GS_TX2KMale.description>Neaktivní funkční endoskelet TX2K čekající na aktivaci v nádrži, jakmile mu doroste kůže.</ATPP_GS_TX2KMale.description>
+  <ATPP_GS_TX2KFemale.label>Ženský rám TX2K</ATPP_GS_TX2KFemale.label>
+  <ATPP_GS_TX2KFemale.description>Neaktivní funkční endoskelet TX2K čekající na aktivaci v nádrži, jakmile mu doroste kůže.</ATPP_GS_TX2KFemale.description>
+  <ATPP_GS_TX3Male.label>Mužský rám TX3</ATPP_GS_TX3Male.label>
+  <ATPP_GS_TX3Male.description>Neaktivní funkční endoskelet TX3 čekající na aktivaci v nádrži, jakmile mu doroste kůže.</ATPP_GS_TX3Male.description>
+  <ATPP_GS_TX3Female.label>Ženský rám TX3</ATPP_GS_TX3Female.label>
+  <ATPP_GS_TX3Female.description>Neaktivní funkční endoskelet TX3 čekající na aktivaci v nádrži, jakmile mu doroste kůže.</ATPP_GS_TX3Female.description>
+  <ATPP_GS_TX4Male.label>Mužský rám TX4</ATPP_GS_TX4Male.label>
+  <ATPP_GS_TX4Male.description>Neaktivní funkční endoskelet TX4 čekající na aktivaci v nádrži, jakmile mu doroste kůže.</ATPP_GS_TX4Male.description>
+  <ATPP_GS_TX4Female.label>Ženský rám TX4</ATPP_GS_TX4Female.label>
+  <ATPP_GS_TX4Female.description>Neaktivní funkční endoskelet TX4 čekající na aktivaci v nádrži, jakmile mu doroste kůže.</ATPP_GS_TX4Female.description>
+
+</LanguageData>

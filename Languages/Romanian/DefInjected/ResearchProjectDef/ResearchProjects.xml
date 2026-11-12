@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_ResearchSM7.label>Mecanoid de luptă SM7</ATPP_ResearchSM7.label>
+  <ATPP_ResearchSM7.description>Cercetează cum să construiești mecanoizi de luptă SM7.</ATPP_ResearchSM7.description>
+  <ATPP_ResearchServerI100Serie.label>Servere seria I100</ATPP_ResearchServerI100Serie.label>
+  <ATPP_ResearchServerI100Serie.description>Cercetează cum să construiești servere de securitate, piratare și abilități din seria I100, ieftine, dar zgomotoase, voluminoase și nu foarte eficiente.</ATPP_ResearchServerI100Serie.description>
+  <ATPP_ResearchServerI300Serie.label>Servere seria I300</ATPP_ResearchServerI300Serie.label>
+  <ATPP_ResearchServerI300Serie.description>Cercetează cum să construiești servere de securitate, piratare și abilități din seria I300, zgomotoase, dar cu eficiență intermediară.</ATPP_ResearchServerI300Serie.description>
+  <ATPP_ResearchServerI500Serie.label>Servere seria I500</ATPP_ResearchServerI500Serie.label>
+  <ATPP_ResearchServerI500Serie.description>Cercetează cum să construiești servere de securitate, piratare și abilități din seria I500, scumpe, dar foarte eficiente.</ATPP_ResearchServerI500Serie.description>
+  <ATPP_ResearchSkyCloudCore.label>Nucleu SkyCloud</ATPP_ResearchSkyCloudCore.label>
+  <ATPP_ResearchSkyCloudCore.description>Cercetează cum să construiești servere Nucleu SkyCloud, supercomputere puternice care pot găzdui mai multe conștiințe digitalizate și le permit să interacționeze cu lumea reală prin fiecare dispozitiv conectat la rețeaua SkyMind.</ATPP_ResearchSkyCloudCore.description>
+  <ATPP_ResearchBatteryOverload.label>Supraîncărcare baterie</ATPP_ResearchBatteryOverload.label>
+  <ATPP_ResearchBatteryOverload.description>Cercetează cum să transformi androizii în bombe ambulante, făcând bateria lor internă să explodeze.</ATPP_ResearchBatteryOverload.description>
+  <ATPP_ResearchVX0Chip.label>Cip neural VX0</ATPP_ResearchVX0Chip.label>
+  <ATPP_ResearchVX0Chip.description>Cercetează cum să fabrici cipuri VX0, un cip neural care transformă gazda într-un surogat biologic.</ATPP_ResearchVX0Chip.description>
+  <ATPP_ResearchCharchingStation.label>Stație de încărcare</ATPP_ResearchCharchingStation.label>
+  <ATPP_ResearchCharchingStation.description>Îți permite să încarci până la 8 androizi simultan direct prin bateria lor internă, în loc de generatorul pe biomasă.</ATPP_ResearchCharchingStation.description>
+  <ATPP_ResearchCraftBasicNanoKit.label>Nanokit de bază</ATPP_ResearchCraftBasicNanoKit.label>
+  <ATPP_ResearchCraftBasicNanoKit.description>Îți permite să fabrici nanokituri de bază, necesare pentru repararea androizilor răniți</ATPP_ResearchCraftBasicNanoKit.description>
+  <ATPP_ResearchCraftIntermediateNanoKit.label>Nanokit intermediar</ATPP_ResearchCraftIntermediateNanoKit.label>
+  <ATPP_ResearchCraftIntermediateNanoKit.description>Îți permite să fabrici nanokituri intermediare, necesare pentru repararea androizilor răniți</ATPP_ResearchCraftIntermediateNanoKit.description>
+  <ATPP_ResearchCraftAdvancedNanoKit.label>Nanokit avansat</ATPP_ResearchCraftAdvancedNanoKit.label>
+  <ATPP_ResearchCraftAdvancedNanoKit.description>Îți permite să fabrici nanokituri avansate, necesare pentru repararea androizilor răniți</ATPP_ResearchCraftAdvancedNanoKit.description>
+  <ATPP_ResearchVX1Chip.label>Cip neural VX1</ATPP_ResearchVX1Chip.label>
+  <ATPP_ResearchVX1Chip.description>Cercetează cum să fabrici cipul VX1, un cip neural care permite gazdei să controleze de la distanță orice android din seria SX sau surogat biologic.</ATPP_ResearchVX1Chip.description>
+  <ATPP_ResearchVX2Chip.label>Cip neural VX2</ATPP_ResearchVX2Chip.label>
+  <ATPP_ResearchVX2Chip.description>Cercetează cum să fabrici cipul VX2, un cip neural care permite gazdei să controleze de la distanță orice android din seria SX sau surogat biologic și să își duplice/permute mintea.</ATPP_ResearchVX2Chip.description>
+  <ATPP_ResearchVX3Chip.label>Cip neural VX3</ATPP_ResearchVX3Chip.label>
+  <ATPP_ResearchVX3Chip.description>Cercetează cum să fabrici cipul VX3, un cip neural care permite gazdei să controleze de la distanță mai mulți androizi din seria SX sau surogați biologici simultan și să își duplice/permute mintea.</ATPP_ResearchVX3Chip.description>
+  <ATPP_ResearchSkyMindWAN.label>Antenă SkyMind V2</ATPP_ResearchSkyMindWAN.label>
+  <ATPP_ResearchSkyMindWAN.description>Cercetează cum să construiești antena SkyMind V2, care servește drept bază pentru transferul conștiinței de la un colonist la altul și permite conectarea simultană a până la 15 coloniști per antenă V2.</ATPP_ResearchSkyMindWAN.description>
+  <ATPP_ResearchSkyMindLAN.label>Antenă SkyMind V1</ATPP_ResearchSkyMindLAN.label>
+  <ATPP_ResearchSkyMindLAN.description>Cercetează cum să construiești antena SkyMind V1, care servește drept bază pentru transferul conștiinței de la un colonist la altul și permite conectarea simultană a până la 3 coloniști per antenă V1.</ATPP_ResearchSkyMindLAN.description>
+  <ATPP_ResearchSurrogateHost.label>Androizi SX</ATPP_ResearchSurrogateHost.label>
+  <ATPP_ResearchSurrogateHost.description>Cercetează cum să construiești androizi din seria SX, similari cu seria TX, dar cu creierele artificiale înlocuite de un sistem avansat de control de la distanță.</ATPP_ResearchSurrogateHost.description>
+  <ATPP_ResearchCraftRepairNaniteBanks.label>Vindecarea defecțiunilor de bătrânețe</ATPP_ResearchCraftRepairNaniteBanks.label>
+  <ATPP_ResearchCraftRepairNaniteBanks.description>Îți permite să fabrici nanite care vindecă defecțiunile cauzate de bătrânețe la androizi.</ATPP_ResearchCraftRepairNaniteBanks.description>
+
+</LanguageData>

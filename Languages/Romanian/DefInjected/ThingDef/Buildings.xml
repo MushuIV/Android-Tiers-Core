@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_ReloadStation.label>Stație de încărcare pentru androizi</ATPP_ReloadStation.label>
+  <ATPP_ReloadStation.description>O stație de încărcare pentru androizi, poate găzdui simultan până la 8 androizi.</ATPP_ReloadStation.description>
+  <ATPP_SkyMindLAN.label>Antenă SkyMind V1</ATPP_SkyMindLAN.label>
+  <ATPP_SkyMindLAN.description>Antena SkyMind V1 acceptă până la 3 clienți simultan; emite o rețea fără fir care permite încărcarea minții unui colonist în altul și controlul de la distanță al oricărui android din seria SX sau surogat biologic.</ATPP_SkyMindLAN.description>
+  <ATPP_SkyMindWAN.label>Antenă SkyMind V2</ATPP_SkyMindWAN.label>
+  <ATPP_SkyMindWAN.description>Antena SkyMind V2 acceptă până la 15 clienți simultan; emite o rețea fără fir care permite încărcarea minții unui colonist în altul și controlul de la distanță al oricărui android din seria SX sau surogat biologic.</ATPP_SkyMindWAN.description>
+  <ATPP_SkyMindRelayTower.label>Turn releu SkyMind</ATPP_SkyMindRelayTower.label>
+  <ATPP_SkyMindRelayTower.description>Turnul releu SkyMind amplifică semnalul antenelor și previne degradarea controlului surogaților pe distanțe lungi.</ATPP_SkyMindRelayTower.description>
+  <ATPP_I100Security.label>I-100 (Securitate)</ATPP_I100Security.label>
+  <ATPP_I100Security.description>Server firewall responsabil pentru securizarea rețelei tale SkyMind împotriva atacurilor cibernetice și a virușilor.</ATPP_I100Security.description>
+  <ATPP_I100Hacking.label>I-100 (Piratare)</ATPP_I100Hacking.label>
+  <ATPP_I100Hacking.description>Server de piratare care îți permite să piratezi clienții conectați la o rețea SkyMind.</ATPP_I100Hacking.description>
+  <ATPP_I100Skill.label>I-100 (Abilități)</ATPP_I100Skill.label>
+  <ATPP_I100Skill.description>Server de abilități care îți permite să crești punctele de abilitate ale androizilor conectați la o rețea SkyMind.</ATPP_I100Skill.description>
+  <ATPP_I300Security.label>I-300 (Securitate)</ATPP_I300Security.label>
+  <ATPP_I300Security.description>Server firewall responsabil pentru securizarea rețelei tale SkyMind împotriva atacurilor cibernetice și a virușilor.</ATPP_I300Security.description>
+  <ATPP_I300Hacking.label>I-300 (Piratare)</ATPP_I300Hacking.label>
+  <ATPP_I300Hacking.description>Server de piratare care îți permite să piratezi clienții conectați la o rețea SkyMind.</ATPP_I300Hacking.description>
+  <ATPP_I300Skill.label>I-300 (Abilități)</ATPP_I300Skill.label>
+  <ATPP_I300Skill.description>Server de abilități care îți permite să crești punctele de abilitate ale androizilor conectați la o rețea SkyMind.</ATPP_I300Skill.description>
+  <ATPP_I500Security.label>I-500 (Securitate)</ATPP_I500Security.label>
+  <ATPP_I500Security.description>Server firewall responsabil pentru securizarea rețelei tale SkyMind împotriva atacurilor cibernetice și a virușilor.</ATPP_I500Security.description>
+  <ATPP_I500Hacking.label>I-500 (Piratare)</ATPP_I500Hacking.label>
+  <ATPP_I500Hacking.description>Server de piratare care îți permite să piratezi clienții conectați la o rețea SkyMind.</ATPP_I500Hacking.description>
+  <ATPP_I500Skill.label>I-500 (Abilități)</ATPP_I500Skill.label>
+  <ATPP_I500Skill.description>Server de abilități care îți permite să crești punctele de abilitate ale androizilor conectați la o rețea SkyMind.</ATPP_I500Skill.description>
+  <ATPP_AndroidPod.label>Capsulă pentru androizi</ATPP_AndroidPod.label>
+  <ATPP_AndroidPod.description>O capsulă în care androizii pot fi reparați, depozitați în așteptarea unei gazde (în cazul surogaților) și încărcați dacă este conectată la curent.</ATPP_AndroidPod.description>
+  <ATPP_AndroidPodMech.label>Capsulă M7</ATPP_AndroidPodMech.label>
+  <ATPP_AndroidPodMech.description>O capsulă uriașă în care mecanoizii M7 pot fi reparați, depozitați în așteptarea unei gazde (în cazul surogaților) și încărcați dacă este conectată la curent.</ATPP_AndroidPodMech.description>
+  <ATPP_SkyCloudCore.label>Nucleu SkyCloud</ATPP_SkyCloudCore.label>
+  <ATPP_SkyCloudCore.description>Un supercomputer care permite controlul tuturor dispozitivelor conectate la rețeaua SkyMind, precum și încărcarea creierelor digitalizate ale coloniștilor în memoria sa pentru a-i face aproape nemuritori și omniștienți</ATPP_SkyCloudCore.description>
+
+</LanguageData>

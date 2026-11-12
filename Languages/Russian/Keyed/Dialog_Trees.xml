@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AndroidFactionGreetingHostileI>Звучит автоматическое сообщение с требованием проявить добрую волю — например, принести дары в одно из поселений {0_possessive} или освободить пленных фракции {0_possessive} невредимыми. До тех пор {0} отказывается вести переговоры.</AndroidFactionGreetingHostileI>
+	<AndroidFactionGreetingHostileII>{0} сравнивает ваше поселение с дикими племенами, заявляя, что если вы хотите искупить вину, то можете принести дары в одно из поселений {0_possessive} или освободить пленных фракции {0_possessive} невредимыми.</AndroidFactionGreetingHostileII>
+	<AndroidFactionGreetingHostileIII>{0} называет вас холодными чудовищами и быстро прерывает связь.</AndroidFactionGreetingHostileIII>
+	<AndroidFactionGreetingWaryI>Низкий механический голос {0} приветствует {NEGOTIATOR_labelShort} и спрашивает, какое дело вы хотите обсудить.</AndroidFactionGreetingWaryI>
+	<AndroidFactionGreetingWaryII>Воспроизводится автоматическое сообщение, спрашивающее {NEGOTIATOR_labelShort}, по какому делу вы обратились.</AndroidFactionGreetingWaryII>
+	<AndroidFactionGreetingWaryIII>{0} настороженно открывает канал связи для {NEGOTIATOR_labelShort} и спрашивает, о чём вы хотите поговорить.</AndroidFactionGreetingWaryIII>
+	<AndroidFactionGreetingWarmI>{0} тепло приветствует {NEGOTIATOR_labelShort} и спрашивает, чем может помочь.</AndroidFactionGreetingWarmI>
+	<AndroidFactionGreetingWarmII>{0} приветствует {NEGOTIATOR_labelShort} сердечным механическим голосом и спрашивает, как проходит ваш день.</AndroidFactionGreetingWarmII>
+	<AndroidFactionGreetingWarmIII>{0} радушно приветствует {NEGOTIATOR_labelShort} и спрашивает, что может для вас сделать.</AndroidFactionGreetingWarmIII>
+</LanguageData>

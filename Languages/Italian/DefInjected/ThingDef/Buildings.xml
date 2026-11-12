@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_ReloadStation.label>Stazione di ricarica per androidi</ATPP_ReloadStation.label>
+	<ATPP_ReloadStation.description>Una stazione di ricarica per androidi, in grado di ospitare contemporaneamente fino a 8 androidi.</ATPP_ReloadStation.description>
+	<ATPP_SkyMindLAN.label>Antenna SkyMind V1</ATPP_SkyMindLAN.label>
+	<ATPP_SkyMindLAN.description>L'Antenna SkyMind V1 accetta fino a 3 client contemporanei ed emette una rete wireless che consente il caricamento della mente di un colono in un altro e il controllo a distanza di qualsiasi androide della serie SX o surrogato biologico.</ATPP_SkyMindLAN.description>
+	<ATPP_SkyMindWAN.label>Antenna SkyMind V2</ATPP_SkyMindWAN.label>
+	<ATPP_SkyMindWAN.description>L'Antenna SkyMind V2 accetta fino a 15 client contemporanei ed emette una rete wireless che consente il caricamento della mente di un colono in un altro e il controllo a distanza di qualsiasi androide della serie SX o surrogato biologico.</ATPP_SkyMindWAN.description>
+	<ATPP_SkyMindRelayTower.label>Torre ripetitore SkyMind</ATPP_SkyMindRelayTower.label>
+	<ATPP_SkyMindRelayTower.description>La Torre ripetitore SkyMind amplifica il segnale delle antenne e impedisce il degrado del controllo dei surrogati sulle lunghe distanze.</ATPP_SkyMindRelayTower.description>
+	<ATPP_I100Security.label>I-100 (Sicurezza)</ATPP_I100Security.label>
+	<ATPP_I100Security.description>Server firewall responsabile della protezione della tua rete SkyMind da attacchi informatici e virus.</ATPP_I100Security.description>
+	<ATPP_I100Hacking.label>I-100 (Violazione)</ATPP_I100Hacking.label>
+	<ATPP_I100Hacking.description>Server di violazione che ti permette di violare i client connessi a una rete SkyMind.</ATPP_I100Hacking.description>
+	<ATPP_I100Skill.label>I-100 (Abilità)</ATPP_I100Skill.label>
+	<ATPP_I100Skill.description>Server di abilità che ti permette di aumentare i punti abilità degli androidi connessi a una rete SkyMind.</ATPP_I100Skill.description>
+	<ATPP_I300Security.label>I-300 (Sicurezza)</ATPP_I300Security.label>
+	<ATPP_I300Security.description>Server firewall responsabile della protezione della tua rete SkyMind da attacchi informatici e virus.</ATPP_I300Security.description>
+	<ATPP_I300Hacking.label>I-300 (Violazione)</ATPP_I300Hacking.label>
+	<ATPP_I300Hacking.description>Server di violazione che ti permette di violare i client connessi a una rete SkyMind.</ATPP_I300Hacking.description>
+	<ATPP_I300Skill.label>I-300 (Abilità)</ATPP_I300Skill.label>
+	<ATPP_I300Skill.description>Server di abilità che ti permette di aumentare i punti abilità degli androidi connessi a una rete SkyMind.</ATPP_I300Skill.description>
+	<ATPP_I500Security.label>I-500 (Sicurezza)</ATPP_I500Security.label>
+	<ATPP_I500Security.description>Server firewall responsabile della protezione della tua rete SkyMind da attacchi informatici e virus.</ATPP_I500Security.description>
+	<ATPP_I500Hacking.label>I-500 (Violazione)</ATPP_I500Hacking.label>
+	<ATPP_I500Hacking.description>Server di violazione che ti permette di violare i client connessi a una rete SkyMind.</ATPP_I500Hacking.description>
+	<ATPP_I500Skill.label>I-500 (Abilità)</ATPP_I500Skill.label>
+	<ATPP_I500Skill.description>Server di abilità che ti permette di aumentare i punti abilità degli androidi connessi a una rete SkyMind.</ATPP_I500Skill.description>
+	<ATPP_AndroidPod.label>Capsula per androidi</ATPP_AndroidPod.label>
+	<ATPP_AndroidPod.description>Una capsula in cui gli androidi possono essere riparati, conservati in attesa di un ospite (nel caso dei surrogati) e ricaricati se collegata alla rete elettrica.</ATPP_AndroidPod.description>
+	<ATPP_AndroidPodMech.label>Capsula M7</ATPP_AndroidPodMech.label>
+	<ATPP_AndroidPodMech.description>Una capsula gigante in cui i mecanoidi M7 possono essere riparati, conservati in attesa di un ospite (nel caso dei surrogati) e ricaricati se collegata alla rete elettrica.</ATPP_AndroidPodMech.description>
+	<ATPP_SkyCloudCore.label>Nucleo SkyCloud</ATPP_SkyCloudCore.label>
+	<ATPP_SkyCloudCore.description>Un supercomputer che permette di controllare tutti i dispositivi connessi alla rete SkyMind nonché di caricare nella propria memoria i cervelli digitalizzati dei tuoi coloni per renderli quasi immortali e onniscienti</ATPP_SkyCloudCore.description>
+</LanguageData>

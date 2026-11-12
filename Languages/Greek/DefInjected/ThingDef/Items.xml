@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATPP_NanitesHydraulicSerum.label>Τράπεζα Νανοϊτών (Υδραυλική)</ATPP_NanitesHydraulicSerum.label>
+  <ATPP_NanitesHydraulicSerum.description>Μια τράπεζα νανοϊτών μίας χρήσης ρυθμισμένη να επισκευάζει χαλασμένα υδραυλικά συστήματα ανδροειδών (λόγω γήρανσης).</ATPP_NanitesHydraulicSerum.description>
+  <ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>Χρήση αυτού του ορού νανοϊτών για επιδιόρθωση προβλημάτων γήρανσης ανδροειδούς</ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesCPUSerum.label>Τράπεζα Νανοϊτών (CPU)</ATPP_NanitesCPUSerum.label>
+  <ATPP_NanitesCPUSerum.description>Μια τράπεζα νανοϊτών μίας χρήσης ρυθμισμένη να επισκευάζει χαλασμένα συστήματα τεχνητού εγκεφάλου ανδροειδών (λόγω γήρανσης).</ATPP_NanitesCPUSerum.description>
+  <ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>Χρήση αυτού του ορού νανοϊτών για επιδιόρθωση προβλημάτων γήρανσης ανδροειδούς</ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesCoolingSerum.label>Τράπεζα Νανοϊτών (Ψύξη)</ATPP_NanitesCoolingSerum.label>
+  <ATPP_NanitesCoolingSerum.description>Μια τράπεζα νανοϊτών μίας χρήσης ρυθμισμένη να επισκευάζει χαλασμένα συστήματα ψύξης ανδροειδών σε περίπτωση υπερθέρμανσης (λόγω γήρανσης).</ATPP_NanitesCoolingSerum.description>
+  <ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>Χρήση αυτού του ορού νανοϊτών για επιδιόρθωση προβλημάτων γήρανσης ανδροειδούς</ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesFrameSerum.label>Τράπεζα Νανοϊτών (Πλαίσιο)</ATPP_NanitesFrameSerum.label>
+  <ATPP_NanitesFrameSerum.description>Μια τράπεζα νανοϊτών μίας χρήσης ρυθμισμένη να επισκευάζει χαλασμένους εξωσκελετούς ανδροειδών (λόγω γήρανσης).</ATPP_NanitesFrameSerum.description>
+  <ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>Χρήση αυτού του ορού νανοϊτών για επιδιόρθωση προβλημάτων γήρανσης ανδροειδούς</ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>
+  <ATPP_AndroidNanokitBasic.label>Βασικό Νανοκιτ</ATPP_AndroidNanokitBasic.label>
+  <ATPP_AndroidNanokitBasic.description>Ένα κιτ που περιέχει νανορομπότ για την περιποίηση των τραυμάτων των ανδροειδών</ATPP_AndroidNanokitBasic.description>
+  <ATPP_AndroidNanokitIntermediate.label>Ενδιάμεσο Νανοκιτ</ATPP_AndroidNanokitIntermediate.label>
+  <ATPP_AndroidNanokitIntermediate.description>Ένα κιτ που περιέχει νανορομπότ για την περιποίηση των τραυμάτων των ανδροειδών</ATPP_AndroidNanokitIntermediate.description>
+  <ATPP_AndroidNanokitAdvanced.label>Προηγμένο Νανοκιτ</ATPP_AndroidNanokitAdvanced.label>
+  <ATPP_AndroidNanokitAdvanced.description>Ένα κιτ που περιέχει νανορομπότ για την περιποίηση των τραυμάτων των ανδροειδών</ATPP_AndroidNanokitAdvanced.description>
+  <ATPP_RXChip.label>Νευρωνικό Τσιπ RX</ATPP_RXChip.label>
+  <ATPP_RXChip.description>Ένα νευρωνικό τσιπ που λειτουργεί ως προσωπικός αναμεταδότης SkyMind.</ATPP_RXChip.description>
+  <ATPP_VX0Chip.label>Νευρωνικό Τσιπ VX0</ATPP_VX0Chip.label>
+  <ATPP_VX0Chip.description>Ένα νευρωνικό τσιπ που μετατρέπει τον ξενιστή του σε βιολογικό υποκατάστατο.</ATPP_VX0Chip.description>
+  <ATPP_VX1Chip.label>Νευρωνικό Τσιπ VX1</ATPP_VX1Chip.label>
+  <ATPP_VX1Chip.description>Ένα νευρωνικό τσιπ που επιτρέπει στον ξενιστή του να ελέγχει εξ αποστάσεως οποιοδήποτε ανδροειδές σειράς SX ή βιολογικό υποκατάστατο.</ATPP_VX1Chip.description>
+  <ATPP_VX2Chip.label>Νευρωνικό Τσιπ VX2</ATPP_VX2Chip.label>
+  <ATPP_VX2Chip.description>Ένα νευρωνικό τσιπ που επιτρέπει στον ξενιστή του να ελέγχει εξ αποστάσεως οποιοδήποτε ανδροειδές σειράς SX ή βιολογικό υποκατάστατο και να αντιμεταθέτει/αντιγράφει τον νου του.</ATPP_VX2Chip.description>
+  <ATPP_VX3Chip.label>Νευρωνικό Τσιπ VX3</ATPP_VX3Chip.label>
+  <ATPP_VX3Chip.description>Ένα νευρωνικό τσιπ που επιτρέπει στον ξενιστή του να ελέγχει εξ αποστάσεως πολλαπλά ανδροειδή σειράς SX ή βιολογικά υποκατάστατα ταυτόχρονα και να αντιμεταθέτει/αντιγράφει τον νου του.</ATPP_VX3Chip.description>
+  <ATPP_T1ArtificialBrain.label>Τεχνητός Εγκέφαλος T1</ATPP_T1ArtificialBrain.label>
+  <ATPP_T1ArtificialBrain.description>Ένας τεχνητός εγκέφαλος T1, που επιτρέπει τη μετατροπή ενός υποκατάστατου T1 σε ανδροειδές κενού νευρωνικού δικτύου</ATPP_T1ArtificialBrain.description>
+  <ATPP_T2ArtificialBrain.label>Τεχνητός Εγκέφαλος T2</ATPP_T2ArtificialBrain.label>
+  <ATPP_T2ArtificialBrain.description>Ένας τεχνητός εγκέφαλος T2, που επιτρέπει τη μετατροπή ενός υποκατάστατου T2 σε ανδροειδές κενού νευρωνικού δικτύου</ATPP_T2ArtificialBrain.description>
+  <ATPP_T3ArtificialBrain.label>Τεχνητός Εγκέφαλος T3</ATPP_T3ArtificialBrain.label>
+  <ATPP_T3ArtificialBrain.description>Ένας τεχνητός εγκέφαλος T3, που επιτρέπει τη μετατροπή ενός υποκατάστατου T3 σε ανδροειδές κενού νευρωνικού δικτύου</ATPP_T3ArtificialBrain.description>
+  <ATPP_T4ArtificialBrain.label>Τεχνητός Εγκέφαλος T4</ATPP_T4ArtificialBrain.label>
+  <ATPP_T4ArtificialBrain.description>Ένας τεχνητός εγκέφαλος T4, που επιτρέπει τη μετατροπή ενός υποκατάστατου T4 σε ανδροειδές κενού νευρωνικού δικτύου</ATPP_T4ArtificialBrain.description>
+  <ATPP_SyntheticSkinGland.label>αδένας συνθετικού δέρματος</ATPP_SyntheticSkinGland.label>
+  <ATPP_SyntheticSkinGland.description>Ένα προηγμένο βιο-συνθετικό όργανο που αποτελείται από μια αδρανή επιδερμική μήτρα και μικροαγωγούς θρεπτικών συστατικών. Όταν μεταμοσχεύεται σε ένα πλαίσιο μάχης της σειράς TX ή ενσωματώνεται κατά τη συναρμολόγηση σε δεξαμενή, επεκτείνεται και συνδέεται με το υποδερμικό περίβλημα, παρέχοντας ανθρωπόμορφη θερμομόνωση, απτική αισθητηριακή απόκριση και ρεαλιστική μεταμφίεση δέρματος.</ATPP_SyntheticSkinGland.description>
+  <ATPP_GS_TX2KMale.label>Αρσενικό πλαίσιο TX2K</ATPP_GS_TX2KMale.label>
+  <ATPP_GS_TX2KMale.description>Ένας ανενεργός λειτουργικός εξωσκελετός TX2K που περιμένει να ενεργοποιηθεί σε δεξαμενή μόλις αναπτυχθεί το δέρμα του</ATPP_GS_TX2KMale.description>
+  <ATPP_GS_TX2KFemale.label>Θηλυκό πλαίσιο TX2K</ATPP_GS_TX2KFemale.label>
+  <ATPP_GS_TX2KFemale.description>Ένας ανενεργός λειτουργικός εξωσκελετός TX2K που περιμένει να ενεργοποιηθεί σε δεξαμενή μόλις αναπτυχθεί το δέρμα του</ATPP_GS_TX2KFemale.description>
+  <ATPP_GS_TX3Male.label>Αρσενικό πλαίσιο TX3</ATPP_GS_TX3Male.label>
+  <ATPP_GS_TX3Male.description>Ένας ανενεργός λειτουργικός εξωσκελετός TX3 που περιμένει να ενεργοποιηθεί σε δεξαμενή μόλις αναπτυχθεί το δέρμα του</ATPP_GS_TX3Male.description>
+  <ATPP_GS_TX3Female.label>Θηλυκό πλαίσιο TX3</ATPP_GS_TX3Female.label>
+  <ATPP_GS_TX3Female.description>Ένας ανενεργός λειτουργικός εξωσκελετός TX3 που περιμένει να ενεργοποιηθεί σε δεξαμενή μόλις αναπτυχθεί το δέρμα του</ATPP_GS_TX3Female.description>
+  <ATPP_GS_TX4Male.label>Αρσενικό πλαίσιο TX4</ATPP_GS_TX4Male.label>
+  <ATPP_GS_TX4Male.description>Ένας ανενεργός λειτουργικός εξωσκελετός TX4 που περιμένει να ενεργοποιηθεί σε δεξαμενή μόλις αναπτυχθεί το δέρμα του</ATPP_GS_TX4Male.description>
+  <ATPP_GS_TX4Female.label>Θηλυκό πλαίσιο TX4</ATPP_GS_TX4Female.label>
+  <ATPP_GS_TX4Female.description>Ένας ανενεργός λειτουργικός εξωσκελετός TX4 που περιμένει να ενεργοποιηθεί σε δεξαμενή μόλις αναπτυχθεί το δέρμα του</ATPP_GS_TX4Female.description>
+</LanguageData>

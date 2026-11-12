@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_T4BlankGeneratorAI.label>Tom T4-android</ATPP_T4BlankGeneratorAI.label>
+  <ATPP_T4BlankGeneratorAI.description>Lag en android med et tomt nevralt nettverk.</ATPP_T4BlankGeneratorAI.description>
+  <ATPP_T3BlankGeneratorAI.label>Tom T3-android</ATPP_T3BlankGeneratorAI.label>
+  <ATPP_T3BlankGeneratorAI.description>Lag en android med et tomt nevralt nettverk.</ATPP_T3BlankGeneratorAI.description>
+  <ATPP_Android2KTX.label>TX2K-android</ATPP_Android2KTX.label>
+  <ATPP_Android2KTX.description>En prototypeandroid designet utelukkende for bruk på slagmarken som tungt infanteri; svært motstandsdyktig og påfører alvorlig skade i nærkamp, men ganske treg på grunn av pansringen og ute av stand til å utføre avanserte oppgaver på grunn av sin begrensede prosessor som i hovedsak er optimalisert for kamp.</ATPP_Android2KTX.description>
+  <ATPP_Android2KITX.label>TX2KI-android</ATPP_Android2KITX.label>
+  <ATPP_Android2KITX.description>En prototypeandroid (uten hud) designet utelukkende for bruk på slagmarken som tungt infanteri; svært motstandsdyktig og påfører alvorlig skade i nærkamp, men ganske treg på grunn av pansringen og ute av stand til å utføre avanserte oppgaver på grunn av sin begrensede prosessor som i hovedsak er optimalisert for kamp.</ATPP_Android2KITX.description>
+  <ATPP_Android2ITX.label>TX2I-android</ATPP_Android2ITX.label>
+  <ATPP_Android2ITX.description>En serie av TX2 ombygd for å brukes som infanteri på slagmarker i stedet for T2, hovedsakelig på grunn av frykten deres spesielle utseende skaper hos organiske fiender.</ATPP_Android2ITX.description>
+  <ATPP_Android3ITX.label>TX3I-android</ATPP_Android3ITX.label>
+  <ATPP_Android3ITX.description>En serie av TX3 ombygd for å brukes som infanteri på slagmarker i stedet for T3, hovedsakelig på grunn av frykten deres spesielle utseende skaper hos organiske fiender.</ATPP_Android3ITX.description>
+  <ATPP_Android4ITX.label>TX4I-android</ATPP_Android4ITX.label>
+  <ATPP_Android4ITX.description>En serie av TX4 ombygd for å brukes som infanteri på slagmarker i stedet for T4, hovedsakelig på grunn av frykten deres spesielle utseende skaper hos organiske fiender.</ATPP_Android4ITX.description>
+  <ATPP_Android4TX.label>TX4-android</ATPP_Android4TX.label>
+  <ATPP_Android4TX.description>En spesialserie av T4 designet for infiltrasjonsoppdrag; det lett modifiserte T4-eksoskjelettet dens er dekket av levende vev som forhindrer den i å ruste, gir bedre sosial påvirkning og gjør den immun mot EMP og solstormer, men den er imidlertid mer brannfarlig.</ATPP_Android4TX.description>
+  <ATPP_Android3TX.label>TX3-android</ATPP_Android3TX.label>
+  <ATPP_Android3TX.description>En spesialserie av T3 designet for infiltrasjonsoppdrag; det lett modifiserte T3-eksoskjelettet dens er dekket av levende vev som forhindrer den i å ruste, gir bedre sosial påvirkning og gjør den immun mot EMP og solstormer, men den er imidlertid mer brannfarlig.</ATPP_Android3TX.description>
+  <ATPP_Android2TX.label>TX2-android</ATPP_Android2TX.label>
+  <ATPP_Android2TX.description>En spesialserie av T2 designet for infiltrasjonsoppdrag; det lett modifiserte T2-eksoskjelettet dens er dekket av en syntetisk gummihud som forhindrer den i å ruste, gir bedre sosial påvirkning og gjør den immun mot EMP og solstormer, men den er imidlertid mer brannfarlig.</ATPP_Android2TX.description>
+  <ATPP_Android2TX.tools.right_fist.label>høyre neve</ATPP_Android2TX.tools.right_fist.label>
+  <ATPP_Android2TX.tools.left_fist.label>venstre neve</ATPP_Android2TX.tools.left_fist.label>
+  <ATPP_Android2ITX.tools.right_fist.label>høyre neve</ATPP_Android2ITX.tools.right_fist.label>
+  <ATPP_Android2ITX.tools.left_fist.label>venstre neve</ATPP_Android2ITX.tools.left_fist.label>
+  <ATPP_Android2KITX.tools.right_fist.label>høyre neve</ATPP_Android2KITX.tools.right_fist.label>
+  <ATPP_Android2KITX.tools.left_fist.label>venstre neve</ATPP_Android2KITX.tools.left_fist.label>
+  <ATPP_Android2KTX.tools.right_fist.label>høyre neve</ATPP_Android2KTX.tools.right_fist.label>
+  <ATPP_Android2KTX.tools.left_fist.label>venstre neve</ATPP_Android2KTX.tools.left_fist.label>
+  <ATPP_Android3TX.tools.right_fist.label>høyre neve</ATPP_Android3TX.tools.right_fist.label>
+  <ATPP_Android3TX.tools.left_fist.label>venstre neve</ATPP_Android3TX.tools.left_fist.label>
+  <ATPP_Android3ITX.tools.right_fist.label>høyre neve</ATPP_Android3ITX.tools.right_fist.label>
+  <ATPP_Android3ITX.tools.left_fist.label>venstre neve</ATPP_Android3ITX.tools.left_fist.label>
+  <ATPP_Android4TX.tools.right_fist.label>høyre neve</ATPP_Android4TX.tools.right_fist.label>
+  <ATPP_Android4TX.tools.left_fist.label>venstre neve</ATPP_Android4TX.tools.left_fist.label>
+  <ATPP_Android4ITX.tools.right_fist.label>høyre neve</ATPP_Android4ITX.tools.right_fist.label>
+  <ATPP_Android4ITX.tools.left_fist.label>venstre neve</ATPP_Android4ITX.tools.left_fist.label>
+  <ATPP_TX4AndroidGeneratorAI.label>Mannlig TX4-android</ATPP_TX4AndroidGeneratorAI.label>
+  <ATPP_TX4AndroidGeneratorAI.description>Lag en TX4 – en spesialserie av T4 designet for infiltrasjonsoppdrag; det lett modifiserte T4-eksoskjelettet dens er dekket av levende vev som forhindrer den i å ruste, gir bedre sosial påvirkning og gjør den immun mot EMP og solstormer, men den er imidlertid mer brannfarlig.</ATPP_TX4AndroidGeneratorAI.description>
+  <ATPP_TX4FemaleAndroidGeneratorAI.label>Kvinnelig TX4-android</ATPP_TX4FemaleAndroidGeneratorAI.label>
+  <ATPP_TX4FemaleAndroidGeneratorAI.description>Lag en TX4 – en spesialserie av T4 designet for infiltrasjonsoppdrag; det lett modifiserte T4-eksoskjelettet dens er dekket av levende vev som forhindrer den i å ruste, gir bedre sosial påvirkning og gjør den immun mot EMP og solstormer, men den er imidlertid mer brannfarlig.</ATPP_TX4FemaleAndroidGeneratorAI.description>
+  <ATPP_TX3AndroidGeneratorAI.label>Mannlig TX3-android</ATPP_TX3AndroidGeneratorAI.label>
+  <ATPP_TX3AndroidGeneratorAI.description>Lag en TX3 – en spesialserie av T3 designet for infiltrasjonsoppdrag; det lett modifiserte T3-eksoskjelettet dens er dekket av levende vev som forhindrer den i å ruste, gir bedre sosial påvirkning og gjør den immun mot EMP og solstormer, men den er imidlertid mer brannfarlig.</ATPP_TX3AndroidGeneratorAI.description>
+  <ATPP_TX3FemaleAndroidGeneratorAI.label>Kvinnelig TX3-android</ATPP_TX3FemaleAndroidGeneratorAI.label>
+  <ATPP_TX3FemaleAndroidGeneratorAI.description>Lag en TX3 – en spesialserie av T3 designet for infiltrasjonsoppdrag; det lett modifiserte T3-eksoskjelettet dens er dekket av levende vev som forhindrer den i å ruste, gir bedre sosial påvirkning og gjør den immun mot EMP og solstormer, men den er imidlertid mer brannfarlig.</ATPP_TX3FemaleAndroidGeneratorAI.description>
+  <ATPP_TX2AndroidGeneratorAI.label>Mannlig TX2-android</ATPP_TX2AndroidGeneratorAI.label>
+  <ATPP_TX2AndroidGeneratorAI.description>Lag en TX2 – en spesialserie av T2 designet for infiltrasjonsoppdrag; det lett modifiserte T2-eksoskjelettet dens er dekket av en syntetisk gummihud som forhindrer den i å ruste, gir bedre sosial påvirkning og gjør den immun mot EMP og solstormer, men den er imidlertid mer brannfarlig.</ATPP_TX2AndroidGeneratorAI.description>
+  <ATPP_TX2FemaleAndroidGeneratorAI.label>Kvinnelig TX2-android</ATPP_TX2FemaleAndroidGeneratorAI.label>
+  <ATPP_TX2FemaleAndroidGeneratorAI.description>Lag en TX2 – en spesialserie av T2 designet for infiltrasjonsoppdrag; det lett modifiserte T2-eksoskjelettet dens er dekket av en syntetisk gummihud som forhindrer den i å ruste, gir bedre sosial påvirkning og gjør den immun mot EMP og solstormer, men den er imidlertid mer brannfarlig.</ATPP_TX2FemaleAndroidGeneratorAI.description>
+  <ATPP_TX2KAndroidGeneratorAI.label>Mannlig TX2K-android</ATPP_TX2KAndroidGeneratorAI.label>
+  <ATPP_TX2KAndroidGeneratorAI.description>Lag en TX2K – en prototypeandroid designet utelukkende for bruk på slagmarken som tungt infanteri; svært motstandsdyktig og påfører alvorlig skade i nærkamp, men ganske treg på grunn av pansringen og ute av stand til å utføre avanserte oppgaver på grunn av sin begrensede prosessor som i hovedsak er optimalisert for kamp.</ATPP_TX2KAndroidGeneratorAI.description>
+  <ATPP_TX2KFemaleAndroidGeneratorAI.label>Kvinnelig TX2K-android</ATPP_TX2KFemaleAndroidGeneratorAI.label>
+  <ATPP_TX2KFemaleAndroidGeneratorAI.description>Lag en TX2K – en prototypeandroid designet utelukkende for bruk på slagmarken som tungt infanteri; svært motstandsdyktig og påfører alvorlig skade i nærkamp, men ganske treg på grunn av pansringen og ute av stand til å utføre avanserte oppgaver på grunn av sin begrensede prosessor som i hovedsak er optimalisert for kamp.</ATPP_TX2KFemaleAndroidGeneratorAI.description>
+  <ATPP_TX2KIAndroidGeneratorAI.label>Mannlig TX2KI-android</ATPP_TX2KIAndroidGeneratorAI.label>
+  <ATPP_TX2KIAndroidGeneratorAI.description>Lag en TX2KI – en prototypeandroid designet utelukkende for bruk på slagmarken som tungt infanteri; svært motstandsdyktig og påfører alvorlig skade i nærkamp, men ganske treg på grunn av pansringen og ute av stand til å utføre avanserte oppgaver på grunn av sin begrensede prosessor som i hovedsak er optimalisert for kamp.</ATPP_TX2KIAndroidGeneratorAI.description>
+  <ATPP_TX2KIFemaleAndroidGeneratorAI.label>Kvinnelig TX2KI-android</ATPP_TX2KIFemaleAndroidGeneratorAI.label>
+  <ATPP_TX2KIFemaleAndroidGeneratorAI.description>Lag en TX2KI – en prototypeandroid designet utelukkende for bruk på slagmarken som tungt infanteri; svært motstandsdyktig og påfører alvorlig skade i nærkamp, men ganske treg på grunn av pansringen og ute av stand til å utføre avanserte oppgaver på grunn av sin begrensede prosessor som i hovedsak er optimalisert for kamp.</ATPP_TX2KIFemaleAndroidGeneratorAI.description>
+  <ATPP_TX2IAndroidGeneratorAI.label>Mannlig TX2I-android</ATPP_TX2IAndroidGeneratorAI.label>
+  <ATPP_TX2IAndroidGeneratorAI.description>Lag en TX2I – en serie av TX2 ombygd for å brukes som infanteri på slagmarker i stedet for T2, hovedsakelig på grunn av frykten deres spesielle utseende skaper hos fiender.</ATPP_TX2IAndroidGeneratorAI.description>
+  <ATPP_TX2IFemaleAndroidGeneratorAI.label>Kvinnelig TX2I-android</ATPP_TX2IFemaleAndroidGeneratorAI.label>
+  <ATPP_TX2IFemaleAndroidGeneratorAI.description>Lag en TX2I – en serie av TX2 ombygd for å brukes som infanteri på slagmarker i stedet for T2, hovedsakelig på grunn av frykten deres spesielle utseende skaper hos fiender.</ATPP_TX2IFemaleAndroidGeneratorAI.description>
+  <ATPP_TX3IAndroidGeneratorAI.label>Mannlig TX3I-android</ATPP_TX3IAndroidGeneratorAI.label>
+  <ATPP_TX3IAndroidGeneratorAI.description>Lag en TX3I – en serie av TX3 ombygd for å brukes som infanteri på slagmarker i stedet for T3, hovedsakelig på grunn av frykten deres spesielle utseende skaper hos fiender.</ATPP_TX3IAndroidGeneratorAI.description>
+  <ATPP_TX3IFemaleAndroidGeneratorAI.label>Kvinnelig TX3I-android</ATPP_TX3IFemaleAndroidGeneratorAI.label>
+  <ATPP_TX3IFemaleAndroidGeneratorAI.description>Lag en TX3I – en serie av TX3 ombygd for å brukes som infanteri på slagmarker i stedet for T3, hovedsakelig på grunn av frykten deres spesielle utseende skaper hos fiender.</ATPP_TX3IFemaleAndroidGeneratorAI.description>
+  <ATPP_TX4IAndroidGeneratorAI.label>Mannlig TX4I-android</ATPP_TX4IAndroidGeneratorAI.label>
+  <ATPP_TX4IAndroidGeneratorAI.description>Lag en TX4I – en serie av TX4 ombygd for å brukes som infanteri på slagmarker i stedet for T4, hovedsakelig på grunn av frykten deres spesielle utseende skaper hos fiender.</ATPP_TX4IAndroidGeneratorAI.description>
+  <ATPP_TX4IFemaleAndroidGeneratorAI.label>Kvinnelig TX4I-android</ATPP_TX4IFemaleAndroidGeneratorAI.label>
+  <ATPP_TX4IFemaleAndroidGeneratorAI.description>Lag en TX4I – en serie av TX4 ombygd for å brukes som infanteri på slagmarker i stedet for T4, hovedsakelig på grunn av frykten deres spesielle utseende skaper hos fiender.</ATPP_TX4IFemaleAndroidGeneratorAI.description>
+  <ATPP_GSGeneratorTX2KMale.label>Inaktivert mannlig TX2K</ATPP_GSGeneratorTX2KMale.label>
+  <ATPP_GSGeneratorTX2KMale.description>Lager en surrogatandroid.</ATPP_GSGeneratorTX2KMale.description>
+  <ATPP_GSGeneratorTX2KFemale.label>Inaktivert kvinnelig TX2K</ATPP_GSGeneratorTX2KFemale.label>
+  <ATPP_GSGeneratorTX2KFemale.description>Lager en surrogatandroid.</ATPP_GSGeneratorTX2KFemale.description>
+  <ATPP_GSGeneratorTX2KMaleSurrogate.label>Inaktivert mannlig TX2K</ATPP_GSGeneratorTX2KMaleSurrogate.label>
+  <ATPP_GSGeneratorTX2KMaleSurrogate.description>Lager en surrogatandroid.</ATPP_GSGeneratorTX2KMaleSurrogate.description>
+  <ATPP_GSGeneratorTX2KFemaleSurrogate.label>Inaktivert kvinnelig TX2K</ATPP_GSGeneratorTX2KFemaleSurrogate.label>
+  <ATPP_GSGeneratorTX2KFemaleSurrogate.description>Lager en surrogatandroid.</ATPP_GSGeneratorTX2KFemaleSurrogate.description>
+  <ATPP_GSGeneratorTX3Male.label>Inaktivert mannlig TX3</ATPP_GSGeneratorTX3Male.label>
+  <ATPP_GSGeneratorTX3Male.description>Lager en surrogatandroid.</ATPP_GSGeneratorTX3Male.description>
+  <ATPP_GSGeneratorTX3Female.label>Inaktivert kvinnelig TX3</ATPP_GSGeneratorTX3Female.label>
+  <ATPP_GSGeneratorTX3Female.description>Lager en surrogatandroid.</ATPP_GSGeneratorTX3Female.description>
+  <ATPP_GSGeneratorTX3MaleSurrogate.label>Inaktivert mannlig TX3</ATPP_GSGeneratorTX3MaleSurrogate.label>
+  <ATPP_GSGeneratorTX3MaleSurrogate.description>Lager en surrogatandroid.</ATPP_GSGeneratorTX3MaleSurrogate.description>
+  <ATPP_GSGeneratorTX3FemaleSurrogate.label>Inaktivert kvinnelig TX3</ATPP_GSGeneratorTX3FemaleSurrogate.label>
+  <ATPP_GSGeneratorTX3FemaleSurrogate.description>Lager en surrogatandroid.</ATPP_GSGeneratorTX3FemaleSurrogate.description>
+  <ATPP_GSGeneratorTX4Male.label>Inaktivert mannlig TX4</ATPP_GSGeneratorTX4Male.label>
+  <ATPP_GSGeneratorTX4Male.description>Lager en surrogatandroid.</ATPP_GSGeneratorTX4Male.description>
+  <ATPP_GSGeneratorTX4Female.label>Inaktivert kvinnelig TX4</ATPP_GSGeneratorTX4Female.label>
+  <ATPP_GSGeneratorTX4Female.description>Lager en surrogatandroid.</ATPP_GSGeneratorTX4Female.description>
+  <ATPP_GSGeneratorTX4MaleSurrogate.label>Inaktivert mannlig TX4</ATPP_GSGeneratorTX4MaleSurrogate.label>
+  <ATPP_GSGeneratorTX4MaleSurrogate.description>Lager en surrogatandroid.</ATPP_GSGeneratorTX4MaleSurrogate.description>
+  <ATPP_GSGeneratorTX4FemaleSurrogate.label>Inaktivert kvinnelig TX4</ATPP_GSGeneratorTX4FemaleSurrogate.label>
+  <ATPP_GSGeneratorTX4FemaleSurrogate.description>Lager en surrogatandroid.</ATPP_GSGeneratorTX4FemaleSurrogate.description>
+  <ATPP_SX2SurrogateGeneratorAI.label>Mannlig SX2-surrogatandroid</ATPP_SX2SurrogateGeneratorAI.label>
+  <ATPP_SX2SurrogateGeneratorAI.description>Lager en surrogatandroid.</ATPP_SX2SurrogateGeneratorAI.description>
+  <ATPP_SX2FemaleSurrogateGeneratorAI.label>Kvinnelig SX2-surrogatandroid</ATPP_SX2FemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2FemaleSurrogateGeneratorAI.description>Lager en surrogatandroid.</ATPP_SX2FemaleSurrogateGeneratorAI.description>
+  <ATPP_SX2ISurrogateGeneratorAI.label>Mannlig SX2I-surrogatandroid</ATPP_SX2ISurrogateGeneratorAI.label>
+  <ATPP_SX2ISurrogateGeneratorAI.description>Lager en surrogatandroid.</ATPP_SX2ISurrogateGeneratorAI.description>
+  <ATPP_SX2IFemaleSurrogateGeneratorAI.label>Kvinnelig SX2I-surrogatandroid</ATPP_SX2IFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2IFemaleSurrogateGeneratorAI.description>Lager en surrogatandroid.</ATPP_SX2IFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX2KSurrogateGeneratorAI.label>Mannlig SX2K-surrogatandroid</ATPP_SX2KSurrogateGeneratorAI.label>
+  <ATPP_SX2KSurrogateGeneratorAI.description>Lager en surrogatandroid.</ATPP_SX2KSurrogateGeneratorAI.description>
+  <ATPP_SX2KFemaleSurrogateGeneratorAI.label>Kvinnelig SX2K-surrogatandroid</ATPP_SX2KFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2KFemaleSurrogateGeneratorAI.description>Lager en surrogatandroid.</ATPP_SX2KFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX2KISurrogateGeneratorAI.label>Mannlig SX2KI-surrogatandroid</ATPP_SX2KISurrogateGeneratorAI.label>
+  <ATPP_SX2KISurrogateGeneratorAI.description>Lager en surrogatandroid.</ATPP_SX2KISurrogateGeneratorAI.description>
+  <ATPP_SX2KIFemaleSurrogateGeneratorAI.label>Kvinnelig SX2KI-surrogatandroid</ATPP_SX2KIFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2KIFemaleSurrogateGeneratorAI.description>Lager en surrogatandroid.</ATPP_SX2KIFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX3SurrogateGeneratorAI.label>Mannlig SX3-surrogatandroid</ATPP_SX3SurrogateGeneratorAI.label>
+  <ATPP_SX3SurrogateGeneratorAI.description>Lager en surrogatandroid.</ATPP_SX3SurrogateGeneratorAI.description>
+  <ATPP_SX3FemaleSurrogateGeneratorAI.label>Kvinnelig SX3-surrogatandroid</ATPP_SX3FemaleSurrogateGeneratorAI.label>
+  <ATPP_SX3FemaleSurrogateGeneratorAI.description>Lager en surrogatandroid.</ATPP_SX3FemaleSurrogateGeneratorAI.description>
+  <ATPP_SX3ISurrogateGeneratorAI.label>Mannlig SX3I-surrogatandroid</ATPP_SX3ISurrogateGeneratorAI.label>
+  <ATPP_SX3ISurrogateGeneratorAI.description>Lager en surrogatandroid.</ATPP_SX3ISurrogateGeneratorAI.description>
+  <ATPP_SX3IFemaleSurrogateGeneratorAI.label>Kvinnelig SX3I-surrogatandroid</ATPP_SX3IFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX3IFemaleSurrogateGeneratorAI.description>Lager en surrogatandroid.</ATPP_SX3IFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX4SurrogateGeneratorAI.label>Mannlig SX4-surrogatandroid</ATPP_SX4SurrogateGeneratorAI.label>
+  <ATPP_SX4SurrogateGeneratorAI.description>Lager en surrogatandroid.</ATPP_SX4SurrogateGeneratorAI.description>
+  <ATPP_SX4FemaleSurrogateGeneratorAI.label>Kvinnelig SX4-surrogatandroid</ATPP_SX4FemaleSurrogateGeneratorAI.label>
+  <ATPP_SX4FemaleSurrogateGeneratorAI.description>Lager en surrogatandroid.</ATPP_SX4FemaleSurrogateGeneratorAI.description>
+  <ATPP_SX4ISurrogateGeneratorAI.label>Mannlig SX4I-surrogatandroid</ATPP_SX4ISurrogateGeneratorAI.label>
+  <ATPP_SX4ISurrogateGeneratorAI.description>Lager en surrogatandroid.</ATPP_SX4ISurrogateGeneratorAI.description>
+  <ATPP_SX4IFemaleSurrogateGeneratorAI.label>Kvinnelig SX4I-surrogatandroid</ATPP_SX4IFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX4IFemaleSurrogateGeneratorAI.description>Lager en surrogatandroid.</ATPP_SX4IFemaleSurrogateGeneratorAI.description>
+
+</LanguageData>

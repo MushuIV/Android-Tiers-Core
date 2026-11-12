@@ -21,11 +21,11 @@ namespace MOARANDROIDS
             [HarmonyPostfix]
             public static void Listener(Pawn p, ref ThoughtState __result)
             {
-                if (p.def == ThingDefOfAT.Android1Tier || p.def == ThingDefOfAT.M7Mech  || p.def.defName == Utils.TX2K)
+                if (p.def == ThingDefOfAT.Android1Tier || p.def == ThingDefOfAT.M7Mech || p.def.defName == Utils.TX2K || p.def.defName == Utils.TX2KI)
                 {
                     __result = ThoughtState.ActiveAtStage(5);
                 }
-                else if (p.def.defName == Utils.T2 || p.def.defName == Utils.TX2 || (p.story != null && p.story.traits.HasTrait(TraitDefOf.SimpleMindedAndroid)))
+                else if (p.def.defName == Utils.T2 || p.def.defName == Utils.TX2 || p.def.defName == Utils.TX2I || (p.story != null && p.story.traits.HasTrait(TraitDefOf.SimpleMindedAndroid)))
                 {
                     __result = ThoughtState.ActiveAtStage(4);
                 }

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_T4BlankGeneratorAI.label>Leerer T4-Android</ATPP_T4BlankGeneratorAI.label>
+	<ATPP_T4BlankGeneratorAI.description>Erstellt einen Androiden mit leerem neuronalem Netzwerk.</ATPP_T4BlankGeneratorAI.description>
+	<ATPP_T3BlankGeneratorAI.label>Leerer T3-Android</ATPP_T3BlankGeneratorAI.label>
+	<ATPP_T3BlankGeneratorAI.description>Erstellt einen Androiden mit leerem neuronalem Netzwerk.</ATPP_T3BlankGeneratorAI.description>
+	<ATPP_Android2KTX.label>TX2K-Android</ATPP_Android2KTX.label>
+	<ATPP_Android2KTX.description>Ein Prototyp-Android, der ausschließlich für den Einsatz als schwere Infanterie auf dem Schlachtfeld entwickelt wurde. Er ist äußerst widerstandsfähig und verursacht schweren Nahkampfschaden, ist jedoch aufgrund seiner Panzerung recht langsam und wegen seines begrenzten, auf den Kampf optimierten Prozessors zu fortgeschrittenen Aufgaben nicht fähig.</ATPP_Android2KTX.description>
+	<ATPP_Android2KITX.label>TX2KI-Android</ATPP_Android2KITX.label>
+	<ATPP_Android2KITX.description>Ein Prototyp-Android (ohne Haut), der ausschließlich für den Einsatz als schwere Infanterie auf dem Schlachtfeld entwickelt wurde. Er ist äußerst widerstandsfähig und verursacht schweren Nahkampfschaden, ist jedoch aufgrund seiner Panzerung recht langsam und wegen seines begrenzten, auf den Kampf optimierten Prozessors zu fortgeschrittenen Aufgaben nicht fähig.</ATPP_Android2KITX.description>
+	<ATPP_Android2ITX.label>TX2I-Android</ATPP_Android2ITX.label>
+	<ATPP_Android2ITX.description>Eine Baureihe des TX2, die für den Einsatz als Infanterie auf dem Schlachtfeld statt des T2 umgerüstet wurde – vor allem wegen der Furcht, die ihr besonderes Aussehen bei organischen Feinden auslöst.</ATPP_Android2ITX.description>
+	<ATPP_Android3ITX.label>TX3I-Android</ATPP_Android3ITX.label>
+	<ATPP_Android3ITX.description>Eine Baureihe des TX3, die für den Einsatz als Infanterie auf dem Schlachtfeld statt des T3 umgerüstet wurde – vor allem wegen der Furcht, die ihr besonderes Aussehen bei organischen Feinden auslöst.</ATPP_Android3ITX.description>
+	<ATPP_Android4ITX.label>TX4I-Android</ATPP_Android4ITX.label>
+	<ATPP_Android4ITX.description>Eine Baureihe des TX4, die für den Einsatz als Infanterie auf dem Schlachtfeld statt des T4 umgerüstet wurde – vor allem wegen der Furcht, die ihr besonderes Aussehen bei organischen Feinden auslöst.</ATPP_Android4ITX.description>
+	<ATPP_Android4TX.label>TX4-Android</ATPP_Android4TX.label>
+	<ATPP_Android4TX.description>Eine Spezialserie des T4 für Infiltrationsmissionen. Sein leicht modifiziertes T4-Exoskelett ist von lebendem Gewebe bedeckt, das ihn vor Rost schützt, seine soziale Wirkung verbessert und ihn gegen EMP sowie Sonnenkoronen immun macht – allerdings ist er dadurch entflammbarer.</ATPP_Android4TX.description>
+	<ATPP_Android3TX.label>TX3-Android</ATPP_Android3TX.label>
+	<ATPP_Android3TX.description>Eine Spezialserie des T3 für Infiltrationsmissionen. Sein leicht modifiziertes T3-Exoskelett ist von lebendem Gewebe bedeckt, das ihn vor Rost schützt, seine soziale Wirkung verbessert und ihn gegen EMP sowie Sonnenkoronen immun macht – allerdings ist er dadurch entflammbarer.</ATPP_Android3TX.description>
+	<ATPP_Android2TX.label>TX2-Android</ATPP_Android2TX.label>
+	<ATPP_Android2TX.description>Eine Spezialserie des T2 für Infiltrationsmissionen. Sein leicht modifiziertes T2-Exoskelett ist von einer synthetischen Gummihaut bedeckt, die ihn vor Rost schützt, seine soziale Wirkung verbessert und ihn gegen EMP sowie Sonnenkoronen immun macht – allerdings ist er dadurch entflammbarer.</ATPP_Android2TX.description>
+	<ATPP_Android2TX.tools.right_fist.label>rechte Faust</ATPP_Android2TX.tools.right_fist.label>
+	<ATPP_Android2TX.tools.left_fist.label>linke Faust</ATPP_Android2TX.tools.left_fist.label>
+	<ATPP_Android2ITX.tools.right_fist.label>rechte Faust</ATPP_Android2ITX.tools.right_fist.label>
+	<ATPP_Android2ITX.tools.left_fist.label>linke Faust</ATPP_Android2ITX.tools.left_fist.label>
+	<ATPP_Android2KITX.tools.right_fist.label>rechte Faust</ATPP_Android2KITX.tools.right_fist.label>
+	<ATPP_Android2KITX.tools.left_fist.label>linke Faust</ATPP_Android2KITX.tools.left_fist.label>
+	<ATPP_Android2KTX.tools.right_fist.label>rechte Faust</ATPP_Android2KTX.tools.right_fist.label>
+	<ATPP_Android2KTX.tools.left_fist.label>linke Faust</ATPP_Android2KTX.tools.left_fist.label>
+	<ATPP_Android3TX.tools.right_fist.label>rechte Faust</ATPP_Android3TX.tools.right_fist.label>
+	<ATPP_Android3TX.tools.left_fist.label>linke Faust</ATPP_Android3TX.tools.left_fist.label>
+	<ATPP_Android3ITX.tools.right_fist.label>rechte Faust</ATPP_Android3ITX.tools.right_fist.label>
+	<ATPP_Android3ITX.tools.left_fist.label>linke Faust</ATPP_Android3ITX.tools.left_fist.label>
+	<ATPP_Android4TX.tools.right_fist.label>rechte Faust</ATPP_Android4TX.tools.right_fist.label>
+	<ATPP_Android4TX.tools.left_fist.label>linke Faust</ATPP_Android4TX.tools.left_fist.label>
+	<ATPP_Android4ITX.tools.right_fist.label>rechte Faust</ATPP_Android4ITX.tools.right_fist.label>
+	<ATPP_Android4ITX.tools.left_fist.label>linke Faust</ATPP_Android4ITX.tools.left_fist.label>
+	<ATPP_TX4AndroidGeneratorAI.label>Männlicher TX4-Android</ATPP_TX4AndroidGeneratorAI.label>
+	<ATPP_TX4AndroidGeneratorAI.description>Erstellt einen TX4, eine Spezialserie des T4 für Infiltrationsmissionen. Sein leicht modifiziertes T4-Exoskelett ist von lebendem Gewebe bedeckt, das ihn vor Rost schützt, seine soziale Wirkung verbessert und ihn gegen EMP sowie Sonnenkoronen immun macht – allerdings ist er dadurch entflammbarer.</ATPP_TX4AndroidGeneratorAI.description>
+	<ATPP_TX4FemaleAndroidGeneratorAI.label>Weiblicher TX4-Android</ATPP_TX4FemaleAndroidGeneratorAI.label>
+	<ATPP_TX4FemaleAndroidGeneratorAI.description>Erstellt einen TX4, eine Spezialserie des T4 für Infiltrationsmissionen. Sein leicht modifiziertes T4-Exoskelett ist von lebendem Gewebe bedeckt, das ihn vor Rost schützt, seine soziale Wirkung verbessert und ihn gegen EMP sowie Sonnenkoronen immun macht – allerdings ist er dadurch entflammbarer.</ATPP_TX4FemaleAndroidGeneratorAI.description>
+	<ATPP_TX3AndroidGeneratorAI.label>Männlicher TX3-Android</ATPP_TX3AndroidGeneratorAI.label>
+	<ATPP_TX3AndroidGeneratorAI.description>Erstellt einen TX3, eine Spezialserie des T3 für Infiltrationsmissionen. Sein leicht modifiziertes T3-Exoskelett ist von lebendem Gewebe bedeckt, das ihn vor Rost schützt, seine soziale Wirkung verbessert und ihn gegen EMP sowie Sonnenkoronen immun macht – allerdings ist er dadurch entflammbarer.</ATPP_TX3AndroidGeneratorAI.description>
+	<ATPP_TX3FemaleAndroidGeneratorAI.label>Weiblicher TX3-Android</ATPP_TX3FemaleAndroidGeneratorAI.label>
+	<ATPP_TX3FemaleAndroidGeneratorAI.description>Erstellt einen TX3, eine Spezialserie des T3 für Infiltrationsmissionen. Sein leicht modifiziertes T3-Exoskelett ist von lebendem Gewebe bedeckt, das ihn vor Rost schützt, seine soziale Wirkung verbessert und ihn gegen EMP sowie Sonnenkoronen immun macht – allerdings ist er dadurch entflammbarer.</ATPP_TX3FemaleAndroidGeneratorAI.description>
+	<ATPP_TX2AndroidGeneratorAI.label>Männlicher TX2-Android</ATPP_TX2AndroidGeneratorAI.label>
+	<ATPP_TX2AndroidGeneratorAI.description>Erstellt einen TX2, eine Spezialserie des T2 für Infiltrationsmissionen. Sein leicht modifiziertes T2-Exoskelett ist von einer synthetischen Gummihaut bedeckt, die ihn vor Rost schützt, seine soziale Wirkung verbessert und ihn gegen EMP sowie Sonnenkoronen immun macht – allerdings ist er dadurch entflammbarer.</ATPP_TX2AndroidGeneratorAI.description>
+	<ATPP_TX2FemaleAndroidGeneratorAI.label>Weiblicher TX2-Android</ATPP_TX2FemaleAndroidGeneratorAI.label>
+	<ATPP_TX2FemaleAndroidGeneratorAI.description>Erstellt einen TX2, eine Spezialserie des T2 für Infiltrationsmissionen. Sein leicht modifiziertes T2-Exoskelett ist von einer synthetischen Gummihaut bedeckt, die ihn vor Rost schützt, seine soziale Wirkung verbessert und ihn gegen EMP sowie Sonnenkoronen immun macht – allerdings ist er dadurch entflammbarer.</ATPP_TX2FemaleAndroidGeneratorAI.description>
+	<ATPP_TX2KAndroidGeneratorAI.label>Männlicher TX2K-Android</ATPP_TX2KAndroidGeneratorAI.label>
+	<ATPP_TX2KAndroidGeneratorAI.description>Erstellt einen TX2K, einen Prototyp-Androiden, der ausschließlich für den Einsatz als schwere Infanterie auf dem Schlachtfeld entwickelt wurde. Er ist äußerst widerstandsfähig und verursacht schweren Nahkampfschaden, ist jedoch aufgrund seiner Panzerung recht langsam und wegen seines begrenzten, auf den Kampf optimierten Prozessors zu fortgeschrittenen Aufgaben nicht fähig.</ATPP_TX2KAndroidGeneratorAI.description>
+	<ATPP_TX2KFemaleAndroidGeneratorAI.label>Weiblicher TX2K-Android</ATPP_TX2KFemaleAndroidGeneratorAI.label>
+	<ATPP_TX2KFemaleAndroidGeneratorAI.description>Erstellt einen TX2K, einen Prototyp-Androiden, der ausschließlich für den Einsatz als schwere Infanterie auf dem Schlachtfeld entwickelt wurde. Er ist äußerst widerstandsfähig und verursacht schweren Nahkampfschaden, ist jedoch aufgrund seiner Panzerung recht langsam und wegen seines begrenzten, auf den Kampf optimierten Prozessors zu fortgeschrittenen Aufgaben nicht fähig.</ATPP_TX2KFemaleAndroidGeneratorAI.description>
+	<ATPP_TX2KIAndroidGeneratorAI.label>Männlicher TX2KI-Android</ATPP_TX2KIAndroidGeneratorAI.label>
+	<ATPP_TX2KIAndroidGeneratorAI.description>Erstellt einen TX2KI, einen Prototyp-Androiden, der ausschließlich für den Einsatz als schwere Infanterie auf dem Schlachtfeld entwickelt wurde. Er ist äußerst widerstandsfähig und verursacht schweren Nahkampfschaden, ist jedoch aufgrund seiner Panzerung recht langsam und wegen seines begrenzten, auf den Kampf optimierten Prozessors zu fortgeschrittenen Aufgaben nicht fähig.</ATPP_TX2KIAndroidGeneratorAI.description>
+	<ATPP_TX2KIFemaleAndroidGeneratorAI.label>Weiblicher TX2KI-Android</ATPP_TX2KIFemaleAndroidGeneratorAI.label>
+	<ATPP_TX2KIFemaleAndroidGeneratorAI.description>Erstellt einen TX2KI, einen Prototyp-Androiden, der ausschließlich für den Einsatz als schwere Infanterie auf dem Schlachtfeld entwickelt wurde. Er ist äußerst widerstandsfähig und verursacht schweren Nahkampfschaden, ist jedoch aufgrund seiner Panzerung recht langsam und wegen seines begrenzten, auf den Kampf optimierten Prozessors zu fortgeschrittenen Aufgaben nicht fähig.</ATPP_TX2KIFemaleAndroidGeneratorAI.description>
+	<ATPP_TX2IAndroidGeneratorAI.label>Männlicher TX2I-Android</ATPP_TX2IAndroidGeneratorAI.label>
+	<ATPP_TX2IAndroidGeneratorAI.description>Erstellt einen TX2I, eine Baureihe des TX2, die für den Einsatz als Infanterie auf dem Schlachtfeld statt des T2 umgerüstet wurde – vor allem wegen der Furcht, die ihr besonderes Aussehen bei Feinden auslöst.</ATPP_TX2IAndroidGeneratorAI.description>
+	<ATPP_TX2IFemaleAndroidGeneratorAI.label>Weiblicher TX2I-Android</ATPP_TX2IFemaleAndroidGeneratorAI.label>
+	<ATPP_TX2IFemaleAndroidGeneratorAI.description>Erstellt einen TX2I, eine Baureihe des TX2, die für den Einsatz als Infanterie auf dem Schlachtfeld statt des T2 umgerüstet wurde – vor allem wegen der Furcht, die ihr besonderes Aussehen bei Feinden auslöst.</ATPP_TX2IFemaleAndroidGeneratorAI.description>
+	<ATPP_TX3IAndroidGeneratorAI.label>Männlicher TX3I-Android</ATPP_TX3IAndroidGeneratorAI.label>
+	<ATPP_TX3IAndroidGeneratorAI.description>Erstellt einen TX3I, eine Baureihe des TX3, die für den Einsatz als Infanterie auf dem Schlachtfeld statt des T3 umgerüstet wurde – vor allem wegen der Furcht, die ihr besonderes Aussehen bei Feinden auslöst.</ATPP_TX3IAndroidGeneratorAI.description>
+	<ATPP_TX3IFemaleAndroidGeneratorAI.label>Weiblicher TX3I-Android</ATPP_TX3IFemaleAndroidGeneratorAI.label>
+	<ATPP_TX3IFemaleAndroidGeneratorAI.description>Erstellt einen TX3I, eine Baureihe des TX3, die für den Einsatz als Infanterie auf dem Schlachtfeld statt des T3 umgerüstet wurde – vor allem wegen der Furcht, die ihr besonderes Aussehen bei Feinden auslöst.</ATPP_TX3IFemaleAndroidGeneratorAI.description>
+	<ATPP_TX4IAndroidGeneratorAI.label>Männlicher TX4I-Android</ATPP_TX4IAndroidGeneratorAI.label>
+	<ATPP_TX4IAndroidGeneratorAI.description>Erstellt einen TX4I, eine Baureihe des TX4, die für den Einsatz als Infanterie auf dem Schlachtfeld statt des T4 umgerüstet wurde – vor allem wegen der Furcht, die ihr besonderes Aussehen bei Feinden auslöst.</ATPP_TX4IAndroidGeneratorAI.description>
+	<ATPP_TX4IFemaleAndroidGeneratorAI.label>Weiblicher TX4I-Android</ATPP_TX4IFemaleAndroidGeneratorAI.label>
+	<ATPP_TX4IFemaleAndroidGeneratorAI.description>Erstellt einen TX4I, eine Baureihe des TX4, die für den Einsatz als Infanterie auf dem Schlachtfeld statt des T4 umgerüstet wurde – vor allem wegen der Furcht, die ihr besonderes Aussehen bei Feinden auslöst.</ATPP_TX4IFemaleAndroidGeneratorAI.description>
+	<ATPP_GSGeneratorTX2KMale.label>Inaktiver TX2K (männlich)</ATPP_GSGeneratorTX2KMale.label>
+	<ATPP_GSGeneratorTX2KMale.description>Erstellt einen Surrogat-Androiden.</ATPP_GSGeneratorTX2KMale.description>
+	<ATPP_GSGeneratorTX2KFemale.label>Inaktiver TX2K (weiblich)</ATPP_GSGeneratorTX2KFemale.label>
+	<ATPP_GSGeneratorTX2KFemale.description>Erstellt einen Surrogat-Androiden.</ATPP_GSGeneratorTX2KFemale.description>
+	<ATPP_GSGeneratorTX2KMaleSurrogate.label>Inaktiver TX2K (männlich)</ATPP_GSGeneratorTX2KMaleSurrogate.label>
+	<ATPP_GSGeneratorTX2KMaleSurrogate.description>Erstellt einen Surrogat-Androiden.</ATPP_GSGeneratorTX2KMaleSurrogate.description>
+	<ATPP_GSGeneratorTX2KFemaleSurrogate.label>Inaktiver TX2K (weiblich)</ATPP_GSGeneratorTX2KFemaleSurrogate.label>
+	<ATPP_GSGeneratorTX2KFemaleSurrogate.description>Erstellt einen Surrogat-Androiden.</ATPP_GSGeneratorTX2KFemaleSurrogate.description>
+	<ATPP_GSGeneratorTX3Male.label>Inaktiver TX3 (männlich)</ATPP_GSGeneratorTX3Male.label>
+	<ATPP_GSGeneratorTX3Male.description>Erstellt einen Surrogat-Androiden.</ATPP_GSGeneratorTX3Male.description>
+	<ATPP_GSGeneratorTX3Female.label>Inaktiver TX3 (weiblich)</ATPP_GSGeneratorTX3Female.label>
+	<ATPP_GSGeneratorTX3Female.description>Erstellt einen Surrogat-Androiden.</ATPP_GSGeneratorTX3Female.description>
+	<ATPP_GSGeneratorTX3MaleSurrogate.label>Inaktiver TX3 (männlich)</ATPP_GSGeneratorTX3MaleSurrogate.label>
+	<ATPP_GSGeneratorTX3MaleSurrogate.description>Erstellt einen Surrogat-Androiden.</ATPP_GSGeneratorTX3MaleSurrogate.description>
+	<ATPP_GSGeneratorTX3FemaleSurrogate.label>Inaktiver TX3 (weiblich)</ATPP_GSGeneratorTX3FemaleSurrogate.label>
+	<ATPP_GSGeneratorTX3FemaleSurrogate.description>Erstellt einen Surrogat-Androiden.</ATPP_GSGeneratorTX3FemaleSurrogate.description>
+	<ATPP_GSGeneratorTX4Male.label>Inaktiver TX4 (männlich)</ATPP_GSGeneratorTX4Male.label>
+	<ATPP_GSGeneratorTX4Male.description>Erstellt einen Surrogat-Androiden.</ATPP_GSGeneratorTX4Male.description>
+	<ATPP_GSGeneratorTX4Female.label>Inaktiver TX4 (weiblich)</ATPP_GSGeneratorTX4Female.label>
+	<ATPP_GSGeneratorTX4Female.description>Erstellt einen Surrogat-Androiden.</ATPP_GSGeneratorTX4Female.description>
+	<ATPP_GSGeneratorTX4MaleSurrogate.label>Inaktiver TX4 (männlich)</ATPP_GSGeneratorTX4MaleSurrogate.label>
+	<ATPP_GSGeneratorTX4MaleSurrogate.description>Erstellt einen Surrogat-Androiden.</ATPP_GSGeneratorTX4MaleSurrogate.description>
+	<ATPP_GSGeneratorTX4FemaleSurrogate.label>Inaktiver TX4 (weiblich)</ATPP_GSGeneratorTX4FemaleSurrogate.label>
+	<ATPP_GSGeneratorTX4FemaleSurrogate.description>Erstellt einen Surrogat-Androiden.</ATPP_GSGeneratorTX4FemaleSurrogate.description>
+	<ATPP_SX2SurrogateGeneratorAI.label>Männlicher SX2-Surrogat-Android</ATPP_SX2SurrogateGeneratorAI.label>
+	<ATPP_SX2SurrogateGeneratorAI.description>Erstellt einen Surrogat-Androiden.</ATPP_SX2SurrogateGeneratorAI.description>
+	<ATPP_SX2FemaleSurrogateGeneratorAI.label>Weiblicher SX2-Surrogat-Android</ATPP_SX2FemaleSurrogateGeneratorAI.label>
+	<ATPP_SX2FemaleSurrogateGeneratorAI.description>Erstellt einen Surrogat-Androiden.</ATPP_SX2FemaleSurrogateGeneratorAI.description>
+	<ATPP_SX2ISurrogateGeneratorAI.label>Männlicher SX2I-Surrogat-Android</ATPP_SX2ISurrogateGeneratorAI.label>
+	<ATPP_SX2ISurrogateGeneratorAI.description>Erstellt einen Surrogat-Androiden.</ATPP_SX2ISurrogateGeneratorAI.description>
+	<ATPP_SX2IFemaleSurrogateGeneratorAI.label>Weiblicher SX2I-Surrogat-Android</ATPP_SX2IFemaleSurrogateGeneratorAI.label>
+	<ATPP_SX2IFemaleSurrogateGeneratorAI.description>Erstellt einen Surrogat-Androiden.</ATPP_SX2IFemaleSurrogateGeneratorAI.description>
+	<ATPP_SX2KSurrogateGeneratorAI.label>Männlicher SX2K-Surrogat-Android</ATPP_SX2KSurrogateGeneratorAI.label>
+	<ATPP_SX2KSurrogateGeneratorAI.description>Erstellt einen Surrogat-Androiden.</ATPP_SX2KSurrogateGeneratorAI.description>
+	<ATPP_SX2KFemaleSurrogateGeneratorAI.label>Weiblicher SX2K-Surrogat-Android</ATPP_SX2KFemaleSurrogateGeneratorAI.label>
+	<ATPP_SX2KFemaleSurrogateGeneratorAI.description>Erstellt einen Surrogat-Androiden.</ATPP_SX2KFemaleSurrogateGeneratorAI.description>
+	<ATPP_SX2KISurrogateGeneratorAI.label>Männlicher SX2KI-Surrogat-Android</ATPP_SX2KISurrogateGeneratorAI.label>
+	<ATPP_SX2KISurrogateGeneratorAI.description>Erstellt einen Surrogat-Androiden.</ATPP_SX2KISurrogateGeneratorAI.description>
+	<ATPP_SX2KIFemaleSurrogateGeneratorAI.label>Weiblicher SX2KI-Surrogat-Android</ATPP_SX2KIFemaleSurrogateGeneratorAI.label>
+	<ATPP_SX2KIFemaleSurrogateGeneratorAI.description>Erstellt einen Surrogat-Androiden.</ATPP_SX2KIFemaleSurrogateGeneratorAI.description>
+	<ATPP_SX3SurrogateGeneratorAI.label>Männlicher SX3-Surrogat-Android</ATPP_SX3SurrogateGeneratorAI.label>
+	<ATPP_SX3SurrogateGeneratorAI.description>Erstellt einen Surrogat-Androiden.</ATPP_SX3SurrogateGeneratorAI.description>
+	<ATPP_SX3FemaleSurrogateGeneratorAI.label>Weiblicher SX3-Surrogat-Android</ATPP_SX3FemaleSurrogateGeneratorAI.label>
+	<ATPP_SX3FemaleSurrogateGeneratorAI.description>Erstellt einen Surrogat-Androiden.</ATPP_SX3FemaleSurrogateGeneratorAI.description>
+	<ATPP_SX3ISurrogateGeneratorAI.label>Männlicher SX3I-Surrogat-Android</ATPP_SX3ISurrogateGeneratorAI.label>
+	<ATPP_SX3ISurrogateGeneratorAI.description>Erstellt einen Surrogat-Androiden.</ATPP_SX3ISurrogateGeneratorAI.description>
+	<ATPP_SX3IFemaleSurrogateGeneratorAI.label>Weiblicher SX3I-Surrogat-Android</ATPP_SX3IFemaleSurrogateGeneratorAI.label>
+	<ATPP_SX3IFemaleSurrogateGeneratorAI.description>Erstellt einen Surrogat-Androiden.</ATPP_SX3IFemaleSurrogateGeneratorAI.description>
+	<ATPP_SX4SurrogateGeneratorAI.label>Männlicher SX4-Surrogat-Android</ATPP_SX4SurrogateGeneratorAI.label>
+	<ATPP_SX4SurrogateGeneratorAI.description>Erstellt einen Surrogat-Androiden.</ATPP_SX4SurrogateGeneratorAI.description>
+	<ATPP_SX4FemaleSurrogateGeneratorAI.label>Weiblicher SX4-Surrogat-Android</ATPP_SX4FemaleSurrogateGeneratorAI.label>
+	<ATPP_SX4FemaleSurrogateGeneratorAI.description>Erstellt einen Surrogat-Androiden.</ATPP_SX4FemaleSurrogateGeneratorAI.description>
+	<ATPP_SX4ISurrogateGeneratorAI.label>Männlicher SX4I-Surrogat-Android</ATPP_SX4ISurrogateGeneratorAI.label>
+	<ATPP_SX4ISurrogateGeneratorAI.description>Erstellt einen Surrogat-Androiden.</ATPP_SX4ISurrogateGeneratorAI.description>
+	<ATPP_SX4IFemaleSurrogateGeneratorAI.label>Weiblicher SX4I-Surrogat-Android</ATPP_SX4IFemaleSurrogateGeneratorAI.label>
+	<ATPP_SX4IFemaleSurrogateGeneratorAI.description>Erstellt einen Surrogat-Androiden.</ATPP_SX4IFemaleSurrogateGeneratorAI.description>
+</LanguageData>

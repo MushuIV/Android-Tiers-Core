@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_ConsciousnessUpload.label>Încărcare a minții</ATPP_ConsciousnessUpload.label>
+  <ATPP_ConsciousnessUpload.labelNoun>încărcare a minții</ATPP_ConsciousnessUpload.labelNoun>
+  <ATPP_NoHost.label>Nicio gazdă conectată</ATPP_NoHost.label>
+  <ATPP_NoHost.labelNoun>Nicio gazdă conectată</ATPP_NoHost.labelNoun>
+  <ATPP_HediffRXChip.label>Cip neural RX</ATPP_HediffRXChip.label>
+  <ATPP_HediffRXChip.labelNoun>Un cip neural care acționează ca un releu SkyMind personal.</ATPP_HediffRXChip.labelNoun>
+  <ATPP_HediffVX0Chip.label>Cip neural VX0</ATPP_HediffVX0Chip.label>
+  <ATPP_HediffVX0Chip.labelNoun>Un cip neural care transformă gazda într-un surogat biologic</ATPP_HediffVX0Chip.labelNoun>
+  <ATPP_HediffVX1Chip.label>Cip neural VX1</ATPP_HediffVX1Chip.label>
+  <ATPP_HediffVX1Chip.labelNoun>Cip neural VX1</ATPP_HediffVX1Chip.labelNoun>
+  <ATPP_HediffVX2Chip.label>Cip neural VX2</ATPP_HediffVX2Chip.label>
+  <ATPP_HediffVX2Chip.labelNoun>Cip neural VX2</ATPP_HediffVX2Chip.labelNoun>
+  <ATPP_HediffVX3Chip.label>Cip neural VX3</ATPP_HediffVX3Chip.label>
+  <ATPP_HediffVX3Chip.labelNoun>Cip neural VX3</ATPP_HediffVX3Chip.labelNoun>
+  <ATPP_InRemoteControlMode.label>Mod de control de la distanță activat</ATPP_InRemoteControlMode.label>
+  <ATPP_InRemoteControlMode.labelNoun>Mod de control de la distanță activat</ATPP_InRemoteControlMode.labelNoun>
+  <ATPP_RemotelyControlled.label>Controlat de la distanță</ATPP_RemotelyControlled.label>
+  <ATPP_RemotelyControlled.labelNoun>Controlat de la distanță</ATPP_RemotelyControlled.labelNoun>
+  <ATPP_SolarFlareAndroidImpact.label>Erupție solară</ATPP_SolarFlareAndroidImpact.label>
+  <ATPP_SolarFlareAndroidImpact.labelNoun>Erupție solară</ATPP_SolarFlareAndroidImpact.labelNoun>
+  <ATPP_LowNetworkSignal.label>Semnal slab al rețelei SkyMind</ATPP_LowNetworkSignal.label>
+  <ATPP_LowNetworkSignal.labelNoun>Semnal slab al rețelei SkyMind</ATPP_LowNetworkSignal.labelNoun>
+  <ATPP_Rusted.label>Ruginit</ATPP_Rusted.label>
+  <ATPP_Rusted.labelNoun>Ruginit</ATPP_Rusted.labelNoun>
+  <ATPP_BlankAndroid.label>Rețea neurală goală</ATPP_BlankAndroid.label>
+  <ATPP_BlankAndroid.labelNoun>Rețea neurală goală</ATPP_BlankAndroid.labelNoun>
+  <ATPP_SurrogateInit.label>Inițializare conexiune</ATPP_SurrogateInit.label>
+  <ATPP_SurrogateInit.labelNoun>Inițializare conexiune</ATPP_SurrogateInit.labelNoun>
+  <ATPP_AssistingMinds.label>Minți de asistență din nucleele SkyCloud</ATPP_AssistingMinds.label>
+  <ATPP_AssistingMinds.labelNoun>Minți de asistență din nucleele SkyCloud</ATPP_AssistingMinds.labelNoun>
+  <DecayedFrame.label>unitate centrală în degradare</DecayedFrame.label>
+  <DecayedFrame.labelNoun>o unitate centrală în degradare</DecayedFrame.labelNoun>
+  <CorruptMemory.label>memorie coruptă</CorruptMemory.label>
+  <WeakValves.label>valve slăbite</WeakValves.label>
+  <ExaggeratedHealing.label>reacție hiperactivă</ExaggeratedHealing.label>
+  <FaultyPump.label>pompă defectă</FaultyPump.label>
+  <FaultyPump.labelNoun>o pompă defectă</FaultyPump.labelNoun>
+  <ShutdownAndroid.label>scos din uz</ShutdownAndroid.label>
+  <ShutdownAndroid.description>Nucleu IA oprit definitiv și șters complet.</ShutdownAndroid.description>
+  <RebootingSequenceAT.label>Repornire</RebootingSequenceAT.label>
+  <RebootingSequenceAT.description>Secvență de repornire activă în nucleul IA.</RebootingSequenceAT.description>
+  <NoFreeWillAT.label>lipsit de sentimente</NoFreeWillAT.label>
+  <NoFreeWillAT.labelNoun>lipsit de sentimente</NoFreeWillAT.labelNoun>
+  <NoFreeWillAT.description>Modificări ale sectoarelor de moralitate și răspuns emoțional ale nucleului IA, rezultând o dispoziție complet neutră și lipsa funcțiilor superioare.</NoFreeWillAT.description>
+  <FreshReprogramming.label>reprogramat recent</FreshReprogramming.label>
+  <FreshReprogramming.description>Nucleu IA reprogramat recent. Compilarea și autocorectarea noului software pot cauza abilități reduse.</FreshReprogramming.description>
+  <OverclockedAndroid.label>supratactat</OverclockedAndroid.label>
+  <OverclockedAndroid.labelNoun>o îmbunătățire de supratactare</OverclockedAndroid.labelNoun>
+  <OverclockedAndroid.description>Sectoarele de procesare ale nucleului IA al androidului au fost accelerate, rezultând calcule mai rapide, dar și o sarcină crescută asupra componentelor.</OverclockedAndroid.description>
+  <BatteryChargeMech.label>Baterie</BatteryChargeMech.label>
+  <BatteryChargeMech.description>Autonomia rămasă a bateriei înainte de oprire</BatteryChargeMech.description>
+  <AndroidCoolantLoss.label>pierdere de lichid de răcire</AndroidCoolantLoss.label>
+  <AndroidCoolantLoss.description>Pierdere de lichid de răcire în conductele interne, rezultând o capacitate de răcire redusă și supraîncălzirea componentelor interne.</AndroidCoolantLoss.description>
+  <AndroidOverheating.label>supraîncălzire</AndroidOverheating.label>
+  <AndroidFreezing.label>Înghețare</AndroidFreezing.label>
+  <PlatingSteel.label>Cadru din oțel</PlatingSteel.label>
+  <PlatingSteel.labelNoun>o structură de bază din oțel</PlatingSteel.labelNoun>
+  <PlatingSteel.description>Un cadru din oțel instalat.</PlatingSteel.description>
+  <PlatingPlasteel.label>înveliș de cadru din plastoțel</PlatingPlasteel.label>
+  <PlatingPlasteel.labelNoun>învelișuri rezistente de cadru din plastoțel</PlatingPlasteel.labelNoun>
+  <PlatingPlasteel.description>Un înveliș de cadru din plastoțel instalat.</PlatingPlasteel.description>
+  <PlatingComposite.label>blindaj compozit pentru cadru</PlatingComposite.label>
+  <PlatingComposite.labelNoun>blindaj compozit de înaltă rezistență</PlatingComposite.labelNoun>
+  <PlatingComposite.description>Blindaj compozit pentru cadru instalat.</PlatingComposite.description>
+  <MiningArm_AT.label>braț de minare</MiningArm_AT.label>
+  <MiningArm_AT.labelNoun>un braț de minare</MiningArm_AT.labelNoun>
+  <MiningArm_AT.description>Un braț de minare instalat.</MiningArm_AT.description>
+  <HydraulicFrame.label>cadru hidraulic</HydraulicFrame.label>
+  <HydraulicFrame.labelNoun>un cadru hidraulic</HydraulicFrame.labelNoun>
+  <HydraulicFrame.description>Un cadru hidraulic instalat.</HydraulicFrame.description>
+  <HydraulicLeg.label>picior hidraulic</HydraulicLeg.label>
+  <HydraulicLeg.labelNoun>un picior hidraulic</HydraulicLeg.labelNoun>
+  <HydraulicLeg.description>Un picior hidraulic instalat.</HydraulicLeg.description>
+  <HydraulicArm.label>braț hidraulic</HydraulicArm.label>
+  <HydraulicArm.labelNoun>un braț hidraulic</HydraulicArm.labelNoun>
+  <HydraulicArm.description>Un braț hidraulic instalat.</HydraulicArm.description>
+  <MakeshiftRLeg.label>picior de înlocuire improvizat</MakeshiftRLeg.label>
+  <MakeshiftRLeg.labelNoun>un picior de înlocuire improvizat</MakeshiftRLeg.labelNoun>
+  <MakeshiftRLeg.description>Un picior de înlocuire improvizat instalat.</MakeshiftRLeg.description>
+  <MakeshiftRArm.label>braț de înlocuire improvizat</MakeshiftRArm.label>
+  <MakeshiftRArm.labelNoun>un braț de înlocuire improvizat</MakeshiftRArm.labelNoun>
+  <MakeshiftRArm.description>Un braț de înlocuire improvizat instalat.</MakeshiftRArm.description>
+  <BRArm.label>braț de înlocuire de bază</BRArm.label>
+  <BRArm.labelNoun>un braț de înlocuire de bază</BRArm.labelNoun>
+  <BRArm.description>Un braț de înlocuire de bază instalat.</BRArm.description>
+  <BRLeg.label>picior de înlocuire de bază</BRLeg.label>
+  <BRLeg.labelNoun>un picior de înlocuire de bază</BRLeg.labelNoun>
+  <BRLeg.description>Un picior de înlocuire de bază instalat.</BRLeg.description>
+  <BLReceptor.label>senzor de lumină rudimentar</BLReceptor.label>
+  <BLReceptor.labelNoun>un senzor de lumină rudimentar</BLReceptor.labelNoun>
+  <BLReceptor.description>Un senzor de lumină rudimentar instalat.</BLReceptor.description>
+  <BHeatsink.label>radiator rudimentar</BHeatsink.label>
+  <BHeatsink.labelNoun>un radiator rudimentar</BHeatsink.labelNoun>
+  <BHeatsink.description>Un radiator rudimentar instalat.</BHeatsink.description>
+  <BCoolantPump.label>pompă de răcire rudimentară</BCoolantPump.label>
+  <BCoolantPump.labelNoun>o pompă de răcire rudimentară</BCoolantPump.labelNoun>
+  <BCoolantPump.description>O pompă de răcire rudimentară instalată.</BCoolantPump.description>
+  <BBattery.label>pachet de baterii rudimentar</BBattery.label>
+  <BBattery.labelNoun>un pachet de baterii rudimentar</BBattery.labelNoun>
+  <BBattery.description>Un pachet de baterii rudimentar instalat.</BBattery.description>
+  <BMStorage.label>depozit rudimentar de mecanite</BMStorage.label>
+  <BMStorage.labelNoun>depozit rudimentar de mecanite</BMStorage.labelNoun>
+  <BMStorage.description>Un depozit rudimentar de mecanite instalat.</BMStorage.description>
+  <BTransformer.label>bioreactor rudimentar</BTransformer.label>
+  <BTransformer.labelNoun>un bioreactor rudimentar</BTransformer.labelNoun>
+  <BTransformer.description>Un bioreactor rudimentar instalat.</BTransformer.description>
+  <BVAdapter.label>convertor de energie rudimentar</BVAdapter.label>
+  <BVAdapter.labelNoun>un convertor de energie rudimentar</BVAdapter.labelNoun>
+  <BVAdapter.description>Un convertor de energie rudimentar instalat.</BVAdapter.description>
+  <BasicRearCounterweight.label>contragreutate de bază</BasicRearCounterweight.label>
+  <BasicRearCounterweight.labelNoun>o contragreutate de bază</BasicRearCounterweight.labelNoun>
+  <BasicRearCounterweight.description>O contragreutate de bază instalată.</BasicRearCounterweight.description>
+  <CrudeJawAndroid.label>maxilar rudimentar</CrudeJawAndroid.label>
+  <CrudeJawAndroid.labelNoun>un maxilar rudimentar</CrudeJawAndroid.labelNoun>
+  <CrudeJawAndroid.description>Un maxilar rudimentar instalat.</CrudeJawAndroid.description>
+  <ARArm.label>braț de mare putere</ARArm.label>
+  <ARArm.labelNoun>un braț de mare putere</ARArm.labelNoun>
+  <ARArm.description>Un braț de mare putere instalat.</ARArm.description>
+  <ARLeg.label>picior de mare putere</ARLeg.label>
+  <ARLeg.labelNoun>un picior de mare putere</ARLeg.labelNoun>
+  <ARLeg.description>Un picior de mare putere instalat.</ARLeg.description>
+  <ALReceptor.label>senzor de lumină avansat</ALReceptor.label>
+  <ALReceptor.labelNoun>un senzor de lumină avansat</ALReceptor.labelNoun>
+  <ALReceptor.description>Un senzor de lumină avansat instalat.</ALReceptor.description>
+  <AHeatsink.label>radiator avansat</AHeatsink.label>
+  <AHeatsink.labelNoun>un radiator avansat</AHeatsink.labelNoun>
+  <AHeatsink.description>Un radiator avansat instalat.</AHeatsink.description>
+  <ACoolantPump.label>pompă de răcire avansată</ACoolantPump.label>
+  <ACoolantPump.labelNoun>o pompă de răcire avansată</ACoolantPump.labelNoun>
+  <ACoolantPump.description>O pompă de răcire avansată instalată.</ACoolantPump.description>
+  <ABattery.label>pachet de baterii avansat</ABattery.label>
+  <ABattery.labelNoun>un pachet de baterii avansat</ABattery.labelNoun>
+  <ABattery.description>Un pachet de baterii avansat instalat.</ABattery.description>
+  <AMStorage.label>depozit avansat de mecanite</AMStorage.label>
+  <AMStorage.labelNoun>depozit avansat de mecanite</AMStorage.labelNoun>
+  <AMStorage.description>Depozit avansat de mecanite instalat.</AMStorage.description>
+  <ATransformer.label>bioreactor avansat</ATransformer.label>
+  <ATransformer.labelNoun>un bioreactor avansat</ATransformer.labelNoun>
+  <ATransformer.description>Un bioreactor avansat instalat.</ATransformer.description>
+  <AVAdapter.label>convertor de energie avansat</AVAdapter.label>
+  <AVAdapter.labelNoun>un convertor de energie avansat</AVAdapter.labelNoun>
+  <AVAdapter.description>Un convertor de energie avansat instalat.</AVAdapter.description>
+  <AdvRearCounterweight.label>contragreutate giroscopică</AdvRearCounterweight.label>
+  <AdvRearCounterweight.labelNoun>o contragreutate giroscopică</AdvRearCounterweight.labelNoun>
+  <AdvRearCounterweight.description>O contragreutate giroscopică instalată.</AdvRearCounterweight.description>
+  <AdvJawAndroid.label>maxilar cibernetic</AdvJawAndroid.label>
+  <AdvJawAndroid.labelNoun>un maxilar cibernetic</AdvJawAndroid.labelNoun>
+  <AdvJawAndroid.description>Un maxilar cibernetic instalat.</AdvJawAndroid.description>
+  <PositronMind.label>Recablare pozitronică</PositronMind.label>
+  <PositronMind.labelNoun>o recablare pozitronică</PositronMind.labelNoun>
+  <PositronMind.description>Recablare pozitronică instalată.</PositronMind.description>
+  <SoldierMind.label>Îmbunătățire de soldat</SoldierMind.label>
+  <SoldierMind.labelNoun>o îmbunătățire de soldat</SoldierMind.labelNoun>
+  <SoldierMind.description>O îmbunătățire de soldat instalată.</SoldierMind.description>
+  <BuilderMind.label>Bănci de planuri</BuilderMind.label>
+  <BuilderMind.labelNoun>o bancă de planuri</BuilderMind.labelNoun>
+  <BuilderMind.description>O bancă de planuri instalată.</BuilderMind.description>
+  <SurgeonMind.label>Tricorder implantat</SurgeonMind.label>
+  <SurgeonMind.labelNoun>un tricorder implantat</SurgeonMind.labelNoun>
+  <SurgeonMind.description>Un tricorder implantat.</SurgeonMind.description>
+  <SpeedMind.label>Autostrăzi neurale</SpeedMind.label>
+  <SpeedMind.labelNoun>Autostrăzi neurale</SpeedMind.labelNoun>
+  <SpeedMind.description>Autostrăzi neurale instalate.</SpeedMind.description>
+  <GeoMind.label>Bănci geologice</GeoMind.label>
+  <GeoMind.labelNoun>o bancă geologică</GeoMind.labelNoun>
+  <GeoMind.description>O bancă geologică instalată.</GeoMind.description>
+  <MechanicMind.label>Implant de inginerie</MechanicMind.label>
+  <MechanicMind.labelNoun>un implant de inginerie</MechanicMind.labelNoun>
+  <MechanicMind.description>Un implant de inginerie instalat.</MechanicMind.description>
+  <CookingMind.label>Implant culinar</CookingMind.label>
+  <CookingMind.labelNoun>un implant culinar</CookingMind.labelNoun>
+  <CookingMind.description>Un implant culinar instalat.</CookingMind.description>
+  <CharismaMind.label>Implant de carismă</CharismaMind.label>
+  <CharismaMind.labelNoun>un implant de carismă</CharismaMind.labelNoun>
+  <CharismaMind.description>Un implant de carismă instalat.</CharismaMind.description>
+  <NegotiatorMind.label>Implant de negociator</NegotiatorMind.label>
+  <NegotiatorMind.labelNoun>un implant de negociator</NegotiatorMind.labelNoun>
+  <NegotiatorMind.description>Un implant de negociator instalat.</NegotiatorMind.description>
+  <ZoologyMind.label>Implant de zoologie</ZoologyMind.label>
+  <ZoologyMind.labelNoun>un implant de zoologie</ZoologyMind.labelNoun>
+  <ZoologyMind.description>Un implant de zoologie instalat.</ZoologyMind.description>
+  <AgriculturalMind.label>Implant agricol</AgriculturalMind.label>
+  <AgriculturalMind.labelNoun>un implant agricol</AgriculturalMind.labelNoun>
+  <AgriculturalMind.description>Un implant agricol instalat.</AgriculturalMind.description>
+  <UnskilledMind.label>Cip de muncă de bază</UnskilledMind.label>
+  <UnskilledMind.labelNoun>un cip de muncă de bază</UnskilledMind.labelNoun>
+  <UnskilledMind.description>Un cip de muncă de bază instalat.</UnskilledMind.description>
+  <AR2Arm.label>Braț cibernetic</AR2Arm.label>
+  <AR2Arm.labelNoun>un braț cibernetic</AR2Arm.labelNoun>
+  <AR2Arm.description>Un braț cibernetic instalat.</AR2Arm.description>
+  <AR2Leg.label>Picior cibernetic</AR2Leg.label>
+  <AR2Leg.labelNoun>un picior cibernetic</AR2Leg.labelNoun>
+  <AR2Leg.description>Un picior cibernetic instalat.</AR2Leg.description>
+  <AL2Receptor.label>senzor de lumină archotech</AL2Receptor.label>
+  <AL2Receptor.labelNoun>un senzor de lumină archotech</AL2Receptor.labelNoun>
+  <AL2Receptor.description>Un senzor de lumină archotech instalat.</AL2Receptor.description>
+  <A2Heatsink.label>radiator archotech</A2Heatsink.label>
+  <A2Heatsink.labelNoun>un radiator archotech</A2Heatsink.labelNoun>
+  <A2Heatsink.description>Un radiator archotech instalat.</A2Heatsink.description>
+  <A2CoolantPump.label>pompă de răcire archotech</A2CoolantPump.label>
+  <A2CoolantPump.labelNoun>o pompă de răcire archotech</A2CoolantPump.labelNoun>
+  <A2CoolantPump.description>O pompă de răcire archotech instalată.</A2CoolantPump.description>
+  <A2Battery.label>pachet de baterii archotech</A2Battery.label>
+  <A2Battery.labelNoun>un pachet de baterii archotech</A2Battery.labelNoun>
+  <A2Battery.description>Un pachet de baterii archotech instalat.</A2Battery.description>
+  <A2MStorage.label>depozit de mecanite archotech</A2MStorage.label>
+  <A2MStorage.labelNoun>depozit de mecanite archotech</A2MStorage.labelNoun>
+  <A2MStorage.description>Depozit de mecanite archotech instalat.</A2MStorage.description>
+  <A2Transformer.label>bioreactor archotech</A2Transformer.label>
+  <A2Transformer.labelNoun>un bioreactor archotech</A2Transformer.labelNoun>
+  <A2Transformer.description>Un bioreactor archotech instalat.</A2Transformer.description>
+  <A2VAdapter.label>convertor de energie archotech</A2VAdapter.label>
+  <A2VAdapter.labelNoun>un convertor de energie archotech</A2VAdapter.labelNoun>
+  <A2VAdapter.description>Un convertor de energie archotech instalat.</A2VAdapter.description>
+  <HearingSensorCrude.label>senzor auditiv rudimentar</HearingSensorCrude.label>
+  <HearingSensorCrude.labelNoun>un senzor auditiv rudimentar</HearingSensorCrude.labelNoun>
+  <HearingSensorCrude.description>Un senzor auditiv rudimentar instalat.</HearingSensorCrude.description>
+  <HearingSensorAdv.label>senzor auditiv avansat</HearingSensorAdv.label>
+  <HearingSensorAdv.labelNoun>un senzor auditiv avansat</HearingSensorAdv.labelNoun>
+  <HearingSensorAdv.description>Un senzor auditiv avansat instalat.</HearingSensorAdv.description>
+  <HearingSensorArch.label>senzor auditiv archotech</HearingSensorArch.label>
+  <HearingSensorArch.labelNoun>un senzor auditiv archotech</HearingSensorArch.labelNoun>
+  <HearingSensorArch.description>Un senzor auditiv archotech instalat.</HearingSensorArch.description>
+  <SmellSensorAdv.label>senzor olfactiv avansat</SmellSensorAdv.label>
+  <SmellSensorAdv.labelNoun>un senzor olfactiv avansat</SmellSensorAdv.labelNoun>
+  <SmellSensorAdv.description>Un senzor olfactiv avansat instalat.</SmellSensorAdv.description>
+  <SmellingSensorCrude.label>senzor olfactiv rudimentar</SmellingSensorCrude.label>
+  <SmellingSensorCrude.labelNoun>un senzor olfactiv rudimentar</SmellingSensorCrude.labelNoun>
+  <SmellingSensorCrude.description>Un senzor olfactiv rudimentar instalat.</SmellingSensorCrude.description>
+  <SmellingSensorArch.label>senzor olfactiv archotech</SmellingSensorArch.label>
+  <SmellingSensorArch.labelNoun>un senzor olfactiv archotech</SmellingSensorArch.labelNoun>
+  <SmellingSensorArch.description>Un senzor olfactiv archotech instalat.</SmellingSensorArch.description>
+  <EvolvingMind.label>IA în evoluție</EvolvingMind.label>
+  <EvolvingMind.labelNoun>o IA în evoluție</EvolvingMind.labelNoun>
+  <EvolvingMind.description>O IA în evoluție instalată.</EvolvingMind.description>
+  <AndroidTiers_EmotionlessCard.label>Interacțiuni sociale dezactivate</AndroidTiers_EmotionlessCard.label>
+  <AndroidTiers_EmotionlessCard.labelNoun>Interacțiuni sociale dezactivate</AndroidTiers_EmotionlessCard.labelNoun>
+  <Backstory_PitFighterUpgrade.label>mănuși de luptă</Backstory_PitFighterUpgrade.label>
+  <Backstory_PitFighterUpgrade.labelNoun>o mănușă de luptă</Backstory_PitFighterUpgrade.labelNoun>
+  <Backstory_PitFighterUpgrade.description>O mănușă instalată.</Backstory_PitFighterUpgrade.description>
+  <Backstory_TranscendantAssimilatorUpgrade.label>Mănușă cu plasmă</Backstory_TranscendantAssimilatorUpgrade.label>
+  <Backstory_TranscendantAssimilatorUpgrade.labelNoun>o mănușă cu plasmă</Backstory_TranscendantAssimilatorUpgrade.labelNoun>
+  <Backstory_TranscendantAssimilatorUpgrade.description>O mănușă instalată.</Backstory_TranscendantAssimilatorUpgrade.description>
+  <Backstory_HighCouncilUpgrade.label>Procesare cuantică</Backstory_HighCouncilUpgrade.label>
+  <Backstory_HighCouncilUpgrade.labelNoun>o minte cuantică</Backstory_HighCouncilUpgrade.labelNoun>
+  <Backstory_HighCouncilUpgrade.description>O minte cuantică instalată.</Backstory_HighCouncilUpgrade.description>
+  <SGelhuman.label>Gel structural</SGelhuman.label>
+  <SGelhuman.description>Amestec de aminoacizi și mecanite care circulă prin sânge, extrem de toxic și poate provoca convulsii.</SGelhuman.description>
+  <SGelandroid.label>Gel structural</SGelandroid.label>
+  <SGelandroid.description>Amestec de aminoacizi și mecanite care circulă prin conductele de răcire, ajutând la întreținerea componentelor interne pentru performanță optimă.</SGelandroid.description>
+  <Toxicated.label>Intoxicat</Toxicated.label>
+  <Toxicated.description>Compuși toxici în fluxul sanguin, cauzează dificultăți de respirație și vărsături.</Toxicated.description>
+  <AFreezeandroid.label>Antigel polimeric</AFreezeandroid.label>
+  <AFreezeandroid.description>Antigel pe bază de polimeri în conductele de răcire. Ajută la reglarea temperaturii atât în medii calde, cât și reci.</AFreezeandroid.description>
+  <MechSwarmandroid.label>Roi de mecanite</MechSwarmandroid.label>
+  <MechSwarmandroid.description>Nanomecanite care circulă prin conductele de răcire. Mențin componentele interne la performanță maximă.</MechSwarmandroid.description>
+  <Conversion.label>???</Conversion.label>
+  <Conversion.description>Compuși fractali în fluxul sanguin. Provoacă convulsii, vărsături abundente și ruperea violentă a pielii din cauza inflamației severe a țesuturilor.</Conversion.description>
+  <FractalPillAndroid.label>Îmbunătățire fractală</FractalPillAndroid.label>
+  <FractalPillAndroid.description>Compuși fractali în conductele de răcire. Îmbunătățesc substanțial eficiența și puterea tuturor acțiunilor.</FractalPillAndroid.description>
+  <RegenHumanoid.label>Mono-unguent</RegenHumanoid.label>
+  <RegenHumanoid.description>Solvenți regenerativi activi în fluxul sanguin. Stimulează regenerarea celulară de bază.</RegenHumanoid.description>
+  <RegenAndroid.label>Mono-unguent</RegenAndroid.label>
+  <RegenAndroid.description>Solvenți regenerativi activi în conductele de răcire. Ajută la autorepararea mecanismelor.</RegenAndroid.description>
+  <ATPP_DummyHediff.label>Hediff fictiv</ATPP_DummyHediff.label>
+  <ATPP_DummyHediff.labelNoun>Hediff fictiv</ATPP_DummyHediff.labelNoun>
+
+</LanguageData>

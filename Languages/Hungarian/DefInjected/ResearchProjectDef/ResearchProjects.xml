@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_ResearchSM7.label>SM7 harci mechanoid</ATPP_ResearchSM7.label>
+  <ATPP_ResearchSM7.description>Kutasd ki, hogyan építhetsz SM7 harci mechanoidokat.</ATPP_ResearchSM7.description>
+  <ATPP_ResearchServerI100Serie.label>I100 sorozatú szerverek</ATPP_ResearchServerI100Serie.label>
+  <ATPP_ResearchServerI100Serie.description>Kutasd ki az I100 sorozatú biztonsági, hackelő- és jártasságszerverek építését, amelyek olcsók, de zajosak, nagyok és nem túl hatékonyak.</ATPP_ResearchServerI100Serie.description>
+  <ATPP_ResearchServerI300Serie.label>I300 sorozatú szerverek</ATPP_ResearchServerI300Serie.label>
+  <ATPP_ResearchServerI300Serie.description>Kutasd ki az I300 sorozatú biztonsági, hackelő- és jártasságszerverek építését, amelyek zajosak, de közepes hatékonyságúak.</ATPP_ResearchServerI300Serie.description>
+  <ATPP_ResearchServerI500Serie.label>I500 sorozatú szerverek</ATPP_ResearchServerI500Serie.label>
+  <ATPP_ResearchServerI500Serie.description>Kutasd ki az I500 sorozatú biztonsági, hackelő- és jártasságszerverek építését, amelyek drágák, de nagyon hatékonyak.</ATPP_ResearchServerI500Serie.description>
+  <ATPP_ResearchSkyCloudCore.label>SkyCloud mag</ATPP_ResearchSkyCloudCore.label>
+  <ATPP_ResearchSkyCloudCore.description>Kutasd ki a SkyCloud mag szerverek építését, amelyek nagy teljesítményű szuperszámítógépek; több digitalizált tudatot képesek tárolni, és lehetővé teszik számukra, hogy a SkyMind hálózathoz csatlakozó minden eszközön keresztül kapcsolatba lépjenek a való világgal.</ATPP_ResearchSkyCloudCore.description>
+  <ATPP_ResearchBatteryOverload.label>Akkumulátor túlterhelés</ATPP_ResearchBatteryOverload.label>
+  <ATPP_ResearchBatteryOverload.description>Kutasd ki, hogyan alakíthatod az androidokat sétáló bombákká a belső akkumulátoruk felrobbantásával.</ATPP_ResearchBatteryOverload.description>
+  <ATPP_ResearchVX0Chip.label>VX0 neurális csip</ATPP_ResearchVX0Chip.label>
+  <ATPP_ResearchVX0Chip.description>Kutasd ki a VX0 csip készítését, egy neurális csipet, amely biológiai helyettessé alakítja a gazdatestet.</ATPP_ResearchVX0Chip.description>
+  <ATPP_ResearchCharchingStation.label>Töltőállomás</ATPP_ResearchCharchingStation.label>
+  <ATPP_ResearchCharchingStation.description>Lehetővé teszi akár 8 android egyidejű töltését közvetlenül a belső akkumulátorukon keresztül, a biomassza-generátor helyett.</ATPP_ResearchCharchingStation.description>
+  <ATPP_ResearchCraftBasicNanoKit.label>Alap nanokészlet</ATPP_ResearchCraftBasicNanoKit.label>
+  <ATPP_ResearchCraftBasicNanoKit.description>Lehetővé teszi a sérült androidok javításához szükséges alap nanokészletek elkészítését</ATPP_ResearchCraftBasicNanoKit.description>
+  <ATPP_ResearchCraftIntermediateNanoKit.label>Közepes nanokészlet</ATPP_ResearchCraftIntermediateNanoKit.label>
+  <ATPP_ResearchCraftIntermediateNanoKit.description>Lehetővé teszi a sérült androidok javításához szükséges közepes nanokészletek elkészítését</ATPP_ResearchCraftIntermediateNanoKit.description>
+  <ATPP_ResearchCraftAdvancedNanoKit.label>Fejlett nanokészlet</ATPP_ResearchCraftAdvancedNanoKit.label>
+  <ATPP_ResearchCraftAdvancedNanoKit.description>Lehetővé teszi a sérült androidok javításához szükséges fejlett nanokészletek elkészítését</ATPP_ResearchCraftAdvancedNanoKit.description>
+  <ATPP_ResearchVX1Chip.label>VX1 neurális csip</ATPP_ResearchVX1Chip.label>
+  <ATPP_ResearchVX1Chip.description>Kutasd ki a VX1 csip készítését, egy neurális csipet, amely lehetővé teszi a gazdatest számára bármely SX sorozatú android vagy biológiai helyettes távvezérlését.</ATPP_ResearchVX1Chip.description>
+  <ATPP_ResearchVX2Chip.label>VX2 neurális csip</ATPP_ResearchVX2Chip.label>
+  <ATPP_ResearchVX2Chip.description>Kutasd ki a VX2 csip készítését, egy neurális csipet, amely lehetővé teszi a gazdatest számára bármely SX sorozatú android vagy biológiai helyettes távvezérlését és tudatuk duplikálását/cseréjét.</ATPP_ResearchVX2Chip.description>
+  <ATPP_ResearchVX3Chip.label>VX3 neurális csip</ATPP_ResearchVX3Chip.label>
+  <ATPP_ResearchVX3Chip.description>Kutasd ki a VX3 csip készítését, egy neurális csipet, amely lehetővé teszi a gazdatest számára több SX sorozatú android vagy biológiai helyettes egyidejű távvezérlését és tudatuk duplikálását/cseréjét.</ATPP_ResearchVX3Chip.description>
+  <ATPP_ResearchSkyMindWAN.label>SkyMind V2 antenna</ATPP_ResearchSkyMindWAN.label>
+  <ATPP_ResearchSkyMindWAN.description>Kutasd ki a SkyMind V2 antenna építését, amely alapul szolgál a tudat egyik telepesről a másikra történő átviteléhez, és V2 antennánként akár 15 telepes egyidejű csatlakozását teszi lehetővé.</ATPP_ResearchSkyMindWAN.description>
+  <ATPP_ResearchSkyMindLAN.label>SkyMind V1 antenna</ATPP_ResearchSkyMindLAN.label>
+  <ATPP_ResearchSkyMindLAN.description>Kutasd ki a SkyMind V1 antenna építését, amely alapul szolgál a tudat egyik telepesről a másikra történő átviteléhez, és V1 antennánként akár 3 telepes egyidejű csatlakozását teszi lehetővé.</ATPP_ResearchSkyMindLAN.description>
+  <ATPP_ResearchSurrogateHost.label>SX androidok</ATPP_ResearchSurrogateHost.label>
+  <ATPP_ResearchSurrogateHost.description>Kutasd ki az SX sorozatú androidok építését, amelyek hasonlóak a TX sorozathoz, de mesterséges agyuk helyett fejlett távirányító rendszerrel rendelkeznek.</ATPP_ResearchSurrogateHost.description>
+  <ATPP_ResearchCraftRepairNaniteBanks.label>Öregkori hibák gyógyítása</ATPP_ResearchCraftRepairNaniteBanks.label>
+  <ATPP_ResearchCraftRepairNaniteBanks.description>Lehetővé teszi az androidok öregkori meghibásodásait gyógyító nanitok készítését.</ATPP_ResearchCraftRepairNaniteBanks.description>
+
+</LanguageData>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_T4BlankGeneratorAI.label>Tühi T4 android</ATPP_T4BlankGeneratorAI.label>
+	<ATPP_T4BlankGeneratorAI.description>Loob tühja närvivõrguga androidi</ATPP_T4BlankGeneratorAI.description>
+	<ATPP_T3BlankGeneratorAI.label>Tühi T3 android</ATPP_T3BlankGeneratorAI.label>
+	<ATPP_T3BlankGeneratorAI.description>Loob tühja närvivõrguga androidi</ATPP_T3BlankGeneratorAI.description>
+	<ATPP_Android2KTX.label>TX2K android</ATPP_Android2KTX.label>
+	<ATPP_Android2KTX.description>Prototüüpandroid, mis on mõeldud kasutamiseks eranditult lahinguväljal raskejalaväena; väga vastupidav ja tekitab tõsist lähivõitluskahju, kuid on oma soomuse tõttu üsna aeglane ega suuda täita keerulisi ülesandeid peamiselt võitluseks optimeeritud piiratud protsessori tõttu.</ATPP_Android2KTX.description>
+	<ATPP_Android2KITX.label>TX2KI android</ATPP_Android2KITX.label>
+	<ATPP_Android2KITX.description>Prototüüpandroid (ilma nahata), mis on mõeldud kasutamiseks eranditult lahinguväljal raskejalaväena; väga vastupidav ja tekitab tõsist lähivõitluskahju, kuid on oma soomuse tõttu üsna aeglane ega suuda täita keerulisi ülesandeid peamiselt võitluseks optimeeritud piiratud protsessori tõttu.</ATPP_Android2KITX.description>
+	<ATPP_Android2ITX.label>TX2I android</ATPP_Android2ITX.label>
+	<ATPP_Android2ITX.description>TX2 seeria, mis on ümber ehitatud kasutamiseks lahinguväljal jalaväena T2 asemel, peamiselt tänu hirmule, mida nende iseäralik välimus orgaanilistes vaenlastes tekitab.</ATPP_Android2ITX.description>
+	<ATPP_Android3ITX.label>TX3I android</ATPP_Android3ITX.label>
+	<ATPP_Android3ITX.description>TX3 seeria, mis on ümber ehitatud kasutamiseks lahinguväljal jalaväena T3 asemel, peamiselt tänu hirmule, mida nende iseäralik välimus orgaanilistes vaenlastes tekitab.</ATPP_Android3ITX.description>
+	<ATPP_Android4ITX.label>TX4I android</ATPP_Android4ITX.label>
+	<ATPP_Android4ITX.description>TX4 seeria, mis on ümber ehitatud kasutamiseks lahinguväljal jalaväena T4 asemel, peamiselt tänu hirmule, mida nende iseäralik välimus orgaanilistes vaenlastes tekitab.</ATPP_Android4ITX.description>
+	<ATPP_Android4TX.label>TX4 android</ATPP_Android4TX.label>
+	<ATPP_Android4TX.description>Infiltratsioonimissioonideks loodud T4 eriseeria; selle veidi muudetud T4 eksoskelett on kaetud eluskudedega, mis takistavad roostetamist, parandavad sotsiaalset mõju ning kaitsevad EMP ja päikeseloidete eest, kuid see on tuleohtlikum.</ATPP_Android4TX.description>
+	<ATPP_Android3TX.label>TX3 android</ATPP_Android3TX.label>
+	<ATPP_Android3TX.description>Infiltratsioonimissioonideks loodud T3 eriseeria; selle veidi muudetud T3 eksoskelett on kaetud eluskudedega, mis takistavad roostetamist, parandavad sotsiaalset mõju ning kaitsevad EMP ja päikeseloidete eest, kuid see on tuleohtlikum.</ATPP_Android3TX.description>
+	<ATPP_Android2TX.label>TX2 android</ATPP_Android2TX.label>
+	<ATPP_Android2TX.description>Infiltratsioonimissioonideks loodud T2 eriseeria; selle veidi muudetud T2 eksoskelett on kaetud sünteetilise kumminahaga, mis takistab roostetamist, parandab sotsiaalset mõju ning kaitseb EMP ja päikeseloidete eest, kuid see on tuleohtlikum.</ATPP_Android2TX.description>
+	<ATPP_Android2TX.tools.right_fist.label>parem rusikas</ATPP_Android2TX.tools.right_fist.label>
+	<ATPP_Android2TX.tools.left_fist.label>vasak rusikas</ATPP_Android2TX.tools.left_fist.label>
+	<ATPP_Android2ITX.tools.right_fist.label>parem rusikas</ATPP_Android2ITX.tools.right_fist.label>
+	<ATPP_Android2ITX.tools.left_fist.label>vasak rusikas</ATPP_Android2ITX.tools.left_fist.label>
+	<ATPP_Android2KITX.tools.right_fist.label>parem rusikas</ATPP_Android2KITX.tools.right_fist.label>
+	<ATPP_Android2KITX.tools.left_fist.label>vasak rusikas</ATPP_Android2KITX.tools.left_fist.label>
+	<ATPP_Android2KTX.tools.right_fist.label>parem rusikas</ATPP_Android2KTX.tools.right_fist.label>
+	<ATPP_Android2KTX.tools.left_fist.label>vasak rusikas</ATPP_Android2KTX.tools.left_fist.label>
+	<ATPP_Android3TX.tools.right_fist.label>parem rusikas</ATPP_Android3TX.tools.right_fist.label>
+	<ATPP_Android3TX.tools.left_fist.label>vasak rusikas</ATPP_Android3TX.tools.left_fist.label>
+	<ATPP_Android3ITX.tools.right_fist.label>parem rusikas</ATPP_Android3ITX.tools.right_fist.label>
+	<ATPP_Android3ITX.tools.left_fist.label>vasak rusikas</ATPP_Android3ITX.tools.left_fist.label>
+	<ATPP_Android4TX.tools.right_fist.label>parem rusikas</ATPP_Android4TX.tools.right_fist.label>
+	<ATPP_Android4TX.tools.left_fist.label>vasak rusikas</ATPP_Android4TX.tools.left_fist.label>
+	<ATPP_Android4ITX.tools.right_fist.label>parem rusikas</ATPP_Android4ITX.tools.right_fist.label>
+	<ATPP_Android4ITX.tools.left_fist.label>vasak rusikas</ATPP_Android4ITX.tools.left_fist.label>
+	<ATPP_TX4AndroidGeneratorAI.label>TX4 meessoost android</ATPP_TX4AndroidGeneratorAI.label>
+	<ATPP_TX4AndroidGeneratorAI.description>Loob TX4 – infiltratsioonimissioonideks loodud T4 eriseeria; selle veidi muudetud T4 eksoskelett on kaetud eluskudedega, mis takistavad roostetamist, parandavad sotsiaalset mõju ning kaitsevad EMP ja päikeseloidete eest, kuid see on tuleohtlikum</ATPP_TX4AndroidGeneratorAI.description>
+	<ATPP_TX4FemaleAndroidGeneratorAI.label>TX4 naissoost android</ATPP_TX4FemaleAndroidGeneratorAI.label>
+	<ATPP_TX4FemaleAndroidGeneratorAI.description>Loob TX4 – infiltratsioonimissioonideks loodud T4 eriseeria; selle veidi muudetud T4 eksoskelett on kaetud eluskudedega, mis takistavad roostetamist, parandavad sotsiaalset mõju ning kaitsevad EMP ja päikeseloidete eest, kuid see on tuleohtlikum</ATPP_TX4FemaleAndroidGeneratorAI.description>
+	<ATPP_TX3AndroidGeneratorAI.label>TX3 meessoost android</ATPP_TX3AndroidGeneratorAI.label>
+	<ATPP_TX3AndroidGeneratorAI.description>Loob TX3 – infiltratsioonimissioonideks loodud T3 eriseeria; selle veidi muudetud T3 eksoskelett on kaetud eluskudedega, mis takistavad roostetamist, parandavad sotsiaalset mõju ning kaitsevad EMP ja päikeseloidete eest, kuid see on tuleohtlikum</ATPP_TX3AndroidGeneratorAI.description>
+	<ATPP_TX3FemaleAndroidGeneratorAI.label>TX3 naissoost android</ATPP_TX3FemaleAndroidGeneratorAI.label>
+	<ATPP_TX3FemaleAndroidGeneratorAI.description>Loob TX3 – infiltratsioonimissioonideks loodud T3 eriseeria; selle veidi muudetud T3 eksoskelett on kaetud eluskudedega, mis takistavad roostetamist, parandavad sotsiaalset mõju ning kaitsevad EMP ja päikeseloidete eest, kuid see on tuleohtlikum</ATPP_TX3FemaleAndroidGeneratorAI.description>
+	<ATPP_TX2AndroidGeneratorAI.label>TX2 meessoost android</ATPP_TX2AndroidGeneratorAI.label>
+	<ATPP_TX2AndroidGeneratorAI.description>Loob TX2 – infiltratsioonimissioonideks loodud T2 eriseeria; selle veidi muudetud T2 eksoskelett on kaetud sünteetilise kumminahaga, mis takistab roostetamist, parandab sotsiaalset mõju ning kaitseb EMP ja päikeseloidete eest, kuid see on tuleohtlikum.</ATPP_TX2AndroidGeneratorAI.description>
+	<ATPP_TX2FemaleAndroidGeneratorAI.label>TX2 naissoost android</ATPP_TX2FemaleAndroidGeneratorAI.label>
+	<ATPP_TX2FemaleAndroidGeneratorAI.description>Loob TX2 – infiltratsioonimissioonideks loodud T2 eriseeria; selle veidi muudetud T2 eksoskelett on kaetud sünteetilise kumminahaga, mis takistab roostetamist, parandab sotsiaalset mõju ning kaitseb EMP ja päikeseloidete eest, kuid see on tuleohtlikum.</ATPP_TX2FemaleAndroidGeneratorAI.description>
+	<ATPP_TX2KAndroidGeneratorAI.label>TX2K meessoost android</ATPP_TX2KAndroidGeneratorAI.label>
+	<ATPP_TX2KAndroidGeneratorAI.description>Loob TX2K – prototüüpandroidi, mis on mõeldud kasutamiseks eranditult lahinguväljal raskejalaväena; väga vastupidav ja tekitab tõsist lähivõitluskahju, kuid on oma soomuse tõttu üsna aeglane ega suuda täita keerulisi ülesandeid peamiselt võitluseks optimeeritud piiratud protsessori tõttu.</ATPP_TX2KAndroidGeneratorAI.description>
+	<ATPP_TX2KFemaleAndroidGeneratorAI.label>TX2K naissoost android</ATPP_TX2KFemaleAndroidGeneratorAI.label>
+	<ATPP_TX2KFemaleAndroidGeneratorAI.description>Loob TX2K – prototüüpandroidi, mis on mõeldud kasutamiseks eranditult lahinguväljal raskejalaväena; väga vastupidav ja tekitab tõsist lähivõitluskahju, kuid on oma soomuse tõttu üsna aeglane ega suuda täita keerulisi ülesandeid peamiselt võitluseks optimeeritud piiratud protsessori tõttu.</ATPP_TX2KFemaleAndroidGeneratorAI.description>
+	<ATPP_TX2KIAndroidGeneratorAI.label>TX2KI meessoost android</ATPP_TX2KIAndroidGeneratorAI.label>
+	<ATPP_TX2KIAndroidGeneratorAI.description>Loob TX2KI – prototüüpandroidi, mis on mõeldud kasutamiseks eranditult lahinguväljal raskejalaväena; väga vastupidav ja tekitab tõsist lähivõitluskahju, kuid on oma soomuse tõttu üsna aeglane ega suuda täita keerulisi ülesandeid peamiselt võitluseks optimeeritud piiratud protsessori tõttu.</ATPP_TX2KIAndroidGeneratorAI.description>
+	<ATPP_TX2KIFemaleAndroidGeneratorAI.label>TX2KI naissoost android</ATPP_TX2KIFemaleAndroidGeneratorAI.label>
+	<ATPP_TX2KIFemaleAndroidGeneratorAI.description>Loob TX2KI – prototüüpandroidi, mis on mõeldud kasutamiseks eranditult lahinguväljal raskejalaväena; väga vastupidav ja tekitab tõsist lähivõitluskahju, kuid on oma soomuse tõttu üsna aeglane ega suuda täita keerulisi ülesandeid peamiselt võitluseks optimeeritud piiratud protsessori tõttu.</ATPP_TX2KIFemaleAndroidGeneratorAI.description>
+	<ATPP_TX2IAndroidGeneratorAI.label>TX2I meessoost android</ATPP_TX2IAndroidGeneratorAI.label>
+	<ATPP_TX2IAndroidGeneratorAI.description>Loob TX2I – TX2 seeria, mis on ümber ehitatud kasutamiseks lahinguväljal jalaväena T2 asemel, peamiselt tänu hirmule, mida nende iseäralik välimus vaenlastes tekitab.</ATPP_TX2IAndroidGeneratorAI.description>
+	<ATPP_TX2IFemaleAndroidGeneratorAI.label>TX2I naissoost android</ATPP_TX2IFemaleAndroidGeneratorAI.label>
+	<ATPP_TX2IFemaleAndroidGeneratorAI.description>Loob TX2I – TX2 seeria, mis on ümber ehitatud kasutamiseks lahinguväljal jalaväena T2 asemel, peamiselt tänu hirmule, mida nende iseäralik välimus vaenlastes tekitab.</ATPP_TX2IFemaleAndroidGeneratorAI.description>
+	<ATPP_TX3IAndroidGeneratorAI.label>TX3I meessoost android</ATPP_TX3IAndroidGeneratorAI.label>
+	<ATPP_TX3IAndroidGeneratorAI.description>Loob TX3I – TX3 seeria, mis on ümber ehitatud kasutamiseks lahinguväljal jalaväena T3 asemel, peamiselt tänu hirmule, mida nende iseäralik välimus vaenlastes tekitab.</ATPP_TX3IAndroidGeneratorAI.description>
+	<ATPP_TX3IFemaleAndroidGeneratorAI.label>TX3I naissoost android</ATPP_TX3IFemaleAndroidGeneratorAI.label>
+	<ATPP_TX3IFemaleAndroidGeneratorAI.description>Loob TX3I – TX3 seeria, mis on ümber ehitatud kasutamiseks lahinguväljal jalaväena T3 asemel, peamiselt tänu hirmule, mida nende iseäralik välimus vaenlastes tekitab.</ATPP_TX3IFemaleAndroidGeneratorAI.description>
+	<ATPP_TX4IAndroidGeneratorAI.label>TX4I meessoost android</ATPP_TX4IAndroidGeneratorAI.label>
+	<ATPP_TX4IAndroidGeneratorAI.description>Loob TX4I – TX4 seeria, mis on ümber ehitatud kasutamiseks lahinguväljal jalaväena T4 asemel, peamiselt tänu hirmule, mida nende iseäralik välimus vaenlastes tekitab.</ATPP_TX4IAndroidGeneratorAI.description>
+	<ATPP_TX4IFemaleAndroidGeneratorAI.label>TX4I naissoost android</ATPP_TX4IFemaleAndroidGeneratorAI.label>
+	<ATPP_TX4IFemaleAndroidGeneratorAI.description>Loob TX4I – TX4 seeria, mis on ümber ehitatud kasutamiseks lahinguväljal jalaväena T4 asemel, peamiselt tänu hirmule, mida nende iseäralik välimus vaenlastes tekitab.</ATPP_TX4IFemaleAndroidGeneratorAI.description>
+	<ATPP_GSGeneratorTX2KMale.label>Mitteaktiivne TX2K mees</ATPP_GSGeneratorTX2KMale.label>
+	<ATPP_GSGeneratorTX2KMale.description>Loob surrogaatandroidi.</ATPP_GSGeneratorTX2KMale.description>
+	<ATPP_GSGeneratorTX2KFemale.label>Mitteaktiivne TX2K naine</ATPP_GSGeneratorTX2KFemale.label>
+	<ATPP_GSGeneratorTX2KFemale.description>Loob surrogaatandroidi.</ATPP_GSGeneratorTX2KFemale.description>
+	<ATPP_GSGeneratorTX2KMaleSurrogate.label>Mitteaktiivne TX2K mees</ATPP_GSGeneratorTX2KMaleSurrogate.label>
+	<ATPP_GSGeneratorTX2KMaleSurrogate.description>Loob surrogaatandroidi.</ATPP_GSGeneratorTX2KMaleSurrogate.description>
+	<ATPP_GSGeneratorTX2KFemaleSurrogate.label>Mitteaktiivne TX2K naine</ATPP_GSGeneratorTX2KFemaleSurrogate.label>
+	<ATPP_GSGeneratorTX2KFemaleSurrogate.description>Loob surrogaatandroidi.</ATPP_GSGeneratorTX2KFemaleSurrogate.description>
+	<ATPP_GSGeneratorTX3Male.label>Mitteaktiivne TX3 mees</ATPP_GSGeneratorTX3Male.label>
+	<ATPP_GSGeneratorTX3Male.description>Loob surrogaatandroidi.</ATPP_GSGeneratorTX3Male.description>
+	<ATPP_GSGeneratorTX3Female.label>Mitteaktiivne TX3 naine</ATPP_GSGeneratorTX3Female.label>
+	<ATPP_GSGeneratorTX3Female.description>Loob surrogaatandroidi.</ATPP_GSGeneratorTX3Female.description>
+	<ATPP_GSGeneratorTX3MaleSurrogate.label>Mitteaktiivne TX3 mees</ATPP_GSGeneratorTX3MaleSurrogate.label>
+	<ATPP_GSGeneratorTX3MaleSurrogate.description>Loob surrogaatandroidi.</ATPP_GSGeneratorTX3MaleSurrogate.description>
+	<ATPP_GSGeneratorTX3FemaleSurrogate.label>Mitteaktiivne TX3 naine</ATPP_GSGeneratorTX3FemaleSurrogate.label>
+	<ATPP_GSGeneratorTX3FemaleSurrogate.description>Loob surrogaatandroidi.</ATPP_GSGeneratorTX3FemaleSurrogate.description>
+	<ATPP_GSGeneratorTX4Male.label>Mitteaktiivne TX4 mees</ATPP_GSGeneratorTX4Male.label>
+	<ATPP_GSGeneratorTX4Male.description>Loob surrogaatandroidi.</ATPP_GSGeneratorTX4Male.description>
+	<ATPP_GSGeneratorTX4Female.label>Mitteaktiivne TX4 naine</ATPP_GSGeneratorTX4Female.label>
+	<ATPP_GSGeneratorTX4Female.description>Loob surrogaatandroidi.</ATPP_GSGeneratorTX4Female.description>
+	<ATPP_GSGeneratorTX4MaleSurrogate.label>Mitteaktiivne TX4 mees</ATPP_GSGeneratorTX4MaleSurrogate.label>
+	<ATPP_GSGeneratorTX4MaleSurrogate.description>Loob surrogaatandroidi.</ATPP_GSGeneratorTX4MaleSurrogate.description>
+	<ATPP_GSGeneratorTX4FemaleSurrogate.label>Mitteaktiivne TX4 naine</ATPP_GSGeneratorTX4FemaleSurrogate.label>
+	<ATPP_GSGeneratorTX4FemaleSurrogate.description>Loob surrogaatandroidi.</ATPP_GSGeneratorTX4FemaleSurrogate.description>
+	<ATPP_SX2SurrogateGeneratorAI.label>SX2 meessoost surrogaatandroid</ATPP_SX2SurrogateGeneratorAI.label>
+	<ATPP_SX2SurrogateGeneratorAI.description>Loob surrogaatandroidi.</ATPP_SX2SurrogateGeneratorAI.description>
+	<ATPP_SX2FemaleSurrogateGeneratorAI.label>SX2 naissoost surrogaatandroid</ATPP_SX2FemaleSurrogateGeneratorAI.label>
+	<ATPP_SX2FemaleSurrogateGeneratorAI.description>Loob surrogaatandroidi.</ATPP_SX2FemaleSurrogateGeneratorAI.description>
+	<ATPP_SX2ISurrogateGeneratorAI.label>SX2I meessoost surrogaatandroid</ATPP_SX2ISurrogateGeneratorAI.label>
+	<ATPP_SX2ISurrogateGeneratorAI.description>Loob surrogaatandroidi.</ATPP_SX2ISurrogateGeneratorAI.description>
+	<ATPP_SX2IFemaleSurrogateGeneratorAI.label>SX2I naissoost surrogaatandroid</ATPP_SX2IFemaleSurrogateGeneratorAI.label>
+	<ATPP_SX2IFemaleSurrogateGeneratorAI.description>Loob surrogaatandroidi.</ATPP_SX2IFemaleSurrogateGeneratorAI.description>
+	<ATPP_SX2KSurrogateGeneratorAI.label>SX2K meessoost surrogaatandroid</ATPP_SX2KSurrogateGeneratorAI.label>
+	<ATPP_SX2KSurrogateGeneratorAI.description>Loob surrogaatandroidi.</ATPP_SX2KSurrogateGeneratorAI.description>
+	<ATPP_SX2KFemaleSurrogateGeneratorAI.label>SX2K naissoost surrogaatandroid</ATPP_SX2KFemaleSurrogateGeneratorAI.label>
+	<ATPP_SX2KFemaleSurrogateGeneratorAI.description>Loob surrogaatandroidi.</ATPP_SX2KFemaleSurrogateGeneratorAI.description>
+	<ATPP_SX2KISurrogateGeneratorAI.label>SX2KI meessoost surrogaatandroid</ATPP_SX2KISurrogateGeneratorAI.label>
+	<ATPP_SX2KISurrogateGeneratorAI.description>Loob surrogaatandroidi.</ATPP_SX2KISurrogateGeneratorAI.description>
+	<ATPP_SX2KIFemaleSurrogateGeneratorAI.label>SX2KI naissoost surrogaatandroid</ATPP_SX2KIFemaleSurrogateGeneratorAI.label>
+	<ATPP_SX2KIFemaleSurrogateGeneratorAI.description>Loob surrogaatandroidi.</ATPP_SX2KIFemaleSurrogateGeneratorAI.description>
+	<ATPP_SX3SurrogateGeneratorAI.label>SX3 meessoost surrogaatandroid</ATPP_SX3SurrogateGeneratorAI.label>
+	<ATPP_SX3SurrogateGeneratorAI.description>Loob surrogaatandroidi.</ATPP_SX3SurrogateGeneratorAI.description>
+	<ATPP_SX3FemaleSurrogateGeneratorAI.label>SX3 naissoost surrogaatandroid</ATPP_SX3FemaleSurrogateGeneratorAI.label>
+	<ATPP_SX3FemaleSurrogateGeneratorAI.description>Loob surrogaatandroidi.</ATPP_SX3FemaleSurrogateGeneratorAI.description>
+	<ATPP_SX3ISurrogateGeneratorAI.label>SX3I meessoost surrogaatandroid</ATPP_SX3ISurrogateGeneratorAI.label>
+	<ATPP_SX3ISurrogateGeneratorAI.description>Loob surrogaatandroidi.</ATPP_SX3ISurrogateGeneratorAI.description>
+	<ATPP_SX3IFemaleSurrogateGeneratorAI.label>SX3I naissoost surrogaatandroid</ATPP_SX3IFemaleSurrogateGeneratorAI.label>
+	<ATPP_SX3IFemaleSurrogateGeneratorAI.description>Loob surrogaatandroidi.</ATPP_SX3IFemaleSurrogateGeneratorAI.description>
+	<ATPP_SX4SurrogateGeneratorAI.label>SX4 meessoost surrogaatandroid</ATPP_SX4SurrogateGeneratorAI.label>
+	<ATPP_SX4SurrogateGeneratorAI.description>Loob surrogaatandroidi.</ATPP_SX4SurrogateGeneratorAI.description>
+	<ATPP_SX4FemaleSurrogateGeneratorAI.label>SX4 naissoost surrogaatandroid</ATPP_SX4FemaleSurrogateGeneratorAI.label>
+	<ATPP_SX4FemaleSurrogateGeneratorAI.description>Loob surrogaatandroidi.</ATPP_SX4FemaleSurrogateGeneratorAI.description>
+	<ATPP_SX4ISurrogateGeneratorAI.label>SX4I meessoost surrogaatandroid</ATPP_SX4ISurrogateGeneratorAI.label>
+	<ATPP_SX4ISurrogateGeneratorAI.description>Loob surrogaatandroidi.</ATPP_SX4ISurrogateGeneratorAI.description>
+	<ATPP_SX4IFemaleSurrogateGeneratorAI.label>SX4I naissoost surrogaatandroid</ATPP_SX4IFemaleSurrogateGeneratorAI.label>
+	<ATPP_SX4IFemaleSurrogateGeneratorAI.description>Loob surrogaatandroidi.</ATPP_SX4IFemaleSurrogateGeneratorAI.description>
+</LanguageData>

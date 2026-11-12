@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_ReloadStation.label>Nabíjecí stanice pro androidy</ATPP_ReloadStation.label>
+  <ATPP_ReloadStation.description>Nabíjecí stanice pro androidy, která dokáže pojmout až 8 androidů současně.</ATPP_ReloadStation.description>
+  <ATPP_SkyMindLAN.label>Anténa SkyMind V1</ATPP_SkyMindLAN.label>
+  <ATPP_SkyMindLAN.description>Anténa SkyMind V1 podporuje až 3 současně připojené klienty; vysílá bezdrátovou síť umožňující přenos vědomí jednoho kolonisty do druhého a dálkové ovládání jakéhokoli androida řady SX nebo biologického surogáta.</ATPP_SkyMindLAN.description>
+  <ATPP_SkyMindWAN.label>Anténa SkyMind V2</ATPP_SkyMindWAN.label>
+  <ATPP_SkyMindWAN.description>Anténa SkyMind V2 podporuje až 15 současně připojených klientů; vysílá bezdrátovou síť umožňující přenos vědomí jednoho kolonisty do druhého a dálkové ovládání jakéhokoli androida řady SX nebo biologického surogáta.</ATPP_SkyMindWAN.description>
+  <ATPP_SkyMindRelayTower.label>Přenosová věž SkyMind</ATPP_SkyMindRelayTower.label>
+  <ATPP_SkyMindRelayTower.description>Přenosová věž SkyMind zesiluje signál antén a zabraňuje zhoršování ovládání surogátů na velké vzdálenosti.</ATPP_SkyMindRelayTower.description>
+  <ATPP_I100Security.label>I-100 (Bezpečnostní)</ATPP_I100Security.label>
+  <ATPP_I100Security.description>Firewallový server zajišťující zabezpečení sítě SkyMind proti kyberútokům a virům.</ATPP_I100Security.description>
+  <ATPP_I100Hacking.label>I-100 (Hackerský)</ATPP_I100Hacking.label>
+  <ATPP_I100Hacking.description>Hackerský server umožňující hackovat klienty připojené k síti SkyMind.</ATPP_I100Hacking.description>
+  <ATPP_I100Skill.label>I-100 (Dovednostní)</ATPP_I100Skill.label>
+  <ATPP_I100Skill.description>Dovednostní server umožňující zvyšovat body dovedností androidů připojených k síti SkyMind.</ATPP_I100Skill.description>
+  <ATPP_I300Security.label>I-300 (Bezpečnostní)</ATPP_I300Security.label>
+  <ATPP_I300Security.description>Firewallový server zajišťující zabezpečení sítě SkyMind proti kyberútokům a virům.</ATPP_I300Security.description>
+  <ATPP_I300Hacking.label>I-300 (Hackerský)</ATPP_I300Hacking.label>
+  <ATPP_I300Hacking.description>Hackerský server umožňující hackovat klienty připojené k síti SkyMind.</ATPP_I300Hacking.description>
+  <ATPP_I300Skill.label>I-300 (Dovednostní)</ATPP_I300Skill.label>
+  <ATPP_I300Skill.description>Dovednostní server umožňující zvyšovat body dovedností androidů připojených k síti SkyMind.</ATPP_I300Skill.description>
+  <ATPP_I500Security.label>I-500 (Bezpečnostní)</ATPP_I500Security.label>
+  <ATPP_I500Security.description>Firewallový server zajišťující zabezpečení sítě SkyMind proti kyberútokům a virům.</ATPP_I500Security.description>
+  <ATPP_I500Hacking.label>I-500 (Hackerský)</ATPP_I500Hacking.label>
+  <ATPP_I500Hacking.description>Hackerský server umožňující hackovat klienty připojené k síti SkyMind.</ATPP_I500Hacking.description>
+  <ATPP_I500Skill.label>I-500 (Dovednostní)</ATPP_I500Skill.label>
+  <ATPP_I500Skill.description>Dovednostní server umožňující zvyšovat body dovedností androidů připojených k síti SkyMind.</ATPP_I500Skill.description>
+  <ATPP_AndroidPod.label>Kapsle pro androidy</ATPP_AndroidPod.label>
+  <ATPP_AndroidPod.description>Kapsle pro androidy, ve které lze androidy opravovat, uchovávat při čekání na hostitele (v případě surogátů) a nabíjet, pokud je připojena k elektrické síti.</ATPP_AndroidPod.description>
+  <ATPP_AndroidPodMech.label>Kapsle M7</ATPP_AndroidPodMech.label>
+  <ATPP_AndroidPodMech.description>Obří kapsle, ve které lze mechanoidy M7 opravovat, uchovávat při čekání na hostitele (v případě surogátů) a nabíjet, pokud je připojena k elektrické síti.</ATPP_AndroidPodMech.description>
+  <ATPP_SkyCloudCore.label>Jádro SkyCloud</ATPP_SkyCloudCore.label>
+  <ATPP_SkyCloudCore.description>Superpočítač umožňující ovládat všechna zařízení připojená k síti SkyMind a také nahrávat digitalizovaná vědomí vašich kolonistů do jeho paměti, díky čemuž se stanou téměř nesmrtelnými a vševědoucími.</ATPP_SkyCloudCore.description>
+
+</LanguageData>

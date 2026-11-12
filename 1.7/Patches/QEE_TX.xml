@@ -16,7 +16,7 @@
 							<label>grow synthetic skin gland</label>
 							<description>Cultivate a living bio-synthetic skin gland matrix inside the Questionable Ethics organ vat using organic nutrients and chemical stabilizers.</description>
 							<jobString>Growing synthetic skin gland.</jobString>
-							<workAmount>4500</workAmount>
+							<workAmount>120000</workAmount>
 							<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
 							<effectWorking>Smelt</effectWorking>
 							<soundWorking>Recipe_Machining</soundWorking>
@@ -25,24 +25,24 @@
 								<li>
 									<filter>
 										<thingDefs>
-											<li>Chemfuel</li>
+											<li>QE_NutrientSolution</li>
 										</thingDefs>
 									</filter>
-									<count>30</count>
+									<count>50</count>
 								</li>
 								<li>
 									<filter>
 										<thingDefs>
-											<li>MedicineIndustrial</li>
+											<li>QE_ProteinMash</li>
 										</thingDefs>
 									</filter>
-									<count>2</count>
+									<count>10</count>
 								</li>
 							</ingredients>
 							<fixedIngredientFilter>
 								<thingDefs>
-									<li>Chemfuel</li>
-									<li>MedicineIndustrial</li>
+									<li>QE_NutrientSolution</li>
+									<li>QE_ProteinMash</li>
 								</thingDefs>
 							</fixedIngredientFilter>
 							<products>
@@ -51,6 +51,16 @@
 							<recipeUsers>
 								<li>QE_Building_OrganVat</li>
 							</recipeUsers>
+							<modExtensions>
+								<li Class="QEthics.RecipeGraphicProperties">
+									<productGraphic>
+										<graphicClass>Graphic_Single</graphicClass>
+										<texPath>Effects/Organs/Shinzy_Organ</texPath>
+										<shaderType>MoteGlow</shaderType>
+										<drawRotated>false</drawRotated>
+									</productGraphic>
+								</li>
+							</modExtensions>
 						</RecipeDef>
 					</value>
 				</match>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_NanitesHydraulicSerum.label>Banco de nanitos (hidráulico)</ATPP_NanitesHydraulicSerum.label>
+	<ATPP_NanitesHydraulicSerum.description>Un banco de nanitos de un solo uso calibrado para reparar sistemas hidráulicos de androides averiados (relacionados con la vejez).</ATPP_NanitesHydraulicSerum.description>
+	<ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>Usar este suero de nanitos para reparar problemas de envejecimiento en androides</ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>
+	<ATPP_NanitesCPUSerum.label>Banco de nanitos (CPU)</ATPP_NanitesCPUSerum.label>
+	<ATPP_NanitesCPUSerum.description>Un banco de nanitos de un solo uso calibrado para reparar sistemas de cerebro artificial de androides averiados (relacionados con la vejez).</ATPP_NanitesCPUSerum.description>
+	<ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>Usar este suero de nanitos para reparar problemas de envejecimiento en androides</ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>
+	<ATPP_NanitesCoolingSerum.label>Banco de nanitos (refrigeración)</ATPP_NanitesCoolingSerum.label>
+	<ATPP_NanitesCoolingSerum.description>Un banco de nanitos de un solo uso calibrado para reparar sistemas de refrigeración de androides averiados en caso de sobrecalentamiento (relacionados con la vejez).</ATPP_NanitesCoolingSerum.description>
+	<ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>Usar este suero de nanitos para reparar problemas de envejecimiento en androides</ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>
+	<ATPP_NanitesFrameSerum.label>Banco de nanitos (estructura)</ATPP_NanitesFrameSerum.label>
+	<ATPP_NanitesFrameSerum.description>Un banco de nanitos de un solo uso calibrado para reparar exoesqueletos de androides averiados (relacionados con la vejez).</ATPP_NanitesFrameSerum.description>
+	<ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>Usar este suero de nanitos para reparar problemas de envejecimiento en androides</ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>
+	<ATPP_AndroidNanokitBasic.label>Nanokit básico</ATPP_AndroidNanokitBasic.label>
+	<ATPP_AndroidNanokitBasic.description>Un kit que contiene nanobots para tratar las heridas de los androides.</ATPP_AndroidNanokitBasic.description>
+	<ATPP_AndroidNanokitIntermediate.label>Nanokit intermedio</ATPP_AndroidNanokitIntermediate.label>
+	<ATPP_AndroidNanokitIntermediate.description>Un kit que contiene nanobots para tratar las heridas de los androides.</ATPP_AndroidNanokitIntermediate.description>
+	<ATPP_AndroidNanokitAdvanced.label>Nanokit avanzado</ATPP_AndroidNanokitAdvanced.label>
+	<ATPP_AndroidNanokitAdvanced.description>Un kit que contiene nanobots para tratar las heridas de los androides.</ATPP_AndroidNanokitAdvanced.description>
+	<ATPP_RXChip.label>Chip neural RX</ATPP_RXChip.label>
+	<ATPP_RXChip.description>Un chip neural que actúa como repetidor personal de SkyMind.</ATPP_RXChip.description>
+	<ATPP_VX0Chip.label>Chip neural VX0</ATPP_VX0Chip.label>
+	<ATPP_VX0Chip.description>Un chip neural que transforma a su anfitrión en un sustituto biológico.</ATPP_VX0Chip.description>
+	<ATPP_VX1Chip.label>Chip neural VX1</ATPP_VX1Chip.label>
+	<ATPP_VX1Chip.description>Un chip neural que permite a su anfitrión controlar remotamente cualquier androide de la serie SX o sustituto biológico.</ATPP_VX1Chip.description>
+	<ATPP_VX2Chip.label>Chip neural VX2</ATPP_VX2Chip.label>
+	<ATPP_VX2Chip.description>Un chip neural que permite a su anfitrión controlar remotamente cualquier androide de la serie SX o sustituto biológico y permutar o duplicar su mente.</ATPP_VX2Chip.description>
+	<ATPP_VX3Chip.label>Chip neural VX3</ATPP_VX3Chip.label>
+	<ATPP_VX3Chip.description>Un chip neural que permite a su anfitrión controlar remotamente múltiples androides de la serie SX o sustitutos biológicos al mismo tiempo y permutar o duplicar su mente.</ATPP_VX3Chip.description>
+	<ATPP_T1ArtificialBrain.label>Cerebro artificial T1</ATPP_T1ArtificialBrain.label>
+	<ATPP_T1ArtificialBrain.description>Un cerebro artificial T1 que permite transformar un sustituto T1 en un androide con red neuronal en blanco.</ATPP_T1ArtificialBrain.description>
+	<ATPP_T2ArtificialBrain.label>Cerebro artificial T2</ATPP_T2ArtificialBrain.label>
+	<ATPP_T2ArtificialBrain.description>Un cerebro artificial T2 que permite transformar un sustituto T2 en un androide con red neuronal en blanco.</ATPP_T2ArtificialBrain.description>
+	<ATPP_T3ArtificialBrain.label>Cerebro artificial T3</ATPP_T3ArtificialBrain.label>
+	<ATPP_T3ArtificialBrain.description>Un cerebro artificial T3 que permite transformar un sustituto T3 en un androide con red neuronal en blanco.</ATPP_T3ArtificialBrain.description>
+	<ATPP_T4ArtificialBrain.label>Cerebro artificial T4</ATPP_T4ArtificialBrain.label>
+	<ATPP_T4ArtificialBrain.description>Un cerebro artificial T4 que permite transformar un sustituto T4 en un androide con red neuronal en blanco.</ATPP_T4ArtificialBrain.description>
+	<ATPP_SyntheticSkinGland.label>glándula de piel sintética</ATPP_SyntheticSkinGland.label>
+	<ATPP_SyntheticSkinGland.description>Un órgano biosintético avanzado compuesto por una matriz epidérmica latente y microconductos de nutrientes. Al injertarse en un chasis de combate de la serie TX o integrarse durante el ensamblaje en cuba, se expande y se une a la carcasa subdérmica, proporcionando aislamiento térmico similar al humano, respuesta sensorial táctil y camuflaje de piel realista.</ATPP_SyntheticSkinGland.description>
+	<ATPP_GS_TX2KMale.label>Armazón TX2K masculino</ATPP_GS_TX2KMale.label>
+	<ATPP_GS_TX2KMale.description>Un exoesqueleto funcional TX2K inactivo esperando a ser activado en una cuba cuando su piel haya crecido.</ATPP_GS_TX2KMale.description>
+	<ATPP_GS_TX2KFemale.label>Armazón TX2K femenino</ATPP_GS_TX2KFemale.label>
+	<ATPP_GS_TX2KFemale.description>Un exoesqueleto funcional TX2K inactivo esperando a ser activado en una cuba cuando su piel haya crecido.</ATPP_GS_TX2KFemale.description>
+	<ATPP_GS_TX3Male.label>Armazón TX3 masculino</ATPP_GS_TX3Male.label>
+	<ATPP_GS_TX3Male.description>Un exoesqueleto funcional TX3 inactivo esperando a ser activado en una cuba cuando su piel haya crecido.</ATPP_GS_TX3Male.description>
+	<ATPP_GS_TX3Female.label>Armazón TX3 femenino</ATPP_GS_TX3Female.label>
+	<ATPP_GS_TX3Female.description>Un exoesqueleto funcional TX3 inactivo esperando a ser activado en una cuba cuando su piel haya crecido.</ATPP_GS_TX3Female.description>
+	<ATPP_GS_TX4Male.label>Armazón TX4 masculino</ATPP_GS_TX4Male.label>
+	<ATPP_GS_TX4Male.description>Un exoesqueleto funcional TX4 inactivo esperando a ser activado en una cuba cuando su piel haya crecido.</ATPP_GS_TX4Male.description>
+	<ATPP_GS_TX4Female.label>Armazón TX4 femenino</ATPP_GS_TX4Female.label>
+	<ATPP_GS_TX4Female.description>Un exoesqueleto funcional TX4 inactivo esperando a ser activado en una cuba cuando su piel haya crecido.</ATPP_GS_TX4Female.description>
+</LanguageData>

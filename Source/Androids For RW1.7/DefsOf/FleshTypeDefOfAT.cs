@@ -5,8 +5,13 @@ using RimWorld;
 namespace MOARANDROIDS
 {
     [DefOf]
-    class FleshTypeDefOfAT
+    public static class FleshTypeDefOfAT
     {
+        static FleshTypeDefOfAT()
+        {
+            DefOfHelper.EnsureInitializedInCtor(typeof(FleshTypeDefOfAT));
+        }
+
         public static FleshTypeDef AndroidTier;
     }
 }

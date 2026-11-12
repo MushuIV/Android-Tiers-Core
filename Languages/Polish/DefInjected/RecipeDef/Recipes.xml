@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_DisassembleAndroid.label>Rozmontuj martwego androida</ATPP_DisassembleAndroid.label>
+  <ATPP_DisassembleAndroid.description>Rozmontuj martwego androida na części składowe.</ATPP_DisassembleAndroid.description>
+  <ATPP_DisassembleAndroid.jobString>Rozmontowywanie androida.</ATPP_DisassembleAndroid.jobString>
+  <ATPP_Make_NanitesHydraulicSerum.label>Wytwórz bank nanitów (hydraulika)</ATPP_Make_NanitesHydraulicSerum.label>
+  <ATPP_Make_NanitesHydraulicSerum.description>Wytwórz serum nanitowe do układów hydraulicznych, umożliwiające naprawę androidów (uszkodzeń starczych).</ATPP_Make_NanitesHydraulicSerum.description>
+  <ATPP_Make_NanitesHydraulicSerum.jobString>Wytwarzanie serum nanitowego dla androida.</ATPP_Make_NanitesHydraulicSerum.jobString>
+  <ATPP_Make_NanitesCPUSerum.label>Wytwórz bank nanitów (CPU)</ATPP_Make_NanitesCPUSerum.label>
+  <ATPP_Make_NanitesCPUSerum.description>Wytwórz serum nanitowe do CPU, umożliwiające naprawę procesora androida (uszkodzeń starczych).</ATPP_Make_NanitesCPUSerum.description>
+  <ATPP_Make_NanitesCPUSerum.jobString>Wytwarzanie serum nanitowego dla androida.</ATPP_Make_NanitesCPUSerum.jobString>
+  <ATPP_Make_NanitesCoolingSerum.label>Wytwórz bank nanitów (chłodzenie)</ATPP_Make_NanitesCoolingSerum.label>
+  <ATPP_Make_NanitesCoolingSerum.description>Wytwórz serum nanitowe do układu chłodzenia, umożliwiające naprawę chłodzenia androida (uszkodzeń starczych).</ATPP_Make_NanitesCoolingSerum.description>
+  <ATPP_Make_NanitesCoolingSerum.jobString>Wytwarzanie serum nanitowego dla androida.</ATPP_Make_NanitesCoolingSerum.jobString>
+  <ATPP_Make_NanitesFrameSerum.label>Wytwórz bank nanitów (szkielet)</ATPP_Make_NanitesFrameSerum.label>
+  <ATPP_Make_NanitesFrameSerum.description>Wytwórz serum nanitowe do szkieletu, umożliwiające naprawę endoszkieletu androida (uszkodzeń starczych).</ATPP_Make_NanitesFrameSerum.description>
+  <ATPP_Make_NanitesFrameSerum.jobString>Wytwarzanie serum nanitowego dla androida.</ATPP_Make_NanitesFrameSerum.jobString>
+  <ATPP_Make_RXChip.label>Wytwórz chip neuronowy RX</ATPP_Make_RXChip.label>
+  <ATPP_Make_RXChip.description>Chip neuronowy pełniący rolę osobistego przekaźnika SkyMind.</ATPP_Make_RXChip.description>
+  <ATPP_Make_RXChip.jobString>Wytwarzanie chipu neuronowego RX.</ATPP_Make_RXChip.jobString>
+  <ATPP_Make_VX0Chip.label>Wytwórz chip neuronowy VX0</ATPP_Make_VX0Chip.label>
+  <ATPP_Make_VX0Chip.description>Wytwórz chip VX0 — chip neuronowy przekształcający nosiciela w biologicznego surogata.</ATPP_Make_VX0Chip.description>
+  <ATPP_Make_VX0Chip.jobString>Wytwarzanie chipu neuronowego VX0.</ATPP_Make_VX0Chip.jobString>
+  <ATPP_Make_VX1Chip.label>Wytwórz chip neuronowy VX1</ATPP_Make_VX1Chip.label>
+  <ATPP_Make_VX1Chip.description>Wytwórz chip VX1, pozwalający nosicielowi zdalnie sterować dowolnym androidem serii SX lub biologicznym surogatem.</ATPP_Make_VX1Chip.description>
+  <ATPP_Make_VX1Chip.jobString>Wytwarzanie chipu neuronowego VX1.</ATPP_Make_VX1Chip.jobString>
+  <ATPP_Make_VX2Chip.label>Wytwórz chip neuronowy VX2</ATPP_Make_VX2Chip.label>
+  <ATPP_Make_VX2Chip.description>Wytwórz chip VX2, pozwalający nosicielowi zdalnie sterować dowolnym androidem serii SX lub biologicznym surogatem oraz duplikować/permutować swoją świadomość.</ATPP_Make_VX2Chip.description>
+  <ATPP_Make_VX2Chip.jobString>Wytwarzanie chipu neuronowego VX2.</ATPP_Make_VX2Chip.jobString>
+  <ATPP_Make_VX3Chip.label>Wytwórz chip neuronowy VX3</ATPP_Make_VX3Chip.label>
+  <ATPP_Make_VX3Chip.description>Wytwórz chip VX3, pozwalający nosicielowi zdalnie sterować wieloma androidami serii SX lub biologicznymi surogatami jednocześnie oraz duplikować/permutować swoją świadomość.</ATPP_Make_VX3Chip.description>
+  <ATPP_Make_VX3Chip.jobString>Wytwarzanie chipu neuronowego VX3.</ATPP_Make_VX3Chip.jobString>
+  <ATPP_InstallVX2Chip.label>Zainstaluj chip neuronowy VX2</ATPP_InstallVX2Chip.label>
+  <ATPP_InstallVX2Chip.description>Zainstaluj chip neuronowy VX2, pozwalający nosicielowi zdalnie sterować dowolnym androidem serii SX lub biologicznym surogatem oraz duplikować/permutować swoją świadomość.</ATPP_InstallVX2Chip.description>
+  <ATPP_InstallVX2Chip.jobString>Instalowanie chipu neuronowego VX2.</ATPP_InstallVX2Chip.jobString>
+  <ATPP_InstallVX2ChipOnAndroid.label>Zainstaluj chip neuronowy VX2 dla androida</ATPP_InstallVX2ChipOnAndroid.label>
+  <ATPP_InstallVX2ChipOnAndroid.description>Zainstaluj chip neuronowy VX2 dla androida, pozwalający nosicielowi zdalnie sterować dowolnym androidem serii SX lub biologicznym surogatem oraz duplikować/permutować swoją świadomość.</ATPP_InstallVX2ChipOnAndroid.description>
+  <ATPP_InstallVX2ChipOnAndroid.jobString>Instalowanie chipu neuronowego VX2 dla androida.</ATPP_InstallVX2ChipOnAndroid.jobString>
+  <ATPP_InstallVX3Chip.label>Zainstaluj chip neuronowy VX3</ATPP_InstallVX3Chip.label>
+  <ATPP_InstallVX3Chip.description>Zainstaluj chip neuronowy VX3, pozwalający nosicielowi zdalnie sterować wieloma androidami serii SX lub biologicznymi surogatami jednocześnie oraz duplikować/permutować swoją świadomość.</ATPP_InstallVX3Chip.description>
+  <ATPP_InstallVX3Chip.jobString>Instalowanie chipu neuronowego VX3.</ATPP_InstallVX3Chip.jobString>
+  <ATPP_InstallVX3ChipOnAndroid.label>Zainstaluj chip neuronowy VX3 dla androida</ATPP_InstallVX3ChipOnAndroid.label>
+  <ATPP_InstallVX3ChipOnAndroid.description>Zainstaluj chip neuronowy VX3 dla androida, pozwalający nosicielowi zdalnie sterować wieloma androidami serii SX lub biologicznymi surogatami jednocześnie oraz duplikować/permutować swoją świadomość.</ATPP_InstallVX3ChipOnAndroid.description>
+  <ATPP_InstallVX3ChipOnAndroid.jobString>Instalowanie chipu neuronowego VX3 dla androida.</ATPP_InstallVX3ChipOnAndroid.jobString>
+  <ATPP_InstallRXChip.label>Zainstaluj chip neuronowy RX</ATPP_InstallRXChip.label>
+  <ATPP_InstallRXChip.description>Zainstaluj chip neuronowy RX — chip pełniący rolę osobistego przekaźnika SkyMind dla nosiciela.</ATPP_InstallRXChip.description>
+  <ATPP_InstallRXChip.jobString>Instalowanie chipu neuronowego RX.</ATPP_InstallRXChip.jobString>
+  <ATPP_InstallRXChipOnAndroid.label>Zainstaluj chip neuronowy RX</ATPP_InstallRXChipOnAndroid.label>
+  <ATPP_InstallRXChipOnAndroid.description>Zainstaluj chip neuronowy RX — chip pełniący rolę osobistego przekaźnika SkyMind dla nosiciela.</ATPP_InstallRXChipOnAndroid.description>
+  <ATPP_InstallRXChipOnAndroid.jobString>Instalowanie chipu neuronowego RX.</ATPP_InstallRXChipOnAndroid.jobString>
+  <ATPP_InstallVX0ChipOnAndroid.label>Zainstaluj chip neuronowy VX0 dla androida</ATPP_InstallVX0ChipOnAndroid.label>
+  <ATPP_InstallVX0ChipOnAndroid.description>Zainstaluj chip neuronowy VX0 dla androida — chip neuronowy przekształcający nosiciela w biologicznego surogata.</ATPP_InstallVX0ChipOnAndroid.description>
+  <ATPP_InstallVX0ChipOnAndroid.jobString>Instalowanie chipu neuronowego VX0 dla androida.</ATPP_InstallVX0ChipOnAndroid.jobString>
+  <ATPP_InstallVX0Chip.label>Zainstaluj chip neuronowy VX0</ATPP_InstallVX0Chip.label>
+  <ATPP_InstallVX0Chip.description>Zainstaluj chip neuronowy VX0 — chip neuronowy przekształcający nosiciela w biologicznego surogata.</ATPP_InstallVX0Chip.description>
+  <ATPP_InstallVX0Chip.jobString>Instalowanie chipu neuronowego VX0.</ATPP_InstallVX0Chip.jobString>
+  <ATPP_InstallVX1Chip.label>Zainstaluj chip neuronowy VX1</ATPP_InstallVX1Chip.label>
+  <ATPP_InstallVX1Chip.description>Zainstaluj chip neuronowy VX1, pozwalający nosicielowi zdalnie sterować dowolnym androidem serii SX lub biologicznym surogatem.</ATPP_InstallVX1Chip.description>
+  <ATPP_InstallVX1Chip.jobString>Instalowanie chipu neuronowego VX1.</ATPP_InstallVX1Chip.jobString>
+  <ATPP_InstallVX1ChipOnAndroid.label>Zainstaluj chip neuronowy VX1 dla androida</ATPP_InstallVX1ChipOnAndroid.label>
+  <ATPP_InstallVX1ChipOnAndroid.description>Zainstaluj chip neuronowy VX1 dla androida, pozwalający nosicielowi zdalnie sterować dowolnym androidem serii SX lub biologicznym surogatem.</ATPP_InstallVX1ChipOnAndroid.description>
+  <ATPP_InstallVX1ChipOnAndroid.jobString>Instalowanie chipu neuronowego VX1 dla androida.</ATPP_InstallVX1ChipOnAndroid.jobString>
+  <ATPP_CreateS1.label>Utwórz androida-surogata T1 (S1)</ATPP_CreateS1.label>
+  <ATPP_CreateS1.description>Utwórz czystego androida S1 z plaststali i komponentów.</ATPP_CreateS1.description>
+  <ATPP_CreateS1.jobString>Tworzenie androida S1.</ATPP_CreateS1.jobString>
+  <ATPP_CreateS2.label>Utwórz androida-surogata T2 (S2)</ATPP_CreateS2.label>
+  <ATPP_CreateS2.description>Utwórz czystego androida S2 z plaststali i komponentów.</ATPP_CreateS2.description>
+  <ATPP_CreateS2.jobString>Tworzenie androida S2.</ATPP_CreateS2.jobString>
+  <ATPP_CreateS3.label>Utwórz androida-surogata T3 (S3)</ATPP_CreateS3.label>
+  <ATPP_CreateS3.description>Utwórz czystego androida S3 z plaststali i komponentów.</ATPP_CreateS3.description>
+  <ATPP_CreateS3.jobString>Tworzenie androida S3.</ATPP_CreateS3.jobString>
+  <ATPP_CreateS4.label>Utwórz androida-surogata T4 (S4)</ATPP_CreateS4.label>
+  <ATPP_CreateS4.description>Utwórz czystego androida S4 z plaststali i komponentów.</ATPP_CreateS4.description>
+  <ATPP_CreateS4.jobString>Tworzenie androida S4.</ATPP_CreateS4.jobString>
+  <ATPP_CreateHellDrone.label>Utwórz androida-surogata HellUnit (S-HU)</ATPP_CreateHellDrone.label>
+  <ATPP_CreateHellDrone.description>Utwórz czystego androida S-HU z plaststali i komponentów.</ATPP_CreateHellDrone.description>
+  <ATPP_CreateHellDrone.jobString>Tworzenie androida S-HU.</ATPP_CreateHellDrone.jobString>
+  <ATPP_CreateM7.label>Utwórz mechanoida-surogata M7 (SM7)</ATPP_CreateM7.label>
+  <ATPP_CreateM7.description>Utwórz czystego mechanoida SM7 z plaststali i komponentów.</ATPP_CreateM7.description>
+  <ATPP_CreateM7.jobString>Tworzenie mechanoida SM7.</ATPP_CreateM7.jobString>
+  <ATPP_CreateBlankT3.label>Utwórz androida T3 z pustą siecią neuronową</ATPP_CreateBlankT3.label>
+  <ATPP_CreateBlankT3.description>Utwórz androida T3 z pustą siecią neuronową</ATPP_CreateBlankT3.description>
+  <ATPP_CreateBlankT3.jobString>Tworzenie androida T3 z pustą siecią neuronową</ATPP_CreateBlankT3.jobString>
+  <ATPP_CreateBlankT4.label>Utwórz androida T4 z pustą siecią neuronową</ATPP_CreateBlankT4.label>
+  <ATPP_CreateBlankT4.description>Utwórz androida T4 z pustą siecią neuronową</ATPP_CreateBlankT4.description>
+  <ATPP_CreateBlankT4.jobString>Tworzenie androida T4 z pustą siecią neuronową</ATPP_CreateBlankT4.jobString>
+  <ATPP_Make_SM7Mech40MMCannon.label>Wytwórz działo 40 mm (broń SM7)</ATPP_Make_SM7Mech40MMCannon.label>
+  <ATPP_Make_SM7Mech40MMCannon.description>Wytwórz działo 40 mm (broń SM7)</ATPP_Make_SM7Mech40MMCannon.description>
+  <ATPP_Make_SM7Mech40MMCannon.jobString>Wytwórz działo 40 mm (broń SM7)</ATPP_Make_SM7Mech40MMCannon.jobString>
+  <ATPP_Make_SM7MechMastiffGun.label>Wytwórz strzelbę Mastiff (broń SM7)</ATPP_Make_SM7MechMastiffGun.label>
+  <ATPP_Make_SM7MechMastiffGun.description>Wytwórz strzelbę Mastiff (broń SM7)</ATPP_Make_SM7MechMastiffGun.description>
+  <ATPP_Make_SM7MechMastiffGun.jobString>Wytwórz strzelbę Mastiff (broń SM7)</ATPP_Make_SM7MechMastiffGun.jobString>
+  <ATPP_Make_SM7MechHandCannon.label>Wytwórz ręczne działo X-5 (broń SM7)</ATPP_Make_SM7MechHandCannon.label>
+  <ATPP_Make_SM7MechHandCannon.description>Wytwórz ręczne działo X-5 (broń SM7)</ATPP_Make_SM7MechHandCannon.description>
+  <ATPP_Make_SM7MechHandCannon.jobString>Wytwórz ręczne działo X-5 (broń SM7)</ATPP_Make_SM7MechHandCannon.jobString>
+  <ATPP_PaintAndroidFrameworkKhaki.label>Pomaluj szkielet androida na kolor khaki</ATPP_PaintAndroidFrameworkKhaki.label>
+  <ATPP_PaintAndroidFrameworkKhaki.description>Pomaluj szkielet androida na kolor khaki</ATPP_PaintAndroidFrameworkKhaki.description>
+  <ATPP_PaintAndroidFrameworkKhaki.jobString>Malowanie szkieletu androida na kolor khaki</ATPP_PaintAndroidFrameworkKhaki.jobString>
+  <ATPP_PaintAndroidFrameworkGreen.label>Pomaluj szkielet androida na zielono</ATPP_PaintAndroidFrameworkGreen.label>
+  <ATPP_PaintAndroidFrameworkGreen.description>Pomaluj szkielet androida na zielono</ATPP_PaintAndroidFrameworkGreen.description>
+  <ATPP_PaintAndroidFrameworkGreen.jobString>Malowanie szkieletu androida na zielono</ATPP_PaintAndroidFrameworkGreen.jobString>
+  <ATPP_PaintAndroidFrameworkBlue.label>Pomaluj szkielet androida na niebiesko</ATPP_PaintAndroidFrameworkBlue.label>
+  <ATPP_PaintAndroidFrameworkBlue.description>Pomaluj szkielet androida na niebiesko</ATPP_PaintAndroidFrameworkBlue.description>
+  <ATPP_PaintAndroidFrameworkBlue.jobString>Malowanie szkieletu androida na niebiesko</ATPP_PaintAndroidFrameworkBlue.jobString>
+  <ATPP_PaintAndroidFrameworkRed.label>Pomaluj szkielet androida na czerwono</ATPP_PaintAndroidFrameworkRed.label>
+  <ATPP_PaintAndroidFrameworkRed.description>Pomaluj szkielet androida na czerwono</ATPP_PaintAndroidFrameworkRed.description>
+  <ATPP_PaintAndroidFrameworkRed.jobString>Malowanie szkieletu androida na czerwono</ATPP_PaintAndroidFrameworkRed.jobString>
+  <ATPP_PaintAndroidFrameworkYellow.label>Pomaluj szkielet androida na żółto</ATPP_PaintAndroidFrameworkYellow.label>
+  <ATPP_PaintAndroidFrameworkYellow.description>Pomaluj szkielet androida na żółto</ATPP_PaintAndroidFrameworkYellow.description>
+  <ATPP_PaintAndroidFrameworkYellow.jobString>Malowanie szkieletu androida na żółto</ATPP_PaintAndroidFrameworkYellow.jobString>
+  <ATPP_PaintAndroidFrameworkOrange.label>Pomaluj szkielet androida na pomarańczowo</ATPP_PaintAndroidFrameworkOrange.label>
+  <ATPP_PaintAndroidFrameworkOrange.description>Pomaluj szkielet androida na pomarańczowo</ATPP_PaintAndroidFrameworkOrange.description>
+  <ATPP_PaintAndroidFrameworkOrange.jobString>Malowanie szkieletu androida na pomarańczowo</ATPP_PaintAndroidFrameworkOrange.jobString>
+  <ATPP_PaintAndroidFrameworkBlack.label>Pomaluj szkielet androida na czarno</ATPP_PaintAndroidFrameworkBlack.label>
+  <ATPP_PaintAndroidFrameworkBlack.description>Pomaluj szkielet androida na czarno</ATPP_PaintAndroidFrameworkBlack.description>
+  <ATPP_PaintAndroidFrameworkBlack.jobString>Malowanie szkieletu androida na czarno</ATPP_PaintAndroidFrameworkBlack.jobString>
+  <ATPP_PaintAndroidFrameworkWhite.label>Pomaluj szkielet androida na biało</ATPP_PaintAndroidFrameworkWhite.label>
+  <ATPP_PaintAndroidFrameworkWhite.description>Pomaluj szkielet androida na biało</ATPP_PaintAndroidFrameworkWhite.description>
+  <ATPP_PaintAndroidFrameworkWhite.jobString>Malowanie szkieletu androida na biało</ATPP_PaintAndroidFrameworkWhite.jobString>
+  <ATPP_PaintAndroidFrameworkGray.label>Pomaluj szkielet androida na szaro</ATPP_PaintAndroidFrameworkGray.label>
+  <ATPP_PaintAndroidFrameworkGray.description>Pomaluj szkielet androida na szaro</ATPP_PaintAndroidFrameworkGray.description>
+  <ATPP_PaintAndroidFrameworkGray.jobString>Malowanie szkieletu androida na szaro</ATPP_PaintAndroidFrameworkGray.jobString>
+  <ATPP_PaintAndroidFrameworkPurple.label>Pomaluj szkielet androida na fioletowo</ATPP_PaintAndroidFrameworkPurple.label>
+  <ATPP_PaintAndroidFrameworkPurple.description>Pomaluj szkielet androida na fioletowo</ATPP_PaintAndroidFrameworkPurple.description>
+  <ATPP_PaintAndroidFrameworkPurple.jobString>Malowanie szkieletu androida na fioletowo</ATPP_PaintAndroidFrameworkPurple.jobString>
+  <ATPP_PaintAndroidFrameworkPink.label>Pomaluj szkielet androida na różowo</ATPP_PaintAndroidFrameworkPink.label>
+  <ATPP_PaintAndroidFrameworkPink.description>Pomaluj szkielet androida na różowo</ATPP_PaintAndroidFrameworkPink.description>
+  <ATPP_PaintAndroidFrameworkPink.jobString>Malowanie szkieletu androida na różowo</ATPP_PaintAndroidFrameworkPink.jobString>
+  <ATPP_PaintAndroidFrameworkCyan.label>Pomaluj szkielet androida na cyjanowo</ATPP_PaintAndroidFrameworkCyan.label>
+  <ATPP_PaintAndroidFrameworkCyan.description>Pomaluj szkielet androida na cyjanowo</ATPP_PaintAndroidFrameworkCyan.description>
+  <ATPP_PaintAndroidFrameworkCyan.jobString>Malowanie szkieletu androida na cyjanowo</ATPP_PaintAndroidFrameworkCyan.jobString>
+  <ATPP_PaintAndroidFrameworkDefault.label>Pomaluj szkielet androida na domyślny kolor</ATPP_PaintAndroidFrameworkDefault.label>
+  <ATPP_PaintAndroidFrameworkDefault.description>Pomaluj szkielet androida na domyślny kolor</ATPP_PaintAndroidFrameworkDefault.description>
+  <ATPP_PaintAndroidFrameworkDefault.jobString>Malowanie szkieletu androida na domyślny kolor</ATPP_PaintAndroidFrameworkDefault.jobString>
+  <ATPP_ApplyHydraulicNaniteBank.label>Zastosuj hydrauliczny bank nanitów</ATPP_ApplyHydraulicNaniteBank.label>
+  <ATPP_ApplyHydraulicNaniteBank.description>Zastosuj jednorazową dawkę nanitów dostrojonych do naprawy uszkodzonych układów hydraulicznych androidów.</ATPP_ApplyHydraulicNaniteBank.description>
+  <ATPP_ApplyHydraulicNaniteBank.jobString>Naprawianie problemów starczych androida za pomocą serum nanitowego</ATPP_ApplyHydraulicNaniteBank.jobString>
+  <ATPP_ApplyHealFrameworkSystem.label>Zastosuj szkieletowy bank nanitów</ATPP_ApplyHealFrameworkSystem.label>
+  <ATPP_ApplyHealFrameworkSystem.description>Zastosuj jednorazowy bank nanitów dostrojonych do naprawy uszkodzonego endoszkieletu androida.</ATPP_ApplyHealFrameworkSystem.description>
+  <ATPP_ApplyHealFrameworkSystem.jobString>Naprawianie problemów starczych androida za pomocą serum nanitowego</ATPP_ApplyHealFrameworkSystem.jobString>
+  <ATPP_ApplyHealCoolingSystem.label>Zastosuj chłodzący bank nanitów</ATPP_ApplyHealCoolingSystem.label>
+  <ATPP_ApplyHealCoolingSystem.description>Zastosuj jednorazowy bank nanitów dostrojonych do naprawy uszkodzonego układu chłodzenia androida na wypadek przegrzania.</ATPP_ApplyHealCoolingSystem.description>
+  <ATPP_ApplyHealCoolingSystem.jobString>Naprawianie problemów starczych androida za pomocą serum nanitowego</ATPP_ApplyHealCoolingSystem.jobString>
+  <ATPP_ApplyHealCPUSerum.label>Zastosuj bank nanitów CPU</ATPP_ApplyHealCPUSerum.label>
+  <ATPP_ApplyHealCPUSerum.description>Zastosuj jednorazowy bank nanitów dostrojonych do naprawy uszkodzonego sztucznego mózgu androida.</ATPP_ApplyHealCPUSerum.description>
+  <ATPP_ApplyHealCPUSerum.jobString>Naprawianie problemów starczych androida za pomocą serum nanitowego</ATPP_ApplyHealCPUSerum.jobString>
+  <ATPP_Make_T1ArtificialBrain.label>Wytwórz sztuczny mózg T1</ATPP_Make_T1ArtificialBrain.label>
+  <ATPP_Make_T1ArtificialBrain.description>Wytwórz sztuczny mózg T1, aby przekształcić surogata w androida z pustą siecią neuronową.</ATPP_Make_T1ArtificialBrain.description>
+  <ATPP_Make_T1ArtificialBrain.jobString>Tworzenie sztucznego mózgu T1.</ATPP_Make_T1ArtificialBrain.jobString>
+  <ATPP_Make_T2ArtificialBrain.label>Wytwórz sztuczny mózg T2</ATPP_Make_T2ArtificialBrain.label>
+  <ATPP_Make_T2ArtificialBrain.description>Wytwórz sztuczny mózg T2, aby przekształcić surogata w androida z pustą siecią neuronową.</ATPP_Make_T2ArtificialBrain.description>
+  <ATPP_Make_T2ArtificialBrain.jobString>Tworzenie sztucznego mózgu T2.</ATPP_Make_T2ArtificialBrain.jobString>
+  <ATPP_Make_T3ArtificialBrain.label>Wytwórz sztuczny mózg T3</ATPP_Make_T3ArtificialBrain.label>
+  <ATPP_Make_T3ArtificialBrain.description>Wytwórz sztuczny mózg T3, aby przekształcić surogata w androida z pustą siecią neuronową.</ATPP_Make_T3ArtificialBrain.description>
+  <ATPP_Make_T3ArtificialBrain.jobString>Tworzenie sztucznego mózgu T3.</ATPP_Make_T3ArtificialBrain.jobString>
+  <ATPP_Make_T4ArtificialBrain.label>Wytwórz sztuczny mózg T4</ATPP_Make_T4ArtificialBrain.label>
+  <ATPP_Make_T4ArtificialBrain.description>Wytwórz sztuczny mózg T4, aby przekształcić surogata w androida z pustą siecią neuronową.</ATPP_Make_T4ArtificialBrain.description>
+  <ATPP_Make_T4ArtificialBrain.jobString>Tworzenie sztucznego mózgu T4.</ATPP_Make_T4ArtificialBrain.jobString>
+  <ATPP_InstallT1ArtificialBrain.label>Zainstaluj sztuczny mózg T1</ATPP_InstallT1ArtificialBrain.label>
+  <ATPP_InstallT1ArtificialBrain.description>Zainstaluj sztuczny mózg T1, umożliwiając przekształcenie surogata T1 w androida z pustą siecią neuronową</ATPP_InstallT1ArtificialBrain.description>
+  <ATPP_InstallT1ArtificialBrain.jobString>Instalowanie sztucznego mózgu T1.</ATPP_InstallT1ArtificialBrain.jobString>
+  <ATPP_InstallT2ArtificialBrain.label>Zainstaluj sztuczny mózg T2</ATPP_InstallT2ArtificialBrain.label>
+  <ATPP_InstallT2ArtificialBrain.description>Zainstaluj sztuczny mózg T2, umożliwiając przekształcenie surogata T2 w androida z pustą siecią neuronową</ATPP_InstallT2ArtificialBrain.description>
+  <ATPP_InstallT2ArtificialBrain.jobString>Instalowanie sztucznego mózgu T2.</ATPP_InstallT2ArtificialBrain.jobString>
+  <ATPP_InstallT3ArtificialBrain.label>Zainstaluj sztuczny mózg T3</ATPP_InstallT3ArtificialBrain.label>
+  <ATPP_InstallT3ArtificialBrain.description>Zainstaluj sztuczny mózg T3, umożliwiając przekształcenie surogata T3 w androida z pustą siecią neuronową</ATPP_InstallT3ArtificialBrain.description>
+  <ATPP_InstallT3ArtificialBrain.jobString>Instalowanie sztucznego mózgu T3.</ATPP_InstallT3ArtificialBrain.jobString>
+  <ATPP_InstallT4ArtificialBrain.label>Zainstaluj sztuczny mózg T4</ATPP_InstallT4ArtificialBrain.label>
+  <ATPP_InstallT4ArtificialBrain.description>Zainstaluj sztuczny mózg T4, umożliwiając przekształcenie surogata T4 w androida z pustą siecią neuronową</ATPP_InstallT4ArtificialBrain.description>
+  <ATPP_InstallT4ArtificialBrain.jobString>Instalowanie sztucznego mózgu T4.</ATPP_InstallT4ArtificialBrain.jobString>
+  <ATPP_CreateSX2.label>Utwórz męskiego androida-surogata TX2 (SX2)</ATPP_CreateSX2.label>
+  <ATPP_CreateSX2.description>Utwórz czystego męskiego androida SX2 z plaststali i komponentów.</ATPP_CreateSX2.description>
+  <ATPP_CreateSX2.jobString>Tworzenie androida SX2.</ATPP_CreateSX2.jobString>
+  <ATPP_CreateSX2Female.label>Utwórz żeńskiego androida-surogata TX2 (SX2)</ATPP_CreateSX2Female.label>
+  <ATPP_CreateSX2Female.description>Utwórz czystego żeńskiego androida SX2 z plaststali i komponentów.</ATPP_CreateSX2Female.description>
+  <ATPP_CreateSX2Female.jobString>Tworzenie androida SX2.</ATPP_CreateSX2Female.jobString>
+  <ATPP_CreateSX3.label>Utwórz męskiego androida-surogata TX3 (SX3)</ATPP_CreateSX3.label>
+  <ATPP_CreateSX3.description>Utwórz czystego męskiego androida SX3 z plaststali i komponentów.</ATPP_CreateSX3.description>
+  <ATPP_CreateSX3.jobString>Tworzenie androida SX3.</ATPP_CreateSX3.jobString>
+  <ATPP_CreateSX3Female.label>Utwórz żeńskiego androida-surogata TX3 (SX3)</ATPP_CreateSX3Female.label>
+  <ATPP_CreateSX3Female.description>Utwórz czystego żeńskiego androida SX3 z plaststali i komponentów.</ATPP_CreateSX3Female.description>
+  <ATPP_CreateSX3Female.jobString>Tworzenie androida SX3.</ATPP_CreateSX3Female.jobString>
+  <ATPP_CreateSX4.label>Utwórz androida-surogata TX4 (SX4)</ATPP_CreateSX4.label>
+  <ATPP_CreateSX4.description>Utwórz czystego androida SX4 z plaststali i komponentów.</ATPP_CreateSX4.description>
+  <ATPP_CreateSX4.jobString>Tworzenie androida SX4.</ATPP_CreateSX4.jobString>
+  <ATPP_CreateSX4Female.label>Utwórz żeńskiego androida-surogata TX4 (SX4)</ATPP_CreateSX4Female.label>
+  <ATPP_CreateSX4Female.description>Utwórz czystego żeńskiego androida SX4 z plaststali i komponentów.</ATPP_CreateSX4Female.description>
+  <ATPP_CreateSX4Female.jobString>Tworzenie androida SX4.</ATPP_CreateSX4Female.jobString>
+  <ATPP_CreateSX2I.label>Utwórz męskiego androida-surogata TX2I (SX2I)</ATPP_CreateSX2I.label>
+  <ATPP_CreateSX2I.description>Utwórz czystego męskiego androida SX2I z plaststali i komponentów.</ATPP_CreateSX2I.description>
+  <ATPP_CreateSX2I.jobString>Tworzenie androida SX2I.</ATPP_CreateSX2I.jobString>
+  <ATPP_CreateSX2IFemale.label>Utwórz żeńskiego androida-surogata TX2I (SX2I)</ATPP_CreateSX2IFemale.label>
+  <ATPP_CreateSX2IFemale.description>Utwórz czystego żeńskiego androida SX2I z plaststali i komponentów.</ATPP_CreateSX2IFemale.description>
+  <ATPP_CreateSX2IFemale.jobString>Tworzenie androida SX2I.</ATPP_CreateSX2IFemale.jobString>
+  <ATPP_CreateSX2K.label>Utwórz męskiego androida-surogata TX2K (SX2K)</ATPP_CreateSX2K.label>
+  <ATPP_CreateSX2K.description>Utwórz czystego męskiego androida SX2K z plaststali i komponentów.</ATPP_CreateSX2K.description>
+  <ATPP_CreateSX2K.jobString>Tworzenie androida SX2K.</ATPP_CreateSX2K.jobString>
+  <ATPP_CreateSX2KFemale.label>Utwórz żeńskiego androida-surogata TX2K (SX2K)</ATPP_CreateSX2KFemale.label>
+  <ATPP_CreateSX2KFemale.description>Utwórz czystego żeńskiego androida SX2K z plaststali i komponentów.</ATPP_CreateSX2KFemale.description>
+  <ATPP_CreateSX2KFemale.jobString>Tworzenie androida SX2K.</ATPP_CreateSX2KFemale.jobString>
+  <ATPP_CreateSX2KI.label>Utwórz androida-surogata TX2KI (SX2KI)</ATPP_CreateSX2KI.label>
+  <ATPP_CreateSX2KI.description>Utwórz czystego androida SX2KI z plaststali i komponentów.</ATPP_CreateSX2KI.description>
+  <ATPP_CreateSX2KI.jobString>Tworzenie androida SX2KI.</ATPP_CreateSX2KI.jobString>
+  <ATPP_CreateSX2KIFemale.label>Utwórz żeńskiego androida-surogata TX2KI (SX2KI)</ATPP_CreateSX2KIFemale.label>
+  <ATPP_CreateSX2KIFemale.description>Utwórz czystego żeńskiego androida SX2KI z plaststali i komponentów.</ATPP_CreateSX2KIFemale.description>
+  <ATPP_CreateSX2KIFemale.jobString>Tworzenie żeńskiego androida SX2KI.</ATPP_CreateSX2KIFemale.jobString>
+  <ATPP_CreateSX3I.label>Utwórz męskiego androida-surogata TX3I (SX3I)</ATPP_CreateSX3I.label>
+  <ATPP_CreateSX3I.description>Utwórz czystego męskiego androida SX3I z plaststali i komponentów.</ATPP_CreateSX3I.description>
+  <ATPP_CreateSX3I.jobString>Tworzenie androida SX3I.</ATPP_CreateSX3I.jobString>
+  <ATPP_CreateSX3IFemale.label>Utwórz żeńskiego androida-surogata TX3I (SX3I)</ATPP_CreateSX3IFemale.label>
+  <ATPP_CreateSX3IFemale.description>Utwórz czystego żeńskiego androida SX3I z plaststali i komponentów.</ATPP_CreateSX3IFemale.description>
+  <ATPP_CreateSX3IFemale.jobString>Tworzenie androida SX3I.</ATPP_CreateSX3IFemale.jobString>
+  <ATPP_CreateSX4I.label>Utwórz androida-surogata TX4I (SX4I)</ATPP_CreateSX4I.label>
+  <ATPP_CreateSX4I.description>Utwórz czystego androida SX4I z plaststali i komponentów.</ATPP_CreateSX4I.description>
+  <ATPP_CreateSX4I.jobString>Tworzenie androida SX4I.</ATPP_CreateSX4I.jobString>
+  <ATPP_CreateSX4IFemale.label>Utwórz żeńskiego androida-surogata TX4I (SX4I)</ATPP_CreateSX4IFemale.label>
+  <ATPP_CreateSX4IFemale.description>Utwórz czystego żeńskiego androida SX4I z plaststali i komponentów.</ATPP_CreateSX4IFemale.description>
+  <ATPP_CreateSX4IFemale.jobString>Tworzenie androida SX4I.</ATPP_CreateSX4IFemale.jobString>
+  <ATPP_CreateTX4Android.label>Utwórz męskiego androida TX4</ATPP_CreateTX4Android.label>
+  <ATPP_CreateTX4Android.description>Utwórz męskiego androida TX4</ATPP_CreateTX4Android.description>
+  <ATPP_CreateTX4Android.jobString>Tworzenie androida TX4</ATPP_CreateTX4Android.jobString>
+  <ATPP_CreateTX4FemaleAndroid.label>Utwórz żeńskiego androida TX4</ATPP_CreateTX4FemaleAndroid.label>
+  <ATPP_CreateTX4FemaleAndroid.description>Utwórz żeńskiego androida TX4</ATPP_CreateTX4FemaleAndroid.description>
+  <ATPP_CreateTX4FemaleAndroid.jobString>Tworzenie androida TX4</ATPP_CreateTX4FemaleAndroid.jobString>
+  <ATPP_CreateTX3Android.label>Utwórz męskiego androida TX3</ATPP_CreateTX3Android.label>
+  <ATPP_CreateTX3Android.description>Utwórz męskiego androida TX3</ATPP_CreateTX3Android.description>
+  <ATPP_CreateTX3Android.jobString>Tworzenie androida TX3</ATPP_CreateTX3Android.jobString>
+  <ATPP_CreateTX3FemaleAndroid.label>Utwórz żeńskiego androida TX3</ATPP_CreateTX3FemaleAndroid.label>
+  <ATPP_CreateTX3FemaleAndroid.description>Utwórz żeńskiego androida TX3</ATPP_CreateTX3FemaleAndroid.description>
+  <ATPP_CreateTX3FemaleAndroid.jobString>Tworzenie androida TX3</ATPP_CreateTX3FemaleAndroid.jobString>
+  <ATPP_CreateTX2Android.label>Utwórz męskiego androida TX2</ATPP_CreateTX2Android.label>
+  <ATPP_CreateTX2Android.description>Utwórz męskiego androida TX2</ATPP_CreateTX2Android.description>
+  <ATPP_CreateTX2Android.jobString>Tworzenie androida TX2</ATPP_CreateTX2Android.jobString>
+  <ATPP_CreateTX2FemaleAndroid.label>Utwórz żeńskiego androida TX2</ATPP_CreateTX2FemaleAndroid.label>
+  <ATPP_CreateTX2FemaleAndroid.description>Utwórz żeńskiego androida TX2</ATPP_CreateTX2FemaleAndroid.description>
+  <ATPP_CreateTX2FemaleAndroid.jobString>Tworzenie androida TX2</ATPP_CreateTX2FemaleAndroid.jobString>
+  <ATPP_CreateTX4IAndroid.label>Utwórz męskiego androida TX4I</ATPP_CreateTX4IAndroid.label>
+  <ATPP_CreateTX4IAndroid.description>Utwórz męskiego androida TX4I</ATPP_CreateTX4IAndroid.description>
+  <ATPP_CreateTX4IAndroid.jobString>Tworzenie androida TX4I</ATPP_CreateTX4IAndroid.jobString>
+  <ATPP_CreateTX4IFemaleAndroid.label>Utwórz żeńskiego androida TX4I</ATPP_CreateTX4IFemaleAndroid.label>
+  <ATPP_CreateTX4IFemaleAndroid.description>Utwórz żeńskiego androida TX4I</ATPP_CreateTX4IFemaleAndroid.description>
+  <ATPP_CreateTX4IFemaleAndroid.jobString>Tworzenie androida TX4I</ATPP_CreateTX4IFemaleAndroid.jobString>
+  <ATPP_CreateTX3IAndroid.label>Utwórz męskiego androida TX3I</ATPP_CreateTX3IAndroid.label>
+  <ATPP_CreateTX3IAndroid.description>Utwórz męskiego androida TX3I</ATPP_CreateTX3IAndroid.description>
+  <ATPP_CreateTX3IAndroid.jobString>Tworzenie androida TX3I</ATPP_CreateTX3IAndroid.jobString>
+  <ATPP_CreateTX3IFemaleAndroid.label>Utwórz żeńskiego androida TX3I</ATPP_CreateTX3IFemaleAndroid.label>
+  <ATPP_CreateTX3IFemaleAndroid.description>Utwórz żeńskiego androida TX3I</ATPP_CreateTX3IFemaleAndroid.description>
+  <ATPP_CreateTX3IFemaleAndroid.jobString>Tworzenie androida TX3I</ATPP_CreateTX3IFemaleAndroid.jobString>
+  <ATPP_CreateTX2IAndroid.label>Utwórz męskiego androida TX2I</ATPP_CreateTX2IAndroid.label>
+  <ATPP_CreateTX2IAndroid.description>Utwórz męskiego androida TX2I</ATPP_CreateTX2IAndroid.description>
+  <ATPP_CreateTX2IAndroid.jobString>Tworzenie androida TX2I</ATPP_CreateTX2IAndroid.jobString>
+  <ATPP_CreateTX2IFemaleAndroid.label>Utwórz żeńskiego androida TX2I</ATPP_CreateTX2IFemaleAndroid.label>
+  <ATPP_CreateTX2IFemaleAndroid.description>Utwórz żeńskiego androida TX2I</ATPP_CreateTX2IFemaleAndroid.description>
+  <ATPP_CreateTX2IFemaleAndroid.jobString>Tworzenie androida TX2I</ATPP_CreateTX2IFemaleAndroid.jobString>
+  <ATPP_CreateTX2KAndroid.label>Utwórz męskiego androida TX2K</ATPP_CreateTX2KAndroid.label>
+  <ATPP_CreateTX2KAndroid.description>Utwórz męskiego androida TX2K</ATPP_CreateTX2KAndroid.description>
+  <ATPP_CreateTX2KAndroid.jobString>Tworzenie androida TX2K</ATPP_CreateTX2KAndroid.jobString>
+  <ATPP_CreateTX2KFemaleAndroid.label>Utwórz żeńskiego androida TX2K</ATPP_CreateTX2KFemaleAndroid.label>
+  <ATPP_CreateTX2KFemaleAndroid.description>Utwórz żeńskiego androida TX2K</ATPP_CreateTX2KFemaleAndroid.description>
+  <ATPP_CreateTX2KFemaleAndroid.jobString>Tworzenie androida TX2K</ATPP_CreateTX2KFemaleAndroid.jobString>
+  <ATPP_CreateTX2KIAndroid.label>Utwórz androida TX2KI</ATPP_CreateTX2KIAndroid.label>
+  <ATPP_CreateTX2KIAndroid.description>Utwórz androida TX2KI</ATPP_CreateTX2KIAndroid.description>
+  <ATPP_CreateTX2KIAndroid.jobString>Tworzenie androida TX2KI</ATPP_CreateTX2KIAndroid.jobString>
+  <ATPP_CreateTX2KIFemaleAndroid.label>Utwórz żeńskiego androida TX2KI</ATPP_CreateTX2KIFemaleAndroid.label>
+  <ATPP_CreateTX2KIFemaleAndroid.description>Utwórz żeńskiego androida TX2KI</ATPP_CreateTX2KIFemaleAndroid.description>
+  <ATPP_CreateTX2KIFemaleAndroid.jobString>Tworzenie androida TX2KI</ATPP_CreateTX2KIFemaleAndroid.jobString>
+  <ATPP_MakeSyntheticSkinGland.label>syntetyzuj gruczoł skóry</ATPP_MakeSyntheticSkinGland.label>
+  <ATPP_MakeSyntheticSkinGland.description>Syntetyzuj sztuczny gruczoł skóry z chemopaliwa węglowodorowego, roztworu konserwującego neutroaminy, leków oraz tkanych rusztowań tekstylnych.</ATPP_MakeSyntheticSkinGland.description>
+  <ATPP_MakeSyntheticSkinGland.jobString>Syntetyzowanie gruczołu skóry.</ATPP_MakeSyntheticSkinGland.jobString>
+  <ATPP_GestateSyntheticSkinGland_Biotech.label>inkubuj gruczoł syntetycznej skóry</ATPP_GestateSyntheticSkinGland_Biotech.label>
+  <ATPP_GestateSyntheticSkinGland_Biotech.description>Wykorzystując roztwór hemogenowy Biotech, składniki odżywcze dla komórek i stabilizatory medyczne w kadzi produkcyjnej androidów, wyhoduj żywą matrycę gruczołu syntetycznej skóry dla infiltratorów serii TX.</ATPP_GestateSyntheticSkinGland_Biotech.description>
+  <ATPP_GestateSyntheticSkinGland_Biotech.jobString>Inkubowanie gruczołu syntetycznej skóry.</ATPP_GestateSyntheticSkinGland_Biotech.jobString>
+  <ATPP_QE_GrowSyntheticSkinGland.label>wyhoduj gruczoł syntetycznej skóry</ATPP_QE_GrowSyntheticSkinGland.label>
+  <ATPP_QE_GrowSyntheticSkinGland.description>Wyhoduj żywą bio-syntetyczną matrycę gruczołu skóry w kadzi narządowej Questionable Ethics, używając organicznych składników odżywczych i stabilizatorów chemicznych.</ATPP_QE_GrowSyntheticSkinGland.description>
+  <ATPP_QE_GrowSyntheticSkinGland.jobString>Hodowanie gruczołu syntetycznej skóry.</ATPP_QE_GrowSyntheticSkinGland.jobString>
+  <ATPP_ApplySyntheticSkin.label>przeszczep syntetyczną skórę</ATPP_ApplySyntheticSkin.label>
+  <ATPP_ApplySyntheticSkin.description>Przeszczepia syntetyczną matrycę skórną na podwozie piechoty TX, pokrywając odsłonięty mechaniczny endoszkielet ludzkopodobną, żywą syntetyczną skórą. Zwiększa to odbiór społeczny i izolację termiczną oraz eliminuje rdzewienie na deszczu, kosztem większej palności.</ATPP_ApplySyntheticSkin.description>
+  <ATPP_ApplySyntheticSkin.jobString>Przeszczepianie syntetycznej skóry androidowi.</ATPP_ApplySyntheticSkin.jobString>
+  <ATPP_RemoveSyntheticSkin.label>usuń syntetyczną skórę</ATPP_RemoveSyntheticSkin.label>
+  <ATPP_RemoveSyntheticSkin.description>Chirurgicznie usuwa warstwę syntetycznej skóry z tego infiltratora TX, odsłaniając wzmocniony bojowy endoszkielet piechoty pod spodem. Android traci urok towarzyski, ale zyskuje odporność na ogień i wytrzymałość na polu bitwy.</ATPP_RemoveSyntheticSkin.description>
+  <ATPP_RemoveSyntheticSkin.jobString>Usuwanie syntetycznej skóry z androida.</ATPP_RemoveSyntheticSkin.jobString>
+  <ATPP_QE_CreateTX2KMale.label>złóż męski szkielet TX2K (kadź QEE)</ATPP_QE_CreateTX2KMale.label>
+  <ATPP_QE_CreateTX2KMale.description>Złóż nieaktywny męski endoszkielet TX2K zakodowany jako sekwencja genomu do inkubacji w kadzi narządowej.</ATPP_QE_CreateTX2KMale.description>
+  <ATPP_QE_CreateTX2KMale.jobString>Tworzenie androida</ATPP_QE_CreateTX2KMale.jobString>
+  <ATPP_QE_CreateTX2KFemale.label>złóż żeński szkielet TX2K (kadź QEE)</ATPP_QE_CreateTX2KFemale.label>
+  <ATPP_QE_CreateTX2KFemale.description>Złóż nieaktywny żeński endoszkielet TX2K zakodowany jako sekwencja genomu do inkubacji w kadzi narządowej.</ATPP_QE_CreateTX2KFemale.description>
+  <ATPP_QE_CreateTX2KFemale.jobString>Tworzenie androida</ATPP_QE_CreateTX2KFemale.jobString>
+  <ATPP_QE_CreateSX2KMaleSurrogate.label>złóż męski szkielet surogata SX2K (kadź QEE)</ATPP_QE_CreateSX2KMaleSurrogate.label>
+  <ATPP_QE_CreateSX2KMaleSurrogate.description>Złóż nieaktywny męski endoszkielet surogata TX2K zakodowany jako sekwencja genomu do inkubacji w kadzi narządowej.</ATPP_QE_CreateSX2KMaleSurrogate.description>
+  <ATPP_QE_CreateSX2KMaleSurrogate.jobString>Tworzenie androida</ATPP_QE_CreateSX2KMaleSurrogate.jobString>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.label>złóż żeński szkielet surogata SX2K (kadź QEE)</ATPP_QE_CreateSX2KFemaleSurrogate.label>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.description>Złóż nieaktywny żeński endoszkielet surogata TX2K zakodowany jako sekwencja genomu do inkubacji w kadzi narządowej.</ATPP_QE_CreateSX2KFemaleSurrogate.description>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.jobString>Tworzenie androida</ATPP_QE_CreateSX2KFemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX3Male.label>złóż męski szkielet TX3 (kadź QEE)</ATPP_QE_CreateTX3Male.label>
+  <ATPP_QE_CreateTX3Male.description>Złóż nieaktywny męski endoszkielet TX3 zakodowany jako sekwencja genomu do inkubacji w kadzi narządowej.</ATPP_QE_CreateTX3Male.description>
+  <ATPP_QE_CreateTX3Male.jobString>Tworzenie androida</ATPP_QE_CreateTX3Male.jobString>
+  <ATPP_QE_CreateTX3Female.label>złóż żeński szkielet TX3 (kadź QEE)</ATPP_QE_CreateTX3Female.label>
+  <ATPP_QE_CreateTX3Female.description>Złóż nieaktywny żeński endoszkielet TX3 zakodowany jako sekwencja genomu do inkubacji w kadzi narządowej.</ATPP_QE_CreateTX3Female.description>
+  <ATPP_QE_CreateTX3Female.jobString>Tworzenie androida</ATPP_QE_CreateTX3Female.jobString>
+  <ATPP_QE_CreateSX3MaleSurrogate.label>złóż męski szkielet surogata SX3 (kadź QEE)</ATPP_QE_CreateSX3MaleSurrogate.label>
+  <ATPP_QE_CreateSX3MaleSurrogate.description>Złóż nieaktywny męski endoszkielet surogata TX3 zakodowany jako sekwencja genomu do inkubacji w kadzi narządowej.</ATPP_QE_CreateSX3MaleSurrogate.description>
+  <ATPP_QE_CreateSX3MaleSurrogate.jobString>Tworzenie androida</ATPP_QE_CreateSX3MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX3FemaleSurrogate.label>złóż żeński szkielet surogata SX3 (kadź QEE)</ATPP_QE_CreateSX3FemaleSurrogate.label>
+  <ATPP_QE_CreateSX3FemaleSurrogate.description>Złóż nieaktywny żeński endoszkielet surogata TX3 zakodowany jako sekwencja genomu do inkubacji w kadzi narządowej.</ATPP_QE_CreateSX3FemaleSurrogate.description>
+  <ATPP_QE_CreateSX3FemaleSurrogate.jobString>Tworzenie androida</ATPP_QE_CreateSX3FemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX4Male.label>złóż męski szkielet TX4 (kadź QEE)</ATPP_QE_CreateTX4Male.label>
+  <ATPP_QE_CreateTX4Male.description>Złóż nieaktywny męski endoszkielet TX4 zakodowany jako sekwencja genomu do inkubacji w kadzi narządowej.</ATPP_QE_CreateTX4Male.description>
+  <ATPP_QE_CreateTX4Male.jobString>Tworzenie androida</ATPP_QE_CreateTX4Male.jobString>
+  <ATPP_QE_CreateTX4Female.label>złóż żeński szkielet TX4 (kadź QEE)</ATPP_QE_CreateTX4Female.label>
+  <ATPP_QE_CreateTX4Female.description>Złóż nieaktywny żeński endoszkielet TX4 zakodowany jako sekwencja genomu do inkubacji w kadzi narządowej.</ATPP_QE_CreateTX4Female.description>
+  <ATPP_QE_CreateTX4Female.jobString>Tworzenie androida</ATPP_QE_CreateTX4Female.jobString>
+  <ATPP_QE_CreateSX4MaleSurrogate.label>złóż męski szkielet surogata SX4 (kadź QEE)</ATPP_QE_CreateSX4MaleSurrogate.label>
+  <ATPP_QE_CreateSX4MaleSurrogate.description>Złóż nieaktywny męski endoszkielet surogata TX4 zakodowany jako sekwencja genomu do inkubacji w kadzi narządowej.</ATPP_QE_CreateSX4MaleSurrogate.description>
+  <ATPP_QE_CreateSX4MaleSurrogate.jobString>Tworzenie androida</ATPP_QE_CreateSX4MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX4FemaleSurrogate.label>złóż żeński szkielet surogata SX4 (kadź QEE)</ATPP_QE_CreateSX4FemaleSurrogate.label>
+  <ATPP_QE_CreateSX4FemaleSurrogate.description>Złóż nieaktywny żeński endoszkielet surogata TX4 zakodowany jako sekwencja genomu do inkubacji w kadzi narządowej.</ATPP_QE_CreateSX4FemaleSurrogate.description>
+  <ATPP_QE_CreateSX4FemaleSurrogate.jobString>Tworzenie androida</ATPP_QE_CreateSX4FemaleSurrogate.jobString>
+
+</LanguageData>

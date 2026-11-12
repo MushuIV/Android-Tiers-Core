@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_ResearchSM7.label>Бойовий механоїд SM7</ATPP_ResearchSM7.label>
+  <ATPP_ResearchSM7.description>Вивчіть, як будувати бойових механоїдів SM7.</ATPP_ResearchSM7.description>
+  <ATPP_ResearchServerI100Serie.label>Сервери серії I100</ATPP_ResearchServerI100Serie.label>
+  <ATPP_ResearchServerI100Serie.description>Вивчіть, як будувати сервери безпеки, злому та навичок серії I100 — дешеві, але гучні, великі та малоефективні.</ATPP_ResearchServerI100Serie.description>
+  <ATPP_ResearchServerI300Serie.label>Сервери серії I300</ATPP_ResearchServerI300Serie.label>
+  <ATPP_ResearchServerI300Serie.description>Вивчіть, як будувати сервери безпеки, злому та навичок серії I300 — гучні, але середні за ефективністю.</ATPP_ResearchServerI300Serie.description>
+  <ATPP_ResearchServerI500Serie.label>Сервери серії I500</ATPP_ResearchServerI500Serie.label>
+  <ATPP_ResearchServerI500Serie.description>Вивчіть, як будувати сервери безпеки, злому та навичок серії I500 — дорогі, але дуже ефективні.</ATPP_ResearchServerI500Serie.description>
+  <ATPP_ResearchSkyCloudCore.label>Ядро SkyCloud</ATPP_ResearchSkyCloudCore.label>
+  <ATPP_ResearchSkyCloudCore.description>Вивчіть, як будувати сервери ядра SkyCloud — потужні суперкомп'ютери, здатні зберігати кілька оцифрованих свідомостей і дозволяти їм взаємодіяти з реальним світом через кожен пристрій, підключений до мережі SkyMind.</ATPP_ResearchSkyCloudCore.description>
+  <ATPP_ResearchBatteryOverload.label>Перевантаження батареї</ATPP_ResearchBatteryOverload.label>
+  <ATPP_ResearchBatteryOverload.description>Вивчіть, як перетворювати андроїдів на ходячі бомби, підриваючи їхні внутрішні батареї.</ATPP_ResearchBatteryOverload.description>
+  <ATPP_ResearchVX0Chip.label>Нейрочіп VX0</ATPP_ResearchVX0Chip.label>
+  <ATPP_ResearchVX0Chip.description>Вивчіть, як виготовляти чіпи VX0 — нейрочіпи, що перетворюють свого носія на біологічного сурогата.</ATPP_ResearchVX0Chip.description>
+  <ATPP_ResearchCharchingStation.label>Зарядна станція</ATPP_ResearchCharchingStation.label>
+  <ATPP_ResearchCharchingStation.description>Дозволяє заряджати до 8 андроїдів одночасно безпосередньо до їхньої внутрішньої батареї замість генератора біомаси.</ATPP_ResearchCharchingStation.description>
+  <ATPP_ResearchCraftBasicNanoKit.label>Базовий нанокомплект</ATPP_ResearchCraftBasicNanoKit.label>
+  <ATPP_ResearchCraftBasicNanoKit.description>Дозволяє виготовляти базові нанокомплекти, необхідні для ремонту поранених андроїдів</ATPP_ResearchCraftBasicNanoKit.description>
+  <ATPP_ResearchCraftIntermediateNanoKit.label>Середній нанокомплект</ATPP_ResearchCraftIntermediateNanoKit.label>
+  <ATPP_ResearchCraftIntermediateNanoKit.description>Дозволяє виготовляти середні нанокомплекти, необхідні для ремонту поранених андроїдів</ATPP_ResearchCraftIntermediateNanoKit.description>
+  <ATPP_ResearchCraftAdvancedNanoKit.label>Вдосконалений нанокомплект</ATPP_ResearchCraftAdvancedNanoKit.label>
+  <ATPP_ResearchCraftAdvancedNanoKit.description>Дозволяє виготовляти вдосконалені нанокомплекти, необхідні для ремонту поранених андроїдів</ATPP_ResearchCraftAdvancedNanoKit.description>
+  <ATPP_ResearchVX1Chip.label>Нейрочіп VX1</ATPP_ResearchVX1Chip.label>
+  <ATPP_ResearchVX1Chip.description>Вивчіть, як виготовляти чіп VX1 — нейрочіп, що дозволяє носію дистанційно керувати будь-яким андроїдом серії SX або біологічним сурогатом.</ATPP_ResearchVX1Chip.description>
+  <ATPP_ResearchVX2Chip.label>Нейрочіп VX2</ATPP_ResearchVX2Chip.label>
+  <ATPP_ResearchVX2Chip.description>Вивчіть, як виготовляти чіп VX2 — нейрочіп, що дозволяє носію дистанційно керувати будь-яким андроїдом серії SX або біологічним сурогатом і дублювати/переставляти свідомість.</ATPP_ResearchVX2Chip.description>
+  <ATPP_ResearchVX3Chip.label>Нейрочіп VX3</ATPP_ResearchVX3Chip.label>
+  <ATPP_ResearchVX3Chip.description>Вивчіть, як виготовляти чіп VX3 — нейрочіп, що дозволяє носію дистанційно керувати кількома андроїдами серії SX або біологічними сурогатами одночасно та дублювати/переставляти свідомість.</ATPP_ResearchVX3Chip.description>
+  <ATPP_ResearchSkyMindWAN.label>Антена SkyMind V2</ATPP_ResearchSkyMindWAN.label>
+  <ATPP_ResearchSkyMindWAN.description>Вивчіть, як будувати антену SkyMind V2, що слугує основою для передачі свідомості одного поселенця іншому та дозволяє одночасне підключення до 15 поселенців на одну антену V2.</ATPP_ResearchSkyMindWAN.description>
+  <ATPP_ResearchSkyMindLAN.label>Антена SkyMind V1</ATPP_ResearchSkyMindLAN.label>
+  <ATPP_ResearchSkyMindLAN.description>Вивчіть, як будувати антену SkyMind V1, що слугує основою для передачі свідомості одного поселенця іншому та дозволяє одночасне підключення до 3 поселенців на одну антену V1.</ATPP_ResearchSkyMindLAN.description>
+  <ATPP_ResearchSurrogateHost.label>Андроїди SX</ATPP_ResearchSurrogateHost.label>
+  <ATPP_ResearchSurrogateHost.description>Вивчіть, як будувати андроїдів серії SX, які схожі на серію TX, але їхній штучний мозок замінено просунутою системою дистанційного керування.</ATPP_ResearchSurrogateHost.description>
+  <ATPP_ResearchCraftRepairNaniteBanks.label>Лікування вікових несправностей</ATPP_ResearchCraftRepairNaniteBanks.label>
+  <ATPP_ResearchCraftRepairNaniteBanks.description>Дозволяє виготовляти наніти, які усувають вікові несправності андроїдів.</ATPP_ResearchCraftRepairNaniteBanks.description>
+
+</LanguageData>

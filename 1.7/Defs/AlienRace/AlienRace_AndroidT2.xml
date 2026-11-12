@@ -71,13 +71,13 @@
           <li>Android1Tier</li>
         </notXenophobistTowards>
         <alienPartGenerator>
-          <alienbodytypes>
+          <bodyTypes>
             <li>Male</li>
-          </alienbodytypes>
-          <aliencrowntypes>
-            <li>Average_Normal</li>
-            <li>AndroidPaintJob_2</li>
-          </aliencrowntypes>
+          </bodyTypes>
+          <headTypes>
+            <li>Male_AverageNormal</li>
+            <li>ATPP_Male_AndroidPaintJob_2</li>
+          </headTypes>
           <colorChannels>
             <li>
               <name>skin</name>

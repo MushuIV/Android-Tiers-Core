@@ -1,400 +1,406 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <ATPP_AlertHot3Devices>コンピューター過熱</ATPP_AlertHot3Devices>
-  <ATPP_AlertHot3DevicesDesc>1台以上のコンピューターが最高温度閾値に達しました！速やかに適切な温度まで冷却してください！</ATPP_AlertHot3DevicesDesc>
-  <ATPP_AlertHot2Devices>コンピューター高温</ATPP_AlertHot2Devices>
-  <ATPP_AlertHot2DevicesDesc>1台以上のコンピューターが高温になっています。速やかに周囲温度を下げてください！</ATPP_AlertHot2DevicesDesc>
-  <ATPP_AlertUnsecurisedClients>{0}台の保護されていないスカイマインド端末</ATPP_AlertUnsecurisedClients>
-  <ATPP_AlertUnsecurisedClientsDesc>警告: ネットワーク経由でハッキングされる危険性があるスカイマインド端末が{0}台あります。これを防ぐためにセキュリティサーバーを構築してください。</ATPP_AlertUnsecurisedClientsDesc>
-  <ATPP_IncidentSurrogateHackingVirus>SX ウイルス</ATPP_IncidentSurrogateHackingVirus>
-  <ATPP_IncidentSurrogateHackingCryptolocker>SX 暗号化ウイルス</ATPP_IncidentSurrogateHackingCryptolocker>
-  <ATPP_IncidentSurrogateHackingExplosiveVirus>SX 自爆ウイルス</ATPP_IncidentSurrogateHackingExplosiveVirus>
-  <ATPP_IncidentSurrogateHackingLiteDesc>セキュリティシステムが攻撃の一部を無効化しましたが、{0}台の代理体のサブシステムが侵害されました。</ATPP_IncidentSurrogateHackingLiteDesc>
-  <ATPP_IncidentSurrogateHackingHardDesc>セキュリティシステムが代理アンドロイド部隊全体を保護しきれず、{0}台のアンドロイドのOSが完全に侵害されました。</ATPP_IncidentSurrogateHackingHardDesc>
-  <ATPP_IncidentVirusedDesc>これらの代理体は完全にウイルスの制御下に置かれ、あなたを攻撃してきます！</ATPP_IncidentVirusedDesc>
-  <ATPP_IncidentVirusedExplosiveDesc>これらの代理体は完全にウイルスの制御下に置かれ、あなたを攻撃するとともに、カウントダウン終了時に内蔵バッテリーを爆発させます！</ATPP_IncidentVirusedExplosiveDesc>
-  <ATPP_IncidentCryptolockerDesc>感染したすべての代理体は完全に作動不能になりました。この攻撃を行った派閥に身代金を支払うことで、（願わくば）解除することができます。</ATPP_IncidentCryptolockerDesc>
-  <ATPP_IncidentDeviceHackingVirus>ウイルス</ATPP_IncidentDeviceHackingVirus>
-  <ATPP_IncidentDeviceHackingCryptolocker>暗号化ウイルス</ATPP_IncidentDeviceHackingCryptolocker>
-  <ATPP_IncidentDeviceHackingExplosiveVirus>自爆ウイルス</ATPP_IncidentDeviceHackingExplosiveVirus>
-  <ATPP_IncidentDeviceHackingLiteDesc>セキュリティシステムが攻撃の一部を無効化しましたが、{0}台の接続デバイスが一時的に侵害されました。</ATPP_IncidentDeviceHackingLiteDesc>
-  <ATPP_IncidentDeviceHackingHardDesc>セキュリティシステムがすべての接続デバイスを保護しきれず、{0}台の接続デバイスのOSが完全に侵害されました。</ATPP_IncidentDeviceHackingHardDesc>
-  <ATPP_IncidentDeviceVirusedDesc>これらのデバイスは完全にウイルスの制御下に置かれました！</ATPP_IncidentDeviceVirusedDesc>
-  <ATPP_IncidentDeviceVirusedExplosiveDesc>これらのデバイスは完全にウイルスの制御下に置かれ、カウントダウン終了時に爆発します！</ATPP_IncidentDeviceVirusedExplosiveDesc>
-  <ATPP_IncidentDeviceCryptolockerDesc>感染したすべてのデバイスは完全に作動不能になりました。この攻撃を行った派閥に身代金を支払うことで、（願わくば）解除することができます。</ATPP_IncidentDeviceCryptolockerDesc>
-  <ATPP_LetterFactionRansomware>ランサムウェア</ATPP_LetterFactionRansomware>
-  <ATPP_LetterFactionRansomwareSkillStolenDesc>{0}はスカイマインドネットワーク経由で、{2}の頭脳にあるスキル「{1}」に対応する記憶領域を破壊しました。</ATPP_LetterFactionRansomwareSkillStolenDesc>
-  <ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>{0}はスカイマインドネットワーク経由で{1}の頭脳を感染させ、悪意ある特性「{2}」をインストールしました。</ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>
-  <ATPP_EnergyNeed>エネルギー</ATPP_EnergyNeed>
-  <ATPP_EnergyNeedDesc>エネルギーはアンドロイドの内蔵バッテリーの電力量です。これがゼロになると、アンドロイドは不具合を起こしやすくなり、最終的には機能停止（死亡）します。</ATPP_EnergyNeedDesc>
-  <ATPP_NanoKitsNoCare>修理しない</ATPP_NanoKitsNoCare>
-  <ATPP_NanoKitsNoKitJustVisit>ナノキットなしでの技術者訪問</ATPP_NanoKitsNoKitJustVisit>
-  <ATPP_NanoKitsBasic>基本ナノキット</ATPP_NanoKitsBasic>
-  <ATPP_NanoKitsIntermediate>中級ナノキット</ATPP_NanoKitsIntermediate>
-  <ATPP_NanoKitsAdvanced>先進ナノキット</ATPP_NanoKitsAdvanced>
-  <ATPP_UploadPercentage>意識アップロード: {0}%</ATPP_UploadPercentage>
-  <ATPP_DownloadPercentage>意識ダウンロード: {0}%</ATPP_DownloadPercentage>
-  <ATPP_PermutationPercentage>意識交換: {0}%</ATPP_PermutationPercentage>
-  <ATPP_DuplicationPercentage>意識複製: {0}%</ATPP_DuplicationPercentage>
-  <ATPP_UploadSkyCloudPercentage>スカイクラウドへの意識アップロード: {0}%</ATPP_UploadSkyCloudPercentage>
-  <ATPP_DownloadFromSkyCloudPercentage>スカイクラウドからの意識ダウンロード: {0}%</ATPP_DownloadFromSkyCloudPercentage>
-  <ATPP_SkyMindDetected>スカイマインドに接続済み</ATPP_SkyMindDetected>
-  <ATPP_RemotelyControlledBy>{0}によって遠隔操作中。</ATPP_RemotelyControlledBy>
-  <ATPP_RemotelyControl>{0}を遠隔操作</ATPP_RemotelyControl>
-  <ATPP_CompHotSensitiveHot3Text>温度が高すぎます！</ATPP_CompHotSensitiveHot3Text>
-  <ATPP_CompHotSensitiveHot2Text>高温警告</ATPP_CompHotSensitiveHot2Text>
-  <ATPP_CompHotSensitiveHot1Text>やや高温</ATPP_CompHotSensitiveHot1Text>
-  <ATPP_CompHotSensitiveHot0Text>最適な稼働温度</ATPP_CompHotSensitiveHot0Text>
-  <ATPP_CryptoLockedSurrogate>暗号化ロック中、使用不可！</ATPP_CryptoLockedSurrogate>
-  <ATPP_ExplosiveVirus>自爆ウイルス: バッテリー爆発まで{0}秒！</ATPP_ExplosiveVirus>
-  <ATPP_TempHackingLosingControlIn>あと{0}秒で制御を喪失</ATPP_TempHackingLosingControlIn>
-  <ATPP_BatteryLevel>バッテリー残量: {0}%</ATPP_BatteryLevel>
-  <ATPP_TempInfection>あと{0}で感染終了</ATPP_TempInfection>
-  <ATPP_SkyCloudCoreBooting>サーバー起動中（残り{0}秒）</ATPP_SkyCloudCoreBooting>
-  <ATPP_NaniteFrameworkRepairingInProgress>構造体修復中: {0}%</ATPP_NaniteFrameworkRepairingInProgress>
-  <ATPP_VX3SurrogateTypePrimary>主代理体</ATPP_VX3SurrogateTypePrimary>
-  <ATPP_VX3SurrogateTypeSecondary>副代理体</ATPP_VX3SurrogateTypeSecondary>
-  <ATPP_MindAbsorptionProgress>意識吸収進行中: {0}%</ATPP_MindAbsorptionProgress>
-  <ATPP_Rusted>錆びつき</ATPP_Rusted>
-  <ATPP_BatteryExplodeInProgress>バッテリー爆発進行中: {0}%</ATPP_BatteryExplodeInProgress>
-  <ATPP_AutoDoorOpen>開く</ATPP_AutoDoorOpen>
-  <ATPP_AutoDoorOpenDescription>スカイクラウドコアを介して遠隔で開きます。</ATPP_AutoDoorOpenDescription>
-  <ATPP_AutoDoorClose>閉じる</ATPP_AutoDoorClose>
-  <ATPP_AutoDoorCloseDescription>スカイクラウドサーバーを介して遠隔で閉じます。</ATPP_AutoDoorCloseDescription>
-  <ATPP_AutoDoorOpenMoteText>スカイクラウド経由で開放中</ATPP_AutoDoorOpenMoteText>
-  <ATPP_AutoDoorCloseMoteText>スカイクラウド経由で閉鎖中</ATPP_AutoDoorCloseMoteText>
-  <ATPP_FlickEnable>スカイクラウド経由で電源ON</ATPP_FlickEnable>
-  <ATPP_FlickDisable>スカイクラウド経由で電源OFF</ATPP_FlickDisable>
-  <ATPP_LetterSurrogateDisabled>代理体{0}が作動停止</ATPP_LetterSurrogateDisabled>
-  <ATPP_LetterSurrogateDisabledDesc>物理的完全性に対する激しい攻撃を受け、代理体{0}は作動不能になりました。</ATPP_LetterSurrogateDisabledDesc>
-  <ATPP_LetterUploadOK>アップロード完了</ATPP_LetterUploadOK>
-  <ATPP_LetterUploadOKDesc>{0}の意識のアップロードが完了し、{1}の人工頭脳に転送されました。{1}の意識は上書きされ死亡しました。</ATPP_LetterUploadOKDesc>
-  <ATPP_LetterPermuteOK>意識交換完了</ATPP_LetterPermuteOK>
-  <ATPP_LetterPermuteOKDesc>意識の交換が完了し、{0}と{1}の肉体が入れ替わりました。</ATPP_LetterPermuteOKDesc>
-  <ATPP_LetterDuplicateOK>意識複製完了</ATPP_LetterDuplicateOK>
-  <ATPP_LetterDuplicateOKDesc>意識の複製が完了しました。{1}の頭脳には{0}の意識の複製が格納され、元の{1}は死亡したとみなされます。</ATPP_LetterDuplicateOKDesc>
-  <ATPP_LetterSkyCloudUploadOK>スカイクラウドへのアップロード完了</ATPP_LetterSkyCloudUploadOK>
-  <ATPP_LetterSkyCloudUploadOKDesc>スカイクラウドへの意識アップロードが完了しました。{0}の意識は{1}のセントラルメモリに格納されました。</ATPP_LetterSkyCloudUploadOKDesc>
-  <ATPP_LetterSkyCloudReplicateOK>複製完了</ATPP_LetterSkyCloudReplicateOK>
-  <ATPP_LetterSkyCloudReplicateOKDesc>{1}のメモリ内への{0}のニューラルネットワークの複製が完了しました。</ATPP_LetterSkyCloudReplicateOKDesc>
-  <ATPP_LetterSkyCloudDownloadOK>スカイクラウドからのダウンロード完了</ATPP_LetterSkyCloudDownloadOK>
-  <ATPP_LetterSkyCloudDownloadOKDesc>スカイクラウドからの意識ダウンロードが完了しました。{0}の意識は{1}のセントラルメモリに格納されました。</ATPP_LetterSkyCloudDownloadOKDesc>
-  <ATPP_LetterSkyCloudMigrateOK>スカイクラウド意識移行完了</ATPP_LetterSkyCloudMigrateOK>
-  <ATPP_LetterSkyCloudMigrateOKDesc>{1}から{2}への{0}の意識移行が完了しました。</ATPP_LetterSkyCloudMigrateOKDesc>
-  <ATPP_LetterInterruptedUpload>アップロード失敗</ATPP_LetterInterruptedUpload>
-  <ATPP_LetterInterruptedUploadDesc>致命的なエラー: 意識の転送が中断されたため、双方の頭脳に修復不能な破損が生じました（死亡）。{0}</ATPP_LetterInterruptedUploadDesc>
-  <ATPP_LetterInterruptedUploadDescCompHostDead>受取先ホストの死亡</ATPP_LetterInterruptedUploadDescCompHostDead>
-  <ATPP_LetterInterruptedUploadDescCompSourceDead>意識送信元の死亡</ATPP_LetterInterruptedUploadDescCompSourceDead>
-  <ATPP_LetterInterruptedUploadDescCompRandomError>不明なエラーが発生しました</ATPP_LetterInterruptedUploadDescCompRandomError>
-  <ATPP_LetterInterruptedUploadDescCompDiconnectionError>一方または両方の入植者がスカイマインドから切断されました。</ATPP_LetterInterruptedUploadDescCompDiconnectionError>
-  <ATPP_LetterFactionScam>詐欺被害</ATPP_LetterFactionScam>
-  <ATPP_LetterFactionScamCryptolockerDesc>{0}はコロニーを汚染した暗号化ウイルスの削除に応じず、あなた方を騙し取りました…</ATPP_LetterFactionScamCryptolockerDesc>
-  <ATPP_LetterFactionScamRansomwareDesc>{0}はランサムウェアの効果の解除に応じず、あなた方を騙し取りました…</ATPP_LetterFactionScamRansomwareDesc>
-  <ATPP_CryptolockerNeedPayRansomTitle>暗号化ウイルスの身代金</ATPP_CryptolockerNeedPayRansomTitle>
-  <ATPP_CryptolockerNeedPayRansom>{0}から無線通信が入りました。彼らは暗号化ウイルス攻撃の首謀者であり、シルバー{1}と引き換えにウイルスを削除すると要求しています。</ATPP_CryptolockerNeedPayRansom>
-  <ATPP_RansomNeedPayRansomTitle>ランサムウェアの身代金</ATPP_RansomNeedPayRansomTitle>
-  <ATPP_RansomNeedPayRansomCorruptedSKill>{0}から無線通信が入りました。彼らはランサムウェア攻撃の首謀者であり、シルバー{3}と引き換えに{2}の破損したスキル「{1}」を復元すると要求しています。</ATPP_RansomNeedPayRansomCorruptedSKill>
-  <ATPP_RansomNeedPayRansomDownloadedTrait>{0}から無線通信が入りました。彼らはランサムウェア攻撃の首謀者であり、シルバー{3}と引き換えに{2}にインストールされた悪意ある特性「{1}」を削除すると要求しています。</ATPP_RansomNeedPayRansomDownloadedTrait>
-  <ATPP_ComptHeatSensitiveComputerMeltTitle>サーバー過熱</ATPP_ComptHeatSensitiveComputerMeltTitle>
-  <ATPP_ComptHeatSensitiveComputerMeltDesc>サーバーが高温稼働により爆発しました！</ATPP_ComptHeatSensitiveComputerMeltDesc>
-  <ATPP_destroyedMindsDueToDestroyedSkyCloudCore>{0}件の意識の喪失</ATPP_destroyedMindsDueToDestroyedSkyCloudCore>
-  <ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>スカイクラウドコア{0}の破壊に伴い、セントラルメモリに保存されていたすべての意識（{1}件）が失われました。</ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>
-  <ATPP_LetterHackingPointsRemoved>ハッキングポイントの喪失</ATPP_LetterHackingPointsRemoved>
-  <ATPP_LetterHackingPointsRemovedDesc>拠点のすべてのハッキングサーバーがオフラインになったため、記録媒体がなくなり{0}ポイントが失われました！</ATPP_LetterHackingPointsRemovedDesc>
-  <ATPP_LetterSkillPointsRemoved>スキルポイントの喪失</ATPP_LetterSkillPointsRemoved>
-  <ATPP_LetterSkillPointsRemovedDesc>拠点のすべてのスキルサーバーがオフラインになったため、記録媒体がなくなり{0}ポイントが失われました！</ATPP_LetterSkillPointsRemovedDesc>
-  <ATPP_SkyCloudCoreBooted>{0}が起動完了</ATPP_SkyCloudCoreBooted>
-  <ATPP_SkyCloudCoreBootedDesc>スカイクラウドサーバー{0}が正常に起動し、使用可能になりました。</ATPP_SkyCloudCoreBootedDesc>
-  <ATPP_LetterInterruptedSkyCloudReplication>複製失敗</ATPP_LetterInterruptedSkyCloudReplication>
-  <ATPP_LetterInterruptedSkyCloudReplicationDesc>ホストのスカイクラウドコアがオフラインになったため、{0}の意識の複製に失敗しました。</ATPP_LetterInterruptedSkyCloudReplicationDesc>
-  <ATPP_LetterInterruptedSkyCloudMigration>移行失敗</ATPP_LetterInterruptedSkyCloudMigration>
-  <ATPP_LetterInterruptedSkyCloudMigrationDesc>移行先のスカイクラウドコアがオフラインになったため、{0}の意識の移行に失敗しました。</ATPP_LetterInterruptedSkyCloudMigrationDesc>
-  <ATPP_LetterTraitorOffline>裏切り者がオフライン</ATPP_LetterTraitorOffline>
-  <ATPP_LetterTraitorOfflineDesc>{0}はあなた方に寝返って所属派閥を裏切りましたが、派閥に発覚して逮捕されました（そのため操作していた代理体から切断されました）。</ATPP_LetterTraitorOfflineDesc>
-  <ATPP_LetterInterruptedMindAbsorption>意識吸収失敗</ATPP_LetterInterruptedMindAbsorption>
-  <ATPP_LetterInterruptedMindAbsorptionDesc>スカイマインドの切断、または稼働中のポイントサーバーが存在しないため、{0}の意識吸収に失敗しました。</ATPP_LetterInterruptedMindAbsorptionDesc>
-  <ATPP_MindAbsorptionDone>意識吸収完了</ATPP_MindAbsorptionDone>
-  <ATPP_MindAbsorptionDoneDesc>{0}の意識吸収が完了し、{1}スキルポイントを獲得しました</ATPP_MindAbsorptionDoneDesc>
-  <ATPP_LetterExternalSurrogateEscape>代理体操作者の逃亡</ATPP_LetterExternalSurrogateEscape>
-  <ATPP_LetterExternalSurrogateEscapeDesc>あなたが勧誘していた代理体の操作者{0}は、コロニーへの合流を決意しました。彼は代理体から切断し、数日中に敵基地から脱出してコロニーに向かいますが、正確な到着日時は不明です。</ATPP_LetterExternalSurrogateEscapeDesc>
-  <ATPP_LetterExternalSurrogateControllerJoin>元囚人の合流</ATPP_LetterExternalSurrogateControllerJoin>
-  <ATPP_LetterExternalSurrogateControllerJoinDesc>あなたが拘束・転向させた代理体操作者{0}がコロニーに無事到着し、仲間に加わりました。</ATPP_LetterExternalSurrogateControllerJoinDesc>
-  <ATPP_LetterExternalSurrogateControllerCannotJoin>元囚人の合流失敗</ATPP_LetterExternalSurrogateControllerCannotJoin>
-  <ATPP_LetterExternalSurrogateControllerCannotJoinDesc>あなたが拘束・転向させた代理体操作者{0}がコロニーに到達しようと試みましたが、何らかの原因で失敗し、去ってしまいました。</ATPP_LetterExternalSurrogateControllerCannotJoinDesc>
-  <ATPP_LetterExternalSurrogateDisconnect>操作者の切断</ATPP_LetterExternalSurrogateDisconnect>
-  <ATPP_LetterExternalSurrogateDisconnectDesc>あなたが隷属させようとしていた代理体の操作者{0}は、コロニーからこれ以上情報を得られず、奴隷として留まるのは時間の無駄だと判断して切断しました。</ATPP_LetterExternalSurrogateDisconnectDesc>
-  <ATPP_LetterKidnappedM8Disconnected>M8の切断</ATPP_LetterKidnappedM8Disconnected>
-  <ATPP_LetterKidnappedM8DisconnectedDesc>誘拐されたM8（{1}をホストする{0}）の誘拐犯が通信回路にアクセスし、内蔵スカイマインドアンテナを通じて通信していることに気づいて切断しました。そのため、{1}へのログインはできなくなりました。</ATPP_LetterKidnappedM8DisconnectedDesc>
-  <ATPP_DesignatorNeedSelectSX>エラー: スカイマインドネットワークに接続された有効なデバイスを選択してください！</ATPP_DesignatorNeedSelectSX>
-  <ATPP_DesignatorNeedSelectSXToHack>エラー: 他派閥によって操作されている代理アンドロイドを選択してください！</ATPP_DesignatorNeedSelectSXToHack>
-  <ATPP_SkyMindConn>スカイマインドに接続</ATPP_SkyMindConn>
-  <ATPP_SkyMindConnDesc>この入植者をスカイマインドネットワークに接続し、意識のアップロード/交換/複製や、SXシリーズアンドロイド・生体代理体の遠隔操作を可能にします。</ATPP_SkyMindConnDesc>
-  <ATPP_SkyMindAutoConn>自動接続</ATPP_SkyMindAutoConn>
-  <ATPP_SkyMindAutoConnDesc>スカイマインドネットワークから切断された際、空きスロットがあれば自動的に再接続を試みます。</ATPP_SkyMindAutoConnDesc>
-  <ATPP_Duplicate>複製</ATPP_Duplicate>
-  <ATPP_DuplicateDesc>選択中の入植者の意識を別の対象に複製します。</ATPP_DuplicateDesc>
-  <ATPP_Permute>交換</ATPP_Permute>
-  <ATPP_PermuteDesc>選択中の入植者の意識を別の対象と交換します。</ATPP_PermuteDesc>
-  <ATPP_EnableSurrogateControlMode>遠隔操作</ATPP_EnableSurrogateControlMode>
-  <ATPP_EnableSurrogateControlModeDesc>遠隔操作モードを有効化し、この入植者がSXシリーズアンドロイドまたは生体代理体を操作できるようにします。</ATPP_EnableSurrogateControlModeDesc>
-  <ATPP_AndroidToControlTargetDisconnect>切断</ATPP_AndroidToControlTargetDisconnect>
-  <ATPP_AndroidToControlTargetDisconnectDesc>現在の遠隔操作セッションを終了します。</ATPP_AndroidToControlTargetDisconnectDesc>
-  <ATPP_AndroidToControlTarget>接続</ATPP_AndroidToControlTarget>
-  <ATPP_AndroidToControlTargetDesc>選択したノードの操作を開始します。</ATPP_AndroidToControlTargetDesc>
-  <ATPP_ThisCurrentMap>現在のマップ</ATPP_ThisCurrentMap>
-  <ATPP_AndroidToControlTargetRecoverCaravan>回収</ATPP_AndroidToControlTargetRecoverCaravan>
-  <ATPP_AndroidToControlTargetRecoverCaravanDesc>キャラバン内の切断された代理体を回収します。</ATPP_AndroidToControlTargetRecoverCaravanDesc>
-  <ATPP_FreeControllerInCaravan>キャラバン</ATPP_FreeControllerInCaravan>
-  <ATPP_FreeControllerInCaravanDesc>キャラバン内の待機中操作者にこの代理体を接続します</ATPP_FreeControllerInCaravanDesc>
-  <ATPP_AndroidSurrogateReconnectToLastController>再接続</ATPP_AndroidSurrogateReconnectToLastController>
-  <ATPP_AndroidSurrogateReconnectToLastControllerDesc>可能であれば、直前に操作していた使用者にこの代理体を再接続します</ATPP_AndroidSurrogateReconnectToLastControllerDesc>
-  <ATPP_NoVX2Recipient>利用可能な入植者がいません（VX2チップ脳インプラントが必要です）。</ATPP_NoVX2Recipient>
-  <ATPP_NoSkyCloudCoreAvailable>利用可能なスカイクラウドコアがありません</ATPP_NoSkyCloudCoreAvailable>
-  <ATPP_ConsciousnessUploadNoRecipient>ダウンロード先として利用可能な受取先がありません。</ATPP_ConsciousnessUploadNoRecipient>
-  <ATPP_ConsciousnessSelectDestination>転送先ホストを選択</ATPP_ConsciousnessSelectDestination>
-  <ATPP_UploadConsciousness>アップロード</ATPP_UploadConsciousness>
-  <ATPP_UploadConsciousnessDesc>このアンドロイドから別のアンドロイドへ意識をアップロードします。</ATPP_UploadConsciousnessDesc>
-  <ATPP_WarningSkyMindDisconnectionRisk>警告: 操作中にスカイマインドネットワークから切断されると、双方の頭脳が破壊され死亡します</ATPP_WarningSkyMindDisconnectionRisk>
-  <ATPP_UploadConsciousnessConfirm>意識のアップロード</ATPP_UploadConsciousnessConfirm>
-  <ATPP_UploadConsciousnessConfirmDesc>確定すると、{0}は{1}の身体に意識をアップロードし、{1}の意識は消滅（死亡）し、{0}の肉体は機能停止します。本当に続行しますか？</ATPP_UploadConsciousnessConfirmDesc>
-  <ATPP_PermuteConsciousnessConfirm>意識の交換</ATPP_PermuteConsciousnessConfirm>
-  <ATPP_PermuteConsciousnessConfirmDesc>確定すると、{0}と{1}の間で意識が交換され、肉体が入れ替わります。本当に続行しますか？</ATPP_PermuteConsciousnessConfirmDesc>
-  <ATPP_DuplicateConsciousnessConfirm>意識の複製</ATPP_DuplicateConsciousnessConfirm>
-  <ATPP_DuplicateConsciousnessConfirmDesc>確定すると、{0}の意識が{1}の頭脳に複製され、{1}の意識は消滅（死亡）します。本当に続行しますか？</ATPP_DuplicateConsciousnessConfirmDesc>
-  <ATPP_UseBattery>バッテリー駆動</ATPP_UseBattery>
-  <ATPP_UseBatteryDesc>有効にすると、バイオマス発電機の代わりに内蔵バッテリーを直接使用するようにアンドロイドを設定します。</ATPP_UseBatteryDesc>
-  <ATPP_RepairAndroids>アンドロイド修理</ATPP_RepairAndroids>
-  <ATPP_RepairAndroidsDesc>この入植者にアンドロイドの修理を許可します。</ATPP_RepairAndroidsDesc>
-  <ATPP_UploadVirus>ウイルス</ATPP_UploadVirus>
-  <ATPP_UploadVirusDesc>対象の代理体にウイルスをアップロードします。</ATPP_UploadVirusDesc>
-  <ATPP_UploadExplosiveVirus>自爆ウイルス</ATPP_UploadExplosiveVirus>
-  <ATPP_UploadExplosiveVirusDesc>対象の代理体にウイルスをアップロードし、内蔵バッテリーを過負荷にして爆発させます。</ATPP_UploadExplosiveVirusDesc>
-  <ATPP_Hack>ハック</ATPP_Hack>
-  <ATPP_HackDesc>対象の代理体をハッキングして恒久的に制御権を奪います。</ATPP_HackDesc>
-  <ATPP_HackTemp>一時ハック</ATPP_HackTemp>
-  <ATPP_HackTempDesc>高速ハッキングを行い、対象の代理体の制御権を一時的に奪います。</ATPP_HackTempDesc>
-  <ATPP_MoveToSkyCloud>スカイクラウドへアップロード</ATPP_MoveToSkyCloud>
-  <ATPP_MoveToSkyCloudDesc>この操作により、ホストの意識がスカイクラウドコアに移行し、ほぼ不死となりますが、肉体は死亡します。</ATPP_MoveToSkyCloudDesc>
-  <ATPP_MoveFromSkyCloud>スカイクラウドからダウンロード</ATPP_MoveFromSkyCloud>
-  <ATPP_MoveFromSkyCloudDesc>この操作により、スカイクラウドコアに保存されている選択した意識がホストの頭脳に移行します。</ATPP_MoveFromSkyCloudDesc>
-  <ATPP_CentralCoreNbStoredMind>保存された意識: {0}件</ATPP_CentralCoreNbStoredMind>
-  <ATPP_CentralCoreNbAssistingMinds>アシスト割り当て済みの意識: {0}件</ATPP_CentralCoreNbAssistingMinds>
-  <ATPP_CentralCoreMigrationInProgress>{0}から{1}への移行進行中（{2}%）</ATPP_CentralCoreMigrationInProgress>
-  <ATPP_CentralCoreProcessInMentalBreak>{0} 使用不可: 精神崩壊中</ATPP_CentralCoreProcessInMentalBreak>
-  <ATPP_CentralCoreReplicationInProgress>{0}の意識複製中（{1}%）</ATPP_CentralCoreReplicationInProgress>
-  <ATPP_SkyCloudFloatMenuMindsStoredSelect>意識を選択</ATPP_SkyCloudFloatMenuMindsStoredSelect>
-  <ATPP_ProcessInfo>情報</ATPP_ProcessInfo>
-  <ATPP_ProcessInfoDesc>格納されている意識の詳細情報を確認します。</ATPP_ProcessInfoDesc>
-  <ATPP_ProcessRemove>削除</ATPP_ProcessRemove>
-  <ATPP_ProcessRemoveDesc>意識を削除します</ATPP_ProcessRemoveDesc>
-  <ATPP_ProcessRemoveDescConfirm>確定すると、{0}の意識は{1}のメモリから完全に消去され、死亡したとみなされます！</ATPP_ProcessRemoveDescConfirm>
-  <ATPP_ProcessDuplicate>複製</ATPP_ProcessDuplicate>
-  <ATPP_ProcessDuplicateDesc>意識を複製します。</ATPP_ProcessDuplicateDesc>
-  <ATPP_ProcessAssist>アシスト</ATPP_ProcessAssist>
-  <ATPP_ProcessAssistDesc>スカイマインドネットワークに接続された入植者をアシストする意識を設定します。割り当てられた意識ごとに全体の心情が向上します。</ATPP_ProcessAssistDesc>
-  <ATPP_ProcessMigrate>移行</ATPP_ProcessMigrate>
-  <ATPP_ProcessMigrateDesc>このスカイクラウドコアから別のコアへ意識を移行します</ATPP_ProcessMigrateDesc>
-  <ATPP_ProcessAssistAssignedMinds>アシスト解除（削除）</ATPP_ProcessAssistAssignedMinds>
-  <ATPP_ProcessAssistUnassignedMinds>アシスト割り当て（追加）</ATPP_ProcessAssistUnassignedMinds>
-  <ATPP_ProcessAssistAssignAll>未割り当ての意識をすべて割り当て</ATPP_ProcessAssistAssignAll>
-  <ATPP_ProcessAssistUnassignAll>割り当て済みの意識をすべて解除</ATPP_ProcessAssistUnassignAll>
-  <ATPP_ProcessDisconnectAllSurrogates>すべて切断</ATPP_ProcessDisconnectAllSurrogates>
-  <ATPP_StopVirused>停止</ATPP_StopVirused>
-  <ATPP_StopVirusedDesc>感染した代理体を強制シャットダウンします</ATPP_StopVirusedDesc>
-  <ATPP_PreviousSurrogateControllerIs>前回の操作者: {0}</ATPP_PreviousSurrogateControllerIs>
-  <ATPP_Skills>スキル</ATPP_Skills>
-  <ATPP_SkillsDesc>スキルワークショップを開き、サーバーで生成されたスキルポイントをアンドロイドの追加スキルに変換します</ATPP_SkillsDesc>
-  <ATPP_MindAbsorption>意識吸収</ATPP_MindAbsorption>
-  <ATPP_MindAbsorptionDesc>囚人の意識を吸収してスキルポイントに変換します（致命的な操作）</ATPP_MindAbsorptionDesc>
-  <ATPP_MindAbsorptionConfirm>意識吸収</ATPP_MindAbsorptionConfirm>
-  <ATPP_MindAbsorptionConfirmDesc>確定すると、{0}の意識は吸収されてスキルポイントに変換されます（致命的な操作）。本当に続行しますか？</ATPP_MindAbsorptionConfirmDesc>
-  <ATPP_UploadMakeAndroidBatteryOverloadConfirm>バッテリー過負荷</ATPP_UploadMakeAndroidBatteryOverloadConfirm>
-  <ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>注意: 確定すると、選択したアンドロイドのバッテリーが過負荷になり、短時間後に爆発します。本当に続行しますか？</ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>
-  <ATPP_OverloadAndroid>過負荷</ATPP_OverloadAndroid>
-  <ATPP_OverloadAndroidDesc>アンドロイドのバッテリーを爆発させます</ATPP_OverloadAndroidDesc>
-  <ATPP_LWPNConnected>{0}に接続</ATPP_LWPNConnected>
-  <ATPP_LWPNDisconnected>{0}から切断</ATPP_LWPNDisconnected>
-  <ATPP_NoAvailableLWPN>利用可能なLWPNがありません</ATPP_NoAvailableLWPN>
-  <ATPP_LWPNNbConnectedAndroid>接続中のアンドロイド: {0}</ATPP_LWPNNbConnectedAndroid>
-  <ATPP_MessageLWPNNoSlotAvailable>LWPNの空きスロットがありません！</ATPP_MessageLWPNNoSlotAvailable>
-  <ATPP_SkyMindAntennaSynthesis>接続ユーザー数: {0} / {1}</ATPP_SkyMindAntennaSynthesis>
-  <ATPP_ForceReload>バッテリー充電を強制</ATPP_ForceReload>
-  <ATPP_CannotUseEveryPlaceUsed>充電ステーションが満杯のため使用できません。</ATPP_CannotUseEveryPlaceUsed>
-  <ATPP_CannotUseBecauseNotInBatteryMode>選択したアンドロイドの内蔵バッテリーが既定の動力源に設定されていないため使用できません。</ATPP_CannotUseBecauseNotInBatteryMode>
-  <ATPP_SecurityServersSynthesis>保護対象の代理体: {0} / {1}</ATPP_SecurityServersSynthesis>
-  <ATPP_HackingServersSynthesis>利用可能なハッキングポイント: {0} / {1}</ATPP_HackingServersSynthesis>
-  <ATTP_HackingSlotsAdded>追加ハッキングスロット: {0}</ATTP_HackingSlotsAdded>
-  <ATTP_HackingProducedPoints>ハッキングポイント生成中: {0}</ATTP_HackingProducedPoints>
-  <ATTP_SecuritySlotsAdded>追加セキュリティスロット: {0}</ATTP_SecuritySlotsAdded>
-  <ATPP_SkillServersSynthesis>利用可能なスキルポイント: {0} / {1}</ATPP_SkillServersSynthesis>
-  <ATTP_SkillSlotsAdded>追加スキルスロット: {0}</ATTP_SkillSlotsAdded>
-  <ATTP_SkillProducedPoints>スキルポイント生成中: {0}</ATTP_SkillProducedPoints>
-  <ATPP_HairColor>髪の色</ATPP_HairColor>
-  <ATPP_HairColorBlond>金髪</ATPP_HairColorBlond>
-  <ATPP_HairColorBlack>黒髪</ATPP_HairColorBlack>
-  <ATPP_HairColorAuburn>赤褐色</ATPP_HairColorAuburn>
-  <ATPP_HairColorGrey>灰色</ATPP_HairColorGrey>
-  <ATPP_HairColorGinger>赤毛</ATPP_HairColorGinger>
-  <ATPP_HairColorWhite>白髪</ATPP_HairColorWhite>
-  <ATPP_SkinColor>肌の色</ATPP_SkinColor>
-  <ATPP_SkinColorVerylight>非常に明るい</ATPP_SkinColorVerylight>
-  <ATPP_SkinColorLight>明るい</ATPP_SkinColorLight>
-  <ATPP_SkinColorFair>普通</ATPP_SkinColorFair>
-  <ATPP_SkinColorMidbrown>中褐色</ATPP_SkinColorMidbrown>
-  <ATPP_SkinColorDarkbrown>暗褐色</ATPP_SkinColorDarkbrown>
-  <ATPP_SkinColorVerydark>非常に暗い褐色</ATPP_SkinColorVerydark>
-  <ATPP_CannotConnectToSkyMindNoNet>ネットワークが利用できないため、スカイマインドに接続できません！</ATPP_CannotConnectToSkyMindNoNet>
-  <ATPP_CannotConnectToSkyMind>空きスロットが不足しているため、スカイマインドに接続できません！</ATPP_CannotConnectToSkyMind>
-  <ATPP_SurrogateUnexpectedDisconnection>予期せぬ切断: {0}はスカイマインドネットワークから切断されました！</ATPP_SurrogateUnexpectedDisconnection>
-  <ATPP_SurrogateConnectionCannotBeDisconnected>{0}が現在精神不安定な状態にあるため、切断できません</ATPP_SurrogateConnectionCannotBeDisconnected>
-  <ATPP_SurrogateConnectionOK>{0}は{1}に接続されました</ATPP_SurrogateConnectionOK>
-  <ATPP_StartPermute>{0}と{1}の間で意識の交換が開始されました！</ATPP_StartPermute>
-  <ATPP_StartDuplicate>{0}から{1}への意識複製が開始されました！</ATPP_StartDuplicate>
-  <ATPP_StartSkyCloudUpload>{0}の意識の{1}へのアップロードが開始されました！</ATPP_StartSkyCloudUpload>
-  <ATPP_StartSkyCloudUploadFailedFull>{1}への{0}の意識のアップロードは実行できません。{1}の意識ストレージの空き容量が不足しているためです</ATPP_StartSkyCloudUploadFailedFull>
-  <ATPP_StartSkyCloudDownload>{0}の意識の{1}の頭脳へのダウンロードが開始されました！</ATPP_StartSkyCloudDownload>
-  <ATPP_StartSkyCloudMigration>{0}の意識の{1}から{2}への移行が開始されました！</ATPP_StartSkyCloudMigration>
-  <ATPP_StartSkyCloudMigrationFailed>{1}への{0}の意識の移行は実行できません。{1}の意識ストレージの空き容量が不足しているためです</ATPP_StartSkyCloudMigrationFailed>
-  <ATPP_StartUpload>{0}から{1}への意識アップロードが開始されました！</ATPP_StartUpload>
-  <ATPP_CanOnlyBeUsedByAndroid>この装置はアンドロイドのみ使用可能です！</ATPP_CanOnlyBeUsedByAndroid>
-  <ATPP_CannotBeUsedBecauseNoOldAgeIssues>アンドロイドの経年劣化による問題が見つからないため、使用できません</ATPP_CannotBeUsedBecauseNoOldAgeIssues>
-  <ATPP_NoBrokenStuffFound>アンドロイド{0}に故障は見つかりませんでした！</ATPP_NoBrokenStuffFound>
-  <ATPP_BrokenStuffRepairFailed>エラー: ナノマシンによる修復に失敗しました！</ATPP_BrokenStuffRepairFailed>
-  <ATPP_BrokenCPURepaired>人工頭脳の修復に成功しました！</ATPP_BrokenCPURepaired>
-  <ATPP_BrokenHydraulicSystemRepaired>油圧システムの修復に成功しました！</ATPP_BrokenHydraulicSystemRepaired>
-  <ATPP_BrokenCoolingSystemRepaired>冷却システムの修復に成功しました！</ATPP_BrokenCoolingSystemRepaired>
-  <ATPP_BrokenFrameworkRepaired>構造体の修復に成功しました！</ATPP_BrokenFrameworkRepaired>
-  <ATPP_CryptolockerClearedByFaction>{0}は感染した代理体から暗号化ウイルスを除去しました！</ATPP_CryptolockerClearedByFaction>
-  <ATPP_CryptolockerDeviceClearedByFaction>{0}は接続デバイスから暗号化ウイルスを除去しました！</ATPP_CryptolockerDeviceClearedByFaction>
-  <ATPP_RansomwareClearedByFaction>{0}は{1}に生じた損傷に必要な修復を行いました</ATPP_RansomwareClearedByFaction>
-  <ATPP_SurrogateHackOK>{0}のハッキングに成功しました！</ATPP_SurrogateHackOK>
-  <ATPP_CannotHackNotEnoughtHackingPoints>ハッキングポイントが不足しています。ハッキングには{0}ポイント必要です！</ATPP_CannotHackNotEnoughtHackingPoints>
-  <ATPP_ProcessDuplicateOK>{0}のニューラルネットワークを複製中です。</ATPP_ProcessDuplicateOK>
-  <ATPP_ProcessDuplicateFailed>コア内の意識ストレージ空き容量が不足しているため、{0}のニューラルネットワークを複製できません</ATPP_ProcessDuplicateFailed>
-  <ATPP_ProcessRemoveOK>{0}のニューラルネットワークを消去しました。</ATPP_ProcessRemoveOK>
-  <ATPP_ProcessAssistOK>{0}の意識は接続中の入植者をアシストするように割り当てられました。</ATPP_ProcessAssistOK>
-  <ATPP_ProcessUnassistOK>{0}の意識は接続中の入植者のアシストから解除されました。</ATPP_ProcessUnassistOK>
-  <ATPP_ProcessNoLongerInMentalBreak>{1}に保存されている{0}の意識の精神崩壊が治まりました</ATPP_ProcessNoLongerInMentalBreak>
-  <ATPP_CannotReconnectToLastSurrogateController>前回の代理体操作者が利用不可（多忙、死亡、スカイマインド未接続など）のため、再接続できません</ATPP_CannotReconnectToLastSurrogateController>
-  <ATPP_ProcessMassAssist>{0}件の意識が割り当てられました！</ATPP_ProcessMassAssist>
-  <ATPP_ProcessMassUnassist>{0}件の意識が解除されました！</ATPP_ProcessMassUnassist>
-  <ATPP_SkillsWorkshopPointsConverted>{0}スキルポイントが{1}に追加されました</ATPP_SkillsWorkshopPointsConverted>
-  <ATPP_SkillsWorkshopAvailablePoints>利用可能なポイント: {0}</ATPP_SkillsWorkshopAvailablePoints>
-  <ATPP_SkillsWorkshopAvailablePointsNote>注意: このアンドロイドモデルでは、利用可能なポイント1を生成するためにサーバー生成スキルポイントが{0}必要です</ATPP_SkillsWorkshopAvailablePointsNote>
-  <ATPP_MindAbsorptionStarted>{0}の意識吸収を開始しました</ATPP_MindAbsorptionStarted>
-  <ATPP_NotEnoughtSkillPoints>利用可能なスキルポイントが不足しています！（{0}ポイント必要）</ATPP_NotEnoughtSkillPoints>
-  <ATPP_CannotAddVXNeuralChipInSurrogates>代理体にこの種のチップを追加することはできません！チップが破損し使用不能になりました！</ATPP_CannotAddVXNeuralChipInSurrogates>
-  <ATPP_SettingsSectionGeneral>一般</ATPP_SettingsSectionGeneral>
-  <ATPP_SettingsSectionSkyCloud>スカイクラウド</ATPP_SettingsSectionSkyCloud>
-  <ATPP_SettingsSectionSecurity>セキュリティ</ATPP_SettingsSectionSecurity>
-  <ATPP_SettingsSectionVX2>VX2 ニューラルチップ</ATPP_SettingsSectionVX2>
-  <ATPP_SettingsSectionVX3>VX3 ニューラルチップ</ATPP_SettingsSectionVX3>
-  <ATPP_SettingsSectionSkills>T1/T2 スキル</ATPP_SettingsSectionSkills>
-  <ATPP_SettingsSectionBatteryOverload>バッテリー過負荷</ATPP_SettingsSectionBatteryOverload>
-  <ATPP_SettingsDefaultAndroidGeneratorMode>アンドロイドの既定エネルギーモード:</ATPP_SettingsDefaultAndroidGeneratorMode>
-  <ATPP_SettingsDefaultAndroidGeneratorModeBiomass>バイオマス発電機を使用（食事を摂取）</ATPP_SettingsDefaultAndroidGeneratorModeBiomass>
-  <ATPP_SettingsDefaultAndroidGeneratorModeBattery>内蔵バッテリーを直接使用（電力網から充電）</ATPP_SettingsDefaultAndroidGeneratorModeBattery>
-  <ATPP_SettingsMindUploadDuration>意識アップロードの所要時間（{0}時間）</ATPP_SettingsMindUploadDuration>
-  <ATPP_SettingsMindReplicationDuration>意識複製の所要時間（{0}時間）</ATPP_SettingsMindReplicationDuration>
-  <ATPP_SettingsMindPermutationDuration>意識交換の所要時間（{0}時間）</ATPP_SettingsMindPermutationDuration>
-  <ATPP_SettingsMindDuplicationDuration>意識複製の所要時間（{0}時間）</ATPP_SettingsMindDuplicationDuration>
-  <ATPP_SettingsMindUploadPercentageFail>意識転送失敗の危険率（{0}%）</ATPP_SettingsMindUploadPercentageFail>
-  <ATPP_SettingsNanitePercentageFail>ナノマシンによる修理失敗の危険率（{0}%）</ATPP_SettingsNanitePercentageFail>
-  <ATPP_SettingsCharchingStationWattIncrease>{0}の充電中に増加する消費電力</ATPP_SettingsCharchingStationWattIncrease>
-  <ATPP_SettingsFoodGenerateLessEnergy>バイオマス（食料）からアンドロイドが得られるエネルギーを減少（人間の半分）</ATPP_SettingsFoodGenerateLessEnergy>
-  <ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>6秒ごとに充電されるバッテリーの割合（{0}%）</ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>
-  <ATPP_SettingsNbHoursMinServerRunningHotBeforeExplode>サーバーが高温稼働してから爆発するまでの最小時間（{0}時間）</ATPP_SettingsNbHoursMinServerRunningHotBeforeExplode>
-  <ATPP_SettingsNbHoursMaxServerRunningHotBeforeExplode>サーバーが高温稼働してから爆発するまでの最大時間（{0}時間）</ATPP_SettingsNbHoursMaxServerRunningHotBeforeExplode>
-  <ATPP_SettingsNbHoursMinSkyCloudServerRunningHotBeforeExplode>スカイクラウドコアが高温稼働してから爆発するまでの最小時間（{0}時間）</ATPP_SettingsNbHoursMinSkyCloudServerRunningHotBeforeExplode>
-  <ATPP_SettingsNbHoursMaxSkyCloudServerRunningHotBeforeExplode>スカイクラウドコアが高温稼働してから爆発するまでの最大時間（{0}時間）</ATPP_SettingsNbHoursMaxSkyCloudServerRunningHotBeforeExplode>
-  <ATPP_SettingsDelayExplosiveVirus>自爆ウイルスに感染したアンドロイドが爆発するまでの秒数（{0}秒）</ATPP_SettingsDelayExplosiveVirus>
-  <ATPP_SettingsRiskFactionNotRemoveCryptolocker>身代金支払い後に派閥が暗号化ウイルスを除去しない確率（{0}%）</ATPP_SettingsRiskFactionNotRemoveCryptolocker>
-  <ATPP_SettingsRansomCost>暗号化ウイルスの身代金コスト（{0}）:</ATPP_SettingsRansomCost>
-  <ATPP_SettingsAndroidCanUseOrganicMedicine>アンドロイドが生体医薬品を使用可能</ATPP_SettingsAndroidCanUseOrganicMedicine>
-  <ATPP_SettingsRiskGetLittleVirusEvenWithSecurityServers>セキュリティシステムが全端末を保護していてもウイルスに感染（影響緩和）する確率（{0}%）</ATPP_SettingsRiskGetLittleVirusEvenWithSecurityServers>
-  <ATPP_SettingsRiskFactionNotRemoveRansomwareEffect>身代金支払い後に派閥がランサムウェアの効果を解除しない確率（{0}%）</ATPP_SettingsRiskFactionNotRemoveRansomwareEffect>
-  <ATPP_SettingsMinSilverToRemoveBadTrait>悪意ある特性を解除するために支払う最小シルバー量</ATPP_SettingsMinSilverToRemoveBadTrait>
-  <ATPP_SettingsMaxSilverToRemoveBadTrait>悪意ある特性を解除するために支払う最大シルバー量</ATPP_SettingsMaxSilverToRemoveBadTrait>
-  <ATPP_SettingsRansomwareSilverPerSkillLevel>破損スキルを復元するために支払うスキルレベルごとのシルバー量</ATPP_SettingsRansomwareSilverPerSkillLevel>
-  <ATPP_SettingsDisableSolarFlareImpactOnAndroids>アンドロイドに対する太陽フレアの悪影響を無効化</ATPP_SettingsDisableSolarFlareImpactOnAndroids>
-  <ATPP_SettingsDisableSecurityStuff>スカイマインド経由のウイルスとハッキングを無効化</ATPP_SettingsDisableSecurityStuff>
-  <ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroupMin>他派閥のグループに含まれる代理体の最小割合（{0}%）</ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroupMin>
-  <ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroup>他派閥のグループに含まれる代理体の最大割合（{0}%）</ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroup>
-  <ATPP_SettingsOtherFactionsCanUseSurrogate>他派閥が代理アンドロイドを使用可能</ATPP_SettingsOtherFactionsCanUseSurrogate>
-  <ATPP_SettingsTempHackDuration>代理体の一時ハック持続時間（{0}秒）</ATPP_SettingsTempHackDuration>
-  <ATPP_SettingsCostHackingPoints>（{0}）の消費ハッキングポイント:</ATPP_SettingsCostHackingPoints>
-  <ATPP_SettingsCostVirus>ウイルス</ATPP_SettingsCostVirus>
-  <ATPP_SettingsCostVirusExplosive>自爆ウイルス</ATPP_SettingsCostVirusExplosive>
-  <ATPP_SettingsCostHack>ハッキング</ATPP_SettingsCostHack>
-  <ATPP_SettingsCostHackTemp>一時ハッキング</ATPP_SettingsCostHackTemp>
-  <ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>太陽フレア発生時にアンドロイドを行動不能にする</ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>
-  <ATPP_SettingsDisableServersAlarm>サーバーの発熱警報を無効化</ATPP_SettingsDisableServersAlarm>
-  <ATPP_SettingsDisableServersAmbianceNoises>サーバーの環境音を無効化</ATPP_SettingsDisableServersAmbianceNoises>
-  <ATPP_SettingsAppliedToNextSaveLoading>（マップ再読み込み後に適用）</ATPP_SettingsAppliedToNextSaveLoading>
-  <ATPP_SettingsDisableLowNetworkMalus>スカイマインドネットワーク弱電界ペナルティを無効化</ATPP_SettingsDisableLowNetworkMalus>
-  <ATPP_SettingsDisableLowNetworkMalusInCaravans>キャラバン内でのスカイマインド弱電界ペナルティを無効化</ATPP_SettingsDisableLowNetworkMalusInCaravans>
-  <ATPP_SettingsPowerConsumedByStoredMind>スカイクラウドコアに保存された意識1つあたりの消費電力</ATPP_SettingsPowerConsumedByStoredMind>
-  <ATPP_SettingsMindUploadToSkyCloudDuration>スカイクラウドへの意識アップロード所要時間（{0}時間）</ATPP_SettingsMindUploadToSkyCloudDuration>
-  <ATPP_SettingsMindMigrationCloudDuration>意識移行の所要時間（{0}時間）</ATPP_SettingsMindMigrationCloudDuration>
-  <ATPP_SettingsHideRemotelyControlledIcon>遠隔操作中のデバイス上部に表示されるアイコンを非表示</ATPP_SettingsHideRemotelyControlledIcon>
-  <ATPP_SettingsSkyCloudBuffPerAssistingMind>スカイクラウドのアシスト意識1件あたりのバフ値（{0}）</ATPP_SettingsSkyCloudBuffPerAssistingMind>
-  <ATPP_SettingsNbSlotAddedForSkillServers>{0}スキルサーバーにより追加されるスロット数（{1}）</ATPP_SettingsNbSlotAddedForSkillServers>
-  <ATPP_SettingsNbSlotAddedForHackingServers>{0}ハッキングサーバーにより追加されるスロット数（{1}）</ATPP_SettingsNbSlotAddedForHackingServers>
-  <ATPP_SettingsNbSlotAddedForSecurityServers>{0}セキュリティサーバーにより追加されるスロット数（{1}）</ATPP_SettingsNbSlotAddedForSecurityServers>
-  <ATPP_SettingsNbPointsProducedForHackingServers>{0}ハッキングサーバーのポイント生成量（30秒ごと）（{1}）</ATPP_SettingsNbPointsProducedForHackingServers>
-  <ATPP_SettingsMinNbHoursLiteHackingDeviceAttackLast>軽度デバイスハッキング攻撃の最小持続時間（{0}時間）</ATPP_SettingsMinNbHoursLiteHackingDeviceAttackLast>
-  <ATPP_SettingsMaxNbHoursLiteHackingDeviceAttackLast>軽度デバイスハッキング攻撃の最大持続時間（{0}時間）</ATPP_SettingsMaxNbHoursLiteHackingDeviceAttackLast>
-  <ATPP_SettingsHideInactiveSurrogates>入植者バーから非アクティブな代理体を非表示</ATPP_SettingsHideInactiveSurrogates>
-  <ATPP_SettingsAndroidsOnlyHealedByCrafter>アンドロイドの治療・修理を鍛冶屋（工芸担当者）のみに制限</ATPP_SettingsAndroidsOnlyHealedByCrafter>
-  <ATPP_SettingsMinDurationOfMindMentalBreak>デジタル化された意識の精神崩壊の最小持続時間（{0}時間）</ATPP_SettingsMinDurationOfMindMentalBreak>
-  <ATPP_SettingsMaxDurationOfMindMentalBreak>デジタル化された意識の精神崩壊の最大持続時間（{0}時間）</ATPP_SettingsMaxDurationOfMindMentalBreak>
-  <ATPP_SettingsSecToBootASkyCloudCore>スカイクラウドコアの起動時間（{0}秒）</ATPP_SettingsSecToBootASkyCloudCore>
-  <ATPP_SettingsDisableAbilityOfSkyCloudServersToTalk>スカイクラウドコアが発話する機能を無効化</ATPP_SettingsDisableAbilityOfSkyCloudServersToTalk>
-  <ATPP_SettingsNotRemoveAllTraitsOfBasicAndroids>T1/T2アンドロイドの全特性を削除しない</ATPP_SettingsNotRemoveAllTraitsOfBasicAndroids>
-  <ATPP_SettingsAndroidsCanEatLivingPlants>アンドロイドが生きた植物を摂取可能</ATPP_SettingsAndroidsCanEatLivingPlants>
-  <ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>T1/T2アンドロイドのスキルの情熱をすべて削除しない</ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>
-  <ATPP_SettingsVX3MaxSurrogateControllableAtOnce>同時に操作可能な代理体の最大数（{0}）</ATPP_SettingsVX3MaxSurrogateControllableAtOnce>
-  <ATPP_SettingsNbPointsProducedForSkillServers>{0}スキルサーバーのポイント生成量（30秒ごと）（{1}）</ATPP_SettingsNbPointsProducedForSkillServers>
-  <ATPP_SettingsRandomSkillsMode>スキルをランダムにする</ATPP_SettingsRandomSkillsMode>
-  <ATPP_SettingsPreventM7T5AppearingInCharacterEditor>キャラクター作成画面にT5/M7が出現するのを防ぐ</ATPP_SettingsPreventM7T5AppearingInCharacterEditor>
-  <ATPP_SettingsMinHoursNaniteBankFramework>構造ナノマシンバンクの効果が適用されるまでの最小時間（{0}時間）</ATPP_SettingsMinHoursNaniteBankFramework>
-  <ATPP_SettingsMaxHoursNaniteBankFramework>構造ナノマシンバンクの効果が適用されるまでの最大時間（{0}時間）</ATPP_SettingsMaxHoursNaniteBankFramework>
-  <ATPP_SettingsNbSkillPointsPerSkill>スキル1つを生成するのに必要なスキルポイント数（{0}）</ATPP_SettingsNbSkillPointsPerSkill>
-  <ATPP_RemoveComfortNeedForT3T4>T3以上のアンドロイドの快適さの欲求を削除</ATPP_RemoveComfortNeedForT3T4>
-  <ATPP_SettingsAllowHumanDrugsForT3P>T3以上のアンドロイドに人間用薬物の使用を許可</ATPP_SettingsAllowHumanDrugsForT3P>
-  <ATPP_SettingsAllowHumanDrugsFor>アンドロイドに人間用薬物の使用を許可</ATPP_SettingsAllowHumanDrugsFor>
-  <ATPP_SettingsUploadMindToSkyCloudCoreMode>スカイクラウドコアへの意識アップロードモード:</ATPP_SettingsUploadMindToSkyCloudCoreMode>
-  <ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>転送元意識の肉体を死亡させる</ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>
-  <ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>転送元意識のニューラルチップ回路を自動的にVX0モードに再構成する</ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>
-  <ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>転送元意識の肉体に何も起きない（複製）</ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>
-  <ATPP_SettingsRemoveSimpleMindedTraitOnUpload>T1がより高度な宿主（人間、T2以上）に転送された際、単純特性を削除する</ATPP_SettingsRemoveSimpleMindedTraitOnUpload>
-  <ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>生成されたアンドロイドが塗装または錆びる確率（{0}%）</ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>
-  <ATPP_SettingsAndroidsCanRust>アンドロイドが錆びる</ATPP_SettingsAndroidsCanRust>
-  <ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>アンドロイドの塗装が錆びるまでの最小日数（{0}日）</ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>
-  <ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>アンドロイドの塗装が錆びるまでの最大日数（{0}日）</ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>
-  <ATPP_SettingsAndroidsAreRare>他派閥でのアンドロイドを稀少にする（警告: すべてのアンドロイド派閥が削除されます）</ATPP_SettingsAndroidsAreRare>
-  <ATPP_SettingsAllowAutoRepaint>現在の塗装の有効期限が切れそうな場合、アンドロイドが自動で再塗装作業をスケジュールすることを許可</ATPP_SettingsAllowAutoRepaint>
-  <ATPP_SettingsAllowAutoRepaintPrisoned>囚人アンドロイドにも再塗装作業の再スケジュールを許可</ATPP_SettingsAllowAutoRepaintPrisoned>
-  <ATPP_SettingsMaxAndroidByPortableLWPN>携帯型LWPNエミッター（Power++）あたりの最大アンドロイド数（{0}）</ATPP_SettingsMaxAndroidByPortableLWPN>
-  <ATPP_SettingsAllowT5ToWearClothes>T5に衣服の着用を許可</ATPP_SettingsAllowT5ToWearClothes>
-  <ATPP_SettingsChanceCreatedAndroidsAreMale>製造されたアンドロイドが男性モデルになる確率（{0}%）</ATPP_SettingsChanceCreatedAndroidsAreMale>
-  <ATPP_SettingsHideAbilityToForceEatingLivingPlants>生きた植物の強制摂取メニューを非表示</ATPP_SettingsHideAbilityToForceEatingLivingPlants>
-  <ATPP_SettingsPassionCost>情熱を高めるために必要なスキルポイント（{0}）</ATPP_SettingsPassionCost>
-  <ATPP_SettingsVX0KeepBodyBackstory>人形の生い立ちを保持（VX0）</ATPP_SettingsVX0KeepBodyBackstory>
-  <ATPP_SettingsAllowSurrogateConnectionInitMalus>代理体接続初期化ペナルティを許可</ATPP_SettingsAllowSurrogateConnectionInitMalus>
-  <ATPP_SettingsAllowAndroidsToUseHospitalBeds>アンドロイドに医療用ベッドの使用を許可</ATPP_SettingsAllowAndroidsToUseHospitalBeds>
-  <ATPP_SettingsPercentageOfOtherFactionSurrogateHavingAnRXChip>他派閥の代理体がRXチップを搭載している確率（{0}%）</ATPP_SettingsPercentageOfOtherFactionSurrogateHavingAnRXChip>
-  <ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>勧誘された代理体操作者が逮捕されずに派閥に合流できる確率（{0}%）</ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>
-  <ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>誘拐されたM8がスカイマインドから切断されるまでの最小時間（{0}時間）</ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>
-  <ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>誘拐されたM8がスカイマインドから切断されるまでの最大時間（{0}時間）</ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>
-  <ATPP_SettingsAndroidOverloadBatteryProrata>爆発の威力はバッテリー残量に比例する</ATPP_SettingsAndroidOverloadBatteryProrata>
-  <ATPP_SettingsAndroidOverloadRadius>アンドロイド爆発半径（{0}）</ATPP_SettingsAndroidOverloadRadius>
-  <ATPP_SettingsM7OverloadRadius>M7爆発半径（{0}）</ATPP_SettingsM7OverloadRadius>
-  <ATPP_SettingsAndroidOverloadExplosionType>爆発タイプ</ATPP_SettingsAndroidOverloadExplosionType>
-  <ATPP_SettingsAndroidOverloadExplosionTypeDefault>破片</ATPP_SettingsAndroidOverloadExplosionTypeDefault>
-  <ATPP_SettingsAndroidOverloadExplosionTypeFire>焼夷</ATPP_SettingsAndroidOverloadExplosionTypeFire>
-  <ATPP_SettingsSetT1ResearchToIndustrialTechLevel>T1の研究技術レベルを宇宙世紀から産業革命時代に変更</ATPP_SettingsSetT1ResearchToIndustrialTechLevel>
-  <ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>意識複製時、単一役職の能力を転送先の意識に移行する</ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>
-
+	<ATPP_AlertHot3Devices>コンピューター過熱</ATPP_AlertHot3Devices>
+	<ATPP_AlertHot3DevicesDesc>1台以上のコンピューターが最高温度閾値に達しました！速やかに適切な温度まで冷却してください！</ATPP_AlertHot3DevicesDesc>
+	<ATPP_AlertHot2Devices>コンピューター高温</ATPP_AlertHot2Devices>
+	<ATPP_AlertHot2DevicesDesc>1台以上のコンピューターが高温になっています。速やかに周囲温度を下げてください！</ATPP_AlertHot2DevicesDesc>
+	<ATPP_AlertUnsecurisedClients>{0}台の保護されていないスカイマインド端末</ATPP_AlertUnsecurisedClients>
+	<ATPP_AlertUnsecurisedClientsDesc>警告: ネットワーク経由でハッキングされる危険性があるスカイマインド端末が{0}台あります。これを防ぐためにセキュリティサーバーを構築してください。</ATPP_AlertUnsecurisedClientsDesc>
+	<ATPP_IncidentSurrogateHackingVirus>SX ウイルス</ATPP_IncidentSurrogateHackingVirus>
+	<ATPP_IncidentSurrogateHackingCryptolocker>SX 暗号化ウイルス</ATPP_IncidentSurrogateHackingCryptolocker>
+	<ATPP_IncidentSurrogateHackingExplosiveVirus>SX 自爆ウイルス</ATPP_IncidentSurrogateHackingExplosiveVirus>
+	<ATPP_IncidentSurrogateHackingLiteDesc>セキュリティシステムが攻撃の一部を無効化しましたが、{0}台の代理体のサブシステムが侵害されました。</ATPP_IncidentSurrogateHackingLiteDesc>
+	<ATPP_IncidentSurrogateHackingHardDesc>セキュリティシステムが代理アンドロイド部隊全体を保護しきれず、{0}台のアンドロイドのOSが完全に侵害されました。</ATPP_IncidentSurrogateHackingHardDesc>
+	<ATPP_IncidentVirusedDesc>これらの代理体は完全にウイルスの制御下に置かれ、あなたを攻撃してきます！</ATPP_IncidentVirusedDesc>
+	<ATPP_IncidentVirusedExplosiveDesc>これらの代理体は完全にウイルスの制御下に置かれ、あなたを攻撃するとともに、カウントダウン終了時に内蔵バッテリーを爆発させます！</ATPP_IncidentVirusedExplosiveDesc>
+	<ATPP_IncidentCryptolockerDesc>感染したすべての代理体は完全に作動不能になりました。この攻撃を行った派閥に身代金を支払うことで、（願わくば）解除することができます。</ATPP_IncidentCryptolockerDesc>
+	<ATPP_IncidentDeviceHackingVirus>ウイルス</ATPP_IncidentDeviceHackingVirus>
+	<ATPP_IncidentDeviceHackingCryptolocker>暗号化ウイルス</ATPP_IncidentDeviceHackingCryptolocker>
+	<ATPP_IncidentDeviceHackingExplosiveVirus>自爆ウイルス</ATPP_IncidentDeviceHackingExplosiveVirus>
+	<ATPP_IncidentDeviceHackingLiteDesc>セキュリティシステムが攻撃の一部を無効化しましたが、{0}台の接続デバイスが一時的に侵害されました。</ATPP_IncidentDeviceHackingLiteDesc>
+	<ATPP_IncidentDeviceHackingHardDesc>セキュリティシステムがすべての接続デバイスを保護しきれず、{0}台の接続デバイスのOSが完全に侵害されました。</ATPP_IncidentDeviceHackingHardDesc>
+	<ATPP_IncidentDeviceVirusedDesc>これらのデバイスは完全にウイルスの制御下に置かれました！</ATPP_IncidentDeviceVirusedDesc>
+	<ATPP_IncidentDeviceVirusedExplosiveDesc>これらのデバイスは完全にウイルスの制御下に置かれ、カウントダウン終了時に爆発します！</ATPP_IncidentDeviceVirusedExplosiveDesc>
+	<ATPP_IncidentDeviceCryptolockerDesc>感染したすべてのデバイスは完全に作動不能になりました。この攻撃を行った派閥に身代金を支払うことで、（願わくば）解除することができます。</ATPP_IncidentDeviceCryptolockerDesc>
+	<ATPP_LetterFactionRansomware>ランサムウェア</ATPP_LetterFactionRansomware>
+	<ATPP_LetterFactionRansomwareSkillStolenDesc>{0}はスカイマインドネットワーク経由で、{2}の頭脳にあるスキル「{1}」に対応する記憶領域を破壊しました。</ATPP_LetterFactionRansomwareSkillStolenDesc>
+	<ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>{0}はスカイマインドネットワーク経由で{1}の頭脳を感染させ、悪意ある特性「{2}」をインストールしました。</ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>
+	<ATPP_EnergyNeed>エネルギー</ATPP_EnergyNeed>
+	<ATPP_EnergyNeedDesc>エネルギーはアンドロイドの内蔵バッテリーの電力量です。これがゼロになると、アンドロイドは不具合を起こしやすくなり、最終的には機能停止（死亡）します。</ATPP_EnergyNeedDesc>
+	<ATPP_NanoKitsNoCare>修理しない</ATPP_NanoKitsNoCare>
+	<ATPP_NanoKitsNoKitJustVisit>ナノキットなしでの技術者訪問</ATPP_NanoKitsNoKitJustVisit>
+	<ATPP_NanoKitsBasic>基本ナノキット</ATPP_NanoKitsBasic>
+	<ATPP_NanoKitsIntermediate>中級ナノキット</ATPP_NanoKitsIntermediate>
+	<ATPP_NanoKitsAdvanced>先進ナノキット</ATPP_NanoKitsAdvanced>
+	<ATPP_UploadPercentage>意識アップロード: {0}%</ATPP_UploadPercentage>
+	<ATPP_DownloadPercentage>意識ダウンロード: {0}%</ATPP_DownloadPercentage>
+	<ATPP_PermutationPercentage>意識交換: {0}%</ATPP_PermutationPercentage>
+	<ATPP_DuplicationPercentage>意識複製: {0}%</ATPP_DuplicationPercentage>
+	<ATPP_UploadSkyCloudPercentage>スカイクラウドへの意識アップロード: {0}%</ATPP_UploadSkyCloudPercentage>
+	<ATPP_DownloadFromSkyCloudPercentage>スカイクラウドからの意識ダウンロード: {0}%</ATPP_DownloadFromSkyCloudPercentage>
+	<ATPP_SkyMindDetected>スカイマインドに接続済み</ATPP_SkyMindDetected>
+	<ATPP_RemotelyControlledBy>{0}によって遠隔操作中。</ATPP_RemotelyControlledBy>
+	<ATPP_RemotelyControl>{0}を遠隔操作</ATPP_RemotelyControl>
+	<ATPP_CompHotSensitiveHot3Text>温度が高すぎます！</ATPP_CompHotSensitiveHot3Text>
+	<ATPP_CompHotSensitiveHot2Text>高温警告</ATPP_CompHotSensitiveHot2Text>
+	<ATPP_CompHotSensitiveHot1Text>やや高温</ATPP_CompHotSensitiveHot1Text>
+	<ATPP_CompHotSensitiveHot0Text>最適な稼働温度</ATPP_CompHotSensitiveHot0Text>
+	<ATPP_CryptoLockedSurrogate>暗号化ロック中、使用不可！</ATPP_CryptoLockedSurrogate>
+	<ATPP_ExplosiveVirus>自爆ウイルス: バッテリー爆発まで{0}秒！</ATPP_ExplosiveVirus>
+	<ATPP_TempHackingLosingControlIn>あと{0}秒で制御を喪失</ATPP_TempHackingLosingControlIn>
+	<ATPP_BatteryLevel>バッテリー残量: {0}%</ATPP_BatteryLevel>
+	<ATPP_TempInfection>あと{0}で感染終了</ATPP_TempInfection>
+	<ATPP_SkyCloudCoreBooting>サーバー起動中（残り{0}秒）</ATPP_SkyCloudCoreBooting>
+	<ATPP_NaniteFrameworkRepairingInProgress>構造体修復中: {0}%</ATPP_NaniteFrameworkRepairingInProgress>
+	<ATPP_VX3SurrogateTypePrimary>主代理体</ATPP_VX3SurrogateTypePrimary>
+	<ATPP_VX3SurrogateTypeSecondary>副代理体</ATPP_VX3SurrogateTypeSecondary>
+	<ATPP_MindAbsorptionProgress>意識吸収進行中: {0}%</ATPP_MindAbsorptionProgress>
+	<ATPP_Rusted>錆びつき</ATPP_Rusted>
+	<ATPP_BatteryExplodeInProgress>バッテリー爆発進行中: {0}%</ATPP_BatteryExplodeInProgress>
+	<ATPP_AutoDoorOpen>開く</ATPP_AutoDoorOpen>
+	<ATPP_AutoDoorOpenDescription>スカイクラウドコアを介して遠隔で開きます。</ATPP_AutoDoorOpenDescription>
+	<ATPP_AutoDoorClose>閉じる</ATPP_AutoDoorClose>
+	<ATPP_AutoDoorCloseDescription>スカイクラウドサーバーを介して遠隔で閉じます。</ATPP_AutoDoorCloseDescription>
+	<ATPP_AutoDoorOpenMoteText>スカイクラウド経由で開放中</ATPP_AutoDoorOpenMoteText>
+	<ATPP_AutoDoorCloseMoteText>スカイクラウド経由で閉鎖中</ATPP_AutoDoorCloseMoteText>
+	<ATPP_FlickEnable>スカイクラウド経由で電源ON</ATPP_FlickEnable>
+	<ATPP_FlickDisable>スカイクラウド経由で電源OFF</ATPP_FlickDisable>
+	<ATPP_LetterSurrogateDisabled>代理体{0}が作動停止</ATPP_LetterSurrogateDisabled>
+	<ATPP_LetterSurrogateDisabledDesc>物理的完全性に対する激しい攻撃を受け、代理体{0}は作動不能になりました。</ATPP_LetterSurrogateDisabledDesc>
+	<ATPP_LetterUploadOK>アップロード完了</ATPP_LetterUploadOK>
+	<ATPP_LetterUploadOKDesc>{0}の意識のアップロードが完了し、{1}の人工頭脳に転送されました。{1}の意識は上書きされ死亡しました。</ATPP_LetterUploadOKDesc>
+	<ATPP_LetterPermuteOK>意識交換完了</ATPP_LetterPermuteOK>
+	<ATPP_LetterPermuteOKDesc>意識の交換が完了し、{0}と{1}の肉体が入れ替わりました。</ATPP_LetterPermuteOKDesc>
+	<ATPP_LetterDuplicateOK>意識複製完了</ATPP_LetterDuplicateOK>
+	<ATPP_LetterDuplicateOKDesc>意識の複製が完了しました。{1}の頭脳には{0}の意識の複製が格納され、元の{1}は死亡したとみなされます。</ATPP_LetterDuplicateOKDesc>
+	<ATPP_LetterSkyCloudUploadOK>スカイクラウドへのアップロード完了</ATPP_LetterSkyCloudUploadOK>
+	<ATPP_LetterSkyCloudUploadOKDesc>スカイクラウドへの意識アップロードが完了しました。{0}の意識は{1}のセントラルメモリに格納されました。</ATPP_LetterSkyCloudUploadOKDesc>
+	<ATPP_LetterSkyCloudReplicateOK>複製完了</ATPP_LetterSkyCloudReplicateOK>
+	<ATPP_LetterSkyCloudReplicateOKDesc>{1}のメモリ内への{0}のニューラルネットワークの複製が完了しました。</ATPP_LetterSkyCloudReplicateOKDesc>
+	<ATPP_LetterSkyCloudDownloadOK>スカイクラウドからのダウンロード完了</ATPP_LetterSkyCloudDownloadOK>
+	<ATPP_LetterSkyCloudDownloadOKDesc>スカイクラウドからの意識ダウンロードが完了しました。{0}の意識は{1}のセントラルメモリに格納されました。</ATPP_LetterSkyCloudDownloadOKDesc>
+	<ATPP_LetterSkyCloudMigrateOK>スカイクラウド意識移行完了</ATPP_LetterSkyCloudMigrateOK>
+	<ATPP_LetterSkyCloudMigrateOKDesc>{1}から{2}への{0}の意識移行が完了しました。</ATPP_LetterSkyCloudMigrateOKDesc>
+	<ATPP_LetterInterruptedUpload>アップロード失敗</ATPP_LetterInterruptedUpload>
+	<ATPP_LetterInterruptedUploadDesc>致命的なエラー: 意識の転送が中断されたため、双方の頭脳に修復不能な破損が生じました（死亡）。{0}</ATPP_LetterInterruptedUploadDesc>
+	<ATPP_LetterInterruptedUploadDescCompHostDead>受取先ホストの死亡</ATPP_LetterInterruptedUploadDescCompHostDead>
+	<ATPP_LetterInterruptedUploadDescCompSourceDead>意識送信元の死亡</ATPP_LetterInterruptedUploadDescCompSourceDead>
+	<ATPP_LetterInterruptedUploadDescCompRandomError>不明なエラーが発生しました</ATPP_LetterInterruptedUploadDescCompRandomError>
+	<ATPP_LetterInterruptedUploadDescCompDiconnectionError>一方または両方の入植者がスカイマインドから切断されました。</ATPP_LetterInterruptedUploadDescCompDiconnectionError>
+	<ATPP_LetterFactionScam>詐欺被害</ATPP_LetterFactionScam>
+	<ATPP_LetterFactionScamCryptolockerDesc>{0}はコロニーを汚染した暗号化ウイルスの削除に応じず、あなた方を騙し取りました…</ATPP_LetterFactionScamCryptolockerDesc>
+	<ATPP_LetterFactionScamRansomwareDesc>{0}はランサムウェアの効果の解除に応じず、あなた方を騙し取りました…</ATPP_LetterFactionScamRansomwareDesc>
+	<ATPP_CryptolockerNeedPayRansomTitle>暗号化ウイルスの身代金</ATPP_CryptolockerNeedPayRansomTitle>
+	<ATPP_CryptolockerNeedPayRansom>{0}から無線通信が入りました。彼らは暗号化ウイルス攻撃の首謀者であり、シルバー{1}と引き換えにウイルスを削除すると要求しています。</ATPP_CryptolockerNeedPayRansom>
+	<ATPP_RansomNeedPayRansomTitle>ランサムウェアの身代金</ATPP_RansomNeedPayRansomTitle>
+	<ATPP_RansomNeedPayRansomCorruptedSKill>{0}から無線通信が入りました。彼らはランサムウェア攻撃の首謀者であり、シルバー{3}と引き換えに{2}の破損したスキル「{1}」を復元すると要求しています。</ATPP_RansomNeedPayRansomCorruptedSKill>
+	<ATPP_RansomNeedPayRansomDownloadedTrait>{0}から無線通信が入りました。彼らはランサムウェア攻撃の首謀者であり、シルバー{3}と引き換えに{2}にインストールされた悪意ある特性「{1}」を削除すると要求しています。</ATPP_RansomNeedPayRansomDownloadedTrait>
+	<ATPP_ComptHeatSensitiveComputerMeltTitle>サーバー過熱</ATPP_ComptHeatSensitiveComputerMeltTitle>
+	<ATPP_ComptHeatSensitiveComputerMeltDesc>サーバーが高温稼働により爆発しました！</ATPP_ComptHeatSensitiveComputerMeltDesc>
+	<ATPP_destroyedMindsDueToDestroyedSkyCloudCore>{0}件の意識の喪失</ATPP_destroyedMindsDueToDestroyedSkyCloudCore>
+	<ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>スカイクラウドコア{0}の破壊に伴い、セントラルメモリに保存されていたすべての意識（{1}件）が失われました。</ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>
+	<ATPP_LetterHackingPointsRemoved>ハッキングポイントの喪失</ATPP_LetterHackingPointsRemoved>
+	<ATPP_LetterHackingPointsRemovedDesc>拠点のすべてのハッキングサーバーがオフラインになったため、記録媒体がなくなり{0}ポイントが失われました！</ATPP_LetterHackingPointsRemovedDesc>
+	<ATPP_LetterSkillPointsRemoved>スキルポイントの喪失</ATPP_LetterSkillPointsRemoved>
+	<ATPP_LetterSkillPointsRemovedDesc>拠点のすべてのスキルサーバーがオフラインになったため、記録媒体がなくなり{0}ポイントが失われました！</ATPP_LetterSkillPointsRemovedDesc>
+	<ATPP_SkyCloudCoreBooted>{0}が起動完了</ATPP_SkyCloudCoreBooted>
+	<ATPP_SkyCloudCoreBootedDesc>スカイクラウドサーバー{0}が正常に起動し、使用可能になりました。</ATPP_SkyCloudCoreBootedDesc>
+	<ATPP_LetterInterruptedSkyCloudReplication>複製失敗</ATPP_LetterInterruptedSkyCloudReplication>
+	<ATPP_LetterInterruptedSkyCloudReplicationDesc>ホストのスカイクラウドコアがオフラインになったため、{0}の意識の複製に失敗しました。</ATPP_LetterInterruptedSkyCloudReplicationDesc>
+	<ATPP_LetterInterruptedSkyCloudMigration>移行失敗</ATPP_LetterInterruptedSkyCloudMigration>
+	<ATPP_LetterInterruptedSkyCloudMigrationDesc>移行先のスカイクラウドコアがオフラインになったため、{0}の意識の移行に失敗しました。</ATPP_LetterInterruptedSkyCloudMigrationDesc>
+	<ATPP_LetterTraitorOffline>裏切り者がオフライン</ATPP_LetterTraitorOffline>
+	<ATPP_LetterTraitorOfflineDesc>{0}はあなた方に寝返って所属派閥を裏切りましたが、派閥に発覚して逮捕されました（そのため操作していた代理体から切断されました）。</ATPP_LetterTraitorOfflineDesc>
+	<ATPP_LetterInterruptedMindAbsorption>意識吸収失敗</ATPP_LetterInterruptedMindAbsorption>
+	<ATPP_LetterInterruptedMindAbsorptionDesc>スカイマインドの切断、または稼働中のポイントサーバーが存在しないため、{0}の意識吸収に失敗しました。</ATPP_LetterInterruptedMindAbsorptionDesc>
+	<ATPP_MindAbsorptionDone>意識吸収完了</ATPP_MindAbsorptionDone>
+	<ATPP_MindAbsorptionDoneDesc>{0}の意識吸収が完了し、{1}スキルポイントを獲得しました</ATPP_MindAbsorptionDoneDesc>
+	<ATPP_LetterExternalSurrogateEscape>代理体操作者の逃亡</ATPP_LetterExternalSurrogateEscape>
+	<ATPP_LetterExternalSurrogateEscapeDesc>あなたが勧誘していた代理体の操作者{0}は、コロニーへの合流を決意しました。彼は代理体から切断し、数日中に敵基地から脱出してコロニーに向かいますが、正確な到着日時は不明です。</ATPP_LetterExternalSurrogateEscapeDesc>
+	<ATPP_LetterExternalSurrogateControllerJoin>元囚人の合流</ATPP_LetterExternalSurrogateControllerJoin>
+	<ATPP_LetterExternalSurrogateControllerJoinDesc>あなたが拘束・転向させた代理体操作者{0}がコロニーに無事到着し、仲間に加わりました。</ATPP_LetterExternalSurrogateControllerJoinDesc>
+	<ATPP_LetterExternalSurrogateControllerCannotJoin>元囚人の合流失敗</ATPP_LetterExternalSurrogateControllerCannotJoin>
+	<ATPP_LetterExternalSurrogateControllerCannotJoinDesc>あなたが拘束・転向させた代理体操作者{0}がコロニーに到達しようと試みましたが、何らかの原因で失敗し、去ってしまいました。</ATPP_LetterExternalSurrogateControllerCannotJoinDesc>
+	<ATPP_LetterExternalSurrogateDisconnect>操作者の切断</ATPP_LetterExternalSurrogateDisconnect>
+	<ATPP_LetterExternalSurrogateDisconnectDesc>あなたが隷属させようとしていた代理体の操作者{0}は、コロニーからこれ以上情報を得られず、奴隷として留まるのは時間の無駄だと判断して切断しました。</ATPP_LetterExternalSurrogateDisconnectDesc>
+	<ATPP_LetterKidnappedM8Disconnected>M8の切断</ATPP_LetterKidnappedM8Disconnected>
+	<ATPP_LetterKidnappedM8DisconnectedDesc>誘拐されたM8（{1}をホストする{0}）の誘拐犯が通信回路にアクセスし、内蔵スカイマインドアンテナを通じて通信していることに気づいて切断しました。そのため、{1}へのログインはできなくなりました。</ATPP_LetterKidnappedM8DisconnectedDesc>
+	<ATPP_DesignatorNeedSelectSX>エラー: スカイマインドネットワークに接続された有効なデバイスを選択してください！</ATPP_DesignatorNeedSelectSX>
+	<ATPP_DesignatorNeedSelectSXToHack>エラー: 他派閥によって操作されている代理アンドロイドを選択してください！</ATPP_DesignatorNeedSelectSXToHack>
+	<ATPP_SkyMindConn>スカイマインドに接続</ATPP_SkyMindConn>
+	<ATPP_SkyMindConnDesc>この入植者をスカイマインドネットワークに接続し、意識のアップロード/交換/複製や、SXシリーズアンドロイド・生体代理体の遠隔操作を可能にします。</ATPP_SkyMindConnDesc>
+	<ATPP_SkyMindAutoConn>自動接続</ATPP_SkyMindAutoConn>
+	<ATPP_SkyMindAutoConnDesc>スカイマインドネットワークから切断された際、空きスロットがあれば自動的に再接続を試みます。</ATPP_SkyMindAutoConnDesc>
+	<ATPP_Duplicate>複製</ATPP_Duplicate>
+	<ATPP_DuplicateDesc>選択中の入植者の意識を別の対象に複製します。</ATPP_DuplicateDesc>
+	<ATPP_Permute>交換</ATPP_Permute>
+	<ATPP_PermuteDesc>選択中の入植者の意識を別の対象と交換します。</ATPP_PermuteDesc>
+	<ATPP_EnableSurrogateControlMode>遠隔操作</ATPP_EnableSurrogateControlMode>
+	<ATPP_EnableSurrogateControlModeDesc>遠隔操作モードを有効化し、この入植者がSXシリーズアンドロイドまたは生体代理体を操作できるようにします。</ATPP_EnableSurrogateControlModeDesc>
+	<ATPP_AndroidToControlTargetDisconnect>切断</ATPP_AndroidToControlTargetDisconnect>
+	<ATPP_AndroidToControlTargetDisconnectDesc>現在の遠隔操作セッションを終了します。</ATPP_AndroidToControlTargetDisconnectDesc>
+	<ATPP_AndroidToControlTarget>接続</ATPP_AndroidToControlTarget>
+	<ATPP_AndroidToControlTargetDesc>選択したノードの操作を開始します。</ATPP_AndroidToControlTargetDesc>
+	<ATPP_ThisCurrentMap>現在のマップ</ATPP_ThisCurrentMap>
+	<ATPP_AndroidToControlTargetRecoverCaravan>回収</ATPP_AndroidToControlTargetRecoverCaravan>
+	<ATPP_AndroidToControlTargetRecoverCaravanDesc>キャラバン内の切断された代理体を回収します。</ATPP_AndroidToControlTargetRecoverCaravanDesc>
+	<ATPP_FreeControllerInCaravan>キャラバン</ATPP_FreeControllerInCaravan>
+	<ATPP_FreeControllerInCaravanDesc>キャラバン内の待機中操作者にこの代理体を接続します</ATPP_FreeControllerInCaravanDesc>
+	<ATPP_AndroidSurrogateReconnectToLastController>再接続</ATPP_AndroidSurrogateReconnectToLastController>
+	<ATPP_AndroidSurrogateReconnectToLastControllerDesc>可能であれば、直前に操作していた使用者にこの代理体を再接続します</ATPP_AndroidSurrogateReconnectToLastControllerDesc>
+	<ATPP_NoVX2Recipient>利用可能な入植者がいません（VX2チップ脳インプラントが必要です）。</ATPP_NoVX2Recipient>
+	<ATPP_NoSkyCloudCoreAvailable>利用可能なスカイクラウドコアがありません</ATPP_NoSkyCloudCoreAvailable>
+	<ATPP_ConsciousnessUploadNoRecipient>ダウンロード先として利用可能な受取先がありません。</ATPP_ConsciousnessUploadNoRecipient>
+	<ATPP_ConsciousnessSelectDestination>転送先ホストを選択</ATPP_ConsciousnessSelectDestination>
+	<ATPP_UploadConsciousness>アップロード</ATPP_UploadConsciousness>
+	<ATPP_UploadConsciousnessDesc>このアンドロイドから別のアンドロイドへ意識をアップロードします。</ATPP_UploadConsciousnessDesc>
+	<ATPP_WarningSkyMindDisconnectionRisk>警告: 操作中にスカイマインドネットワークから切断されると、双方の頭脳が破壊され死亡します</ATPP_WarningSkyMindDisconnectionRisk>
+	<ATPP_UploadConsciousnessConfirm>意識のアップロード</ATPP_UploadConsciousnessConfirm>
+	<ATPP_UploadConsciousnessConfirmDesc>確定すると、{0}は{1}の身体に意識をアップロードし、{1}の意識は消滅（死亡）し、{0}の肉体は機能停止します。本当に続行しますか？</ATPP_UploadConsciousnessConfirmDesc>
+	<ATPP_PermuteConsciousnessConfirm>意識の交換</ATPP_PermuteConsciousnessConfirm>
+	<ATPP_PermuteConsciousnessConfirmDesc>確定すると、{0}と{1}の間で意識が交換され、肉体が入れ替わります。本当に続行しますか？</ATPP_PermuteConsciousnessConfirmDesc>
+	<ATPP_DuplicateConsciousnessConfirm>意識の複製</ATPP_DuplicateConsciousnessConfirm>
+	<ATPP_DuplicateConsciousnessConfirmDesc>確定すると、{0}の意識が{1}の頭脳に複製され、{1}の意識は消滅（死亡）します。本当に続行しますか？</ATPP_DuplicateConsciousnessConfirmDesc>
+	<ATPP_UseBattery>バッテリー駆動</ATPP_UseBattery>
+	<ATPP_UseBatteryDesc>有効にすると、バイオマス発電機の代わりに内蔵バッテリーを直接使用するようにアンドロイドを設定します。</ATPP_UseBatteryDesc>
+	<ATPP_RepairAndroids>アンドロイド修理</ATPP_RepairAndroids>
+	<ATPP_RepairAndroidsDesc>この入植者にアンドロイドの修理を許可します。</ATPP_RepairAndroidsDesc>
+	<ATPP_UploadVirus>ウイルス</ATPP_UploadVirus>
+	<ATPP_UploadVirusDesc>対象の代理体にウイルスをアップロードします。</ATPP_UploadVirusDesc>
+	<ATPP_UploadExplosiveVirus>自爆ウイルス</ATPP_UploadExplosiveVirus>
+	<ATPP_UploadExplosiveVirusDesc>対象の代理体にウイルスをアップロードし、内蔵バッテリーを過負荷にして爆発させます。</ATPP_UploadExplosiveVirusDesc>
+	<ATPP_Hack>ハック</ATPP_Hack>
+	<ATPP_HackDesc>対象の代理体をハッキングして恒久的に制御権を奪います。</ATPP_HackDesc>
+	<ATPP_HackTemp>一時ハック</ATPP_HackTemp>
+	<ATPP_HackTempDesc>高速ハッキングを行い、対象の代理体の制御権を一時的に奪います。</ATPP_HackTempDesc>
+	<ATPP_MoveToSkyCloud>スカイクラウドへアップロード</ATPP_MoveToSkyCloud>
+	<ATPP_MoveToSkyCloudDesc>この操作により、ホストの意識がスカイクラウドコアに移行し、ほぼ不死となりますが、肉体は死亡します。</ATPP_MoveToSkyCloudDesc>
+	<ATPP_MoveFromSkyCloud>スカイクラウドからダウンロード</ATPP_MoveFromSkyCloud>
+	<ATPP_MoveFromSkyCloudDesc>この操作により、スカイクラウドコアに保存されている選択した意識がホストの頭脳に移行します。</ATPP_MoveFromSkyCloudDesc>
+	<ATPP_CentralCoreNbStoredMind>保存された意識: {0}件</ATPP_CentralCoreNbStoredMind>
+	<ATPP_CentralCoreNbAssistingMinds>アシスト割り当て済みの意識: {0}件</ATPP_CentralCoreNbAssistingMinds>
+	<ATPP_CentralCoreMigrationInProgress>{0}から{1}への移行進行中（{2}%）</ATPP_CentralCoreMigrationInProgress>
+	<ATPP_CentralCoreProcessInMentalBreak>{0} 使用不可: 精神崩壊中</ATPP_CentralCoreProcessInMentalBreak>
+	<ATPP_CentralCoreReplicationInProgress>{0}の意識複製中（{1}%）</ATPP_CentralCoreReplicationInProgress>
+	<ATPP_SkyCloudFloatMenuMindsStoredSelect>意識を選択</ATPP_SkyCloudFloatMenuMindsStoredSelect>
+	<ATPP_ProcessInfo>情報</ATPP_ProcessInfo>
+	<ATPP_ProcessInfoDesc>格納されている意識の詳細情報を確認します。</ATPP_ProcessInfoDesc>
+	<ATPP_ProcessRemove>削除</ATPP_ProcessRemove>
+	<ATPP_ProcessRemoveDesc>意識を削除します</ATPP_ProcessRemoveDesc>
+	<ATPP_ProcessRemoveDescConfirm>確定すると、{0}の意識は{1}のメモリから完全に消去され、死亡したとみなされます！</ATPP_ProcessRemoveDescConfirm>
+	<ATPP_ProcessDuplicate>複製</ATPP_ProcessDuplicate>
+	<ATPP_ProcessDuplicateDesc>意識を複製します。</ATPP_ProcessDuplicateDesc>
+	<ATPP_ProcessAssist>アシスト</ATPP_ProcessAssist>
+	<ATPP_ProcessAssistDesc>スカイマインドネットワークに接続された入植者をアシストする意識を設定します。割り当てられた意識ごとに全体の心情が向上します。</ATPP_ProcessAssistDesc>
+	<ATPP_ProcessMigrate>移行</ATPP_ProcessMigrate>
+	<ATPP_ProcessMigrateDesc>このスカイクラウドコアから別のコアへ意識を移行します</ATPP_ProcessMigrateDesc>
+	<ATPP_ProcessAssistAssignedMinds>アシスト解除（削除）</ATPP_ProcessAssistAssignedMinds>
+	<ATPP_ProcessAssistUnassignedMinds>アシスト割り当て（追加）</ATPP_ProcessAssistUnassignedMinds>
+	<ATPP_ProcessAssistAssignAll>未割り当ての意識をすべて割り当て</ATPP_ProcessAssistAssignAll>
+	<ATPP_ProcessAssistUnassignAll>割り当て済みの意識をすべて解除</ATPP_ProcessAssistUnassignAll>
+	<ATPP_ProcessDisconnectAllSurrogates>すべて切断</ATPP_ProcessDisconnectAllSurrogates>
+	<ATPP_StopVirused>停止</ATPP_StopVirused>
+	<ATPP_StopVirusedDesc>感染した代理体を強制シャットダウンします</ATPP_StopVirusedDesc>
+	<ATPP_PreviousSurrogateControllerIs>前回の操作者: {0}</ATPP_PreviousSurrogateControllerIs>
+	<ATPP_Skills>スキル</ATPP_Skills>
+	<ATPP_SkillsDesc>スキルワークショップを開き、サーバーで生成されたスキルポイントをアンドロイドの追加スキルに変換します</ATPP_SkillsDesc>
+	<ATPP_MindAbsorption>意識吸収</ATPP_MindAbsorption>
+	<ATPP_MindAbsorptionDesc>囚人の意識を吸収してスキルポイントに変換します（致命的な操作）</ATPP_MindAbsorptionDesc>
+	<ATPP_MindAbsorptionConfirm>意識吸収</ATPP_MindAbsorptionConfirm>
+	<ATPP_MindAbsorptionConfirmDesc>確定すると、{0}の意識は吸収されてスキルポイントに変換されます（致命的な操作）。本当に続行しますか？</ATPP_MindAbsorptionConfirmDesc>
+	<ATPP_UploadMakeAndroidBatteryOverloadConfirm>バッテリー過負荷</ATPP_UploadMakeAndroidBatteryOverloadConfirm>
+	<ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>注意: 確定すると、選択したアンドロイドのバッテリーが過負荷になり、短時間後に爆発します。本当に続行しますか？</ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>
+	<ATPP_OverloadAndroid>過負荷</ATPP_OverloadAndroid>
+	<ATPP_OverloadAndroidDesc>アンドロイドのバッテリーを爆発させます</ATPP_OverloadAndroidDesc>
+	<ATPP_LWPNConnected>{0}に接続</ATPP_LWPNConnected>
+	<ATPP_LWPNDisconnected>{0}から切断</ATPP_LWPNDisconnected>
+	<ATPP_NoAvailableLWPN>利用可能なLWPNがありません</ATPP_NoAvailableLWPN>
+	<ATPP_LWPNNbConnectedAndroid>接続中のアンドロイド: {0}</ATPP_LWPNNbConnectedAndroid>
+	<ATPP_MessageLWPNNoSlotAvailable>LWPNの空きスロットがありません！</ATPP_MessageLWPNNoSlotAvailable>
+	<ATPP_SkyMindAntennaSynthesis>接続ユーザー数: {0} / {1}</ATPP_SkyMindAntennaSynthesis>
+	<ATPP_ForceReload>バッテリー充電を強制</ATPP_ForceReload>
+	<ATPP_CannotUseEveryPlaceUsed>充電ステーションが満杯のため使用できません。</ATPP_CannotUseEveryPlaceUsed>
+	<ATPP_CannotUseBecauseNotInBatteryMode>選択したアンドロイドの内蔵バッテリーが既定の動力源に設定されていないため使用できません。</ATPP_CannotUseBecauseNotInBatteryMode>
+	<ATPP_SecurityServersSynthesis>保護対象の代理体: {0} / {1}</ATPP_SecurityServersSynthesis>
+	<ATPP_HackingServersSynthesis>利用可能なハッキングポイント: {0} / {1}</ATPP_HackingServersSynthesis>
+	<ATTP_HackingSlotsAdded>追加ハッキングスロット: {0}</ATTP_HackingSlotsAdded>
+	<ATTP_HackingProducedPoints>ハッキングポイント生成中: {0}</ATTP_HackingProducedPoints>
+	<ATTP_SecuritySlotsAdded>追加セキュリティスロット: {0}</ATTP_SecuritySlotsAdded>
+	<ATPP_SkillServersSynthesis>利用可能なスキルポイント: {0} / {1}</ATPP_SkillServersSynthesis>
+	<ATTP_SkillSlotsAdded>追加スキルスロット: {0}</ATTP_SkillSlotsAdded>
+	<ATTP_SkillProducedPoints>スキルポイント生成中: {0}</ATTP_SkillProducedPoints>
+	<ATPP_HairColor>髪の色</ATPP_HairColor>
+	<ATPP_HairColorBlond>金髪</ATPP_HairColorBlond>
+	<ATPP_HairColorBlack>黒髪</ATPP_HairColorBlack>
+	<ATPP_HairColorAuburn>赤褐色</ATPP_HairColorAuburn>
+	<ATPP_HairColorGrey>灰色</ATPP_HairColorGrey>
+	<ATPP_HairColorGinger>赤毛</ATPP_HairColorGinger>
+	<ATPP_HairColorWhite>白髪</ATPP_HairColorWhite>
+	<ATPP_SkinColor>肌の色</ATPP_SkinColor>
+	<ATPP_SkinColorVerylight>非常に明るい</ATPP_SkinColorVerylight>
+	<ATPP_SkinColorLight>明るい</ATPP_SkinColorLight>
+	<ATPP_SkinColorFair>普通</ATPP_SkinColorFair>
+	<ATPP_SkinColorMidbrown>中褐色</ATPP_SkinColorMidbrown>
+	<ATPP_SkinColorDarkbrown>暗褐色</ATPP_SkinColorDarkbrown>
+	<ATPP_SkinColorVerydark>非常に暗い褐色</ATPP_SkinColorVerydark>
+	<ATPP_CannotConnectToSkyMindNoNet>ネットワークが利用できないため、スカイマインドに接続できません！</ATPP_CannotConnectToSkyMindNoNet>
+	<ATPP_CannotConnectToSkyMind>空きスロットが不足しているため、スカイマインドに接続できません！</ATPP_CannotConnectToSkyMind>
+	<ATPP_SurrogateUnexpectedDisconnection>予期せぬ切断: {0}はスカイマインドネットワークから切断されました！</ATPP_SurrogateUnexpectedDisconnection>
+	<ATPP_SurrogateConnectionCannotBeDisconnected>{0}が現在精神不安定な状態にあるため、切断できません</ATPP_SurrogateConnectionCannotBeDisconnected>
+	<ATPP_SurrogateConnectionOK>{0}は{1}に接続されました</ATPP_SurrogateConnectionOK>
+	<ATPP_StartPermute>{0}と{1}の間で意識の交換が開始されました！</ATPP_StartPermute>
+	<ATPP_StartDuplicate>{0}から{1}への意識複製が開始されました！</ATPP_StartDuplicate>
+	<ATPP_StartSkyCloudUpload>{0}の意識の{1}へのアップロードが開始されました！</ATPP_StartSkyCloudUpload>
+	<ATPP_StartSkyCloudUploadFailedFull>{1}への{0}の意識のアップロードは実行できません。{1}の意識ストレージの空き容量が不足しているためです</ATPP_StartSkyCloudUploadFailedFull>
+	<ATPP_StartSkyCloudDownload>{0}の意識の{1}の頭脳へのダウンロードが開始されました！</ATPP_StartSkyCloudDownload>
+	<ATPP_StartSkyCloudMigration>{0}の意識の{1}から{2}への移行が開始されました！</ATPP_StartSkyCloudMigration>
+	<ATPP_StartSkyCloudMigrationFailed>{1}への{0}の意識の移行は実行できません。{1}の意識ストレージの空き容量が不足しているためです</ATPP_StartSkyCloudMigrationFailed>
+	<ATPP_StartUpload>{0}から{1}への意識アップロードが開始されました！</ATPP_StartUpload>
+	<ATPP_CanOnlyBeUsedByAndroid>この装置はアンドロイドのみ使用可能です！</ATPP_CanOnlyBeUsedByAndroid>
+	<ATPP_CannotBeUsedBecauseNoOldAgeIssues>アンドロイドの経年劣化による問題が見つからないため、使用できません</ATPP_CannotBeUsedBecauseNoOldAgeIssues>
+	<ATPP_NoBrokenStuffFound>アンドロイド{0}に故障は見つかりませんでした！</ATPP_NoBrokenStuffFound>
+	<ATPP_BrokenStuffRepairFailed>エラー: ナノマシンによる修復に失敗しました！</ATPP_BrokenStuffRepairFailed>
+	<ATPP_BrokenCPURepaired>人工頭脳の修復に成功しました！</ATPP_BrokenCPURepaired>
+	<ATPP_BrokenHydraulicSystemRepaired>油圧システムの修復に成功しました！</ATPP_BrokenHydraulicSystemRepaired>
+	<ATPP_BrokenCoolingSystemRepaired>冷却システムの修復に成功しました！</ATPP_BrokenCoolingSystemRepaired>
+	<ATPP_BrokenFrameworkRepaired>構造体の修復に成功しました！</ATPP_BrokenFrameworkRepaired>
+	<ATPP_CryptolockerClearedByFaction>{0}は感染した代理体から暗号化ウイルスを除去しました！</ATPP_CryptolockerClearedByFaction>
+	<ATPP_CryptolockerDeviceClearedByFaction>{0}は接続デバイスから暗号化ウイルスを除去しました！</ATPP_CryptolockerDeviceClearedByFaction>
+	<ATPP_RansomwareClearedByFaction>{0}は{1}に生じた損傷に必要な修復を行いました</ATPP_RansomwareClearedByFaction>
+	<ATPP_SurrogateHackOK>{0}のハッキングに成功しました！</ATPP_SurrogateHackOK>
+	<ATPP_CannotHackNotEnoughtHackingPoints>ハッキングポイントが不足しています。ハッキングには{0}ポイント必要です！</ATPP_CannotHackNotEnoughtHackingPoints>
+	<ATPP_ProcessDuplicateOK>{0}のニューラルネットワークを複製中です。</ATPP_ProcessDuplicateOK>
+	<ATPP_ProcessDuplicateFailed>コア内の意識ストレージ空き容量が不足しているため、{0}のニューラルネットワークを複製できません</ATPP_ProcessDuplicateFailed>
+	<ATPP_ProcessRemoveOK>{0}のニューラルネットワークを消去しました。</ATPP_ProcessRemoveOK>
+	<ATPP_ProcessAssistOK>{0}の意識は接続中の入植者をアシストするように割り当てられました。</ATPP_ProcessAssistOK>
+	<ATPP_ProcessUnassistOK>{0}の意識は接続中の入植者のアシストから解除されました。</ATPP_ProcessUnassistOK>
+	<ATPP_ProcessNoLongerInMentalBreak>{1}に保存されている{0}の意識の精神崩壊が治まりました</ATPP_ProcessNoLongerInMentalBreak>
+	<ATPP_CannotReconnectToLastSurrogateController>前回の代理体操作者が利用不可（多忙、死亡、スカイマインド未接続など）のため、再接続できません</ATPP_CannotReconnectToLastSurrogateController>
+	<ATPP_ProcessMassAssist>{0}件の意識が割り当てられました！</ATPP_ProcessMassAssist>
+	<ATPP_ProcessMassUnassist>{0}件の意識が解除されました！</ATPP_ProcessMassUnassist>
+	<ATPP_SkillsWorkshopPointsConverted>{0}スキルポイントが{1}に追加されました</ATPP_SkillsWorkshopPointsConverted>
+	<ATPP_SkillsWorkshopAvailablePoints>利用可能なポイント: {0}</ATPP_SkillsWorkshopAvailablePoints>
+	<ATPP_SkillsWorkshopAvailablePointsNote>注意: このアンドロイドモデルでは、利用可能なポイント1を生成するためにサーバー生成スキルポイントが{0}必要です</ATPP_SkillsWorkshopAvailablePointsNote>
+	<ATPP_MindAbsorptionStarted>{0}の意識吸収を開始しました</ATPP_MindAbsorptionStarted>
+	<ATPP_NotEnoughtSkillPoints>利用可能なスキルポイントが不足しています！（{0}ポイント必要）</ATPP_NotEnoughtSkillPoints>
+	<ATPP_CannotAddVXNeuralChipInSurrogates>代理体にこの種のチップを追加することはできません！チップが破損し使用不能になりました！</ATPP_CannotAddVXNeuralChipInSurrogates>
+	<ATPP_SettingsSectionGeneral>一般</ATPP_SettingsSectionGeneral>
+	<ATPP_SettingsSectionSkyCloud>スカイクラウド</ATPP_SettingsSectionSkyCloud>
+	<ATPP_SettingsSectionSecurity>セキュリティ</ATPP_SettingsSectionSecurity>
+	<ATPP_SettingsSectionVX2>VX2 ニューラルチップ</ATPP_SettingsSectionVX2>
+	<ATPP_SettingsSectionVX3>VX3 ニューラルチップ</ATPP_SettingsSectionVX3>
+	<ATPP_SettingsSectionSkills>T1/T2 スキル</ATPP_SettingsSectionSkills>
+	<ATPP_SettingsSectionBatteryOverload>バッテリー過負荷</ATPP_SettingsSectionBatteryOverload>
+	<ATPP_SettingsDefaultAndroidGeneratorMode>アンドロイドの既定エネルギーモード:</ATPP_SettingsDefaultAndroidGeneratorMode>
+	<ATPP_SettingsDefaultAndroidGeneratorModeBiomass>バイオマス発電機を使用（食事を摂取）</ATPP_SettingsDefaultAndroidGeneratorModeBiomass>
+	<ATPP_SettingsDefaultAndroidGeneratorModeBattery>内蔵バッテリーを直接使用（電力網から充電）</ATPP_SettingsDefaultAndroidGeneratorModeBattery>
+	<ATPP_SettingsMindUploadDuration>意識アップロードの所要時間（{0}時間）</ATPP_SettingsMindUploadDuration>
+	<ATPP_SettingsMindReplicationDuration>意識複製の所要時間（{0}時間）</ATPP_SettingsMindReplicationDuration>
+	<ATPP_SettingsMindPermutationDuration>意識交換の所要時間（{0}時間）</ATPP_SettingsMindPermutationDuration>
+	<ATPP_SettingsMindDuplicationDuration>意識複製の所要時間（{0}時間）</ATPP_SettingsMindDuplicationDuration>
+	<ATPP_SettingsMindUploadPercentageFail>意識転送失敗の危険率（{0}%）</ATPP_SettingsMindUploadPercentageFail>
+	<ATPP_SettingsNanitePercentageFail>ナノマシンによる修理失敗の危険率（{0}%）</ATPP_SettingsNanitePercentageFail>
+	<ATPP_SettingsCharchingStationWattIncrease>{0}の充電中に増加する消費電力</ATPP_SettingsCharchingStationWattIncrease>
+	<ATPP_SettingsFoodGenerateLessEnergy>バイオマス（食料）からアンドロイドが得られるエネルギーを減少（人間の半分）</ATPP_SettingsFoodGenerateLessEnergy>
+	<ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>6秒ごとに充電されるバッテリーの割合（{0}%）</ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>
+	<ATPP_SettingsNbHoursMinServerRunningHotBeforeExplode>サーバーが高温稼働してから爆発するまでの最小時間（{0}時間）</ATPP_SettingsNbHoursMinServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMaxServerRunningHotBeforeExplode>サーバーが高温稼働してから爆発するまでの最大時間（{0}時間）</ATPP_SettingsNbHoursMaxServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMinSkyCloudServerRunningHotBeforeExplode>スカイクラウドコアが高温稼働してから爆発するまでの最小時間（{0}時間）</ATPP_SettingsNbHoursMinSkyCloudServerRunningHotBeforeExplode>
+	<ATPP_SettingsNbHoursMaxSkyCloudServerRunningHotBeforeExplode>スカイクラウドコアが高温稼働してから爆発するまでの最大時間（{0}時間）</ATPP_SettingsNbHoursMaxSkyCloudServerRunningHotBeforeExplode>
+	<ATPP_SettingsDelayExplosiveVirus>自爆ウイルスに感染したアンドロイドが爆発するまでの秒数（{0}秒）</ATPP_SettingsDelayExplosiveVirus>
+	<ATPP_SettingsRiskFactionNotRemoveCryptolocker>身代金支払い後に派閥が暗号化ウイルスを除去しない確率（{0}%）</ATPP_SettingsRiskFactionNotRemoveCryptolocker>
+	<ATPP_SettingsRansomCost>暗号化ウイルスの身代金コスト（{0}）:</ATPP_SettingsRansomCost>
+	<ATPP_SettingsAndroidCanUseOrganicMedicine>アンドロイドが生体医薬品を使用可能</ATPP_SettingsAndroidCanUseOrganicMedicine>
+	<ATPP_SettingsRiskGetLittleVirusEvenWithSecurityServers>セキュリティシステムが全端末を保護していてもウイルスに感染（影響緩和）する確率（{0}%）</ATPP_SettingsRiskGetLittleVirusEvenWithSecurityServers>
+	<ATPP_SettingsRiskFactionNotRemoveRansomwareEffect>身代金支払い後に派閥がランサムウェアの効果を解除しない確率（{0}%）</ATPP_SettingsRiskFactionNotRemoveRansomwareEffect>
+	<ATPP_SettingsMinSilverToRemoveBadTrait>悪意ある特性を解除するために支払う最小シルバー量</ATPP_SettingsMinSilverToRemoveBadTrait>
+	<ATPP_SettingsMaxSilverToRemoveBadTrait>悪意ある特性を解除するために支払う最大シルバー量</ATPP_SettingsMaxSilverToRemoveBadTrait>
+	<ATPP_SettingsRansomwareSilverPerSkillLevel>破損スキルを復元するために支払うスキルレベルごとのシルバー量</ATPP_SettingsRansomwareSilverPerSkillLevel>
+	<ATPP_SettingsDisableSolarFlareImpactOnAndroids>アンドロイドに対する太陽フレアの悪影響を無効化</ATPP_SettingsDisableSolarFlareImpactOnAndroids>
+	<ATPP_SettingsDisableSecurityStuff>スカイマインド経由のウイルスとハッキングを無効化</ATPP_SettingsDisableSecurityStuff>
+	<ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroupMin>他派閥のグループに含まれる代理体の最小割合（{0}%）</ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroupMin>
+	<ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroup>他派閥のグループに含まれる代理体の最大割合（{0}%）</ATPP_SettingsPercentageOfSurrogateInAnotherFactionGroup>
+	<ATPP_SettingsOtherFactionsCanUseSurrogate>他派閥が代理アンドロイドを使用可能</ATPP_SettingsOtherFactionsCanUseSurrogate>
+	<ATPP_SettingsTempHackDuration>代理体の一時ハック持続時間（{0}秒）</ATPP_SettingsTempHackDuration>
+	<ATPP_SettingsCostHackingPoints>（{0}）の消費ハッキングポイント:</ATPP_SettingsCostHackingPoints>
+	<ATPP_SettingsCostVirus>ウイルス</ATPP_SettingsCostVirus>
+	<ATPP_SettingsCostVirusExplosive>自爆ウイルス</ATPP_SettingsCostVirusExplosive>
+	<ATPP_SettingsCostHack>ハッキング</ATPP_SettingsCostHack>
+	<ATPP_SettingsCostHackTemp>一時ハッキング</ATPP_SettingsCostHackTemp>
+	<ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>太陽フレア発生時にアンドロイドを行動不能にする</ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>
+	<ATPP_SettingsDisableServersAlarm>サーバーの発熱警報を無効化</ATPP_SettingsDisableServersAlarm>
+	<ATPP_SettingsDisableServersAmbianceNoises>サーバーの環境音を無効化</ATPP_SettingsDisableServersAmbianceNoises>
+	<ATPP_SettingsAppliedToNextSaveLoading>（マップ再読み込み後に適用）</ATPP_SettingsAppliedToNextSaveLoading>
+	<ATPP_SettingsDisableLowNetworkMalus>スカイマインドネットワーク弱電界ペナルティを無効化</ATPP_SettingsDisableLowNetworkMalus>
+	<ATPP_SettingsDisableLowNetworkMalusInCaravans>キャラバン内でのスカイマインド弱電界ペナルティを無効化</ATPP_SettingsDisableLowNetworkMalusInCaravans>
+	<ATPP_SettingsPowerConsumedByStoredMind>スカイクラウドコアに保存された意識1つあたりの消費電力</ATPP_SettingsPowerConsumedByStoredMind>
+	<ATPP_SettingsMindUploadToSkyCloudDuration>スカイクラウドへの意識アップロード所要時間（{0}時間）</ATPP_SettingsMindUploadToSkyCloudDuration>
+	<ATPP_SettingsMindMigrationCloudDuration>意識移行の所要時間（{0}時間）</ATPP_SettingsMindMigrationCloudDuration>
+	<ATPP_SettingsHideRemotelyControlledIcon>遠隔操作中のデバイス上部に表示されるアイコンを非表示</ATPP_SettingsHideRemotelyControlledIcon>
+	<ATPP_SettingsSkyCloudBuffPerAssistingMind>スカイクラウドのアシスト意識1件あたりのバフ値（{0}）</ATPP_SettingsSkyCloudBuffPerAssistingMind>
+	<ATPP_SettingsNbSlotAddedForSkillServers>{0}スキルサーバーにより追加されるスロット数（{1}）</ATPP_SettingsNbSlotAddedForSkillServers>
+	<ATPP_SettingsNbSlotAddedForHackingServers>{0}ハッキングサーバーにより追加されるスロット数（{1}）</ATPP_SettingsNbSlotAddedForHackingServers>
+	<ATPP_SettingsNbSlotAddedForSecurityServers>{0}セキュリティサーバーにより追加されるスロット数（{1}）</ATPP_SettingsNbSlotAddedForSecurityServers>
+	<ATPP_SettingsNbPointsProducedForHackingServers>{0}ハッキングサーバーのポイント生成量（30秒ごと）（{1}）</ATPP_SettingsNbPointsProducedForHackingServers>
+	<ATPP_SettingsMinNbHoursLiteHackingDeviceAttackLast>軽度デバイスハッキング攻撃の最小持続時間（{0}時間）</ATPP_SettingsMinNbHoursLiteHackingDeviceAttackLast>
+	<ATPP_SettingsMaxNbHoursLiteHackingDeviceAttackLast>軽度デバイスハッキング攻撃の最大持続時間（{0}時間）</ATPP_SettingsMaxNbHoursLiteHackingDeviceAttackLast>
+	<ATPP_SettingsHideInactiveSurrogates>入植者バーから非アクティブな代理体を非表示</ATPP_SettingsHideInactiveSurrogates>
+	<ATPP_SettingsAndroidsOnlyHealedByCrafter>アンドロイドの治療・修理を鍛冶屋（工芸担当者）のみに制限</ATPP_SettingsAndroidsOnlyHealedByCrafter>
+	<ATPP_SettingsMinDurationOfMindMentalBreak>デジタル化された意識の精神崩壊の最小持続時間（{0}時間）</ATPP_SettingsMinDurationOfMindMentalBreak>
+	<ATPP_SettingsMaxDurationOfMindMentalBreak>デジタル化された意識の精神崩壊の最大持続時間（{0}時間）</ATPP_SettingsMaxDurationOfMindMentalBreak>
+	<ATPP_SettingsSecToBootASkyCloudCore>スカイクラウドコアの起動時間（{0}秒）</ATPP_SettingsSecToBootASkyCloudCore>
+	<ATPP_SettingsDisableAbilityOfSkyCloudServersToTalk>スカイクラウドコアが発話する機能を無効化</ATPP_SettingsDisableAbilityOfSkyCloudServersToTalk>
+	<ATPP_SettingsNotRemoveAllTraitsOfBasicAndroids>T1/T2アンドロイドの全特性を削除しない</ATPP_SettingsNotRemoveAllTraitsOfBasicAndroids>
+	<ATPP_SettingsAndroidsCanEatLivingPlants>アンドロイドが生きた植物を摂取可能</ATPP_SettingsAndroidsCanEatLivingPlants>
+	<ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>T1/T2アンドロイドのスキルの情熱をすべて削除しない</ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>
+	<ATPP_SettingsVX3MaxSurrogateControllableAtOnce>同時に操作可能な代理体の最大数（{0}）</ATPP_SettingsVX3MaxSurrogateControllableAtOnce>
+	<ATPP_SettingsNbPointsProducedForSkillServers>{0}スキルサーバーのポイント生成量（30秒ごと）（{1}）</ATPP_SettingsNbPointsProducedForSkillServers>
+	<ATPP_SettingsRandomSkillsMode>スキルをランダムにする</ATPP_SettingsRandomSkillsMode>
+	<ATPP_SettingsPreventM7T5AppearingInCharacterEditor>キャラクター作成画面にT5/M7が出現するのを防ぐ</ATPP_SettingsPreventM7T5AppearingInCharacterEditor>
+	<ATPP_SettingsMinHoursNaniteBankFramework>構造ナノマシンバンクの効果が適用されるまでの最小時間（{0}時間）</ATPP_SettingsMinHoursNaniteBankFramework>
+	<ATPP_SettingsMaxHoursNaniteBankFramework>構造ナノマシンバンクの効果が適用されるまでの最大時間（{0}時間）</ATPP_SettingsMaxHoursNaniteBankFramework>
+	<ATPP_SettingsNbSkillPointsPerSkill>スキル1つを生成するのに必要なスキルポイント数（{0}）</ATPP_SettingsNbSkillPointsPerSkill>
+	<ATPP_RemoveComfortNeedForT3T4>T3以上のアンドロイドの快適さの欲求を削除</ATPP_RemoveComfortNeedForT3T4>
+	<ATPP_SettingsAllowHumanDrugsForT3P>T3以上のアンドロイドに人間用薬物の使用を許可</ATPP_SettingsAllowHumanDrugsForT3P>
+	<ATPP_SettingsAllowHumanDrugsFor>アンドロイドに人間用薬物の使用を許可</ATPP_SettingsAllowHumanDrugsFor>
+	<ATPP_SettingsUploadMindToSkyCloudCoreMode>スカイクラウドコアへの意識アップロードモード:</ATPP_SettingsUploadMindToSkyCloudCoreMode>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>転送元意識の肉体を死亡させる</ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>転送元意識のニューラルチップ回路を自動的にVX0モードに再構成する</ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>
+	<ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>転送元意識の肉体に何も起きない（複製）</ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>
+	<ATPP_SettingsRemoveSimpleMindedTraitOnUpload>T1がより高度な宿主（人間、T2以上）に転送された際、単純特性を削除する</ATPP_SettingsRemoveSimpleMindedTraitOnUpload>
+	<ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>生成されたアンドロイドが塗装または錆びる確率（{0}%）</ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>
+	<ATPP_SettingsAndroidsCanRust>アンドロイドが錆びる</ATPP_SettingsAndroidsCanRust>
+	<ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>アンドロイドの塗装が錆びるまでの最小日数（{0}日）</ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>
+	<ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>アンドロイドの塗装が錆びるまでの最大日数（{0}日）</ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>
+	<ATPP_SettingsAndroidsAreRare>他派閥でのアンドロイドを稀少にする（警告: すべてのアンドロイド派閥が削除されます）</ATPP_SettingsAndroidsAreRare>
+	<ATPP_SettingsAllowAutoRepaint>現在の塗装の有効期限が切れそうな場合、アンドロイドが自動で再塗装作業をスケジュールすることを許可</ATPP_SettingsAllowAutoRepaint>
+	<ATPP_SettingsAllowAutoRepaintPrisoned>囚人アンドロイドにも再塗装作業の再スケジュールを許可</ATPP_SettingsAllowAutoRepaintPrisoned>
+	<ATPP_SettingsMaxAndroidByPortableLWPN>携帯型LWPNエミッター（Power++）あたりの最大アンドロイド数（{0}）</ATPP_SettingsMaxAndroidByPortableLWPN>
+	<ATPP_SettingsAllowT5ToWearClothes>T5に衣服の着用を許可</ATPP_SettingsAllowT5ToWearClothes>
+	<ATPP_SettingsChanceCreatedAndroidsAreMale>製造されたアンドロイドが男性モデルになる確率（{0}%）</ATPP_SettingsChanceCreatedAndroidsAreMale>
+	<ATPP_SettingsHideAbilityToForceEatingLivingPlants>生きた植物の強制摂取メニューを非表示</ATPP_SettingsHideAbilityToForceEatingLivingPlants>
+	<ATPP_SettingsPassionCost>情熱を高めるために必要なスキルポイント（{0}）</ATPP_SettingsPassionCost>
+	<ATPP_SettingsVX0KeepBodyBackstory>人形の生い立ちを保持（VX0）</ATPP_SettingsVX0KeepBodyBackstory>
+	<ATPP_SettingsAllowSurrogateConnectionInitMalus>代理体接続初期化ペナルティを許可</ATPP_SettingsAllowSurrogateConnectionInitMalus>
+	<ATPP_SettingsAllowAndroidsToUseHospitalBeds>アンドロイドに医療用ベッドの使用を許可</ATPP_SettingsAllowAndroidsToUseHospitalBeds>
+	<ATPP_SettingsPercentageOfOtherFactionSurrogateHavingAnRXChip>他派閥の代理体がRXチップを搭載している確率（{0}%）</ATPP_SettingsPercentageOfOtherFactionSurrogateHavingAnRXChip>
+	<ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>勧誘された代理体操作者が逮捕されずに派閥に合流できる確率（{0}%）</ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>
+	<ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>誘拐されたM8がスカイマインドから切断されるまでの最小時間（{0}時間）</ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>
+	<ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>誘拐されたM8がスカイマインドから切断されるまでの最大時間（{0}時間）</ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>
+	<ATPP_SettingsAndroidOverloadBatteryProrata>爆発の威力はバッテリー残量に比例する</ATPP_SettingsAndroidOverloadBatteryProrata>
+	<ATPP_SettingsAndroidOverloadRadius>アンドロイド爆発半径（{0}）</ATPP_SettingsAndroidOverloadRadius>
+	<ATPP_SettingsM7OverloadRadius>M7爆発半径（{0}）</ATPP_SettingsM7OverloadRadius>
+	<ATPP_SettingsAndroidOverloadExplosionType>爆発タイプ</ATPP_SettingsAndroidOverloadExplosionType>
+	<ATPP_SettingsAndroidOverloadExplosionTypeDefault>破片</ATPP_SettingsAndroidOverloadExplosionTypeDefault>
+	<ATPP_SettingsAndroidOverloadExplosionTypeFire>焼夷</ATPP_SettingsAndroidOverloadExplosionTypeFire>
+	<ATPP_SettingsSetT1ResearchToIndustrialTechLevel>T1の研究技術レベルを宇宙世紀から産業革命時代に変更</ATPP_SettingsSetT1ResearchToIndustrialTechLevel>
+	<ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>意識複製時、単一役職の能力を転送先の意識に移行する</ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>
+	<ATPP_AppliedSyntheticSkinSuccess>{0}に合成真皮層を正常に移植しました。このユニットは潜入任務に対応したシャーシとなりました。</ATPP_AppliedSyntheticSkinSuccess>
+	<ATPP_RemovedSyntheticSkinSuccess>{0}から合成皮膚を正常に除去し、むき出しの重戦闘用エンドスケルトンを露出させました。</ATPP_RemovedSyntheticSkinSuccess>
+	<ATPP_AndroidSpawned>{0} が生成されました。</ATPP_AndroidSpawned>
+	<ATPP_Transcendant>超越者</ATPP_Transcendant>
+	<ATPP_LWPSel>LWPNを選択</ATPP_LWPSel>
+	<ATPP_WPNListRow>{0}（利用可能 {1} W）</ATPP_WPNListRow>
+	<ATPP_ClearCurrentWPNConnection>現在のLWPN接続を解除</ATPP_ClearCurrentWPNConnection>
+	<ATPP_LocalWirelessPowerSelectorListTitle>ローカル無線電力ネットワークを選択</ATPP_LocalWirelessPowerSelectorListTitle>
 </LanguageData>

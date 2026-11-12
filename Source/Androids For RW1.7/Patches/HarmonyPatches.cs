@@ -293,15 +293,11 @@ namespace MOARANDROIDS
     {
         private static bool Prefix(CompFoodPoisonable __instance, Pawn ingester)
         {
-            Pawn value = Traverse.Create(__instance).Field("ingester").GetValue<Pawn>();
-            if (ingester.IsAndroid() == true)
+            if (ingester != null && ingester.IsAndroid())
             {
                 return false;
             }
-            else
-            {
-                return true;
-            }
+            return true;
         }
     }
 

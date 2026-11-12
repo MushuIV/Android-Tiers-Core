@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_ReloadStation.label>Nabíjacia stanica pre androidov</ATPP_ReloadStation.label>
+  <ATPP_ReloadStation.description>Nabíjacia stanica pre androidov, ktorá dokáže pojať až 8 androidov súčasne.</ATPP_ReloadStation.description>
+  <ATPP_SkyMindLAN.label>Anténa SkyMind V1</ATPP_SkyMindLAN.label>
+  <ATPP_SkyMindLAN.description>Anténa SkyMind V1 podporuje až 3 súčasne pripojených klientov; vysiela bezdrôtovú sieť umožňujúcu prenos vedomia jedného kolonistu do druhého a diaľkové ovládanie akéhokoľvek androida radu SX alebo biologického surogáta.</ATPP_SkyMindLAN.description>
+  <ATPP_SkyMindWAN.label>Anténa SkyMind V2</ATPP_SkyMindWAN.label>
+  <ATPP_SkyMindWAN.description>Anténa SkyMind V2 podporuje až 15 súčasne pripojených klientov; vysiela bezdrôtovú sieť umožňujúcu prenos vedomia jedného kolonistu do druhého a diaľkové ovládanie akéhokoľvek androida radu SX alebo biologického surogáta.</ATPP_SkyMindWAN.description>
+  <ATPP_SkyMindRelayTower.label>Prenosová veža SkyMind</ATPP_SkyMindRelayTower.label>
+  <ATPP_SkyMindRelayTower.description>Prenosová veža SkyMind zosilňuje signál antén a zabraňuje zhoršovaniu ovládania surogátov na veľké vzdialenosti.</ATPP_SkyMindRelayTower.description>
+  <ATPP_I100Security.label>I-100 (Bezpečnostný)</ATPP_I100Security.label>
+  <ATPP_I100Security.description>Firewallový server zabezpečujúci sieť SkyMind proti kyberútokom a vírusom.</ATPP_I100Security.description>
+  <ATPP_I100Hacking.label>I-100 (Hackerský)</ATPP_I100Hacking.label>
+  <ATPP_I100Hacking.description>Hackerský server umožňujúci hackovať klientov pripojených k sieti SkyMind.</ATPP_I100Hacking.description>
+  <ATPP_I100Skill.label>I-100 (Zručnostný)</ATPP_I100Skill.label>
+  <ATPP_I100Skill.description>Zručnostný server umožňujúci zvyšovať body zručností androidov pripojených k sieti SkyMind.</ATPP_I100Skill.description>
+  <ATPP_I300Security.label>I-300 (Bezpečnostný)</ATPP_I300Security.label>
+  <ATPP_I300Security.description>Firewallový server zabezpečujúci sieť SkyMind proti kyberútokom a vírusom.</ATPP_I300Security.description>
+  <ATPP_I300Hacking.label>I-300 (Hackerský)</ATPP_I300Hacking.label>
+  <ATPP_I300Hacking.description>Hackerský server umožňujúci hackovať klientov pripojených k sieti SkyMind.</ATPP_I300Hacking.description>
+  <ATPP_I300Skill.label>I-300 (Zručnostný)</ATPP_I300Skill.label>
+  <ATPP_I300Skill.description>Zručnostný server umožňujúci zvyšovať body zručností androidov pripojených k sieti SkyMind.</ATPP_I300Skill.description>
+  <ATPP_I500Security.label>I-500 (Bezpečnostný)</ATPP_I500Security.label>
+  <ATPP_I500Security.description>Firewallový server zabezpečujúci sieť SkyMind proti kyberútokom a vírusom.</ATPP_I500Security.description>
+  <ATPP_I500Hacking.label>I-500 (Hackerský)</ATPP_I500Hacking.label>
+  <ATPP_I500Hacking.description>Hackerský server umožňujúci hackovať klientov pripojených k sieti SkyMind.</ATPP_I500Hacking.description>
+  <ATPP_I500Skill.label>I-500 (Zručnostný)</ATPP_I500Skill.label>
+  <ATPP_I500Skill.description>Zručnostný server umožňujúci zvyšovať body zručností androidov pripojených k sieti SkyMind.</ATPP_I500Skill.description>
+  <ATPP_AndroidPod.label>Kapsula pre androidov</ATPP_AndroidPod.label>
+  <ATPP_AndroidPod.description>Kapsula pre androidov, v ktorej možno androidov opravovať, uchovávať pri čakaní na hostiteľa (v prípade surogátov) a nabíjať, ak je pripojená k elektrickej sieti.</ATPP_AndroidPod.description>
+  <ATPP_AndroidPodMech.label>Kapsula M7</ATPP_AndroidPodMech.label>
+  <ATPP_AndroidPodMech.description>Obria kapsula, v ktorej možno mechanoidov M7 opravovať, uchovávať pri čakaní na hostiteľa (v prípade surogátov) a nabíjať, ak je pripojená k elektrickej sieti.</ATPP_AndroidPodMech.description>
+  <ATPP_SkyCloudCore.label>Jadro SkyCloud</ATPP_SkyCloudCore.label>
+  <ATPP_SkyCloudCore.description>Superpočítač umožňujúci ovládať všetky zariadenia pripojené k sieti SkyMind a tiež nahrávať digitalizované vedomia vašich kolonistov do jeho pamäte, vďaka čomu sa stanú takmer nesmrteľnými a vševediacimi.</ATPP_SkyCloudCore.description>
+
+</LanguageData>

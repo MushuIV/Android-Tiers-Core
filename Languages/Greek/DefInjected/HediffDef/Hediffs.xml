@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATPP_ConsciousnessUpload.label>Μεταφόρτωση νου</ATPP_ConsciousnessUpload.label>
+  <ATPP_ConsciousnessUpload.labelNoun>Μεταφόρτωση νου</ATPP_ConsciousnessUpload.labelNoun>
+  <ATPP_NoHost.label>Κανένας συνδεδεμένος ξενιστής</ATPP_NoHost.label>
+  <ATPP_NoHost.labelNoun>Κανένας συνδεδεμένος ξενιστής</ATPP_NoHost.labelNoun>
+  <ATPP_HediffRXChip.label>Νευρωνικό τσιπ RX</ATPP_HediffRXChip.label>
+  <ATPP_HediffRXChip.labelNoun>Ένα νευρωνικό τσιπ που λειτουργεί ως προσωπικός αναμεταδότης SkyMind.</ATPP_HediffRXChip.labelNoun>
+  <ATPP_HediffVX0Chip.label>Νευρωνικό τσιπ VX0</ATPP_HediffVX0Chip.label>
+  <ATPP_HediffVX0Chip.labelNoun>Ένα νευρωνικό τσιπ για τη μετατροπή του ξενιστή σε βιολογικό υποκατάστατο</ATPP_HediffVX0Chip.labelNoun>
+  <ATPP_HediffVX1Chip.label>Νευρωνικό Τσιπ VX1</ATPP_HediffVX1Chip.label>
+  <ATPP_HediffVX1Chip.labelNoun>Νευρωνικό Τσιπ VX1</ATPP_HediffVX1Chip.labelNoun>
+  <ATPP_HediffVX2Chip.label>Νευρωνικό Τσιπ VX2</ATPP_HediffVX2Chip.label>
+  <ATPP_HediffVX2Chip.labelNoun>Νευρωνικό Τσιπ VX2</ATPP_HediffVX2Chip.labelNoun>
+  <ATPP_HediffVX3Chip.label>Νευρωνικό Τσιπ VX3</ATPP_HediffVX3Chip.label>
+  <ATPP_HediffVX3Chip.labelNoun>Νευρωνικό Τσιπ VX3</ATPP_HediffVX3Chip.labelNoun>
+  <ATPP_InRemoteControlMode.label>Λειτουργία τηλεχειρισμού ενεργοποιημένη</ATPP_InRemoteControlMode.label>
+  <ATPP_InRemoteControlMode.labelNoun>Λειτουργία τηλεχειρισμού ενεργοποιημένη</ATPP_InRemoteControlMode.labelNoun>
+  <ATPP_RemotelyControlled.label>Υπό τηλεχειρισμό</ATPP_RemotelyControlled.label>
+  <ATPP_RemotelyControlled.labelNoun>Υπό τηλεχειρισμό</ATPP_RemotelyControlled.labelNoun>
+  <ATPP_SolarFlareAndroidImpact.label>Ηλιακή Έκλαμψη</ATPP_SolarFlareAndroidImpact.label>
+  <ATPP_SolarFlareAndroidImpact.labelNoun>Ηλιακή Έκλαμψη</ATPP_SolarFlareAndroidImpact.labelNoun>
+  <ATPP_LowNetworkSignal.label>Χαμηλό σήμα δικτύου SkyMind</ATPP_LowNetworkSignal.label>
+  <ATPP_LowNetworkSignal.labelNoun>Χαμηλό σήμα δικτύου SkyMind</ATPP_LowNetworkSignal.labelNoun>
+  <ATPP_Rusted.label>Σκουριασμένο</ATPP_Rusted.label>
+  <ATPP_Rusted.labelNoun>Σκουριασμένο</ATPP_Rusted.labelNoun>
+  <ATPP_BlankAndroid.label>Κενό Νευρωνικό Δίκτυο</ATPP_BlankAndroid.label>
+  <ATPP_BlankAndroid.labelNoun>Κενό Νευρωνικό Δίκτυο</ATPP_BlankAndroid.labelNoun>
+  <ATPP_SurrogateInit.label>Αρχικοποίηση σύνδεσης</ATPP_SurrogateInit.label>
+  <ATPP_SurrogateInit.labelNoun>Αρχικοποίηση σύνδεσης</ATPP_SurrogateInit.labelNoun>
+  <ATPP_AssistingMinds.label>Υποβοηθητικοί νόες από πυρήνες SkyCloud</ATPP_AssistingMinds.label>
+  <ATPP_AssistingMinds.labelNoun>Υποβοηθητικοί νόες από πυρήνες SkyCloud</ATPP_AssistingMinds.labelNoun>
+  <DecayedFrame.label>φθαρμένο κύριο πλαίσιο</DecayedFrame.label>
+  <DecayedFrame.labelNoun>ένα φθαρμένο κύριο πλαίσιο</DecayedFrame.labelNoun>
+  <CorruptMemory.label>κατεστραμμένη μνήμη</CorruptMemory.label>
+  <WeakValves.label>αδύναμες βαλβίδες</WeakValves.label>
+  <ExaggeratedHealing.label>υπερδραστήρια αντίδραση</ExaggeratedHealing.label>
+  <FaultyPump.label>ελαττωματική αντλία</FaultyPump.label>
+  <FaultyPump.labelNoun>μια ελαττωματική αντλία</FaultyPump.labelNoun>
+  <ShutdownAndroid.label>εκτός λειτουργίας</ShutdownAndroid.label>
+  <ShutdownAndroid.description>Ο πυρήνας ΤΝ απενεργοποιήθηκε μόνιμα και διαγράφηκε πλήρως.</ShutdownAndroid.description>
+  <RebootingSequenceAT.label>Επανεκκίνηση</RebootingSequenceAT.label>
+  <RebootingSequenceAT.description>Ακολουθία επανεκκίνησης ενεργή στον πυρήνα ΤΝ.</RebootingSequenceAT.description>
+  <NoFreeWillAT.label>ανάλγητο</NoFreeWillAT.label>
+  <NoFreeWillAT.labelNoun>ανάλγητο</NoFreeWillAT.labelNoun>
+  <NoFreeWillAT.description>Τροποποιήσεις στους τομείς ηθικής και συναισθηματικής απόκρισης του πυρήνα ΤΝ, που οδηγούν σε εντελώς ουδέτερη διάθεση και έλλειψη ανώτερων λειτουργιών.</NoFreeWillAT.description>
+  <FreshReprogramming.label>πρόσφατα επαναπρογραμματισμένο</FreshReprogramming.label>
+  <FreshReprogramming.description>Πρόσφατα επαναπρογραμματισμένος πυρήνας ΤΝ. Η μεταγλώττιση και αυτόματη διόρθωση όλου του νέου λογισμικού ενδέχεται να προκαλέσει μειωμένες ικανότητες.</FreshReprogramming.description>
+  <OverclockedAndroid.label>υπερχρονισμένο</OverclockedAndroid.label>
+  <OverclockedAndroid.labelNoun>μια αναβάθμιση υπερχρονισμού</OverclockedAndroid.labelNoun>
+  <OverclockedAndroid.description>Οι τομείς επεξεργασίας του πυρήνα ΤΝ του ανδροειδούς επιταχύνθηκαν, με αποτέλεσμα ταχύτερο υπολογισμό λειτουργιών αλλά και αυξημένο φόρτο στο υλικό.</OverclockedAndroid.description>
+  <BatteryChargeMech.label>Μπαταρία</BatteryChargeMech.label>
+  <BatteryChargeMech.description>Υπολειπόμενη διάρκεια μπαταρίας πριν από την απενεργοποίηση</BatteryChargeMech.description>
+  <AndroidCoolantLoss.label>απώλεια ψυκτικού</AndroidCoolantLoss.label>
+  <AndroidCoolantLoss.description>Απώλεια ψυκτικού στις εσωτερικές σωληνώσεις, με αποτέλεσμα μειωμένη ικανότητα ψύξης και υπερθέρμανση των εσωτερικών μερών.</AndroidCoolantLoss.description>
+  <AndroidOverheating.label>υπερθέρμανση</AndroidOverheating.label>
+  <AndroidFreezing.label>Πάγωμα</AndroidFreezing.label>
+  <PlatingSteel.label>Ατσάλινο Πλαίσιο</PlatingSteel.label>
+  <PlatingSteel.labelNoun>βασικό ατσάλινο πλαίσιο</PlatingSteel.labelNoun>
+  <PlatingSteel.description>Ένα εγκατεστημένο ατσάλινο πλαίσιο.</PlatingSteel.description>
+  <PlatingPlasteel.label>επένδυση πλαισίου από πλαστατσάλι</PlatingPlasteel.label>
+  <PlatingPlasteel.labelNoun>ανθεκτικές επενδύσεις πλαισίου από πλαστατσάλι</PlatingPlasteel.labelNoun>
+  <PlatingPlasteel.description>Μια εγκατεστημένη επένδυση πλαισίου από πλαστατσάλι.</PlatingPlasteel.description>
+  <PlatingComposite.label>σύνθετη θωράκιση πλαισίου</PlatingComposite.label>
+  <PlatingComposite.labelNoun>σύνθετη θωράκιση υψηλής αντοχής</PlatingComposite.labelNoun>
+  <PlatingComposite.description>Εγκατεστημένη σύνθετη θωράκιση πλαισίου.</PlatingComposite.description>
+  <MiningArm_AT.label>βραχίονας εξόρυξης</MiningArm_AT.label>
+  <MiningArm_AT.labelNoun>ένας βραχίονας εξόρυξης</MiningArm_AT.labelNoun>
+  <MiningArm_AT.description>Ένας εγκατεστημένος βραχίονας εξόρυξης.</MiningArm_AT.description>
+  <HydraulicFrame.label>υδραυλικό πλαίσιο</HydraulicFrame.label>
+  <HydraulicFrame.labelNoun>ένα υδραυλικό πλαίσιο</HydraulicFrame.labelNoun>
+  <HydraulicFrame.description>Ένα εγκατεστημένο υδραυλικό πλαίσιο.</HydraulicFrame.description>
+  <HydraulicLeg.label>υδραυλικό πόδι</HydraulicLeg.label>
+  <HydraulicLeg.labelNoun>ένα υδραυλικό πόδι</HydraulicLeg.labelNoun>
+  <HydraulicLeg.description>Ένα εγκατεστημένο υδραυλικό πόδι.</HydraulicLeg.description>
+  <HydraulicArm.label>υδραυλικό χέρι</HydraulicArm.label>
+  <HydraulicArm.labelNoun>ένα υδραυλικό χέρι</HydraulicArm.labelNoun>
+  <HydraulicArm.description>Ένα εγκατεστημένο υδραυλικό χέρι.</HydraulicArm.description>
+  <MakeshiftRLeg.label>πρόχειρο ανταλλακτικό πόδι</MakeshiftRLeg.label>
+  <MakeshiftRLeg.labelNoun>ένα πρόχειρο ανταλλακτικό πόδι</MakeshiftRLeg.labelNoun>
+  <MakeshiftRLeg.description>Ένα εγκατεστημένο πρόχειρο ανταλλακτικό πόδι.</MakeshiftRLeg.description>
+  <MakeshiftRArm.label>πρόχειρο ανταλλακτικό χέρι</MakeshiftRArm.label>
+  <MakeshiftRArm.labelNoun>ένα πρόχειρο ανταλλακτικό χέρι</MakeshiftRArm.labelNoun>
+  <MakeshiftRArm.description>Ένα εγκατεστημένο πρόχειρο ανταλλακτικό χέρι.</MakeshiftRArm.description>
+  <BRArm.label>βασικό ανταλλακτικό χέρι</BRArm.label>
+  <BRArm.labelNoun>ένα βασικό ανταλλακτικό χέρι</BRArm.labelNoun>
+  <BRArm.description>Ένα εγκατεστημένο βασικό ανταλλακτικό χέρι.</BRArm.description>
+  <BRLeg.label>βασικό ανταλλακτικό πόδι</BRLeg.label>
+  <BRLeg.labelNoun>ένα βασικό ανταλλακτικό πόδι</BRLeg.labelNoun>
+  <BRLeg.description>Ένα εγκατεστημένο βασικό ανταλλακτικό πόδι.</BRLeg.description>
+  <BLReceptor.label>απλός αισθητήρας φωτός</BLReceptor.label>
+  <BLReceptor.labelNoun>ένας απλός αισθητήρας φωτός</BLReceptor.labelNoun>
+  <BLReceptor.description>Ένας εγκατεστημένος απλός αισθητήρας φωτός.</BLReceptor.description>
+  <BHeatsink.label>απλή ψύκτρα</BHeatsink.label>
+  <BHeatsink.labelNoun>μια απλή ψύκτρα</BHeatsink.labelNoun>
+  <BHeatsink.description>Μια εγκατεστημένη απλή ψύκτρα.</BHeatsink.description>
+  <BCoolantPump.label>απλή αντλία ψυκτικού</BCoolantPump.label>
+  <BCoolantPump.labelNoun>μια απλή αντλία ψυκτικού</BCoolantPump.labelNoun>
+  <BCoolantPump.description>Μια εγκατεστημένη απλή αντλία ψυκτικού.</BCoolantPump.description>
+  <BBattery.label>απλή συστοιχία μπαταριών</BBattery.label>
+  <BBattery.labelNoun>μια απλή συστοιχία μπαταριών</BBattery.labelNoun>
+  <BBattery.description>Μια εγκατεστημένη απλή συστοιχία μπαταριών.</BBattery.description>
+  <BMStorage.label>απλή αποθήκη μηχανιτών</BMStorage.label>
+  <BMStorage.labelNoun>απλή αποθήκη μηχανιτών</BMStorage.labelNoun>
+  <BMStorage.description>Μια εγκατεστημένη απλή μονάδα αποθήκευσης μηχανιτών.</BMStorage.description>
+  <BTransformer.label>απλός βιο-αντιδραστήρας</BTransformer.label>
+  <BTransformer.labelNoun>ένας απλός βιο-αντιδραστήρας</BTransformer.labelNoun>
+  <BTransformer.description>Ένας εγκατεστημένος απλός βιο-αντιδραστήρας.</BTransformer.description>
+  <BVAdapter.label>απλός μετατροπέας ισχύος</BVAdapter.label>
+  <BVAdapter.labelNoun>ένας απλός μετατροπέας ισχύος</BVAdapter.labelNoun>
+  <BVAdapter.description>Ένας εγκατεστημένος απλός μετατροπέας ισχύος.</BVAdapter.description>
+  <BasicRearCounterweight.label>βασικό αντίβαρο</BasicRearCounterweight.label>
+  <BasicRearCounterweight.labelNoun>ένα βασικό αντίβαρο</BasicRearCounterweight.labelNoun>
+  <BasicRearCounterweight.description>Ένα εγκατεστημένο βασικό αντίβαρο.</BasicRearCounterweight.description>
+  <CrudeJawAndroid.label>απλή σιαγόνα</CrudeJawAndroid.label>
+  <CrudeJawAndroid.labelNoun>μια απλή σιαγόνα</CrudeJawAndroid.labelNoun>
+  <CrudeJawAndroid.description>Μια εγκατεστημένη απλή σιαγόνα.</CrudeJawAndroid.description>
+  <ARArm.label>χέρι υψηλής ισχύος</ARArm.label>
+  <ARArm.labelNoun>ένα χέρι υψηλής ισχύος</ARArm.labelNoun>
+  <ARArm.description>Ένα εγκατεστημένο χέρι υψηλής ισχύος.</ARArm.description>
+  <ARLeg.label>πόδι υψηλής ισχύος</ARLeg.label>
+  <ARLeg.labelNoun>ένα πόδι υψηλής ισχύος</ARLeg.labelNoun>
+  <ARLeg.description>Ένα εγκατεστημένο πόδι υψηλής ισχύος.</ARLeg.description>
+  <ALReceptor.label>προηγμένος αισθητήρας φωτός</ALReceptor.label>
+  <ALReceptor.labelNoun>ένας προηγμένος αισθητήρας φωτός</ALReceptor.labelNoun>
+  <ALReceptor.description>Ένας εγκατεστημένος προηγμένος αισθητήρας φωτός.</ALReceptor.description>
+  <AHeatsink.label>προηγμένη ψύκτρα</AHeatsink.label>
+  <AHeatsink.labelNoun>μια προηγμένη ψύκτρα</AHeatsink.labelNoun>
+  <AHeatsink.description>Μια εγκατεστημένη προηγμένη ψύκτρα.</AHeatsink.description>
+  <ACoolantPump.label>προηγμένη αντλία ψυκτικού</ACoolantPump.label>
+  <ACoolantPump.labelNoun>μια προηγμένη αντλία ψυκτικού</ACoolantPump.labelNoun>
+  <ACoolantPump.description>Μια εγκατεστημένη προηγμένη αντλία ψυκτικού.</ACoolantPump.description>
+  <ABattery.label>προηγμένη συστοιχία μπαταριών</ABattery.label>
+  <ABattery.labelNoun>μια προηγμένη συστοιχία μπαταριών</ABattery.labelNoun>
+  <ABattery.description>Μια εγκατεστημένη προηγμένη συστοιχία μπαταριών.</ABattery.description>
+  <AMStorage.label>προηγμένη αποθήκη μηχανιτών</AMStorage.label>
+  <AMStorage.labelNoun>προηγμένη αποθήκη μηχανιτών</AMStorage.labelNoun>
+  <AMStorage.description>Εγκατεστημένη προηγμένη αποθήκη μηχανιτών.</AMStorage.description>
+  <ATransformer.label>προηγμένος βιο-αντιδραστήρας</ATransformer.label>
+  <ATransformer.labelNoun>ένας προηγμένος βιο-αντιδραστήρας</ATransformer.labelNoun>
+  <ATransformer.description>Ένας εγκατεστημένος προηγμένος βιο-αντιδραστήρας.</ATransformer.description>
+  <AVAdapter.label>προηγμένος μετατροπέας ισχύος</AVAdapter.label>
+  <AVAdapter.labelNoun>ένας προηγμένος μετατροπέας ισχύος</AVAdapter.labelNoun>
+  <AVAdapter.description>Ένας εγκατεστημένος προηγμένος μετατροπέας ισχύος.</AVAdapter.description>
+  <AdvRearCounterweight.label>γυροσκοπικό αντίβαρο</AdvRearCounterweight.label>
+  <AdvRearCounterweight.labelNoun>ένα γυροσκοπικό αντίβαρο</AdvRearCounterweight.labelNoun>
+  <AdvRearCounterweight.description>Ένα εγκατεστημένο γυροσκοπικό αντίβαρο.</AdvRearCounterweight.description>
+  <AdvJawAndroid.label>κυβερνητική σιαγόνα</AdvJawAndroid.label>
+  <AdvJawAndroid.labelNoun>μια κυβερνητική σιαγόνα</AdvJawAndroid.labelNoun>
+  <AdvJawAndroid.description>Μια εγκατεστημένη κυβερνητική σιαγόνα.</AdvJawAndroid.description>
+  <PositronMind.label>Ποζιτρονική ανακαλωδίωση</PositronMind.label>
+  <PositronMind.labelNoun>μια ποζιτρονική ανακαλωδίωση</PositronMind.labelNoun>
+  <PositronMind.description>Εγκατεστημένη ποζιτρονική ανακαλωδίωση.</PositronMind.description>
+  <SoldierMind.label>Αναβάθμιση στρατιώτη</SoldierMind.label>
+  <SoldierMind.labelNoun>μια αναβάθμιση στρατιώτη</SoldierMind.labelNoun>
+  <SoldierMind.description>Μια εγκατεστημένη αναβάθμιση στρατιώτη.</SoldierMind.description>
+  <BuilderMind.label>Τράπεζες σχεδίων</BuilderMind.label>
+  <BuilderMind.labelNoun>μια τράπεζα σχεδίων</BuilderMind.labelNoun>
+  <BuilderMind.description>Μια εγκατεστημένη τράπεζα σχεδίων.</BuilderMind.description>
+  <SurgeonMind.label>Εμφυτευμένο τρικόρντερ</SurgeonMind.label>
+  <SurgeonMind.labelNoun>ένα εμφυτευμένο τρικόρντερ</SurgeonMind.labelNoun>
+  <SurgeonMind.description>Ένα εμφυτευμένο τρικόρντερ.</SurgeonMind.description>
+  <SpeedMind.label>Νευρωνικές λεωφόροι</SpeedMind.label>
+  <SpeedMind.labelNoun>Νευρωνικές λεωφόροι</SpeedMind.labelNoun>
+  <SpeedMind.description>Εγκατεστημένες νευρωνικές λεωφόροι.</SpeedMind.description>
+  <GeoMind.label>Γεωλογικές τράπεζες</GeoMind.label>
+  <GeoMind.labelNoun>μια γεωλογική τράπεζα</GeoMind.labelNoun>
+  <GeoMind.description>Μια εγκατεστημένη γεωλογική τράπεζα.</GeoMind.description>
+  <MechanicMind.label>Εμφύτευμα μηχανικής</MechanicMind.label>
+  <MechanicMind.labelNoun>ένα εμφύτευμα μηχανικής</MechanicMind.labelNoun>
+  <MechanicMind.description>Ένα εγκατεστημένο εμφύτευμα μηχανικής.</MechanicMind.description>
+  <CookingMind.label>Εμφύτευμα μαγειρικής</CookingMind.label>
+  <CookingMind.labelNoun>ένα εμφύτευμα μαγειρικής</CookingMind.labelNoun>
+  <CookingMind.description>Ένα εγκατεστημένο εμφύτευμα μαγειρικής.</CookingMind.description>
+  <CharismaMind.label>Εμφύτευμα χαρίσματος</CharismaMind.label>
+  <CharismaMind.labelNoun>ένα εμφύτευμα χαρίσματος</CharismaMind.labelNoun>
+  <CharismaMind.description>Ένα εγκατεστημένο εμφύτευμα χαρίσματος.</CharismaMind.description>
+  <NegotiatorMind.label>Εμφύτευμα διαπραγματευτή</NegotiatorMind.label>
+  <NegotiatorMind.labelNoun>ένα εμφύτευμα διαπραγματευτή</NegotiatorMind.labelNoun>
+  <NegotiatorMind.description>Ένα εγκατεστημένο εμφύτευμα διαπραγματευτή.</NegotiatorMind.description>
+  <ZoologyMind.label>Εμφύτευμα ζωολογίας</ZoologyMind.label>
+  <ZoologyMind.labelNoun>ένα εμφύτευμα ζωολογίας</ZoologyMind.labelNoun>
+  <ZoologyMind.description>Ένα εγκατεστημένο εμφύτευμα ζωολογίας.</ZoologyMind.description>
+  <AgriculturalMind.label>Εμφύτευμα γεωργίας</AgriculturalMind.label>
+  <AgriculturalMind.labelNoun>ένα εμφύτευμα γεωργίας</AgriculturalMind.labelNoun>
+  <AgriculturalMind.description>Ένα εγκατεστημένο εμφύτευμα γεωργίας.</AgriculturalMind.description>
+  <UnskilledMind.label>Τσιπ βασικής εργασίας</UnskilledMind.label>
+  <UnskilledMind.labelNoun>ένα τσιπ βασικής εργασίας</UnskilledMind.labelNoun>
+  <UnskilledMind.description>Ένα εγκατεστημένο τσιπ βασικής εργασίας.</UnskilledMind.description>
+  <AR2Arm.label>Κυβερνητικό χέρι</AR2Arm.label>
+  <AR2Arm.labelNoun>ένα κυβερνητικό χέρι</AR2Arm.labelNoun>
+  <AR2Arm.description>Ένα εγκατεστημένο κυβερνητικό χέρι.</AR2Arm.description>
+  <AR2Leg.label>Κυβερνητικό πόδι</AR2Leg.label>
+  <AR2Leg.labelNoun>ένα κυβερνητικό πόδι</AR2Leg.labelNoun>
+  <AR2Leg.description>Ένα εγκατεστημένο κυβερνητικό πόδι.</AR2Leg.description>
+  <AL2Receptor.label>αισθητήρας φωτός αρχιτεχνολογίας</AL2Receptor.label>
+  <AL2Receptor.labelNoun>ένας αισθητήρας φωτός αρχιτεχνολογίας</AL2Receptor.labelNoun>
+  <AL2Receptor.description>Ένας εγκατεστημένος αισθητήρας φωτός αρχιτεχνολογίας.</AL2Receptor.description>
+  <A2Heatsink.label>ψύκτρα αρχιτεχνολογίας</A2Heatsink.label>
+  <A2Heatsink.labelNoun>μια ψύκτρα αρχιτεχνολογίας</A2Heatsink.labelNoun>
+  <A2Heatsink.description>Μια εγκατεστημένη ψύκτρα αρχιτεχνολογίας.</A2Heatsink.description>
+  <A2CoolantPump.label>αντλία ψυκτικού αρχιτεχνολογίας</A2CoolantPump.label>
+  <A2CoolantPump.labelNoun>μια αντλία ψυκτικού αρχιτεχνολογίας</A2CoolantPump.labelNoun>
+  <A2CoolantPump.description>Μια εγκατεστημένη αντλία ψυκτικού αρχιτεχνολογίας.</A2CoolantPump.description>
+  <A2Battery.label>συστοιχία μπαταριών αρχιτεχνολογίας</A2Battery.label>
+  <A2Battery.labelNoun>μια συστοιχία μπαταριών αρχιτεχνολογίας</A2Battery.labelNoun>
+  <A2Battery.description>Μια εγκατεστημένη συστοιχία μπαταριών αρχιτεχνολογίας.</A2Battery.description>
+  <A2MStorage.label>αποθήκη μηχανιτών αρχιτεχνολογίας</A2MStorage.label>
+  <A2MStorage.labelNoun>αποθήκη μηχανιτών αρχιτεχνολογίας</A2MStorage.labelNoun>
+  <A2MStorage.description>Εγκατεστημένη αποθήκη μηχανιτών αρχιτεχνολογίας.</A2MStorage.description>
+  <A2Transformer.label>βιο-αντιδραστήρας αρχιτεχνολογίας</A2Transformer.label>
+  <A2Transformer.labelNoun>ένας βιο-αντιδραστήρας αρχιτεχνολογίας</A2Transformer.labelNoun>
+  <A2Transformer.description>Ένας εγκατεστημένος βιο-αντιδραστήρας αρχιτεχνολογίας.</A2Transformer.description>
+  <A2VAdapter.label>μετατροπέας ισχύος αρχιτεχνολογίας</A2VAdapter.label>
+  <A2VAdapter.labelNoun>ένας μετατροπέας ισχύος αρχιτεχνολογίας</A2VAdapter.labelNoun>
+  <A2VAdapter.description>Ένας εγκατεστημένος μετατροπέας ισχύος αρχιτεχνολογίας.</A2VAdapter.description>
+  <HearingSensorCrude.label>απλός αισθητήρας ακοής</HearingSensorCrude.label>
+  <HearingSensorCrude.labelNoun>ένας απλός αισθητήρας ακοής</HearingSensorCrude.labelNoun>
+  <HearingSensorCrude.description>Ένας εγκατεστημένος απλός αισθητήρας ακοής.</HearingSensorCrude.description>
+  <HearingSensorAdv.label>προηγμένος αισθητήρας ακοής</HearingSensorAdv.label>
+  <HearingSensorAdv.labelNoun>ένας προηγμένος αισθητήρας ακοής</HearingSensorAdv.labelNoun>
+  <HearingSensorAdv.description>Ένας εγκατεστημένος προηγμένος αισθητήρας ακοής.</HearingSensorAdv.description>
+  <HearingSensorArch.label>αισθητήρας ακοής αρχιτεχνολογίας</HearingSensorArch.label>
+  <HearingSensorArch.labelNoun>ένας αισθητήρας ακοής αρχιτεχνολογίας</HearingSensorArch.labelNoun>
+  <HearingSensorArch.description>Ένας εγκατεστημένος αισθητήρας ακοής αρχιτεχνολογίας.</HearingSensorArch.description>
+  <SmellSensorAdv.label>προηγμένος αισθητήρας όσφρησης</SmellSensorAdv.label>
+  <SmellSensorAdv.labelNoun>ένας προηγμένος αισθητήρας όσφρησης</SmellSensorAdv.labelNoun>
+  <SmellSensorAdv.description>Ένας εγκατεστημένος προηγμένος αισθητήρας όσφρησης.</SmellSensorAdv.description>
+  <SmellingSensorCrude.label>απλός αισθητήρας όσφρησης</SmellingSensorCrude.label>
+  <SmellingSensorCrude.labelNoun>ένας απλός αισθητήρας όσφρησης</SmellingSensorCrude.labelNoun>
+  <SmellingSensorCrude.description>Ένας εγκατεστημένος απλός αισθητήρας όσφρησης.</SmellingSensorCrude.description>
+  <SmellingSensorArch.label>αισθητήρας όσφρησης αρχιτεχνολογίας</SmellingSensorArch.label>
+  <SmellingSensorArch.labelNoun>ένας αισθητήρας όσφρησης αρχιτεχνολογίας</SmellingSensorArch.labelNoun>
+  <SmellingSensorArch.description>Ένας εγκατεστημένος αισθητήρας όσφρησης αρχιτεχνολογίας.</SmellingSensorArch.description>
+  <EvolvingMind.label>Εξελισσόμενη ΤΝ</EvolvingMind.label>
+  <EvolvingMind.labelNoun>μια Εξελισσόμενη ΤΝ</EvolvingMind.labelNoun>
+  <EvolvingMind.description>Μια εγκατεστημένη εξελισσόμενη ΤΝ.</EvolvingMind.description>
+  <AndroidTiers_EmotionlessCard.label>Απενεργοποιημένες κοινωνικές αλληλεπιδράσεις</AndroidTiers_EmotionlessCard.label>
+  <AndroidTiers_EmotionlessCard.labelNoun>Απενεργοποιημένες κοινωνικές αλληλεπιδράσεις</AndroidTiers_EmotionlessCard.labelNoun>
+  <Backstory_PitFighterUpgrade.label>γάντια αρένας</Backstory_PitFighterUpgrade.label>
+  <Backstory_PitFighterUpgrade.labelNoun>ένα γάντι αρένας</Backstory_PitFighterUpgrade.labelNoun>
+  <Backstory_PitFighterUpgrade.description>Ένα εγκατεστημένο γάντι.</Backstory_PitFighterUpgrade.description>
+  <Backstory_TranscendantAssimilatorUpgrade.label>Γάντι πλάσματος</Backstory_TranscendantAssimilatorUpgrade.label>
+  <Backstory_TranscendantAssimilatorUpgrade.labelNoun>ένα γάντι πλάσματος</Backstory_TranscendantAssimilatorUpgrade.labelNoun>
+  <Backstory_TranscendantAssimilatorUpgrade.description>Ένα εγκατεστημένο γάντι.</Backstory_TranscendantAssimilatorUpgrade.description>
+  <Backstory_HighCouncilUpgrade.label>Κβαντική επεξεργασία</Backstory_HighCouncilUpgrade.label>
+  <Backstory_HighCouncilUpgrade.labelNoun>ένας κβαντικός νους</Backstory_HighCouncilUpgrade.labelNoun>
+  <Backstory_HighCouncilUpgrade.description>Ένας εγκατεστημένος κβαντικός νους.</Backstory_HighCouncilUpgrade.description>
+  <SGelhuman.label>Δομική γέλη</SGelhuman.label>
+  <SGelhuman.description>Μείγμα αμινοξέων και μηχανιτών που ρέει στην κυκλοφορία του αίματος, εξαιρετικά τοξικό και μπορεί να προκαλέσει κρίσεις.</SGelhuman.description>
+  <SGelandroid.label>Δομική γέλη</SGelandroid.label>
+  <SGelandroid.description>Μείγμα αμινοξέων και μηχανιτών που ρέει στις σωληνώσεις ψυκτικού, βοηθά στη συντήρηση των εσωτερικών μερών για καλύτερη απόδοση.</SGelandroid.description>
+  <Toxicated.label>Δηλητηριασμένος</Toxicated.label>
+  <Toxicated.description>Τοξικές ενώσεις στην κυκλοφορία του αίματος, προκαλούν δυσκολία στην αναπνοή και εμετό.</Toxicated.description>
+  <AFreezeandroid.label>Πολυμερές αντιψυκτικό</AFreezeandroid.label>
+  <AFreezeandroid.description>Αντιψυκτικό με βάση πολυμερή στις σωληνώσεις ψυκτικού. Βοηθά στη ρύθμιση της θερμοκρασίας τόσο σε θερμά όσο και σε ψυχρά περιβάλλοντα.</AFreezeandroid.description>
+  <MechSwarmandroid.label>Σμήνος μηχανών</MechSwarmandroid.label>
+  <MechSwarmandroid.description>Νανο-μηχανίτες που ρέουν στις σωληνώσεις ψυκτικού. Βοηθούν στη διατήρηση των εσωτερικών μερών στη μέγιστη απόδοση.</MechSwarmandroid.description>
+  <Conversion.label>???</Conversion.label>
+  <Conversion.description>Ενώσεις φράκταλ στην κυκλοφορία του αίματος. Προκαλούν κρίσεις, ακατάσχετο εμετό και βίαιη ρήξη του δέρματος λόγω σοβαρής φλεγμονής των ιστών.</Conversion.description>
+  <FractalPillAndroid.label>Ενίσχυση Φράκταλ</FractalPillAndroid.label>
+  <FractalPillAndroid.description>Ενώσεις φράκταλ στις σωληνώσεις ψυκτικού. Βελτιώνουν σημαντικά όλες τις ενέργειες ως προς την αποδοτικότητα και την ισχύ τους.</FractalPillAndroid.description>
+  <RegenHumanoid.label>Μονο-Αλοιφή</RegenHumanoid.label>
+  <RegenHumanoid.description>Ενεργοί αναγεννητικοί διαλύτες στην κυκλοφορία του αίματος. Ενθαρρύνουν τη βασική κυτταρική αναγέννηση.</RegenHumanoid.description>
+  <RegenAndroid.label>Μονο-Αλοιφή</RegenAndroid.label>
+  <RegenAndroid.description>Ενεργοί αναγεννητικοί διαλύτες στις σωληνώσεις ψυκτικού. Βοηθούν στην αυτοεπισκευή των μηχανισμών.</RegenAndroid.description>
+  <ATPP_DummyHediff.label>Εικονικό Hediff</ATPP_DummyHediff.label>
+  <ATPP_DummyHediff.labelNoun>Εικονικό Hediff</ATPP_DummyHediff.labelNoun>
+</LanguageData>

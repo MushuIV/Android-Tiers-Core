@@ -73,19 +73,24 @@
           <li>Android1Tier</li>
         </notXenophobistTowards>
         <alienPartGenerator>
-          <alienbodytypes>
+          <bodyTypes>
             <li>Male</li>
             <li>Female</li>
             <li>ATPP_BodyTypeMaleHurted12KTX</li>
             <li>ATPP_BodyTypeMaleHurted22KTX</li>
             <li>ATPP_BodyTypeFemaleHurted12KTX</li>
             <li>ATPP_BodyTypeFemaleHurted22KTX</li>
-          </alienbodytypes>
-          <aliencrowntypes>
-            <li>Average_Normal</li>
-            <li>Average_Hurted</li>
-            <li>Average_Hurted2</li>
-          </aliencrowntypes>
+          </bodyTypes>
+          <defaultMaleBodyType>Male</defaultMaleBodyType>
+          <defaultFemaleBodyType>Female</defaultFemaleBodyType>
+          <headTypes>
+            <li>Male_AverageNormal</li>
+            <li>Female_AverageNormal</li>
+            <li>ATPP_Male_Average_Hurted</li>
+            <li>ATPP_Female_Average_Hurted</li>
+            <li>ATPP_Male_Average_Hurted2</li>
+            <li>ATPP_Female_Average_Hurted2</li>
+          </headTypes>
           <colorChannels>
             <li>
               <name>skin</name>
@@ -172,6 +177,9 @@
         <relationChanceModifierSibling>0</relationChanceModifierSibling>
         <relationChanceModifierSpouse>0</relationChanceModifierSpouse>
       </relationSettings>
+      <compatibility>
+        <isFlesh>false</isFlesh>
+      </compatibility>
     </alienRace>
     <statBases>
       <MarketValue>5500</MarketValue>
@@ -189,8 +197,8 @@
       <LeatherAmount>0</LeatherAmount>
       <MeatAmount>0</MeatAmount>
       <SocialImpact>0.3</SocialImpact>
-      <ArmorRating_Blunt>0.75</ArmorRating_Blunt>
-      <ArmorRating_Sharp>0.85</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.35</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.45</ArmorRating_Sharp>
       <FoodPoisonChance>0.0</FoodPoisonChance>
       <ButcheryFleshEfficiency>0.7</ButcheryFleshEfficiency>
       <MedicalTendQuality>0.6</MedicalTendQuality>
@@ -288,8 +296,8 @@
       <ageGenerationCurve>
         <points>
           <li>(0,0)</li>
-          <li>(10,100)</li>
-          <li>(2,0)</li>
+        <li>(2,100)</li>
+        <li>(10,0)</li>
         </points>
       </ageGenerationCurve>
       <hediffGiverSets>

@@ -76,12 +76,7 @@ namespace MOARANDROIDS
                     {
                         //force not damaged face for skinned androids
                         Utils.changeHARCrownType(__result, "Average_Normal");
-
-                        if (Utils.RIMMSQOL_LOADED && Utils.lastResolveAllGraphicsHeadGraphicPath != null)
-                        {
-                            __result.story.GetType().GetField("headGraphicPath", BindingFlags.NonPublic | BindingFlags.Instance).SetValue(__result.story, Utils.lastResolveAllGraphicsHeadGraphicPath);
-                            Utils.lastResolveAllGraphicsHeadGraphicPath = null;
-                        }
+                        Utils.lastResolveAllGraphicsHeadGraphicPath = null;
                     }
 
                     Utils.removeMindBlacklistedTrait(__result);
@@ -352,8 +347,8 @@ namespace MOARANDROIDS
                     }
 
 
-                    //If TX3/4 then force not damaged head
-                    if (__result.def.defName == Utils.TX3 || __result.def.defName == Utils.TX4)
+                    //If TX with synthetic skin then force not damaged head
+                    if (Utils.ExceptionAndroidWithSkinList.Contains(__result.def.defName))
                     {
                         Utils.changeHARCrownType(__result, "Average_Normal");
 

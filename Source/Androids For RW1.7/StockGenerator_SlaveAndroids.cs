@@ -66,7 +66,7 @@ namespace MOARANDROIDS
             }
 
             private bool respectPopulationIntent = false;
-            private PawnKindDef pawnKind;
-            private bool randomisePawnKind;
+            private PawnKindDef pawnKind = null;
+            private bool randomisePawnKind = false;
     }
 }

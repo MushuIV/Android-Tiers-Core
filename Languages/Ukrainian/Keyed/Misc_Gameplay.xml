@@ -1,192 +1,132 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- Alerts -->
 	<ATPP_AlertHot3Devices>Перегрів комп'ютерів</ATPP_AlertHot3Devices>
 	<ATPP_AlertHot3DevicesDesc>Один або кілька ваших комп'ютерів досягли максимальної температурної межі! Будь ласка, терміново відновіть нормальну температуру!</ATPP_AlertHot3DevicesDesc>
 	<ATPP_AlertHot2Devices>Комп'ютери нагріваються</ATPP_AlertHot2Devices>
 	<ATPP_AlertHot2DevicesDesc>Один або кілька ваших комп'ютерів нагріваються, будь ласка, якнайшвидше знизьте температуру навколишнього середовища!</ATPP_AlertHot2DevicesDesc>
-	
 	<ATPP_AlertUnsecurisedClients>{0} незахищених клієнтів SkyMind</ATPP_AlertUnsecurisedClients>
 	<ATPP_AlertUnsecurisedClientsDesc>Увага: у вас є потенційно {0} клієнтів SkyMind, яких можуть зламати через мережу. Побудуйте сервери безпеки, щоб запобігти цьому.</ATPP_AlertUnsecurisedClientsDesc>
-	
-	<!-- Incidents -->
 	<ATPP_IncidentSurrogateHackingVirus>SX-вірус</ATPP_IncidentSurrogateHackingVirus>
 	<ATPP_IncidentSurrogateHackingCryptolocker>SX-криптолокер</ATPP_IncidentSurrogateHackingCryptolocker>
 	<ATPP_IncidentSurrogateHackingExplosiveVirus>SX-вибуховий вірус</ATPP_IncidentSurrogateHackingExplosiveVirus>
 	<ATPP_IncidentSurrogateHackingLiteDesc>Ваша система безпеки нейтралізувала частину атаки, проте деякі підсистеми {0} сурогатів було скомпрометовано.</ATPP_IncidentSurrogateHackingLiteDesc>
-	
-	<ATPP_IncidentSurrogateHackingHardDesc>Ваша система безпеки не захищає весь ваш парк сурогатних андроїдів, операційні системи {0} андроїдів було повністю скомпрометовано.</ATPP_IncidentSurrogateHackingHardDesc>	
+	<ATPP_IncidentSurrogateHackingHardDesc>Ваша система безпеки не захищає весь ваш парк сурогатних андроїдів, операційні системи {0} андроїдів було повністю скомпрометовано.</ATPP_IncidentSurrogateHackingHardDesc>
 	<ATPP_IncidentVirusedDesc>Ці сурогати тепер повністю під контролем вірусу та атакуватимуть вас!</ATPP_IncidentVirusedDesc>
 	<ATPP_IncidentVirusedExplosiveDesc>Ці сурогати тепер повністю під контролем вірусу: вони атакуватимуть вас і підірвуть внутрішню батарею після закінчення зворотного відліку!</ATPP_IncidentVirusedExplosiveDesc>
 	<ATPP_IncidentCryptolockerDesc>Усі заражені сурогати повністю непридатні до використання. Це можна скасувати (сподіваємося), сплативши викуп фракції, яка стоїть за цією атакою.</ATPP_IncidentCryptolockerDesc>
-	
 	<ATPP_IncidentDeviceHackingVirus>Вірус</ATPP_IncidentDeviceHackingVirus>
 	<ATPP_IncidentDeviceHackingCryptolocker>Криптолокер</ATPP_IncidentDeviceHackingCryptolocker>
 	<ATPP_IncidentDeviceHackingExplosiveVirus>Вибуховий вірус</ATPP_IncidentDeviceHackingExplosiveVirus>
 	<ATPP_IncidentDeviceHackingLiteDesc>Ваша система безпеки нейтралізувала частину атаки, проте {0} підключених пристроїв було тимчасово скомпрометовано.</ATPP_IncidentDeviceHackingLiteDesc>
-	
-	<ATPP_IncidentDeviceHackingHardDesc>Ваша система безпеки не захищає всі підключені пристрої, операційні системи {0} підключених пристроїв було повністю скомпрометовано.</ATPP_IncidentDeviceHackingHardDesc>	
+	<ATPP_IncidentDeviceHackingHardDesc>Ваша система безпеки не захищає всі підключені пристрої, операційні системи {0} підключених пристроїв було повністю скомпрометовано.</ATPP_IncidentDeviceHackingHardDesc>
 	<ATPP_IncidentDeviceVirusedDesc>Ці пристрої тепер повністю під контролем вірусу!</ATPP_IncidentDeviceVirusedDesc>
 	<ATPP_IncidentDeviceVirusedExplosiveDesc>Ці пристрої тепер повністю під контролем вірусу та вибухнуть після закінчення зворотного відліку!</ATPP_IncidentDeviceVirusedExplosiveDesc>
 	<ATPP_IncidentDeviceCryptolockerDesc>Усі заражені пристрої повністю непридатні до використання. Це можна скасувати (сподіваємося), сплативши викуп фракції, яка стоїть за цією атакою.</ATPP_IncidentDeviceCryptolockerDesc>
-	
 	<ATPP_LetterFactionRansomware>Програма-вимагач</ATPP_LetterFactionRansomware>
 	<ATPP_LetterFactionRansomwareSkillStolenDesc>{0} пошкоджує ділянки пам'яті, що відповідають за навичку «{1}» у мозку {2}, через мережу SkyMind.</ATPP_LetterFactionRansomwareSkillStolenDesc>
 	<ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>{0} заражає мозок {1} та встановлює негативну рису «{2}» через мережу SkyMind.</ATPP_LetterFactionRansomwareBadTraitDownloadedDesc>
-	
-	<!-- Needs -->
 	<ATPP_EnergyNeed>Енергія</ATPP_EnergyNeed>
 	<ATPP_EnergyNeedDesc>Енергія — це кількість заряду у внутрішній батареї андроїда. Якщо вона на нулі, андроїд зазнаватиме дедалі більших збоїв і зрештою вимкнеться (помре).</ATPP_EnergyNeedDesc>
-	
-	<!-- NanoKits -->
 	<ATPP_NanoKitsNoCare>Без ремонту</ATPP_NanoKitsNoCare>
 	<ATPP_NanoKitsNoKitJustVisit>Огляд техніка без нанокомплектів</ATPP_NanoKitsNoKitJustVisit>
 	<ATPP_NanoKitsBasic>Базовий нанокомплект</ATPP_NanoKitsBasic>
 	<ATPP_NanoKitsIntermediate>Середній нанокомплект</ATPP_NanoKitsIntermediate>
 	<ATPP_NanoKitsAdvanced>Вдосконалений нанокомплект</ATPP_NanoKitsAdvanced>
-	
-	<!-- CompInspectPane -->
 	<ATPP_UploadPercentage>Вивантаження свідомості: {0}%</ATPP_UploadPercentage>
 	<ATPP_DownloadPercentage>Завантаження свідомості: {0}%</ATPP_DownloadPercentage>
-	
 	<ATPP_PermutationPercentage>Перестановка свідомості: {0}%</ATPP_PermutationPercentage>
 	<ATPP_DuplicationPercentage>Дублювання свідомості: {0}%</ATPP_DuplicationPercentage>
 	<ATPP_UploadSkyCloudPercentage>Вивантаження свідомості в SkyCloud: {0}%</ATPP_UploadSkyCloudPercentage>
 	<ATPP_DownloadFromSkyCloudPercentage>Завантаження свідомості зі SkyCloud: {0}%</ATPP_DownloadFromSkyCloudPercentage>
-	
 	<ATPP_SkyMindDetected>Підключено до SkyMind</ATPP_SkyMindDetected>
 	<ATPP_RemotelyControlledBy>Дистанційно керується {0}.</ATPP_RemotelyControlledBy>
 	<ATPP_RemotelyControl>Дистанційно керувати {0}</ATPP_RemotelyControl>
-	
 	<ATPP_CompHotSensitiveHot3Text>Температура занадто висока!</ATPP_CompHotSensitiveHot3Text>
 	<ATPP_CompHotSensitiveHot2Text>Увага: висока температура</ATPP_CompHotSensitiveHot2Text>
 	<ATPP_CompHotSensitiveHot1Text>Температура трохи підвищена</ATPP_CompHotSensitiveHot1Text>
 	<ATPP_CompHotSensitiveHot0Text>Ідеальна робоча температура</ATPP_CompHotSensitiveHot0Text>
-	
 	<ATPP_CryptoLockedSurrogate>Заблоковано криптолокером, непридатний!</ATPP_CryptoLockedSurrogate>
 	<ATPP_ExplosiveVirus>Вибуховий вірус: {0} секунд до вибуху батареї!</ATPP_ExplosiveVirus>
 	<ATPP_TempHackingLosingControlIn>Втрата контролю через {0} секунд</ATPP_TempHackingLosingControlIn>
-	
 	<ATPP_BatteryLevel>Рівень батареї: {0}%</ATPP_BatteryLevel>
 	<ATPP_TempInfection>Кінець зараження через {0}</ATPP_TempInfection>
-	
 	<ATPP_SkyCloudCoreBooting>Завантаження сервера (залишилося {0} секунд)</ATPP_SkyCloudCoreBooting>
-	
 	<ATPP_NaniteFrameworkRepairingInProgress>Відновлення структури триває: {0}%</ATPP_NaniteFrameworkRepairingInProgress>
 	<ATPP_VX3SurrogateTypePrimary>Первинний сурогат</ATPP_VX3SurrogateTypePrimary>
 	<ATPP_VX3SurrogateTypeSecondary>Вторинний сурогат</ATPP_VX3SurrogateTypeSecondary>
-	
 	<ATPP_MindAbsorptionProgress>Поглинання свідомості триває: {0}%</ATPP_MindAbsorptionProgress>
-	
 	<ATPP_Rusted>Іржавий</ATPP_Rusted>
-	
 	<ATPP_BatteryExplodeInProgress>Вибух батареї: {0}%</ATPP_BatteryExplodeInProgress>
-	
-	<!-- AutoDoor -->
 	<ATPP_AutoDoorOpen>Відчинити</ATPP_AutoDoorOpen>
 	<ATPP_AutoDoorOpenDescription>Відчинити дистанційно через ядро SkyCloud.</ATPP_AutoDoorOpenDescription>
 	<ATPP_AutoDoorClose>Зачинити</ATPP_AutoDoorClose>
 	<ATPP_AutoDoorCloseDescription>Зачинити дистанційно через сервер SkyCloud.</ATPP_AutoDoorCloseDescription>
 	<ATPP_AutoDoorOpenMoteText>Відчинення через SkyCloud</ATPP_AutoDoorOpenMoteText>
 	<ATPP_AutoDoorCloseMoteText>Зачинення через SkyCloud</ATPP_AutoDoorCloseMoteText>
-	
-	<!-- AutoFlickering -->
 	<ATPP_FlickEnable>Увімкнути живлення через SkyCloud</ATPP_FlickEnable>
 	<ATPP_FlickDisable>Вимкнути живлення через SkyCloud</ATPP_FlickDisable>
-	
-	<!-- Letters -->
 	<ATPP_LetterSurrogateDisabled>Сурогат {0} вимкнено</ATPP_LetterSurrogateDisabled>
 	<ATPP_LetterSurrogateDisabledDesc>Сурогат {0} більше не працює внаслідок серйозного пошкодження його фізичної структури.</ATPP_LetterSurrogateDisabledDesc>
-	
 	<ATPP_LetterUploadOK>Вивантаження завершено</ATPP_LetterUploadOK>
 	<ATPP_LetterUploadOKDesc>Вивантаження свідомості {0} завершено; її успішно перенесено у штучний мозок {1}. {1} тепер мертвий (свідомість знищено).</ATPP_LetterUploadOKDesc>
-	
 	<ATPP_LetterPermuteOK>Перестановку завершено</ATPP_LetterPermuteOK>
 	<ATPP_LetterPermuteOKDesc>Перестановку свідомостей завершено: {0} та {1} обмінялися тілами.</ATPP_LetterPermuteOKDesc>
-	
 	<ATPP_LetterDuplicateOK>Дублювання завершено</ATPP_LetterDuplicateOK>
 	<ATPP_LetterDuplicateOKDesc>Дублювання свідомості завершено: мозок {1} тепер містить копію мозку {0}. {1} тепер вважається мертвим.</ATPP_LetterDuplicateOKDesc>
-	
 	<ATPP_LetterSkyCloudUploadOK>Вивантаження в SkyCloud завершено</ATPP_LetterSkyCloudUploadOK>
 	<ATPP_LetterSkyCloudUploadOKDesc>Вивантаження свідомості в SkyCloud завершено: свідомість {0} тепер зберігається в центральній пам'яті {1}.</ATPP_LetterSkyCloudUploadOKDesc>
-	
 	<ATPP_LetterSkyCloudReplicateOK>Реплікацію завершено</ATPP_LetterSkyCloudReplicateOK>
 	<ATPP_LetterSkyCloudReplicateOKDesc>Реплікацію нейромережі {0} в пам'яті {1} завершено.</ATPP_LetterSkyCloudReplicateOKDesc>
-	
 	<ATPP_LetterSkyCloudDownloadOK>Завантаження зі SkyCloud завершено</ATPP_LetterSkyCloudDownloadOK>
 	<ATPP_LetterSkyCloudDownloadOKDesc>Завантаження свідомості зі SkyCloud завершено: свідомість {0} тепер зберігається в центральній пам'яті {1}.</ATPP_LetterSkyCloudDownloadOKDesc>
-	
 	<ATPP_LetterSkyCloudMigrateOK>Міграцію свідомості в SkyCloud завершено</ATPP_LetterSkyCloudMigrateOK>
 	<ATPP_LetterSkyCloudMigrateOKDesc>Міграцію свідомості {0} з {1} до {2} успішно завершено.</ATPP_LetterSkyCloudMigrateOKDesc>
-	
 	<ATPP_LetterInterruptedUpload>Вивантаження не вдалося</ATPP_LetterInterruptedUpload>
 	<ATPP_LetterInterruptedUploadDesc>Критична помилка: передачу свідомості було перервано, що призвело до остаточного пошкодження обох мізків (смерть).{0}</ATPP_LetterInterruptedUploadDesc>
 	<ATPP_LetterInterruptedUploadDescCompHostDead>Смерть приймаючого носія</ATPP_LetterInterruptedUploadDescCompHostDead>
 	<ATPP_LetterInterruptedUploadDescCompSourceDead>Смерть випромінювача свідомості</ATPP_LetterInterruptedUploadDescCompSourceDead>
 	<ATPP_LetterInterruptedUploadDescCompRandomError>Сталася невідома помилка</ATPP_LetterInterruptedUploadDescCompRandomError>
 	<ATPP_LetterInterruptedUploadDescCompDiconnectionError>Один або обидва поселенці більше не підключені до SkyMind.</ATPP_LetterInterruptedUploadDescCompDiconnectionError>
-	
 	<ATPP_LetterFactionScam>Шахрайство</ATPP_LetterFactionScam>
 	<ATPP_LetterFactionScamCryptolockerDesc>{0} вирішили не видаляти вірус-криптолокер, що заразив вашу колонію. Вони ошукали вас...</ATPP_LetterFactionScamCryptolockerDesc>
 	<ATPP_LetterFactionScamRansomwareDesc>{0} вирішили не скасовувати наслідки своєї програми-вимагача. Вони ошукали вас...</ATPP_LetterFactionScamRansomwareDesc>
-	
 	<ATPP_CryptolockerNeedPayRansomTitle>Викуп за криптолокер</ATPP_CryptolockerNeedPayRansomTitle>
 	<ATPP_CryptolockerNeedPayRansom>{0} зв'язується з вами по радіо. Вони стоять за атакою вірусу-криптолокера і пропонують видалити свій вірус в обмін на {1} срібла.</ATPP_CryptolockerNeedPayRansom>
-	
 	<ATPP_RansomNeedPayRansomTitle>Викуп за програму-вимагач</ATPP_RansomNeedPayRansomTitle>
 	<ATPP_RansomNeedPayRansomCorruptedSKill>{0} зв'язується з вами по радіо. Вони стоять за атакою програми-вимагача і пропонують відновити пошкоджену навичку «{1}» у {2} в обмін на {3} срібла.</ATPP_RansomNeedPayRansomCorruptedSKill>
 	<ATPP_RansomNeedPayRansomDownloadedTrait>{0} зв'язується з вами по радіо. Вони стоять за атакою програми-вимагача і пропонують видалити встановлену погану рису «{1}» у {2} в обмін на {3} срібла.</ATPP_RansomNeedPayRansomDownloadedTrait>
-	
 	<ATPP_ComptHeatSensitiveComputerMeltTitle>Перегрів сервера</ATPP_ComptHeatSensitiveComputerMeltTitle>
-    <ATPP_ComptHeatSensitiveComputerMeltDesc>Сервер вибухнув через високу робочу температуру!</ATPP_ComptHeatSensitiveComputerMeltDesc>
-	
+	<ATPP_ComptHeatSensitiveComputerMeltDesc>Сервер вибухнув через високу робочу температуру!</ATPP_ComptHeatSensitiveComputerMeltDesc>
 	<ATPP_destroyedMindsDueToDestroyedSkyCloudCore>Втрачено {0} свідомостей</ATPP_destroyedMindsDueToDestroyedSkyCloudCore>
 	<ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>Внаслідок знищення ядра SkyCloud {0} усі {1} свідомостей, що зберігалися в його центральній пам'яті, було втрачено.</ATPP_destroyedMindsDueToDestroyedSkyCloudCoreDesc>
-	
 	<ATPP_LetterHackingPointsRemoved>Втрата очок злому</ATPP_LetterHackingPointsRemoved>
 	<ATPP_LetterHackingPointsRemovedDesc>Усі сервери злому у ваших поселеннях перебувають поза мережею. Це означає, що {0} очок було втрачено, оскільки їх більше ніде зберігати!</ATPP_LetterHackingPointsRemovedDesc>
-	
 	<ATPP_LetterSkillPointsRemoved>Втрата очок навичок</ATPP_LetterSkillPointsRemoved>
 	<ATPP_LetterSkillPointsRemovedDesc>Усі сервери навичок у ваших поселеннях перебувають поза мережею. Це означає, що {0} очок було втрачено, оскільки їх більше ніде зберігати!</ATPP_LetterSkillPointsRemovedDesc>
-	
 	<ATPP_SkyCloudCoreBooted>{0} завантажено</ATPP_SkyCloudCoreBooted>
-    <ATPP_SkyCloudCoreBootedDesc>Сервер SkyCloud {0} успішно запущено, тепер його можна використовувати.</ATPP_SkyCloudCoreBootedDesc>
-	
+	<ATPP_SkyCloudCoreBootedDesc>Сервер SkyCloud {0} успішно запущено, тепер його можна використовувати.</ATPP_SkyCloudCoreBootedDesc>
 	<ATPP_LetterInterruptedSkyCloudReplication>Реплікація не вдалася</ATPP_LetterInterruptedSkyCloudReplication>
 	<ATPP_LetterInterruptedSkyCloudReplicationDesc>Реплікація свідомості {0} не вдалася, оскільки хост-ядро SkyCloud перебуває поза мережею.</ATPP_LetterInterruptedSkyCloudReplicationDesc>
-	
 	<ATPP_LetterInterruptedSkyCloudMigration>Міграція не вдалася</ATPP_LetterInterruptedSkyCloudMigration>
 	<ATPP_LetterInterruptedSkyCloudMigrationDesc>Міграція свідомості {0} не вдалася, оскільки цільове ядро SkyCloud перебуває поза мережею.</ATPP_LetterInterruptedSkyCloudMigrationDesc>
-	
 	<ATPP_LetterTraitorOffline>Зрадник поза мережею</ATPP_LetterTraitorOffline>
 	<ATPP_LetterTraitorOfflineDesc>{0} зрадив свою фракцію, дозволивши вам завербувати себе. Фракція помітила це і заарештувала його (відтак його відключено від керованого сурогата).</ATPP_LetterTraitorOfflineDesc>
-	
 	<ATPP_LetterInterruptedMindAbsorption>Поглинання свідомості не вдалося</ATPP_LetterInterruptedMindAbsorption>
 	<ATPP_LetterInterruptedMindAbsorptionDesc>Поглинання свідомості {0} не вдалося через відключення від SkyMind або через те, що жоден сервер очок не функціонує.</ATPP_LetterInterruptedMindAbsorptionDesc>
-	
 	<ATPP_MindAbsorptionDone>Поглинання свідомості завершено</ATPP_MindAbsorptionDone>
 	<ATPP_MindAbsorptionDoneDesc>Поглинання свідомості {0} завершено, отримано {1} очок навичок.</ATPP_MindAbsorptionDoneDesc>
-	
 	<ATPP_LetterExternalSurrogateEscape>Втеча контролера сурогата</ATPP_LetterExternalSurrogateEscape>
 	<ATPP_LetterExternalSurrogateEscapeDesc>{0}, контролер сурогата, якого ви намагаєтеся завербувати, вирішив приєднатися до вашої колонії. Він відключиться від свого сурогата та непомітно втече з ворожої бази, де перебуває, щоб дістатися до вашої колонії протягом кількох днів (точний час невідомий).</ATPP_LetterExternalSurrogateEscapeDesc>
-	
 	<ATPP_LetterExternalSurrogateControllerJoin>Колишній в'язень приєднався</ATPP_LetterExternalSurrogateControllerJoin>
 	<ATPP_LetterExternalSurrogateControllerJoinDesc>{0}, контролер сурогата, якого ви полонили та успішно навернули, щойно прибув до вашої колонії та приєднався до вас.</ATPP_LetterExternalSurrogateControllerJoinDesc>
-	
 	<ATPP_LetterExternalSurrogateControllerCannotJoin>Колишньому в'язню не вдалося дістатися</ATPP_LetterExternalSurrogateControllerCannotJoin>
 	<ATPP_LetterExternalSurrogateControllerCannotJoinDesc>{0}, контролер сурогата, якого ви полонили та успішно навернули, спробував дістатися до вашої колонії, але з невідомих причин не зміг і тому пішов.</ATPP_LetterExternalSurrogateControllerCannotJoinDesc>
-	
 	<ATPP_LetterExternalSurrogateDisconnect>Відключення контролера</ATPP_LetterExternalSurrogateDisconnect>
 	<ATPP_LetterExternalSurrogateDisconnectDesc>{0}, контролер сурогата, якого ви намагалися поневолити, відключився, оскільки він і його фракція вважають, що більше не зможуть отримати інформацію про вашу колонію, а залишатися рабом було б марною тратою часу.</ATPP_LetterExternalSurrogateDisconnectDesc>
-	
 	<ATPP_LetterKidnappedM8Disconnected>Відключення M8</ATPP_LetterKidnappedM8Disconnected>
 	<ATPP_LetterKidnappedM8DisconnectedDesc>Викрадачі вашого M8 ({0}, що містить {1}) зрештою отримали доступ до комунікаційних схем. Зрозумівши, що машина продовжує зв'язок через вбудовану антену SkyMind, вони її відключили. Відтак ви більше не зможете підключитися до {1}.</ATPP_LetterKidnappedM8DisconnectedDesc>
-	
-	<!-- Designators -->
 	<ATPP_DesignatorNeedSelectSX>Помилка: ви повинні вибрати дійсний пристрій, підключений до мережі SkyMind!</ATPP_DesignatorNeedSelectSX>
 	<ATPP_DesignatorNeedSelectSXToHack>Помилка: ви повинні вибрати сурогатного андроїда, керованого ворожою або чужою фракцією!</ATPP_DesignatorNeedSelectSXToHack>
-	
-	<!-- Comps -->
 	<ATPP_SkyMindConn>Підключитися до SkyMind</ATPP_SkyMindConn>
 	<ATPP_SkyMindConnDesc>Підключити цього поселенця до мережі SkyMind для вивантаження/перестановки/дублювання свідомості або дистанційного керування андроїдами серії SX чи біологічними сурогатами.</ATPP_SkyMindConnDesc>
 	<ATPP_SkyMindAutoConn>Автоматичне підключення</ATPP_SkyMindAutoConn>
@@ -208,31 +148,23 @@
 	<ATPP_FreeControllerInCaravanDesc>Підключити цього сурогата до вільного контролера в каравані.</ATPP_FreeControllerInCaravanDesc>
 	<ATPP_AndroidSurrogateReconnectToLastController>Перепідключити</ATPP_AndroidSurrogateReconnectToLastController>
 	<ATPP_AndroidSurrogateReconnectToLastControllerDesc>Перепідключити сурогата (якщо можливо) до останнього користувача, який ним керував.</ATPP_AndroidSurrogateReconnectToLastControllerDesc>
-	
 	<ATPP_NoVX2Recipient>Немає доступних поселенців (їм потрібен мозковий імплант з чіпом VX2).</ATPP_NoVX2Recipient>
 	<ATPP_NoSkyCloudCoreAvailable>Немає доступного ядра SkyCloud</ATPP_NoSkyCloudCoreAvailable>
 	<ATPP_ConsciousnessUploadNoRecipient>Немає доступного одержувача як цілі завантаження.</ATPP_ConsciousnessUploadNoRecipient>
 	<ATPP_ConsciousnessSelectDestination>Виберіть цільовий носій</ATPP_ConsciousnessSelectDestination>
 	<ATPP_UploadConsciousness>Вивантажити</ATPP_UploadConsciousness>
 	<ATPP_UploadConsciousnessDesc>Вивантажити свідомість із цього андроїда в іншого.</ATPP_UploadConsciousnessDesc>
-	
 	<ATPP_WarningSkyMindDisconnectionRisk>Увага: під час операції не можна відключатися від мережі SkyMind, оскільки це призведе до пошкодження мізків і смерті.</ATPP_WarningSkyMindDisconnectionRisk>
-	
 	<ATPP_UploadConsciousnessConfirm>Вивантажити свідомість</ATPP_UploadConsciousnessConfirm>
 	<ATPP_UploadConsciousnessConfirmDesc>Після підтвердження {0} вивантажить свою свідомість у тіло {1}, що знищить свідомість {1} (уб'є його), а тіло {0} буде вимкнено. Ви впевнені, що бажаєте продовжити?</ATPP_UploadConsciousnessConfirmDesc>
-	
 	<ATPP_PermuteConsciousnessConfirm>Перестановка свідомостей</ATPP_PermuteConsciousnessConfirm>
 	<ATPP_PermuteConsciousnessConfirmDesc>Після підтвердження {0} обміняється свідомістю з {1} (вони обміняються тілами). Ви впевнені, що бажаєте продовжити?</ATPP_PermuteConsciousnessConfirmDesc>
-	
 	<ATPP_DuplicateConsciousnessConfirm>Дублювання свідомості</ATPP_DuplicateConsciousnessConfirm>
 	<ATPP_DuplicateConsciousnessConfirmDesc>Після підтвердження {0} здублює свою свідомість у мозок {1}, що знищить свідомість {1} (уб'є його). Ви впевнені, що бажаєте продовжити?</ATPP_DuplicateConsciousnessConfirmDesc>
-	
 	<ATPP_UseBattery>Використовувати батарею</ATPP_UseBattery>
 	<ATPP_UseBatteryDesc>Якщо увімкнено, андроїд живитиметься безпосередньо від внутрішньої батареї замість генератора біомаси.</ATPP_UseBatteryDesc>
-	
 	<ATPP_RepairAndroids>Ремонтувати андроїдів</ATPP_RepairAndroids>
 	<ATPP_RepairAndroidsDesc>Дозволити цьому поселенцю ремонтувати андроїдів.</ATPP_RepairAndroidsDesc>
-	
 	<ATPP_UploadVirus>Вірус</ATPP_UploadVirus>
 	<ATPP_UploadVirusDesc>Завантажити вірус у цільового сурогата.</ATPP_UploadVirusDesc>
 	<ATPP_UploadExplosiveVirus>Вибуховий вірус</ATPP_UploadExplosiveVirus>
@@ -241,19 +173,15 @@
 	<ATPP_HackDesc>Зламати та взяти під контроль цільового сурогата.</ATPP_HackDesc>
 	<ATPP_HackTemp>Тимчасовий злом</ATPP_HackTemp>
 	<ATPP_HackTempDesc>Здійснити швидкий злом для тимчасового перехоплення контролю над цільовим сурогатом.</ATPP_HackTempDesc>
-	
 	<ATPP_MoveToSkyCloud>Вивантажити в SkyCloud</ATPP_MoveToSkyCloud>
 	<ATPP_MoveToSkyCloudDesc>Ця операція перемістить свідомість носія в ядро SkyCloud, що зробить її майже безсмертною, але залишить тіло мертвим.</ATPP_MoveToSkyCloudDesc>
 	<ATPP_MoveFromSkyCloud>Завантажити зі SkyCloud</ATPP_MoveFromSkyCloud>
 	<ATPP_MoveFromSkyCloudDesc>Ця операція перемістить вибрану свідомість, що зберігається в ядрі SkyCloud, у мозок носія.</ATPP_MoveFromSkyCloudDesc>
 	<ATPP_CentralCoreNbStoredMind>{0} збережених свідомостей</ATPP_CentralCoreNbStoredMind>
 	<ATPP_CentralCoreNbAssistingMinds>{0} свідомостей призначено на допомогу</ATPP_CentralCoreNbAssistingMinds>
-	
 	<ATPP_CentralCoreMigrationInProgress>Міграція {0} у {1} триває ({2}%)</ATPP_CentralCoreMigrationInProgress>
 	<ATPP_CentralCoreProcessInMentalBreak>{0} недоступний: нервовий зрив</ATPP_CentralCoreProcessInMentalBreak>
-	
 	<ATPP_CentralCoreReplicationInProgress>Реплікація свідомості {0} триває ({1}%)</ATPP_CentralCoreReplicationInProgress>
-	
 	<ATPP_SkyCloudFloatMenuMindsStoredSelect>Виберіть свідомість</ATPP_SkyCloudFloatMenuMindsStoredSelect>
 	<ATPP_ProcessInfo>Інформація</ATPP_ProcessInfo>
 	<ATPP_ProcessInfoDesc>Отримати інформацію про збережені свідомості.</ATPP_ProcessInfoDesc>
@@ -266,42 +194,29 @@
 	<ATPP_ProcessAssistDesc>Призначити збережені свідомості виключно для допомоги вашим поселенцям, підключеним до мережі SkyMind. Вони отримуватимуть бонус до настрою за кожну призначену тут свідомість.</ATPP_ProcessAssistDesc>
 	<ATPP_ProcessMigrate>Мігрувати</ATPP_ProcessMigrate>
 	<ATPP_ProcessMigrateDesc>Мігрувати свідомість із цього ядра SkyCloud в інше.</ATPP_ProcessMigrateDesc>
-	
 	<ATPP_ProcessAssistAssignedMinds>Зняти свідомість (видалити)</ATPP_ProcessAssistAssignedMinds>
 	<ATPP_ProcessAssistUnassignedMinds>Призначити свідомість (додати)</ATPP_ProcessAssistUnassignedMinds>
 	<ATPP_ProcessAssistAssignAll>Призначити всі непризначені свідомості</ATPP_ProcessAssistAssignAll>
 	<ATPP_ProcessAssistUnassignAll>Зняти всі призначені свідомості</ATPP_ProcessAssistUnassignAll>
-	
 	<ATPP_ProcessDisconnectAllSurrogates>Відключити всіх</ATPP_ProcessDisconnectAllSurrogates>
-	
 	<ATPP_StopVirused>Зупинити</ATPP_StopVirused>
 	<ATPP_StopVirusedDesc>Вимкнути цього зараженого сурогата</ATPP_StopVirusedDesc>
-	
 	<ATPP_PreviousSurrogateControllerIs>Попередній контролер: {0}</ATPP_PreviousSurrogateControllerIs>
-	
 	<ATPP_Skills>Навички</ATPP_Skills>
 	<ATPP_SkillsDesc>Відкрити майстерню навичок, що дозволить вам конвертувати очки навичок, згенеровані серверами, у додаткові навички для ваших андроїдів.</ATPP_SkillsDesc>
-	
 	<ATPP_MindAbsorption>Поглинання свідомості</ATPP_MindAbsorption>
 	<ATPP_MindAbsorptionDesc>Поглинути свідомість полоненого для конвертації її в очки навичок (летальна операція).</ATPP_MindAbsorptionDesc>
-	
 	<ATPP_MindAbsorptionConfirm>Поглинання свідомості</ATPP_MindAbsorptionConfirm>
 	<ATPP_MindAbsorptionConfirmDesc>Після підтвердження свідомість {0} буде поглинуто і конвертовано в очки навичок (летальна операція). Ви впевнені, що бажаєте продовжити?</ATPP_MindAbsorptionConfirmDesc>
-	
 	<ATPP_UploadMakeAndroidBatteryOverloadConfirm>Перевантажити батарею</ATPP_UploadMakeAndroidBatteryOverloadConfirm>
 	<ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>Обережно: після підтвердження батарея вибраного андроїда перевантажиться і невдовзі вибухне. Ви справді бажаєте продовжити?</ATPP_UploadMakeAndroidBatteryOverloadConfirmDesc>
-	
 	<ATPP_OverloadAndroid>Перевантажити</ATPP_OverloadAndroid>
 	<ATPP_OverloadAndroidDesc>Спричинити вибух батареї андроїда</ATPP_OverloadAndroidDesc>
-	
-	<!-- Power++ compat -->
 	<ATPP_LWPNConnected>Підключено до {0}</ATPP_LWPNConnected>
 	<ATPP_LWPNDisconnected>Відключено від {0}</ATPP_LWPNDisconnected>
 	<ATPP_NoAvailableLWPN>Немає доступних LWPN</ATPP_NoAvailableLWPN>
 	<ATPP_LWPNNbConnectedAndroid>Підключених андроїдів: {0}</ATPP_LWPNNbConnectedAndroid>
 	<ATPP_MessageLWPNNoSlotAvailable>Немає вільних слотів LWPN!</ATPP_MessageLWPNNoSlotAvailable>
-	
-	<!-- Buildings -->
 	<ATPP_SkyMindAntennaSynthesis>Підключених користувачів: {0} / {1}</ATPP_SkyMindAntennaSynthesis>
 	<ATPP_ForceReload>Примусова зарядка батареї</ATPP_ForceReload>
 	<ATPP_CannotUseEveryPlaceUsed>Неможливо використати: зарядна станція заповнена.</ATPP_CannotUseEveryPlaceUsed>
@@ -314,8 +229,6 @@
 	<ATPP_SkillServersSynthesis>Очок навичок доступно: {0} / {1}</ATPP_SkillServersSynthesis>
 	<ATTP_SkillSlotsAdded>Додано слотів навичок: {0}</ATTP_SkillSlotsAdded>
 	<ATTP_SkillProducedPoints>Виробництво очок навичок: {0}</ATTP_SkillProducedPoints>
-	
-	<!-- Colors -->
 	<ATPP_HairColor>Колір волосся</ATPP_HairColor>
 	<ATPP_HairColorBlond>Білявий</ATPP_HairColorBlond>
 	<ATPP_HairColorBlack>Чорний</ATPP_HairColorBlack>
@@ -323,7 +236,6 @@
 	<ATPP_HairColorGrey>Сірий</ATPP_HairColorGrey>
 	<ATPP_HairColorGinger>Рудий</ATPP_HairColorGinger>
 	<ATPP_HairColorWhite>Білий</ATPP_HairColorWhite>
-	
 	<ATPP_SkinColor>Колір шкіри</ATPP_SkinColor>
 	<ATPP_SkinColorVerylight>Дуже світлий</ATPP_SkinColorVerylight>
 	<ATPP_SkinColorLight>Світлий</ATPP_SkinColorLight>
@@ -331,14 +243,11 @@
 	<ATPP_SkinColorMidbrown>Помірно смаглявий</ATPP_SkinColorMidbrown>
 	<ATPP_SkinColorDarkbrown>Темно-смаглявий</ATPP_SkinColorDarkbrown>
 	<ATPP_SkinColorVerydark>Дуже темний</ATPP_SkinColorVerydark>
-	
-	<!-- Messages -->
 	<ATPP_CannotConnectToSkyMindNoNet>Неможливо підключитися до SkyMind: мережа недоступна!</ATPP_CannotConnectToSkyMindNoNet>
 	<ATPP_CannotConnectToSkyMind>Неможливо підключитися до SkyMind: недостатньо вільних слотів!</ATPP_CannotConnectToSkyMind>
 	<ATPP_SurrogateUnexpectedDisconnection>Несподіване відключення: {0} більше не підключений до мережі SkyMind!</ATPP_SurrogateUnexpectedDisconnection>
 	<ATPP_SurrogateConnectionCannotBeDisconnected>Неможливо відключити: {0} зараз перебуває в нестабільному психічному стані.</ATPP_SurrogateConnectionCannotBeDisconnected>
 	<ATPP_SurrogateConnectionOK>{0} тепер підключено до {1}</ATPP_SurrogateConnectionOK>
-	
 	<ATPP_StartPermute>Перестановку свідомостей між {0} та {1} розпочато!</ATPP_StartPermute>
 	<ATPP_StartDuplicate>Дублювання свідомості {0} у {1} розпочато!</ATPP_StartDuplicate>
 	<ATPP_StartSkyCloudUpload>Вивантаження свідомості {0} у {1} розпочато!</ATPP_StartSkyCloudUpload>
@@ -346,48 +255,35 @@
 	<ATPP_StartSkyCloudDownload>Завантаження свідомості {0} у мозок {1} розпочато!</ATPP_StartSkyCloudDownload>
 	<ATPP_StartSkyCloudMigration>Міграцію свідомості {0} з {1} до {2} розпочато!</ATPP_StartSkyCloudMigration>
 	<ATPP_StartSkyCloudMigrationFailed>Міграція свідомості {0} у {1} неможлива, оскільки в {1} недостатньо місця для збереження свідомостей.</ATPP_StartSkyCloudMigrationFailed>
-	
 	<ATPP_StartUpload>Вивантаження свідомості {0} у {1} розпочато!</ATPP_StartUpload>
-	
 	<ATPP_CanOnlyBeUsedByAndroid>Цей пристрій можуть використовувати лише андроїди!</ATPP_CanOnlyBeUsedByAndroid>
 	<ATPP_CannotBeUsedBecauseNoOldAgeIssues>Неможливо використати: у андроїда не виявлено вікових несправностей.</ATPP_CannotBeUsedBecauseNoOldAgeIssues>
-	
 	<ATPP_NoBrokenStuffFound>Для андроїда {0} несправностей не виявлено!</ATPP_NoBrokenStuffFound>
 	<ATPP_BrokenStuffRepairFailed>Помилка: нанітам не вдалося виконати ремонт!</ATPP_BrokenStuffRepairFailed>
-	
-	<ATPP_BrokenCPURepaired>Штучний мозок успішно відремонтовано!</ATPP_BrokenCPURepaired> 
-	<ATPP_BrokenHydraulicSystemRepaired>Гідравлічну систему успішно відремонтовано!</ATPP_BrokenHydraulicSystemRepaired> 
-	<ATPP_BrokenCoolingSystemRepaired>Систему охолодження успішно відремонтовано!</ATPP_BrokenCoolingSystemRepaired> 
+	<ATPP_BrokenCPURepaired>Штучний мозок успішно відремонтовано!</ATPP_BrokenCPURepaired>
+	<ATPP_BrokenHydraulicSystemRepaired>Гідравлічну систему успішно відремонтовано!</ATPP_BrokenHydraulicSystemRepaired>
+	<ATPP_BrokenCoolingSystemRepaired>Систему охолодження успішно відремонтовано!</ATPP_BrokenCoolingSystemRepaired>
 	<ATPP_BrokenFrameworkRepaired>Каркас успішно відремонтовано!</ATPP_BrokenFrameworkRepaired>
-	
 	<ATPP_CryptolockerClearedByFaction>{0} видалили свій вірус-криптолокер із вашого інфікованого сурогата!</ATPP_CryptolockerClearedByFaction>
 	<ATPP_CryptolockerDeviceClearedByFaction>{0} видалили свій вірус-криптолокер із ваших підключених пристроїв!</ATPP_CryptolockerDeviceClearedByFaction>
 	<ATPP_RansomwareClearedByFaction>{0} усунули пошкодження, завдані {1}.</ATPP_RansomwareClearedByFaction>
-	
 	<ATPP_SurrogateHackOK>Злом {0} пройшов успішно!</ATPP_SurrogateHackOK>
 	<ATPP_CannotHackNotEnoughtHackingPoints>Недостатньо очок злому: для зламу потрібно {0}!</ATPP_CannotHackNotEnoughtHackingPoints>
-	
 	<ATPP_ProcessDuplicateOK>Нейромережа {0} дублюється.</ATPP_ProcessDuplicateOK>
 	<ATPP_ProcessDuplicateFailed>Неможливо здублювати нейромережу {0}: у ядрі недостатньо місця для свідомостей.</ATPP_ProcessDuplicateFailed>
 	<ATPP_ProcessRemoveOK>Нейромережу {0} видалено.</ATPP_ProcessRemoveOK>
 	<ATPP_ProcessAssistOK>Свідомість {0} призначено для допомоги підключеним поселенцям.</ATPP_ProcessAssistOK>
 	<ATPP_ProcessUnassistOK>Свідомість {0} більше не призначена для допомоги підключеним поселенцям.</ATPP_ProcessUnassistOK>
-	
 	<ATPP_ProcessNoLongerInMentalBreak>Свідомість {0}, що зберігається в {1}, більше не переживає нервовий зрив.</ATPP_ProcessNoLongerInMentalBreak>
 	<ATPP_CannotReconnectToLastSurrogateController>Неможливо перепідключити: останній контролер сурогата недоступний (зайнятий, мертвий, не підключений до SkyMind...).</ATPP_CannotReconnectToLastSurrogateController>
-	
 	<ATPP_ProcessMassAssist>{0} свідомостей призначено!</ATPP_ProcessMassAssist>
 	<ATPP_ProcessMassUnassist>{0} свідомостей знято!</ATPP_ProcessMassUnassist>
-	
 	<ATPP_SkillsWorkshopPointsConverted>{0} очок навичок додано до {1}</ATPP_SkillsWorkshopPointsConverted>
 	<ATPP_SkillsWorkshopAvailablePoints>Доступні очки: {0}</ATPP_SkillsWorkshopAvailablePoints>
 	<ATPP_SkillsWorkshopAvailablePointsNote>Примітка: для цієї моделі андроїда потрібно {0} очок навичок із серверів, щоб отримати 1 доступне очко.</ATPP_SkillsWorkshopAvailablePointsNote>
-	
 	<ATPP_MindAbsorptionStarted>Поглинання свідомості {0} розпочато</ATPP_MindAbsorptionStarted>
 	<ATPP_NotEnoughtSkillPoints>Недостатньо доступних очок навичок! (Потрібно {0} очок)</ATPP_NotEnoughtSkillPoints>
 	<ATPP_CannotAddVXNeuralChipInSurrogates>Неможливо встановити такий чіп у сурогата! Чіп пошкоджено і більше не можна використовувати!</ATPP_CannotAddVXNeuralChipInSurrogates>
-	
-	<!-- Settings -->
 	<ATPP_SettingsSectionGeneral>Загальні</ATPP_SettingsSectionGeneral>
 	<ATPP_SettingsSectionSkyCloud>SkyCloud</ATPP_SettingsSectionSkyCloud>
 	<ATPP_SettingsSectionSecurity>Безпека</ATPP_SettingsSectionSecurity>
@@ -395,19 +291,15 @@
 	<ATPP_SettingsSectionVX3>Нейрочіп VX3</ATPP_SettingsSectionVX3>
 	<ATPP_SettingsSectionSkills>Навички T1/T2</ATPP_SettingsSectionSkills>
 	<ATPP_SettingsSectionBatteryOverload>Перевантаження батареї</ATPP_SettingsSectionBatteryOverload>
-	
 	<ATPP_SettingsDefaultAndroidGeneratorMode>Режим енергії андроїдів за замовчуванням:</ATPP_SettingsDefaultAndroidGeneratorMode>
 	<ATPP_SettingsDefaultAndroidGeneratorModeBiomass>Генератор біомаси (вони їдять)</ATPP_SettingsDefaultAndroidGeneratorModeBiomass>
 	<ATPP_SettingsDefaultAndroidGeneratorModeBattery>Пряме живлення від батареї (зарядка від електромережі)</ATPP_SettingsDefaultAndroidGeneratorModeBattery>
-	
 	<ATPP_SettingsMindUploadDuration>Тривалість вивантаження свідомості ({0} год)</ATPP_SettingsMindUploadDuration>
 	<ATPP_SettingsMindReplicationDuration>Тривалість реплікації свідомості ({0} год)</ATPP_SettingsMindReplicationDuration>
-	
 	<ATPP_SettingsMindPermutationDuration>Тривалість перестановки свідомості ({0} год)</ATPP_SettingsMindPermutationDuration>
 	<ATPP_SettingsMindDuplicationDuration>Тривалість дублювання свідомості ({0} год)</ATPP_SettingsMindDuplicationDuration>
 	<ATPP_SettingsMindUploadPercentageFail>Ризик невдачі при передачі свідомості ({0}%)</ATPP_SettingsMindUploadPercentageFail>
 	<ATPP_SettingsNanitePercentageFail>Ризик того, що наніти не зможуть відремонтувати андроїда ({0}%)</ATPP_SettingsNanitePercentageFail>
-	
 	<ATPP_SettingsCharchingStationWattIncrease>Збільшення споживання енергії під час зарядки {0}</ATPP_SettingsCharchingStationWattIncrease>
 	<ATPP_SettingsFoodGenerateLessEnergy>Біомаса (їжа) дає менше енергії андроїдам (у 2 рази менше, ніж людям)</ATPP_SettingsFoodGenerateLessEnergy>
 	<ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>Відсоток зарядки батареї кожні 6 секунд ({0}%)</ATPP_SettingsPercentageOfAndroidBatteryReloadedEachXSec>
@@ -435,7 +327,6 @@
 	<ATPP_SettingsCostVirusExplosive>Вибуховий вірус</ATPP_SettingsCostVirusExplosive>
 	<ATPP_SettingsCostHack>Злом</ATPP_SettingsCostHack>
 	<ATPP_SettingsCostHackTemp>Тимчасовий злом</ATPP_SettingsCostHackTemp>
-	
 	<ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>Під час сонячних спалахів андроїди втрачають свідомість</ATPP_SettingsDuringSolarFlareAndroidsShouldBeDowned>
 	<ATPP_SettingsDisableServersAlarm>Вимкнути тривогу нагрівання серверів</ATPP_SettingsDisableServersAlarm>
 	<ATPP_SettingsDisableServersAmbianceNoises>Вимкнути фоновий шум серверів</ATPP_SettingsDisableServersAmbianceNoises>
@@ -447,7 +338,6 @@
 	<ATPP_SettingsMindMigrationCloudDuration>Тривалість міграції свідомості ({0} год)</ATPP_SettingsMindMigrationCloudDuration>
 	<ATPP_SettingsHideRemotelyControlledIcon>Приховати піктограму над дистанційно керованими пристроями</ATPP_SettingsHideRemotelyControlledIcon>
 	<ATPP_SettingsSkyCloudBuffPerAssistingMind>Кількість очок посилення за кожну допоміжну свідомість SkyCloud ({0})</ATPP_SettingsSkyCloudBuffPerAssistingMind>
-	
 	<ATPP_SettingsNbSlotAddedForSkillServers>Кількість слотів, доданих для {0} серверів навичок ({1})</ATPP_SettingsNbSlotAddedForSkillServers>
 	<ATPP_SettingsNbSlotAddedForHackingServers>Кількість слотів, доданих для {0} серверів злому ({1})</ATPP_SettingsNbSlotAddedForHackingServers>
 	<ATPP_SettingsNbSlotAddedForSecurityServers>Кількість слотів, доданих для {0} серверів безпеки ({1})</ATPP_SettingsNbSlotAddedForSecurityServers>
@@ -465,28 +355,23 @@
 	<ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>Не видаляти пристрасті до навичок в андроїдів T1/T2</ATPP_SettingsNotRemoveSkillsPassionForBasicAndroids>
 	<ATPP_SettingsVX3MaxSurrogateControllableAtOnce>Максимальна кількість сурогатів, керованих одночасно ({0})</ATPP_SettingsVX3MaxSurrogateControllableAtOnce>
 	<ATPP_SettingsNbPointsProducedForSkillServers>Кількість вироблених очок (кожні 30 секунд) для {0} серверів навичок ({1})</ATPP_SettingsNbPointsProducedForSkillServers>
-	
 	<ATPP_SettingsRandomSkillsMode>Випадкові навички</ATPP_SettingsRandomSkillsMode>
 	<ATPP_SettingsPreventM7T5AppearingInCharacterEditor>Заборонити появу T5/M7 на екрані створення персонажів</ATPP_SettingsPreventM7T5AppearingInCharacterEditor>
 	<ATPP_SettingsMinHoursNaniteBankFramework>Мінімальна кількість годин для застосування ефекту структурних нанітних банків ({0} год)</ATPP_SettingsMinHoursNaniteBankFramework>
 	<ATPP_SettingsMaxHoursNaniteBankFramework>Максимальна кількість годин для застосування ефекту структурних нанітних банків ({0} год)</ATPP_SettingsMaxHoursNaniteBankFramework>
-	
 	<ATPP_SettingsNbSkillPointsPerSkill>Кількість очок навичок, необхідних для отримання однієї навички ({0})</ATPP_SettingsNbSkillPointsPerSkill>
-	<ATPP_RemoveComfortNeedForT3T4>Прибрати потребу в комфорті для андроїдів >= T3</ATPP_RemoveComfortNeedForT3T4>
+	<ATPP_RemoveComfortNeedForT3T4>Прибрати потребу в комфорті для андроїдів &gt;= T3</ATPP_RemoveComfortNeedForT3T4>
 	<ATPP_SettingsAllowHumanDrugsForT3P>Дозволити людські наркотики для андроїдів T3+</ATPP_SettingsAllowHumanDrugsForT3P>
 	<ATPP_SettingsAllowHumanDrugsFor>Дозволити людські наркотики для андроїдів</ATPP_SettingsAllowHumanDrugsFor>
-	
 	<ATPP_SettingsUploadMindToSkyCloudCoreMode>Режим вивантаження свідомості в ядро SkyCloud:</ATPP_SettingsUploadMindToSkyCloudCoreMode>
 	<ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>Тіло вихідної свідомості гине</ATTP_SettingsUploadMindToSkyCloudCoreModeLethal>
 	<ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>Нейрочіп вихідної свідомості автоматично переналаштовує схеми в режим VX0</ATTP_SettingsUploadMindToSkyCloudCoreModeVX0>
 	<ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>З тілом вихідної свідомості нічого не відбувається (дублювання)</ATTP_SettingsUploadMindToSkyCloudCoreModeNothing>
 	<ATPP_SettingsRemoveSimpleMindedTraitOnUpload>Видаляти рису «простакуватий» при перенесенні T1 у просунутішого носія (людину, T2+)</ATPP_SettingsRemoveSimpleMindedTraitOnUpload>
-	
 	<ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>Імовірність того, що згенеровані андроїди можуть бути пофарбованими або заіржавілими ({0}%)</ATPP_SettingsChanceGeneratedAndroidCanBePaintedOrRust>
 	<ATPP_SettingsAndroidsCanRust>Андроїди можуть іржавіти</ATPP_SettingsAndroidsCanRust>
 	<ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>Мінімальна кількість днів до того, як фарба андроїда почне іржавіти ({0} дн.)</ATPP_SettingsMinDaysBeforeAndroidsPaintingCanRust>
 	<ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>Максимальна кількість днів до того, як фарба андроїда почне іржавіти ({0} дн.)</ATPP_SettingsMaxDaysBeforeAndroidsPaintingCanRust>
-	
 	<ATPP_SettingsAndroidsAreRare>Зробити андроїдів рідкісними для інших фракцій (УВАГА: видалить усі фракції андроїдів)</ATPP_SettingsAndroidsAreRare>
 	<ATPP_SettingsAllowAutoRepaint>Дозволити андроїдам автоматично планувати перефарбування, коли поточна фарба скоро зіпсується</ATPP_SettingsAllowAutoRepaint>
 	<ATPP_SettingsAllowAutoRepaintPrisoned>Дозволити ув'язненим андроїдам також планувати операцію з фарбування</ATPP_SettingsAllowAutoRepaintPrisoned>
@@ -502,7 +387,6 @@
 	<ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>Імовірність того, що завербований контролер сурогата втече і приєднається до вашої фракції без арешту ({0}%)</ATPP_SettingsChanceRecruitedSurrogateControllerCanEscapeAndJoin>
 	<ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>Мінімальна кількість годин до відключення викраденого M8 від SkyMind ({0} год)</ATPP_SettingsMinHourBeforeKidnapperDisconnectM8>
 	<ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>Максимальна кількість годин до відключення викраденого M8 від SkyMind ({0} год)</ATPP_SettingsMaxHourBeforeKidnapperDisconnectM8>
-	
 	<ATPP_SettingsAndroidOverloadBatteryProrata>Потужність вибуху пропорційна рівню заряду батареї</ATPP_SettingsAndroidOverloadBatteryProrata>
 	<ATPP_SettingsAndroidOverloadRadius>Радіус вибуху андроїда ({0})</ATPP_SettingsAndroidOverloadRadius>
 	<ATPP_SettingsM7OverloadRadius>Радіус вибуху M7 ({0})</ATPP_SettingsM7OverloadRadius>
@@ -511,4 +395,12 @@
 	<ATPP_SettingsAndroidOverloadExplosionTypeFire>Запалювальний</ATPP_SettingsAndroidOverloadExplosionTypeFire>
 	<ATPP_SettingsSetT1ResearchToIndustrialTechLevel>Змінити дослідження T1 на індустріальний технологічний рівень замість космічного</ATPP_SettingsSetT1ResearchToIndustrialTechLevel>
 	<ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>Під час дублювання свідомості унікальні здібності ролей передаються цільовій свідомості</ATPP_SettingsOnDuplicationSingleRolesAreTransferedToDestinationMind>
+	<ATPP_AppliedSyntheticSkinSuccess>Синтетичний шкірний шар успішно приживлено на {0}. Одиниця тепер є шасі для прихованого проникнення.</ATPP_AppliedSyntheticSkinSuccess>
+	<ATPP_RemovedSyntheticSkinSuccess>Синтетичну шкіру успішно знято з {0}, оголивши важкий бойовий ендоскелет.</ATPP_RemovedSyntheticSkinSuccess>
+	<ATPP_AndroidSpawned>{0} створено.</ATPP_AndroidSpawned>
+	<ATPP_Transcendant>Трансцендент</ATPP_Transcendant>
+	<ATPP_LWPSel>Вибрати ЛБПМ</ATPP_LWPSel>
+	<ATPP_WPNListRow>{0} (доступно {1} Вт)</ATPP_WPNListRow>
+	<ATPP_ClearCurrentWPNConnection>Скинути поточне підключення ЛБПМ</ATPP_ClearCurrentWPNConnection>
+	<ATPP_LocalWirelessPowerSelectorListTitle>Виберіть локальну бездротову електромережу</ATPP_LocalWirelessPowerSelectorListTitle>
 </LanguageData>

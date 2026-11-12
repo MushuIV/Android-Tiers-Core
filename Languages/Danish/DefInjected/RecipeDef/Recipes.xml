@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_DisassembleAndroid.label>Adskil død android</ATPP_DisassembleAndroid.label>
+  <ATPP_DisassembleAndroid.description>Adskil en død android i dens enkeltdele.</ATPP_DisassembleAndroid.description>
+  <ATPP_DisassembleAndroid.jobString>Adskiller android.</ATPP_DisassembleAndroid.jobString>
+  <ATPP_Make_NanitesHydraulicSerum.label>Fremstil en nanitbank (hydraulik)</ATPP_Make_NanitesHydraulicSerum.label>
+  <ATPP_Make_NanitesHydraulicSerum.description>Fremstiller nanitserum til androider, der muliggør reparation af androiders hydrauliksystemer (relateret til høj alder).</ATPP_Make_NanitesHydraulicSerum.description>
+  <ATPP_Make_NanitesHydraulicSerum.jobString>Fremstiller android-nanitserum.</ATPP_Make_NanitesHydraulicSerum.jobString>
+  <ATPP_Make_NanitesCPUSerum.label>Fremstil en nanitbank (CPU)</ATPP_Make_NanitesCPUSerum.label>
+  <ATPP_Make_NanitesCPUSerum.description>Fremstiller nanitserum til androider, der muliggør reparation af androiders CPU (relateret til høj alder).</ATPP_Make_NanitesCPUSerum.description>
+  <ATPP_Make_NanitesCPUSerum.jobString>Fremstiller android-nanitserum.</ATPP_Make_NanitesCPUSerum.jobString>
+  <ATPP_Make_NanitesCoolingSerum.label>Fremstil en nanitbank (køling)</ATPP_Make_NanitesCoolingSerum.label>
+  <ATPP_Make_NanitesCoolingSerum.description>Fremstiller nanitserum til androider, der muliggør reparation af androiders kølesystem (relateret til høj alder).</ATPP_Make_NanitesCoolingSerum.description>
+  <ATPP_Make_NanitesCoolingSerum.jobString>Fremstiller android-nanitserum.</ATPP_Make_NanitesCoolingSerum.jobString>
+  <ATPP_Make_NanitesFrameSerum.label>Fremstil en nanitbank (ramme)</ATPP_Make_NanitesFrameSerum.label>
+  <ATPP_Make_NanitesFrameSerum.description>Fremstiller nanitserum til androider, der muliggør reparation af androiders eksoskelet (relateret til høj alder).</ATPP_Make_NanitesFrameSerum.description>
+  <ATPP_Make_NanitesFrameSerum.jobString>Fremstiller android-nanitserum.</ATPP_Make_NanitesFrameSerum.jobString>
+  <ATPP_Make_RXChip.label>Fremstil en RX-neuralchip</ATPP_Make_RXChip.label>
+  <ATPP_Make_RXChip.description>En neuralchip, der fungerer som et personligt SkyMind-relæ.</ATPP_Make_RXChip.description>
+  <ATPP_Make_RXChip.jobString>Fremstiller RX-neuralchip.</ATPP_Make_RXChip.jobString>
+  <ATPP_Make_VX0Chip.label>Fremstil en VX0-neuralchip</ATPP_Make_VX0Chip.label>
+  <ATPP_Make_VX0Chip.description>Fremstil en VX0-chip – en neuralchip, som forvandler sin vært til et biologisk surrogat.</ATPP_Make_VX0Chip.description>
+  <ATPP_Make_VX0Chip.jobString>Fremstiller VX0-neuralchip.</ATPP_Make_VX0Chip.jobString>
+  <ATPP_Make_VX1Chip.label>Fremstil en VX1-neuralchip</ATPP_Make_VX1Chip.label>
+  <ATPP_Make_VX1Chip.description>Fremstil en VX1-chip, der gør det muligt for værten at fjernstyre enhver android i SX-serien eller ethvert biologisk surrogat.</ATPP_Make_VX1Chip.description>
+  <ATPP_Make_VX1Chip.jobString>Fremstiller VX1-neuralchip.</ATPP_Make_VX1Chip.jobString>
+  <ATPP_Make_VX2Chip.label>Fremstil en VX2-neuralchip</ATPP_Make_VX2Chip.label>
+  <ATPP_Make_VX2Chip.description>Fremstil en VX2-chip, der gør det muligt for værten at fjernstyre enhver android i SX-serien eller ethvert biologisk surrogat samt duplikere/ombytte deres bevidsthed.</ATPP_Make_VX2Chip.description>
+  <ATPP_Make_VX2Chip.jobString>Fremstiller VX2-neuralchip.</ATPP_Make_VX2Chip.jobString>
+  <ATPP_Make_VX3Chip.label>Fremstil en VX3-neuralchip</ATPP_Make_VX3Chip.label>
+  <ATPP_Make_VX3Chip.description>Fremstil en VX3-chip, der gør det muligt for værten at fjernstyre flere androider i SX-serien eller biologiske surrogater samtidigt samt duplikere/ombytte deres bevidsthed.</ATPP_Make_VX3Chip.description>
+  <ATPP_Make_VX3Chip.jobString>Fremstiller VX3-neuralchip.</ATPP_Make_VX3Chip.jobString>
+  <ATPP_InstallVX2Chip.label>Installer en VX2-neuralchip</ATPP_InstallVX2Chip.label>
+  <ATPP_InstallVX2Chip.description>Installer en VX2-neuralchip, der gør det muligt for værten at fjernstyre enhver android i SX-serien eller ethvert biologisk surrogat samt duplikere/ombytte deres bevidsthed.</ATPP_InstallVX2Chip.description>
+  <ATPP_InstallVX2Chip.jobString>Installerer en VX2-neuralchip.</ATPP_InstallVX2Chip.jobString>
+  <ATPP_InstallVX2ChipOnAndroid.label>Installer en VX2-neuralchip til android</ATPP_InstallVX2ChipOnAndroid.label>
+  <ATPP_InstallVX2ChipOnAndroid.description>Installer en VX2-neuralchip til android, der gør det muligt for værten at fjernstyre enhver android i SX-serien eller ethvert biologisk surrogat samt duplikere/ombytte deres bevidsthed.</ATPP_InstallVX2ChipOnAndroid.description>
+  <ATPP_InstallVX2ChipOnAndroid.jobString>Installerer en VX2-neuralchip til android.</ATPP_InstallVX2ChipOnAndroid.jobString>
+  <ATPP_InstallVX3Chip.label>Installer en VX3-neuralchip</ATPP_InstallVX3Chip.label>
+  <ATPP_InstallVX3Chip.description>Installer en VX3-neuralchip, der gør det muligt for værten at fjernstyre flere androider i SX-serien eller biologiske surrogater samtidigt samt duplikere/ombytte deres bevidsthed.</ATPP_InstallVX3Chip.description>
+  <ATPP_InstallVX3Chip.jobString>Installerer en VX3-neuralchip.</ATPP_InstallVX3Chip.jobString>
+  <ATPP_InstallVX3ChipOnAndroid.label>Installer en VX3-neuralchip til android</ATPP_InstallVX3ChipOnAndroid.label>
+  <ATPP_InstallVX3ChipOnAndroid.description>Installer en VX3-neuralchip til android, der gør det muligt for værten at fjernstyre flere androider i SX-serien eller biologiske surrogater samtidigt samt duplikere/ombytte deres bevidsthed.</ATPP_InstallVX3ChipOnAndroid.description>
+  <ATPP_InstallVX3ChipOnAndroid.jobString>Installerer en VX3-neuralchip til android.</ATPP_InstallVX3ChipOnAndroid.jobString>
+  <ATPP_InstallRXChip.label>Installer en RX-neuralchip</ATPP_InstallRXChip.label>
+  <ATPP_InstallRXChip.description>Installer en RX-neuralchip – en chip, der fungerer som et personligt SkyMind-relæ for sin vært.</ATPP_InstallRXChip.description>
+  <ATPP_InstallRXChip.jobString>Installerer en RX-neuralchip.</ATPP_InstallRXChip.jobString>
+  <ATPP_InstallRXChipOnAndroid.label>Installer en RX-neuralchip</ATPP_InstallRXChipOnAndroid.label>
+  <ATPP_InstallRXChipOnAndroid.description>Installer en RX-neuralchip – en chip, der fungerer som et personligt SkyMind-relæ for sin vært.</ATPP_InstallRXChipOnAndroid.description>
+  <ATPP_InstallRXChipOnAndroid.jobString>Installerer en RX-neuralchip.</ATPP_InstallRXChipOnAndroid.jobString>
+  <ATPP_InstallVX0ChipOnAndroid.label>Installer en VX0-neuralchip til android</ATPP_InstallVX0ChipOnAndroid.label>
+  <ATPP_InstallVX0ChipOnAndroid.description>Installer en VX0-neuralchip til android, der forvandler sin vært til et biologisk surrogat.</ATPP_InstallVX0ChipOnAndroid.description>
+  <ATPP_InstallVX0ChipOnAndroid.jobString>Installerer en VX0-neuralchip til android.</ATPP_InstallVX0ChipOnAndroid.jobString>
+  <ATPP_InstallVX0Chip.label>Installer en VX0-neuralchip</ATPP_InstallVX0Chip.label>
+  <ATPP_InstallVX0Chip.description>Installer en VX0-neuralchip, der forvandler sin vært til et biologisk surrogat.</ATPP_InstallVX0Chip.description>
+  <ATPP_InstallVX0Chip.jobString>Installerer en VX0-neuralchip.</ATPP_InstallVX0Chip.jobString>
+  <ATPP_InstallVX1Chip.label>Installer en VX1-neuralchip</ATPP_InstallVX1Chip.label>
+  <ATPP_InstallVX1Chip.description>Installer en VX1-neuralchip, der gør det muligt for værten at fjernstyre enhver android i SX-serien eller ethvert biologisk surrogat.</ATPP_InstallVX1Chip.description>
+  <ATPP_InstallVX1Chip.jobString>Installerer en VX1-neuralchip.</ATPP_InstallVX1Chip.jobString>
+  <ATPP_InstallVX1ChipOnAndroid.label>Installer en VX1-neuralchip til android</ATPP_InstallVX1ChipOnAndroid.label>
+  <ATPP_InstallVX1ChipOnAndroid.description>Installer en VX1-neuralchip til android, der gør det muligt for værten at fjernstyre enhver android i SX-serien eller ethvert biologisk surrogat.</ATPP_InstallVX1ChipOnAndroid.description>
+  <ATPP_InstallVX1ChipOnAndroid.jobString>Installerer en VX1-neuralchip til android.</ATPP_InstallVX1ChipOnAndroid.jobString>
+  <ATPP_CreateS1.label>Skab T1-surrogatandroid (S1)</ATPP_CreateS1.label>
+  <ATPP_CreateS1.description>Skab en tom S1-android af plaststål og komponenter.</ATPP_CreateS1.description>
+  <ATPP_CreateS1.jobString>Fremstiller en S1-android.</ATPP_CreateS1.jobString>
+  <ATPP_CreateS2.label>Skab T2-surrogatandroid (S2)</ATPP_CreateS2.label>
+  <ATPP_CreateS2.description>Skab en tom S2-android af plaststål og komponenter.</ATPP_CreateS2.description>
+  <ATPP_CreateS2.jobString>Fremstiller en S2-android.</ATPP_CreateS2.jobString>
+  <ATPP_CreateS3.label>Skab T3-surrogatandroid (S3)</ATPP_CreateS3.label>
+  <ATPP_CreateS3.description>Skab en tom S3-android af plaststål og komponenter.</ATPP_CreateS3.description>
+  <ATPP_CreateS3.jobString>Fremstiller en S3-android.</ATPP_CreateS3.jobString>
+  <ATPP_CreateS4.label>Skab T4-surrogatandroid (S4)</ATPP_CreateS4.label>
+  <ATPP_CreateS4.description>Skab en tom S4-android af plaststål og komponenter.</ATPP_CreateS4.description>
+  <ATPP_CreateS4.jobString>Fremstiller en S4-android.</ATPP_CreateS4.jobString>
+  <ATPP_CreateHellDrone.label>Skab HellUnit-surrogatandroid (S-HU)</ATPP_CreateHellDrone.label>
+  <ATPP_CreateHellDrone.description>Skab en tom S-HU-android af plaststål og komponenter.</ATPP_CreateHellDrone.description>
+  <ATPP_CreateHellDrone.jobString>Fremstiller en S-HU-android.</ATPP_CreateHellDrone.jobString>
+  <ATPP_CreateM7.label>Skab M7-surrogatmekanoide (SM7)</ATPP_CreateM7.label>
+  <ATPP_CreateM7.description>Skab en tom SM7-mekanoide af plaststål og komponenter.</ATPP_CreateM7.description>
+  <ATPP_CreateM7.jobString>Fremstiller SM7-mekanoide.</ATPP_CreateM7.jobString>
+  <ATPP_CreateBlankT3.label>Skab T3-android med tomt neuralt netværk</ATPP_CreateBlankT3.label>
+  <ATPP_CreateBlankT3.description>Skab T3-android med tomt neuralt netværk</ATPP_CreateBlankT3.description>
+  <ATPP_CreateBlankT3.jobString>Skaber T3-android med tomt neuralt netværk</ATPP_CreateBlankT3.jobString>
+  <ATPP_CreateBlankT4.label>Skab T4-android med tomt neuralt netværk</ATPP_CreateBlankT4.label>
+  <ATPP_CreateBlankT4.description>Skab T4-android med tomt neuralt netværk</ATPP_CreateBlankT4.description>
+  <ATPP_CreateBlankT4.jobString>Skaber T4-android med tomt neuralt netværk</ATPP_CreateBlankT4.jobString>
+  <ATPP_Make_SM7Mech40MMCannon.label>Fremstil en 40 mm kanon (SM7-våben)</ATPP_Make_SM7Mech40MMCannon.label>
+  <ATPP_Make_SM7Mech40MMCannon.description>Fremstil en 40 mm kanon (SM7-våben)</ATPP_Make_SM7Mech40MMCannon.description>
+  <ATPP_Make_SM7Mech40MMCannon.jobString>Fremstiller en 40 mm kanon (SM7-våben)</ATPP_Make_SM7Mech40MMCannon.jobString>
+  <ATPP_Make_SM7MechMastiffGun.label>Fremstil et Mastiff-haglgevær (SM7-våben)</ATPP_Make_SM7MechMastiffGun.label>
+  <ATPP_Make_SM7MechMastiffGun.description>Fremstil et Mastiff-haglgevær (SM7-våben)</ATPP_Make_SM7MechMastiffGun.description>
+  <ATPP_Make_SM7MechMastiffGun.jobString>Fremstiller et Mastiff-haglgevær (SM7-våben)</ATPP_Make_SM7MechMastiffGun.jobString>
+  <ATPP_Make_SM7MechHandCannon.label>Fremstil en X-5 håndkanon (SM7-våben)</ATPP_Make_SM7MechHandCannon.label>
+  <ATPP_Make_SM7MechHandCannon.description>Fremstil en X-5 håndkanon (SM7-våben)</ATPP_Make_SM7MechHandCannon.description>
+  <ATPP_Make_SM7MechHandCannon.jobString>Fremstiller en X-5 håndkanon (SM7-våben)</ATPP_Make_SM7MechHandCannon.jobString>
+  <ATPP_PaintAndroidFrameworkKhaki.label>Mal androidens ramme i kakifarve</ATPP_PaintAndroidFrameworkKhaki.label>
+  <ATPP_PaintAndroidFrameworkKhaki.description>Mal androidens ramme i kakifarve</ATPP_PaintAndroidFrameworkKhaki.description>
+  <ATPP_PaintAndroidFrameworkKhaki.jobString>Maler androidens ramme i kakifarve</ATPP_PaintAndroidFrameworkKhaki.jobString>
+  <ATPP_PaintAndroidFrameworkGreen.label>Mal androidens ramme grøn</ATPP_PaintAndroidFrameworkGreen.label>
+  <ATPP_PaintAndroidFrameworkGreen.description>Mal androidens ramme grøn</ATPP_PaintAndroidFrameworkGreen.description>
+  <ATPP_PaintAndroidFrameworkGreen.jobString>Maler androidens ramme grøn</ATPP_PaintAndroidFrameworkGreen.jobString>
+  <ATPP_PaintAndroidFrameworkBlue.label>Mal androidens ramme blå</ATPP_PaintAndroidFrameworkBlue.label>
+  <ATPP_PaintAndroidFrameworkBlue.description>Mal androidens ramme blå</ATPP_PaintAndroidFrameworkBlue.description>
+  <ATPP_PaintAndroidFrameworkBlue.jobString>Maler androidens ramme blå</ATPP_PaintAndroidFrameworkBlue.jobString>
+  <ATPP_PaintAndroidFrameworkRed.label>Mal androidens ramme rød</ATPP_PaintAndroidFrameworkRed.label>
+  <ATPP_PaintAndroidFrameworkRed.description>Mal androidens ramme rød</ATPP_PaintAndroidFrameworkRed.description>
+  <ATPP_PaintAndroidFrameworkRed.jobString>Maler androidens ramme rød</ATPP_PaintAndroidFrameworkRed.jobString>
+  <ATPP_PaintAndroidFrameworkYellow.label>Mal androidens ramme gul</ATPP_PaintAndroidFrameworkYellow.label>
+  <ATPP_PaintAndroidFrameworkYellow.description>Mal androidens ramme gul</ATPP_PaintAndroidFrameworkYellow.description>
+  <ATPP_PaintAndroidFrameworkYellow.jobString>Maler androidens ramme gul</ATPP_PaintAndroidFrameworkYellow.jobString>
+  <ATPP_PaintAndroidFrameworkOrange.label>Mal androidens ramme orange</ATPP_PaintAndroidFrameworkOrange.label>
+  <ATPP_PaintAndroidFrameworkOrange.description>Mal androidens ramme orange</ATPP_PaintAndroidFrameworkOrange.description>
+  <ATPP_PaintAndroidFrameworkOrange.jobString>Maler androidens ramme orange</ATPP_PaintAndroidFrameworkOrange.jobString>
+  <ATPP_PaintAndroidFrameworkBlack.label>Mal androidens ramme sort</ATPP_PaintAndroidFrameworkBlack.label>
+  <ATPP_PaintAndroidFrameworkBlack.description>Mal androidens ramme sort</ATPP_PaintAndroidFrameworkBlack.description>
+  <ATPP_PaintAndroidFrameworkBlack.jobString>Maler androidens ramme sort</ATPP_PaintAndroidFrameworkBlack.jobString>
+  <ATPP_PaintAndroidFrameworkWhite.label>Mal androidens ramme hvid</ATPP_PaintAndroidFrameworkWhite.label>
+  <ATPP_PaintAndroidFrameworkWhite.description>Mal androidens ramme hvid</ATPP_PaintAndroidFrameworkWhite.description>
+  <ATPP_PaintAndroidFrameworkWhite.jobString>Maler androidens ramme hvid</ATPP_PaintAndroidFrameworkWhite.jobString>
+  <ATPP_PaintAndroidFrameworkGray.label>Mal androidens ramme grå</ATPP_PaintAndroidFrameworkGray.label>
+  <ATPP_PaintAndroidFrameworkGray.description>Mal androidens ramme grå</ATPP_PaintAndroidFrameworkGray.description>
+  <ATPP_PaintAndroidFrameworkGray.jobString>Maler androidens ramme grå</ATPP_PaintAndroidFrameworkGray.jobString>
+  <ATPP_PaintAndroidFrameworkPurple.label>Mal androidens ramme lilla</ATPP_PaintAndroidFrameworkPurple.label>
+  <ATPP_PaintAndroidFrameworkPurple.description>Mal androidens ramme lilla</ATPP_PaintAndroidFrameworkPurple.description>
+  <ATPP_PaintAndroidFrameworkPurple.jobString>Maler androidens ramme lilla</ATPP_PaintAndroidFrameworkPurple.jobString>
+  <ATPP_PaintAndroidFrameworkPink.label>Mal androidens ramme lyserød</ATPP_PaintAndroidFrameworkPink.label>
+  <ATPP_PaintAndroidFrameworkPink.description>Mal androidens ramme lyserød</ATPP_PaintAndroidFrameworkPink.description>
+  <ATPP_PaintAndroidFrameworkPink.jobString>Maler androidens ramme lyserød</ATPP_PaintAndroidFrameworkPink.jobString>
+  <ATPP_PaintAndroidFrameworkCyan.label>Mal androidens ramme cyan</ATPP_PaintAndroidFrameworkCyan.label>
+  <ATPP_PaintAndroidFrameworkCyan.description>Mal androidens ramme cyan</ATPP_PaintAndroidFrameworkCyan.description>
+  <ATPP_PaintAndroidFrameworkCyan.jobString>Maler androidens ramme cyan</ATPP_PaintAndroidFrameworkCyan.jobString>
+  <ATPP_PaintAndroidFrameworkDefault.label>Mal androidens ramme i standardfarve</ATPP_PaintAndroidFrameworkDefault.label>
+  <ATPP_PaintAndroidFrameworkDefault.description>Mal androidens ramme i standardfarve</ATPP_PaintAndroidFrameworkDefault.description>
+  <ATPP_PaintAndroidFrameworkDefault.jobString>Maler androidens ramme i standardfarve</ATPP_PaintAndroidFrameworkDefault.jobString>
+  <ATPP_ApplyHydraulicNaniteBank.label>Indgiv en hydraulik-nanitbank</ATPP_ApplyHydraulicNaniteBank.label>
+  <ATPP_ApplyHydraulicNaniteBank.description>Indgiv en engangsdosis nanitter tilpasset til at reparere ødelagte hydrauliksystemer hos androider.</ATPP_ApplyHydraulicNaniteBank.description>
+  <ATPP_ApplyHydraulicNaniteBank.jobString>Udbedrer aldersproblemer hos android med et nanitserum</ATPP_ApplyHydraulicNaniteBank.jobString>
+  <ATPP_ApplyHealFrameworkSystem.label>Indgiv en ramme-nanitbank</ATPP_ApplyHealFrameworkSystem.label>
+  <ATPP_ApplyHealFrameworkSystem.description>Indgiv en engangsbank af nanitter tilpasset til at reparere ødelagte eksoskeletter hos androider.</ATPP_ApplyHealFrameworkSystem.description>
+  <ATPP_ApplyHealFrameworkSystem.jobString>Udbedrer aldersproblemer hos android med et nanitserum</ATPP_ApplyHealFrameworkSystem.jobString>
+  <ATPP_ApplyHealCoolingSystem.label>Indgiv en kølings-nanitbank</ATPP_ApplyHealCoolingSystem.label>
+  <ATPP_ApplyHealCoolingSystem.description>Indgiv en engangsbank af nanitter tilpasset til at reparere ødelagte kølesystemer hos androider i tilfælde af overophedning.</ATPP_ApplyHealCoolingSystem.description>
+  <ATPP_ApplyHealCoolingSystem.jobString>Udbedrer aldersproblemer hos android med et nanitserum</ATPP_ApplyHealCoolingSystem.jobString>
+  <ATPP_ApplyHealCPUSerum.label>Indgiv en CPU-nanitbank</ATPP_ApplyHealCPUSerum.label>
+  <ATPP_ApplyHealCPUSerum.description>Indgiv en engangsbank af nanitter tilpasset til at reparere ødelagte kunstige hjernesystemer hos androider.</ATPP_ApplyHealCPUSerum.description>
+  <ATPP_ApplyHealCPUSerum.jobString>Udbedrer aldersproblemer hos android med et nanitserum</ATPP_ApplyHealCPUSerum.jobString>
+  <ATPP_Make_T1ArtificialBrain.label>Fremstil en kunstig hjerne T1</ATPP_Make_T1ArtificialBrain.label>
+  <ATPP_Make_T1ArtificialBrain.description>Fremstil en kunstig T1-hjerne til at forvandle et surrogat til en android med et tomt neuralt netværk.</ATPP_Make_T1ArtificialBrain.description>
+  <ATPP_Make_T1ArtificialBrain.jobString>Fremstiller en kunstig hjerne T1.</ATPP_Make_T1ArtificialBrain.jobString>
+  <ATPP_Make_T2ArtificialBrain.label>Fremstil en kunstig hjerne T2</ATPP_Make_T2ArtificialBrain.label>
+  <ATPP_Make_T2ArtificialBrain.description>Fremstil en kunstig T2-hjerne til at forvandle et surrogat til en android med et tomt neuralt netværk.</ATPP_Make_T2ArtificialBrain.description>
+  <ATPP_Make_T2ArtificialBrain.jobString>Fremstiller en kunstig hjerne T2.</ATPP_Make_T2ArtificialBrain.jobString>
+  <ATPP_Make_T3ArtificialBrain.label>Fremstil en kunstig hjerne T3</ATPP_Make_T3ArtificialBrain.label>
+  <ATPP_Make_T3ArtificialBrain.description>Fremstil en kunstig T3-hjerne til at forvandle et surrogat til en android med et tomt neuralt netværk.</ATPP_Make_T3ArtificialBrain.description>
+  <ATPP_Make_T3ArtificialBrain.jobString>Fremstiller en kunstig hjerne T3.</ATPP_Make_T3ArtificialBrain.jobString>
+  <ATPP_Make_T4ArtificialBrain.label>Fremstil en kunstig hjerne T4</ATPP_Make_T4ArtificialBrain.label>
+  <ATPP_Make_T4ArtificialBrain.description>Fremstil en kunstig T4-hjerne til at forvandle et surrogat til en android med et tomt neuralt netværk.</ATPP_Make_T4ArtificialBrain.description>
+  <ATPP_Make_T4ArtificialBrain.jobString>Fremstiller en kunstig hjerne T4.</ATPP_Make_T4ArtificialBrain.jobString>
+  <ATPP_InstallT1ArtificialBrain.label>Installer en kunstig T1-hjerne</ATPP_InstallT1ArtificialBrain.label>
+  <ATPP_InstallT1ArtificialBrain.description>Installer en kunstig T1-hjerne, der gør det muligt at forvandle et T1-surrogat til en android med et tomt neuralt netværk.</ATPP_InstallT1ArtificialBrain.description>
+  <ATPP_InstallT1ArtificialBrain.jobString>Installerer en kunstig T1-hjerne.</ATPP_InstallT1ArtificialBrain.jobString>
+  <ATPP_InstallT2ArtificialBrain.label>Installer en kunstig T2-hjerne</ATPP_InstallT2ArtificialBrain.label>
+  <ATPP_InstallT2ArtificialBrain.description>Installer en kunstig T2-hjerne, der gør det muligt at forvandle et T2-surrogat til en android med et tomt neuralt netværk.</ATPP_InstallT2ArtificialBrain.description>
+  <ATPP_InstallT2ArtificialBrain.jobString>Installerer en kunstig T2-hjerne.</ATPP_InstallT2ArtificialBrain.jobString>
+  <ATPP_InstallT3ArtificialBrain.label>Installer en kunstig T3-hjerne</ATPP_InstallT3ArtificialBrain.label>
+  <ATPP_InstallT3ArtificialBrain.description>Installer en kunstig T3-hjerne, der gør det muligt at forvandle et T3-surrogat til en android med et tomt neuralt netværk.</ATPP_InstallT3ArtificialBrain.description>
+  <ATPP_InstallT3ArtificialBrain.jobString>Installerer en kunstig T3-hjerne.</ATPP_InstallT3ArtificialBrain.jobString>
+  <ATPP_InstallT4ArtificialBrain.label>Installer en kunstig T4-hjerne</ATPP_InstallT4ArtificialBrain.label>
+  <ATPP_InstallT4ArtificialBrain.description>Installer en kunstig T4-hjerne, der gør det muligt at forvandle et T4-surrogat til en android med et tomt neuralt netværk.</ATPP_InstallT4ArtificialBrain.description>
+  <ATPP_InstallT4ArtificialBrain.jobString>Installerer en kunstig T4-hjerne.</ATPP_InstallT4ArtificialBrain.jobString>
+  <ATPP_CreateSX2.label>Skab mandlig TX2-surrogatandroid (SX2)</ATPP_CreateSX2.label>
+  <ATPP_CreateSX2.description>Skab en tom mandlig SX2-android af plaststål og komponenter.</ATPP_CreateSX2.description>
+  <ATPP_CreateSX2.jobString>Fremstiller en SX2-android.</ATPP_CreateSX2.jobString>
+  <ATPP_CreateSX2Female.label>Skab kvindelig TX2-surrogatandroid (SX2)</ATPP_CreateSX2Female.label>
+  <ATPP_CreateSX2Female.description>Skab en tom kvindelig SX2-android af plaststål og komponenter.</ATPP_CreateSX2Female.description>
+  <ATPP_CreateSX2Female.jobString>Fremstiller en SX2-android.</ATPP_CreateSX2Female.jobString>
+  <ATPP_CreateSX3.label>Skab mandlig TX3-surrogatandroid (SX3)</ATPP_CreateSX3.label>
+  <ATPP_CreateSX3.description>Skab en tom mandlig SX3-android af plaststål og komponenter.</ATPP_CreateSX3.description>
+  <ATPP_CreateSX3.jobString>Fremstiller en SX3-android.</ATPP_CreateSX3.jobString>
+  <ATPP_CreateSX3Female.label>Skab kvindelig TX3-surrogatandroid (SX3)</ATPP_CreateSX3Female.label>
+  <ATPP_CreateSX3Female.description>Skab en tom kvindelig SX3-android af plaststål og komponenter.</ATPP_CreateSX3Female.description>
+  <ATPP_CreateSX3Female.jobString>Fremstiller en SX3-android.</ATPP_CreateSX3Female.jobString>
+  <ATPP_CreateSX4.label>Skab TX4-surrogatandroid (SX4)</ATPP_CreateSX4.label>
+  <ATPP_CreateSX4.description>Skab en tom SX4-android af plaststål og komponenter.</ATPP_CreateSX4.description>
+  <ATPP_CreateSX4.jobString>Fremstiller en SX4-android.</ATPP_CreateSX4.jobString>
+  <ATPP_CreateSX4Female.label>Skab kvindelig TX4-surrogatandroid (SX4)</ATPP_CreateSX4Female.label>
+  <ATPP_CreateSX4Female.description>Skab en tom kvindelig SX4-android af plaststål og komponenter.</ATPP_CreateSX4Female.description>
+  <ATPP_CreateSX4Female.jobString>Fremstiller en SX4-android.</ATPP_CreateSX4Female.jobString>
+  <ATPP_CreateSX2I.label>Skab mandlig TX2I-surrogatandroid (SX2I)</ATPP_CreateSX2I.label>
+  <ATPP_CreateSX2I.description>Skab en tom mandlig SX2I-android af plaststål og komponenter.</ATPP_CreateSX2I.description>
+  <ATPP_CreateSX2I.jobString>Fremstiller en SX2I-android.</ATPP_CreateSX2I.jobString>
+  <ATPP_CreateSX2IFemale.label>Skab kvindelig TX2I-surrogatandroid (SX2I)</ATPP_CreateSX2IFemale.label>
+  <ATPP_CreateSX2IFemale.description>Skab en tom kvindelig SX2I-android af plaststål og komponenter.</ATPP_CreateSX2IFemale.description>
+  <ATPP_CreateSX2IFemale.jobString>Fremstiller en SX2I-android.</ATPP_CreateSX2IFemale.jobString>
+  <ATPP_CreateSX2K.label>Skab mandlig TX2K-surrogatandroid (SX2K)</ATPP_CreateSX2K.label>
+  <ATPP_CreateSX2K.description>Skab en tom mandlig SX2K-android af plaststål og komponenter.</ATPP_CreateSX2K.description>
+  <ATPP_CreateSX2K.jobString>Fremstiller en SX2K-android.</ATPP_CreateSX2K.jobString>
+  <ATPP_CreateSX2KFemale.label>Skab kvindelig TX2K-surrogatandroid (SX2K)</ATPP_CreateSX2KFemale.label>
+  <ATPP_CreateSX2KFemale.description>Skab en tom kvindelig SX2K-android af plaststål og komponenter.</ATPP_CreateSX2KFemale.description>
+  <ATPP_CreateSX2KFemale.jobString>Fremstiller en SX2K-android.</ATPP_CreateSX2KFemale.jobString>
+  <ATPP_CreateSX2KI.label>Skab TX2KI-surrogatandroid (SX2KI)</ATPP_CreateSX2KI.label>
+  <ATPP_CreateSX2KI.description>Skab en tom SX2KI-android af plaststål og komponenter.</ATPP_CreateSX2KI.description>
+  <ATPP_CreateSX2KI.jobString>Fremstiller en SX2KI-android.</ATPP_CreateSX2KI.jobString>
+  <ATPP_CreateSX2KIFemale.label>Skab kvindelig TX2KI-surrogatandroid (SX2KI)</ATPP_CreateSX2KIFemale.label>
+  <ATPP_CreateSX2KIFemale.description>Skab en tom kvindelig SX2KI-android af plaststål og komponenter.</ATPP_CreateSX2KIFemale.description>
+  <ATPP_CreateSX2KIFemale.jobString>Fremstiller en kvindelig SX2KI-android.</ATPP_CreateSX2KIFemale.jobString>
+  <ATPP_CreateSX3I.label>Skab mandlig TX3I-surrogatandroid (SX3I)</ATPP_CreateSX3I.label>
+  <ATPP_CreateSX3I.description>Skab en tom mandlig SX3I-android af plaststål og komponenter.</ATPP_CreateSX3I.description>
+  <ATPP_CreateSX3I.jobString>Fremstiller en SX3I-android.</ATPP_CreateSX3I.jobString>
+  <ATPP_CreateSX3IFemale.label>Skab kvindelig TX3I-surrogatandroid (SX3I)</ATPP_CreateSX3IFemale.label>
+  <ATPP_CreateSX3IFemale.description>Skab en tom kvindelig SX3I-android af plaststål og komponenter.</ATPP_CreateSX3IFemale.description>
+  <ATPP_CreateSX3IFemale.jobString>Fremstiller en SX3I-android.</ATPP_CreateSX3IFemale.jobString>
+  <ATPP_CreateSX4I.label>Skab TX4I-surrogatandroid (SX4I)</ATPP_CreateSX4I.label>
+  <ATPP_CreateSX4I.description>Skab en tom SX4I-android af plaststål og komponenter.</ATPP_CreateSX4I.description>
+  <ATPP_CreateSX4I.jobString>Fremstiller en SX4I-android.</ATPP_CreateSX4I.jobString>
+  <ATPP_CreateSX4IFemale.label>Skab kvindelig TX4I-surrogatandroid (SX4I)</ATPP_CreateSX4IFemale.label>
+  <ATPP_CreateSX4IFemale.description>Skab en tom kvindelig SX4I-android af plaststål og komponenter.</ATPP_CreateSX4IFemale.description>
+  <ATPP_CreateSX4IFemale.jobString>Fremstiller en SX4I-android.</ATPP_CreateSX4IFemale.jobString>
+  <ATPP_CreateTX4Android.label>Skab mandlig TX4-android</ATPP_CreateTX4Android.label>
+  <ATPP_CreateTX4Android.description>Skab mandlig TX4-android</ATPP_CreateTX4Android.description>
+  <ATPP_CreateTX4Android.jobString>Skaber en TX4-android</ATPP_CreateTX4Android.jobString>
+  <ATPP_CreateTX4FemaleAndroid.label>Skab kvindelig TX4-android</ATPP_CreateTX4FemaleAndroid.label>
+  <ATPP_CreateTX4FemaleAndroid.description>Skab kvindelig TX4-android</ATPP_CreateTX4FemaleAndroid.description>
+  <ATPP_CreateTX4FemaleAndroid.jobString>Skaber en TX4-android</ATPP_CreateTX4FemaleAndroid.jobString>
+  <ATPP_CreateTX3Android.label>Skab mandlig TX3-android</ATPP_CreateTX3Android.label>
+  <ATPP_CreateTX3Android.description>Skab mandlig TX3-android</ATPP_CreateTX3Android.description>
+  <ATPP_CreateTX3Android.jobString>Skaber en TX3-android</ATPP_CreateTX3Android.jobString>
+  <ATPP_CreateTX3FemaleAndroid.label>Skab kvindelig TX3-android</ATPP_CreateTX3FemaleAndroid.label>
+  <ATPP_CreateTX3FemaleAndroid.description>Skab kvindelig TX3-android</ATPP_CreateTX3FemaleAndroid.description>
+  <ATPP_CreateTX3FemaleAndroid.jobString>Skaber en TX3-android</ATPP_CreateTX3FemaleAndroid.jobString>
+  <ATPP_CreateTX2Android.label>Skab mandlig TX2-android</ATPP_CreateTX2Android.label>
+  <ATPP_CreateTX2Android.description>Skab mandlig TX2-android</ATPP_CreateTX2Android.description>
+  <ATPP_CreateTX2Android.jobString>Skaber en TX2-android</ATPP_CreateTX2Android.jobString>
+  <ATPP_CreateTX2FemaleAndroid.label>Skab kvindelig TX2-android</ATPP_CreateTX2FemaleAndroid.label>
+  <ATPP_CreateTX2FemaleAndroid.description>Skab kvindelig TX2-android</ATPP_CreateTX2FemaleAndroid.description>
+  <ATPP_CreateTX2FemaleAndroid.jobString>Skaber en TX2-android</ATPP_CreateTX2FemaleAndroid.jobString>
+  <ATPP_CreateTX4IAndroid.label>Skab mandlig TX4I-android</ATPP_CreateTX4IAndroid.label>
+  <ATPP_CreateTX4IAndroid.description>Skab mandlig TX4I-android</ATPP_CreateTX4IAndroid.description>
+  <ATPP_CreateTX4IAndroid.jobString>Skaber en TX4I-android</ATPP_CreateTX4IAndroid.jobString>
+  <ATPP_CreateTX4IFemaleAndroid.label>Skab kvindelig TX4I-android</ATPP_CreateTX4IFemaleAndroid.label>
+  <ATPP_CreateTX4IFemaleAndroid.description>Skab kvindelig TX4I-android</ATPP_CreateTX4IFemaleAndroid.description>
+  <ATPP_CreateTX4IFemaleAndroid.jobString>Skaber en TX4I-android</ATPP_CreateTX4IFemaleAndroid.jobString>
+  <ATPP_CreateTX3IAndroid.label>Skab mandlig TX3I-android</ATPP_CreateTX3IAndroid.label>
+  <ATPP_CreateTX3IAndroid.description>Skab mandlig TX3I-android</ATPP_CreateTX3IAndroid.description>
+  <ATPP_CreateTX3IAndroid.jobString>Skaber en TX3I-android</ATPP_CreateTX3IAndroid.jobString>
+  <ATPP_CreateTX3IFemaleAndroid.label>Skab kvindelig TX3I-android</ATPP_CreateTX3IFemaleAndroid.label>
+  <ATPP_CreateTX3IFemaleAndroid.description>Skab kvindelig TX3I-android</ATPP_CreateTX3IFemaleAndroid.description>
+  <ATPP_CreateTX3IFemaleAndroid.jobString>Skaber en TX3I-android</ATPP_CreateTX3IFemaleAndroid.jobString>
+  <ATPP_CreateTX2IAndroid.label>Skab mandlig TX2I-android</ATPP_CreateTX2IAndroid.label>
+  <ATPP_CreateTX2IAndroid.description>Skab mandlig TX2I-android</ATPP_CreateTX2IAndroid.description>
+  <ATPP_CreateTX2IAndroid.jobString>Skaber en TX2I-android</ATPP_CreateTX2IAndroid.jobString>
+  <ATPP_CreateTX2IFemaleAndroid.label>Skab kvindelig TX2I-android</ATPP_CreateTX2IFemaleAndroid.label>
+  <ATPP_CreateTX2IFemaleAndroid.description>Skab kvindelig TX2I-android</ATPP_CreateTX2IFemaleAndroid.description>
+  <ATPP_CreateTX2IFemaleAndroid.jobString>Skaber en TX2I-android</ATPP_CreateTX2IFemaleAndroid.jobString>
+  <ATPP_CreateTX2KAndroid.label>Skab mandlig TX2K-android</ATPP_CreateTX2KAndroid.label>
+  <ATPP_CreateTX2KAndroid.description>Skab mandlig TX2K-android</ATPP_CreateTX2KAndroid.description>
+  <ATPP_CreateTX2KAndroid.jobString>Skaber en TX2K-android</ATPP_CreateTX2KAndroid.jobString>
+  <ATPP_CreateTX2KFemaleAndroid.label>Skab kvindelig TX2K-android</ATPP_CreateTX2KFemaleAndroid.label>
+  <ATPP_CreateTX2KFemaleAndroid.description>Skab kvindelig TX2K-android</ATPP_CreateTX2KFemaleAndroid.description>
+  <ATPP_CreateTX2KFemaleAndroid.jobString>Skaber en TX2K-android</ATPP_CreateTX2KFemaleAndroid.jobString>
+  <ATPP_CreateTX2KIAndroid.label>Skab TX2KI-android</ATPP_CreateTX2KIAndroid.label>
+  <ATPP_CreateTX2KIAndroid.description>Skab TX2KI-android</ATPP_CreateTX2KIAndroid.description>
+  <ATPP_CreateTX2KIAndroid.jobString>Skaber en TX2KI-android</ATPP_CreateTX2KIAndroid.jobString>
+  <ATPP_CreateTX2KIFemaleAndroid.label>Skab kvindelig TX2KI-android</ATPP_CreateTX2KIFemaleAndroid.label>
+  <ATPP_CreateTX2KIFemaleAndroid.description>Skab kvindelig TX2KI-android</ATPP_CreateTX2KIFemaleAndroid.description>
+  <ATPP_CreateTX2KIFemaleAndroid.jobString>Skaber en TX2KI-android</ATPP_CreateTX2KIFemaleAndroid.jobString>
+  <ATPP_MakeSyntheticSkinGland.label>syntetiser hudkirtel</ATPP_MakeSyntheticSkinGland.label>
+  <ATPP_MakeSyntheticSkinGland.description>Syntetiser en kunstig hudkirtel ved brug af kulbrintebrændstof, neutroamin-konserveringsopløsning, medicin og vævede tekstilstilladser.</ATPP_MakeSyntheticSkinGland.description>
+  <ATPP_MakeSyntheticSkinGland.jobString>Syntetiserer hudkirtel.</ATPP_MakeSyntheticSkinGland.jobString>
+  <ATPP_GestateSyntheticSkinGland_Biotech.label>fremavl syntetisk hudkirtel</ATPP_GestateSyntheticSkinGland_Biotech.label>
+  <ATPP_GestateSyntheticSkinGland_Biotech.description>Ved brug af Biotech-hæmogen opløsning, cellulære næringsstoffer og medicinske stabilisatorer i et Android-produktionskar fremavles en levende syntetisk hudkirtelmatrix til infiltratorer i TX-serien.</ATPP_GestateSyntheticSkinGland_Biotech.description>
+  <ATPP_GestateSyntheticSkinGland_Biotech.jobString>Fremavler syntetisk hudkirtel.</ATPP_GestateSyntheticSkinGland_Biotech.jobString>
+  <ATPP_QE_GrowSyntheticSkinGland.label>dyrk syntetisk hudkirtel</ATPP_QE_GrowSyntheticSkinGland.label>
+  <ATPP_QE_GrowSyntheticSkinGland.description>Dyrk en levende biosyntetisk hudkirtelmatrix inde i Questionable Ethics-organkarret ved brug af organiske næringsstoffer og kemiske stabilisatorer.</ATPP_QE_GrowSyntheticSkinGland.description>
+  <ATPP_QE_GrowSyntheticSkinGland.jobString>Dyrker syntetisk hudkirtel.</ATPP_QE_GrowSyntheticSkinGland.jobString>
+  <ATPP_ApplySyntheticSkin.label>transplanter syntetisk hud</ATPP_ApplySyntheticSkin.label>
+  <ATPP_ApplySyntheticSkin.description>Transplanterer en syntetisk dermal matrix på dette TX-infanterichassis og dækker det blottede mekaniske endoskelet med menneskelignende syntetisk levende hud. Dette øger social modtagelse og varmeisolering samt forhindrer regnrust på bekostning af højere brandfarlighed.</ATPP_ApplySyntheticSkin.description>
+  <ATPP_ApplySyntheticSkin.jobString>Transplanterer syntetisk hud på android.</ATPP_ApplySyntheticSkin.jobString>
+  <ATPP_RemoveSyntheticSkin.label>fjern syntetisk hud</ATPP_RemoveSyntheticSkin.label>
+  <ATPP_RemoveSyntheticSkin.description>Fjerner kirurgisk det syntetiske hudlag fra denne TX-infiltrator og blotlægger det forstærkede infanteri-endoskelet nedenunder. Androiden mister social charme, men opnår immunitet over for ild og holdbarhed på slagmarken.</ATPP_RemoveSyntheticSkin.description>
+  <ATPP_RemoveSyntheticSkin.jobString>Fjerner syntetisk hud fra android.</ATPP_RemoveSyntheticSkin.jobString>
+  <ATPP_QE_CreateTX2KMale.label>saml mandlig TX2K-ramme (QEE-kar)</ATPP_QE_CreateTX2KMale.label>
+  <ATPP_QE_CreateTX2KMale.description>Saml en inaktiv mandlig TX2K-eksoskeletramme kodet som en genomsekvens til inkubation i organkar.</ATPP_QE_CreateTX2KMale.description>
+  <ATPP_QE_CreateTX2KMale.jobString>Fremstiller android</ATPP_QE_CreateTX2KMale.jobString>
+  <ATPP_QE_CreateTX2KFemale.label>saml kvindelig TX2K-ramme (QEE-kar)</ATPP_QE_CreateTX2KFemale.label>
+  <ATPP_QE_CreateTX2KFemale.description>Saml en inaktiv kvindelig TX2K-eksoskeletramme kodet som en genomsekvens til inkubation i organkar.</ATPP_QE_CreateTX2KFemale.description>
+  <ATPP_QE_CreateTX2KFemale.jobString>Fremstiller android</ATPP_QE_CreateTX2KFemale.jobString>
+  <ATPP_QE_CreateSX2KMaleSurrogate.label>saml mandlig SX2K-surrogatramme (QEE-kar)</ATPP_QE_CreateSX2KMaleSurrogate.label>
+  <ATPP_QE_CreateSX2KMaleSurrogate.description>Saml en inaktiv mandlig TX2K-surrogateksoskeletramme kodet som en genomsekvens til inkubation i organkar.</ATPP_QE_CreateSX2KMaleSurrogate.description>
+  <ATPP_QE_CreateSX2KMaleSurrogate.jobString>Fremstiller android</ATPP_QE_CreateSX2KMaleSurrogate.jobString>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.label>saml kvindelig SX2K-surrogatramme (QEE-kar)</ATPP_QE_CreateSX2KFemaleSurrogate.label>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.description>Saml en inaktiv kvindelig TX2K-surrogateksoskeletramme kodet som en genomsekvens til inkubation i organkar.</ATPP_QE_CreateSX2KFemaleSurrogate.description>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.jobString>Fremstiller android</ATPP_QE_CreateSX2KFemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX3Male.label>saml mandlig TX3-ramme (QEE-kar)</ATPP_QE_CreateTX3Male.label>
+  <ATPP_QE_CreateTX3Male.description>Saml en inaktiv mandlig TX3-eksoskeletramme kodet som en genomsekvens til inkubation i organkar.</ATPP_QE_CreateTX3Male.description>
+  <ATPP_QE_CreateTX3Male.jobString>Fremstiller android</ATPP_QE_CreateTX3Male.jobString>
+  <ATPP_QE_CreateTX3Female.label>saml kvindelig TX3-ramme (QEE-kar)</ATPP_QE_CreateTX3Female.label>
+  <ATPP_QE_CreateTX3Female.description>Saml en inaktiv kvindelig TX3-eksoskeletramme kodet som en genomsekvens til inkubation i organkar.</ATPP_QE_CreateTX3Female.description>
+  <ATPP_QE_CreateTX3Female.jobString>Fremstiller android</ATPP_QE_CreateTX3Female.jobString>
+  <ATPP_QE_CreateSX3MaleSurrogate.label>saml mandlig SX3-surrogatramme (QEE-kar)</ATPP_QE_CreateSX3MaleSurrogate.label>
+  <ATPP_QE_CreateSX3MaleSurrogate.description>Saml en inaktiv mandlig TX3-surrogateksoskeletramme kodet som en genomsekvens til inkubation i organkar.</ATPP_QE_CreateSX3MaleSurrogate.description>
+  <ATPP_QE_CreateSX3MaleSurrogate.jobString>Fremstiller android</ATPP_QE_CreateSX3MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX3FemaleSurrogate.label>saml kvindelig SX3-surrogatramme (QEE-kar)</ATPP_QE_CreateSX3FemaleSurrogate.label>
+  <ATPP_QE_CreateSX3FemaleSurrogate.description>Saml en inaktiv kvindelig TX3-surrogateksoskeletramme kodet som en genomsekvens til inkubation i organkar.</ATPP_QE_CreateSX3FemaleSurrogate.description>
+  <ATPP_QE_CreateSX3FemaleSurrogate.jobString>Fremstiller android</ATPP_QE_CreateSX3FemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX4Male.label>saml mandlig TX4-ramme (QEE-kar)</ATPP_QE_CreateTX4Male.label>
+  <ATPP_QE_CreateTX4Male.description>Saml en inaktiv mandlig TX4-eksoskeletramme kodet som en genomsekvens til inkubation i organkar.</ATPP_QE_CreateTX4Male.description>
+  <ATPP_QE_CreateTX4Male.jobString>Fremstiller android</ATPP_QE_CreateTX4Male.jobString>
+  <ATPP_QE_CreateTX4Female.label>saml kvindelig TX4-ramme (QEE-kar)</ATPP_QE_CreateTX4Female.label>
+  <ATPP_QE_CreateTX4Female.description>Saml en inaktiv kvindelig TX4-eksoskeletramme kodet som en genomsekvens til inkubation i organkar.</ATPP_QE_CreateTX4Female.description>
+  <ATPP_QE_CreateTX4Female.jobString>Fremstiller android</ATPP_QE_CreateTX4Female.jobString>
+  <ATPP_QE_CreateSX4MaleSurrogate.label>saml mandlig SX4-surrogatramme (QEE-kar)</ATPP_QE_CreateSX4MaleSurrogate.label>
+  <ATPP_QE_CreateSX4MaleSurrogate.description>Saml en inaktiv mandlig TX4-surrogateksoskeletramme kodet som en genomsekvens til inkubation i organkar.</ATPP_QE_CreateSX4MaleSurrogate.description>
+  <ATPP_QE_CreateSX4MaleSurrogate.jobString>Fremstiller android</ATPP_QE_CreateSX4MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX4FemaleSurrogate.label>saml kvindelig SX4-surrogatramme (QEE-kar)</ATPP_QE_CreateSX4FemaleSurrogate.label>
+  <ATPP_QE_CreateSX4FemaleSurrogate.description>Saml en inaktiv kvindelig TX4-surrogateksoskeletramme kodet som en genomsekvens til inkubation i organkar.</ATPP_QE_CreateSX4FemaleSurrogate.description>
+  <ATPP_QE_CreateSX4FemaleSurrogate.jobString>Fremstiller android</ATPP_QE_CreateSX4FemaleSurrogate.jobString>
+
+</LanguageData>

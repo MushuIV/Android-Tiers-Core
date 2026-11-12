@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_ConsciousnessUpload.label>Mielen siirto</ATPP_ConsciousnessUpload.label>
+	<ATPP_ConsciousnessUpload.labelNoun>Mielen siirto</ATPP_ConsciousnessUpload.labelNoun>
+	<ATPP_NoHost.label>Ei yhdistettyä isäntää</ATPP_NoHost.label>
+	<ATPP_NoHost.labelNoun>Ei yhdistettyä isäntää</ATPP_NoHost.labelNoun>
+	<ATPP_HediffRXChip.label>RX-neurosiru</ATPP_HediffRXChip.label>
+	<ATPP_HediffRXChip.labelNoun>Neurosiru, joka toimii henkilökohtaisena SkyMind-vahvistimena.</ATPP_HediffRXChip.labelNoun>
+	<ATPP_HediffVX0Chip.label>VX0-neurosiru</ATPP_HediffVX0Chip.label>
+	<ATPP_HediffVX0Chip.labelNoun>Neurosiru, joka muuttaa isännän biologiseksi surrogaatiksi</ATPP_HediffVX0Chip.labelNoun>
+	<ATPP_HediffVX1Chip.label>VX1-neurosiru</ATPP_HediffVX1Chip.label>
+	<ATPP_HediffVX1Chip.labelNoun>VX1-neurosiru</ATPP_HediffVX1Chip.labelNoun>
+	<ATPP_HediffVX2Chip.label>VX2-neurosiru</ATPP_HediffVX2Chip.label>
+	<ATPP_HediffVX2Chip.labelNoun>VX2-neurosiru</ATPP_HediffVX2Chip.labelNoun>
+	<ATPP_HediffVX3Chip.label>VX3-neurosiru</ATPP_HediffVX3Chip.label>
+	<ATPP_HediffVX3Chip.labelNoun>VX3-neurosiru</ATPP_HediffVX3Chip.labelNoun>
+	<ATPP_InRemoteControlMode.label>Etäohjaustila käytössä</ATPP_InRemoteControlMode.label>
+	<ATPP_InRemoteControlMode.labelNoun>Etäohjaustila käytössä</ATPP_InRemoteControlMode.labelNoun>
+	<ATPP_RemotelyControlled.label>Etäohjattu</ATPP_RemotelyControlled.label>
+	<ATPP_RemotelyControlled.labelNoun>Etäohjattu</ATPP_RemotelyControlled.labelNoun>
+	<ATPP_SolarFlareAndroidImpact.label>Aurinkoräjähdys</ATPP_SolarFlareAndroidImpact.label>
+	<ATPP_SolarFlareAndroidImpact.labelNoun>Aurinkoräjähdys</ATPP_SolarFlareAndroidImpact.labelNoun>
+	<ATPP_LowNetworkSignal.label>Heikko SkyMind-verkkosignaali</ATPP_LowNetworkSignal.label>
+	<ATPP_LowNetworkSignal.labelNoun>Heikko SkyMind-verkkosignaali</ATPP_LowNetworkSignal.labelNoun>
+	<ATPP_Rusted.label>Ruostunut</ATPP_Rusted.label>
+	<ATPP_Rusted.labelNoun>Ruostunut</ATPP_Rusted.labelNoun>
+	<ATPP_BlankAndroid.label>Tyhjä neuroverkko</ATPP_BlankAndroid.label>
+	<ATPP_BlankAndroid.labelNoun>Tyhjä neuroverkko</ATPP_BlankAndroid.labelNoun>
+	<ATPP_SurrogateInit.label>Yhteyden alustus</ATPP_SurrogateInit.label>
+	<ATPP_SurrogateInit.labelNoun>Yhteyden alustus</ATPP_SurrogateInit.labelNoun>
+	<ATPP_AssistingMinds.label>Avustavat mielet SkyCloud-ytimistä</ATPP_AssistingMinds.label>
+	<ATPP_AssistingMinds.labelNoun>Avustavat mielet SkyCloud-ytimistä</ATPP_AssistingMinds.labelNoun>
+	<DecayedFrame.label>rappeutuva päärunko</DecayedFrame.label>
+	<DecayedFrame.labelNoun>rappeutuva päärunko</DecayedFrame.labelNoun>
+	<CorruptMemory.label>korruptoitunut muisti</CorruptMemory.label>
+	<WeakValves.label>heikot venttiilit</WeakValves.label>
+	<ExaggeratedHealing.label>yliaktiivinen reaktio</ExaggeratedHealing.label>
+	<FaultyPump.label>viallinen pumppu</FaultyPump.label>
+	<FaultyPump.labelNoun>viallinen pumppu</FaultyPump.labelNoun>
+	<ShutdownAndroid.label>poistettu käytöstä</ShutdownAndroid.label>
+	<ShutdownAndroid.description>Tekoäly-ydin on sammutettu pysyvästi ja tyhjennetty kokonaan.</ShutdownAndroid.description>
+	<RebootingSequenceAT.label>Käynnistyy uudelleen</RebootingSequenceAT.label>
+	<RebootingSequenceAT.description>Uudelleenkäynnistysjakso käynnissä tekoäly-ytimessä.</RebootingSequenceAT.description>
+	<NoFreeWillAT.label>tunteeton</NoFreeWillAT.label>
+	<NoFreeWillAT.labelNoun>tunteeton</NoFreeWillAT.labelNoun>
+	<NoFreeWillAT.description>Tekoäly-ytimen moraali- ja tunnevastesektorien muutokset, jotka johtavat täysin neutraaliin mielialaan ja korkeampien toimintojen puuttumiseen.</NoFreeWillAT.description>
+	<FreshReprogramming.label>äskettäin uudelleenohjelmoitu</FreshReprogramming.label>
+	<FreshReprogramming.description>Äskettäin uudelleenohjelmoitu tekoäly-ydin. Kaiken uuden ohjelmiston kääntäminen ja automaattikorjaus voi heikentää kykyjä väliaikaisesti.</FreshReprogramming.description>
+	<OverclockedAndroid.label>ylikellotettu</OverclockedAndroid.label>
+	<OverclockedAndroid.labelNoun>ylikellotuspäivitys</OverclockedAndroid.labelNoun>
+	<OverclockedAndroid.description>Androidin tekoäly-ytimen laskentasektoreita on nopeutettu, mikä kiihdyttää toimintojen laskentaa mutta lisää laitteiston kuormitusta.</OverclockedAndroid.description>
+	<BatteryChargeMech.label>Akku</BatteryChargeMech.label>
+	<BatteryChargeMech.description>Akun jäljellä oleva varaus ennen sammumista</BatteryChargeMech.description>
+	<AndroidCoolantLoss.label>jäähdytysnestevuoto</AndroidCoolantLoss.label>
+	<AndroidCoolantLoss.description>Jäähdytysnesteen vuoto sisäisissä putkistoissa, mikä heikentää jäähdytystehoa ja aiheuttaa sisäosien ylikuumenemista.</AndroidCoolantLoss.description>
+	<AndroidOverheating.label>ylikuumeneminen</AndroidOverheating.label>
+	<AndroidFreezing.label>Jäätyminen</AndroidFreezing.label>
+	<PlatingSteel.label>Teräsrunko</PlatingSteel.label>
+	<PlatingSteel.labelNoun>perusteräsrunko</PlatingSteel.labelNoun>
+	<PlatingSteel.description>Asennettu teräsrunko.</PlatingSteel.description>
+	<PlatingPlasteel.label>plastiteräksinen rungon suojus</PlatingPlasteel.label>
+	<PlatingPlasteel.labelNoun>vahva plastiteräksinen rungon suojus</PlatingPlasteel.labelNoun>
+	<PlatingPlasteel.description>Asennettu plastiteräksinen rungon suojus.</PlatingPlasteel.description>
+	<PlatingComposite.label>komposiittirunkopanssari</PlatingComposite.label>
+	<PlatingComposite.labelNoun>korkealujuuksinen komposiittipanssari</PlatingComposite.labelNoun>
+	<PlatingComposite.description>Asennettu komposiittirunkopanssari.</PlatingComposite.description>
+	<MiningArm_AT.label>kaivoskäsivarsi</MiningArm_AT.label>
+	<MiningArm_AT.labelNoun>kaivoskäsivarsi</MiningArm_AT.labelNoun>
+	<MiningArm_AT.description>Asennettu kaivoskäsivarsi.</MiningArm_AT.description>
+	<HydraulicFrame.label>hydraulinen runko</HydraulicFrame.label>
+	<HydraulicFrame.labelNoun>hydraulinen runko</HydraulicFrame.labelNoun>
+	<HydraulicFrame.description>Asennettu hydraulinen runko.</HydraulicFrame.description>
+	<HydraulicLeg.label>hydraulinen jalka</HydraulicLeg.label>
+	<HydraulicLeg.labelNoun>hydraulinen jalka</HydraulicLeg.labelNoun>
+	<HydraulicLeg.description>Asennettu hydraulinen jalka.</HydraulicLeg.description>
+	<HydraulicArm.label>hydraulinen käsivarsi</HydraulicArm.label>
+	<HydraulicArm.labelNoun>hydraulinen käsivarsi</HydraulicArm.labelNoun>
+	<HydraulicArm.description>Asennettu hydraulinen käsivarsi.</HydraulicArm.description>
+	<MakeshiftRLeg.label>tilapäinen korvikejalka</MakeshiftRLeg.label>
+	<MakeshiftRLeg.labelNoun>tilapäinen korvikejalka</MakeshiftRLeg.labelNoun>
+	<MakeshiftRLeg.description>Asennettu tilapäinen korvikejalka.</MakeshiftRLeg.description>
+	<MakeshiftRArm.label>tilapäinen korvikekäsivarsi</MakeshiftRArm.label>
+	<MakeshiftRArm.labelNoun>tilapäinen korvikekäsivarsi</MakeshiftRArm.labelNoun>
+	<MakeshiftRArm.description>Asennettu tilapäinen korvikekäsivarsi.</MakeshiftRArm.description>
+	<BRArm.label>peruskorvikekäsivarsi</BRArm.label>
+	<BRArm.labelNoun>peruskorvikekäsivarsi</BRArm.labelNoun>
+	<BRArm.description>Asennettu peruskorvikekäsivarsi.</BRArm.description>
+	<BRLeg.label>peruskorvikejalka</BRLeg.label>
+	<BRLeg.labelNoun>peruskorvikejalka</BRLeg.labelNoun>
+	<BRLeg.description>Asennettu peruskorvikejalka.</BRLeg.description>
+	<BLReceptor.label>karkea valoanturi</BLReceptor.label>
+	<BLReceptor.labelNoun>karkea valoanturi</BLReceptor.labelNoun>
+	<BLReceptor.description>Asennettu karkea valoanturi.</BLReceptor.description>
+	<BHeatsink.label>karkea jäähdytyssiili</BHeatsink.label>
+	<BHeatsink.labelNoun>karkea jäähdytyssiili</BHeatsink.labelNoun>
+	<BHeatsink.description>Asennettu karkea jäähdytyssiili.</BHeatsink.description>
+	<BCoolantPump.label>karkea jäähdytysnestepumppu</BCoolantPump.label>
+	<BCoolantPump.labelNoun>karkea jäähdytysnestepumppu</BCoolantPump.labelNoun>
+	<BCoolantPump.description>Asennettu karkea jäähdytysnestepumppu.</BCoolantPump.description>
+	<BBattery.label>karkea akkupaketti</BBattery.label>
+	<BBattery.labelNoun>karkea akkupaketti</BBattery.labelNoun>
+	<BBattery.description>Asennettu karkea akkupaketti.</BBattery.description>
+	<BMStorage.label>karkea mekaniittivarasto</BMStorage.label>
+	<BMStorage.labelNoun>karkea mekaniittivarasto</BMStorage.labelNoun>
+	<BMStorage.description>Asennettu karkea mekaniittivarasto.</BMStorage.description>
+	<BTransformer.label>karkea bioreaktori</BTransformer.label>
+	<BTransformer.labelNoun>karkea bioreaktori</BTransformer.labelNoun>
+	<BTransformer.description>Asennettu karkea bioreaktori.</BTransformer.description>
+	<BVAdapter.label>karkea tehonmuunnin</BVAdapter.label>
+	<BVAdapter.labelNoun>karkea tehonmuunnin</BVAdapter.labelNoun>
+	<BVAdapter.description>Asennettu karkea tehonmuunnin.</BVAdapter.description>
+	<BasicRearCounterweight.label>perusvastapaino</BasicRearCounterweight.label>
+	<BasicRearCounterweight.labelNoun>perusvastapaino</BasicRearCounterweight.labelNoun>
+	<BasicRearCounterweight.description>Asennettu perusvastapaino.</BasicRearCounterweight.description>
+	<CrudeJawAndroid.label>karkea leuka</CrudeJawAndroid.label>
+	<CrudeJawAndroid.labelNoun>karkea leuka</CrudeJawAndroid.labelNoun>
+	<CrudeJawAndroid.description>Asennettu karkea leuka.</CrudeJawAndroid.description>
+	<ARArm.label>suurtehoinen käsivarsi</ARArm.label>
+	<ARArm.labelNoun>suurtehoinen käsivarsi</ARArm.labelNoun>
+	<ARArm.description>Asennettu suurtehoinen käsivarsi.</ARArm.description>
+	<ARLeg.label>suurtehoinen jalka</ARLeg.label>
+	<ARLeg.labelNoun>suurtehoinen jalka</ARLeg.labelNoun>
+	<ARLeg.description>Asennettu suurtehoinen jalka.</ARLeg.description>
+	<ALReceptor.label>edistynyt valoanturi</ALReceptor.label>
+	<ALReceptor.labelNoun>edistynyt valoanturi</ALReceptor.labelNoun>
+	<ALReceptor.description>Asennettu edistynyt valoanturi.</ALReceptor.description>
+	<AHeatsink.label>edistynyt jäähdytyssiili</AHeatsink.label>
+	<AHeatsink.labelNoun>edistynyt jäähdytyssiili</AHeatsink.labelNoun>
+	<AHeatsink.description>Asennettu edistynyt jäähdytyssiili.</AHeatsink.description>
+	<ACoolantPump.label>edistynyt jäähdytysnestepumppu</ACoolantPump.label>
+	<ACoolantPump.labelNoun>edistynyt jäähdytysnestepumppu</ACoolantPump.labelNoun>
+	<ACoolantPump.description>Asennettu edistynyt jäähdytysnestepumppu.</ACoolantPump.description>
+	<ABattery.label>edistynyt akkupaketti</ABattery.label>
+	<ABattery.labelNoun>edistynyt akkupaketti</ABattery.labelNoun>
+	<ABattery.description>Asennettu edistynyt akkupaketti.</ABattery.description>
+	<AMStorage.label>edistynyt mekaniittivarasto</AMStorage.label>
+	<AMStorage.labelNoun>edistynyt mekaniittivarasto</AMStorage.labelNoun>
+	<AMStorage.description>Asennettu edistynyt mekaniittivarasto.</AMStorage.description>
+	<ATransformer.label>edistynyt bioreaktori</ATransformer.label>
+	<ATransformer.labelNoun>edistynyt bioreaktori</ATransformer.labelNoun>
+	<ATransformer.description>Asennettu edistynyt bioreaktori.</ATransformer.description>
+	<AVAdapter.label>edistynyt tehonmuunnin</AVAdapter.label>
+	<AVAdapter.labelNoun>edistynyt tehonmuunnin</AVAdapter.labelNoun>
+	<AVAdapter.description>Asennettu edistynyt tehonmuunnin.</AVAdapter.description>
+	<AdvRearCounterweight.label>gyroskooppinen vastapaino</AdvRearCounterweight.label>
+	<AdvRearCounterweight.labelNoun>gyroskooppinen vastapaino</AdvRearCounterweight.labelNoun>
+	<AdvRearCounterweight.description>Asennettu gyroskooppinen vastapaino.</AdvRearCounterweight.description>
+	<AdvJawAndroid.label>kyberneettinen leuka</AdvJawAndroid.label>
+	<AdvJawAndroid.labelNoun>kyberneettinen leuka</AdvJawAndroid.labelNoun>
+	<AdvJawAndroid.description>Asennettu kyberneettinen leuka.</AdvJawAndroid.description>
+	<PositronMind.label>Positroninen uudelleenjohdotus</PositronMind.label>
+	<PositronMind.labelNoun>positroninen uudelleenjohdotus</PositronMind.labelNoun>
+	<PositronMind.description>Asennettu positroninen uudelleenjohdotus.</PositronMind.description>
+	<SoldierMind.label>Sotilaspäivitys</SoldierMind.label>
+	<SoldierMind.labelNoun>sotilaspäivitys</SoldierMind.labelNoun>
+	<SoldierMind.description>Asennettu sotilaspäivitys.</SoldierMind.description>
+	<BuilderMind.label>Piirustuspankit</BuilderMind.label>
+	<BuilderMind.labelNoun>piirustuspankki</BuilderMind.labelNoun>
+	<BuilderMind.description>Asennettu piirustuspankki.</BuilderMind.description>
+	<SurgeonMind.label>Implantoitu trikorderi</SurgeonMind.label>
+	<SurgeonMind.labelNoun>implantoitu trikorderi</SurgeonMind.labelNoun>
+	<SurgeonMind.description>Implantoitu trikorderi.</SurgeonMind.description>
+	<SpeedMind.label>Neuraalivaltatiet</SpeedMind.label>
+	<SpeedMind.labelNoun>Neuraalivaltatiet</SpeedMind.labelNoun>
+	<SpeedMind.description>Asennetut neuraalivaltatiet.</SpeedMind.description>
+	<GeoMind.label>Geologiapankit</GeoMind.label>
+	<GeoMind.labelNoun>geologiapankki</GeoMind.labelNoun>
+	<GeoMind.description>Asennettu geologiapankki.</GeoMind.description>
+	<MechanicMind.label>Insinööri-implantti</MechanicMind.label>
+	<MechanicMind.labelNoun>insinööri-implantti</MechanicMind.labelNoun>
+	<MechanicMind.description>Asennettu insinööri-implantti.</MechanicMind.description>
+	<CookingMind.label>Keittiöimplantti</CookingMind.label>
+	<CookingMind.labelNoun>keittiöimplantti</CookingMind.labelNoun>
+	<CookingMind.description>Asennettu keittiöimplantti.</CookingMind.description>
+	<CharismaMind.label>Karismaimplantti</CharismaMind.label>
+	<CharismaMind.labelNoun>karismaimplantti</CharismaMind.labelNoun>
+	<CharismaMind.description>Asennettu karismaimplantti.</CharismaMind.description>
+	<NegotiatorMind.label>Neuvottelijaimplantti</NegotiatorMind.label>
+	<NegotiatorMind.labelNoun>neuvottelijaimplantti</NegotiatorMind.labelNoun>
+	<NegotiatorMind.description>Asennettu neuvottelijaimplantti.</NegotiatorMind.description>
+	<ZoologyMind.label>Eläintiedeimplantti</ZoologyMind.label>
+	<ZoologyMind.labelNoun>eläintiedeimplantti</ZoologyMind.labelNoun>
+	<ZoologyMind.description>Asennettu eläintiedeimplantti.</ZoologyMind.description>
+	<AgriculturalMind.label>Maatalousimplantti</AgriculturalMind.label>
+	<AgriculturalMind.labelNoun>maatalousimplantti</AgriculturalMind.labelNoun>
+	<AgriculturalMind.description>Asennettu maatalousimplantti.</AgriculturalMind.description>
+	<UnskilledMind.label>Perustyösiru</UnskilledMind.label>
+	<UnskilledMind.labelNoun>perustyösiru</UnskilledMind.labelNoun>
+	<UnskilledMind.description>Asennettu perustyösiru.</UnskilledMind.description>
+	<AR2Arm.label>Kyberneettinen käsivarsi</AR2Arm.label>
+	<AR2Arm.labelNoun>kyberneettinen käsivarsi</AR2Arm.labelNoun>
+	<AR2Arm.description>Asennettu kyberneettinen käsivarsi.</AR2Arm.description>
+	<AR2Leg.label>Kyberneettinen jalka</AR2Leg.label>
+	<AR2Leg.labelNoun>kyberneettinen jalka</AR2Leg.labelNoun>
+	<AR2Leg.description>Asennettu kyberneettinen jalka.</AR2Leg.description>
+	<AL2Receptor.label>arkotekninen valoanturi</AL2Receptor.label>
+	<AL2Receptor.labelNoun>arkotekninen valoanturi</AL2Receptor.labelNoun>
+	<AL2Receptor.description>Asennettu arkotekninen valoanturi.</AL2Receptor.description>
+	<A2Heatsink.label>arkotekninen jäähdytyssiili</A2Heatsink.label>
+	<A2Heatsink.labelNoun>arkotekninen jäähdytyssiili</A2Heatsink.labelNoun>
+	<A2Heatsink.description>Asennettu arkotekninen jäähdytyssiili.</A2Heatsink.description>
+	<A2CoolantPump.label>arkotekninen jäähdytysnestepumppu</A2CoolantPump.label>
+	<A2CoolantPump.labelNoun>arkotekninen jäähdytysnestepumppu</A2CoolantPump.labelNoun>
+	<A2CoolantPump.description>Asennettu arkotekninen jäähdytysnestepumppu.</A2CoolantPump.description>
+	<A2Battery.label>arkotekninen akkupaketti</A2Battery.label>
+	<A2Battery.labelNoun>arkotekninen akkupaketti</A2Battery.labelNoun>
+	<A2Battery.description>Asennettu arkotekninen akkupaketti.</A2Battery.description>
+	<A2MStorage.label>arkotekninen mekaniittivarasto</A2MStorage.label>
+	<A2MStorage.labelNoun>arkotekninen mekaniittivarasto</A2MStorage.labelNoun>
+	<A2MStorage.description>Asennettu arkotekninen mekaniittivarasto.</A2MStorage.description>
+	<A2Transformer.label>arkotekninen bioreaktori</A2Transformer.label>
+	<A2Transformer.labelNoun>arkotekninen bioreaktori</A2Transformer.labelNoun>
+	<A2Transformer.description>Asennettu arkotekninen bioreaktori.</A2Transformer.description>
+	<A2VAdapter.label>arkotekninen tehonmuunnin</A2VAdapter.label>
+	<A2VAdapter.labelNoun>arkotekninen tehonmuunnin</A2VAdapter.labelNoun>
+	<A2VAdapter.description>Asennettu arkotekninen tehonmuunnin.</A2VAdapter.description>
+	<HearingSensorCrude.label>karkea kuuloanturi</HearingSensorCrude.label>
+	<HearingSensorCrude.labelNoun>karkea kuuloanturi</HearingSensorCrude.labelNoun>
+	<HearingSensorCrude.description>Asennettu karkea kuuloanturi.</HearingSensorCrude.description>
+	<HearingSensorAdv.label>edistynyt kuuloanturi</HearingSensorAdv.label>
+	<HearingSensorAdv.labelNoun>edistynyt kuuloanturi</HearingSensorAdv.labelNoun>
+	<HearingSensorAdv.description>Asennettu edistynyt kuuloanturi.</HearingSensorAdv.description>
+	<HearingSensorArch.label>arkotekninen kuuloanturi</HearingSensorArch.label>
+	<HearingSensorArch.labelNoun>arkotekninen kuuloanturi</HearingSensorArch.labelNoun>
+	<HearingSensorArch.description>Asennettu arkotekninen kuuloanturi.</HearingSensorArch.description>
+	<SmellSensorAdv.label>edistynyt hajuanturi</SmellSensorAdv.label>
+	<SmellSensorAdv.labelNoun>edistynyt hajuanturi</SmellSensorAdv.labelNoun>
+	<SmellSensorAdv.description>Asennettu edistynyt hajuanturi.</SmellSensorAdv.description>
+	<SmellingSensorCrude.label>karkea hajuanturi</SmellingSensorCrude.label>
+	<SmellingSensorCrude.labelNoun>karkea hajuanturi</SmellingSensorCrude.labelNoun>
+	<SmellingSensorCrude.description>Asennettu karkea hajuanturi.</SmellingSensorCrude.description>
+	<SmellingSensorArch.label>arkotekninen hajuanturi</SmellingSensorArch.label>
+	<SmellingSensorArch.labelNoun>arkotekninen hajuanturi</SmellingSensorArch.labelNoun>
+	<SmellingSensorArch.description>Asennettu arkotekninen hajuanturi.</SmellingSensorArch.description>
+	<EvolvingMind.label>Kehittyvä tekoäly</EvolvingMind.label>
+	<EvolvingMind.labelNoun>kehittyvä tekoäly</EvolvingMind.labelNoun>
+	<EvolvingMind.description>Asennettu kehittyvä tekoäly.</EvolvingMind.description>
+	<AndroidTiers_EmotionlessCard.label>Sosiaalinen vuorovaikutus estetty</AndroidTiers_EmotionlessCard.label>
+	<AndroidTiers_EmotionlessCard.labelNoun>Sosiaalinen vuorovaikutus estetty</AndroidTiers_EmotionlessCard.labelNoun>
+	<Backstory_PitFighterUpgrade.label>taisteluhanskat</Backstory_PitFighterUpgrade.label>
+	<Backstory_PitFighterUpgrade.labelNoun>taisteluhanska</Backstory_PitFighterUpgrade.labelNoun>
+	<Backstory_PitFighterUpgrade.description>Asennettu taisteluhanska.</Backstory_PitFighterUpgrade.description>
+	<Backstory_TranscendantAssimilatorUpgrade.label>Plasmahanska</Backstory_TranscendantAssimilatorUpgrade.label>
+	<Backstory_TranscendantAssimilatorUpgrade.labelNoun>plasmahanska</Backstory_TranscendantAssimilatorUpgrade.labelNoun>
+	<Backstory_TranscendantAssimilatorUpgrade.description>Asennettu plasmahanska.</Backstory_TranscendantAssimilatorUpgrade.description>
+	<Backstory_HighCouncilUpgrade.label>Kvanttiprosessointi</Backstory_HighCouncilUpgrade.label>
+	<Backstory_HighCouncilUpgrade.labelNoun>kvanttimieli</Backstory_HighCouncilUpgrade.labelNoun>
+	<Backstory_HighCouncilUpgrade.description>Asennettu kvanttimieli.</Backstory_HighCouncilUpgrade.description>
+	<SGelhuman.label>Rakennegeeli</SGelhuman.label>
+	<SGelhuman.description>Verenkierrossa virtaava aminohappojen ja mekaniittien seos; erittäin myrkyllistä ja voi aiheuttaa kouristuskohtauksia.</SGelhuman.description>
+	<SGelandroid.label>Rakennegeeli</SGelandroid.label>
+	<SGelandroid.description>Jäähdytysputkistossa virtaava aminohappojen ja mekaniittien seos; auttaa pitämään sisäosat kunnossa paremman suorituskyvyn takaamiseksi.</SGelandroid.description>
+	<Toxicated.label>Myrkyttynyt</Toxicated.label>
+	<Toxicated.description>Myrkyllisiä yhdisteitä verenkierrossa; aiheuttaa hengitysvaikeuksia ja oksentelua.</Toxicated.description>
+	<AFreezeandroid.label>Polymeerijäätymisenesto</AFreezeandroid.label>
+	<AFreezeandroid.description>Polymeeripohjainen jäätymisenestoaine jäähdytysputkistossa. Auttaa lämmönsäätelyssä sekä kuumissa että kylmissä ympäristöissä.</AFreezeandroid.description>
+	<MechSwarmandroid.label>Mekaparvi</MechSwarmandroid.label>
+	<MechSwarmandroid.description>Jäähdytysputkistossa virtaavia nanomekaniitteja. Auttaa pitämään sisäosat huippusuorituskyvyssä.</MechSwarmandroid.description>
+	<Conversion.label>???</Conversion.label>
+	<Conversion.description>Fraktaaliyhdisteitä verenkierrossa. Aiheuttaa kouristuskohtauksia, runsasta oksentelua ja ihon rajua repeytymistä vakavan kudostulehduksen vuoksi.</Conversion.description>
+	<FractalPillAndroid.label>Fraktaalitehostus</FractalPillAndroid.label>
+	<FractalPillAndroid.description>Fraktaaliyhdisteitä jäähdytysputkistossa. Parantaa merkittävästi kaikkien toimintojen tehokkuutta ja voimaa.</FractalPillAndroid.description>
+	<RegenHumanoid.label>Monovoide</RegenHumanoid.label>
+	<RegenHumanoid.description>Aktiivisia uudistavia liuottimia verenkierrossa. Edistää solujen perusuusiutumista.</RegenHumanoid.description>
+	<RegenAndroid.label>Monovoide</RegenAndroid.label>
+	<RegenAndroid.description>Aktiivisia uudistavia liuottimia jäähdytysputkistossa. Auttaa mekanismien automaattisessa korjautumisessa.</RegenAndroid.description>
+	<ATPP_DummyHediff.label>DummyHediff</ATPP_DummyHediff.label>
+	<ATPP_DummyHediff.labelNoun>DummyHediff</ATPP_DummyHediff.labelNoun>
+</LanguageData>

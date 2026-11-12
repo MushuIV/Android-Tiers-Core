@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATPP_ResearchSM7.label>SM7 Savaş Mekanoidi</ATPP_ResearchSM7.label>
+  <ATPP_ResearchSM7.description>SM7 savaş mekanoidlerinin nasıl üretileceğini araştır.</ATPP_ResearchSM7.description>
+  <ATPP_ResearchServerI100Serie.label>I100 Serisi Sunucular</ATPP_ResearchServerI100Serie.label>
+  <ATPP_ResearchServerI100Serie.description>Ucuz ama gürültülü, büyük ve pek verimli olmayan I100 serisi güvenlik, hackleme ve yetenek sunucularının nasıl inşa edileceğini araştır.</ATPP_ResearchServerI100Serie.description>
+  <ATPP_ResearchServerI300Serie.label>I300 Serisi Sunucular</ATPP_ResearchServerI300Serie.label>
+  <ATPP_ResearchServerI300Serie.description>Gürültülü ancak verimlilik açısından orta düzeyde olan I300 serisi güvenlik, hackleme ve yetenek sunucularının nasıl inşa edileceğini araştır.</ATPP_ResearchServerI300Serie.description>
+  <ATPP_ResearchServerI500Serie.label>I500 Serisi Sunucular</ATPP_ResearchServerI500Serie.label>
+  <ATPP_ResearchServerI500Serie.description>Pahalı ancak çok verimli olan I500 serisi güvenlik, hackleme ve yetenek sunucularının nasıl inşa edileceğini araştır.</ATPP_ResearchServerI500Serie.description>
+  <ATPP_ResearchSkyCloudCore.label>SkyCloud Çekirdeği</ATPP_ResearchSkyCloudCore.label>
+  <ATPP_ResearchSkyCloudCore.description>Birden fazla dijitalleştirilmiş bilinci barındırabilen ve SkyMind ağına bağlı her cihaz üzerinden gerçek dünyayla etkileşime girmelerini sağlayan güçlü süper bilgisayarlar olan SkyCloud Çekirdeği sunucularının nasıl inşa edileceğini araştır.</ATPP_ResearchSkyCloudCore.description>
+  <ATPP_ResearchBatteryOverload.label>Pil aşırı yüklemesi</ATPP_ResearchBatteryOverload.label>
+  <ATPP_ResearchBatteryOverload.description>Androidlerin dahili pillerini patlatarak onları yürüyen bombalara dönüştürmenin yolunu araştır.</ATPP_ResearchBatteryOverload.description>
+  <ATPP_ResearchVX0Chip.label>VX0 Nöral Çip</ATPP_ResearchVX0Chip.label>
+  <ATPP_ResearchVX0Chip.description>Konağını biyolojik bir vekile dönüştüren VX0 nöral çiplerinin nasıl üretileceğini araştır.</ATPP_ResearchVX0Chip.description>
+  <ATPP_ResearchCharchingStation.label>Şarj İstasyonu</ATPP_ResearchCharchingStation.label>
+  <ATPP_ResearchCharchingStation.description>Biyokütle jeneratörleri yerine doğrudan dahili pilleri üzerinden aynı anda 8 androidi şarj etmenizi sağlar.</ATPP_ResearchCharchingStation.description>
+  <ATPP_ResearchCraftBasicNanoKit.label>Temel Nanokit</ATPP_ResearchCraftBasicNanoKit.label>
+  <ATPP_ResearchCraftBasicNanoKit.description>Yaralı androidleri onarmak için gereken temel nanokitleri üretmenizi sağlar.</ATPP_ResearchCraftBasicNanoKit.description>
+  <ATPP_ResearchCraftIntermediateNanoKit.label>Orta Seviye Nanokit</ATPP_ResearchCraftIntermediateNanoKit.label>
+  <ATPP_ResearchCraftIntermediateNanoKit.description>Yaralı androidleri onarmak için gereken orta seviye nanokitleri üretmenizi sağlar.</ATPP_ResearchCraftIntermediateNanoKit.description>
+  <ATPP_ResearchCraftAdvancedNanoKit.label>Gelişmiş Nanokit</ATPP_ResearchCraftAdvancedNanoKit.label>
+  <ATPP_ResearchCraftAdvancedNanoKit.description>Yaralı androidleri onarmak için gereken gelişmiş nanokitleri üretmenizi sağlar.</ATPP_ResearchCraftAdvancedNanoKit.description>
+  <ATPP_ResearchVX1Chip.label>VX1 Nöral Çip</ATPP_ResearchVX1Chip.label>
+  <ATPP_ResearchVX1Chip.description>Konağının herhangi bir SX serisi androidi veya biyolojik vekili uzaktan kontrol etmesini sağlayan VX1 nöral çipinin nasıl üretileceğini araştır.</ATPP_ResearchVX1Chip.description>
+  <ATPP_ResearchVX2Chip.label>VX2 Nöral Çip</ATPP_ResearchVX2Chip.label>
+  <ATPP_ResearchVX2Chip.description>Konağının herhangi bir SX serisi androidi veya biyolojik vekili uzaktan kontrol etmesini ve zihnini kopyalamasını/değiş tokuş etmesini sağlayan VX2 nöral çipinin nasıl üretileceğini araştır.</ATPP_ResearchVX2Chip.description>
+  <ATPP_ResearchVX3Chip.label>VX3 Nöral Çip</ATPP_ResearchVX3Chip.label>
+  <ATPP_ResearchVX3Chip.description>Konağının aynı anda birden fazla SX serisi androidi veya biyolojik vekili uzaktan kontrol etmesini ve zihnini kopyalamasını/değiş tokuş etmesini sağlayan VX3 nöral çipinin nasıl üretileceğini araştır.</ATPP_ResearchVX3Chip.description>
+  <ATPP_ResearchSkyMindWAN.label>SkyMind V2 Anteni</ATPP_ResearchSkyMindWAN.label>
+  <ATPP_ResearchSkyMindWAN.description>Bir kolonistin bilincini diğerine aktarmak için temel oluşturan ve V2 Anteni başına aynı anda 15 kolonistin bağlanmasına olanak tanıyan SkyMind V2 Anteninin nasıl inşa edileceğini araştır.</ATPP_ResearchSkyMindWAN.description>
+  <ATPP_ResearchSkyMindLAN.label>SkyMind V1 Anteni</ATPP_ResearchSkyMindLAN.label>
+  <ATPP_ResearchSkyMindLAN.description>Bir kolonistin bilincini diğerine aktarmak için temel oluşturan ve V1 Anteni başına aynı anda 3 kolonistin bağlanmasına olanak tanıyan SkyMind V1 Anteninin nasıl inşa edileceğini araştır.</ATPP_ResearchSkyMindLAN.description>
+  <ATPP_ResearchSurrogateHost.label>SX Androidler</ATPP_ResearchSurrogateHost.label>
+  <ATPP_ResearchSurrogateHost.description>TX serisine benzeyen ancak yapay beyinleri gelişmiş bir uzaktan kontrol sistemiyle değiştirilmiş olan SX serisi androidlerin nasıl üretileceğini araştır.</ATPP_ResearchSurrogateHost.description>
+  <ATPP_ResearchCraftRepairNaniteBanks.label>Yaşlılık Arızalarını İyileştir</ATPP_ResearchCraftRepairNaniteBanks.label>
+  <ATPP_ResearchCraftRepairNaniteBanks.description>Yaşlılığa bağlı android arızalarını iyileştiren nanitleri üretmenizi sağlar.</ATPP_ResearchCraftRepairNaniteBanks.description>
+</LanguageData>

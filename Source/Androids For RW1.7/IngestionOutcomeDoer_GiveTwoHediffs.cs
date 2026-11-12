@@ -61,13 +61,13 @@ namespace MOARANDROIDS
             yield break;
         }
 
-        public HediffDef hediffDef_Android;
+        public HediffDef hediffDef_Android = null;
 
-        public HediffDef hediffDef_Human;
+        public HediffDef hediffDef_Human = null;
 
         public float severity = -1f;
 
-        private bool divideByBodySize;
+        private bool divideByBodySize = false;
     }
 }
 

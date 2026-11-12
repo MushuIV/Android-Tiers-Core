@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_ResearchSM7.label>Bojový mechanoid SM7</ATPP_ResearchSM7.label>
+  <ATPP_ResearchSM7.description>Umožňuje vyskúmať výrobu bojových mechanoidov SM7.</ATPP_ResearchSM7.description>
+  <ATPP_ResearchServerI100Serie.label>Servery radu I100</ATPP_ResearchServerI100Serie.label>
+  <ATPP_ResearchServerI100Serie.description>Umožňuje vyskúmať výrobu bezpečnostných, hackerských a zručnostných serverov radu I100 – lacných, ale hlučných, rozmerných a málo účinných.</ATPP_ResearchServerI100Serie.description>
+  <ATPP_ResearchServerI300Serie.label>Servery radu I300</ATPP_ResearchServerI300Serie.label>
+  <ATPP_ResearchServerI300Serie.description>Umožňuje vyskúmať výrobu bezpečnostných, hackerských a zručnostných serverov radu I300 – hlučných, ale stredne účinných.</ATPP_ResearchServerI300Serie.description>
+  <ATPP_ResearchServerI500Serie.label>Servery radu I500</ATPP_ResearchServerI500Serie.label>
+  <ATPP_ResearchServerI500Serie.description>Umožňuje vyskúmať výrobu bezpečnostných, hackerských a zručnostných serverov radu I500 – drahých, ale veľmi účinných.</ATPP_ResearchServerI500Serie.description>
+  <ATPP_ResearchSkyCloudCore.label>Jadro SkyCloud</ATPP_ResearchSkyCloudCore.label>
+  <ATPP_ResearchSkyCloudCore.description>Umožňuje vyskúmať stavbu serverov jadra SkyCloud, výkonných superpočítačov schopných hostiť niekoľko digitalizovaných vedomí a umožňujúcich im interagovať so skutočným svetom prostredníctvom každého zariadenia pripojeného k sieti SkyMind.</ATPP_ResearchSkyCloudCore.description>
+  <ATPP_ResearchBatteryOverload.label>Preťaženie batérie</ATPP_ResearchBatteryOverload.label>
+  <ATPP_ResearchBatteryOverload.description>Umožňuje vyskúmať premenu androidov na chodiace bomby odpálením ich vnútornej batérie.</ATPP_ResearchBatteryOverload.description>
+  <ATPP_ResearchVX0Chip.label>Neurónový čip VX0</ATPP_ResearchVX0Chip.label>
+  <ATPP_ResearchVX0Chip.description>Umožňuje vyskúmať výrobu čipov VX0, neurónových čipov, ktoré premenia svojho hostiteľa na biologického surogáta.</ATPP_ResearchVX0Chip.description>
+  <ATPP_ResearchCharchingStation.label>Nabíjacia stanica</ATPP_ResearchCharchingStation.label>
+  <ATPP_ResearchCharchingStation.description>Umožňuje nabíjať až 8 androidov súčasne priamo do ich vnútornej batérie namiesto využitia ich generátora biomasy.</ATPP_ResearchCharchingStation.description>
+  <ATPP_ResearchCraftBasicNanoKit.label>Základný nanokit</ATPP_ResearchCraftBasicNanoKit.label>
+  <ATPP_ResearchCraftBasicNanoKit.description>Umožňuje vyrábať základné nanokity potrebné na opravu zranených androidov.</ATPP_ResearchCraftBasicNanoKit.description>
+  <ATPP_ResearchCraftIntermediateNanoKit.label>Stredný nanokit</ATPP_ResearchCraftIntermediateNanoKit.label>
+  <ATPP_ResearchCraftIntermediateNanoKit.description>Umožňuje vyrábať stredné nanokity potrebné na opravu zranených androidov.</ATPP_ResearchCraftIntermediateNanoKit.description>
+  <ATPP_ResearchCraftAdvancedNanoKit.label>Pokročilý nanokit</ATPP_ResearchCraftAdvancedNanoKit.label>
+  <ATPP_ResearchCraftAdvancedNanoKit.description>Umožňuje vyrábať pokročilé nanokity potrebné na opravu zranených androidov.</ATPP_ResearchCraftAdvancedNanoKit.description>
+  <ATPP_ResearchVX1Chip.label>Neurónový čip VX1</ATPP_ResearchVX1Chip.label>
+  <ATPP_ResearchVX1Chip.description>Umožňuje vyskúmať výrobu čipu VX1, neurónového čipu, ktorý svojmu hostiteľovi umožňuje diaľkovo ovládať akéhokoľvek androida radu SX alebo biologického surogáta.</ATPP_ResearchVX1Chip.description>
+  <ATPP_ResearchVX2Chip.label>Neurónový čip VX2</ATPP_ResearchVX2Chip.label>
+  <ATPP_ResearchVX2Chip.description>Umožňuje vyskúmať výrobu čipu VX2, neurónového čipu, ktorý svojmu hostiteľovi umožňuje diaľkovo ovládať akéhokoľvek androida radu SX alebo biologického surogáta a duplikovať/permutovať svoje vedomie.</ATPP_ResearchVX2Chip.description>
+  <ATPP_ResearchVX3Chip.label>Neurónový čip VX3</ATPP_ResearchVX3Chip.label>
+  <ATPP_ResearchVX3Chip.description>Umožňuje vyskúmať výrobu čipu VX3, neurónového čipu, ktorý svojmu hostiteľovi umožňuje súčasne diaľkovo ovládať viacero androidov radu SX alebo biologických surogátov a duplikovať/permutovať svoje vedomie.</ATPP_ResearchVX3Chip.description>
+  <ATPP_ResearchSkyMindWAN.label>Anténa SkyMind V2</ATPP_ResearchSkyMindWAN.label>
+  <ATPP_ResearchSkyMindWAN.description>Umožňuje vyskúmať stavbu antény SkyMind V2, ktorá slúži ako základ pre prenos vedomia z jedného kolonistu na druhého a umožňuje súčasné pripojenie až 15 kolonistov na jednu anténu V2.</ATPP_ResearchSkyMindWAN.description>
+  <ATPP_ResearchSkyMindLAN.label>Anténa SkyMind V1</ATPP_ResearchSkyMindLAN.label>
+  <ATPP_ResearchSkyMindLAN.description>Umožňuje vyskúmať stavbu antény SkyMind V1, ktorá slúži ako základ pre prenos vedomia z jedného kolonistu na druhého a umožňuje súčasné pripojenie až 3 kolonistov na jednu anténu V1.</ATPP_ResearchSkyMindLAN.description>
+  <ATPP_ResearchSurrogateHost.label>Androidi radu SX</ATPP_ResearchSurrogateHost.label>
+  <ATPP_ResearchSurrogateHost.description>Umožňuje vyskúmať výrobu androidov radu SX, ktorí sú podobní radu TX, ale ich umelé mozgy sú nahradené pokročilým systémom diaľkového ovládania.</ATPP_ResearchSurrogateHost.description>
+  <ATPP_ResearchCraftRepairNaniteBanks.label>Liečba porúch zo staroby</ATPP_ResearchCraftRepairNaniteBanks.label>
+  <ATPP_ResearchCraftRepairNaniteBanks.description>Umožňuje vyrábať nanity, ktoré liečia poruchy androidov spôsobené starobou.</ATPP_ResearchCraftRepairNaniteBanks.description>
+
+</LanguageData>

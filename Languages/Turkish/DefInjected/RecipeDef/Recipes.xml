@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATPP_DisassembleAndroid.label>Ölü androidi parçala</ATPP_DisassembleAndroid.label>
+  <ATPP_DisassembleAndroid.description>Ölü bir androidi bileşen parçalarına ayır.</ATPP_DisassembleAndroid.description>
+  <ATPP_DisassembleAndroid.jobString>Android parçalanıyor.</ATPP_DisassembleAndroid.jobString>
+  <ATPP_Make_NanitesHydraulicSerum.label>Nanit yuvası üret (hidrolik)</ATPP_Make_NanitesHydraulicSerum.label>
+  <ATPP_Make_NanitesHydraulicSerum.description>Androidlerin yaşlılığa bağlı hidrolik arızalarını onarmaya olanak tanıyan hidrolik nanit serumu üret.</ATPP_Make_NanitesHydraulicSerum.description>
+  <ATPP_Make_NanitesHydraulicSerum.jobString>Android nanit serumu üretiliyor.</ATPP_Make_NanitesHydraulicSerum.jobString>
+  <ATPP_Make_NanitesCPUSerum.label>Nanit yuvası üret (CPU)</ATPP_Make_NanitesCPUSerum.label>
+  <ATPP_Make_NanitesCPUSerum.description>Bir androidin yaşlılığa bağlı CPU arızalarını onarmaya olanak tanıyan CPU nanit serumu üret.</ATPP_Make_NanitesCPUSerum.description>
+  <ATPP_Make_NanitesCPUSerum.jobString>Android nanit serumu üretiliyor.</ATPP_Make_NanitesCPUSerum.jobString>
+  <ATPP_Make_NanitesCoolingSerum.label>Nanit yuvası üret (soğutma)</ATPP_Make_NanitesCoolingSerum.label>
+  <ATPP_Make_NanitesCoolingSerum.description>Bir androidin yaşlılığa bağlı soğutma sistemi arızalarını onarmaya olanak tanıyan soğutma nanit serumu üret.</ATPP_Make_NanitesCoolingSerum.description>
+  <ATPP_Make_NanitesCoolingSerum.jobString>Android nanit serumu üretiliyor.</ATPP_Make_NanitesCoolingSerum.jobString>
+  <ATPP_Make_NanitesFrameSerum.label>Nanit yuvası üret (iskelet)</ATPP_Make_NanitesFrameSerum.label>
+  <ATPP_Make_NanitesFrameSerum.description>Bir androidin yaşlılığa bağlı dış iskelet arızalarını onarmaya olanak tanıyan iskelet nanit serumu üret.</ATPP_Make_NanitesFrameSerum.description>
+  <ATPP_Make_NanitesFrameSerum.jobString>Android nanit serumu üretiliyor.</ATPP_Make_NanitesFrameSerum.jobString>
+  <ATPP_Make_RXChip.label>RX nöral çipi üret</ATPP_Make_RXChip.label>
+  <ATPP_Make_RXChip.description>Kişisel SkyMind aktarıcısı olarak işlev gören bir nöral çip.</ATPP_Make_RXChip.description>
+  <ATPP_Make_RXChip.jobString>RX nöral çipi üretiliyor.</ATPP_Make_RXChip.jobString>
+  <ATPP_Make_VX0Chip.label>VX0 nöral çipi üret</ATPP_Make_VX0Chip.label>
+  <ATPP_Make_VX0Chip.description>Konağını biyolojik bir vekile dönüştüren VX0 nöral çipini üret.</ATPP_Make_VX0Chip.description>
+  <ATPP_Make_VX0Chip.jobString>VX0 nöral çipi üretiliyor.</ATPP_Make_VX0Chip.jobString>
+  <ATPP_Make_VX1Chip.label>VX1 nöral çipi üret</ATPP_Make_VX1Chip.label>
+  <ATPP_Make_VX1Chip.description>Konağının herhangi bir SX serisi androidi veya biyolojik vekili uzaktan kontrol etmesini sağlayan VX1 nöral çipini üret.</ATPP_Make_VX1Chip.description>
+  <ATPP_Make_VX1Chip.jobString>VX1 nöral çipi üretiliyor.</ATPP_Make_VX1Chip.jobString>
+  <ATPP_Make_VX2Chip.label>VX2 nöral çipi üret</ATPP_Make_VX2Chip.label>
+  <ATPP_Make_VX2Chip.description>Konağının herhangi bir SX serisi androidi veya biyolojik vekili uzaktan kontrol etmesini ve zihnini kopyalamasını/değiş tokuş etmesini sağlayan VX2 nöral çipini üret.</ATPP_Make_VX2Chip.description>
+  <ATPP_Make_VX2Chip.jobString>VX2 nöral çipi üretiliyor.</ATPP_Make_VX2Chip.jobString>
+  <ATPP_Make_VX3Chip.label>VX3 nöral çipi üret</ATPP_Make_VX3Chip.label>
+  <ATPP_Make_VX3Chip.description>Konağının aynı anda birden fazla SX serisi androidi veya biyolojik vekili uzaktan kontrol etmesini ve zihnini kopyalamasını/değiş tokuş etmesini sağlayan VX3 nöral çipini üret.</ATPP_Make_VX3Chip.description>
+  <ATPP_Make_VX3Chip.jobString>VX3 nöral çipi üretiliyor.</ATPP_Make_VX3Chip.jobString>
+  <ATPP_InstallVX2Chip.label>VX2 nöral çipi tak</ATPP_InstallVX2Chip.label>
+  <ATPP_InstallVX2Chip.description>Konağının herhangi bir SX serisi androidi veya biyolojik vekili uzaktan kontrol etmesini ve zihnini kopyalamasını/değiş tokuş etmesini sağlayan bir VX2 nöral çipi tak.</ATPP_InstallVX2Chip.description>
+  <ATPP_InstallVX2Chip.jobString>VX2 nöral çipi takılıyor.</ATPP_InstallVX2Chip.jobString>
+  <ATPP_InstallVX2ChipOnAndroid.label>Android için VX2 nöral çipi tak</ATPP_InstallVX2ChipOnAndroid.label>
+  <ATPP_InstallVX2ChipOnAndroid.description>Android için, konağının herhangi bir SX serisi androidi veya biyolojik vekili uzaktan kontrol etmesini ve zihnini kopyalamasını/değiş tokuş etmesini sağlayan bir VX2 nöral çipi tak.</ATPP_InstallVX2ChipOnAndroid.description>
+  <ATPP_InstallVX2ChipOnAndroid.jobString>Android için VX2 nöral çipi takılıyor.</ATPP_InstallVX2ChipOnAndroid.jobString>
+  <ATPP_InstallVX3Chip.label>VX3 nöral çipi tak</ATPP_InstallVX3Chip.label>
+  <ATPP_InstallVX3Chip.description>Konağının aynı anda birden fazla SX serisi androidi veya biyolojik vekili uzaktan kontrol etmesini ve zihnini kopyalamasını/değiş tokuş etmesini sağlayan bir VX3 nöral çipi tak.</ATPP_InstallVX3Chip.description>
+  <ATPP_InstallVX3Chip.jobString>VX3 nöral çipi takılıyor.</ATPP_InstallVX3Chip.jobString>
+  <ATPP_InstallVX3ChipOnAndroid.label>Android için VX3 nöral çipi tak</ATPP_InstallVX3ChipOnAndroid.label>
+  <ATPP_InstallVX3ChipOnAndroid.description>Android için, konağının aynı anda birden fazla SX serisi androidi veya biyolojik vekili uzaktan kontrol etmesini ve zihnini kopyalamasını/değiş tokuş etmesini sağlayan bir VX3 nöral çipi tak.</ATPP_InstallVX3ChipOnAndroid.description>
+  <ATPP_InstallVX3ChipOnAndroid.jobString>Android için VX3 nöral çipi takılıyor.</ATPP_InstallVX3ChipOnAndroid.jobString>
+  <ATPP_InstallRXChip.label>RX nöral çipi tak</ATPP_InstallRXChip.label>
+  <ATPP_InstallRXChip.description>Konağı için kişisel SkyMind aktarıcısı olarak işlev gören bir RX nöral çipi tak.</ATPP_InstallRXChip.description>
+  <ATPP_InstallRXChip.jobString>RX nöral çipi takılıyor.</ATPP_InstallRXChip.jobString>
+  <ATPP_InstallRXChipOnAndroid.label>RX nöral çipi tak</ATPP_InstallRXChipOnAndroid.label>
+  <ATPP_InstallRXChipOnAndroid.description>Konağı için kişisel SkyMind aktarıcısı olarak işlev gören bir RX nöral çipi tak.</ATPP_InstallRXChipOnAndroid.description>
+  <ATPP_InstallRXChipOnAndroid.jobString>RX nöral çipi takılıyor.</ATPP_InstallRXChipOnAndroid.jobString>
+  <ATPP_InstallVX0ChipOnAndroid.label>Android için VX0 nöral çipi tak</ATPP_InstallVX0ChipOnAndroid.label>
+  <ATPP_InstallVX0ChipOnAndroid.description>Android için, konağını biyolojik bir vekile dönüştüren bir VX0 nöral çipi tak.</ATPP_InstallVX0ChipOnAndroid.description>
+  <ATPP_InstallVX0ChipOnAndroid.jobString>Android için VX0 nöral çipi takılıyor.</ATPP_InstallVX0ChipOnAndroid.jobString>
+  <ATPP_InstallVX0Chip.label>VX0 nöral çipi tak</ATPP_InstallVX0Chip.label>
+  <ATPP_InstallVX0Chip.description>Konağını biyolojik bir vekile dönüştüren bir VX0 nöral çipi tak.</ATPP_InstallVX0Chip.description>
+  <ATPP_InstallVX0Chip.jobString>VX0 nöral çipi takılıyor.</ATPP_InstallVX0Chip.jobString>
+  <ATPP_InstallVX1Chip.label>VX1 nöral çipi tak</ATPP_InstallVX1Chip.label>
+  <ATPP_InstallVX1Chip.description>Konağının herhangi bir SX serisi androidi veya biyolojik vekili uzaktan kontrol etmesini sağlayan bir VX1 nöral çipi tak.</ATPP_InstallVX1Chip.description>
+  <ATPP_InstallVX1Chip.jobString>VX1 nöral çipi takılıyor.</ATPP_InstallVX1Chip.jobString>
+  <ATPP_InstallVX1ChipOnAndroid.label>Android için VX1 nöral çipi tak</ATPP_InstallVX1ChipOnAndroid.label>
+  <ATPP_InstallVX1ChipOnAndroid.description>Android için, konağının herhangi bir SX serisi androidi veya biyolojik vekili uzaktan kontrol etmesini sağlayan bir VX1 nöral çipi tak.</ATPP_InstallVX1ChipOnAndroid.description>
+  <ATPP_InstallVX1ChipOnAndroid.jobString>Android için VX1 nöral çipi takılıyor.</ATPP_InstallVX1ChipOnAndroid.jobString>
+  <ATPP_CreateS1.label>T1 Vekil Android Üret (S1)</ATPP_CreateS1.label>
+  <ATPP_CreateS1.description>Plasteel ve bileşenlerden boş bir S1 androidi üret.</ATPP_CreateS1.description>
+  <ATPP_CreateS1.jobString>Bir S1 Android üretiliyor.</ATPP_CreateS1.jobString>
+  <ATPP_CreateS2.label>T2 Vekil Android Üret (S2)</ATPP_CreateS2.label>
+  <ATPP_CreateS2.description>Plasteel ve bileşenlerden boş bir S2 androidi üret.</ATPP_CreateS2.description>
+  <ATPP_CreateS2.jobString>Bir S2 Android üretiliyor.</ATPP_CreateS2.jobString>
+  <ATPP_CreateS3.label>T3 Vekil Android Üret (S3)</ATPP_CreateS3.label>
+  <ATPP_CreateS3.description>Plasteel ve bileşenlerden boş bir S3 androidi üret.</ATPP_CreateS3.description>
+  <ATPP_CreateS3.jobString>Bir S3 Android üretiliyor.</ATPP_CreateS3.jobString>
+  <ATPP_CreateS4.label>T4 Vekil Android Üret (S4)</ATPP_CreateS4.label>
+  <ATPP_CreateS4.description>Plasteel ve bileşenlerden boş bir S4 androidi üret.</ATPP_CreateS4.description>
+  <ATPP_CreateS4.jobString>Bir S4 Android üretiliyor.</ATPP_CreateS4.jobString>
+  <ATPP_CreateHellDrone.label>HellUnit Vekil Android Üret (S-HU)</ATPP_CreateHellDrone.label>
+  <ATPP_CreateHellDrone.description>Plasteel ve bileşenlerden boş bir S-HU androidi üret.</ATPP_CreateHellDrone.description>
+  <ATPP_CreateHellDrone.jobString>Bir S-HU Android üretiliyor.</ATPP_CreateHellDrone.jobString>
+  <ATPP_CreateM7.label>M7 Vekil Mekanoid Üret (SM7)</ATPP_CreateM7.label>
+  <ATPP_CreateM7.description>Plasteel ve bileşenlerden boş bir SM7 mekanoidi üret.</ATPP_CreateM7.description>
+  <ATPP_CreateM7.jobString>SM7 Mekanoidi üretiliyor.</ATPP_CreateM7.jobString>
+  <ATPP_CreateBlankT3.label>Boş nöral ağlı T3 Android üret</ATPP_CreateBlankT3.label>
+  <ATPP_CreateBlankT3.description>Boş nöral ağlı T3 Android üret</ATPP_CreateBlankT3.description>
+  <ATPP_CreateBlankT3.jobString>Boş nöral ağlı T3 Android üretiliyor</ATPP_CreateBlankT3.jobString>
+  <ATPP_CreateBlankT4.label>Boş nöral ağlı T4 Android üret</ATPP_CreateBlankT4.label>
+  <ATPP_CreateBlankT4.description>Boş nöral ağlı T4 Android üret</ATPP_CreateBlankT4.description>
+  <ATPP_CreateBlankT4.jobString>Boş nöral ağlı T4 Android üretiliyor</ATPP_CreateBlankT4.jobString>
+  <ATPP_Make_SM7Mech40MMCannon.label>40mm Top Üret (SM7 Silahı)</ATPP_Make_SM7Mech40MMCannon.label>
+  <ATPP_Make_SM7Mech40MMCannon.description>40mm Top Üret (SM7 Silahı)</ATPP_Make_SM7Mech40MMCannon.description>
+  <ATPP_Make_SM7Mech40MMCannon.jobString>40mm Top Üretiliyor (SM7 Silahı)</ATPP_Make_SM7Mech40MMCannon.jobString>
+  <ATPP_Make_SM7MechMastiffGun.label>Mastiff Pompalı Tüfek Üret (SM7 Silahı)</ATPP_Make_SM7MechMastiffGun.label>
+  <ATPP_Make_SM7MechMastiffGun.description>Mastiff Pompalı Tüfek Üret (SM7 Silahı)</ATPP_Make_SM7MechMastiffGun.description>
+  <ATPP_Make_SM7MechMastiffGun.jobString>Mastiff Pompalı Tüfek Üretiliyor (SM7 Silahı)</ATPP_Make_SM7MechMastiffGun.jobString>
+  <ATPP_Make_SM7MechHandCannon.label>X-5 El Topu Üret (SM7 Silahı)</ATPP_Make_SM7MechHandCannon.label>
+  <ATPP_Make_SM7MechHandCannon.description>X-5 El Topu Üret (SM7 Silahı)</ATPP_Make_SM7MechHandCannon.description>
+  <ATPP_Make_SM7MechHandCannon.jobString>X-5 El Topu Üretiliyor (SM7 Silahı)</ATPP_Make_SM7MechHandCannon.jobString>
+  <ATPP_PaintAndroidFrameworkKhaki.label>Androidin iskeletini haki boya</ATPP_PaintAndroidFrameworkKhaki.label>
+  <ATPP_PaintAndroidFrameworkKhaki.description>Androidin iskeletini haki boya</ATPP_PaintAndroidFrameworkKhaki.description>
+  <ATPP_PaintAndroidFrameworkKhaki.jobString>Androidin iskeleti haki boyanıyor</ATPP_PaintAndroidFrameworkKhaki.jobString>
+  <ATPP_PaintAndroidFrameworkGreen.label>Androidin iskeletini yeşil boya</ATPP_PaintAndroidFrameworkGreen.label>
+  <ATPP_PaintAndroidFrameworkGreen.description>Androidin iskeletini yeşil boya</ATPP_PaintAndroidFrameworkGreen.description>
+  <ATPP_PaintAndroidFrameworkGreen.jobString>Androidin iskeleti yeşil boyanıyor</ATPP_PaintAndroidFrameworkGreen.jobString>
+  <ATPP_PaintAndroidFrameworkBlue.label>Androidin iskeletini mavi boya</ATPP_PaintAndroidFrameworkBlue.label>
+  <ATPP_PaintAndroidFrameworkBlue.description>Androidin iskeletini mavi boya</ATPP_PaintAndroidFrameworkBlue.description>
+  <ATPP_PaintAndroidFrameworkBlue.jobString>Androidin iskeleti mavi boyanıyor</ATPP_PaintAndroidFrameworkBlue.jobString>
+  <ATPP_PaintAndroidFrameworkRed.label>Androidin iskeletini kırmızı boya</ATPP_PaintAndroidFrameworkRed.label>
+  <ATPP_PaintAndroidFrameworkRed.description>Androidin iskeletini kırmızı boya</ATPP_PaintAndroidFrameworkRed.description>
+  <ATPP_PaintAndroidFrameworkRed.jobString>Androidin iskeleti kırmızı boyanıyor</ATPP_PaintAndroidFrameworkRed.jobString>
+  <ATPP_PaintAndroidFrameworkYellow.label>Androidin iskeletini sarı boya</ATPP_PaintAndroidFrameworkYellow.label>
+  <ATPP_PaintAndroidFrameworkYellow.description>Androidin iskeletini sarı boya</ATPP_PaintAndroidFrameworkYellow.description>
+  <ATPP_PaintAndroidFrameworkYellow.jobString>Androidin iskeleti sarı boyanıyor</ATPP_PaintAndroidFrameworkYellow.jobString>
+  <ATPP_PaintAndroidFrameworkOrange.label>Androidin iskeletini turuncu boya</ATPP_PaintAndroidFrameworkOrange.label>
+  <ATPP_PaintAndroidFrameworkOrange.description>Androidin iskeletini turuncu boya</ATPP_PaintAndroidFrameworkOrange.description>
+  <ATPP_PaintAndroidFrameworkOrange.jobString>Androidin iskeleti turuncu boyanıyor</ATPP_PaintAndroidFrameworkOrange.jobString>
+  <ATPP_PaintAndroidFrameworkBlack.label>Androidin iskeletini siyah boya</ATPP_PaintAndroidFrameworkBlack.label>
+  <ATPP_PaintAndroidFrameworkBlack.description>Androidin iskeletini siyah boya</ATPP_PaintAndroidFrameworkBlack.description>
+  <ATPP_PaintAndroidFrameworkBlack.jobString>Androidin iskeleti siyah boyanıyor</ATPP_PaintAndroidFrameworkBlack.jobString>
+  <ATPP_PaintAndroidFrameworkWhite.label>Androidin iskeletini beyaz boya</ATPP_PaintAndroidFrameworkWhite.label>
+  <ATPP_PaintAndroidFrameworkWhite.description>Androidin iskeletini beyaz boya</ATPP_PaintAndroidFrameworkWhite.description>
+  <ATPP_PaintAndroidFrameworkWhite.jobString>Androidin iskeleti beyaz boyanıyor</ATPP_PaintAndroidFrameworkWhite.jobString>
+  <ATPP_PaintAndroidFrameworkGray.label>Androidin iskeletini gri boya</ATPP_PaintAndroidFrameworkGray.label>
+  <ATPP_PaintAndroidFrameworkGray.description>Androidin iskeletini gri boya</ATPP_PaintAndroidFrameworkGray.description>
+  <ATPP_PaintAndroidFrameworkGray.jobString>Androidin iskeleti gri boyanıyor</ATPP_PaintAndroidFrameworkGray.jobString>
+  <ATPP_PaintAndroidFrameworkPurple.label>Androidin iskeletini mor boya</ATPP_PaintAndroidFrameworkPurple.label>
+  <ATPP_PaintAndroidFrameworkPurple.description>Androidin iskeletini mor boya</ATPP_PaintAndroidFrameworkPurple.description>
+  <ATPP_PaintAndroidFrameworkPurple.jobString>Androidin iskeleti mor boyanıyor</ATPP_PaintAndroidFrameworkPurple.jobString>
+  <ATPP_PaintAndroidFrameworkPink.label>Androidin iskeletini pembe boya</ATPP_PaintAndroidFrameworkPink.label>
+  <ATPP_PaintAndroidFrameworkPink.description>Androidin iskeletini pembe boya</ATPP_PaintAndroidFrameworkPink.description>
+  <ATPP_PaintAndroidFrameworkPink.jobString>Androidin iskeleti pembe boyanıyor</ATPP_PaintAndroidFrameworkPink.jobString>
+  <ATPP_PaintAndroidFrameworkCyan.label>Androidin iskeletini camgöbeği boya</ATPP_PaintAndroidFrameworkCyan.label>
+  <ATPP_PaintAndroidFrameworkCyan.description>Androidin iskeletini camgöbeği boya</ATPP_PaintAndroidFrameworkCyan.description>
+  <ATPP_PaintAndroidFrameworkCyan.jobString>Androidin iskeleti camgöbeği boyanıyor</ATPP_PaintAndroidFrameworkCyan.jobString>
+  <ATPP_PaintAndroidFrameworkDefault.label>Androidin iskeletini varsayılan renge boya</ATPP_PaintAndroidFrameworkDefault.label>
+  <ATPP_PaintAndroidFrameworkDefault.description>Androidin iskeletini varsayılan renge boya</ATPP_PaintAndroidFrameworkDefault.description>
+  <ATPP_PaintAndroidFrameworkDefault.jobString>Androidin iskeleti varsayılan renge boyanıyor</ATPP_PaintAndroidFrameworkDefault.jobString>
+  <ATPP_ApplyHydraulicNaniteBank.label>Hidrolik nanit bankası uygula</ATPP_ApplyHydraulicNaniteBank.label>
+  <ATPP_ApplyHydraulicNaniteBank.description>Bozuk android hidrolik sistemlerini onarmak için ayarlanmış tek kullanımlık bir doz nanit uygula.</ATPP_ApplyHydraulicNaniteBank.description>
+  <ATPP_ApplyHydraulicNaniteBank.jobString>Nanit serumu ile android yaşlılık sorunları gideriliyor</ATPP_ApplyHydraulicNaniteBank.jobString>
+  <ATPP_ApplyHealFrameworkSystem.label>İskelet nanit bankası uygula</ATPP_ApplyHealFrameworkSystem.label>
+  <ATPP_ApplyHealFrameworkSystem.description>Bozuk android dış iskeletini onarmak için ayarlanmış tek kullanımlık bir nanit bankası uygula.</ATPP_ApplyHealFrameworkSystem.description>
+  <ATPP_ApplyHealFrameworkSystem.jobString>Nanit serumu ile android yaşlılık sorunları gideriliyor</ATPP_ApplyHealFrameworkSystem.jobString>
+  <ATPP_ApplyHealCoolingSystem.label>Soğutma nanit bankası uygula</ATPP_ApplyHealCoolingSystem.label>
+  <ATPP_ApplyHealCoolingSystem.description>Aşırı ısınma durumunda bozuk android soğutma sistemini onarmak için ayarlanmış tek kullanımlık bir nanit bankası uygula.</ATPP_ApplyHealCoolingSystem.description>
+  <ATPP_ApplyHealCoolingSystem.jobString>Nanit serumu ile android yaşlılık sorunları gideriliyor</ATPP_ApplyHealCoolingSystem.jobString>
+  <ATPP_ApplyHealCPUSerum.label>CPU nanit bankası uygula</ATPP_ApplyHealCPUSerum.label>
+  <ATPP_ApplyHealCPUSerum.description>Bozuk android yapay beyin sistemini onarmak için ayarlanmış tek kullanımlık bir nanit bankası uygula.</ATPP_ApplyHealCPUSerum.description>
+  <ATPP_ApplyHealCPUSerum.jobString>Nanit serumu ile android yaşlılık sorunları gideriliyor</ATPP_ApplyHealCPUSerum.jobString>
+  <ATPP_Make_T1ArtificialBrain.label>T1 yapay beyin üret</ATPP_Make_T1ArtificialBrain.label>
+  <ATPP_Make_T1ArtificialBrain.description>Bir vekili boş nöral ağlı androide dönüştürmek için T1 yapay beyin üret.</ATPP_Make_T1ArtificialBrain.description>
+  <ATPP_Make_T1ArtificialBrain.jobString>T1 yapay beyin üretiliyor.</ATPP_Make_T1ArtificialBrain.jobString>
+  <ATPP_Make_T2ArtificialBrain.label>T2 yapay beyin üret</ATPP_Make_T2ArtificialBrain.label>
+  <ATPP_Make_T2ArtificialBrain.description>Bir vekili boş nöral ağlı androide dönüştürmek için T2 yapay beyin üret.</ATPP_Make_T2ArtificialBrain.description>
+  <ATPP_Make_T2ArtificialBrain.jobString>T2 yapay beyin üretiliyor.</ATPP_Make_T2ArtificialBrain.jobString>
+  <ATPP_Make_T3ArtificialBrain.label>T3 yapay beyin üret</ATPP_Make_T3ArtificialBrain.label>
+  <ATPP_Make_T3ArtificialBrain.description>Bir vekili boş nöral ağlı androide dönüştürmek için T3 yapay beyin üret.</ATPP_Make_T3ArtificialBrain.description>
+  <ATPP_Make_T3ArtificialBrain.jobString>T3 yapay beyin üretiliyor.</ATPP_Make_T3ArtificialBrain.jobString>
+  <ATPP_Make_T4ArtificialBrain.label>T4 yapay beyin üret</ATPP_Make_T4ArtificialBrain.label>
+  <ATPP_Make_T4ArtificialBrain.description>Bir vekili boş nöral ağlı androide dönüştürmek için T4 yapay beyin üret.</ATPP_Make_T4ArtificialBrain.description>
+  <ATPP_Make_T4ArtificialBrain.jobString>T4 yapay beyin üretiliyor.</ATPP_Make_T4ArtificialBrain.jobString>
+  <ATPP_InstallT1ArtificialBrain.label>T1 yapay beyin tak</ATPP_InstallT1ArtificialBrain.label>
+  <ATPP_InstallT1ArtificialBrain.description>Bir T1 vekili boş nöral ağlı androide dönüştürmeyi sağlayan bir T1 yapay beyin tak</ATPP_InstallT1ArtificialBrain.description>
+  <ATPP_InstallT1ArtificialBrain.jobString>T1 yapay beyin takılıyor.</ATPP_InstallT1ArtificialBrain.jobString>
+  <ATPP_InstallT2ArtificialBrain.label>T2 yapay beyin tak</ATPP_InstallT2ArtificialBrain.label>
+  <ATPP_InstallT2ArtificialBrain.description>Bir T2 vekili boş nöral ağlı androide dönüştürmeyi sağlayan bir T2 yapay beyin tak</ATPP_InstallT2ArtificialBrain.description>
+  <ATPP_InstallT2ArtificialBrain.jobString>T2 yapay beyin takılıyor.</ATPP_InstallT2ArtificialBrain.jobString>
+  <ATPP_InstallT3ArtificialBrain.label>T3 yapay beyin tak</ATPP_InstallT3ArtificialBrain.label>
+  <ATPP_InstallT3ArtificialBrain.description>Bir T3 vekili boş nöral ağlı androide dönüştürmeyi sağlayan bir T3 yapay beyin tak</ATPP_InstallT3ArtificialBrain.description>
+  <ATPP_InstallT3ArtificialBrain.jobString>T3 yapay beyin takılıyor.</ATPP_InstallT3ArtificialBrain.jobString>
+  <ATPP_InstallT4ArtificialBrain.label>T4 yapay beyin tak</ATPP_InstallT4ArtificialBrain.label>
+  <ATPP_InstallT4ArtificialBrain.description>Bir T4 vekili boş nöral ağlı androide dönüştürmeyi sağlayan bir T4 yapay beyin tak</ATPP_InstallT4ArtificialBrain.description>
+  <ATPP_InstallT4ArtificialBrain.jobString>T4 yapay beyin takılıyor.</ATPP_InstallT4ArtificialBrain.jobString>
+  <ATPP_CreateSX2.label>TX2 erkek Vekil Android Üret (SX2)</ATPP_CreateSX2.label>
+  <ATPP_CreateSX2.description>Plasteel ve bileşenlerden boş bir SX2 erkek androidi üret.</ATPP_CreateSX2.description>
+  <ATPP_CreateSX2.jobString>Bir SX2 Android üretiliyor.</ATPP_CreateSX2.jobString>
+  <ATPP_CreateSX2Female.label>TX2 kadın Vekil Android Üret (SX2)</ATPP_CreateSX2Female.label>
+  <ATPP_CreateSX2Female.description>Plasteel ve bileşenlerden boş bir SX2 kadın androidi üret.</ATPP_CreateSX2Female.description>
+  <ATPP_CreateSX2Female.jobString>Bir SX2 Android üretiliyor.</ATPP_CreateSX2Female.jobString>
+  <ATPP_CreateSX3.label>TX3 erkek Vekil Android Üret (SX3)</ATPP_CreateSX3.label>
+  <ATPP_CreateSX3.description>Plasteel ve bileşenlerden boş bir SX3 erkek androidi üret.</ATPP_CreateSX3.description>
+  <ATPP_CreateSX3.jobString>Bir SX3 Android üretiliyor.</ATPP_CreateSX3.jobString>
+  <ATPP_CreateSX3Female.label>TX3 kadın Vekil Android Üret (SX3)</ATPP_CreateSX3Female.label>
+  <ATPP_CreateSX3Female.description>Plasteel ve bileşenlerden boş bir SX3 kadın androidi üret.</ATPP_CreateSX3Female.description>
+  <ATPP_CreateSX3Female.jobString>Bir SX3 Android üretiliyor.</ATPP_CreateSX3Female.jobString>
+  <ATPP_CreateSX4.label>TX4 Vekil Android Üret (SX4)</ATPP_CreateSX4.label>
+  <ATPP_CreateSX4.description>Plasteel ve bileşenlerden boş bir SX4 androidi üret.</ATPP_CreateSX4.description>
+  <ATPP_CreateSX4.jobString>Bir SX4 Android üretiliyor.</ATPP_CreateSX4.jobString>
+  <ATPP_CreateSX4Female.label>TX4 kadın Vekil Android Üret (SX4)</ATPP_CreateSX4Female.label>
+  <ATPP_CreateSX4Female.description>Plasteel ve bileşenlerden boş bir SX4 kadın androidi üret.</ATPP_CreateSX4Female.description>
+  <ATPP_CreateSX4Female.jobString>Bir SX4 Android üretiliyor.</ATPP_CreateSX4Female.jobString>
+  <ATPP_CreateSX2I.label>TX2I erkek Vekil Android Üret (SX2I)</ATPP_CreateSX2I.label>
+  <ATPP_CreateSX2I.description>Plasteel ve bileşenlerden boş bir SX2I erkek androidi üret.</ATPP_CreateSX2I.description>
+  <ATPP_CreateSX2I.jobString>Bir SX2I Android üretiliyor.</ATPP_CreateSX2I.jobString>
+  <ATPP_CreateSX2IFemale.label>TX2I kadın Vekil Android Üret (SX2I)</ATPP_CreateSX2IFemale.label>
+  <ATPP_CreateSX2IFemale.description>Plasteel ve bileşenlerden boş bir SX2I kadın androidi üret.</ATPP_CreateSX2IFemale.description>
+  <ATPP_CreateSX2IFemale.jobString>Bir SX2I Android üretiliyor.</ATPP_CreateSX2IFemale.jobString>
+  <ATPP_CreateSX2K.label>TX2K erkek Vekil Android Üret (SX2K)</ATPP_CreateSX2K.label>
+  <ATPP_CreateSX2K.description>Plasteel ve bileşenlerden boş bir SX2K erkek androidi üret.</ATPP_CreateSX2K.description>
+  <ATPP_CreateSX2K.jobString>Bir SX2K Android üretiliyor.</ATPP_CreateSX2K.jobString>
+  <ATPP_CreateSX2KFemale.label>TX2K kadın Vekil Android Üret (SX2K)</ATPP_CreateSX2KFemale.label>
+  <ATPP_CreateSX2KFemale.description>Plasteel ve bileşenlerden boş bir SX2K kadın androidi üret.</ATPP_CreateSX2KFemale.description>
+  <ATPP_CreateSX2KFemale.jobString>Bir SX2K Android üretiliyor.</ATPP_CreateSX2KFemale.jobString>
+  <ATPP_CreateSX2KI.label>TX2KI Vekil Android Üret (SX2KI)</ATPP_CreateSX2KI.label>
+  <ATPP_CreateSX2KI.description>Plasteel ve bileşenlerden boş bir SX2KI androidi üret.</ATPP_CreateSX2KI.description>
+  <ATPP_CreateSX2KI.jobString>Bir SX2KI Android üretiliyor.</ATPP_CreateSX2KI.jobString>
+  <ATPP_CreateSX2KIFemale.label>TX2KI kadın Vekil Android Üret (SX2KI)</ATPP_CreateSX2KIFemale.label>
+  <ATPP_CreateSX2KIFemale.description>Plasteel ve bileşenlerden boş bir SX2KI kadın androidi üret.</ATPP_CreateSX2KIFemale.description>
+  <ATPP_CreateSX2KIFemale.jobString>Kadın bir SX2KI Android üretiliyor.</ATPP_CreateSX2KIFemale.jobString>
+  <ATPP_CreateSX3I.label>TX3I erkek Vekil Android Üret (SX3I)</ATPP_CreateSX3I.label>
+  <ATPP_CreateSX3I.description>Plasteel ve bileşenlerden boş bir SX3I erkek androidi üret.</ATPP_CreateSX3I.description>
+  <ATPP_CreateSX3I.jobString>Bir SX3I Android üretiliyor.</ATPP_CreateSX3I.jobString>
+  <ATPP_CreateSX3IFemale.label>TX3I kadın Vekil Android Üret (SX3I)</ATPP_CreateSX3IFemale.label>
+  <ATPP_CreateSX3IFemale.description>Plasteel ve bileşenlerden boş bir SX3I kadın androidi üret.</ATPP_CreateSX3IFemale.description>
+  <ATPP_CreateSX3IFemale.jobString>Bir SX3I Android üretiliyor.</ATPP_CreateSX3IFemale.jobString>
+  <ATPP_CreateSX4I.label>TX4I Vekil Android Üret (SX4I)</ATPP_CreateSX4I.label>
+  <ATPP_CreateSX4I.description>Plasteel ve bileşenlerden boş bir SX4I androidi üret.</ATPP_CreateSX4I.description>
+  <ATPP_CreateSX4I.jobString>Bir SX4I Android üretiliyor.</ATPP_CreateSX4I.jobString>
+  <ATPP_CreateSX4IFemale.label>TX4I kadın Vekil Android Üret (SX4I)</ATPP_CreateSX4IFemale.label>
+  <ATPP_CreateSX4IFemale.description>Plasteel ve bileşenlerden boş bir SX4I kadın androidi üret.</ATPP_CreateSX4IFemale.description>
+  <ATPP_CreateSX4IFemale.jobString>Bir SX4I Android üretiliyor.</ATPP_CreateSX4IFemale.jobString>
+  <ATPP_CreateTX4Android.label>TX4 erkek Android Üret</ATPP_CreateTX4Android.label>
+  <ATPP_CreateTX4Android.description>TX4 erkek Android Üret</ATPP_CreateTX4Android.description>
+  <ATPP_CreateTX4Android.jobString>Bir TX4 Android üretiliyor</ATPP_CreateTX4Android.jobString>
+  <ATPP_CreateTX4FemaleAndroid.label>TX4 kadın Android Üret</ATPP_CreateTX4FemaleAndroid.label>
+  <ATPP_CreateTX4FemaleAndroid.description>TX4 kadın Android Üret</ATPP_CreateTX4FemaleAndroid.description>
+  <ATPP_CreateTX4FemaleAndroid.jobString>Bir TX4 Android üretiliyor</ATPP_CreateTX4FemaleAndroid.jobString>
+  <ATPP_CreateTX3Android.label>TX3 erkek Android Üret</ATPP_CreateTX3Android.label>
+  <ATPP_CreateTX3Android.description>TX3 erkek Android Üret</ATPP_CreateTX3Android.description>
+  <ATPP_CreateTX3Android.jobString>Bir TX3 Android üretiliyor</ATPP_CreateTX3Android.jobString>
+  <ATPP_CreateTX3FemaleAndroid.label>TX3 kadın Android Üret</ATPP_CreateTX3FemaleAndroid.label>
+  <ATPP_CreateTX3FemaleAndroid.description>TX3 kadın Android Üret</ATPP_CreateTX3FemaleAndroid.description>
+  <ATPP_CreateTX3FemaleAndroid.jobString>Bir TX3 Android üretiliyor</ATPP_CreateTX3FemaleAndroid.jobString>
+  <ATPP_CreateTX2Android.label>TX2 erkek Android Üret</ATPP_CreateTX2Android.label>
+  <ATPP_CreateTX2Android.description>TX2 erkek Android Üret</ATPP_CreateTX2Android.description>
+  <ATPP_CreateTX2Android.jobString>Bir TX2 Android üretiliyor</ATPP_CreateTX2Android.jobString>
+  <ATPP_CreateTX2FemaleAndroid.label>TX2 kadın Android Üret</ATPP_CreateTX2FemaleAndroid.label>
+  <ATPP_CreateTX2FemaleAndroid.description>TX2 kadın Android Üret</ATPP_CreateTX2FemaleAndroid.description>
+  <ATPP_CreateTX2FemaleAndroid.jobString>Bir TX2 Android üretiliyor</ATPP_CreateTX2FemaleAndroid.jobString>
+  <ATPP_CreateTX4IAndroid.label>TX4I erkek Android Üret</ATPP_CreateTX4IAndroid.label>
+  <ATPP_CreateTX4IAndroid.description>TX4I erkek Android Üret</ATPP_CreateTX4IAndroid.description>
+  <ATPP_CreateTX4IAndroid.jobString>Bir TX4I Android üretiliyor</ATPP_CreateTX4IAndroid.jobString>
+  <ATPP_CreateTX4IFemaleAndroid.label>TX4I kadın Android Üret</ATPP_CreateTX4IFemaleAndroid.label>
+  <ATPP_CreateTX4IFemaleAndroid.description>TX4I kadın Android Üret</ATPP_CreateTX4IFemaleAndroid.description>
+  <ATPP_CreateTX4IFemaleAndroid.jobString>Bir TX4I Android üretiliyor</ATPP_CreateTX4IFemaleAndroid.jobString>
+  <ATPP_CreateTX3IAndroid.label>TX3I erkek Android Üret</ATPP_CreateTX3IAndroid.label>
+  <ATPP_CreateTX3IAndroid.description>TX3I erkek Android Üret</ATPP_CreateTX3IAndroid.description>
+  <ATPP_CreateTX3IAndroid.jobString>Bir TX3I Android üretiliyor</ATPP_CreateTX3IAndroid.jobString>
+  <ATPP_CreateTX3IFemaleAndroid.label>TX3I kadın Android Üret</ATPP_CreateTX3IFemaleAndroid.label>
+  <ATPP_CreateTX3IFemaleAndroid.description>TX3I kadın Android Üret</ATPP_CreateTX3IFemaleAndroid.description>
+  <ATPP_CreateTX3IFemaleAndroid.jobString>Bir TX3I Android üretiliyor</ATPP_CreateTX3IFemaleAndroid.jobString>
+  <ATPP_CreateTX2IAndroid.label>TX2I erkek Android Üret</ATPP_CreateTX2IAndroid.label>
+  <ATPP_CreateTX2IAndroid.description>TX2I erkek Android Üret</ATPP_CreateTX2IAndroid.description>
+  <ATPP_CreateTX2IAndroid.jobString>Bir TX2I Android üretiliyor</ATPP_CreateTX2IAndroid.jobString>
+  <ATPP_CreateTX2IFemaleAndroid.label>TX2I kadın Android Üret</ATPP_CreateTX2IFemaleAndroid.label>
+  <ATPP_CreateTX2IFemaleAndroid.description>TX2I kadın Android Üret</ATPP_CreateTX2IFemaleAndroid.description>
+  <ATPP_CreateTX2IFemaleAndroid.jobString>Bir TX2I Android üretiliyor</ATPP_CreateTX2IFemaleAndroid.jobString>
+  <ATPP_CreateTX2KAndroid.label>TX2K erkek Android Üret</ATPP_CreateTX2KAndroid.label>
+  <ATPP_CreateTX2KAndroid.description>TX2K erkek Android Üret</ATPP_CreateTX2KAndroid.description>
+  <ATPP_CreateTX2KAndroid.jobString>Bir TX2K Android üretiliyor</ATPP_CreateTX2KAndroid.jobString>
+  <ATPP_CreateTX2KFemaleAndroid.label>TX2K kadın Android Üret</ATPP_CreateTX2KFemaleAndroid.label>
+  <ATPP_CreateTX2KFemaleAndroid.description>TX2K kadın Android Üret</ATPP_CreateTX2KFemaleAndroid.description>
+  <ATPP_CreateTX2KFemaleAndroid.jobString>Bir TX2K Android üretiliyor</ATPP_CreateTX2KFemaleAndroid.jobString>
+  <ATPP_CreateTX2KIAndroid.label>TX2KI Android Üret</ATPP_CreateTX2KIAndroid.label>
+  <ATPP_CreateTX2KIAndroid.description>TX2KI Android Üret</ATPP_CreateTX2KIAndroid.description>
+  <ATPP_CreateTX2KIAndroid.jobString>Bir TX2KI Android üretiliyor</ATPP_CreateTX2KIAndroid.jobString>
+  <ATPP_CreateTX2KIFemaleAndroid.label>TX2KI kadın Android Üret</ATPP_CreateTX2KIFemaleAndroid.label>
+  <ATPP_CreateTX2KIFemaleAndroid.description>TX2KI kadın Android Üret</ATPP_CreateTX2KIFemaleAndroid.description>
+  <ATPP_CreateTX2KIFemaleAndroid.jobString>Bir TX2KI Android üretiliyor</ATPP_CreateTX2KIFemaleAndroid.jobString>
+  <ATPP_MakeSyntheticSkinGland.label>deri bezi sentezle</ATPP_MakeSyntheticSkinGland.label>
+  <ATPP_MakeSyntheticSkinGland.description>Hidrokarbon kimyakıt, nötroamin koruyucu çözeltisi, ilaç ve dokuma tekstil iskeleleri kullanarak yapay bir deri bezi sentezle.</ATPP_MakeSyntheticSkinGland.description>
+  <ATPP_MakeSyntheticSkinGland.jobString>Deri bezi sentezleniyor.</ATPP_MakeSyntheticSkinGland.jobString>
+  <ATPP_GestateSyntheticSkinGland_Biotech.label>sentetik deri bezi geliştir</ATPP_GestateSyntheticSkinGland_Biotech.label>
+  <ATPP_GestateSyntheticSkinGland_Biotech.description>Bir Android Üretim Tankında Biotech hemojenik çözeltisi, hücresel besinler ve tıbbi dengeleyiciler kullanarak TX serisi sızma birimleri için canlı bir sentetik deri bezi matrisi geliştir.</ATPP_GestateSyntheticSkinGland_Biotech.description>
+  <ATPP_GestateSyntheticSkinGland_Biotech.jobString>Sentetik deri bezi geliştiriliyor.</ATPP_GestateSyntheticSkinGland_Biotech.jobString>
+  <ATPP_QE_GrowSyntheticSkinGland.label>sentetik deri bezi yetiştir</ATPP_QE_GrowSyntheticSkinGland.label>
+  <ATPP_QE_GrowSyntheticSkinGland.description>Organik besinler ve kimyasal dengeleyiciler kullanarak Questionable Ethics organ tankının içinde canlı bir biyo-sentetik deri bezi matrisi yetiştir.</ATPP_QE_GrowSyntheticSkinGland.description>
+  <ATPP_QE_GrowSyntheticSkinGland.jobString>Sentetik deri bezi yetiştiriliyor.</ATPP_QE_GrowSyntheticSkinGland.jobString>
+  <ATPP_ApplySyntheticSkin.label>sentetik deri naklet</ATPP_ApplySyntheticSkin.label>
+  <ATPP_ApplySyntheticSkin.description>Bu TX piyade şasisine sentetik bir dermal matris naklederek açıkta kalan mekanik iç iskeleti insan benzeri canlı sentetik deriyle kaplar. Bu işlem sosyal kabulü ve ısı yalıtımını artırırken yağmurda paslanmayı önler, ancak yanıcılığı yükseltir.</ATPP_ApplySyntheticSkin.description>
+  <ATPP_ApplySyntheticSkin.jobString>Androide sentetik deri naklediliyor.</ATPP_ApplySyntheticSkin.jobString>
+  <ATPP_RemoveSyntheticSkin.label>sentetik deriyi soy</ATPP_RemoveSyntheticSkin.label>
+  <ATPP_RemoveSyntheticSkin.description>Bu TX sızma birimindeki sentetik deri katmanını cerrahi olarak soyarak altındaki güçlendirilmiş piyade iç iskeletini açığa çıkarır. Android sosyal çekiciliğini kaybeder ancak ateş bağışıklığı ve savaş alanı dayanıklılığı kazanır.</ATPP_RemoveSyntheticSkin.description>
+  <ATPP_RemoveSyntheticSkin.jobString>Androidden sentetik deri soyuluyor.</ATPP_RemoveSyntheticSkin.jobString>
+  <ATPP_QE_CreateTX2KMale.label>TX2K erkek iskeleti monte et (QEE tankı)</ATPP_QE_CreateTX2KMale.label>
+  <ATPP_QE_CreateTX2KMale.description>Organ tankı inkübasyonu için genom dizisi olarak kodlanmış devre dışı bir erkek TX2K dış iskeleti monte et.</ATPP_QE_CreateTX2KMale.description>
+  <ATPP_QE_CreateTX2KMale.jobString>Android Üretiliyor</ATPP_QE_CreateTX2KMale.jobString>
+  <ATPP_QE_CreateTX2KFemale.label>TX2K kadın iskeleti monte et (QEE tankı)</ATPP_QE_CreateTX2KFemale.label>
+  <ATPP_QE_CreateTX2KFemale.description>Organ tankı inkübasyonu için genom dizisi olarak kodlanmış devre dışı bir kadın TX2K dış iskeleti monte et.</ATPP_QE_CreateTX2KFemale.description>
+  <ATPP_QE_CreateTX2KFemale.jobString>Android Üretiliyor</ATPP_QE_CreateTX2KFemale.jobString>
+  <ATPP_QE_CreateSX2KMaleSurrogate.label>SX2K erkek vekil iskeleti monte et (QEE tankı)</ATPP_QE_CreateSX2KMaleSurrogate.label>
+  <ATPP_QE_CreateSX2KMaleSurrogate.description>Organ tankı inkübasyonu için genom dizisi olarak kodlanmış devre dışı bir erkek TX2K vekil dış iskeleti monte et.</ATPP_QE_CreateSX2KMaleSurrogate.description>
+  <ATPP_QE_CreateSX2KMaleSurrogate.jobString>Android Üretiliyor</ATPP_QE_CreateSX2KMaleSurrogate.jobString>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.label>SX2K kadın vekil iskeleti monte et (QEE tankı)</ATPP_QE_CreateSX2KFemaleSurrogate.label>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.description>Organ tankı inkübasyonu için genom dizisi olarak kodlanmış devre dışı bir kadın TX2K vekil dış iskeleti monte et.</ATPP_QE_CreateSX2KFemaleSurrogate.description>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.jobString>Android Üretiliyor</ATPP_QE_CreateSX2KFemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX3Male.label>TX3 erkek iskeleti monte et (QEE tankı)</ATPP_QE_CreateTX3Male.label>
+  <ATPP_QE_CreateTX3Male.description>Organ tankı inkübasyonu için genom dizisi olarak kodlanmış devre dışı bir erkek TX3 dış iskeleti monte et.</ATPP_QE_CreateTX3Male.description>
+  <ATPP_QE_CreateTX3Male.jobString>Android Üretiliyor</ATPP_QE_CreateTX3Male.jobString>
+  <ATPP_QE_CreateTX3Female.label>TX3 kadın iskeleti monte et (QEE tankı)</ATPP_QE_CreateTX3Female.label>
+  <ATPP_QE_CreateTX3Female.description>Organ tankı inkübasyonu için genom dizisi olarak kodlanmış devre dışı bir kadın TX3 dış iskeleti monte et.</ATPP_QE_CreateTX3Female.description>
+  <ATPP_QE_CreateTX3Female.jobString>Android Üretiliyor</ATPP_QE_CreateTX3Female.jobString>
+  <ATPP_QE_CreateSX3MaleSurrogate.label>SX3 erkek vekil iskeleti monte et (QEE tankı)</ATPP_QE_CreateSX3MaleSurrogate.label>
+  <ATPP_QE_CreateSX3MaleSurrogate.description>Organ tankı inkübasyonu için genom dizisi olarak kodlanmış devre dışı bir erkek TX3 vekil dış iskeleti monte et.</ATPP_QE_CreateSX3MaleSurrogate.description>
+  <ATPP_QE_CreateSX3MaleSurrogate.jobString>Android Üretiliyor</ATPP_QE_CreateSX3MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX3FemaleSurrogate.label>SX3 kadın vekil iskeleti monte et (QEE tankı)</ATPP_QE_CreateSX3FemaleSurrogate.label>
+  <ATPP_QE_CreateSX3FemaleSurrogate.description>Organ tankı inkübasyonu için genom dizisi olarak kodlanmış devre dışı bir kadın TX3 vekil dış iskeleti monte et.</ATPP_QE_CreateSX3FemaleSurrogate.description>
+  <ATPP_QE_CreateSX3FemaleSurrogate.jobString>Android Üretiliyor</ATPP_QE_CreateSX3FemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX4Male.label>TX4 erkek iskeleti monte et (QEE tankı)</ATPP_QE_CreateTX4Male.label>
+  <ATPP_QE_CreateTX4Male.description>Organ tankı inkübasyonu için genom dizisi olarak kodlanmış devre dışı bir erkek TX4 dış iskeleti monte et.</ATPP_QE_CreateTX4Male.description>
+  <ATPP_QE_CreateTX4Male.jobString>Android Üretiliyor</ATPP_QE_CreateTX4Male.jobString>
+  <ATPP_QE_CreateTX4Female.label>TX4 kadın iskeleti monte et (QEE tankı)</ATPP_QE_CreateTX4Female.label>
+  <ATPP_QE_CreateTX4Female.description>Organ tankı inkübasyonu için genom dizisi olarak kodlanmış devre dışı bir kadın TX4 dış iskeleti monte et.</ATPP_QE_CreateTX4Female.description>
+  <ATPP_QE_CreateTX4Female.jobString>Android Üretiliyor</ATPP_QE_CreateTX4Female.jobString>
+  <ATPP_QE_CreateSX4MaleSurrogate.label>SX4 erkek vekil iskeleti monte et (QEE tankı)</ATPP_QE_CreateSX4MaleSurrogate.label>
+  <ATPP_QE_CreateSX4MaleSurrogate.description>Organ tankı inkübasyonu için genom dizisi olarak kodlanmış devre dışı bir erkek TX4 vekil dış iskeleti monte et.</ATPP_QE_CreateSX4MaleSurrogate.description>
+  <ATPP_QE_CreateSX4MaleSurrogate.jobString>Android Üretiliyor</ATPP_QE_CreateSX4MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX4FemaleSurrogate.label>SX4 kadın vekil iskeleti monte et (QEE tankı)</ATPP_QE_CreateSX4FemaleSurrogate.label>
+  <ATPP_QE_CreateSX4FemaleSurrogate.description>Organ tankı inkübasyonu için genom dizisi olarak kodlanmış devre dışı bir kadın TX4 vekil dış iskeleti monte et.</ATPP_QE_CreateSX4FemaleSurrogate.description>
+  <ATPP_QE_CreateSX4FemaleSurrogate.jobString>Android Üretiliyor</ATPP_QE_CreateSX4FemaleSurrogate.jobString>
+</LanguageData>

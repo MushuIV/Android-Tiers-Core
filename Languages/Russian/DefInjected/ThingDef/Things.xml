@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_T4BlankGeneratorAI.label>Чистый андроид T4</ATPP_T4BlankGeneratorAI.label>
+  <ATPP_T4BlankGeneratorAI.description>Создать андроида с чистой нейросетью.</ATPP_T4BlankGeneratorAI.description>
+  <ATPP_T3BlankGeneratorAI.label>Чистый андроид T3</ATPP_T3BlankGeneratorAI.label>
+  <ATPP_T3BlankGeneratorAI.description>Создать андроида с чистой нейросетью.</ATPP_T3BlankGeneratorAI.description>
+  <ATPP_Android2KTX.label>Андроид TX2K</ATPP_Android2KTX.label>
+  <ATPP_Android2KTX.description>Прототип андроида, разработанный исключительно для использования на поле боя в качестве тяжёлой пехоты: очень живуч и наносит тяжёлый урон в ближнем бою, однако довольно медлителен из-за брони и неспособен выполнять сложные задачи из-за ограниченного процессора, оптимизированного в основном для боя.</ATPP_Android2KTX.description>
+  <ATPP_Android2KITX.label>Андроид TX2KI</ATPP_Android2KITX.label>
+  <ATPP_Android2KITX.description>Прототип андроида (без кожи), разработанный исключительно для использования на поле боя в качестве тяжёлой пехоты: очень живуч и наносит тяжёлый урон в ближнем бою, однако довольно медлителен из-за брони и неспособен выполнять сложные задачи из-за ограниченного процессора, оптимизированного в основном для боя.</ATPP_Android2KITX.description>
+  <ATPP_Android2ITX.label>Андроид TX2I</ATPP_Android2ITX.label>
+  <ATPP_Android2ITX.description>Серия TX2, переоборудованная для использования в качестве пехоты на полях сражений вместо T2, главным образом благодаря страху, который их особый облик внушает органическим врагам.</ATPP_Android2ITX.description>
+  <ATPP_Android3ITX.label>Андроид TX3I</ATPP_Android3ITX.label>
+  <ATPP_Android3ITX.description>Серия TX3, переоборудованная для использования в качестве пехоты на полях сражений вместо T3, главным образом благодаря страху, который их особый облик внушает органическим врагам.</ATPP_Android3ITX.description>
+  <ATPP_Android4ITX.label>Андроид TX4I</ATPP_Android4ITX.label>
+  <ATPP_Android4ITX.description>Серия TX4, переоборудованная для использования в качестве пехоты на полях сражений вместо T4, главным образом благодаря страху, который их особый облик внушает органическим врагам.</ATPP_Android4ITX.description>
+  <ATPP_Android4TX.label>Андроид TX4</ATPP_Android4TX.label>
+  <ATPP_Android4TX.description>Особая серия T4, созданная для диверсионно-разведывательных миссий; его слегка модифицированный экзоскелет T4 покрыт живыми тканями, защищающими от ржавчины, ЭМИ и солнечных вспышек и повышающими социальное восприятие, однако он более горюч.</ATPP_Android4TX.description>
+  <ATPP_Android3TX.label>Андроид TX3</ATPP_Android3TX.label>
+  <ATPP_Android3TX.description>Особая серия T3, созданная для диверсионно-разведывательных миссий; его слегка модифицированный экзоскелет T3 покрыт живыми тканями, защищающими от ржавчины, ЭМИ и солнечных вспышек и повышающими социальное восприятие, однако он более горюч.</ATPP_Android3TX.description>
+  <ATPP_Android2TX.label>Андроид TX2</ATPP_Android2TX.label>
+  <ATPP_Android2TX.description>Особая серия T2, созданная для диверсионно-разведывательных миссий; его слегка модифицированный экзоскелет T2 покрыт кожей из синтетического каучука, защищающей от ржавчины, ЭМИ и солнечных вспышек и повышающей социальное восприятие, однако он более горюч.</ATPP_Android2TX.description>
+  <ATPP_Android2TX.tools.right_fist.label>правый кулак</ATPP_Android2TX.tools.right_fist.label>
+  <ATPP_Android2TX.tools.left_fist.label>левый кулак</ATPP_Android2TX.tools.left_fist.label>
+  <ATPP_Android2ITX.tools.right_fist.label>правый кулак</ATPP_Android2ITX.tools.right_fist.label>
+  <ATPP_Android2ITX.tools.left_fist.label>левый кулак</ATPP_Android2ITX.tools.left_fist.label>
+  <ATPP_Android2KITX.tools.right_fist.label>правый кулак</ATPP_Android2KITX.tools.right_fist.label>
+  <ATPP_Android2KITX.tools.left_fist.label>левый кулак</ATPP_Android2KITX.tools.left_fist.label>
+  <ATPP_Android2KTX.tools.right_fist.label>правый кулак</ATPP_Android2KTX.tools.right_fist.label>
+  <ATPP_Android2KTX.tools.left_fist.label>левый кулак</ATPP_Android2KTX.tools.left_fist.label>
+  <ATPP_Android3TX.tools.right_fist.label>правый кулак</ATPP_Android3TX.tools.right_fist.label>
+  <ATPP_Android3TX.tools.left_fist.label>левый кулак</ATPP_Android3TX.tools.left_fist.label>
+  <ATPP_Android3ITX.tools.right_fist.label>правый кулак</ATPP_Android3ITX.tools.right_fist.label>
+  <ATPP_Android3ITX.tools.left_fist.label>левый кулак</ATPP_Android3ITX.tools.left_fist.label>
+  <ATPP_Android4TX.tools.right_fist.label>правый кулак</ATPP_Android4TX.tools.right_fist.label>
+  <ATPP_Android4TX.tools.left_fist.label>левый кулак</ATPP_Android4TX.tools.left_fist.label>
+  <ATPP_Android4ITX.tools.right_fist.label>правый кулак</ATPP_Android4ITX.tools.right_fist.label>
+  <ATPP_Android4ITX.tools.left_fist.label>левый кулак</ATPP_Android4ITX.tools.left_fist.label>
+  <ATPP_TX4AndroidGeneratorAI.label>Андроид TX4 (муж.)</ATPP_TX4AndroidGeneratorAI.label>
+  <ATPP_TX4AndroidGeneratorAI.description>Создать TX4 — особую серию T4 для диверсионно-разведывательных миссий; слегка модифицированный экзоскелет T4 покрыт живыми тканями, защищающими от ржавчины, ЭМИ и солнечных вспышек и повышающими социальное восприятие, но он более горюч.</ATPP_TX4AndroidGeneratorAI.description>
+  <ATPP_TX4FemaleAndroidGeneratorAI.label>Андроид TX4 (жен.)</ATPP_TX4FemaleAndroidGeneratorAI.label>
+  <ATPP_TX4FemaleAndroidGeneratorAI.description>Создать TX4 — особую серию T4 для диверсионно-разведывательных миссий; слегка модифицированный экзоскелет T4 покрыт живыми тканями, защищающими от ржавчины, ЭМИ и солнечных вспышек и повышающими социальное восприятие, но он более горюч.</ATPP_TX4FemaleAndroidGeneratorAI.description>
+  <ATPP_TX3AndroidGeneratorAI.label>Андроид TX3 (муж.)</ATPP_TX3AndroidGeneratorAI.label>
+  <ATPP_TX3AndroidGeneratorAI.description>Создать TX3 — особую серию T3 для диверсионно-разведывательных миссий; слегка модифицированный экзоскелет T3 покрыт живыми тканями, защищающими от ржавчины, ЭМИ и солнечных вспышек и повышающими социальное восприятие, но он более горюч.</ATPP_TX3AndroidGeneratorAI.description>
+  <ATPP_TX3FemaleAndroidGeneratorAI.label>Андроид TX3 (жен.)</ATPP_TX3FemaleAndroidGeneratorAI.label>
+  <ATPP_TX3FemaleAndroidGeneratorAI.description>Создать TX3 — особую серию T3 для диверсионно-разведывательных миссий; слегка модифицированный экзоскелет T3 покрыт живыми тканями, защищающими от ржавчины, ЭМИ и солнечных вспышек и повышающими социальное восприятие, но он более горюч.</ATPP_TX3FemaleAndroidGeneratorAI.description>
+  <ATPP_TX2AndroidGeneratorAI.label>Андроид TX2 (муж.)</ATPP_TX2AndroidGeneratorAI.label>
+  <ATPP_TX2AndroidGeneratorAI.description>Создать TX2 — особую серию T2 для диверсионно-разведывательных миссий; слегка модифицированный экзоскелет T2 покрыт кожей из синтетического каучука, защищающей от ржавчины, ЭМИ и солнечных вспышек и повышающей социальное восприятие, но он более горюч.</ATPP_TX2AndroidGeneratorAI.description>
+  <ATPP_TX2FemaleAndroidGeneratorAI.label>Андроид TX2 (жен.)</ATPP_TX2FemaleAndroidGeneratorAI.label>
+  <ATPP_TX2FemaleAndroidGeneratorAI.description>Создать TX2 — особую серию T2 для диверсионно-разведывательных миссий; слегка модифицированный экзоскелет T2 покрыт кожей из синтетического каучука, защищающей от ржавчины, ЭМИ и солнечных вспышек и повышающей социальное восприятие, но он более горюч.</ATPP_TX2FemaleAndroidGeneratorAI.description>
+  <ATPP_TX2KAndroidGeneratorAI.label>Андроид TX2K (муж.)</ATPP_TX2KAndroidGeneratorAI.label>
+  <ATPP_TX2KAndroidGeneratorAI.description>Создать TX2K — прототип андроида, разработанный исключительно для поля боя в качестве тяжёлой пехоты: очень живучий и опасный в ближнем бою, но медлительный из-за брони и неспособный к сложным задачам из-за боевого процессора.</ATPP_TX2KAndroidGeneratorAI.description>
+  <ATPP_TX2KFemaleAndroidGeneratorAI.label>Андроид TX2K (жен.)</ATPP_TX2KFemaleAndroidGeneratorAI.label>
+  <ATPP_TX2KFemaleAndroidGeneratorAI.description>Создать TX2K — прототип андроида, разработанный исключительно для поля боя в качестве тяжёлой пехоты: очень живучий и опасный в ближнем бою, но медлительный из-за брони и неспособный к сложным задачам из-за боевого процессора.</ATPP_TX2KFemaleAndroidGeneratorAI.description>
+  <ATPP_TX2KIAndroidGeneratorAI.label>Андроид TX2KI (муж.)</ATPP_TX2KIAndroidGeneratorAI.label>
+  <ATPP_TX2KIAndroidGeneratorAI.description>Создать TX2KI — прототип андроида (без кожи), разработанный исключительно для поля боя в качестве тяжёлой пехоты: очень живучий и опасный в ближнем бою, но медлительный из-за брони и неспособный к сложным задачам из-за боевого процессора.</ATPP_TX2KIAndroidGeneratorAI.description>
+  <ATPP_TX2KIFemaleAndroidGeneratorAI.label>Андроид TX2KI (жен.)</ATPP_TX2KIFemaleAndroidGeneratorAI.label>
+  <ATPP_TX2KIFemaleAndroidGeneratorAI.description>Создать TX2KI — прототип андроида (без кожи), разработанный исключительно для поля боя в качестве тяжёлой пехоты: очень живучий и опасный в ближнем бою, но медлительный из-за брони и неспособный к сложным задачам из-за боевого процессора.</ATPP_TX2KIFemaleAndroidGeneratorAI.description>
+  <ATPP_TX2IAndroidGeneratorAI.label>Андроид TX2I (муж.)</ATPP_TX2IAndroidGeneratorAI.label>
+  <ATPP_TX2IAndroidGeneratorAI.description>Создать TX2I — серию TX2, переоборудованную для пехотного боя вместо T2, главным образом из-за страха, который их облик внушает врагам.</ATPP_TX2IAndroidGeneratorAI.description>
+  <ATPP_TX2IFemaleAndroidGeneratorAI.label>Андроид TX2I (жен.)</ATPP_TX2IFemaleAndroidGeneratorAI.label>
+  <ATPP_TX2IFemaleAndroidGeneratorAI.description>Создать TX2I — серию TX2, переоборудованную для пехотного боя вместо T2, главным образом из-за страха, который их облик внушает врагам.</ATPP_TX2IFemaleAndroidGeneratorAI.description>
+  <ATPP_TX3IAndroidGeneratorAI.label>Андроид TX3I (муж.)</ATPP_TX3IAndroidGeneratorAI.label>
+  <ATPP_TX3IAndroidGeneratorAI.description>Создать TX3I — серию TX3, переоборудованную для пехотного боя вместо T3, главным образом из-за страха, который их облик внушает врагам.</ATPP_TX3IAndroidGeneratorAI.description>
+  <ATPP_TX3IFemaleAndroidGeneratorAI.label>Андроид TX3I (жен.)</ATPP_TX3IFemaleAndroidGeneratorAI.label>
+  <ATPP_TX3IFemaleAndroidGeneratorAI.description>Создать TX3I — серию TX3, переоборудованную для пехотного боя вместо T3, главным образом из-за страха, который их облик внушает врагам.</ATPP_TX3IFemaleAndroidGeneratorAI.description>
+  <ATPP_TX4IAndroidGeneratorAI.label>Андроид TX4I (муж.)</ATPP_TX4IAndroidGeneratorAI.label>
+  <ATPP_TX4IAndroidGeneratorAI.description>Создать TX4I — серию TX4, переоборудованную для пехотного боя вместо T4, главным образом из-за страха, который их облик внушает врагам.</ATPP_TX4IAndroidGeneratorAI.description>
+  <ATPP_TX4IFemaleAndroidGeneratorAI.label>Андроид TX4I (жен.)</ATPP_TX4IFemaleAndroidGeneratorAI.label>
+  <ATPP_TX4IFemaleAndroidGeneratorAI.description>Создать TX4I — серию TX4, переоборудованную для пехотного боя вместо T4, главным образом из-за страха, который их облик внушает врагам.</ATPP_TX4IFemaleAndroidGeneratorAI.description>
+  <ATPP_GSGeneratorTX2KMale.label>Неактивный TX2K (муж.)</ATPP_GSGeneratorTX2KMale.label>
+  <ATPP_GSGeneratorTX2KMale.description>Создаёт суррогатного андроида.</ATPP_GSGeneratorTX2KMale.description>
+  <ATPP_GSGeneratorTX2KFemale.label>Неактивный TX2K (жен.)</ATPP_GSGeneratorTX2KFemale.label>
+  <ATPP_GSGeneratorTX2KFemale.description>Создаёт суррогатного андроида.</ATPP_GSGeneratorTX2KFemale.description>
+  <ATPP_GSGeneratorTX2KMaleSurrogate.label>Неактивный TX2K (муж.)</ATPP_GSGeneratorTX2KMaleSurrogate.label>
+  <ATPP_GSGeneratorTX2KMaleSurrogate.description>Создаёт суррогатного андроида.</ATPP_GSGeneratorTX2KMaleSurrogate.description>
+  <ATPP_GSGeneratorTX2KFemaleSurrogate.label>Неактивный TX2K (жен.)</ATPP_GSGeneratorTX2KFemaleSurrogate.label>
+  <ATPP_GSGeneratorTX2KFemaleSurrogate.description>Создаёт суррогатного андроида.</ATPP_GSGeneratorTX2KFemaleSurrogate.description>
+  <ATPP_GSGeneratorTX3Male.label>Неактивный TX3 (муж.)</ATPP_GSGeneratorTX3Male.label>
+  <ATPP_GSGeneratorTX3Male.description>Создаёт суррогатного андроида.</ATPP_GSGeneratorTX3Male.description>
+  <ATPP_GSGeneratorTX3Female.label>Неактивный TX3 (жен.)</ATPP_GSGeneratorTX3Female.label>
+  <ATPP_GSGeneratorTX3Female.description>Создаёт суррогатного андроида.</ATPP_GSGeneratorTX3Female.description>
+  <ATPP_GSGeneratorTX3MaleSurrogate.label>Неактивный TX3 (муж.)</ATPP_GSGeneratorTX3MaleSurrogate.label>
+  <ATPP_GSGeneratorTX3MaleSurrogate.description>Создаёт суррогатного андроида.</ATPP_GSGeneratorTX3MaleSurrogate.description>
+  <ATPP_GSGeneratorTX3FemaleSurrogate.label>Неактивный TX3 (жен.)</ATPP_GSGeneratorTX3FemaleSurrogate.label>
+  <ATPP_GSGeneratorTX3FemaleSurrogate.description>Создаёт суррогатного андроида.</ATPP_GSGeneratorTX3FemaleSurrogate.description>
+  <ATPP_GSGeneratorTX4Male.label>Неактивный TX4 (муж.)</ATPP_GSGeneratorTX4Male.label>
+  <ATPP_GSGeneratorTX4Male.description>Создаёт суррогатного андроида.</ATPP_GSGeneratorTX4Male.description>
+  <ATPP_GSGeneratorTX4Female.label>Неактивный TX4 (жен.)</ATPP_GSGeneratorTX4Female.label>
+  <ATPP_GSGeneratorTX4Female.description>Создаёт суррогатного андроида.</ATPP_GSGeneratorTX4Female.description>
+  <ATPP_GSGeneratorTX4MaleSurrogate.label>Неактивный TX4 (муж.)</ATPP_GSGeneratorTX4MaleSurrogate.label>
+  <ATPP_GSGeneratorTX4MaleSurrogate.description>Создаёт суррогатного андроида.</ATPP_GSGeneratorTX4MaleSurrogate.description>
+  <ATPP_GSGeneratorTX4FemaleSurrogate.label>Неактивный TX4 (жен.)</ATPP_GSGeneratorTX4FemaleSurrogate.label>
+  <ATPP_GSGeneratorTX4FemaleSurrogate.description>Создаёт суррогатного андроида.</ATPP_GSGeneratorTX4FemaleSurrogate.description>
+  <ATPP_SX2SurrogateGeneratorAI.label>Суррогатный андроид SX2 (муж.)</ATPP_SX2SurrogateGeneratorAI.label>
+  <ATPP_SX2SurrogateGeneratorAI.description>Создаёт суррогатного андроида.</ATPP_SX2SurrogateGeneratorAI.description>
+  <ATPP_SX2FemaleSurrogateGeneratorAI.label>Суррогатный андроид SX2 (жен.)</ATPP_SX2FemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2FemaleSurrogateGeneratorAI.description>Создаёт суррогатного андроида.</ATPP_SX2FemaleSurrogateGeneratorAI.description>
+  <ATPP_SX2ISurrogateGeneratorAI.label>Суррогатный андроид SX2I (муж.)</ATPP_SX2ISurrogateGeneratorAI.label>
+  <ATPP_SX2ISurrogateGeneratorAI.description>Создаёт суррогатного андроида.</ATPP_SX2ISurrogateGeneratorAI.description>
+  <ATPP_SX2IFemaleSurrogateGeneratorAI.label>Суррогатный андроид SX2I (жен.)</ATPP_SX2IFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2IFemaleSurrogateGeneratorAI.description>Создаёт суррогатного андроида.</ATPP_SX2IFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX2KSurrogateGeneratorAI.label>Суррогатный андроид SX2K (муж.)</ATPP_SX2KSurrogateGeneratorAI.label>
+  <ATPP_SX2KSurrogateGeneratorAI.description>Создаёт суррогатного андроида.</ATPP_SX2KSurrogateGeneratorAI.description>
+  <ATPP_SX2KFemaleSurrogateGeneratorAI.label>Суррогатный андроид SX2K (жен.)</ATPP_SX2KFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2KFemaleSurrogateGeneratorAI.description>Создаёт суррогатного андроида.</ATPP_SX2KFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX2KISurrogateGeneratorAI.label>Суррогатный андроид SX2KI (муж.)</ATPP_SX2KISurrogateGeneratorAI.label>
+  <ATPP_SX2KISurrogateGeneratorAI.description>Создаёт суррогатного андроида.</ATPP_SX2KISurrogateGeneratorAI.description>
+  <ATPP_SX2KIFemaleSurrogateGeneratorAI.label>Суррогатный андроид SX2KI (жен.)</ATPP_SX2KIFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2KIFemaleSurrogateGeneratorAI.description>Создаёт суррогатного андроида.</ATPP_SX2KIFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX3SurrogateGeneratorAI.label>Суррогатный андроид SX3 (муж.)</ATPP_SX3SurrogateGeneratorAI.label>
+  <ATPP_SX3SurrogateGeneratorAI.description>Создаёт суррогатного андроида.</ATPP_SX3SurrogateGeneratorAI.description>
+  <ATPP_SX3FemaleSurrogateGeneratorAI.label>Суррогатный андроид SX3 (жен.)</ATPP_SX3FemaleSurrogateGeneratorAI.label>
+  <ATPP_SX3FemaleSurrogateGeneratorAI.description>Создаёт суррогатного андроида.</ATPP_SX3FemaleSurrogateGeneratorAI.description>
+  <ATPP_SX3ISurrogateGeneratorAI.label>Суррогатный андроид SX3I (муж.)</ATPP_SX3ISurrogateGeneratorAI.label>
+  <ATPP_SX3ISurrogateGeneratorAI.description>Создаёт суррогатного андроида.</ATPP_SX3ISurrogateGeneratorAI.description>
+  <ATPP_SX3IFemaleSurrogateGeneratorAI.label>Суррогатный андроид SX3I (жен.)</ATPP_SX3IFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX3IFemaleSurrogateGeneratorAI.description>Создаёт суррогатного андроида.</ATPP_SX3IFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX4SurrogateGeneratorAI.label>Суррогатный андроид SX4 (муж.)</ATPP_SX4SurrogateGeneratorAI.label>
+  <ATPP_SX4SurrogateGeneratorAI.description>Создаёт суррогатного андроида.</ATPP_SX4SurrogateGeneratorAI.description>
+  <ATPP_SX4FemaleSurrogateGeneratorAI.label>Суррогатный андроид SX4 (жен.)</ATPP_SX4FemaleSurrogateGeneratorAI.label>
+  <ATPP_SX4FemaleSurrogateGeneratorAI.description>Создаёт суррогатного андроида.</ATPP_SX4FemaleSurrogateGeneratorAI.description>
+  <ATPP_SX4ISurrogateGeneratorAI.label>Суррогатный андроид SX4I (муж.)</ATPP_SX4ISurrogateGeneratorAI.label>
+  <ATPP_SX4ISurrogateGeneratorAI.description>Создаёт суррогатного андроида.</ATPP_SX4ISurrogateGeneratorAI.description>
+  <ATPP_SX4IFemaleSurrogateGeneratorAI.label>Суррогатный андроид SX4I (жен.)</ATPP_SX4IFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX4IFemaleSurrogateGeneratorAI.description>Создаёт суррогатного андроида.</ATPP_SX4IFemaleSurrogateGeneratorAI.description>
+
+</LanguageData>

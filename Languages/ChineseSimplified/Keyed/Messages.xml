@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <MessageMedicalOperationFailureMinorAndroid>{0} 在处理 {1} 时出现了轻微的故障。</MessageMedicalOperationFailureMinorAndroid>
   <MessageMedicalOperationFailureCatastrophicAndroid>{0} 在处理 {1} 时出现了灾难性的故障。</MessageMedicalOperationFailureCatastrophicAndroid>

@@ -55,58 +55,6 @@
     </subSounds>
   </SoundDef>
 
-  <SoundDef>
-    <defName>80MMCannon</defName>
-    <context>MapOnly</context>
-    <eventNames />
-    <subSounds>
-      <li>
-        <grains>
-          <li Class="AudioGrain_Clip">
-            <clipPath>Weapons/80MMLauncher</clipPath>
-          </li>
-        </grains>
-        <volumeRange>
-          <min>90</min>
-          <max>120</max>
-        </volumeRange>
-        <pitchRange>
-          <min>0.85</min>
-          <max>1.05</max>
-        </pitchRange>
-        <distRange>
-          <min>0</min>
-          <max>80</max>
-        </distRange>
-      </li>
-    </subSounds>
-  </SoundDef>
 
-  <SoundDef>
-    <defName>GaussRifle</defName>
-    <context>MapOnly</context>
-    <eventNames />
-    <subSounds>
-      <li>
-        <grains>
-          <li Class="AudioGrain_Clip">
-            <clipPath>Weapons/GaussRifle</clipPath>
-          </li>
-        </grains>
-        <volumeRange>
-          <min>90</min>
-          <max>110</max>
-        </volumeRange>
-        <pitchRange>
-          <min>0.80</min>
-          <max>0.95</max>
-        </pitchRange>
-        <distRange>
-          <min>0</min>
-          <max>80</max>
-        </distRange>
-      </li>
-    </subSounds>
-  </SoundDef>
 
 </Defs>

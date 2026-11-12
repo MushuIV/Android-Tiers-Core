@@ -59,7 +59,7 @@ namespace MOARANDROIDS
                     int newVal = lastStage;
                     executorGT = curGT + Rand.Range(360, 900);
 
-                    if (Find.World.gameConditionManager.ConditionIsActive(GameConditionDefOfAT.SolarFlare) || (pawn.Map != null && pawn.Map.GameConditionManager.ConditionIsActive(GameConditionDefOf.EMIField))
+                    if ((Find.World.gameConditionManager.ConditionIsActive(GameConditionDefOfAT.SolarFlare) || (pawn.Map != null && pawn.Map.GameConditionManager.ConditionIsActive(GameConditionDefOf.EMIField)))
                     && ((isAndroid && !isTXWithSKin) || (isOrganic && withVXChip)))
                     {
                         newVal = 1;
@@ -88,16 +88,20 @@ namespace MOARANDROIDS
             }
         }
 
+        public void resetCache()
+        {
+            init = false;
+            executorGT = -1;
+            initCache();
+            _ = CurStageIndex;
+        }
+
         private void initCache()
         {
-            if (pawn.IsAndroidOrAnimalTier())
-                isAndroid = true;
-            if (!isAndroid)
-                isOrganic = true;
-            if (pawn.VXAndVX0ChipPresent())
-                withVXChip = true;
-            if (pawn.def.defName == Utils.TX2 || pawn.def.defName == Utils.TX3 || pawn.def.defName == Utils.TX4)
-                isTXWithSKin = true;
+            isAndroid = pawn.IsAndroidOrAnimalTier();
+            isOrganic = !isAndroid;
+            withVXChip = pawn.VXAndVX0ChipPresent();
+            isTXWithSKin = pawn.def.defName == Utils.TX2 || pawn.def.defName == Utils.TX2K || pawn.def.defName == Utils.TX3 || pawn.def.defName == Utils.TX4;
 
             init = true;
         }

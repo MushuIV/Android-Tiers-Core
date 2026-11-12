@@ -9,7 +9,6 @@ namespace MOARANDROIDS
         public WorldObjectCompProperties_DownedT5Android()
         {
             this.compClass = typeof(DownedT5AndroidComp);
-            this.compClass = typeof(TimedForcedExit);
         }
     }
 }

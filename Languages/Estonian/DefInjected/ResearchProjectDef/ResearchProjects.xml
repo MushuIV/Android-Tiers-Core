@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_ResearchSM7.label>SM7 lahingumehhanoid</ATPP_ResearchSM7.label>
+	<ATPP_ResearchSM7.description>Uuri, kuidas ehitada SM7 lahingumehhanoide.</ATPP_ResearchSM7.description>
+	<ATPP_ResearchServerI100Serie.label>I100 seeria serverid</ATPP_ResearchServerI100Serie.label>
+	<ATPP_ResearchServerI100Serie.description>Uuri, kuidas ehitada I100 seeria turva-, häkkimis- ja oskuste servereid, mis on odavad, kuid lärmakad, suured ja mitte kuigi tõhusad.</ATPP_ResearchServerI100Serie.description>
+	<ATPP_ResearchServerI300Serie.label>I300 seeria serverid</ATPP_ResearchServerI300Serie.label>
+	<ATPP_ResearchServerI300Serie.description>Uuri, kuidas ehitada I300 seeria turva-, häkkimis- ja oskuste servereid, mis on lärmakad, kuid keskmise tõhususega.</ATPP_ResearchServerI300Serie.description>
+	<ATPP_ResearchServerI500Serie.label>I500 seeria serverid</ATPP_ResearchServerI500Serie.label>
+	<ATPP_ResearchServerI500Serie.description>Uuri, kuidas ehitada I500 seeria turva-, häkkimis- ja oskuste servereid, mis on kallid, kuid väga tõhusad.</ATPP_ResearchServerI500Serie.description>
+	<ATPP_ResearchSkyCloudCore.label>SkyCloud-tuum</ATPP_ResearchSkyCloudCore.label>
+	<ATPP_ResearchSkyCloudCore.description>Uuri, kuidas ehitada SkyCloud-tuumaservereid, mis on võimsad superarvutid, suutes majutada mitut digiteeritud teadvust ning võimaldades neil suhelda reaalse maailmaga iga SkyMind-võrku ühendatud seadme kaudu.</ATPP_ResearchSkyCloudCore.description>
+	<ATPP_ResearchBatteryOverload.label>Aku ülekoormus</ATPP_ResearchBatteryOverload.label>
+	<ATPP_ResearchBatteryOverload.description>Uuri, kuidas muuta androidid kõndivateks pommideks, pannes nende sisemise aku plahvatama.</ATPP_ResearchBatteryOverload.description>
+	<ATPP_ResearchVX0Chip.label>VX0 närvikiip</ATPP_ResearchVX0Chip.label>
+	<ATPP_ResearchVX0Chip.description>Uuri, kuidas valmistada VX0 kiipe – närvikiipe, mis muudavad oma hosti bioloogiliseks surrogaadiks.</ATPP_ResearchVX0Chip.description>
+	<ATPP_ResearchCharchingStation.label>Laadimisjaam</ATPP_ResearchCharchingStation.label>
+	<ATPP_ResearchCharchingStation.description>Võimaldab laadida kuni 8 androidi samaaegselt otse nende sisemisse akusse biomassigeneraatori asemel.</ATPP_ResearchCharchingStation.description>
+	<ATPP_ResearchCraftBasicNanoKit.label>Tavaline nanokomplekt</ATPP_ResearchCraftBasicNanoKit.label>
+	<ATPP_ResearchCraftBasicNanoKit.description>Võimaldab valmistada tavalisi nanokomplekte, mis on vajalikud vigastatud androidide parandamiseks.</ATPP_ResearchCraftBasicNanoKit.description>
+	<ATPP_ResearchCraftIntermediateNanoKit.label>Keskastme nanokomplekt</ATPP_ResearchCraftIntermediateNanoKit.label>
+	<ATPP_ResearchCraftIntermediateNanoKit.description>Võimaldab valmistada keskastme nanokomplekte, mis on vajalikud vigastatud androidide parandamiseks.</ATPP_ResearchCraftIntermediateNanoKit.description>
+	<ATPP_ResearchCraftAdvancedNanoKit.label>Täiustatud nanokomplekt</ATPP_ResearchCraftAdvancedNanoKit.label>
+	<ATPP_ResearchCraftAdvancedNanoKit.description>Võimaldab valmistada täiustatud nanokomplekte, mis on vajalikud vigastatud androidide parandamiseks.</ATPP_ResearchCraftAdvancedNanoKit.description>
+	<ATPP_ResearchVX1Chip.label>VX1 närvikiip</ATPP_ResearchVX1Chip.label>
+	<ATPP_ResearchVX1Chip.description>Uuri, kuidas valmistada VX1 kiipi – närvikiipi, mis võimaldab selle hostil kaugelt juhtida mis tahes SX-seeria androidi või bioloogilist surrogaati.</ATPP_ResearchVX1Chip.description>
+	<ATPP_ResearchVX2Chip.label>VX2 närvikiip</ATPP_ResearchVX2Chip.label>
+	<ATPP_ResearchVX2Chip.description>Uuri, kuidas valmistada VX2 kiipi – närvikiipi, mis võimaldab selle hostil kaugelt juhtida mis tahes SX-seeria androidi või bioloogilist surrogaati ning oma meelt dubleerida/vahetada.</ATPP_ResearchVX2Chip.description>
+	<ATPP_ResearchVX3Chip.label>VX3 närvikiip</ATPP_ResearchVX3Chip.label>
+	<ATPP_ResearchVX3Chip.description>Uuri, kuidas valmistada VX3 kiipi – närvikiipi, mis võimaldab selle hostil kaugelt juhtida korraga mitut SX-seeria androidi või bioloogilist surrogaati ning oma meelt dubleerida/vahetada.</ATPP_ResearchVX3Chip.description>
+	<ATPP_ResearchSkyMindWAN.label>SkyMind V2 antenn</ATPP_ResearchSkyMindWAN.label>
+	<ATPP_ResearchSkyMindWAN.description>Uuri, kuidas ehitada SkyMind V2 antenni, mis on aluseks ühe kolonisti teadvuse ülekandmisele teise ning võimaldab kuni 15 kolonistil olla korraga ühendatud ühe V2 antenni kohta.</ATPP_ResearchSkyMindWAN.description>
+	<ATPP_ResearchSkyMindLAN.label>SkyMind V1 antenn</ATPP_ResearchSkyMindLAN.label>
+	<ATPP_ResearchSkyMindLAN.description>Uuri, kuidas ehitada SkyMind V1 antenni, mis on aluseks ühe kolonisti teadvuse ülekandmisele teise ning võimaldab kuni 3 kolonistil olla korraga ühendatud ühe V1 antenni kohta.</ATPP_ResearchSkyMindLAN.description>
+	<ATPP_ResearchSurrogateHost.label>SX androidid</ATPP_ResearchSurrogateHost.label>
+	<ATPP_ResearchSurrogateHost.description>Uuri, kuidas ehitada SX-seeria androide, mis sarnanevad TX-seeriaga, kuid mille tehisaju on asendatud täiustatud kaugjuhtimissüsteemiga.</ATPP_ResearchSurrogateHost.description>
+	<ATPP_ResearchCraftRepairNaniteBanks.label>Vanadushäirete ravi</ATPP_ResearchCraftRepairNaniteBanks.label>
+	<ATPP_ResearchCraftRepairNaniteBanks.description>Võimaldab valmistada nanobotte, mis ravivad androidide vanadusest tingitud tõrkeid.</ATPP_ResearchCraftRepairNaniteBanks.description>
+</LanguageData>

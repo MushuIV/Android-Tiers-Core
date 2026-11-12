@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<NeedMechanic>Besoin d'un mécanicien</NeedMechanic>
+	<NeedMechanicDesc>Ces androïdes ont besoin de réparations, mais vous n'avez aucun colon valide affecté comme mécanicien.\n\n{0}\nAssignez un colon en bonne santé au travail de Mécanicien. Si les dommages ne sont pas réparés rapidement, ils peuvent devenir permanents.</NeedMechanicDesc>
+</LanguageData>

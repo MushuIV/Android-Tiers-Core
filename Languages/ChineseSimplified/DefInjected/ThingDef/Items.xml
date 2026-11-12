@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <ATPP_NanitesHydraulicSerum.label>液压纳米修复液</ATPP_NanitesHydraulicSerum.label>
   <ATPP_NanitesHydraulicSerum.description>一次性使用液压纳米修复液，可修复损坏的智能人形液压系统。</ATPP_NanitesHydraulicSerum.description>
@@ -36,4 +36,18 @@
   <ATPP_T3ArtificialBrain.description>思维容器T3，可以将T3植入转化为一个初始化的神经网络智能人形</ATPP_T3ArtificialBrain.description>
   <ATPP_T4ArtificialBrain.label>思维容器T4</ATPP_T4ArtificialBrain.label>
   <ATPP_T4ArtificialBrain.description>思维容器T4，可以将T4植入转化为一个初始化的神经网络智能人形</ATPP_T4ArtificialBrain.description>
+  <ATPP_SyntheticSkinGland.label>合成皮肤腺体</ATPP_SyntheticSkinGland.label>
+  <ATPP_SyntheticSkinGland.description>一种由休眠表皮基质与营养微导管构成的先进生物合成器官。当移植到TX系列战斗机体上或在培养槽组装期间集成时，它会扩展并与皮下外壳结合，提供类人的隔热性能、触觉感应以及逼真的皮肤伪装。</ATPP_SyntheticSkinGland.description>
+  <ATPP_GS_TX2KMale.label>男性TX2K骨架</ATPP_GS_TX2KMale.label>
+  <ATPP_GS_TX2KMale.description>一具尚未激活的功能性TX2K外骨骼，正在等待皮肤生长完成后于培养槽中激活</ATPP_GS_TX2KMale.description>
+  <ATPP_GS_TX2KFemale.label>女性TX2K骨架</ATPP_GS_TX2KFemale.label>
+  <ATPP_GS_TX2KFemale.description>一具尚未激活的功能性TX2K外骨骼，正在等待皮肤生长完成后于培养槽中激活</ATPP_GS_TX2KFemale.description>
+  <ATPP_GS_TX3Male.label>男性TX3骨架</ATPP_GS_TX3Male.label>
+  <ATPP_GS_TX3Male.description>一具尚未激活的功能性TX3外骨骼，正在等待皮肤生长完成后于培养槽中激活</ATPP_GS_TX3Male.description>
+  <ATPP_GS_TX3Female.label>女性TX3骨架</ATPP_GS_TX3Female.label>
+  <ATPP_GS_TX3Female.description>一具尚未激活的功能性TX3外骨骼，正在等待皮肤生长完成后于培养槽中激活</ATPP_GS_TX3Female.description>
+  <ATPP_GS_TX4Male.label>男性TX4骨架</ATPP_GS_TX4Male.label>
+  <ATPP_GS_TX4Male.description>一具尚未激活的功能性TX4外骨骼，正在等待皮肤生长完成后于培养槽中激活</ATPP_GS_TX4Male.description>
+  <ATPP_GS_TX4Female.label>女性TX4骨架</ATPP_GS_TX4Female.label>
+  <ATPP_GS_TX4Female.description>一具尚未激活的功能性TX4外骨骼，正在等待皮肤生长完成后于培养槽中激活</ATPP_GS_TX4Female.description>
 </LanguageData>

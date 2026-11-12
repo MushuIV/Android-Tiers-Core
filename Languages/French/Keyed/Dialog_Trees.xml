@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AndroidFactionGreetingHostileI>Un message automatisé retentit, exigeant un geste de bonne volonté, tel qu'apporter des cadeaux à l'une de {0_possessive} colonies ou libérer indemnes les prisonniers de {0_possessive} faction. D'ici là, {0} refuse de discuter.</AndroidFactionGreetingHostileI>
+	<AndroidFactionGreetingHostileII>{0} compare votre colonie à des sauvages, déclarant que si vous souhaitez vous racheter, vous pouvez apporter des cadeaux à l'une de {0_possessive} colonies ou libérer indemnes les prisonniers de {0_possessive} faction.</AndroidFactionGreetingHostileII>
+	<AndroidFactionGreetingHostileIII>{0} vous qualifie d'êtres froids et monstrueux avant de couper court à toute communication.</AndroidFactionGreetingHostileIII>
+	<AndroidFactionGreetingWaryI>La voix mécanique et grave de {0} salue {NEGOTIATOR_labelShort}, demandant quel sujet vous souhaitez aborder.</AndroidFactionGreetingWaryI>
+	<AndroidFactionGreetingWaryII>Un message automatisé se déclenche, demandant à {NEGOTIATOR_labelShort} ce qu'il désire.</AndroidFactionGreetingWaryII>
+	<AndroidFactionGreetingWaryIII>{0} ouvre la communication avec méfiance à {NEGOTIATOR_labelShort}, demandant de quoi vous souhaitez parler.</AndroidFactionGreetingWaryIII>
+	<AndroidFactionGreetingWarmI>{0} salue chaleureusement {NEGOTIATOR_labelShort} et demande comment la faction peut vous aider aujourd'hui.</AndroidFactionGreetingWarmI>
+	<AndroidFactionGreetingWarmII>{0} salue chaleureusement {NEGOTIATOR_labelShort} et se met à l'écoute de votre proposition.</AndroidFactionGreetingWarmII>
+	<AndroidFactionGreetingWarmIII>{0} accueille {NEGOTIATOR_labelShort} à bras ouverts et demande ce qu'il peut faire pour vous.</AndroidFactionGreetingWarmIII>
+</LanguageData>

@@ -22,7 +22,7 @@ namespace BlueLeakTest
 
             foreach(var code in instructions) {
                 yield return code;
-                if(code.opcode == OpCodes.Callvirt && code.operand == tipStringExtraGetter) {
+                if(code.opcode == OpCodes.Callvirt && (code.operand as MethodInfo) == tipStringExtraGetter) {
                     yield return new CodeInstruction(OpCodes.Ldarg_1);  //string, Pawn on stack
                     yield return new CodeInstruction(OpCodes.Call, labelHelper); //Consume 2, leave string
                 }

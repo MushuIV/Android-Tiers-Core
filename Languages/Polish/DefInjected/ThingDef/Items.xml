@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_NanitesHydraulicSerum.label>Bank nanitów (hydraulika)</ATPP_NanitesHydraulicSerum.label>
+  <ATPP_NanitesHydraulicSerum.description>Jednorazowy bank nanitów dostrojonych do naprawy uszkodzonych układów hydraulicznych androidów (związanych ze starością).</ATPP_NanitesHydraulicSerum.description>
+  <ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>Użyj tego serum nanitowego, aby naprawić problemy starcze androida</ATPP_NanitesHydraulicSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesCPUSerum.label>Bank nanitów (CPU)</ATPP_NanitesCPUSerum.label>
+  <ATPP_NanitesCPUSerum.description>Jednorazowy bank nanitów dostrojonych do naprawy uszkodzonych sztucznych mózgów androidów (związanych ze starością).</ATPP_NanitesCPUSerum.description>
+  <ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>Użyj tego serum nanitowego, aby naprawić problemy starcze androida</ATPP_NanitesCPUSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesCoolingSerum.label>Bank nanitów (chłodzenie)</ATPP_NanitesCoolingSerum.label>
+  <ATPP_NanitesCoolingSerum.description>Jednorazowy bank nanitów dostrojonych do naprawy uszkodzonych układów chłodzenia androidów w razie przegrzania (związanych ze starością).</ATPP_NanitesCoolingSerum.description>
+  <ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>Użyj tego serum nanitowego, aby naprawić problemy starcze androida</ATPP_NanitesCoolingSerum.comps.CompUsable.useLabel>
+  <ATPP_NanitesFrameSerum.label>Bank nanitów (szkielet)</ATPP_NanitesFrameSerum.label>
+  <ATPP_NanitesFrameSerum.description>Jednorazowy bank nanitów dostrojonych do naprawy uszkodzonych endoszkieletów androidów (związanych ze starością).</ATPP_NanitesFrameSerum.description>
+  <ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>Użyj tego serum nanitowego, aby naprawić problemy starcze androida</ATPP_NanitesFrameSerum.comps.CompUsable.useLabel>
+  <ATPP_AndroidNanokitBasic.label>Podstawowy nanokit</ATPP_AndroidNanokitBasic.label>
+  <ATPP_AndroidNanokitBasic.description>Zestaw zawierający nanoboty do leczenia ran androidów</ATPP_AndroidNanokitBasic.description>
+  <ATPP_AndroidNanokitIntermediate.label>Średni nanokit</ATPP_AndroidNanokitIntermediate.label>
+  <ATPP_AndroidNanokitIntermediate.description>Zestaw zawierający nanoboty do leczenia ran androidów</ATPP_AndroidNanokitIntermediate.description>
+  <ATPP_AndroidNanokitAdvanced.label>Zaawansowany nanokit</ATPP_AndroidNanokitAdvanced.label>
+  <ATPP_AndroidNanokitAdvanced.description>Zestaw zawierający nanoboty do leczenia ran androidów</ATPP_AndroidNanokitAdvanced.description>
+  <ATPP_RXChip.label>Chip neuronowy RX</ATPP_RXChip.label>
+  <ATPP_RXChip.description>Chip neuronowy pełniący rolę osobistego przekaźnika SkyMind.</ATPP_RXChip.description>
+  <ATPP_VX0Chip.label>Chip neuronowy VX0</ATPP_VX0Chip.label>
+  <ATPP_VX0Chip.description>Chip neuronowy przekształcający nosiciela w biologicznego surogata.</ATPP_VX0Chip.description>
+  <ATPP_VX1Chip.label>Chip neuronowy VX1</ATPP_VX1Chip.label>
+  <ATPP_VX1Chip.description>Chip neuronowy pozwalający nosicielowi zdalnie sterować dowolnym androidem serii SX lub biologicznym surogatem.</ATPP_VX1Chip.description>
+  <ATPP_VX2Chip.label>Chip neuronowy VX2</ATPP_VX2Chip.label>
+  <ATPP_VX2Chip.description>Chip neuronowy pozwalający nosicielowi zdalnie sterować dowolnym androidem serii SX lub biologicznym surogatem oraz permutować/duplikować swoją świadomość.</ATPP_VX2Chip.description>
+  <ATPP_VX3Chip.label>Chip neuronowy VX3</ATPP_VX3Chip.label>
+  <ATPP_VX3Chip.description>Chip neuronowy pozwalający nosicielowi zdalnie sterować wieloma androidami serii SX lub biologicznymi surogatami jednocześnie oraz permutować/duplikować swoją świadomość.</ATPP_VX3Chip.description>
+  <ATPP_T1ArtificialBrain.label>Sztuczny mózg T1</ATPP_T1ArtificialBrain.label>
+  <ATPP_T1ArtificialBrain.description>Sztuczny mózg T1, pozwalający przekształcić surogata T1 w androida z pustą siecią neuronową</ATPP_T1ArtificialBrain.description>
+  <ATPP_T2ArtificialBrain.label>Sztuczny mózg T2</ATPP_T2ArtificialBrain.label>
+  <ATPP_T2ArtificialBrain.description>Sztuczny mózg T2, pozwalający przekształcić surogata T2 w androida z pustą siecią neuronową</ATPP_T2ArtificialBrain.description>
+  <ATPP_T3ArtificialBrain.label>Sztuczny mózg T3</ATPP_T3ArtificialBrain.label>
+  <ATPP_T3ArtificialBrain.description>Sztuczny mózg T3, pozwalający przekształcić surogata T3 w androida z pustą siecią neuronową</ATPP_T3ArtificialBrain.description>
+  <ATPP_T4ArtificialBrain.label>Sztuczny mózg T4</ATPP_T4ArtificialBrain.label>
+  <ATPP_T4ArtificialBrain.description>Sztuczny mózg T4, pozwalający przekształcić surogata T4 w androida z pustą siecią neuronową</ATPP_T4ArtificialBrain.description>
+  <ATPP_SyntheticSkinGland.label>gruczoł syntetycznej skóry</ATPP_SyntheticSkinGland.label>
+  <ATPP_SyntheticSkinGland.description>Zaawansowany bio-syntetyczny narząd składający się z uśpionej matrycy naskórka i mikrokanalików odżywczych. Po przeszczepieniu na podwozie bojowe serii TX lub zintegrowaniu podczas montażu w kadzi rozszerza się i łączy z powłoką podskórną, zapewniając ludzką izolację termiczną, wrażliwość dotykową oraz realistyczny kamuflaż skórny.</ATPP_SyntheticSkinGland.description>
+  <ATPP_GS_TX2KMale.label>Męski szkielet TX2K</ATPP_GS_TX2KMale.label>
+  <ATPP_GS_TX2KMale.description>Nieaktywny funkcjonalny endoszkielet TX2K czekający na aktywację w kadzi po wyhodowaniu skóry</ATPP_GS_TX2KMale.description>
+  <ATPP_GS_TX2KFemale.label>Żeński szkielet TX2K</ATPP_GS_TX2KFemale.label>
+  <ATPP_GS_TX2KFemale.description>Nieaktywny funkcjonalny endoszkielet TX2K czekający na aktywację w kadzi po wyhodowaniu skóry</ATPP_GS_TX2KFemale.description>
+  <ATPP_GS_TX3Male.label>Męski szkielet TX3</ATPP_GS_TX3Male.label>
+  <ATPP_GS_TX3Male.description>Nieaktywny funkcjonalny endoszkielet TX3 czekający na aktywację w kadzi po wyhodowaniu skóry</ATPP_GS_TX3Male.description>
+  <ATPP_GS_TX3Female.label>Żeński szkielet TX3</ATPP_GS_TX3Female.label>
+  <ATPP_GS_TX3Female.description>Nieaktywny funkcjonalny endoszkielet TX3 czekający na aktywację w kadzi po wyhodowaniu skóry</ATPP_GS_TX3Female.description>
+  <ATPP_GS_TX4Male.label>Męski szkielet TX4</ATPP_GS_TX4Male.label>
+  <ATPP_GS_TX4Male.description>Nieaktywny funkcjonalny endoszkielet TX4 czekający na aktywację w kadzi po wyhodowaniu skóry</ATPP_GS_TX4Male.description>
+  <ATPP_GS_TX4Female.label>Żeński szkielet TX4</ATPP_GS_TX4Female.label>
+  <ATPP_GS_TX4Female.description>Nieaktywny funkcjonalny endoszkielet TX4 czekający na aktywację w kadzi po wyhodowaniu skóry</ATPP_GS_TX4Female.description>
+
+</LanguageData>

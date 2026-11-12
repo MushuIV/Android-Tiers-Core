@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <ATPP_DisassembleAndroid.label>拆卸智能人形</ATPP_DisassembleAndroid.label>
   <ATPP_DisassembleAndroid.description>将坏掉的智能人形拆卸成其组成部分。</ATPP_DisassembleAndroid.description>
@@ -168,4 +168,151 @@
   <ATPP_InstallT4ArtificialBrain.label>植入思维容器T4</ATPP_InstallT4ArtificialBrain.label>
   <ATPP_InstallT4ArtificialBrain.description>植入思维容器T4，允许将T4植入转化为一个初始化的神经网络智能人形</ATPP_InstallT4ArtificialBrain.description>
   <ATPP_InstallT4ArtificialBrain.jobString>植入思维容器T4。</ATPP_InstallT4ArtificialBrain.jobString>
+  <ATPP_CreateSX2.label>制造TX2男性替代体智能人形 (SX2)</ATPP_CreateSX2.label>
+  <ATPP_CreateSX2.description>使用玻璃钢和零部件制造一个空白的SX2男性智能人形。</ATPP_CreateSX2.description>
+  <ATPP_CreateSX2.jobString>正在制造SX2智能人形。</ATPP_CreateSX2.jobString>
+  <ATPP_CreateSX2Female.label>制造TX2女性替代体智能人形 (SX2)</ATPP_CreateSX2Female.label>
+  <ATPP_CreateSX2Female.description>使用玻璃钢和零部件制造一个空白的SX2女性智能人形。</ATPP_CreateSX2Female.description>
+  <ATPP_CreateSX2Female.jobString>正在制造SX2智能人形。</ATPP_CreateSX2Female.jobString>
+  <ATPP_CreateSX3.label>制造TX3男性替代体智能人形 (SX3)</ATPP_CreateSX3.label>
+  <ATPP_CreateSX3.description>使用玻璃钢和零部件制造一个空白的SX3男性智能人形。</ATPP_CreateSX3.description>
+  <ATPP_CreateSX3.jobString>正在制造SX3智能人形。</ATPP_CreateSX3.jobString>
+  <ATPP_CreateSX3Female.label>制造TX3女性替代体智能人形 (SX3)</ATPP_CreateSX3Female.label>
+  <ATPP_CreateSX3Female.description>使用玻璃钢和零部件制造一个空白的SX3女性智能人形。</ATPP_CreateSX3Female.description>
+  <ATPP_CreateSX3Female.jobString>正在制造SX3智能人形。</ATPP_CreateSX3Female.jobString>
+  <ATPP_CreateSX4.label>制造TX4替代体智能人形 (SX4)</ATPP_CreateSX4.label>
+  <ATPP_CreateSX4.description>使用玻璃钢和零部件制造一个空白的SX4智能人形。</ATPP_CreateSX4.description>
+  <ATPP_CreateSX4.jobString>正在制造SX4智能人形。</ATPP_CreateSX4.jobString>
+  <ATPP_CreateSX4Female.label>制造TX4女性替代体智能人形 (SX4)</ATPP_CreateSX4Female.label>
+  <ATPP_CreateSX4Female.description>使用玻璃钢和零部件制造一个空白的SX4女性智能人形。</ATPP_CreateSX4Female.description>
+  <ATPP_CreateSX4Female.jobString>正在制造SX4智能人形。</ATPP_CreateSX4Female.jobString>
+  <ATPP_CreateSX2I.label>制造TX2I男性替代体智能人形 (SX2I)</ATPP_CreateSX2I.label>
+  <ATPP_CreateSX2I.description>使用玻璃钢和零部件制造一个空白的SX2I男性智能人形。</ATPP_CreateSX2I.description>
+  <ATPP_CreateSX2I.jobString>正在制造SX2I智能人形。</ATPP_CreateSX2I.jobString>
+  <ATPP_CreateSX2IFemale.label>制造TX2I女性替代体智能人形 (SX2I)</ATPP_CreateSX2IFemale.label>
+  <ATPP_CreateSX2IFemale.description>使用玻璃钢和零部件制造一个空白的SX2I女性智能人形。</ATPP_CreateSX2IFemale.description>
+  <ATPP_CreateSX2IFemale.jobString>正在制造SX2I智能人形。</ATPP_CreateSX2IFemale.jobString>
+  <ATPP_CreateSX2K.label>制造TX2K男性替代体智能人形 (SX2K)</ATPP_CreateSX2K.label>
+  <ATPP_CreateSX2K.description>使用玻璃钢和零部件制造一个空白的SX2K男性智能人形。</ATPP_CreateSX2K.description>
+  <ATPP_CreateSX2K.jobString>正在制造SX2K智能人形。</ATPP_CreateSX2K.jobString>
+  <ATPP_CreateSX2KFemale.label>制造TX2K女性替代体智能人形 (SX2K)</ATPP_CreateSX2KFemale.label>
+  <ATPP_CreateSX2KFemale.description>使用玻璃钢和零部件制造一个空白的SX2K女性智能人形。</ATPP_CreateSX2KFemale.description>
+  <ATPP_CreateSX2KFemale.jobString>正在制造SX2K智能人形。</ATPP_CreateSX2KFemale.jobString>
+  <ATPP_CreateSX2KI.label>制造TX2KI替代体智能人形 (SX2KI)</ATPP_CreateSX2KI.label>
+  <ATPP_CreateSX2KI.description>使用玻璃钢和零部件制造一个空白的SX2KI智能人形。</ATPP_CreateSX2KI.description>
+  <ATPP_CreateSX2KI.jobString>正在制造SX2KI智能人形。</ATPP_CreateSX2KI.jobString>
+  <ATPP_CreateSX2KIFemale.label>制造TX2KI女性替代体智能人形 (SX2KI)</ATPP_CreateSX2KIFemale.label>
+  <ATPP_CreateSX2KIFemale.description>使用玻璃钢和零部件制造一个空白的SX2KI女性智能人形。</ATPP_CreateSX2KIFemale.description>
+  <ATPP_CreateSX2KIFemale.jobString>正在制造SX2KI女性智能人形。</ATPP_CreateSX2KIFemale.jobString>
+  <ATPP_CreateSX3I.label>制造TX3I男性替代体智能人形 (SX3I)</ATPP_CreateSX3I.label>
+  <ATPP_CreateSX3I.description>使用玻璃钢和零部件制造一个空白的SX3I男性智能人形。</ATPP_CreateSX3I.description>
+  <ATPP_CreateSX3I.jobString>正在制造SX3I智能人形。</ATPP_CreateSX3I.jobString>
+  <ATPP_CreateSX3IFemale.label>制造TX3I女性替代体智能人形 (SX3I)</ATPP_CreateSX3IFemale.label>
+  <ATPP_CreateSX3IFemale.description>使用玻璃钢和零部件制造一个空白的SX3I女性智能人形。</ATPP_CreateSX3IFemale.description>
+  <ATPP_CreateSX3IFemale.jobString>正在制造SX3I智能人形。</ATPP_CreateSX3IFemale.jobString>
+  <ATPP_CreateSX4I.label>制造TX4I替代体智能人形 (SX4I)</ATPP_CreateSX4I.label>
+  <ATPP_CreateSX4I.description>使用玻璃钢和零部件制造一个空白的SX4I智能人形。</ATPP_CreateSX4I.description>
+  <ATPP_CreateSX4I.jobString>正在制造SX4I智能人形。</ATPP_CreateSX4I.jobString>
+  <ATPP_CreateSX4IFemale.label>制造TX4I女性替代体智能人形 (SX4I)</ATPP_CreateSX4IFemale.label>
+  <ATPP_CreateSX4IFemale.description>使用玻璃钢和零部件制造一个空白的SX4I女性智能人形。</ATPP_CreateSX4IFemale.description>
+  <ATPP_CreateSX4IFemale.jobString>正在制造SX4I智能人形。</ATPP_CreateSX4IFemale.jobString>
+  <ATPP_CreateTX4Android.label>制造TX4男性智能人形</ATPP_CreateTX4Android.label>
+  <ATPP_CreateTX4Android.description>制造一个TX4男性智能人形</ATPP_CreateTX4Android.description>
+  <ATPP_CreateTX4Android.jobString>正在制造TX4智能人形</ATPP_CreateTX4Android.jobString>
+  <ATPP_CreateTX4FemaleAndroid.label>制造TX4女性智能人形</ATPP_CreateTX4FemaleAndroid.label>
+  <ATPP_CreateTX4FemaleAndroid.description>制造一个TX4女性智能人形</ATPP_CreateTX4FemaleAndroid.description>
+  <ATPP_CreateTX4FemaleAndroid.jobString>正在制造TX4智能人形</ATPP_CreateTX4FemaleAndroid.jobString>
+  <ATPP_CreateTX3Android.label>制造TX3男性智能人形</ATPP_CreateTX3Android.label>
+  <ATPP_CreateTX3Android.description>制造一个TX3男性智能人形</ATPP_CreateTX3Android.description>
+  <ATPP_CreateTX3Android.jobString>正在制造TX3智能人形</ATPP_CreateTX3Android.jobString>
+  <ATPP_CreateTX3FemaleAndroid.label>制造TX3女性智能人形</ATPP_CreateTX3FemaleAndroid.label>
+  <ATPP_CreateTX3FemaleAndroid.description>制造一个TX3女性智能人形</ATPP_CreateTX3FemaleAndroid.description>
+  <ATPP_CreateTX3FemaleAndroid.jobString>正在制造TX3智能人形</ATPP_CreateTX3FemaleAndroid.jobString>
+  <ATPP_CreateTX2Android.label>制造TX2男性智能人形</ATPP_CreateTX2Android.label>
+  <ATPP_CreateTX2Android.description>制造一个TX2男性智能人形</ATPP_CreateTX2Android.description>
+  <ATPP_CreateTX2Android.jobString>正在制造TX2智能人形</ATPP_CreateTX2Android.jobString>
+  <ATPP_CreateTX2FemaleAndroid.label>制造TX2女性智能人形</ATPP_CreateTX2FemaleAndroid.label>
+  <ATPP_CreateTX2FemaleAndroid.description>制造一个TX2女性智能人形</ATPP_CreateTX2FemaleAndroid.description>
+  <ATPP_CreateTX2FemaleAndroid.jobString>正在制造TX2智能人形</ATPP_CreateTX2FemaleAndroid.jobString>
+  <ATPP_CreateTX4IAndroid.label>制造TX4I男性智能人形</ATPP_CreateTX4IAndroid.label>
+  <ATPP_CreateTX4IAndroid.description>制造一个TX4I男性智能人形</ATPP_CreateTX4IAndroid.description>
+  <ATPP_CreateTX4IAndroid.jobString>正在制造TX4I智能人形</ATPP_CreateTX4IAndroid.jobString>
+  <ATPP_CreateTX4IFemaleAndroid.label>制造TX4I女性智能人形</ATPP_CreateTX4IFemaleAndroid.label>
+  <ATPP_CreateTX4IFemaleAndroid.description>制造一个TX4I女性智能人形</ATPP_CreateTX4IFemaleAndroid.description>
+  <ATPP_CreateTX4IFemaleAndroid.jobString>正在制造TX4I智能人形</ATPP_CreateTX4IFemaleAndroid.jobString>
+  <ATPP_CreateTX3IAndroid.label>制造TX3I男性智能人形</ATPP_CreateTX3IAndroid.label>
+  <ATPP_CreateTX3IAndroid.description>制造一个TX3I男性智能人形</ATPP_CreateTX3IAndroid.description>
+  <ATPP_CreateTX3IAndroid.jobString>正在制造TX3I智能人形</ATPP_CreateTX3IAndroid.jobString>
+  <ATPP_CreateTX3IFemaleAndroid.label>制造TX3I女性智能人形</ATPP_CreateTX3IFemaleAndroid.label>
+  <ATPP_CreateTX3IFemaleAndroid.description>制造一个TX3I女性智能人形</ATPP_CreateTX3IFemaleAndroid.description>
+  <ATPP_CreateTX3IFemaleAndroid.jobString>正在制造TX3I智能人形</ATPP_CreateTX3IFemaleAndroid.jobString>
+  <ATPP_CreateTX2IAndroid.label>制造TX2I男性智能人形</ATPP_CreateTX2IAndroid.label>
+  <ATPP_CreateTX2IAndroid.description>制造一个TX2I男性智能人形</ATPP_CreateTX2IAndroid.description>
+  <ATPP_CreateTX2IAndroid.jobString>正在制造TX2I智能人形</ATPP_CreateTX2IAndroid.jobString>
+  <ATPP_CreateTX2IFemaleAndroid.label>制造TX2I女性智能人形</ATPP_CreateTX2IFemaleAndroid.label>
+  <ATPP_CreateTX2IFemaleAndroid.description>制造一个TX2I女性智能人形</ATPP_CreateTX2IFemaleAndroid.description>
+  <ATPP_CreateTX2IFemaleAndroid.jobString>正在制造TX2I智能人形</ATPP_CreateTX2IFemaleAndroid.jobString>
+  <ATPP_CreateTX2KAndroid.label>制造TX2K男性智能人形</ATPP_CreateTX2KAndroid.label>
+  <ATPP_CreateTX2KAndroid.description>制造一个TX2K男性智能人形</ATPP_CreateTX2KAndroid.description>
+  <ATPP_CreateTX2KAndroid.jobString>正在制造TX2K智能人形</ATPP_CreateTX2KAndroid.jobString>
+  <ATPP_CreateTX2KFemaleAndroid.label>制造TX2K女性智能人形</ATPP_CreateTX2KFemaleAndroid.label>
+  <ATPP_CreateTX2KFemaleAndroid.description>制造一个TX2K女性智能人形</ATPP_CreateTX2KFemaleAndroid.description>
+  <ATPP_CreateTX2KFemaleAndroid.jobString>正在制造TX2K智能人形</ATPP_CreateTX2KFemaleAndroid.jobString>
+  <ATPP_CreateTX2KIAndroid.label>制造TX2KI智能人形</ATPP_CreateTX2KIAndroid.label>
+  <ATPP_CreateTX2KIAndroid.description>制造一个TX2KI智能人形</ATPP_CreateTX2KIAndroid.description>
+  <ATPP_CreateTX2KIAndroid.jobString>正在制造TX2KI智能人形</ATPP_CreateTX2KIAndroid.jobString>
+  <ATPP_CreateTX2KIFemaleAndroid.label>制造TX2KI女性智能人形</ATPP_CreateTX2KIFemaleAndroid.label>
+  <ATPP_CreateTX2KIFemaleAndroid.description>制造一个TX2KI女性智能人形</ATPP_CreateTX2KIFemaleAndroid.description>
+  <ATPP_CreateTX2KIFemaleAndroid.jobString>正在制造TX2KI智能人形</ATPP_CreateTX2KIFemaleAndroid.jobString>
+  <ATPP_MakeSyntheticSkinGland.label>合成皮肤腺体</ATPP_MakeSyntheticSkinGland.label>
+  <ATPP_MakeSyntheticSkinGland.description>使用碳氢化合燃料、中性胺防腐溶液、药品与织物支架合成人工皮肤腺体。</ATPP_MakeSyntheticSkinGland.description>
+  <ATPP_MakeSyntheticSkinGland.jobString>正在合成皮肤腺体。</ATPP_MakeSyntheticSkinGland.jobString>
+  <ATPP_GestateSyntheticSkinGland_Biotech.label>培育合成皮肤腺体</ATPP_GestateSyntheticSkinGland_Biotech.label>
+  <ATPP_GestateSyntheticSkinGland_Biotech.description>在智能人形培养舱中使用生物科技血源溶液、细胞营养液和医疗稳定剂，为TX系列渗透型智能人形培育活体合成皮肤腺体基质。</ATPP_GestateSyntheticSkinGland_Biotech.description>
+  <ATPP_GestateSyntheticSkinGland_Biotech.jobString>正在培育合成皮肤腺体。</ATPP_GestateSyntheticSkinGland_Biotech.jobString>
+  <ATPP_QE_GrowSyntheticSkinGland.label>培养合成皮肤腺体</ATPP_QE_GrowSyntheticSkinGland.label>
+  <ATPP_QE_GrowSyntheticSkinGland.description>在QEE器官培养槽中使用有机营养液和化学稳定剂培育活体生物合成皮肤腺体基质。</ATPP_QE_GrowSyntheticSkinGland.description>
+  <ATPP_QE_GrowSyntheticSkinGland.jobString>正在培养合成皮肤腺体。</ATPP_QE_GrowSyntheticSkinGland.jobString>
+  <ATPP_ApplySyntheticSkin.label>移植合成皮肤</ATPP_ApplySyntheticSkin.label>
+  <ATPP_ApplySyntheticSkin.description>将合成真皮基质移植到该TX步兵机体上，以类似人类的活体合成皮肤覆盖裸露的机械内骨骼。这能提升社交接受度与隔热能力，并消除雨水锈蚀，但代价是更易燃。</ATPP_ApplySyntheticSkin.description>
+  <ATPP_ApplySyntheticSkin.jobString>正在为智能人形移植合成皮肤。</ATPP_ApplySyntheticSkin.jobString>
+  <ATPP_RemoveSyntheticSkin.label>剥离合成皮肤</ATPP_RemoveSyntheticSkin.label>
+  <ATPP_RemoveSyntheticSkin.description>通过手术剥离该TX渗透型机体的合成皮肤层，露出其下方的强化步兵内骨骼。该智能人形将失去社交魅力，但获得火焰免疫与战场耐久度。</ATPP_RemoveSyntheticSkin.description>
+  <ATPP_RemoveSyntheticSkin.jobString>正在剥离智能人形的合成皮肤。</ATPP_RemoveSyntheticSkin.jobString>
+  <ATPP_QE_CreateTX2KMale.label>组装TX2K男性骨架（QEE培养槽）</ATPP_QE_CreateTX2KMale.label>
+  <ATPP_QE_CreateTX2KMale.description>组装一具未激活的男性TX2K外骨骼框架，并编码为用于器官培养槽孵化的基因组序列。</ATPP_QE_CreateTX2KMale.description>
+  <ATPP_QE_CreateTX2KMale.jobString>正在制造智能人形</ATPP_QE_CreateTX2KMale.jobString>
+  <ATPP_QE_CreateTX2KFemale.label>组装TX2K女性骨架（QEE培养槽）</ATPP_QE_CreateTX2KFemale.label>
+  <ATPP_QE_CreateTX2KFemale.description>组装一具未激活的女性TX2K外骨骼框架，并编码为用于器官培养槽孵化的基因组序列。</ATPP_QE_CreateTX2KFemale.description>
+  <ATPP_QE_CreateTX2KFemale.jobString>正在制造智能人形</ATPP_QE_CreateTX2KFemale.jobString>
+  <ATPP_QE_CreateSX2KMaleSurrogate.label>组装SX2K男性替代体骨架（QEE培养槽）</ATPP_QE_CreateSX2KMaleSurrogate.label>
+  <ATPP_QE_CreateSX2KMaleSurrogate.description>组装一具未激活的男性TX2K替代体外骨骼框架，并编码为用于器官培养槽孵化的基因组序列。</ATPP_QE_CreateSX2KMaleSurrogate.description>
+  <ATPP_QE_CreateSX2KMaleSurrogate.jobString>正在制造智能人形</ATPP_QE_CreateSX2KMaleSurrogate.jobString>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.label>组装SX2K女性替代体骨架（QEE培养槽）</ATPP_QE_CreateSX2KFemaleSurrogate.label>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.description>组装一具未激活的女性TX2K替代体外骨骼框架，并编码为用于器官培养槽孵化的基因组序列。</ATPP_QE_CreateSX2KFemaleSurrogate.description>
+  <ATPP_QE_CreateSX2KFemaleSurrogate.jobString>正在制造智能人形</ATPP_QE_CreateSX2KFemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX3Male.label>组装TX3男性骨架（QEE培养槽）</ATPP_QE_CreateTX3Male.label>
+  <ATPP_QE_CreateTX3Male.description>组装一具未激活的男性TX3外骨骼框架，并编码为用于器官培养槽孵化的基因组序列。</ATPP_QE_CreateTX3Male.description>
+  <ATPP_QE_CreateTX3Male.jobString>正在制造智能人形</ATPP_QE_CreateTX3Male.jobString>
+  <ATPP_QE_CreateTX3Female.label>组装TX3女性骨架（QEE培养槽）</ATPP_QE_CreateTX3Female.label>
+  <ATPP_QE_CreateTX3Female.description>组装一具未激活的女性TX3外骨骼框架，并编码为用于器官培养槽孵化的基因组序列。</ATPP_QE_CreateTX3Female.description>
+  <ATPP_QE_CreateTX3Female.jobString>正在制造智能人形</ATPP_QE_CreateTX3Female.jobString>
+  <ATPP_QE_CreateSX3MaleSurrogate.label>组装SX3男性替代体骨架（QEE培养槽）</ATPP_QE_CreateSX3MaleSurrogate.label>
+  <ATPP_QE_CreateSX3MaleSurrogate.description>组装一具未激活的男性TX3替代体外骨骼框架，并编码为用于器官培养槽孵化的基因组序列。</ATPP_QE_CreateSX3MaleSurrogate.description>
+  <ATPP_QE_CreateSX3MaleSurrogate.jobString>正在制造智能人形</ATPP_QE_CreateSX3MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX3FemaleSurrogate.label>组装SX3女性替代体骨架（QEE培养槽）</ATPP_QE_CreateSX3FemaleSurrogate.label>
+  <ATPP_QE_CreateSX3FemaleSurrogate.description>组装一具未激活的女性TX3替代体外骨骼框架，并编码为用于器官培养槽孵化的基因组序列。</ATPP_QE_CreateSX3FemaleSurrogate.description>
+  <ATPP_QE_CreateSX3FemaleSurrogate.jobString>正在制造智能人形</ATPP_QE_CreateSX3FemaleSurrogate.jobString>
+  <ATPP_QE_CreateTX4Male.label>组装TX4男性骨架（QEE培养槽）</ATPP_QE_CreateTX4Male.label>
+  <ATPP_QE_CreateTX4Male.description>组装一具未激活的男性TX4外骨骼框架，并编码为用于器官培养槽孵化的基因组序列。</ATPP_QE_CreateTX4Male.description>
+  <ATPP_QE_CreateTX4Male.jobString>正在制造智能人形</ATPP_QE_CreateTX4Male.jobString>
+  <ATPP_QE_CreateTX4Female.label>组装TX4女性骨架（QEE培养槽）</ATPP_QE_CreateTX4Female.label>
+  <ATPP_QE_CreateTX4Female.description>组装一具未激活的女性TX4外骨骼框架，并编码为用于器官培养槽孵化的基因组序列。</ATPP_QE_CreateTX4Female.description>
+  <ATPP_QE_CreateTX4Female.jobString>正在制造智能人形</ATPP_QE_CreateTX4Female.jobString>
+  <ATPP_QE_CreateSX4MaleSurrogate.label>组装SX4男性替代体骨架（QEE培养槽）</ATPP_QE_CreateSX4MaleSurrogate.label>
+  <ATPP_QE_CreateSX4MaleSurrogate.description>组装一具未激活的男性TX4替代体外骨骼框架，并编码为用于器官培养槽孵化的基因组序列。</ATPP_QE_CreateSX4MaleSurrogate.description>
+  <ATPP_QE_CreateSX4MaleSurrogate.jobString>正在制造智能人形</ATPP_QE_CreateSX4MaleSurrogate.jobString>
+  <ATPP_QE_CreateSX4FemaleSurrogate.label>组装SX4女性替代体骨架（QEE培养槽）</ATPP_QE_CreateSX4FemaleSurrogate.label>
+  <ATPP_QE_CreateSX4FemaleSurrogate.description>组装一具未激活的女性TX4替代体外骨骼框架，并编码为用于器官培养槽孵化的基因组序列。</ATPP_QE_CreateSX4FemaleSurrogate.description>
+  <ATPP_QE_CreateSX4FemaleSurrogate.jobString>正在制造智能人形</ATPP_QE_CreateSX4FemaleSurrogate.jobString>
 </LanguageData>

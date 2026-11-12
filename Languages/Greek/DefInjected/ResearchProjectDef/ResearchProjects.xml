@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATPP_ResearchSM7.label>Μηχανοειδές Μάχης SM7</ATPP_ResearchSM7.label>
+  <ATPP_ResearchSM7.description>Έρευνα για την κατασκευή μηχανοειδών μάχης SM7.</ATPP_ResearchSM7.description>
+  <ATPP_ResearchServerI100Serie.label>Διακομιστές Σειράς I100</ATPP_ResearchServerI100Serie.label>
+  <ATPP_ResearchServerI100Serie.description>Έρευνα για την κατασκευή διακομιστών ασφαλείας, χακαρίσματος και δεξιοτήτων σειράς I100: φθηνοί αλλά θορυβώδεις, μεγάλοι και όχι ιδιαίτερα αποδοτικοί.</ATPP_ResearchServerI100Serie.description>
+  <ATPP_ResearchServerI300Serie.label>Διακομιστές Σειράς I300</ATPP_ResearchServerI300Serie.label>
+  <ATPP_ResearchServerI300Serie.description>Έρευνα για την κατασκευή διακομιστών ασφαλείας, χακαρίσματος και δεξιοτήτων σειράς I300: θορυβώδεις αλλά μεσαίας αποδοτικότητας.</ATPP_ResearchServerI300Serie.description>
+  <ATPP_ResearchServerI500Serie.label>Διακομιστές Σειράς I500</ATPP_ResearchServerI500Serie.label>
+  <ATPP_ResearchServerI500Serie.description>Έρευνα για την κατασκευή διακομιστών ασφαλείας, χακαρίσματος και δεξιοτήτων σειράς I500: ακριβοί αλλά εξαιρετικά αποδοτικοί.</ATPP_ResearchServerI500Serie.description>
+  <ATPP_ResearchSkyCloudCore.label>Πυρήνας SkyCloud</ATPP_ResearchSkyCloudCore.label>
+  <ATPP_ResearchSkyCloudCore.description>Έρευνα για την κατασκευή διακομιστών Πυρήνα SkyCloud, ισχυρών υπερυπολογιστών που μπορούν να φιλοξενήσουν πολλές ψηφιοποιημένες συνειδήσεις και να τους επιτρέψουν να αλληλεπιδρούν με τον πραγματικό κόσμο μέσω κάθε συσκευής συνδεδεμένης στο δίκτυο SkyMind.</ATPP_ResearchSkyCloudCore.description>
+  <ATPP_ResearchBatteryOverload.label>Υπερφόρτωση μπαταρίας</ATPP_ResearchBatteryOverload.label>
+  <ATPP_ResearchBatteryOverload.description>Έρευνα για τη μετατροπή ανδροειδών σε κινούμενες βόμβες, προκαλώντας έκρηξη της εσωτερικής τους μπαταρίας.</ATPP_ResearchBatteryOverload.description>
+  <ATPP_ResearchVX0Chip.label>Νευρωνικό Τσιπ VX0</ATPP_ResearchVX0Chip.label>
+  <ATPP_ResearchVX0Chip.description>Έρευνα για την κατασκευή τσιπ VX0, ενός νευρωνικού τσιπ που μετατρέπει τον ξενιστή του σε βιολογικό υποκατάστατο.</ATPP_ResearchVX0Chip.description>
+  <ATPP_ResearchCharchingStation.label>Σταθμός Φόρτισης</ATPP_ResearchCharchingStation.label>
+  <ATPP_ResearchCharchingStation.description>Σας επιτρέπει να φορτίζετε έως και 8 ανδροειδή ταυτόχρονα απευθείας στην εσωτερική τους μπαταρία αντί μέσω της γεννήτριας βιομάζας τους.</ATPP_ResearchCharchingStation.description>
+  <ATPP_ResearchCraftBasicNanoKit.label>Βασικό Νανοκιτ</ATPP_ResearchCraftBasicNanoKit.label>
+  <ATPP_ResearchCraftBasicNanoKit.description>Σας επιτρέπει να κατασκευάζετε βασικά νανοκιτ που απαιτούνται για την επισκευή τραυματισμένων ανδροειδών</ATPP_ResearchCraftBasicNanoKit.description>
+  <ATPP_ResearchCraftIntermediateNanoKit.label>Ενδιάμεσο Νανοκιτ</ATPP_ResearchCraftIntermediateNanoKit.label>
+  <ATPP_ResearchCraftIntermediateNanoKit.description>Σας επιτρέπει να κατασκευάζετε ενδιάμεσα νανοκιτ που απαιτούνται για την επισκευή τραυματισμένων ανδροειδών</ATPP_ResearchCraftIntermediateNanoKit.description>
+  <ATPP_ResearchCraftAdvancedNanoKit.label>Προηγμένο Νανοκιτ</ATPP_ResearchCraftAdvancedNanoKit.label>
+  <ATPP_ResearchCraftAdvancedNanoKit.description>Σας επιτρέπει να κατασκευάζετε προηγμένα νανοκιτ που απαιτούνται για την επισκευή τραυματισμένων ανδροειδών</ATPP_ResearchCraftAdvancedNanoKit.description>
+  <ATPP_ResearchVX1Chip.label>Νευρωνικό Τσιπ VX1</ATPP_ResearchVX1Chip.label>
+  <ATPP_ResearchVX1Chip.description>Έρευνα για την κατασκευή του τσιπ VX1, ενός νευρωνικού τσιπ που επιτρέπει στον ξενιστή του να ελέγχει εξ αποστάσεως οποιοδήποτε ανδροειδές σειράς SX ή βιολογικό υποκατάστατο.</ATPP_ResearchVX1Chip.description>
+  <ATPP_ResearchVX2Chip.label>Νευρωνικό Τσιπ VX2</ATPP_ResearchVX2Chip.label>
+  <ATPP_ResearchVX2Chip.description>Έρευνα για την κατασκευή του τσιπ VX2, ενός νευρωνικού τσιπ που επιτρέπει στον ξενιστή του να ελέγχει εξ αποστάσεως οποιοδήποτε ανδροειδές σειράς SX ή βιολογικό υποκατάστατο και να αντιγράφει/αντιμεταθέτει τον νου του.</ATPP_ResearchVX2Chip.description>
+  <ATPP_ResearchVX3Chip.label>Νευρωνικό Τσιπ VX3</ATPP_ResearchVX3Chip.label>
+  <ATPP_ResearchVX3Chip.description>Έρευνα για την κατασκευή του τσιπ VX3, ενός νευρωνικού τσιπ που επιτρέπει στον ξενιστή του να ελέγχει εξ αποστάσεως πολλαπλά ανδροειδή σειράς SX ή βιολογικά υποκατάστατα ταυτόχρονα και να αντιγράφει/αντιμεταθέτει τον νου του.</ATPP_ResearchVX3Chip.description>
+  <ATPP_ResearchSkyMindWAN.label>Κεραία SkyMind V2</ATPP_ResearchSkyMindWAN.label>
+  <ATPP_ResearchSkyMindWAN.description>Έρευνα για την κατασκευή της Κεραίας SkyMind V2, η οποία χρησιμεύει ως βάση για τη μεταφορά της συνείδησης ενός αποίκου σε άλλον και επιτρέπει έως 15 αποίκους να συνδέονται ταυτόχρονα ανά Κεραία V2.</ATPP_ResearchSkyMindWAN.description>
+  <ATPP_ResearchSkyMindLAN.label>Κεραία SkyMind V1</ATPP_ResearchSkyMindLAN.label>
+  <ATPP_ResearchSkyMindLAN.description>Έρευνα για την κατασκευή της Κεραίας SkyMind V1, η οποία χρησιμεύει ως βάση για τη μεταφορά της συνείδησης ενός αποίκου σε άλλον και επιτρέπει έως 3 αποίκους να συνδέονται ταυτόχρονα ανά Κεραία V1.</ATPP_ResearchSkyMindLAN.description>
+  <ATPP_ResearchSurrogateHost.label>Ανδροειδή SX</ATPP_ResearchSurrogateHost.label>
+  <ATPP_ResearchSurrogateHost.description>Έρευνα για την κατασκευή ανδροειδών σειράς SX, τα οποία μοιάζουν με τη σειρά TX αλλά με τους τεχνητούς εγκεφάλους τους αντικατεστημένους από ένα προηγμένο σύστημα τηλεχειρισμού.</ATPP_ResearchSurrogateHost.description>
+  <ATPP_ResearchCraftRepairNaniteBanks.label>Θεραπεία Δυσλειτουργιών Γήρανσης</ATPP_ResearchCraftRepairNaniteBanks.label>
+  <ATPP_ResearchCraftRepairNaniteBanks.description>Σας επιτρέπει να κατασκευάζετε νανοΐτες που θεραπεύουν δυσλειτουργίες γήρανσης των ανδροειδών.</ATPP_ResearchCraftRepairNaniteBanks.description>
+</LanguageData>

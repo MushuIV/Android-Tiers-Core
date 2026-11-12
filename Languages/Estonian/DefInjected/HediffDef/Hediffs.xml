@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_ConsciousnessUpload.label>Meele üleslaadimine</ATPP_ConsciousnessUpload.label>
+	<ATPP_ConsciousnessUpload.labelNoun>Meele üleslaadimine</ATPP_ConsciousnessUpload.labelNoun>
+	<ATPP_NoHost.label>Ühendatud host puudub</ATPP_NoHost.label>
+	<ATPP_NoHost.labelNoun>Ühendatud host puudub</ATPP_NoHost.labelNoun>
+	<ATPP_HediffRXChip.label>RX närvikiip</ATPP_HediffRXChip.label>
+	<ATPP_HediffRXChip.labelNoun>Närvikiip, mis toimib isikliku SkyMind-repiiterina.</ATPP_HediffRXChip.labelNoun>
+	<ATPP_HediffVX0Chip.label>VX0 närvikiip</ATPP_HediffVX0Chip.label>
+	<ATPP_HediffVX0Chip.labelNoun>Närvikiip, mis muudab hosti bioloogiliseks surrogaadiks</ATPP_HediffVX0Chip.labelNoun>
+	<ATPP_HediffVX1Chip.label>VX1 närvikiip</ATPP_HediffVX1Chip.label>
+	<ATPP_HediffVX1Chip.labelNoun>VX1 närvikiip</ATPP_HediffVX1Chip.labelNoun>
+	<ATPP_HediffVX2Chip.label>VX2 närvikiip</ATPP_HediffVX2Chip.label>
+	<ATPP_HediffVX2Chip.labelNoun>VX2 närvikiip</ATPP_HediffVX2Chip.labelNoun>
+	<ATPP_HediffVX3Chip.label>VX3 närvikiip</ATPP_HediffVX3Chip.label>
+	<ATPP_HediffVX3Chip.labelNoun>VX3 närvikiip</ATPP_HediffVX3Chip.labelNoun>
+	<ATPP_InRemoteControlMode.label>Kaugjuhtimisrežiim lubatud</ATPP_InRemoteControlMode.label>
+	<ATPP_InRemoteControlMode.labelNoun>Kaugjuhtimisrežiim lubatud</ATPP_InRemoteControlMode.labelNoun>
+	<ATPP_RemotelyControlled.label>Kaugjuhitud</ATPP_RemotelyControlled.label>
+	<ATPP_RemotelyControlled.labelNoun>Kaugjuhitud</ATPP_RemotelyControlled.labelNoun>
+	<ATPP_SolarFlareAndroidImpact.label>Päikeseloide</ATPP_SolarFlareAndroidImpact.label>
+	<ATPP_SolarFlareAndroidImpact.labelNoun>Päikeseloide</ATPP_SolarFlareAndroidImpact.labelNoun>
+	<ATPP_LowNetworkSignal.label>Nõrk SkyMind-võrgu signaal</ATPP_LowNetworkSignal.label>
+	<ATPP_LowNetworkSignal.labelNoun>Nõrk SkyMind-võrgu signaal</ATPP_LowNetworkSignal.labelNoun>
+	<ATPP_Rusted.label>Roostetanud</ATPP_Rusted.label>
+	<ATPP_Rusted.labelNoun>Roostetanud</ATPP_Rusted.labelNoun>
+	<ATPP_BlankAndroid.label>Tühi närvivõrk</ATPP_BlankAndroid.label>
+	<ATPP_BlankAndroid.labelNoun>Tühi närvivõrk</ATPP_BlankAndroid.labelNoun>
+	<ATPP_SurrogateInit.label>Ühenduse lähtestamine</ATPP_SurrogateInit.label>
+	<ATPP_SurrogateInit.labelNoun>Ühenduse lähtestamine</ATPP_SurrogateInit.labelNoun>
+	<ATPP_AssistingMinds.label>Abistavad meeled SkyCloud-tuumadest</ATPP_AssistingMinds.label>
+	<ATPP_AssistingMinds.labelNoun>Abistavad meeled SkyCloud-tuumadest</ATPP_AssistingMinds.labelNoun>
+	<DecayedFrame.label>lagunev põhikarkass</DecayedFrame.label>
+	<DecayedFrame.labelNoun>lagunev põhikarkass</DecayedFrame.labelNoun>
+	<CorruptMemory.label>rikutud mälu</CorruptMemory.label>
+	<WeakValves.label>nõrgad klapid</WeakValves.label>
+	<ExaggeratedHealing.label>üliaktiivne reaktsioon</ExaggeratedHealing.label>
+	<FaultyPump.label>vigane pump</FaultyPump.label>
+	<FaultyPump.labelNoun>vigane pump</FaultyPump.labelNoun>
+	<ShutdownAndroid.label>kasutusest kõrvaldatud</ShutdownAndroid.label>
+	<ShutdownAndroid.description>Tehisintellekti tuum on jäädavalt välja lülitatud ja tühjendatud.</ShutdownAndroid.description>
+	<RebootingSequenceAT.label>Taaskäivitumine</RebootingSequenceAT.label>
+	<RebootingSequenceAT.description>Tehisintellekti tuumas on aktiivne taaskäivitamisjada.</RebootingSequenceAT.description>
+	<NoFreeWillAT.label>tundetu</NoFreeWillAT.label>
+	<NoFreeWillAT.labelNoun>tundetu</NoFreeWillAT.labelNoun>
+	<NoFreeWillAT.description>Tehisintellekti tuuma moraali- ja emotsioonivastuse sektorite muudatused, mille tulemuseks on täiesti neutraalne meeleolu ja kõrgemate funktsioonide puudumine.</NoFreeWillAT.description>
+	<FreshReprogramming.label>hiljuti ümberprogrammeeritud</FreshReprogramming.label>
+	<FreshReprogramming.description>Hiljuti ümberprogrammeeritud tehisintellekti tuum. Kogu uue tarkvara kompileerimine ja automaatkorrigeerimine võib põhjustada võimete ajutist langust.</FreshReprogramming.description>
+	<OverclockedAndroid.label>ülekiirendatud</OverclockedAndroid.label>
+	<OverclockedAndroid.labelNoun>ülekiirenduse täiustus</OverclockedAndroid.labelNoun>
+	<OverclockedAndroid.description>Androidi tehisintellekti tuuma töötlussektoreid on kiirendatud, mis annab tulemuseks kiirema arvutamise, kuid suurendab ka riistvara koormust.</OverclockedAndroid.description>
+	<BatteryChargeMech.label>Aku</BatteryChargeMech.label>
+	<BatteryChargeMech.description>Aku järelejäänud tööiga enne väljalülitumist</BatteryChargeMech.description>
+	<AndroidCoolantLoss.label>jahutusvedeliku leke</AndroidCoolantLoss.label>
+	<AndroidCoolantLoss.description>Jahutusvedeliku kadu sisemistes torudes, mille tulemuseks on vähenenud jahutusvõime ja sisekomponentide ülekuumenemine.</AndroidCoolantLoss.description>
+	<AndroidOverheating.label>ülekuumenemine</AndroidOverheating.label>
+	<AndroidFreezing.label>Külmumine</AndroidFreezing.label>
+	<PlatingSteel.label>Terasraam</PlatingSteel.label>
+	<PlatingSteel.labelNoun>tavaline terasraam</PlatingSteel.labelNoun>
+	<PlatingSteel.description>Paigaldatud terasraam.</PlatingSteel.description>
+	<PlatingPlasteel.label>plastterasest raamikate</PlatingPlasteel.label>
+	<PlatingPlasteel.labelNoun>tugev plastterasest raamikate</PlatingPlasteel.labelNoun>
+	<PlatingPlasteel.description>Paigaldatud plastterasest raamikate.</PlatingPlasteel.description>
+	<PlatingComposite.label>komposiitraami soomus</PlatingComposite.label>
+	<PlatingComposite.labelNoun>suure tõmbetugevusega komposiitsoomus</PlatingComposite.labelNoun>
+	<PlatingComposite.description>Paigaldatud komposiitraami soomus.</PlatingComposite.description>
+	<MiningArm_AT.label>kaevanduskäsi</MiningArm_AT.label>
+	<MiningArm_AT.labelNoun>kaevanduskäsi</MiningArm_AT.labelNoun>
+	<MiningArm_AT.description>Paigaldatud kaevanduskäsi.</MiningArm_AT.description>
+	<HydraulicFrame.label>hüdrauliline karkass</HydraulicFrame.label>
+	<HydraulicFrame.labelNoun>hüdrauliline karkass</HydraulicFrame.labelNoun>
+	<HydraulicFrame.description>Paigaldatud hüdrauliline karkass.</HydraulicFrame.description>
+	<HydraulicLeg.label>hüdrauliline jalg</HydraulicLeg.label>
+	<HydraulicLeg.labelNoun>hüdrauliline jalg</HydraulicLeg.labelNoun>
+	<HydraulicLeg.description>Paigaldatud hüdrauliline jalg.</HydraulicLeg.description>
+	<HydraulicArm.label>hüdrauliline käsi</HydraulicArm.label>
+	<HydraulicArm.labelNoun>hüdrauliline käsi</HydraulicArm.labelNoun>
+	<HydraulicArm.description>Paigaldatud hüdrauliline käsi.</HydraulicArm.description>
+	<MakeshiftRLeg.label>ajutine asendusjalg</MakeshiftRLeg.label>
+	<MakeshiftRLeg.labelNoun>ajutine asendusjalg</MakeshiftRLeg.labelNoun>
+	<MakeshiftRLeg.description>Paigaldatud ajutine asendusjalg.</MakeshiftRLeg.description>
+	<MakeshiftRArm.label>ajutine asenduskäsi</MakeshiftRArm.label>
+	<MakeshiftRArm.labelNoun>ajutine asenduskäsi</MakeshiftRArm.labelNoun>
+	<MakeshiftRArm.description>Paigaldatud ajutine asenduskäsi.</MakeshiftRArm.description>
+	<BRArm.label>tavaline asenduskäsi</BRArm.label>
+	<BRArm.labelNoun>tavaline asenduskäsi</BRArm.labelNoun>
+	<BRArm.description>Paigaldatud tavaline asenduskäsi.</BRArm.description>
+	<BRLeg.label>tavaline asendusjalg</BRLeg.label>
+	<BRLeg.labelNoun>tavaline asendusjalg</BRLeg.labelNoun>
+	<BRLeg.description>Paigaldatud tavaline asendusjalg.</BRLeg.description>
+	<BLReceptor.label>lihtne valgusandur</BLReceptor.label>
+	<BLReceptor.labelNoun>lihtne valgusandur</BLReceptor.labelNoun>
+	<BLReceptor.description>Paigaldatud lihtne valgusandur.</BLReceptor.description>
+	<BHeatsink.label>lihtne jahutusradiaator</BHeatsink.label>
+	<BHeatsink.labelNoun>lihtne jahutusradiaator</BHeatsink.labelNoun>
+	<BHeatsink.description>Paigaldatud lihtne jahutusradiaator.</BHeatsink.description>
+	<BCoolantPump.label>lihtne jahutuspump</BCoolantPump.label>
+	<BCoolantPump.labelNoun>lihtne jahutuspump</BCoolantPump.labelNoun>
+	<BCoolantPump.description>Paigaldatud lihtne jahutuspump.</BCoolantPump.description>
+	<BBattery.label>lihtne akupakk</BBattery.label>
+	<BBattery.labelNoun>lihtne akupakk</BBattery.labelNoun>
+	<BBattery.description>Paigaldatud lihtne akupakk.</BBattery.description>
+	<BMStorage.label>lihtne mehaniidihoidla</BMStorage.label>
+	<BMStorage.labelNoun>lihtne mehaniidihoidla</BMStorage.labelNoun>
+	<BMStorage.description>Paigaldatud lihtne mehaniidihoidla.</BMStorage.description>
+	<BTransformer.label>lihtne bioreaktor</BTransformer.label>
+	<BTransformer.labelNoun>lihtne bioreaktor</BTransformer.labelNoun>
+	<BTransformer.description>Paigaldatud lihtne bioreaktor.</BTransformer.description>
+	<BVAdapter.label>lihtne voolumuundur</BVAdapter.label>
+	<BVAdapter.labelNoun>lihtne voolumuundur</BVAdapter.labelNoun>
+	<BVAdapter.description>Paigaldatud lihtne voolumuundur.</BVAdapter.description>
+	<BasicRearCounterweight.label>tavaline vastukaal</BasicRearCounterweight.label>
+	<BasicRearCounterweight.labelNoun>tavaline vastukaal</BasicRearCounterweight.labelNoun>
+	<BasicRearCounterweight.description>Paigaldatud tavaline vastukaal.</BasicRearCounterweight.description>
+	<CrudeJawAndroid.label>lihtne lõug</CrudeJawAndroid.label>
+	<CrudeJawAndroid.labelNoun>lihtne lõug</CrudeJawAndroid.labelNoun>
+	<CrudeJawAndroid.description>Paigaldatud lihtne lõug.</CrudeJawAndroid.description>
+	<ARArm.label>suure võimsusega käsi</ARArm.label>
+	<ARArm.labelNoun>suure võimsusega käsi</ARArm.labelNoun>
+	<ARArm.description>Paigaldatud suure võimsusega käsi.</ARArm.description>
+	<ARLeg.label>suure võimsusega jalg</ARLeg.label>
+	<ARLeg.labelNoun>suure võimsusega jalg</ARLeg.labelNoun>
+	<ARLeg.description>Paigaldatud suure võimsusega jalg.</ARLeg.description>
+	<ALReceptor.label>täiustatud valgusandur</ALReceptor.label>
+	<ALReceptor.labelNoun>täiustatud valgusandur</ALReceptor.labelNoun>
+	<ALReceptor.description>Paigaldatud täiustatud valgusandur.</ALReceptor.description>
+	<AHeatsink.label>täiustatud jahutusradiaator</AHeatsink.label>
+	<AHeatsink.labelNoun>täiustatud jahutusradiaator</AHeatsink.labelNoun>
+	<AHeatsink.description>Paigaldatud täiustatud jahutusradiaator.</AHeatsink.description>
+	<ACoolantPump.label>täiustatud jahutuspump</ACoolantPump.label>
+	<ACoolantPump.labelNoun>täiustatud jahutuspump</ACoolantPump.labelNoun>
+	<ACoolantPump.description>Paigaldatud täiustatud jahutuspump.</ACoolantPump.description>
+	<ABattery.label>täiustatud akupakk</ABattery.label>
+	<ABattery.labelNoun>täiustatud akupakk</ABattery.labelNoun>
+	<ABattery.description>Paigaldatud täiustatud akupakk.</ABattery.description>
+	<AMStorage.label>täiustatud mehaniidihoidla</AMStorage.label>
+	<AMStorage.labelNoun>täiustatud mehaniidihoidla</AMStorage.labelNoun>
+	<AMStorage.description>Paigaldatud täiustatud mehaniidihoidla.</AMStorage.description>
+	<ATransformer.label>täiustatud bioreaktor</ATransformer.label>
+	<ATransformer.labelNoun>täiustatud bioreaktor</ATransformer.labelNoun>
+	<ATransformer.description>Paigaldatud täiustatud bioreaktor.</ATransformer.description>
+	<AVAdapter.label>täiustatud voolumuundur</AVAdapter.label>
+	<AVAdapter.labelNoun>täiustatud voolumuundur</AVAdapter.labelNoun>
+	<AVAdapter.description>Paigaldatud täiustatud voolumuundur.</AVAdapter.description>
+	<AdvRearCounterweight.label>güroskoopiline vastukaal</AdvRearCounterweight.label>
+	<AdvRearCounterweight.labelNoun>güroskoopiline vastukaal</AdvRearCounterweight.labelNoun>
+	<AdvRearCounterweight.description>Paigaldatud güroskoopiline vastukaal.</AdvRearCounterweight.description>
+	<AdvJawAndroid.label>küberneetiline lõug</AdvJawAndroid.label>
+	<AdvJawAndroid.labelNoun>küberneetiline lõug</AdvJawAndroid.labelNoun>
+	<AdvJawAndroid.description>Paigaldatud küberneetiline lõug.</AdvJawAndroid.description>
+	<PositronMind.label>Positroonne ümberjuhtmestamine</PositronMind.label>
+	<PositronMind.labelNoun>positroonne ümberjuhtmestamine</PositronMind.labelNoun>
+	<PositronMind.description>Paigaldatud positroonne ümberjuhtmestamine.</PositronMind.description>
+	<SoldierMind.label>Sõduri täiustus</SoldierMind.label>
+	<SoldierMind.labelNoun>sõduri täiustus</SoldierMind.labelNoun>
+	<SoldierMind.description>Paigaldatud sõduri täiustus.</SoldierMind.description>
+	<BuilderMind.label>Jooniste pangad</BuilderMind.label>
+	<BuilderMind.labelNoun>jooniste pank</BuilderMind.labelNoun>
+	<BuilderMind.description>Paigaldatud jooniste pank.</BuilderMind.description>
+	<SurgeonMind.label>Implanteeritud trikorder</SurgeonMind.label>
+	<SurgeonMind.labelNoun>implanteeritud trikorder</SurgeonMind.labelNoun>
+	<SurgeonMind.description>Implanteeritud trikorder.</SurgeonMind.description>
+	<SpeedMind.label>Neuraalsed kiirteed</SpeedMind.label>
+	<SpeedMind.labelNoun>Neuraalsed kiirteed</SpeedMind.labelNoun>
+	<SpeedMind.description>Paigaldatud neuraalsed kiirteed.</SpeedMind.description>
+	<GeoMind.label>Geoloogiapangad</GeoMind.label>
+	<GeoMind.labelNoun>geoloogiapank</GeoMind.labelNoun>
+	<GeoMind.description>Paigaldatud geoloogiapank.</GeoMind.description>
+	<MechanicMind.label>Inseneriimplantaat</MechanicMind.label>
+	<MechanicMind.labelNoun>inseneriimplantaat</MechanicMind.labelNoun>
+	<MechanicMind.description>Paigaldatud inseneriimplantaat.</MechanicMind.description>
+	<CookingMind.label>Kokandusimplantaat</CookingMind.label>
+	<CookingMind.labelNoun>kokandusimplantaat</CookingMind.labelNoun>
+	<CookingMind.description>Paigaldatud kokandusimplantaat.</CookingMind.description>
+	<CharismaMind.label>Karismaimplantaat</CharismaMind.label>
+	<CharismaMind.labelNoun>karismaimplantaat</CharismaMind.labelNoun>
+	<CharismaMind.description>Paigaldatud karismaimplantaat.</CharismaMind.description>
+	<NegotiatorMind.label>Läbirääkijaimplantaat</NegotiatorMind.label>
+	<NegotiatorMind.labelNoun>läbirääkijaimplantaat</NegotiatorMind.labelNoun>
+	<NegotiatorMind.description>Paigaldatud läbirääkijaimplantaat.</NegotiatorMind.description>
+	<ZoologyMind.label>Zooloogiaimplantaat</ZoologyMind.label>
+	<ZoologyMind.labelNoun>zooloogiaimplantaat</ZoologyMind.labelNoun>
+	<ZoologyMind.description>Paigaldatud zooloogiaimplantaat.</ZoologyMind.description>
+	<AgriculturalMind.label>Põllumajandusimplantaat</AgriculturalMind.label>
+	<AgriculturalMind.labelNoun>põllumajandusimplantaat</AgriculturalMind.labelNoun>
+	<AgriculturalMind.description>Paigaldatud põllumajandusimplantaat.</AgriculturalMind.description>
+	<UnskilledMind.label>Lihttöökiip</UnskilledMind.label>
+	<UnskilledMind.labelNoun>lihttöökiip</UnskilledMind.labelNoun>
+	<UnskilledMind.description>Paigaldatud lihttöökiip.</UnskilledMind.description>
+	<AR2Arm.label>Küberneetiline käsi</AR2Arm.label>
+	<AR2Arm.labelNoun>küberneetiline käsi</AR2Arm.labelNoun>
+	<AR2Arm.description>Paigaldatud küberneetiline käsi.</AR2Arm.description>
+	<AR2Leg.label>Küberneetiline jalg</AR2Leg.label>
+	<AR2Leg.labelNoun>küberneetiline jalg</AR2Leg.labelNoun>
+	<AR2Leg.description>Paigaldatud küberneetiline jalg.</AR2Leg.description>
+	<AL2Receptor.label>arhotehnoloogiline valgusandur</AL2Receptor.label>
+	<AL2Receptor.labelNoun>arhotehnoloogiline valgusandur</AL2Receptor.labelNoun>
+	<AL2Receptor.description>Paigaldatud arhotehnoloogiline valgusandur.</AL2Receptor.description>
+	<A2Heatsink.label>arhotehnoloogiline jahutusradiaator</A2Heatsink.label>
+	<A2Heatsink.labelNoun>arhotehnoloogiline jahutusradiaator</A2Heatsink.labelNoun>
+	<A2Heatsink.description>Paigaldatud arhotehnoloogiline jahutusradiaator.</A2Heatsink.description>
+	<A2CoolantPump.label>arhotehnoloogiline jahutuspump</A2CoolantPump.label>
+	<A2CoolantPump.labelNoun>arhotehnoloogiline jahutuspump</A2CoolantPump.labelNoun>
+	<A2CoolantPump.description>Paigaldatud arhotehnoloogiline jahutuspump.</A2CoolantPump.description>
+	<A2Battery.label>arhotehnoloogiline akupakk</A2Battery.label>
+	<A2Battery.labelNoun>arhotehnoloogiline akupakk</A2Battery.labelNoun>
+	<A2Battery.description>Paigaldatud arhotehnoloogiline akupakk.</A2Battery.description>
+	<A2MStorage.label>arhotehnoloogiline mehaniidihoidla</A2MStorage.label>
+	<A2MStorage.labelNoun>arhotehnoloogiline mehaniidihoidla</A2MStorage.labelNoun>
+	<A2MStorage.description>Paigaldatud arhotehnoloogiline mehaniidihoidla.</A2MStorage.description>
+	<A2Transformer.label>arhotehnoloogiline bioreaktor</A2Transformer.label>
+	<A2Transformer.labelNoun>arhotehnoloogiline bioreaktor</A2Transformer.labelNoun>
+	<A2Transformer.description>Paigaldatud arhotehnoloogiline bioreaktor.</A2Transformer.description>
+	<A2VAdapter.label>arhotehnoloogiline voolumuundur</A2VAdapter.label>
+	<A2VAdapter.labelNoun>arhotehnoloogiline voolumuundur</A2VAdapter.labelNoun>
+	<A2VAdapter.description>Paigaldatud arhotehnoloogiline voolumuundur.</A2VAdapter.description>
+	<HearingSensorCrude.label>lihtne kuulmisandur</HearingSensorCrude.label>
+	<HearingSensorCrude.labelNoun>lihtne kuulmisandur</HearingSensorCrude.labelNoun>
+	<HearingSensorCrude.description>Paigaldatud lihtne kuulmisandur.</HearingSensorCrude.description>
+	<HearingSensorAdv.label>täiustatud kuulmisandur</HearingSensorAdv.label>
+	<HearingSensorAdv.labelNoun>täiustatud kuulmisandur</HearingSensorAdv.labelNoun>
+	<HearingSensorAdv.description>Paigaldatud täiustatud kuulmisandur.</HearingSensorAdv.description>
+	<HearingSensorArch.label>arhotehnoloogiline kuulmisandur</HearingSensorArch.label>
+	<HearingSensorArch.labelNoun>arhotehnoloogiline kuulmisandur</HearingSensorArch.labelNoun>
+	<HearingSensorArch.description>Paigaldatud arhotehnoloogiline kuulmisandur.</HearingSensorArch.description>
+	<SmellSensorAdv.label>täiustatud lõhnaandur</SmellSensorAdv.label>
+	<SmellSensorAdv.labelNoun>täiustatud lõhnaandur</SmellSensorAdv.labelNoun>
+	<SmellSensorAdv.description>Paigaldatud täiustatud lõhnaandur.</SmellSensorAdv.description>
+	<SmellingSensorCrude.label>lihtne lõhnaandur</SmellingSensorCrude.label>
+	<SmellingSensorCrude.labelNoun>lihtne lõhnaandur</SmellingSensorCrude.labelNoun>
+	<SmellingSensorCrude.description>Paigaldatud lihtne lõhnaandur.</SmellingSensorCrude.description>
+	<SmellingSensorArch.label>arhotehnoloogiline lõhnaandur</SmellingSensorArch.label>
+	<SmellingSensorArch.labelNoun>arhotehnoloogiline lõhnaandur</SmellingSensorArch.labelNoun>
+	<SmellingSensorArch.description>Paigaldatud arhotehnoloogiline lõhnaandur.</SmellingSensorArch.description>
+	<EvolvingMind.label>Arenev tehisintellekt</EvolvingMind.label>
+	<EvolvingMind.labelNoun>arenev tehisintellekt</EvolvingMind.labelNoun>
+	<EvolvingMind.description>Paigaldatud arenev tehisintellekt.</EvolvingMind.description>
+	<AndroidTiers_EmotionlessCard.label>Sotsiaalne suhtlus keelatud</AndroidTiers_EmotionlessCard.label>
+	<AndroidTiers_EmotionlessCard.labelNoun>Sotsiaalne suhtlus keelatud</AndroidTiers_EmotionlessCard.labelNoun>
+	<Backstory_PitFighterUpgrade.label>areenikindad</Backstory_PitFighterUpgrade.label>
+	<Backstory_PitFighterUpgrade.labelNoun>areenikinnas</Backstory_PitFighterUpgrade.labelNoun>
+	<Backstory_PitFighterUpgrade.description>Paigaldatud kinnas.</Backstory_PitFighterUpgrade.description>
+	<Backstory_TranscendantAssimilatorUpgrade.label>Plasmakinnas</Backstory_TranscendantAssimilatorUpgrade.label>
+	<Backstory_TranscendantAssimilatorUpgrade.labelNoun>plasmakinnas</Backstory_TranscendantAssimilatorUpgrade.labelNoun>
+	<Backstory_TranscendantAssimilatorUpgrade.description>Paigaldatud kinnas.</Backstory_TranscendantAssimilatorUpgrade.description>
+	<Backstory_HighCouncilUpgrade.label>Kvanttöötlus</Backstory_HighCouncilUpgrade.label>
+	<Backstory_HighCouncilUpgrade.labelNoun>kvantmeel</Backstory_HighCouncilUpgrade.labelNoun>
+	<Backstory_HighCouncilUpgrade.description>Paigaldatud kvantmeel.</Backstory_HighCouncilUpgrade.description>
+	<SGelhuman.label>Struktuurigeel</SGelhuman.label>
+	<SGelhuman.description>Vereringes voolav aminohapete ja mehaniitide segu; väga mürgine ja võib põhjustada krampe.</SGelhuman.description>
+	<SGelandroid.label>Struktuurigeel</SGelandroid.label>
+	<SGelandroid.description>Jahutustorudes voolav aminohapete ja mehaniitide segu; aitab hoida sisekomponente parema jõudluse tagamiseks töökorras.</SGelandroid.description>
+	<Toxicated.label>Mürgistunud</Toxicated.label>
+	<Toxicated.description>Mürgised ühendid vereringes; põhjustab hingamisraskusi ja oksendamist.</Toxicated.description>
+	<AFreezeandroid.label>Polümeer-antifriis</AFreezeandroid.label>
+	<AFreezeandroid.description>Polümeeripõhine antifriis jahutustorustikus. Aitab temperatuuri reguleerida nii kuumas kui külmas keskkonnas.</AFreezeandroid.description>
+	<MechSwarmandroid.label>Mehhaparv</MechSwarmandroid.label>
+	<MechSwarmandroid.description>Jahutustorustikus voolavad nanomehaniidid. Aitab hoida sisekomponente tippvormis.</MechSwarmandroid.description>
+	<Conversion.label>???</Conversion.label>
+	<Conversion.description>Fraktaalühendid vereringes. Põhjustab krampe, rohket oksendamist ja naha ägedat rebenemist raske koepõletiku tõttu.</Conversion.description>
+	<FractalPillAndroid.label>Fraktaaltäiustus</FractalPillAndroid.label>
+	<FractalPillAndroid.description>Fraktaalühendid jahutustorustikus. Parandab oluliselt kõigi toimingute tõhusust ja võimsust.</FractalPillAndroid.description>
+	<RegenHumanoid.label>Monosalv</RegenHumanoid.label>
+	<RegenHumanoid.description>Aktiivsed taastavad lahustid vereringes. Soodustab rakkude baastaastumist.</RegenHumanoid.description>
+	<RegenAndroid.label>Monosalv</RegenAndroid.label>
+	<RegenAndroid.description>Aktiivsed taastavad lahustid jahutustorustikus. Aitab mehhanisme automaattiselt parandada.</RegenAndroid.description>
+	<ATPP_DummyHediff.label>DummyHediff</ATPP_DummyHediff.label>
+	<ATPP_DummyHediff.labelNoun>DummyHediff</ATPP_DummyHediff.labelNoun>
+</LanguageData>

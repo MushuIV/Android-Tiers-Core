@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_ResearchSM7.label>SM7-taistelumekanoidi</ATPP_ResearchSM7.label>
+	<ATPP_ResearchSM7.description>Tutki, miten SM7-taistelumekanoideja rakennetaan.</ATPP_ResearchSM7.description>
+	<ATPP_ResearchServerI100Serie.label>I100-sarjan palvelimet</ATPP_ResearchServerI100Serie.label>
+	<ATPP_ResearchServerI100Serie.description>Tutki, miten rakennetaan I100-sarjan turva-, hakkerointi- ja taitopalvelimia: halpoja, mutta äänekkäitä, kookkaita ja tehottomia.</ATPP_ResearchServerI100Serie.description>
+	<ATPP_ResearchServerI300Serie.label>I300-sarjan palvelimet</ATPP_ResearchServerI300Serie.label>
+	<ATPP_ResearchServerI300Serie.description>Tutki, miten rakennetaan I300-sarjan turva-, hakkerointi- ja taitopalvelimia: äänekkäitä, mutta keskitasoisen tehokkaita.</ATPP_ResearchServerI300Serie.description>
+	<ATPP_ResearchServerI500Serie.label>I500-sarjan palvelimet</ATPP_ResearchServerI500Serie.label>
+	<ATPP_ResearchServerI500Serie.description>Tutki, miten rakennetaan I500-sarjan turva-, hakkerointi- ja taitopalvelimia: kalliita, mutta erittäin tehokkaita.</ATPP_ResearchServerI500Serie.description>
+	<ATPP_ResearchSkyCloudCore.label>SkyCloud-ydin</ATPP_ResearchSkyCloudCore.label>
+	<ATPP_ResearchSkyCloudCore.description>Tutki, miten rakennetaan SkyCloud-ydinpalvelimia. Ne ovat tehokkaita supertietokoneita, jotka voivat isännöidä useita digitoituja tietoisuuksia ja antaa niiden toimia todellisessa maailmassa kaikkien SkyMind-verkkoon yhdistettyjen laitteiden kautta.</ATPP_ResearchSkyCloudCore.description>
+	<ATPP_ResearchBatteryOverload.label>Akun ylikuormitus</ATPP_ResearchBatteryOverload.label>
+	<ATPP_ResearchBatteryOverload.description>Tutki, miten androidit muutetaan käveleviksi pommeiksi räjäyttämällä niiden sisäinen akku.</ATPP_ResearchBatteryOverload.description>
+	<ATPP_ResearchVX0Chip.label>VX0-neurosiru</ATPP_ResearchVX0Chip.label>
+	<ATPP_ResearchVX0Chip.description>Tutki, miten valmistetaan VX0-siruja, neurosiruja jotka muuttavat isäntänsä biologiseksi surrogaatiksi.</ATPP_ResearchVX0Chip.description>
+	<ATPP_ResearchCharchingStation.label>Latausasema</ATPP_ResearchCharchingStation.label>
+	<ATPP_ResearchCharchingStation.description>Mahdollistaa jopa 8 androidin lataamisen samanaikaisesti suoraan niiden sisäiseen akkuun biomassageneraattorin sijaan.</ATPP_ResearchCharchingStation.description>
+	<ATPP_ResearchCraftBasicNanoKit.label>Perusnanopakkaus</ATPP_ResearchCraftBasicNanoKit.label>
+	<ATPP_ResearchCraftBasicNanoKit.description>Mahdollistaa perusnanopakkausten valmistamisen, joita tarvitaan loukkaantuneiden androidien korjaamiseen.</ATPP_ResearchCraftBasicNanoKit.description>
+	<ATPP_ResearchCraftIntermediateNanoKit.label>Keskinkertainen nanopakkaus</ATPP_ResearchCraftIntermediateNanoKit.label>
+	<ATPP_ResearchCraftIntermediateNanoKit.description>Mahdollistaa keskinkertaisten nanopakkausten valmistamisen, joita tarvitaan loukkaantuneiden androidien korjaamiseen.</ATPP_ResearchCraftIntermediateNanoKit.description>
+	<ATPP_ResearchCraftAdvancedNanoKit.label>Edistynyt nanopakkaus</ATPP_ResearchCraftAdvancedNanoKit.label>
+	<ATPP_ResearchCraftAdvancedNanoKit.description>Mahdollistaa edistyneiden nanopakkausten valmistamisen, joita tarvitaan loukkaantuneiden androidien korjaamiseen.</ATPP_ResearchCraftAdvancedNanoKit.description>
+	<ATPP_ResearchVX1Chip.label>VX1-neurosiru</ATPP_ResearchVX1Chip.label>
+	<ATPP_ResearchVX1Chip.description>Tutki, miten valmistetaan VX1-siru, neurosiru jonka avulla isäntä voi etäohjata mitä tahansa SX-sarjan androidia tai biologista surrogaattia.</ATPP_ResearchVX1Chip.description>
+	<ATPP_ResearchVX2Chip.label>VX2-neurosiru</ATPP_ResearchVX2Chip.label>
+	<ATPP_ResearchVX2Chip.description>Tutki, miten valmistetaan VX2-siru, neurosiru jonka avulla isäntä voi etäohjata mitä tahansa SX-sarjan androidia tai biologista surrogaattia sekä monistaa/vaihtaa mielensä.</ATPP_ResearchVX2Chip.description>
+	<ATPP_ResearchVX3Chip.label>VX3-neurosiru</ATPP_ResearchVX3Chip.label>
+	<ATPP_ResearchVX3Chip.description>Tutki, miten valmistetaan VX3-siru, neurosiru jonka avulla isäntä voi etäohjata useita SX-sarjan androideja tai biologisia surrogaatteja samanaikaisesti sekä monistaa/vaihtaa mielensä.</ATPP_ResearchVX3Chip.description>
+	<ATPP_ResearchSkyMindWAN.label>SkyMind V2 -antenni</ATPP_ResearchSkyMindWAN.label>
+	<ATPP_ResearchSkyMindWAN.description>Tutki, miten rakennetaan SkyMind V2 -antenni, joka toimii perustana siirtolaisen tietoisuuden siirtämiseen toiseen ja tukee enintään 15 samanaikaisesti yhdistettyä siirtolaista V2-antennia kohti.</ATPP_ResearchSkyMindWAN.description>
+	<ATPP_ResearchSkyMindLAN.label>SkyMind V1 -antenni</ATPP_ResearchSkyMindLAN.label>
+	<ATPP_ResearchSkyMindLAN.description>Tutki, miten rakennetaan SkyMind V1 -antenni, joka toimii perustana siirtolaisen tietoisuuden siirtämiseen toiseen ja tukee enintään 3 samanaikaisesti yhdistettyä siirtolaista V1-antennia kohti.</ATPP_ResearchSkyMindLAN.description>
+	<ATPP_ResearchSurrogateHost.label>SX-androidit</ATPP_ResearchSurrogateHost.label>
+	<ATPP_ResearchSurrogateHost.description>Tutki, miten rakennetaan SX-sarjan androideja, jotka muistuttavat TX-sarjaa, mutta joiden keinotekoiset aivot on korvattu edistyneellä etäohjausjärjestelmällä.</ATPP_ResearchSurrogateHost.description>
+	<ATPP_ResearchCraftRepairNaniteBanks.label>Vanhuusvikojen parantaminen</ATPP_ResearchCraftRepairNaniteBanks.label>
+	<ATPP_ResearchCraftRepairNaniteBanks.description>Mahdollistaa naniittien valmistamisen, jotka parantavat androidien vanhuudesta johtuvat toimintahäiriöt.</ATPP_ResearchCraftRepairNaniteBanks.description>
+</LanguageData>

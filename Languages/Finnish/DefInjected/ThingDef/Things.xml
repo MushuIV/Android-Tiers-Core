@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ATPP_T4BlankGeneratorAI.label>Tyhjä T4-androidi</ATPP_T4BlankGeneratorAI.label>
+	<ATPP_T4BlankGeneratorAI.description>Luo tyhjän neuroverkon androidin</ATPP_T4BlankGeneratorAI.description>
+	<ATPP_T3BlankGeneratorAI.label>Tyhjä T3-androidi</ATPP_T3BlankGeneratorAI.label>
+	<ATPP_T3BlankGeneratorAI.description>Luo tyhjän neuroverkon androidin</ATPP_T3BlankGeneratorAI.description>
+	<ATPP_Android2KTX.label>TX2K-androidi</ATPP_Android2KTX.label>
+	<ATPP_Android2KTX.description>Prototyyppiandroidi, joka on suunniteltu yksinomaan taistelukentän raskaaksi jalkaväeksi. Se on erittäin kestävä ja tekee vakavaa lähitaisteluvahinkoa, mutta on varsin hidas panssarointinsa vuoksi eikä kykene suorittamaan vaativia tehtäviä pääosin taisteluun optimoidun rajallisen prosessorinsa takia.</ATPP_Android2KTX.description>
+	<ATPP_Android2KITX.label>TX2KI-androidi</ATPP_Android2KITX.label>
+	<ATPP_Android2KITX.description>Prototyyppiandroidi (ilman ihoa), joka on suunniteltu yksinomaan taistelukentän raskaaksi jalkaväeksi. Se on erittäin kestävä ja tekee vakavaa lähitaisteluvahinkoa, mutta on varsin hidas panssarointinsa vuoksi eikä kykene suorittamaan vaativia tehtäviä pääosin taisteluun optimoidun rajallisen prosessorinsa takia.</ATPP_Android2KITX.description>
+	<ATPP_Android2ITX.label>TX2I-androidi</ATPP_Android2ITX.label>
+	<ATPP_Android2ITX.description>TX2-sarja, joka on kunnostettu käytettäväksi taistelukentillä jalkaväkenä T2:n sijaan, pääasiassa niiden erikoisen ulkonäön orgaanisissa vihollisissa herättämän pelon vuoksi.</ATPP_Android2ITX.description>
+	<ATPP_Android3ITX.label>TX3I-androidi</ATPP_Android3ITX.label>
+	<ATPP_Android3ITX.description>TX3-sarja, joka on kunnostettu käytettäväksi taistelukentillä jalkaväkenä T3:n sijaan, pääasiassa niiden erikoisen ulkonäön orgaanisissa vihollisissa herättämän pelon vuoksi.</ATPP_Android3ITX.description>
+	<ATPP_Android4ITX.label>TX4I-androidi</ATPP_Android4ITX.label>
+	<ATPP_Android4ITX.description>TX4-sarja, joka on kunnostettu käytettäväksi taistelukentillä jalkaväkenä T4:n sijaan, pääasiassa niiden erikoisen ulkonäön orgaanisissa vihollisissa herättämän pelon vuoksi.</ATPP_Android4ITX.description>
+	<ATPP_Android4TX.label>TX4-androidi</ATPP_Android4TX.label>
+	<ATPP_Android4TX.description>Soluttautumistehtäviin suunniteltu T4-erikoissarja. Sen hieman muokattu T4-ulkorunko on päällystetty elävällä kudoksella, mikä estää sitä ruostumasta, parantaa sosiaalista vaikutusta ja suojaa EMP:ltä sekä aurinkoräjähdyksiltä; se on kuitenkin herkempi tulelle.</ATPP_Android4TX.description>
+	<ATPP_Android3TX.label>TX3-androidi</ATPP_Android3TX.label>
+	<ATPP_Android3TX.description>Soluttautumistehtäviin suunniteltu T3-erikoissarja. Sen hieman muokattu T3-ulkorunko on päällystetty elävällä kudoksella, mikä estää sitä ruostumasta, parantaa sosiaalista vaikutusta ja suojaa EMP:ltä sekä aurinkoräjähdyksiltä; se on kuitenkin herkempi tulelle.</ATPP_Android3TX.description>
+	<ATPP_Android2TX.label>TX2-androidi</ATPP_Android2TX.label>
+	<ATPP_Android2TX.description>Soluttautumistehtäviin suunniteltu T2-erikoissarja. Sen hieman muokattu T2-ulkorunko on päällystetty synteettisellä kumi-iholla, mikä estää sitä ruostumasta, parantaa sosiaalista vaikutusta ja suojaa EMP:ltä sekä aurinkoräjähdyksiltä; se on kuitenkin herkempi tulelle.</ATPP_Android2TX.description>
+	<ATPP_Android2TX.tools.right_fist.label>oikea nyrkki</ATPP_Android2TX.tools.right_fist.label>
+	<ATPP_Android2TX.tools.left_fist.label>vasen nyrkki</ATPP_Android2TX.tools.left_fist.label>
+	<ATPP_Android2ITX.tools.right_fist.label>oikea nyrkki</ATPP_Android2ITX.tools.right_fist.label>
+	<ATPP_Android2ITX.tools.left_fist.label>vasen nyrkki</ATPP_Android2ITX.tools.left_fist.label>
+	<ATPP_Android2KITX.tools.right_fist.label>oikea nyrkki</ATPP_Android2KITX.tools.right_fist.label>
+	<ATPP_Android2KITX.tools.left_fist.label>vasen nyrkki</ATPP_Android2KITX.tools.left_fist.label>
+	<ATPP_Android2KTX.tools.right_fist.label>oikea nyrkki</ATPP_Android2KTX.tools.right_fist.label>
+	<ATPP_Android2KTX.tools.left_fist.label>vasen nyrkki</ATPP_Android2KTX.tools.left_fist.label>
+	<ATPP_Android3TX.tools.right_fist.label>oikea nyrkki</ATPP_Android3TX.tools.right_fist.label>
+	<ATPP_Android3TX.tools.left_fist.label>vasen nyrkki</ATPP_Android3TX.tools.left_fist.label>
+	<ATPP_Android3ITX.tools.right_fist.label>oikea nyrkki</ATPP_Android3ITX.tools.right_fist.label>
+	<ATPP_Android3ITX.tools.left_fist.label>vasen nyrkki</ATPP_Android3ITX.tools.left_fist.label>
+	<ATPP_Android4TX.tools.right_fist.label>oikea nyrkki</ATPP_Android4TX.tools.right_fist.label>
+	<ATPP_Android4TX.tools.left_fist.label>vasen nyrkki</ATPP_Android4TX.tools.left_fist.label>
+	<ATPP_Android4ITX.tools.right_fist.label>oikea nyrkki</ATPP_Android4ITX.tools.right_fist.label>
+	<ATPP_Android4ITX.tools.left_fist.label>vasen nyrkki</ATPP_Android4ITX.tools.left_fist.label>
+	<ATPP_TX4AndroidGeneratorAI.label>TX4-miesandroidi</ATPP_TX4AndroidGeneratorAI.label>
+	<ATPP_TX4AndroidGeneratorAI.description>Luo TX4, soluttautumistehtäviin suunniteltu T4-erikoissarja. Sen hieman muokattu T4-ulkorunko on päällystetty elävällä kudoksella, mikä estää sitä ruostumasta, parantaa sosiaalista vaikutusta ja suojaa EMP:ltä sekä aurinkoräjähdyksiltä; se on kuitenkin herkempi tulelle</ATPP_TX4AndroidGeneratorAI.description>
+	<ATPP_TX4FemaleAndroidGeneratorAI.label>TX4-naisandroidi</ATPP_TX4FemaleAndroidGeneratorAI.label>
+	<ATPP_TX4FemaleAndroidGeneratorAI.description>Luo TX4, soluttautumistehtäviin suunniteltu T4-erikoissarja. Sen hieman muokattu T4-ulkorunko on päällystetty elävällä kudoksella, mikä estää sitä ruostumasta, parantaa sosiaalista vaikutusta ja suojaa EMP:ltä sekä aurinkoräjähdyksiltä; se on kuitenkin herkempi tulelle</ATPP_TX4FemaleAndroidGeneratorAI.description>
+	<ATPP_TX3AndroidGeneratorAI.label>TX3-miesandroidi</ATPP_TX3AndroidGeneratorAI.label>
+	<ATPP_TX3AndroidGeneratorAI.description>Luo TX3, soluttautumistehtäviin suunniteltu T3-erikoissarja. Sen hieman muokattu T3-ulkorunko on päällystetty elävällä kudoksella, mikä estää sitä ruostumasta, parantaa sosiaalista vaikutusta ja suojaa EMP:ltä sekä aurinkoräjähdyksiltä; se on kuitenkin herkempi tulelle</ATPP_TX3AndroidGeneratorAI.description>
+	<ATPP_TX3FemaleAndroidGeneratorAI.label>TX3-naisandroidi</ATPP_TX3FemaleAndroidGeneratorAI.label>
+	<ATPP_TX3FemaleAndroidGeneratorAI.description>Luo TX3, soluttautumistehtäviin suunniteltu T3-erikoissarja. Sen hieman muokattu T3-ulkorunko on päällystetty elävällä kudoksella, mikä estää sitä ruostumasta, parantaa sosiaalista vaikutusta ja suojaa EMP:ltä sekä aurinkoräjähdyksiltä; se on kuitenkin herkempi tulelle</ATPP_TX3FemaleAndroidGeneratorAI.description>
+	<ATPP_TX2AndroidGeneratorAI.label>TX2-miesandroidi</ATPP_TX2AndroidGeneratorAI.label>
+	<ATPP_TX2AndroidGeneratorAI.description>Luo TX2, soluttautumistehtäviin suunniteltu T2-erikoissarja. Sen hieman muokattu T2-ulkorunko on päällystetty synteettisellä kumi-iholla, mikä estää sitä ruostumasta, parantaa sosiaalista vaikutusta ja suojaa EMP:ltä sekä aurinkoräjähdyksiltä; se on kuitenkin herkempi tulelle.</ATPP_TX2AndroidGeneratorAI.description>
+	<ATPP_TX2FemaleAndroidGeneratorAI.label>TX2-naisandroidi</ATPP_TX2FemaleAndroidGeneratorAI.label>
+	<ATPP_TX2FemaleAndroidGeneratorAI.description>Luo TX2, soluttautumistehtäviin suunniteltu T2-erikoissarja. Sen hieman muokattu T2-ulkorunko on päällystetty synteettisellä kumi-iholla, mikä estää sitä ruostumasta, parantaa sosiaalista vaikutusta ja suojaa EMP:ltä sekä aurinkoräjähdyksiltä; se on kuitenkin herkempi tulelle.</ATPP_TX2FemaleAndroidGeneratorAI.description>
+	<ATPP_TX2KAndroidGeneratorAI.label>TX2K-miesandroidi</ATPP_TX2KAndroidGeneratorAI.label>
+	<ATPP_TX2KAndroidGeneratorAI.description>Luo TX2K, prototyyppiandroidi joka on suunniteltu yksinomaan taistelukentän raskaaksi jalkaväeksi. Se on erittäin kestävä ja tekee vakavaa lähitaisteluvahinkoa, mutta on varsin hidas panssarointinsa vuoksi eikä kykene suorittamaan vaativia tehtäviä pääosin taisteluun optimoidun rajallisen prosessorinsa takia.</ATPP_TX2KAndroidGeneratorAI.description>
+	<ATPP_TX2KFemaleAndroidGeneratorAI.label>TX2K-naisandroidi</ATPP_TX2KFemaleAndroidGeneratorAI.label>
+	<ATPP_TX2KFemaleAndroidGeneratorAI.description>Luo TX2K, prototyyppiandroidi joka on suunniteltu yksinomaan taistelukentän raskaaksi jalkaväeksi. Se on erittäin kestävä ja tekee vakavaa lähitaisteluvahinkoa, mutta on varsin hidas panssarointinsa vuoksi eikä kykene suorittamaan vaativia tehtäviä pääosin taisteluun optimoidun rajallisen prosessorinsa takia.</ATPP_TX2KFemaleAndroidGeneratorAI.description>
+	<ATPP_TX2KIAndroidGeneratorAI.label>TX2KI-miesandroidi</ATPP_TX2KIAndroidGeneratorAI.label>
+	<ATPP_TX2KIAndroidGeneratorAI.description>Luo TX2KI, prototyyppiandroidi joka on suunniteltu yksinomaan taistelukentän raskaaksi jalkaväeksi. Se on erittäin kestävä ja tekee vakavaa lähitaisteluvahinkoa, mutta on varsin hidas panssarointinsa vuoksi eikä kykene suorittamaan vaativia tehtäviä pääosin taisteluun optimoidun rajallisen prosessorinsa takia.</ATPP_TX2KIAndroidGeneratorAI.description>
+	<ATPP_TX2KIFemaleAndroidGeneratorAI.label>TX2KI-naisandroidi</ATPP_TX2KIFemaleAndroidGeneratorAI.label>
+	<ATPP_TX2KIFemaleAndroidGeneratorAI.description>Luo TX2KI, prototyyppiandroidi joka on suunniteltu yksinomaan taistelukentän raskaaksi jalkaväeksi. Se on erittäin kestävä ja tekee vakavaa lähitaisteluvahinkoa, mutta on varsin hidas panssarointinsa vuoksi eikä kykene suorittamaan vaativia tehtäviä pääosin taisteluun optimoidun rajallisen prosessorinsa takia.</ATPP_TX2KIFemaleAndroidGeneratorAI.description>
+	<ATPP_TX2IAndroidGeneratorAI.label>TX2I-miesandroidi</ATPP_TX2IAndroidGeneratorAI.label>
+	<ATPP_TX2IAndroidGeneratorAI.description>Luo TX2I, TX2-sarja joka on kunnostettu käytettäväksi taistelukentillä jalkaväkenä T2:n sijaan, pääasiassa niiden erikoisen ulkonäön vihollisissa herättämän pelon vuoksi.</ATPP_TX2IAndroidGeneratorAI.description>
+	<ATPP_TX2IFemaleAndroidGeneratorAI.label>TX2I-naisandroidi</ATPP_TX2IFemaleAndroidGeneratorAI.label>
+	<ATPP_TX2IFemaleAndroidGeneratorAI.description>Luo TX2I, TX2-sarja joka on kunnostettu käytettäväksi taistelukentillä jalkaväkenä T2:n sijaan, pääasiassa niiden erikoisen ulkonäön vihollisissa herättämän pelon vuoksi.</ATPP_TX2IFemaleAndroidGeneratorAI.description>
+	<ATPP_TX3IAndroidGeneratorAI.label>TX3I-miesandroidi</ATPP_TX3IAndroidGeneratorAI.label>
+	<ATPP_TX3IAndroidGeneratorAI.description>Luo TX3I, TX3-sarja joka on kunnostettu käytettäväksi taistelukentillä jalkaväkenä T3:n sijaan, pääasiassa niiden erikoisen ulkonäön vihollisissa herättämän pelon vuoksi.</ATPP_TX3IAndroidGeneratorAI.description>
+	<ATPP_TX3IFemaleAndroidGeneratorAI.label>TX3I-naisandroidi</ATPP_TX3IFemaleAndroidGeneratorAI.label>
+	<ATPP_TX3IFemaleAndroidGeneratorAI.description>Luo TX3I, TX3-sarja joka on kunnostettu käytettäväksi taistelukentillä jalkaväkenä T3:n sijaan, pääasiassa niiden erikoisen ulkonäön vihollisissa herättämän pelon vuoksi.</ATPP_TX3IFemaleAndroidGeneratorAI.description>
+	<ATPP_TX4IAndroidGeneratorAI.label>TX4I-miesandroidi</ATPP_TX4IAndroidGeneratorAI.label>
+	<ATPP_TX4IAndroidGeneratorAI.description>Luo TX4I, TX4-sarja joka on kunnostettu käytettäväksi taistelukentillä jalkaväkenä T4:n sijaan, pääasiassa niiden erikoisen ulkonäön vihollisissa herättämän pelon vuoksi.</ATPP_TX4IAndroidGeneratorAI.description>
+	<ATPP_TX4IFemaleAndroidGeneratorAI.label>TX4I-naisandroidi</ATPP_TX4IFemaleAndroidGeneratorAI.label>
+	<ATPP_TX4IFemaleAndroidGeneratorAI.description>Luo TX4I, TX4-sarja joka on kunnostettu käytettäväksi taistelukentillä jalkaväkenä T4:n sijaan, pääasiassa niiden erikoisen ulkonäön vihollisissa herättämän pelon vuoksi.</ATPP_TX4IFemaleAndroidGeneratorAI.description>
+	<ATPP_GSGeneratorTX2KMale.label>Toimimaton TX2K-mies</ATPP_GSGeneratorTX2KMale.label>
+	<ATPP_GSGeneratorTX2KMale.description>Luo surrogaattiandroidin.</ATPP_GSGeneratorTX2KMale.description>
+	<ATPP_GSGeneratorTX2KFemale.label>Toimimaton TX2K-nainen</ATPP_GSGeneratorTX2KFemale.label>
+	<ATPP_GSGeneratorTX2KFemale.description>Luo surrogaattiandroidin.</ATPP_GSGeneratorTX2KFemale.description>
+	<ATPP_GSGeneratorTX2KMaleSurrogate.label>Toimimaton TX2K-mies</ATPP_GSGeneratorTX2KMaleSurrogate.label>
+	<ATPP_GSGeneratorTX2KMaleSurrogate.description>Luo surrogaattiandroidin.</ATPP_GSGeneratorTX2KMaleSurrogate.description>
+	<ATPP_GSGeneratorTX2KFemaleSurrogate.label>Toimimaton TX2K-nainen</ATPP_GSGeneratorTX2KFemaleSurrogate.label>
+	<ATPP_GSGeneratorTX2KFemaleSurrogate.description>Luo surrogaattiandroidin.</ATPP_GSGeneratorTX2KFemaleSurrogate.description>
+	<ATPP_GSGeneratorTX3Male.label>Toimimaton TX3-mies</ATPP_GSGeneratorTX3Male.label>
+	<ATPP_GSGeneratorTX3Male.description>Luo surrogaattiandroidin.</ATPP_GSGeneratorTX3Male.description>
+	<ATPP_GSGeneratorTX3Female.label>Toimimaton TX3-nainen</ATPP_GSGeneratorTX3Female.label>
+	<ATPP_GSGeneratorTX3Female.description>Luo surrogaattiandroidin.</ATPP_GSGeneratorTX3Female.description>
+	<ATPP_GSGeneratorTX3MaleSurrogate.label>Toimimaton TX3-mies</ATPP_GSGeneratorTX3MaleSurrogate.label>
+	<ATPP_GSGeneratorTX3MaleSurrogate.description>Luo surrogaattiandroidin.</ATPP_GSGeneratorTX3MaleSurrogate.description>
+	<ATPP_GSGeneratorTX3FemaleSurrogate.label>Toimimaton TX3-nainen</ATPP_GSGeneratorTX3FemaleSurrogate.label>
+	<ATPP_GSGeneratorTX3FemaleSurrogate.description>Luo surrogaattiandroidin.</ATPP_GSGeneratorTX3FemaleSurrogate.description>
+	<ATPP_GSGeneratorTX4Male.label>Toimimaton TX4-mies</ATPP_GSGeneratorTX4Male.label>
+	<ATPP_GSGeneratorTX4Male.description>Luo surrogaattiandroidin.</ATPP_GSGeneratorTX4Male.description>
+	<ATPP_GSGeneratorTX4Female.label>Toimimaton TX4-nainen</ATPP_GSGeneratorTX4Female.label>
+	<ATPP_GSGeneratorTX4Female.description>Luo surrogaattiandroidin.</ATPP_GSGeneratorTX4Female.description>
+	<ATPP_GSGeneratorTX4MaleSurrogate.label>Toimimaton TX4-mies</ATPP_GSGeneratorTX4MaleSurrogate.label>
+	<ATPP_GSGeneratorTX4MaleSurrogate.description>Luo surrogaattiandroidin.</ATPP_GSGeneratorTX4MaleSurrogate.description>
+	<ATPP_GSGeneratorTX4FemaleSurrogate.label>Toimimaton TX4-nainen</ATPP_GSGeneratorTX4FemaleSurrogate.label>
+	<ATPP_GSGeneratorTX4FemaleSurrogate.description>Luo surrogaattiandroidin.</ATPP_GSGeneratorTX4FemaleSurrogate.description>
+	<ATPP_SX2SurrogateGeneratorAI.label>SX2-miessurrogaattiandroidi</ATPP_SX2SurrogateGeneratorAI.label>
+	<ATPP_SX2SurrogateGeneratorAI.description>Luo surrogaattiandroidin.</ATPP_SX2SurrogateGeneratorAI.description>
+	<ATPP_SX2FemaleSurrogateGeneratorAI.label>SX2-naissurrogaattiandroidi</ATPP_SX2FemaleSurrogateGeneratorAI.label>
+	<ATPP_SX2FemaleSurrogateGeneratorAI.description>Luo surrogaattiandroidin.</ATPP_SX2FemaleSurrogateGeneratorAI.description>
+	<ATPP_SX2ISurrogateGeneratorAI.label>SX2I-miessurrogaattiandroidi</ATPP_SX2ISurrogateGeneratorAI.label>
+	<ATPP_SX2ISurrogateGeneratorAI.description>Luo surrogaattiandroidin.</ATPP_SX2ISurrogateGeneratorAI.description>
+	<ATPP_SX2IFemaleSurrogateGeneratorAI.label>SX2I-naissurrogaattiandroidi</ATPP_SX2IFemaleSurrogateGeneratorAI.label>
+	<ATPP_SX2IFemaleSurrogateGeneratorAI.description>Luo surrogaattiandroidin.</ATPP_SX2IFemaleSurrogateGeneratorAI.description>
+	<ATPP_SX2KSurrogateGeneratorAI.label>SX2K-miessurrogaattiandroidi</ATPP_SX2KSurrogateGeneratorAI.label>
+	<ATPP_SX2KSurrogateGeneratorAI.description>Luo surrogaattiandroidin.</ATPP_SX2KSurrogateGeneratorAI.description>
+	<ATPP_SX2KFemaleSurrogateGeneratorAI.label>SX2K-naissurrogaattiandroidi</ATPP_SX2KFemaleSurrogateGeneratorAI.label>
+	<ATPP_SX2KFemaleSurrogateGeneratorAI.description>Luo surrogaattiandroidin.</ATPP_SX2KFemaleSurrogateGeneratorAI.description>
+	<ATPP_SX2KISurrogateGeneratorAI.label>SX2KI-miessurrogaattiandroidi</ATPP_SX2KISurrogateGeneratorAI.label>
+	<ATPP_SX2KISurrogateGeneratorAI.description>Luo surrogaattiandroidin.</ATPP_SX2KISurrogateGeneratorAI.description>
+	<ATPP_SX2KIFemaleSurrogateGeneratorAI.label>SX2KI-naissurrogaattiandroidi</ATPP_SX2KIFemaleSurrogateGeneratorAI.label>
+	<ATPP_SX2KIFemaleSurrogateGeneratorAI.description>Luo surrogaattiandroidin.</ATPP_SX2KIFemaleSurrogateGeneratorAI.description>
+	<ATPP_SX3SurrogateGeneratorAI.label>SX3-miessurrogaattiandroidi</ATPP_SX3SurrogateGeneratorAI.label>
+	<ATPP_SX3SurrogateGeneratorAI.description>Luo surrogaattiandroidin.</ATPP_SX3SurrogateGeneratorAI.description>
+	<ATPP_SX3FemaleSurrogateGeneratorAI.label>SX3-naissurrogaattiandroidi</ATPP_SX3FemaleSurrogateGeneratorAI.label>
+	<ATPP_SX3FemaleSurrogateGeneratorAI.description>Luo surrogaattiandroidin.</ATPP_SX3FemaleSurrogateGeneratorAI.description>
+	<ATPP_SX3ISurrogateGeneratorAI.label>SX3I-miessurrogaattiandroidi</ATPP_SX3ISurrogateGeneratorAI.label>
+	<ATPP_SX3ISurrogateGeneratorAI.description>Luo surrogaattiandroidin.</ATPP_SX3ISurrogateGeneratorAI.description>
+	<ATPP_SX3IFemaleSurrogateGeneratorAI.label>SX3I-naissurrogaattiandroidi</ATPP_SX3IFemaleSurrogateGeneratorAI.label>
+	<ATPP_SX3IFemaleSurrogateGeneratorAI.description>Luo surrogaattiandroidin.</ATPP_SX3IFemaleSurrogateGeneratorAI.description>
+	<ATPP_SX4SurrogateGeneratorAI.label>SX4-miessurrogaattiandroidi</ATPP_SX4SurrogateGeneratorAI.label>
+	<ATPP_SX4SurrogateGeneratorAI.description>Luo surrogaattiandroidin.</ATPP_SX4SurrogateGeneratorAI.description>
+	<ATPP_SX4FemaleSurrogateGeneratorAI.label>SX4-naissurrogaattiandroidi</ATPP_SX4FemaleSurrogateGeneratorAI.label>
+	<ATPP_SX4FemaleSurrogateGeneratorAI.description>Luo surrogaattiandroidin.</ATPP_SX4FemaleSurrogateGeneratorAI.description>
+	<ATPP_SX4ISurrogateGeneratorAI.label>SX4I-miessurrogaattiandroidi</ATPP_SX4ISurrogateGeneratorAI.label>
+	<ATPP_SX4ISurrogateGeneratorAI.description>Luo surrogaattiandroidin.</ATPP_SX4ISurrogateGeneratorAI.description>
+	<ATPP_SX4IFemaleSurrogateGeneratorAI.label>SX4I-naissurrogaattiandroidi</ATPP_SX4IFemaleSurrogateGeneratorAI.label>
+	<ATPP_SX4IFemaleSurrogateGeneratorAI.description>Luo surrogaattiandroidin.</ATPP_SX4IFemaleSurrogateGeneratorAI.description>
+</LanguageData>

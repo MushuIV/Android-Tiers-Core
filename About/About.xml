@@ -13,10 +13,6 @@
   <packageId>Atlas.AndroidTiers</packageId>
 
   <supportedVersions>
-    <li>1.0</li>
-    <li>1.1</li>
-    <li>1.2</li>
-    <li>1.3</li>
     <li>1.7</li>
   </supportedVersions>
 
@@ -51,16 +47,16 @@
    
   <description><![CDATA[
 - Adds 5 tiers of autonomous mechanical colonists along with cybernetic animals
-- Full integrated TX Series infiltration androids (TX2, TX2K, TX3, TX4 and infantry variants) with living synthetic flesh, human disguise, and EMP/solar flare immunity
+- Fully integrated TX Series infiltration androids (TX2, TX2K, TX3, TX4 and infantry "I" variants) with craftable synthetic skin glands, surgical dermal grafting/stripping, human disguise, and EMP/solar flare immunity
 - 2 autonomous android factions (Civil Android Collective and Android Insurrection)
 - Remote control surrogate android avatars via SkyMind network
 - Digitize, upload, duplicate, and store colonist minds in centralized supercomputers
 - Mechanical-specific ailments, maintenance faults, and coolant failures
 - Deep cybernetic upgrade tree (replacement organs, specialized processors, nanite frameworks)
-- Full expansion compatibility: vacuum/orbital-sealed for Odyssey, toxic/pollution immune for Biotech, mind-isolated from Anomaly flesh parasites
+- Full expansion compatibility: Royalty Empire exemptions, Ideology precept support, Biotech gene/toxin immunity and hemogen dermal gestation, Anomaly flesh-parasite immunity, and Odyssey vacuum sealing
 
 Optional Integrations:
-- Questionable Ethics Enhanced (QEE): Enables vat-growing TX Series infiltration chassis using donor human genomes.
+- Questionable Ethics Enhanced (QEE): Enables cultivating synthetic skin glands in Organ Vats and growing living tissues over TX2K/TX3/TX4 frames in Clone Vats alongside native dermal grafting.
 - Enable Oversized Weapons: Enhanced rendering for M7/M8 mechanized heavy armaments.
 
 Version <color=#FFD800>3.0.0 (RW 1.7)</color>

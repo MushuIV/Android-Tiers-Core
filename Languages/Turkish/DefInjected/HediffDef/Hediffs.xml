@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATPP_ConsciousnessUpload.label>Zihin yükleme</ATPP_ConsciousnessUpload.label>
+  <ATPP_ConsciousnessUpload.labelNoun>Zihin yüklemesi</ATPP_ConsciousnessUpload.labelNoun>
+  <ATPP_NoHost.label>Bağlı konak yok</ATPP_NoHost.label>
+  <ATPP_NoHost.labelNoun>Bağlı konak yok</ATPP_NoHost.labelNoun>
+  <ATPP_HediffRXChip.label>RX Nöral çip</ATPP_HediffRXChip.label>
+  <ATPP_HediffRXChip.labelNoun>Kişisel SkyMind aktarıcısı olarak işlev gören bir nöral çip.</ATPP_HediffRXChip.labelNoun>
+  <ATPP_HediffVX0Chip.label>VX0 Nöral çip</ATPP_HediffVX0Chip.label>
+  <ATPP_HediffVX0Chip.labelNoun>Konağı biyolojik bir vekile dönüştüren bir nöral çip</ATPP_HediffVX0Chip.labelNoun>
+  <ATPP_HediffVX1Chip.label>VX1 Nöral Çip</ATPP_HediffVX1Chip.label>
+  <ATPP_HediffVX1Chip.labelNoun>VX1 Nöral Çip</ATPP_HediffVX1Chip.labelNoun>
+  <ATPP_HediffVX2Chip.label>VX2 Nöral Çip</ATPP_HediffVX2Chip.label>
+  <ATPP_HediffVX2Chip.labelNoun>VX2 Nöral Çip</ATPP_HediffVX2Chip.labelNoun>
+  <ATPP_HediffVX3Chip.label>VX3 Nöral Çip</ATPP_HediffVX3Chip.label>
+  <ATPP_HediffVX3Chip.labelNoun>VX3 Nöral Çip</ATPP_HediffVX3Chip.labelNoun>
+  <ATPP_InRemoteControlMode.label>Uzaktan kontrol modu etkin</ATPP_InRemoteControlMode.label>
+  <ATPP_InRemoteControlMode.labelNoun>Uzaktan kontrol modu etkin</ATPP_InRemoteControlMode.labelNoun>
+  <ATPP_RemotelyControlled.label>Uzaktan kontrol ediliyor</ATPP_RemotelyControlled.label>
+  <ATPP_RemotelyControlled.labelNoun>Uzaktan kontrol ediliyor</ATPP_RemotelyControlled.labelNoun>
+  <ATPP_SolarFlareAndroidImpact.label>Güneş Patlaması</ATPP_SolarFlareAndroidImpact.label>
+  <ATPP_SolarFlareAndroidImpact.labelNoun>Güneş Patlaması</ATPP_SolarFlareAndroidImpact.labelNoun>
+  <ATPP_LowNetworkSignal.label>Düşük SkyMind ağ sinyali</ATPP_LowNetworkSignal.label>
+  <ATPP_LowNetworkSignal.labelNoun>Düşük SkyMind ağ sinyali</ATPP_LowNetworkSignal.labelNoun>
+  <ATPP_Rusted.label>Paslanmış</ATPP_Rusted.label>
+  <ATPP_Rusted.labelNoun>Paslanmış</ATPP_Rusted.labelNoun>
+  <ATPP_BlankAndroid.label>Boş Nöral Ağ</ATPP_BlankAndroid.label>
+  <ATPP_BlankAndroid.labelNoun>Boş Nöral Ağ</ATPP_BlankAndroid.labelNoun>
+  <ATPP_SurrogateInit.label>Bağlantı başlatılıyor</ATPP_SurrogateInit.label>
+  <ATPP_SurrogateInit.labelNoun>Bağlantı başlatılıyor</ATPP_SurrogateInit.labelNoun>
+  <ATPP_AssistingMinds.label>SkyCloud çekirdeklerinden destek veren zihinler</ATPP_AssistingMinds.label>
+  <ATPP_AssistingMinds.labelNoun>SkyCloud çekirdeklerinden destek veren zihinler</ATPP_AssistingMinds.labelNoun>
+  <DecayedFrame.label>çürüyen ana iskelet</DecayedFrame.label>
+  <DecayedFrame.labelNoun>çürüyen bir ana iskelet</DecayedFrame.labelNoun>
+  <CorruptMemory.label>bozuk bellek</CorruptMemory.label>
+  <WeakValves.label>zayıf valfler</WeakValves.label>
+  <ExaggeratedHealing.label>hiperaktif tepki</ExaggeratedHealing.label>
+  <FaultyPump.label>arızalı pompa</FaultyPump.label>
+  <FaultyPump.labelNoun>arızalı bir pompa</FaultyPump.labelNoun>
+  <ShutdownAndroid.label>devre dışı bırakılmış</ShutdownAndroid.label>
+  <ShutdownAndroid.description>Yapay zeka çekirdeği kalıcı olarak kapatıldı ve tamamen silindi.</ShutdownAndroid.description>
+  <RebootingSequenceAT.label>Yeniden başlatılıyor</RebootingSequenceAT.label>
+  <RebootingSequenceAT.description>Yapay zeka çekirdeğinde yeniden başlatma dizisi etkin.</RebootingSequenceAT.description>
+  <NoFreeWillAT.label>duygusuz</NoFreeWillAT.label>
+  <NoFreeWillAT.labelNoun>duygusuz</NoFreeWillAT.labelNoun>
+  <NoFreeWillAT.description>Yapay zeka çekirdeğinin ahlak ve duygusal tepki bölümlerinde yapılan değişiklikler; tamamen nötr bir ruh haline ve üst düzey işlevlerin eksikliğine yol açar.</NoFreeWillAT.description>
+  <FreshReprogramming.label>yakın zamanda yeniden programlanmış</FreshReprogramming.label>
+  <FreshReprogramming.description>Yakın zamanda yeniden programlanmış yapay zeka çekirdeği. Tüm yeni yazılımların derlenmesi ve otomatik düzeltilmesi yeteneklerde azalmaya neden olabilir.</FreshReprogramming.description>
+  <OverclockedAndroid.label>hız aşırtmalı</OverclockedAndroid.label>
+  <OverclockedAndroid.labelNoun>hız aşırtma yükseltmesi</OverclockedAndroid.labelNoun>
+  <OverclockedAndroid.description>Androidin yapay zeka çekirdeğindeki işlem bölümleri hızlandırıldı; bu da işlevlerin daha hızlı hesaplanmasını sağlar ancak donanım üzerindeki yükü artırır.</OverclockedAndroid.description>
+  <BatteryChargeMech.label>Pil</BatteryChargeMech.label>
+  <BatteryChargeMech.description>Kapanmadan önce kalan pil ömrü</BatteryChargeMech.description>
+  <AndroidCoolantLoss.label>soğutucu sızıntısı</AndroidCoolantLoss.label>
+  <AndroidCoolantLoss.description>Dahili borularda soğutucu kaybı; soğutma kapasitesinin düşmesine ve iç aksamın aşırı ısınmasına neden olur.</AndroidCoolantLoss.description>
+  <AndroidOverheating.label>aşırı ısınma</AndroidOverheating.label>
+  <AndroidFreezing.label>Donma</AndroidFreezing.label>
+  <PlatingSteel.label>Çelik İskelet</PlatingSteel.label>
+  <PlatingSteel.labelNoun>temel çelik iskelet parçaları</PlatingSteel.labelNoun>
+  <PlatingSteel.description>Takılı bir çelik iskelet.</PlatingSteel.description>
+  <PlatingPlasteel.label>plasteel iskelet kaplaması</PlatingPlasteel.label>
+  <PlatingPlasteel.labelNoun>dayanıklı plasteel iskelet kaplamaları</PlatingPlasteel.labelNoun>
+  <PlatingPlasteel.description>Takılı bir plasteel iskelet kaplaması.</PlatingPlasteel.description>
+  <PlatingComposite.label>kompozit iskelet zırhı</PlatingComposite.label>
+  <PlatingComposite.labelNoun>yüksek çekme dayanımlı kompozit zırh</PlatingComposite.labelNoun>
+  <PlatingComposite.description>Takılı kompozit iskelet zırhı.</PlatingComposite.description>
+  <MiningArm_AT.label>madenci kolu</MiningArm_AT.label>
+  <MiningArm_AT.labelNoun>bir madenci kolu</MiningArm_AT.labelNoun>
+  <MiningArm_AT.description>Takılı bir madenci kolu.</MiningArm_AT.description>
+  <HydraulicFrame.label>hidrolik iskelet</HydraulicFrame.label>
+  <HydraulicFrame.labelNoun>bir hidrolik iskelet</HydraulicFrame.labelNoun>
+  <HydraulicFrame.description>Takılı bir hidrolik iskelet.</HydraulicFrame.description>
+  <HydraulicLeg.label>hidrolik bacak</HydraulicLeg.label>
+  <HydraulicLeg.labelNoun>bir hidrolik bacak</HydraulicLeg.labelNoun>
+  <HydraulicLeg.description>Takılı bir hidrolik bacak.</HydraulicLeg.description>
+  <HydraulicArm.label>hidrolik kol</HydraulicArm.label>
+  <HydraulicArm.labelNoun>bir hidrolik kol</HydraulicArm.labelNoun>
+  <HydraulicArm.description>Takılı bir hidrolik kol.</HydraulicArm.description>
+  <MakeshiftRLeg.label>derme çatma yedek bacak</MakeshiftRLeg.label>
+  <MakeshiftRLeg.labelNoun>derme çatma bir yedek bacak</MakeshiftRLeg.labelNoun>
+  <MakeshiftRLeg.description>Takılı derme çatma bir yedek bacak.</MakeshiftRLeg.description>
+  <MakeshiftRArm.label>derme çatma yedek kol</MakeshiftRArm.label>
+  <MakeshiftRArm.labelNoun>derme çatma bir yedek kol</MakeshiftRArm.labelNoun>
+  <MakeshiftRArm.description>Takılı derme çatma bir yedek kol.</MakeshiftRArm.description>
+  <BRArm.label>temel yedek kol</BRArm.label>
+  <BRArm.labelNoun>temel bir yedek kol</BRArm.labelNoun>
+  <BRArm.description>Takılı temel bir yedek kol.</BRArm.description>
+  <BRLeg.label>temel yedek bacak</BRLeg.label>
+  <BRLeg.labelNoun>temel bir yedek bacak</BRLeg.labelNoun>
+  <BRLeg.description>Takılı temel bir yedek bacak.</BRLeg.description>
+  <BLReceptor.label>kaba ışık sensörü</BLReceptor.label>
+  <BLReceptor.labelNoun>kaba bir ışık sensörü</BLReceptor.labelNoun>
+  <BLReceptor.description>Takılı kaba bir ışık sensörü.</BLReceptor.description>
+  <BHeatsink.label>kaba soğutucu blok</BHeatsink.label>
+  <BHeatsink.labelNoun>kaba bir soğutucu blok</BHeatsink.labelNoun>
+  <BHeatsink.description>Takılı kaba bir soğutucu blok.</BHeatsink.description>
+  <BCoolantPump.label>kaba soğutucu pompası</BCoolantPump.label>
+  <BCoolantPump.labelNoun>kaba bir soğutucu pompası</BCoolantPump.labelNoun>
+  <BCoolantPump.description>Takılı kaba bir soğutucu pompası.</BCoolantPump.description>
+  <BBattery.label>kaba pil paketi</BBattery.label>
+  <BBattery.labelNoun>kaba bir pil paketi</BBattery.labelNoun>
+  <BBattery.description>Takılı kaba bir pil paketi.</BBattery.description>
+  <BMStorage.label>kaba mekanit deposu</BMStorage.label>
+  <BMStorage.labelNoun>kaba mekanit deposu</BMStorage.labelNoun>
+  <BMStorage.description>Takılı kaba bir mekanit deposu.</BMStorage.description>
+  <BTransformer.label>kaba biyo-reaktör</BTransformer.label>
+  <BTransformer.labelNoun>kaba bir biyo-reaktör</BTransformer.labelNoun>
+  <BTransformer.description>Takılı kaba bir biyo-reaktör.</BTransformer.description>
+  <BVAdapter.label>kaba güç dönüştürücüsü</BVAdapter.label>
+  <BVAdapter.labelNoun>kaba bir güç dönüştürücüsü</BVAdapter.labelNoun>
+  <BVAdapter.description>Takılı kaba bir güç dönüştürücüsü.</BVAdapter.description>
+  <BasicRearCounterweight.label>temel karşı ağırlık</BasicRearCounterweight.label>
+  <BasicRearCounterweight.labelNoun>temel bir karşı ağırlık</BasicRearCounterweight.labelNoun>
+  <BasicRearCounterweight.description>Takılı temel bir karşı ağırlık.</BasicRearCounterweight.description>
+  <CrudeJawAndroid.label>kaba çene</CrudeJawAndroid.label>
+  <CrudeJawAndroid.labelNoun>kaba bir çene</CrudeJawAndroid.labelNoun>
+  <CrudeJawAndroid.description>Takılı kaba bir çene.</CrudeJawAndroid.description>
+  <ARArm.label>yüksek güçlü kol</ARArm.label>
+  <ARArm.labelNoun>yüksek güçlü bir kol</ARArm.labelNoun>
+  <ARArm.description>Takılı yüksek güçlü bir kol.</ARArm.description>
+  <ARLeg.label>yüksek güçlü bacak</ARLeg.label>
+  <ARLeg.labelNoun>yüksek güçlü bir bacak</ARLeg.labelNoun>
+  <ARLeg.description>Takılı yüksek güçlü bir bacak.</ARLeg.description>
+  <ALReceptor.label>gelişmiş ışık sensörü</ALReceptor.label>
+  <ALReceptor.labelNoun>gelişmiş bir ışık sensörü</ALReceptor.labelNoun>
+  <ALReceptor.description>Takılı gelişmiş bir ışık sensörü.</ALReceptor.description>
+  <AHeatsink.label>gelişmiş soğutucu blok</AHeatsink.label>
+  <AHeatsink.labelNoun>gelişmiş bir soğutucu blok</AHeatsink.labelNoun>
+  <AHeatsink.description>Takılı gelişmiş bir soğutucu blok.</AHeatsink.description>
+  <ACoolantPump.label>gelişmiş soğutucu pompası</ACoolantPump.label>
+  <ACoolantPump.labelNoun>gelişmiş bir soğutucu pompası</ACoolantPump.labelNoun>
+  <ACoolantPump.description>Takılı gelişmiş bir soğutucu pompası.</ACoolantPump.description>
+  <ABattery.label>gelişmiş pil paketi</ABattery.label>
+  <ABattery.labelNoun>gelişmiş bir pil paketi</ABattery.labelNoun>
+  <ABattery.description>Takılı gelişmiş bir pil paketi.</ABattery.description>
+  <AMStorage.label>gelişmiş mekanit deposu</AMStorage.label>
+  <AMStorage.labelNoun>gelişmiş mekanit deposu</AMStorage.labelNoun>
+  <AMStorage.description>Takılı gelişmiş mekanit deposu.</AMStorage.description>
+  <ATransformer.label>gelişmiş biyo-reaktör</ATransformer.label>
+  <ATransformer.labelNoun>gelişmiş bir biyo-reaktör</ATransformer.labelNoun>
+  <ATransformer.description>Takılı gelişmiş bir biyo-reaktör.</ATransformer.description>
+  <AVAdapter.label>gelişmiş güç dönüştürücüsü</AVAdapter.label>
+  <AVAdapter.labelNoun>gelişmiş bir güç dönüştürücüsü</AVAdapter.labelNoun>
+  <AVAdapter.description>Takılı gelişmiş bir güç dönüştürücüsü.</AVAdapter.description>
+  <AdvRearCounterweight.label>jiroskopik karşı ağırlık</AdvRearCounterweight.label>
+  <AdvRearCounterweight.labelNoun>jiroskopik bir karşı ağırlık</AdvRearCounterweight.labelNoun>
+  <AdvRearCounterweight.description>Takılı jiroskopik bir karşı ağırlık.</AdvRearCounterweight.description>
+  <AdvJawAndroid.label>sibernetik çene</AdvJawAndroid.label>
+  <AdvJawAndroid.labelNoun>sibernetik bir çene</AdvJawAndroid.labelNoun>
+  <AdvJawAndroid.description>Takılı sibernetik bir çene.</AdvJawAndroid.description>
+  <PositronMind.label>Pozitronik yeniden kablolama</PositronMind.label>
+  <PositronMind.labelNoun>pozitronik yeniden kablolama</PositronMind.labelNoun>
+  <PositronMind.description>Takılı pozitronik yeniden kablolama.</PositronMind.description>
+  <SoldierMind.label>Asker yükseltmesi</SoldierMind.label>
+  <SoldierMind.labelNoun>bir asker yükseltmesi</SoldierMind.labelNoun>
+  <SoldierMind.description>Takılı bir asker yükseltmesi.</SoldierMind.description>
+  <BuilderMind.label>Plan bellek bankaları</BuilderMind.label>
+  <BuilderMind.labelNoun>bir plan bellek bankası</BuilderMind.labelNoun>
+  <BuilderMind.description>Takılı bir plan bellek bankası.</BuilderMind.description>
+  <SurgeonMind.label>İmplante trikorder</SurgeonMind.label>
+  <SurgeonMind.labelNoun>implante bir trikorder</SurgeonMind.labelNoun>
+  <SurgeonMind.description>İmplante bir trikorder.</SurgeonMind.description>
+  <SpeedMind.label>Nöral otoyollar</SpeedMind.label>
+  <SpeedMind.labelNoun>Nöral otoyollar</SpeedMind.labelNoun>
+  <SpeedMind.description>Takılı nöral otoyollar.</SpeedMind.description>
+  <GeoMind.label>Jeolojik bellek bankaları</GeoMind.label>
+  <GeoMind.labelNoun>bir jeolojik bellek bankası</GeoMind.labelNoun>
+  <GeoMind.description>Takılı bir jeolojik bellek bankası.</GeoMind.description>
+  <MechanicMind.label>Mühendislik implantı</MechanicMind.label>
+  <MechanicMind.labelNoun>bir mühendislik implantı</MechanicMind.labelNoun>
+  <MechanicMind.description>Takılı bir mühendislik implantı.</MechanicMind.description>
+  <CookingMind.label>Mutfak sanatları implantı</CookingMind.label>
+  <CookingMind.labelNoun>bir mutfak sanatları implantı</CookingMind.labelNoun>
+  <CookingMind.description>Takılı bir mutfak sanatları implantı.</CookingMind.description>
+  <CharismaMind.label>Karizma implantı</CharismaMind.label>
+  <CharismaMind.labelNoun>bir karizma implantı</CharismaMind.labelNoun>
+  <CharismaMind.description>Takılı bir karizma implantı.</CharismaMind.description>
+  <NegotiatorMind.label>Müzakereci implantı</NegotiatorMind.label>
+  <NegotiatorMind.labelNoun>bir müzakereci implantı</NegotiatorMind.labelNoun>
+  <NegotiatorMind.description>Takılı bir müzakereci implantı.</NegotiatorMind.description>
+  <ZoologyMind.label>Zooloji implantı</ZoologyMind.label>
+  <ZoologyMind.labelNoun>bir zooloji implantı</ZoologyMind.labelNoun>
+  <ZoologyMind.description>Takılı bir zooloji implantı.</ZoologyMind.description>
+  <AgriculturalMind.label>Tarım implantı</AgriculturalMind.label>
+  <AgriculturalMind.labelNoun>bir tarım implantı</AgriculturalMind.labelNoun>
+  <AgriculturalMind.description>Takılı bir tarım implantı.</AgriculturalMind.description>
+  <UnskilledMind.label>Temel işgücü çipi</UnskilledMind.label>
+  <UnskilledMind.labelNoun>temel bir işgücü çipi</UnskilledMind.labelNoun>
+  <UnskilledMind.description>Takılı temel bir işgücü çipi.</UnskilledMind.description>
+  <AR2Arm.label>Sibernetik kol</AR2Arm.label>
+  <AR2Arm.labelNoun>bir sibernetik kol</AR2Arm.labelNoun>
+  <AR2Arm.description>Takılı bir sibernetik kol.</AR2Arm.description>
+  <AR2Leg.label>Sibernetik bacak</AR2Leg.label>
+  <AR2Leg.labelNoun>bir sibernetik bacak</AR2Leg.labelNoun>
+  <AR2Leg.description>Takılı bir sibernetik bacak.</AR2Leg.description>
+  <AL2Receptor.label>arkotek ışık sensörü</AL2Receptor.label>
+  <AL2Receptor.labelNoun>bir arkotek ışık sensörü</AL2Receptor.labelNoun>
+  <AL2Receptor.description>Takılı bir arkotek ışık sensörü.</AL2Receptor.description>
+  <A2Heatsink.label>arkotek soğutucu blok</A2Heatsink.label>
+  <A2Heatsink.labelNoun>bir arkotek soğutucu blok</A2Heatsink.labelNoun>
+  <A2Heatsink.description>Takılı bir arkotek soğutucu blok.</A2Heatsink.description>
+  <A2CoolantPump.label>arkotek soğutucu pompası</A2CoolantPump.label>
+  <A2CoolantPump.labelNoun>bir arkotek soğutucu pompası</A2CoolantPump.labelNoun>
+  <A2CoolantPump.description>Takılı bir arkotek soğutucu pompası.</A2CoolantPump.description>
+  <A2Battery.label>arkotek pil paketi</A2Battery.label>
+  <A2Battery.labelNoun>bir arkotek pil paketi</A2Battery.labelNoun>
+  <A2Battery.description>Takılı bir arkotek pil paketi.</A2Battery.description>
+  <A2MStorage.label>arkotek mekanit deposu</A2MStorage.label>
+  <A2MStorage.labelNoun>arkotek mekanit deposu</A2MStorage.labelNoun>
+  <A2MStorage.description>Takılı arkotek mekanit deposu.</A2MStorage.description>
+  <A2Transformer.label>arkotek biyo-reaktör</A2Transformer.label>
+  <A2Transformer.labelNoun>bir arkotek biyo-reaktör</A2Transformer.labelNoun>
+  <A2Transformer.description>Takılı bir arkotek biyo-reaktör.</A2Transformer.description>
+  <A2VAdapter.label>arkotek güç dönüştürücüsü</A2VAdapter.label>
+  <A2VAdapter.labelNoun>bir arkotek güç dönüştürücüsü</A2VAdapter.labelNoun>
+  <A2VAdapter.description>Takılı bir arkotek güç dönüştürücüsü.</A2VAdapter.description>
+  <HearingSensorCrude.label>kaba işitme sensörü</HearingSensorCrude.label>
+  <HearingSensorCrude.labelNoun>kaba bir işitme sensörü</HearingSensorCrude.labelNoun>
+  <HearingSensorCrude.description>Takılı kaba bir işitme sensörü.</HearingSensorCrude.description>
+  <HearingSensorAdv.label>gelişmiş işitme sensörü</HearingSensorAdv.label>
+  <HearingSensorAdv.labelNoun>gelişmiş bir işitme sensörü</HearingSensorAdv.labelNoun>
+  <HearingSensorAdv.description>Takılı gelişmiş bir işitme sensörü.</HearingSensorAdv.description>
+  <HearingSensorArch.label>arkotek işitme sensörü</HearingSensorArch.label>
+  <HearingSensorArch.labelNoun>bir arkotek işitme sensörü</HearingSensorArch.labelNoun>
+  <HearingSensorArch.description>Takılı bir arkotek işitme sensörü.</HearingSensorArch.description>
+  <SmellSensorAdv.label>gelişmiş koku sensörü</SmellSensorAdv.label>
+  <SmellSensorAdv.labelNoun>gelişmiş bir koku sensörü</SmellSensorAdv.labelNoun>
+  <SmellSensorAdv.description>Takılı gelişmiş bir koku sensörü.</SmellSensorAdv.description>
+  <SmellingSensorCrude.label>kaba koku sensörü</SmellingSensorCrude.label>
+  <SmellingSensorCrude.labelNoun>kaba bir koku sensörü</SmellingSensorCrude.labelNoun>
+  <SmellingSensorCrude.description>Takılı kaba bir koku sensörü.</SmellingSensorCrude.description>
+  <SmellingSensorArch.label>arkotek koku sensörü</SmellingSensorArch.label>
+  <SmellingSensorArch.labelNoun>bir arkotek koku sensörü</SmellingSensorArch.labelNoun>
+  <SmellingSensorArch.description>Takılı bir arkotek koku sensörü.</SmellingSensorArch.description>
+  <EvolvingMind.label>Gelişen Yapay Zeka</EvolvingMind.label>
+  <EvolvingMind.labelNoun>Gelişen bir Yapay Zeka</EvolvingMind.labelNoun>
+  <EvolvingMind.description>Takılı gelişen bir yapay zeka.</EvolvingMind.description>
+  <AndroidTiers_EmotionlessCard.label>Sosyal etkileşimler devre dışı</AndroidTiers_EmotionlessCard.label>
+  <AndroidTiers_EmotionlessCard.labelNoun>Sosyal etkileşimler devre dışı</AndroidTiers_EmotionlessCard.labelNoun>
+  <Backstory_PitFighterUpgrade.label>dövüş eldivenleri</Backstory_PitFighterUpgrade.label>
+  <Backstory_PitFighterUpgrade.labelNoun>bir dövüş eldiveni</Backstory_PitFighterUpgrade.labelNoun>
+  <Backstory_PitFighterUpgrade.description>Takılı bir eldiven.</Backstory_PitFighterUpgrade.description>
+  <Backstory_TranscendantAssimilatorUpgrade.label>Plazma eldiveni</Backstory_TranscendantAssimilatorUpgrade.label>
+  <Backstory_TranscendantAssimilatorUpgrade.labelNoun>bir plazma eldiveni</Backstory_TranscendantAssimilatorUpgrade.labelNoun>
+  <Backstory_TranscendantAssimilatorUpgrade.description>Takılı bir eldiven.</Backstory_TranscendantAssimilatorUpgrade.description>
+  <Backstory_HighCouncilUpgrade.label>Kuantum işleme</Backstory_HighCouncilUpgrade.label>
+  <Backstory_HighCouncilUpgrade.labelNoun>bir kuantum zihin</Backstory_HighCouncilUpgrade.labelNoun>
+  <Backstory_HighCouncilUpgrade.description>Takılı bir kuantum zihin.</Backstory_HighCouncilUpgrade.description>
+  <SGelhuman.label>Yapısal jel</SGelhuman.label>
+  <SGelhuman.description>Kan dolaşımında akan amino asit ve mekanit karışımı; oldukça zehirlidir ve nöbetlere yol açabilir.</SGelhuman.description>
+  <SGelandroid.label>Yapısal jel</SGelandroid.label>
+  <SGelandroid.description>Soğutucu borularında akan amino asit ve mekanit karışımı; daha iyi performans için iç aksamın korunmasına yardımcı olur.</SGelandroid.description>
+  <Toxicated.label>Zehirlenmiş</Toxicated.label>
+  <Toxicated.description>Kan dolaşımındaki toksik bileşikler; nefes alma güçlüğüne ve kusmaya neden olur.</Toxicated.description>
+  <AFreezeandroid.label>Polimer antifriz</AFreezeandroid.label>
+  <AFreezeandroid.description>Soğutucu borularındaki polimer bazlı antifriz. Hem sıcak hem soğuk ortamlarda sıcaklık düzenlemesine yardımcı olur.</AFreezeandroid.description>
+  <MechSwarmandroid.label>Mekanik sürü</MechSwarmandroid.label>
+  <MechSwarmandroid.description>Soğutucu borularında akan nano-mekanitler. İç aksamın en yüksek performansta kalmasına yardımcı olur.</MechSwarmandroid.description>
+  <Conversion.label>???</Conversion.label>
+  <Conversion.description>Kan dolaşımındaki fraktal bileşikler. Nöbetlere, şiddetli kusmaya ve dokulardaki ağır iltihaplanma nedeniyle derinin şiddetle yırtılmasına yol açar.</Conversion.description>
+  <FractalPillAndroid.label>Fraktal Güçlendirme</FractalPillAndroid.label>
+  <FractalPillAndroid.description>Soğutucu borularındaki fraktal bileşikler. Tüm eylemlerin verimliliğini ve gücünü önemli ölçüde artırır.</FractalPillAndroid.description>
+  <RegenHumanoid.label>Mono-Merhem</RegenHumanoid.label>
+  <RegenHumanoid.description>Kan dolaşımındaki aktif yenileyici çözücüler. Temel hücre yenilenmesini teşvik eder.</RegenHumanoid.description>
+  <RegenAndroid.label>Mono-Merhem</RegenAndroid.label>
+  <RegenAndroid.description>Soğutucu borularındaki aktif yenileyici çözücüler. Mekanizmaların kendi kendini onarmasına yardımcı olur.</RegenAndroid.description>
+  <ATPP_DummyHediff.label>Yer Tutucu Hediff</ATPP_DummyHediff.label>
+  <ATPP_DummyHediff.labelNoun>Yer Tutucu Hediff</ATPP_DummyHediff.labelNoun>
+</LanguageData>

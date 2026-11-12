@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_T4BlankGeneratorAI.label>Android T4 cu rețea neurală goală</ATPP_T4BlankGeneratorAI.label>
+  <ATPP_T4BlankGeneratorAI.description>Creează un android cu rețea neurală goală</ATPP_T4BlankGeneratorAI.description>
+  <ATPP_T3BlankGeneratorAI.label>Android T3 cu rețea neurală goală</ATPP_T3BlankGeneratorAI.label>
+  <ATPP_T3BlankGeneratorAI.description>Creează un android cu rețea neurală goală</ATPP_T3BlankGeneratorAI.description>
+  <ATPP_Android2KTX.label>Android TX2K</ATPP_Android2KTX.label>
+  <ATPP_Android2KTX.description>Un android prototip proiectat pentru a fi utilizat exclusiv pe câmpul de luptă ca infanterie grea, foarte rezistent și care provoacă daune severe corp la corp, însă destul de lent din cauza armurii și incapabil să execute sarcini avansate din cauza procesorului limitat, optimizat în principal pentru luptă.</ATPP_Android2KTX.description>
+  <ATPP_Android2KITX.label>Android TX2KI</ATPP_Android2KITX.label>
+  <ATPP_Android2KITX.description>Un android prototip (fără piele) proiectat pentru a fi utilizat exclusiv pe câmpul de luptă ca infanterie grea, foarte rezistent și care provoacă daune severe corp la corp, însă destul de lent din cauza armurii și incapabil să execute sarcini avansate din cauza procesorului limitat, optimizat în principal pentru luptă.</ATPP_Android2KITX.description>
+  <ATPP_Android2ITX.label>Android TX2I</ATPP_Android2ITX.label>
+  <ATPP_Android2ITX.description>O serie de TX2 recondiționați pentru a fi folosiți ca infanterie pe câmpul de luptă în locul lui T2, în principal datorită fricii inspirate inamicilor organici prin aspectul lor particular.</ATPP_Android2ITX.description>
+  <ATPP_Android3ITX.label>Android TX3I</ATPP_Android3ITX.label>
+  <ATPP_Android3ITX.description>O serie de TX3 recondiționați pentru a fi folosiți ca infanterie pe câmpul de luptă în locul lui T3, în principal datorită fricii inspirate inamicilor organici prin aspectul lor particular.</ATPP_Android3ITX.description>
+  <ATPP_Android4ITX.label>Android TX4I</ATPP_Android4ITX.label>
+  <ATPP_Android4ITX.description>O serie de TX4 recondiționați pentru a fi folosiți ca infanterie pe câmpul de luptă în locul lui T4, în principal datorită fricii inspirate inamicilor organici prin aspectul lor particular.</ATPP_Android4ITX.description>
+  <ATPP_Android4TX.label>Android TX4</ATPP_Android4TX.label>
+  <ATPP_Android4TX.description>O serie specială de T4 proiectată pentru misiuni de infiltrare; endoscheletul său T4 ușor modificat este acoperit cu țesuturi vii care îl împiedică să ruginească, îi oferă un impact social mai bun și imunitate la EMP/erupții solare, fiind însă mai inflamabil.</ATPP_Android4TX.description>
+  <ATPP_Android3TX.label>Android TX3</ATPP_Android3TX.label>
+  <ATPP_Android3TX.description>O serie specială de T3 proiectată pentru misiuni de infiltrare; endoscheletul său T3 ușor modificat este acoperit cu țesuturi vii care îl împiedică să ruginească, îi oferă un impact social mai bun și imunitate la EMP/erupții solare, fiind însă mai inflamabil.</ATPP_Android3TX.description>
+  <ATPP_Android2TX.label>Android TX2</ATPP_Android2TX.label>
+  <ATPP_Android2TX.description>O serie specială de T2 proiectată pentru misiuni de infiltrare; endoscheletul său T2 ușor modificat este acoperit cu o piele din cauciuc sintetic care îl împiedică să ruginească, îi oferă un impact social mai bun și imunitate la EMP/erupții solare, fiind însă mai inflamabil.</ATPP_Android2TX.description>
+  <ATPP_Android2TX.tools.right_fist.label>pumn drept</ATPP_Android2TX.tools.right_fist.label>
+  <ATPP_Android2TX.tools.left_fist.label>pumn stâng</ATPP_Android2TX.tools.left_fist.label>
+  <ATPP_Android2ITX.tools.right_fist.label>pumn drept</ATPP_Android2ITX.tools.right_fist.label>
+  <ATPP_Android2ITX.tools.left_fist.label>pumn stâng</ATPP_Android2ITX.tools.left_fist.label>
+  <ATPP_Android2KITX.tools.right_fist.label>pumn drept</ATPP_Android2KITX.tools.right_fist.label>
+  <ATPP_Android2KITX.tools.left_fist.label>pumn stâng</ATPP_Android2KITX.tools.left_fist.label>
+  <ATPP_Android2KTX.tools.right_fist.label>pumn drept</ATPP_Android2KTX.tools.right_fist.label>
+  <ATPP_Android2KTX.tools.left_fist.label>pumn stâng</ATPP_Android2KTX.tools.left_fist.label>
+  <ATPP_Android3TX.tools.right_fist.label>pumn drept</ATPP_Android3TX.tools.right_fist.label>
+  <ATPP_Android3TX.tools.left_fist.label>pumn stâng</ATPP_Android3TX.tools.left_fist.label>
+  <ATPP_Android3ITX.tools.right_fist.label>pumn drept</ATPP_Android3ITX.tools.right_fist.label>
+  <ATPP_Android3ITX.tools.left_fist.label>pumn stâng</ATPP_Android3ITX.tools.left_fist.label>
+  <ATPP_Android4TX.tools.right_fist.label>pumn drept</ATPP_Android4TX.tools.right_fist.label>
+  <ATPP_Android4TX.tools.left_fist.label>pumn stâng</ATPP_Android4TX.tools.left_fist.label>
+  <ATPP_Android4ITX.tools.right_fist.label>pumn drept</ATPP_Android4ITX.tools.right_fist.label>
+  <ATPP_Android4ITX.tools.left_fist.label>pumn stâng</ATPP_Android4ITX.tools.left_fist.label>
+  <ATPP_TX4AndroidGeneratorAI.label>Android TX4 masculin</ATPP_TX4AndroidGeneratorAI.label>
+  <ATPP_TX4AndroidGeneratorAI.description>Creează un TX4, o serie specială de T4 proiectată pentru misiuni de infiltrare; endoscheletul său T4 ușor modificat este acoperit cu țesuturi vii care îl împiedică să ruginească, îi oferă un impact social mai bun și imunitate la EMP/erupții solare, fiind însă mai inflamabil</ATPP_TX4AndroidGeneratorAI.description>
+  <ATPP_TX4FemaleAndroidGeneratorAI.label>Android TX4 feminin</ATPP_TX4FemaleAndroidGeneratorAI.label>
+  <ATPP_TX4FemaleAndroidGeneratorAI.description>Creează un TX4, o serie specială de T4 proiectată pentru misiuni de infiltrare; endoscheletul său T4 ușor modificat este acoperit cu țesuturi vii care îl împiedică să ruginească, îi oferă un impact social mai bun și imunitate la EMP/erupții solare, fiind însă mai inflamabil</ATPP_TX4FemaleAndroidGeneratorAI.description>
+  <ATPP_TX3AndroidGeneratorAI.label>Android TX3 masculin</ATPP_TX3AndroidGeneratorAI.label>
+  <ATPP_TX3AndroidGeneratorAI.description>Creează un TX3, o serie specială de T3 proiectată pentru misiuni de infiltrare; endoscheletul său T3 ușor modificat este acoperit cu țesuturi vii care îl împiedică să ruginească, îi oferă un impact social mai bun și imunitate la EMP/erupții solare, fiind însă mai inflamabil</ATPP_TX3AndroidGeneratorAI.description>
+  <ATPP_TX3FemaleAndroidGeneratorAI.label>Android TX3 feminin</ATPP_TX3FemaleAndroidGeneratorAI.label>
+  <ATPP_TX3FemaleAndroidGeneratorAI.description>Creează un TX3, o serie specială de T3 proiectată pentru misiuni de infiltrare; endoscheletul său T3 ușor modificat este acoperit cu țesuturi vii care îl împiedică să ruginească, îi oferă un impact social mai bun și imunitate la EMP/erupții solare, fiind însă mai inflamabil</ATPP_TX3FemaleAndroidGeneratorAI.description>
+  <ATPP_TX2AndroidGeneratorAI.label>Android TX2 masculin</ATPP_TX2AndroidGeneratorAI.label>
+  <ATPP_TX2AndroidGeneratorAI.description>Creează un TX2, o serie specială de T2 proiectată pentru misiuni de infiltrare; endoscheletul său T2 ușor modificat este acoperit cu o piele din cauciuc sintetic care îl împiedică să ruginească, îi oferă un impact social mai bun și imunitate la EMP/erupții solare, fiind însă mai inflamabil.</ATPP_TX2AndroidGeneratorAI.description>
+  <ATPP_TX2FemaleAndroidGeneratorAI.label>Android TX2 feminin</ATPP_TX2FemaleAndroidGeneratorAI.label>
+  <ATPP_TX2FemaleAndroidGeneratorAI.description>Creează un TX2, o serie specială de T2 proiectată pentru misiuni de infiltrare; endoscheletul său T2 ușor modificat este acoperit cu o piele din cauciuc sintetic care îl împiedică să ruginească, îi oferă un impact social mai bun și imunitate la EMP/erupții solare, fiind însă mai inflamabil.</ATPP_TX2FemaleAndroidGeneratorAI.description>
+  <ATPP_TX2KAndroidGeneratorAI.label>Android TX2K masculin</ATPP_TX2KAndroidGeneratorAI.label>
+  <ATPP_TX2KAndroidGeneratorAI.description>Creează un TX2K, un android prototip proiectat pentru a fi utilizat exclusiv pe câmpul de luptă ca infanterie grea, foarte rezistent și care provoacă daune severe corp la corp, însă destul de lent din cauza armurii și incapabil să execute sarcini avansate din cauza procesorului limitat, optimizat în principal pentru luptă.</ATPP_TX2KAndroidGeneratorAI.description>
+  <ATPP_TX2KFemaleAndroidGeneratorAI.label>Android TX2K feminin</ATPP_TX2KFemaleAndroidGeneratorAI.label>
+  <ATPP_TX2KFemaleAndroidGeneratorAI.description>Creează un TX2K, un android prototip proiectat pentru a fi utilizat exclusiv pe câmpul de luptă ca infanterie grea, foarte rezistent și care provoacă daune severe corp la corp, însă destul de lent din cauza armurii și incapabil să execute sarcini avansate din cauza procesorului limitat, optimizat în principal pentru luptă.</ATPP_TX2KFemaleAndroidGeneratorAI.description>
+  <ATPP_TX2KIAndroidGeneratorAI.label>Android TX2KI masculin</ATPP_TX2KIAndroidGeneratorAI.label>
+  <ATPP_TX2KIAndroidGeneratorAI.description>Creează un TX2KI, un android prototip proiectat pentru a fi utilizat exclusiv pe câmpul de luptă ca infanterie grea, foarte rezistent și care provoacă daune severe corp la corp, însă destul de lent din cauza armurii și incapabil să execute sarcini avansate din cauza procesorului limitat, optimizat în principal pentru luptă.</ATPP_TX2KIAndroidGeneratorAI.description>
+  <ATPP_TX2KIFemaleAndroidGeneratorAI.label>Android TX2KI feminin</ATPP_TX2KIFemaleAndroidGeneratorAI.label>
+  <ATPP_TX2KIFemaleAndroidGeneratorAI.description>Creează un TX2KI, un android prototip proiectat pentru a fi utilizat exclusiv pe câmpul de luptă ca infanterie grea, foarte rezistent și care provoacă daune severe corp la corp, însă destul de lent din cauza armurii și incapabil să execute sarcini avansate din cauza procesorului limitat, optimizat în principal pentru luptă.</ATPP_TX2KIFemaleAndroidGeneratorAI.description>
+  <ATPP_TX2IAndroidGeneratorAI.label>Android TX2I masculin</ATPP_TX2IAndroidGeneratorAI.label>
+  <ATPP_TX2IAndroidGeneratorAI.description>Creează un TX2I, o serie de TX2 recondiționați pentru a fi folosiți ca infanterie pe câmpul de luptă în locul lui T2, în principal datorită fricii inspirate inamicilor prin aspectul lor particular.</ATPP_TX2IAndroidGeneratorAI.description>
+  <ATPP_TX2IFemaleAndroidGeneratorAI.label>Android TX2I feminin</ATPP_TX2IFemaleAndroidGeneratorAI.label>
+  <ATPP_TX2IFemaleAndroidGeneratorAI.description>Creează un TX2I, o serie de TX2 recondiționați pentru a fi folosiți ca infanterie pe câmpul de luptă în locul lui T2, în principal datorită fricii inspirate inamicilor prin aspectul lor particular.</ATPP_TX2IFemaleAndroidGeneratorAI.description>
+  <ATPP_TX3IAndroidGeneratorAI.label>Android TX3I masculin</ATPP_TX3IAndroidGeneratorAI.label>
+  <ATPP_TX3IAndroidGeneratorAI.description>Creează un TX3I, o serie de TX3 recondiționați pentru a fi folosiți ca infanterie pe câmpul de luptă în locul lui T3, în principal datorită fricii inspirate inamicilor prin aspectul lor particular.</ATPP_TX3IAndroidGeneratorAI.description>
+  <ATPP_TX3IFemaleAndroidGeneratorAI.label>Android TX3I feminin</ATPP_TX3IFemaleAndroidGeneratorAI.label>
+  <ATPP_TX3IFemaleAndroidGeneratorAI.description>Creează un TX3I, o serie de TX3 recondiționați pentru a fi folosiți ca infanterie pe câmpul de luptă în locul lui T3, în principal datorită fricii inspirate inamicilor prin aspectul lor particular.</ATPP_TX3IFemaleAndroidGeneratorAI.description>
+  <ATPP_TX4IAndroidGeneratorAI.label>Android TX4I masculin</ATPP_TX4IAndroidGeneratorAI.label>
+  <ATPP_TX4IAndroidGeneratorAI.description>Creează un TX4I, o serie de TX4 recondiționați pentru a fi folosiți ca infanterie pe câmpul de luptă în locul lui T4, în principal datorită fricii inspirate inamicilor prin aspectul lor particular.</ATPP_TX4IAndroidGeneratorAI.description>
+  <ATPP_TX4IFemaleAndroidGeneratorAI.label>Android TX4I feminin</ATPP_TX4IFemaleAndroidGeneratorAI.label>
+  <ATPP_TX4IFemaleAndroidGeneratorAI.description>Creează un TX4I, o serie de TX4 recondiționați pentru a fi folosiți ca infanterie pe câmpul de luptă în locul lui T4, în principal datorită fricii inspirate inamicilor prin aspectul lor particular.</ATPP_TX4IFemaleAndroidGeneratorAI.description>
+  <ATPP_GSGeneratorTX2KMale.label>TX2K masculin inactiv</ATPP_GSGeneratorTX2KMale.label>
+  <ATPP_GSGeneratorTX2KMale.description>Creează un android surogat.</ATPP_GSGeneratorTX2KMale.description>
+  <ATPP_GSGeneratorTX2KFemale.label>TX2K feminin inactiv</ATPP_GSGeneratorTX2KFemale.label>
+  <ATPP_GSGeneratorTX2KFemale.description>Creează un android surogat.</ATPP_GSGeneratorTX2KFemale.description>
+  <ATPP_GSGeneratorTX2KMaleSurrogate.label>TX2K masculin inactiv</ATPP_GSGeneratorTX2KMaleSurrogate.label>
+  <ATPP_GSGeneratorTX2KMaleSurrogate.description>Creează un android surogat.</ATPP_GSGeneratorTX2KMaleSurrogate.description>
+  <ATPP_GSGeneratorTX2KFemaleSurrogate.label>TX2K feminin inactiv</ATPP_GSGeneratorTX2KFemaleSurrogate.label>
+  <ATPP_GSGeneratorTX2KFemaleSurrogate.description>Creează un android surogat.</ATPP_GSGeneratorTX2KFemaleSurrogate.description>
+  <ATPP_GSGeneratorTX3Male.label>TX3 masculin inactiv</ATPP_GSGeneratorTX3Male.label>
+  <ATPP_GSGeneratorTX3Male.description>Creează un android surogat.</ATPP_GSGeneratorTX3Male.description>
+  <ATPP_GSGeneratorTX3Female.label>TX3 feminin inactiv</ATPP_GSGeneratorTX3Female.label>
+  <ATPP_GSGeneratorTX3Female.description>Creează un android surogat.</ATPP_GSGeneratorTX3Female.description>
+  <ATPP_GSGeneratorTX3MaleSurrogate.label>TX3 masculin inactiv</ATPP_GSGeneratorTX3MaleSurrogate.label>
+  <ATPP_GSGeneratorTX3MaleSurrogate.description>Creează un android surogat.</ATPP_GSGeneratorTX3MaleSurrogate.description>
+  <ATPP_GSGeneratorTX3FemaleSurrogate.label>TX3 feminin inactiv</ATPP_GSGeneratorTX3FemaleSurrogate.label>
+  <ATPP_GSGeneratorTX3FemaleSurrogate.description>Creează un android surogat.</ATPP_GSGeneratorTX3FemaleSurrogate.description>
+  <ATPP_GSGeneratorTX4Male.label>TX4 masculin inactiv</ATPP_GSGeneratorTX4Male.label>
+  <ATPP_GSGeneratorTX4Male.description>Creează un android surogat.</ATPP_GSGeneratorTX4Male.description>
+  <ATPP_GSGeneratorTX4Female.label>TX4 feminin inactiv</ATPP_GSGeneratorTX4Female.label>
+  <ATPP_GSGeneratorTX4Female.description>Creează un android surogat.</ATPP_GSGeneratorTX4Female.description>
+  <ATPP_GSGeneratorTX4MaleSurrogate.label>TX4 masculin inactiv</ATPP_GSGeneratorTX4MaleSurrogate.label>
+  <ATPP_GSGeneratorTX4MaleSurrogate.description>Creează un android surogat.</ATPP_GSGeneratorTX4MaleSurrogate.description>
+  <ATPP_GSGeneratorTX4FemaleSurrogate.label>TX4 feminin inactiv</ATPP_GSGeneratorTX4FemaleSurrogate.label>
+  <ATPP_GSGeneratorTX4FemaleSurrogate.description>Creează un android surogat.</ATPP_GSGeneratorTX4FemaleSurrogate.description>
+  <ATPP_SX2SurrogateGeneratorAI.label>Android surogat SX2 masculin</ATPP_SX2SurrogateGeneratorAI.label>
+  <ATPP_SX2SurrogateGeneratorAI.description>Creează un android surogat.</ATPP_SX2SurrogateGeneratorAI.description>
+  <ATPP_SX2FemaleSurrogateGeneratorAI.label>Android surogat SX2 feminin</ATPP_SX2FemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2FemaleSurrogateGeneratorAI.description>Creează un android surogat.</ATPP_SX2FemaleSurrogateGeneratorAI.description>
+  <ATPP_SX2ISurrogateGeneratorAI.label>Android surogat SX2I masculin</ATPP_SX2ISurrogateGeneratorAI.label>
+  <ATPP_SX2ISurrogateGeneratorAI.description>Creează un android surogat.</ATPP_SX2ISurrogateGeneratorAI.description>
+  <ATPP_SX2IFemaleSurrogateGeneratorAI.label>Android surogat SX2I feminin</ATPP_SX2IFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2IFemaleSurrogateGeneratorAI.description>Creează un android surogat.</ATPP_SX2IFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX2KSurrogateGeneratorAI.label>Android surogat SX2K masculin</ATPP_SX2KSurrogateGeneratorAI.label>
+  <ATPP_SX2KSurrogateGeneratorAI.description>Creează un android surogat.</ATPP_SX2KSurrogateGeneratorAI.description>
+  <ATPP_SX2KFemaleSurrogateGeneratorAI.label>Android surogat SX2K feminin</ATPP_SX2KFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2KFemaleSurrogateGeneratorAI.description>Creează un android surogat.</ATPP_SX2KFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX2KISurrogateGeneratorAI.label>Android surogat SX2KI masculin</ATPP_SX2KISurrogateGeneratorAI.label>
+  <ATPP_SX2KISurrogateGeneratorAI.description>Creează un android surogat.</ATPP_SX2KISurrogateGeneratorAI.description>
+  <ATPP_SX2KIFemaleSurrogateGeneratorAI.label>Android surogat SX2KI feminin</ATPP_SX2KIFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX2KIFemaleSurrogateGeneratorAI.description>Creează un android surogat.</ATPP_SX2KIFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX3SurrogateGeneratorAI.label>Android surogat SX3 masculin</ATPP_SX3SurrogateGeneratorAI.label>
+  <ATPP_SX3SurrogateGeneratorAI.description>Creează un android surogat.</ATPP_SX3SurrogateGeneratorAI.description>
+  <ATPP_SX3FemaleSurrogateGeneratorAI.label>Android surogat SX3 feminin</ATPP_SX3FemaleSurrogateGeneratorAI.label>
+  <ATPP_SX3FemaleSurrogateGeneratorAI.description>Creează un android surogat.</ATPP_SX3FemaleSurrogateGeneratorAI.description>
+  <ATPP_SX3ISurrogateGeneratorAI.label>Android surogat SX3I masculin</ATPP_SX3ISurrogateGeneratorAI.label>
+  <ATPP_SX3ISurrogateGeneratorAI.description>Creează un android surogat.</ATPP_SX3ISurrogateGeneratorAI.description>
+  <ATPP_SX3IFemaleSurrogateGeneratorAI.label>Android surogat SX3I feminin</ATPP_SX3IFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX3IFemaleSurrogateGeneratorAI.description>Creează un android surogat.</ATPP_SX3IFemaleSurrogateGeneratorAI.description>
+  <ATPP_SX4SurrogateGeneratorAI.label>Android surogat SX4 masculin</ATPP_SX4SurrogateGeneratorAI.label>
+  <ATPP_SX4SurrogateGeneratorAI.description>Creează un android surogat.</ATPP_SX4SurrogateGeneratorAI.description>
+  <ATPP_SX4FemaleSurrogateGeneratorAI.label>Android surogat SX4 feminin</ATPP_SX4FemaleSurrogateGeneratorAI.label>
+  <ATPP_SX4FemaleSurrogateGeneratorAI.description>Creează un android surogat.</ATPP_SX4FemaleSurrogateGeneratorAI.description>
+  <ATPP_SX4ISurrogateGeneratorAI.label>Android surogat SX4I masculin</ATPP_SX4ISurrogateGeneratorAI.label>
+  <ATPP_SX4ISurrogateGeneratorAI.description>Creează un android surogat.</ATPP_SX4ISurrogateGeneratorAI.description>
+  <ATPP_SX4IFemaleSurrogateGeneratorAI.label>Android surogat SX4I feminin</ATPP_SX4IFemaleSurrogateGeneratorAI.label>
+  <ATPP_SX4IFemaleSurrogateGeneratorAI.description>Creează un android surogat.</ATPP_SX4IFemaleSurrogateGeneratorAI.description>
+
+</LanguageData>
